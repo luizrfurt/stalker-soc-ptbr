@@ -2,11 +2,11 @@ Traduza o xml acima do ingles para o português brasil, usando o contexto do jog
 Não utilize letras com acentuação, como por exemplo o "á" e "õ" (faça com todas as vogais, maiusculas e minusculas),
 troque-as eplas respectivas letras sem acentuação, como por exemplo "a" e "o" (faça com todas as vogais, maiusculas e minusculas).
 Ao traduzir, siga a orientação abaixo:
-Loner para Solitario; Duty para Dever; Freedom para Liberdade; Merc para Merc; Bandit para Bandido;
-Ecologist para Ecologista; Cordon para Cordon; Garbage para Lixao; Agroprom Research Institute para Instituto de Pesquisa Agroprom;
-The Dark Valley para Vale Sombrio; Bar para Bar; Wild Territory para Territorio Selvagem; Army warehouses para Armazens do Exercito;
-Yantar para Yantar; Red forest para Floresta Vermelha; Pripyat para Pripyat; Chernobyl NPP para Usina Nuclear de Chernobyl;
-Military para Militar; Monolith para Monolito; Agroprom Underground para Agroprom Subsolo; Lab X-18 para Laboratorio X-18;
-Lab X-16 para Laboratorio X-16; Lab X-10 para Laboratorio X-10; Sarcophagus para Sarcofago;
-Task para Missao; State para Condicao (quando o conceito for de durabilidade de item);
-Ao seguir a orientação acima, cuide se alguma palavra não deriva da tradução, exemplo: Duty vira Dever e Dutyer vira Deverista, entre outros.
+
+Não traduza nome de lugares e facções do jogo, são eles:
+Stalker, Loner; Duty; Freedom; Merc; Bandit; Ecologist; Cordon; The Garbage (ou Garbage);
+Agroprom Research Institute; The Dark Valley (ou Dark Valley); Bar; Wild Territory;
+Army warehouses;Yantar; Red forest; Pripyat; Chernobyl NPP;Military; Monolith;
+Agroprom Underground; Lab X-18;Lab X-16; Lab X-10; Sarcophagus; Brain Scorcher
+
+Traduza sempre: Task para Missao

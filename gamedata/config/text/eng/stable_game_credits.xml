@@ -7,7 +7,7 @@
 		<text>Produtor</text>
 	</string>
 	<string id="st_gsc">
-		<text>Sergiy “-GSC-” Grygorovych</text>
+		<text>Sergiy ï¿½-GSC-ï¿½ Grygorovych</text>
 	</string>
 	<string id="st_project_lead">
 		<text>Lider do Projeto</text>
@@ -19,7 +19,7 @@
 		<text>Lider de Design</text>
 	</string>
 	<string id="st_prokhorov">
-		<text>Andrew “Prof” Prokhorov</text>
+		<text>Andrew ï¿½Profï¿½ Prokhorov</text>
 	</string>
 	<string id="st_yuriy_negrobov">
 		<text>Yuriy Negrobov</text>
@@ -49,7 +49,7 @@
 		<text>Design</text>
 	</string>
 	<string id="st_tkachenko">
-		<text>Andrew “Rainbow”</text>
+		<text>Andrew ï¿½Rainbowï¿½</text>
 	</string>
 	<string id="st_tkachenko2">
 		<text>Tkachenko</text>
@@ -79,7 +79,7 @@
 		<text>Zaitsev</text>
 	</string>
 	<string id="st_pavlenko">
-		<text>Alexander “SU-27”</text>
+		<text>Alexander ï¿½SU-27ï¿½</text>
 	</string>
 	<string id="st_pavlenko2">
 		<text>Pavlenko</text>
@@ -103,25 +103,25 @@
 		<text>Suprun</text>
 	</string>
 	<string id="st_karmalskiy">
-		<text>Sergiy “Karma”</text>
+		<text>Sergiy ï¿½Karmaï¿½</text>
 	</string>
 	<string id="st_karmalskiy2">
 		<text>Karmalskiy</text>
 	</string>
 	<string id="st_petrovskiy">
-		<text>Yuriy “Jip”</text>
+		<text>Yuriy ï¿½Jipï¿½</text>
 	</string>
 	<string id="st_petrovskiy2">
 		<text>Petrovskiy</text>
 	</string>
 	<string id="st_shelekhov">
-		<text>Maxim “ghouL”</text>
+		<text>Maxim ï¿½ghouLï¿½</text>
 	</string>
 	<string id="st_shelekhov2">
 		<text>Shelekhov</text>
 	</string>
 	<string id="st_pshenichniy">
-		<text>Alexander “LEX”</text>
+		<text>Alexander ï¿½LEXï¿½</text>
 	</string>
 	<string id="st_pshenichniy2">
 		<text>Pshenichniy</text>
@@ -133,7 +133,7 @@
 		<text>Grabovskiy</text>
 	</string>
 	<string id="st_karpenko">
-		<text>Eugene “Frodo”</text>
+		<text>Eugene ï¿½Frodoï¿½</text>
 	</string>
 	<string id="st_karpenko2">
 		<text>Karpenko</text>
@@ -178,7 +178,7 @@
 		<text>Modelos</text>
 	</string>
 	<string id="st_goncharenko">
-		<text>Slava “Glory”</text>
+		<text>Slava ï¿½Gloryï¿½</text>
 	</string>
 	<string id="st_goncharenko2">
 		<text>Goncharenko</text>
@@ -397,13 +397,13 @@
 		<text>Sityanov</text>
 	</string>
 	<string id="st_aristov">
-		<text>Vyacheslav “must_die”</text>
+		<text>Vyacheslav ï¿½must_dieï¿½</text>
 	</string>
 	<string id="st_aristov2">
 		<text>Aristov</text>
 	</string>
 	<string id="st_veretiannikov">
-		<text>Ivan „E1“</text>
+		<text>Ivan ï¿½E1ï¿½</text>
 	</string>
 	<string id="st_veretiannikov2">
 		<text>Veretiannikov</text>
@@ -439,7 +439,7 @@
 		<text>Kuzmin</text>
 	</string>
 	<string id="st_lekhno">
-		<text>Dmitriy „Krondor“</text>
+		<text>Dmitriy ï¿½Krondorï¿½</text>
 	</string>
 	<string id="st_lekhno2">
 		<text>Lekhno</text>
@@ -484,7 +484,7 @@
 		<text>DEPARTAMENTO DE LOCALIZACAO</text>
 	</string>
 	<string id="st_kuchma">
-		<text>Eugene ‘Smile’ Kuchma</text>
+		<text>Eugene ï¿½Smileï¿½ Kuchma</text>
 	</string>
 	<string id="st_litvinenko">
 		<text>Vladimir Litvinenko</text>
@@ -526,16 +526,16 @@
 		<text>DEPARTAMENTO DE PR</text>
 	</string>
 	<string id="st_yavorsky">
-		<text>Oleg ‘Yava’ Yavorsky</text>
+		<text>Oleg ï¿½Yavaï¿½ Yavorsky</text>
 	</string>
 	<string id="st_yeltyshev">
-		<text>Valentin ‘Atem’ Yeltyshev</text>
+		<text>Valentin ï¿½Atemï¿½ Yeltyshev</text>
 	</string>
 	<string id="st_ananyev">
-		<text>Denis ‘Blackbird’ Ananyev</text>
+		<text>Denis ï¿½Blackbirdï¿½ Ananyev</text>
 	</string>
 	<string id="st_besarab">
-		<text>Yury ‘Gagarin’ Besarab</text>
+		<text>Yury ï¿½Gagarinï¿½ Besarab</text>
 	</string>
 	<string id="st_terlyuk">
 		<text>Sergey Terlyuk</text>
@@ -1949,7 +1949,7 @@
 		<text>Alexander Novikov, Igor Gramotkin</text>
 	</string>
 	<string id="st_thanks_chernobyl2">
-		<text>e o resto da equipe da Usina Nuclear de Chernobyl</text>
+		<text>e o resto da equipe da Chernobyl NPP</text>
 	</string>
 	<string id="st_thanks_chernobyl3">
 		<text>e administracao pelo apoio</text>
@@ -1988,7 +1988,7 @@
 		<text>Thomas Boecker, Markus Holler</text>
 	</string>
 	<string id="st_thanks_merregnon2">
-		<text>e o resto dos Studios Merregnon®</text>
+		<text>e o resto dos Studios Merregnonï¿½</text>
 	</string>
 	<string id="st_thanks_merregnon3">
 		<text>(http://merregnon-studios.com/)</text>
@@ -2012,10 +2012,10 @@
 		<text>-= FAN-BASE! =-</text>
 	</string>
 	<string id="st_thanks_fanbase2">
-		<text>Agradecemos de coracao Waquar “HeadHunter” Tariq,</text>
+		<text>Agradecemos de coracao Waquar ï¿½HeadHunterï¿½ Tariq,</text>
 	</string>
 	<string id="st_thanks_fanbase3">
-		<text>Alexey “Don Reba” Badalov, Emile aka Redrick,</text>
+		<text>Alexey ï¿½Don Rebaï¿½ Badalov, Emile aka Redrick,</text>
 	</string>
 	<string id="st_thanks_fanbase4">
 		<text>Peter Sjoberg, Pixel, Michi, nasa800, LPKorn3324,</text>
@@ -2052,7 +2052,7 @@
 		<text>Yan Oleshkovskiy aka Mad Dog, Samael aka Arimanov, RVCool,</text>
 	</string>
 	<string id="st_thanks_fanbase15">
-		<text>Lestat, Sergey Pivin, Gall, Critic, Dmitriy “DoN Rumata” Kozlov,</text>
+		<text>Lestat, Sergey Pivin, Gall, Critic, Dmitriy ï¿½DoN Rumataï¿½ Kozlov,</text>
 	</string>
 	<string id="st_thanks_fanbase16">
 		<text>Kondratiev S.A., Dmitriy Kalinin, Max Tarasov, Andrey Rogozin aka Raga,</text>

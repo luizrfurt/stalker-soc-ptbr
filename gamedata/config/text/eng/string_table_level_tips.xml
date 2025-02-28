@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="windows-1251" ?>
 <string_table>
 	<string id="bar_rostok">
-		<text>Territorio Selvagem - Rostok</text>
+		<text>Wild Territory - Rostok</text>
 	</string>
 	<string id="car_character_use">
 		<text>Abrir a porta ($$ACTION_USE$$)</text>
@@ -55,37 +55,37 @@
 		<text>Fechadura numerica ($$ACTION_USE$$)</text>
 	</string>
 	<string id="to_aes">
-		<text>Para a Usina Nuclear de Chernobyl</text>
+		<text>Para Chernobyl NPP</text>
 	</string>
 	<string id="to_agroprom">
-		<text>Para o Instituto de Pesquisa Agroprom</text>
+		<text>Para o Agroprom Research Institute</text>
 	</string>
 	<string id="to_agroprom_underground">
-		<text>Para o Agroprom Subsolo</text>
+		<text>Para o Agroprom Underground</text>
 	</string>
 	<string id="to_bar">
 		<text>Para Rostok</text>
 	</string>
 	<string id="to_darkvalley">
-		<text>Para o Vale Sombrio</text>
+		<text>Para o Dark Valley</text>
 	</string>
 	<string id="to_escape">
 		<text>Para o Cordon</text>
 	</string>
 	<string id="to_garbage">
-		<text>Para o Lixao</text>
+		<text>Para o Garbage</text>
 	</string>
 	<string id="to_military">
-		<text>Para os Armazens do Exercito</text>
+		<text>Para o Army warehouses</text>
 	</string>
 	<string id="to_pripyat">
 		<text>Para Pripyat</text>
 	</string>
 	<string id="to_radar">
-		<text>Para o Esganador de Cerebros</text>
+		<text>Para o Brain Scorcher</text>
 	</string>
 	<string id="to_rostok">
-		<text>Para o Territorio Selvagem</text>
+		<text>Para o Wild Territory</text>
 	</string>
 	<string id="to_yantar">
 		<text>Para Yantar</text>

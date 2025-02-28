@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="windows-1251" ?>
 <string_table>
 	<string id="actor">
-		<text>Solitario</text>
+		<text>Loner</text>
 	</string>
 	<string id="actor_dolg">
-		<text>Dever</text>
+		<text>Duty</text>
 	</string>
 	<string id="actor_freedom">
-		<text>Liberdade</text>
+		<text>Freedom</text>
 	</string>
 	<string id="arena_enemy">
 		<text>Merc</text>
@@ -16,13 +16,13 @@
 		<text>ruim</text>
 	</string>
 	<string id="bandit">
-		<text>Bandido</text>
+		<text>Bandit</text>
 	</string>
 	<string id="dolg">
-		<text>Dever</text>
+		<text>Duty</text>
 	</string>
 	<string id="ecolog">
-		<text>Ecologista</text>
+		<text>Ecologist</text>
 	</string>
 	<string id="enemy">
 		<text>inimigo</text>
@@ -40,7 +40,7 @@
 		<text>PDA Encontrado</text>
 	</string>
 	<string id="freedom">
-		<text>Liberdade</text>
+		<text>Freedom</text>
 	</string>
 	<string id="friendly">
 		<text>amigo</text>
@@ -58,46 +58,46 @@
 		<text>Cordon</text>
 	</string>
 	<string id="l02_garbage">
-		<text>Lixao</text>
+		<text>Garbage</text>
 	</string>
 	<string id="l03_agroprom">
-		<text>Instituto de Pesquisa Agroprom</text>
+		<text>Agroprom Research Institute</text>
 	</string>
 	<string id="l04_darkvalley">
-		<text>Vale Sombrio</text>
+		<text>Dark Valley</text>
 	</string>
 	<string id="l05_bar">
 		<text>Bar</text>
 	</string>
 	<string id="l06_rostok">
-		<text>Territorio Selvagem</text>
+		<text>Wild Territory</text>
 	</string>
 	<string id="l07_military">
-		<text>Armazens do Exercito</text>
+		<text>Army warehouses</text>
 	</string>
 	<string id="l08_yantar">
 		<text>Yantar</text>
 	</string>
 	<string id="l10_radar">
-		<text>Floresta Vermelha</text>
+		<text>Red forest</text>
 	</string>
 	<string id="l11_pripyat">
 		<text>Pripyat</text>
 	</string>
 	<string id="l12_stancia">
-		<text>Usina Nuclear de Chernobyl</text>
+		<text>Chernobyl NPP</text>
 	</string>
 	<string id="l12_stancia_2">
-		<text>Usina Nuclear de Chernobyl</text>
+		<text>Chernobyl NPP</text>
 	</string>
 	<string id="master">
 		<text>especialista</text>
 	</string>
 	<string id="military">
-		<text>Militar</text>
+		<text>Military</text>
 	</string>
 	<string id="monolith">
-		<text>Monolito</text>
+		<text>Monolith</text>
 	</string>
 	<string id="neutral">
 		<text>neutro</text>
@@ -112,7 +112,7 @@
 		<text>Tempo ate a explosao</text>
 	</string>
 	<string id="stalker">
-		<text>Solitario</text>
+		<text>Loner</text>
 	</string>
 	<string id="terrible">
 		<text>terrivel</text>
@@ -229,24 +229,24 @@
 		<text>Votacao bem-sucedida!</text>
 	</string>
 	<string id="st_mp_voting_failed">
-		<text>Votacao falhou!</text>
+		<text>Votacao fracassada!</text>
 	</string>
 	<string id="l03u_agr_underground">
-		<text>Agroprom Subsolo</text>
+		<text>Agroprom Underground</text>
 	</string>
 	<string id="l04u_labx18">
-		<text>Laboratorio X-18</text>
+		<text>Lab X-18</text>
 	</string>
 	<string id="l08u_brainlab">
-		<text>Laboratorio X-16</text>
+		<text>Lab X-16</text>
 	</string>
 	<string id="l10u_bunker">
-		<text>Laboratorio X-10</text>
+		<text>Lab X-10</text>
 	</string>
 	<string id="l12u_sarcofag">
-		<text>Sarcofago</text>
+		<text>Sarcophagus</text>
 	</string>
 	<string id="l12u_control_monolith">
-		<text>Controle do Monolito</text>
+		<text>Controle do Monolith</text>
 	</string>
 </string_table>
