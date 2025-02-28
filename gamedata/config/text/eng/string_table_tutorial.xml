@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="binoc_tutorial">
+		<text>Para usar os binoculos, selecione-os ($$ACTION_wpn_5$$) e pressione "disparar" para dar zoom.</text>
+	</string>
+	<string id="binocular">
+		<text>Binoculos</text>
+	</string>
+	<string id="crouch">
+		<text>Abaixar-se</text>
+	</string>
+	<string id="crouch_down_tutorial">
+		<text>Para se agachar ainda mais, pressione ($$ACTION_crouch$$) + (Shift)</text>
+	</string>
+	<string id="crouch_tutorial">
+		<text>Para se agachar, pressione ($$ACTION_crouch$$). Para se agachar ainda mais, pressione ($$ACTION_crouch$$) + ($$ACTION_accel$$)</text>
+	</string>
+	<string id="hide_weapon">
+		<text>Selecionar arma</text>
+	</string>
+	<string id="hide_weapon_tutorial">
+		<text>Alguns stalkers nao vao querer conversar se voce colocar a arma na cara deles. Para esconder sua arma, basta selecionar um parafuso. ($$ACTION_wpn_6$$).</text>
+	</string>
+	<string id="jump">
+		<text>Pular</text>
+	</string>
+	<string id="jump_tutorial">
+		<text>Os pulos vao ajudar a subir sobre barreiras medias. Para pular, pressione ($$ACTION_jump$$)</text>
+	</string>
+	<string id="move_tutorial">
+		<text>Tipos de movimento.</text>
+	</string>
+	<string id="overload">
+		<text>Pesado</text>
+	</string>
+	<string id="overload_tutorial">
+		<text>Voce nao e um burro de carga, entao ha um limite para o quanto voce pode carregar. Quando o peso do seu equipamento exceder seus limites, voce comecara a perder energia muito rapidamente. Voce pode monitorar o peso atual do seu equipamento e o peso maximo que pode carregar no seu inventario.</text>
+	</string>
+	<string id="radiation">
+		<text>Radiacao</text>
+	</string>
+	<string id="radiation_tutorial">
+		<text>Quando o personagem usa um artefato radioativo no cinto ou entra em uma area com alto nivel de radiacao de fundo, ele comeca a perder saude e apresenta sinais de envenenamento por radiacao. O efeito da radiacao pode ser contrabalançado usando medicamentos anti-radiacao e vodka.</text>
+	</string>
+	<string id="relation">
+		<text>Atitude</text>
+	</string>
+	<string id="relation_tutorial">
+		<text>Ao ajudar outros personagens, voce melhora a atitude deles em relacao a voce, bem como sua reputacao geral. Melhor atitude e reputacao mais alta ajudam ao interagir com as pessoas que voce encontra. Elas tendem a dar informacoes adicionais e vender seus itens mais baratos se voce estiver nas boas com elas. Por outro lado, se voce abrir fogo contra alguem, a atitude deles em relacao a voce rapidamente se tornara negativa, assim como a dos amigos deles, e eles vao te atacar.</text>
+	</string>
+	<string id="sleep_tutorial">
+		<text>Este e um bom lugar para dormir. Aqui voce pode ter uma boa noite de sono, esperar passar a noite ou simplesmente matar o tempo. Para dormir, abra o Inventario, defina o tempo que deseja descansar e pressione o botao Descansar. Seu personagem acordara no horario determinado. As vezes, ele tera sonhos.</text>
+	</string>
+	<string id="sprint">
+		<text>Correr</text>
+	</string>
+	<string id="sprint_tutorial">
+		<text>As vezes voce vai precisar correr mais rapido do que o normal. Para isso, pressione ($$ACTION_sprint_toggle$$) enquanto corre. Um personagem correndo mais rapido vai correr mais longe e pular mais alto, mas se cansara mais rapido e nao conseguira atirar.</text>
+	</string>
+	<string id="starvation_tutorial">
+		<text>Se o personagem nao comer por um tempo, ele vai ficar com fome. A menos que encontre algo para comer, ele comecara a perder saude. Para evitar isso, o personagem precisa comer regularmente. Um pedaço de pao, comida enlatada ou um pedaço de linguiça resolvem o problema rapidamente, pelo menos por um tempo.</text>
+	</string>
+	<string id="tutorial">
+		<text>Treinamento</text>
+	</string>
+	<string id="weakness">
+		<text>Fadiga</text>
+	</string>
+	<string id="weakness_tutorial">
+		<text>Correr por um periodo prolongado causa fadiga. Quando o personagem ficar exausto, ele nao podera correr e se movera em ritmo de caminhada. Quanto mais o personagem estiver carregando, mais rapido ele vai se cansar. Ficar parado por alguns segundos ja e o suficiente para se recuperar.</text>
+	</string>
+	<string id="weapon">
+		<text>Condicao da arma</text>
+	</string>
+	<string id="weapon_tutorial">
+		<text>Todas as armas tem um parametro de durabilidade. Quanto menor a durabilidade de uma arma, mais frequentemente ela travara. Para destravar, recarregue a arma pressionando $$ACTION_wpn_reload$$. A durabilidade da arma diminui com o uso. Uma arma pode se tornar completamente inutil se for atingida por balas.</text>
+	</string>
+	<string id="wound">
+		<text>Feridas abertas</text>
+	</string>
+	<string id="wound_tutorial">
+		<text>Quando o personagem e atingido, ele pode comecar a sangrar. O sangramento faz o personagem perder saude constantemente. Quanto mais grave o sangramento (um icone verde significa sangramento leve, um icone vermelho indica uma hemorragia grave), mais rapido ele perde saude. O sangramento eventualmente vai parar com o tempo, mas ate mesmo hemorragias graves podem ser interrompidas imediatamente com o uso de ataduras.</text>
+	</string>
+	<string id="pda_diary_tutorial">
+		<text>No PDA do stalker falecido, voce encontrou suas observacoes apos as anomalias nos tunel. Descobriu-se que ele descobriu a regularidade de seu funcionamento. Voce pode ler essas informacoes no seu PDA na sessao "Diario".</text>
+	</string>
+</string_table>
