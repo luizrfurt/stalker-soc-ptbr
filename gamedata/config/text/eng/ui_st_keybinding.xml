@@ -4,7 +4,7 @@
 		<text>Missoes ativas no PDA</text>
 	</string>
 	<string id="kb_always_run">
-		<text>Abaixado baixo</text>
+		<text>Abaixado</text>
 	</string>
 	<string id="kb_artefact">
 		<text>Artefato</text>
@@ -85,7 +85,7 @@
 		<text>Esquerda</text>
 	</string>
 	<string id="kb_left_lookout">
-		<text>Iniciar para a esquerda</text>
+		<text>Inclinar para a esquerda</text>
 	</string>
 	<string id="kb_left_strafe">
 		<text>Deslocar para a esquerda</text>
