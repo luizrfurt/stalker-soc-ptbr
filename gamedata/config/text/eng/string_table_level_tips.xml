@@ -58,10 +58,10 @@
 		<text>Para Chernobyl NPP</text>
 	</string>
 	<string id="to_agroprom">
-		<text>Para o Agroprom Research Institute</text>
+		<text>Para o Instituto de Pesquisa Agroprom</text>
 	</string>
 	<string id="to_agroprom_underground">
-		<text>Para o Agroprom Underground</text>
+		<text>Para o Agroprom Subsolo</text>
 	</string>
 	<string id="to_bar">
 		<text>Para Rostok</text>
@@ -73,10 +73,10 @@
 		<text>Para o Cordon</text>
 	</string>
 	<string id="to_garbage">
-		<text>Para o Garbage</text>
+		<text>Para o Lixao</text>
 	</string>
 	<string id="to_military">
-		<text>Para o Army warehouses</text>
+		<text>Para o Armazens militares</text>
 	</string>
 	<string id="to_pripyat">
 		<text>Para Pripyat</text>

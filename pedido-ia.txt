@@ -3,10 +3,14 @@ Não utilize letras com acentuação, como por exemplo o "á" e "õ" (faça com 
 troque-as eplas respectivas letras sem acentuação, como por exemplo "a" e "o" (faça com todas as vogais, maiusculas e minusculas).
 Ao traduzir, siga a orientação abaixo:
 
-Não traduza nome de lugares e facções do jogo, são eles:
-Stalker, Loner; Duty; Freedom; Merc; Bandit; Ecologist; Cordon; The Garbage (ou Garbage);
-Agroprom Research Institute; The Dark Valley (ou Dark Valley); Bar; Wild Territory;
-Army warehouses;Yantar; Red forest; Pripyat; Chernobyl NPP;Military; Monolith;
-Agroprom Underground; Lab X-18;Lab X-16; Lab X-10; Sarcophagus; Brain Scorcher
+Traduza nome de lugares e facções do jogo, são eles:
+Stalker para Stalker; Loner para Loner; Duty para Duty; Freedom para Freedom; Merc para Merc;
+Cordon para Cordon; The Garbage ou Garbage para Lixao; Agroprom Research Institute para Instituto de Pesquisa Agroprom;
+The Dark Valley ou Dark Valley para Dark Valley; Bar para Bar; Wild Territory para Wild Territory;
+Dead City para Dead City; Army warehouses para Armazens militares; Yantar para Yantar; Red forest para Red forest;
+Pripyat para Prypiat; Chernobyl NPP para Chernobyl NPP; Monolith para Monolith; Agroprom Underground para Agroprom Subsolo;
+Lab X-18 para Lab X-18; Lab X-16 para Lab X-16; Lab X-10 para Lab X-10; Sarcophagus para Sarcofago;
+Brain Scorcher para Brain Scorcher;
 
-Traduza sempre: Task para Missao
+Traduza sempre: Task para Missao; Flash drive para Pendrive; Lockpick para Arrombador; Energy drink para Energetico;
+Spetsnaz para Forcas Especiais;

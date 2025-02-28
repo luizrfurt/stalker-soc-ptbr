@@ -16,13 +16,13 @@
 		<text>ruim</text>
 	</string>
 	<string id="bandit">
-		<text>Bandit</text>
+		<text>Bandido</text>
 	</string>
 	<string id="dolg">
 		<text>Duty</text>
 	</string>
 	<string id="ecolog">
-		<text>Ecologist</text>
+		<text>Ecologista</text>
 	</string>
 	<string id="enemy">
 		<text>inimigo</text>
@@ -58,10 +58,10 @@
 		<text>Cordon</text>
 	</string>
 	<string id="l02_garbage">
-		<text>Garbage</text>
+		<text>Lixao</text>
 	</string>
 	<string id="l03_agroprom">
-		<text>Agroprom Research Institute</text>
+		<text>Instituto de Pesquisa Agroprom</text>
 	</string>
 	<string id="l04_darkvalley">
 		<text>Dark Valley</text>
@@ -73,7 +73,7 @@
 		<text>Wild Territory</text>
 	</string>
 	<string id="l07_military">
-		<text>Army warehouses</text>
+		<text>Armazens militares</text>
 	</string>
 	<string id="l08_yantar">
 		<text>Yantar</text>
@@ -94,7 +94,7 @@
 		<text>especialista</text>
 	</string>
 	<string id="military">
-		<text>Military</text>
+		<text>Militar</text>
 	</string>
 	<string id="monolith">
 		<text>Monolith</text>
@@ -232,7 +232,7 @@
 		<text>Votacao fracassada!</text>
 	</string>
 	<string id="l03u_agr_underground">
-		<text>Agroprom Underground</text>
+		<text>Agroprom Subsolo</text>
 	</string>
 	<string id="l04u_labx18">
 		<text>Lab X-18</text>
@@ -244,7 +244,7 @@
 		<text>Lab X-10</text>
 	</string>
 	<string id="l12u_sarcofag">
-		<text>Sarcophagus</text>
+		<text>Sarcofago</text>
 	</string>
 	<string id="l12u_control_monolith">
 		<text>Controle do Monolith</text>
