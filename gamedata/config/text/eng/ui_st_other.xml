@@ -97,7 +97,7 @@
 		<text>Restante</text>
 	</string>
 	<string id="ui_st_trade">
-		<text>Troca</text>
+		<text>Negociar</text>
 	</string>
 	<string id="ui_st_voting_disabled">
 		<text>Votacao desabilitada</text>
@@ -106,7 +106,7 @@
 		<text>Voce realmente quer sair do jogo?</text>
 	</string>
 	<string id="ui_st_your_items">
-		<text>Seus itens</text>
+		<text>Itens a vender</text>
 	</string>
 	<string id="st_game_over_press_jump">
 		<text>pressione ($$ACTION_JUMP$$) para sair para o menu principal</text>

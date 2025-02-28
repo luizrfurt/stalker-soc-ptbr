@@ -178,7 +178,7 @@
 		<text>o NPC nao tem dinheiro suficiente</text>
 	</string>
 	<string id="ui_st_opponent_items">
-		<text>Mochila</text>
+		<text>Itens a comprar</text>
 	</string>
 	<string id="st_search_treasure">
 		<text>Procurar no esconderijo ($$ACTION_USE$$)</text>
