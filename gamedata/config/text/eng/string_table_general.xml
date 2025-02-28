@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="actor">
+		<text>Solitario</text>
+	</string>
+	<string id="actor_dolg">
+		<text>Dever</text>
+	</string>
+	<string id="actor_freedom">
+		<text>Liberdade</text>
+	</string>
+	<string id="arena_enemy">
+		<text>Merc</text>
+	</string>
+	<string id="bad">
+		<text>ruim</text>
+	</string>
+	<string id="bandit">
+		<text>Bandido</text>
+	</string>
+	<string id="dolg">
+		<text>Dever</text>
+	</string>
+	<string id="ecolog">
+		<text>Ecologista</text>
+	</string>
+	<string id="enemy">
+		<text>inimigo</text>
+	</string>
+	<string id="excellent">
+		<text>excelente</text>
+	</string>
+	<string id="exo_outfit_name_m1">
+		<text>Exoesqueleto PNB-4UZ</text>
+	</string>
+	<string id="experienced">
+		<text>Experiente</text>
+	</string>
+	<string id="Found_PDA">
+		<text>PDA Encontrado</text>
+	</string>
+	<string id="freedom">
+		<text>Liberdade</text>
+	</string>
+	<string id="friendly">
+		<text>amigo</text>
+	</string>
+	<string id="good">
+		<text>bom</text>
+	</string>
+	<string id="indifferent">
+		<text>neutro</text>
+	</string>
+	<string id="killer">
+		<text>Merc</text>
+	</string>
+	<string id="l01_escape">
+		<text>Cordon</text>
+	</string>
+	<string id="l02_garbage">
+		<text>Lixao</text>
+	</string>
+	<string id="l03_agroprom">
+		<text>Instituto de Pesquisa Agroprom</text>
+	</string>
+	<string id="l04_darkvalley">
+		<text>Vale Sombrio</text>
+	</string>
+	<string id="l05_bar">
+		<text>Bar</text>
+	</string>
+	<string id="l06_rostok">
+		<text>Territorio Selvagem</text>
+	</string>
+	<string id="l07_military">
+		<text>Armazens do Exercito</text>
+	</string>
+	<string id="l08_yantar">
+		<text>Yantar</text>
+	</string>
+	<string id="l10_radar">
+		<text>Floresta Vermelha</text>
+	</string>
+	<string id="l11_pripyat">
+		<text>Pripyat</text>
+	</string>
+	<string id="l12_stancia">
+		<text>Usina Nuclear de Chernobyl</text>
+	</string>
+	<string id="l12_stancia_2">
+		<text>Usina Nuclear de Chernobyl</text>
+	</string>
+	<string id="master">
+		<text>especialista</text>
+	</string>
+	<string id="military">
+		<text>Militar</text>
+	</string>
+	<string id="monolith">
+		<text>Monolito</text>
+	</string>
+	<string id="neutral">
+		<text>neutro</text>
+	</string>
+	<string id="novice">
+		<text>Novato</text>
+	</string>
+	<string id="st_no_active_task">
+		<text>Sem missao ativa</text>
+	</string>
+	<string id="st_time_till_surge">
+		<text>Tempo ate a explosao</text>
+	</string>
+	<string id="stalker">
+		<text>Solitario</text>
+	</string>
+	<string id="terrible">
+		<text>terrivel</text>
+	</string>
+	<string id="trader">
+		<text>Comerciante</text>
+	</string>
+	<string id="ui_st_community">
+		<text>grupo</text>
+	</string>
+	<string id="ui_st_price">
+		<text>Preco</text>
+	</string>
+	<string id="ui_st_rank">
+		<text>ranking</text>
+	</string>
+	<string id="ui_st_relation">
+		<text>atitude</text>
+	</string>
+	<string id="ui_st_reputation">
+		<text>reputacao</text>
+	</string>
+	<string id="very_bad">
+		<text>Muito ruim</text>
+	</string>
+	<string id="very_good">
+		<text>muito bom</text>
+	</string>
+	<string id="veteran">
+		<text>veterano</text>
+	</string>
+	<string id="zombied">
+		<text>Zumbificado</text>
+	</string>
+	<string id="Btn_Cancel">
+		<text>Cancelar</text>
+	</string>
+	<string id="Btn_No">
+		<text>Nao</text>
+	</string>
+	<string id="Btn_OK">
+		<text>OK</text>
+	</string>
+	<string id="Btn_Yes">
+		<text>Sim</text>
+	</string>
+	<string id="global_map">
+		<text>Mapa da Zona</text>
+	</string>
+	<string id="st_autosave">
+		<text>Salvamento automatico</text>
+	</string>
+	<string id="st_game_over">
+		<text>Jogo finalizado.</text>
+	</string>
+	<string id="st_item_used">
+		<text>Usado</text>
+	</string>
+	<string id="st_not_enough_money">
+		<text>Dinheiro insuficiente</text>
+	</string>
+	<string id="st_not_enough_money_npc">
+		<text>o NPC nao tem dinheiro suficiente</text>
+	</string>
+	<string id="ui_st_opponent_items">
+		<text>Mochila</text>
+	</string>
+	<string id="st_search_treasure">
+		<text>Procurar no esconderijo ($$ACTION_USE$$)</text>
+	</string>
+	<string id="inventory_item_use">
+		<text>Pequisar item ($$ACTION_USE$$)</text>
+	</string>
+	<string id="ui_mm_check_updates">
+		<text>Atualizacoes do jogo</text>
+	</string>
+	<string id="ui_mm_alternative">
+		<text>Alternativa</text>
+	</string>
+	<string id="ui_inv_health">
+		<text>Saude</text>
+	</string>
+	<string id="ui_inv_radiation">
+		<text>Radiacao</text>
+	</string>
+	<string id="ui_inv_satiety">
+		<text>Fome</text>
+	</string>
+	<string id="ui_inv_power">
+		<text>Resistencia</text>
+	</string>
+	<string id="ui_inv_bleeding">
+		<text>Sangrando</text>
+	</string>
+	<string id="st_mp_say_to_all">
+		<text>Para todos</text>
+	</string>
+	<string id="st_mp_say_to_team">
+		<text>Para a equipe</text>
+	</string>
+	<string id="st_knife">
+		<text>Faca</text>
+	</string>
+	<string id="st_mp_disabled_voting">
+		<text>Votacao nao disponivel neste servidor.</text>
+	</string>
+	<string id="st_mp_no_current_voting">
+		<text>Sem votacoes ativas.</text>
+	</string>
+	<string id="st_mp_ready">
+		<text>pronto</text>
+	</string>
+	<string id="st_mp_voting_succeed">
+		<text>Votacao bem-sucedida!</text>
+	</string>
+	<string id="st_mp_voting_failed">
+		<text>Votacao falhou!</text>
+	</string>
+	<string id="l03u_agr_underground">
+		<text>Agroprom Subsolo</text>
+	</string>
+	<string id="l04u_labx18">
+		<text>Laboratorio X-18</text>
+	</string>
+	<string id="l08u_brainlab">
+		<text>Laboratorio X-16</text>
+	</string>
+	<string id="l10u_bunker">
+		<text>Laboratorio X-10</text>
+	</string>
+	<string id="l12u_sarcofag">
+		<text>Sarcofago</text>
+	</string>
+	<string id="l12u_control_monolith">
+		<text>Controle do Monolito</text>
+	</string>
+</string_table>
