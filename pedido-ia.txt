@@ -7,5 +7,5 @@ Ecologist para Ecologista; Cordon para Cordon; Garbage para Lixao; Agroprom Rese
 The Dark Valley para Vale Sombrio; Bar para Bar; Wild Territory para Territorio Selvagem; Army warehouses para Armazens do Exercito;
 Yantar para Yantar; Red forest para Floresta Vermelha; Pripyat para Pripyat; Chernobyl NPP para Usina Nuclear de Chernobyl;
 Military para Militar; Monolith para Monolito; Agroprom Underground para Agroprom Subsolo; Lab X-18 para Laboratorio X-18;
-Lab X-16 para Laboratorio X-16; Lab X-10 para Laboratorio X-10; Sarcophagus para Sarcofago;
+Lab X-16 para Laboratorio X-16; Lab X-10 para Laboratorio X-10; Sarcophagus para Sarcofago; Task para Missao
 Ao seguir a orientação acima, cuide se alguma palavra não deriva da tradução, exemplo: Duty vira Dever e Dutyer vira Deverista, entre outros.
