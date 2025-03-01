@@ -1,7 +1,7 @@
 Traduza o xml acima do ingles para o português brasil, usando o contexto do jogo Stalker Shadow Of Chernobyl. Não traduza Stalker, Stalkers, stalker e stalkers.
 Não utilize letras com acentuação, como por exemplo o "á" e "õ" (faça com todas as vogais, maiusculas e minusculas),
 troque-as eplas respectivas letras sem acentuação, como por exemplo "a" e "o" (faça com todas as vogais, maiusculas e minusculas),
-troque também ç por c e Ç por c.
+troque também ç por c e Ç por C.
 Ao traduzir, siga a orientação abaixo:
 
 Traduza nome de lugares e facções do jogo, são eles:

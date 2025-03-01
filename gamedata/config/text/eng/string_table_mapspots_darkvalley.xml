@@ -2,16 +2,16 @@
 		<text>Borov</text>
 	</string>
 	<string id="bar_darklab_documents_2_hint">
-		<text>Tunnel</text>
+		<text>Tunel</text>
 	</string>
 	<string id="bar_darklab_documents_3_hint">
-		<text>Lab entrance</text>
+		<text>Entrada do Lab</text>
 	</string>
 	<string id="bar_darklab_documents_4_hint">
-		<text>Pipe</text>
+		<text>Tubo</text>
 	</string>
 	<string id="bar_darklab_documents2_1_hint">
-		<text>Documents from the Lab</text>
+		<text>Documentos do Lab</text>
 	</string>
 	<string id="bar_darklab_documents2_2_hint">
 		<text>Barkeep</text>
@@ -20,35 +20,35 @@
 		<text>Bullet</text>
 	</string>
 	<string id="val_captive_help_2_hint">
-		<text>Prisoner</text>
+		<text>Prisioneiro</text>
 	</string>
 	<string id="val_come_to_trader_1_hint">
-		<text>South Gate</text>
+		<text>Portao Sul</text>
 	</string>
 	<string id="val_come_to_trader_2_hint">
 		<text>Trader</text>
 	</string>
 	<string id="val_prisoner_help_main_hint">
-		<text>Captive Duty member</text>
+		<text>Membro cativo da Duty</text>
 	</string>
 	<string id="val_sos_help_main_hint">
-		<text>Wounded stalker</text>
+		<text>Stalker ferido</text>
 	</string>
 	<string id="val_zone_bandits_hint">
-		<text>Bandit camp</text>
+		<text>Acampamento dos bandidos</text>
 	</string>
 	<string id="val_zone_farm_hint">
-		<text>Farm.\nBuy Gauss.</text>
+		<text>Fazenda.\nCompre Gauss.</text>
 	</string>
 	<string id="val_zone_monolith_hint">
-		<text>Old factory</text>
+		<text>Fabrica antiga</text>
 	</string>
 	<string id="val_zone_pipe_hint">
-		<text>Sewer pipe</text>
+		<text>Tubo de esgoto</text>
 	</string>
 	<string id="val_zone_robbers_hint">
-		<text>Abandoned pig farm</text>
+		<text>Fazenda de porcos abandonada</text>
 	</string>
 	<string id="val_zone_south_gate_hint">
-		<text>Gates</text>
+		<text>Portoes</text>
 	</string>
