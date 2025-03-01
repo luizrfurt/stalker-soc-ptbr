@@ -14,6 +14,6 @@ Brain Scorcher para Brain Scorcher;
 
 Traduza sempre: Task para Missao; Flash drive para Pendrive; Lockpick para Arrombador; Energy drink para Energetico;
 Spetsnaz para Forcas Especiais; Flesh para Carnival; Mica para Migalha; Smile para Limo; Slug para Lesma;
-Mama's Beads para Contas da mamae; Flash para Lampejo; Sparkler para Diamente; Kolobok para Massa redonda;
-Fruit punch para Ponche de frutas; Burnt Fuzz para Fuzz queimado; Jelly para Agua-viva; Jellyfish para Agua-viva;
+Mama's Beads para Contas da mamae; Flash para Lampejo; Sparkler para Diamente; Fruit punch para Ponche de frutas;
+Burnt Fuzz para Fuzz queimado; Jelly para Agua-viva; Jellyfish para Agua-viva;
 Anomalia Skinner para Traje anonimo;
