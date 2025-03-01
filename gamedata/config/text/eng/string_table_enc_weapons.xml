@@ -505,7 +505,7 @@
 		<text>TRs 301</text>
 	</string>
 	<string id="wpn-lr300_m1">
-		<text>Atirador de Elite TRs 301</text>
+		<text>Sniper TRs 301</text>
 	</string>
 	<string id="wpn-mp5">
 		<text>Viper 5</text>
@@ -532,10 +532,10 @@
 		<text>RPG-7u</text>
 	</string>
 	<string id="wpn-sig_m1">
-		<text>Tempestade SIP</text>
+		<text>Storming SIP</text>
 	</string>
 	<string id="wpn-sig_m2">
-		<text>Atirador de Elite SGI</text>
+		<text>Sniper SGI</text>
 	</string>
 	<string id="wpn-sig220">
 		<text>SIP-t M200</text>
@@ -547,13 +547,13 @@
 		<text>SPSA14</text>
 	</string>
 	<string id="wpn-spas12_m1">
-		<text>SPSA-14 Rosqueada</text>
+		<text>Threaded SPSA-14</text>
 	</string>
 	<string id="wpn-svd">
 		<text>Fuzil de Sniper (SVDm 2)</text>
 	</string>
 	<string id="wpn-svd_m1">
-		<text>"Atirador Longo" SVDm 2</text>
+		<text>"Farshooter" SVDm 2</text>
 	</string>
 	<string id="wpn-svu">
 		<text>SVUmk2</text>
@@ -565,7 +565,7 @@
 		<text>Fuzil de Assalto Especial VLA</text>
 	</string>
 	<string id="wpn-val_m1">
-		<text>Atirador de Elite VLA</text>
+		<text>Sniper VLA</text>
 	</string>
 	<string id="wpn-vintorez">
 		<text>Vintar BC</text>

@@ -34,7 +34,7 @@
 		<text>Chave do medico</text>
 	</string>
 	<string id="Conserva">
-		<text>Delicia do turista</text>
+		<text>Conserva</text>
 	</string>
 	<string id="Detect1">
 		<text>Detector de anomalias (DA-2)</text>
@@ -85,7 +85,7 @@
 		<text>Comida enlatada de um armazem do exercito saqueado pelos stalkers. O prazo de validade ainda nao expirou.</text>
 	</string>
 	<string id="enc_equipment_food_kolbasa1">
-		<text>Feita de uma mistura de frango e soja, a "salsicha diet" e frequentemente, pela falta de outras opcoes, o cafe da manha, almoco e janta de um stalker em um so.</text>
+		<text>Feita de uma mistura de frango e soja, a salsicha diet e frequentemente, pela falta de outras opcoes, o cafe da manha, almoco e janta de um stalker em um so.</text>
 	</string>
 	<string id="enc_equipment_food_vodka1">
 		<text>Vodka fabricada pela empresa GSC. Desce facil e reduz significativamente os efeitos da radiacao, mas por obvias razoes deve ser consumida com moderacao.</text>
@@ -118,7 +118,7 @@
 		<text>Comida</text>
 	</string>
 	<string id="Kolbasa">
-		<text>Salsicha dietetica</text>
+		<text>Salsicha diet</text>
 	</string>
 	<string id="Medi">
 		<text>Medicamentos</text>
