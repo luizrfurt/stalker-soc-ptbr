@@ -463,7 +463,7 @@
 		<text>Espingarda de cano duplo serrado</text>
 	</string>
 	<string id="wpn-colt_m1">
-		<text>Kora silenciosa</text>
+		<text>Kora silenciada</text>
 	</string>
 	<string id="wpn-colt1911">
 		<text>Kora-919</text>
@@ -514,10 +514,10 @@
 		<text>Viper 5 9x18</text>
 	</string>
 	<string id="wpn-mp5_m2">
-		<text>Viper Silenciosa</text>
+		<text>Viper Silenciada</text>
 	</string>
 	<string id="wpn-pb">
-		<text>Pistola Silenciosa (PB1s)</text>
+		<text>Pistola Silenciada (PB1s)</text>
 	</string>
 	<string id="wpn-pm">
 		<text>PMm</text>
