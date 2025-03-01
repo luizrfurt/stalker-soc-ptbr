@@ -268,7 +268,7 @@
 		<text>Adotada pelo exercito e pela policia americana, assim como por muitas unidades militares e policiais ao redor do mundo. Tambem e muito popular entre criminosos devido ao seu cartucho de alto poder e ao seu carregador de alta capacidade.\n Municao:\n padrao 9x19 mm FMJ,\n aprimorada 9x19 mm PB1s.</text>
 	</string>
 	<string id="enc_weapons1_wpn-bm16">
-		<text>Uma BM 17 com cano serrado. E mais leve e compacta do que o rifle de dois canos original, mas e eficaz apenas a curta distancia. Uma das armas mais usadas por iniciantes.\n Municao:\n 12x70 cartucho,\n 12x76 projetil,\n 12x76 dardo.</text>
+		<text>Uma BM 17 com cano serrado. E mais leve e compacta do que o rifle de dois canos original, mas e eficaz apenas a curta distancia. Uma das armas mais usadas por novatos.\n Municao:\n 12x70 cartucho,\n 12x76 projetil,\n 12x76 dardo.</text>
 	</string>
 	<string id="enc_weapons1_wpn-colt_m1">
 		<text>Arma de assassinos contratados. O bom e velho Kora, vem com um silenciador nao substituivel.</text>
@@ -328,7 +328,7 @@
 		<text>Uma das melhores armas da classe submetralhadora. Durante as ultimas decadas do seculo 20, foi adotada pelas unidades de Forcas Especiais de exercito e policia em muitos paises. Quando foi gradualmente substituida por modelos mais modernos, apareceu no mercado negro e depois na Zona.\n Municao:\n padrao 9x19 mm FMJ,\n melhorada 9x19 mm PB1s.</text>
 	</string>
 	<string id="enc_weapons1_wpn-mp5_m1">
-		<text>Leve, compacta e agora refeita para se adequar a um calibre mais comum, esta metralhadora e uma verdadeira descoberta para atiradores iniciantes.</text>
+		<text>Leve, compacta e agora refeita para se adequar a um calibre mais comum, esta metralhadora e uma verdadeira descoberta para atiradores novatos.</text>
 	</string>
 	<string id="enc_weapons1_wpn-mp5_m2">
 		<text>Uma variacao do modelo basico. Um silenciador nao removivel foi adicionado.</text>
@@ -337,7 +337,7 @@
 		<text>Uma pistola com um silenciador integrado, usada pelas Forcas Especiais sovieticas. Agora desatualizada, mas em maos habilidosas, ainda e muito eficaz.\n Municao:\n padrao 9x18 mm,\n melhorada 9x18 mm +P+.</text>
 	</string>
 	<string id="enc_weapons1_wpn-pm">
-		<text>A pistola mais comum na Zona. E um legado da era sovietica. E relativamente confiavel e barata, tem baixa capacidade de carregador, pouca potencia e uma agrupacao insatisfatoria de tiros. E a principal arma de um Stalker iniciante.\n Municao:\n padrao 9x18 mm,\n melhorada 9x18 mm +P+.</text>
+		<text>A pistola mais comum na Zona. E um legado da era sovietica. E relativamente confiavel e barata, tem baixa capacidade de carregador, pouca potencia e uma agrupacao insatisfatoria de tiros. E a principal arma de um Stalker novatos.\n Municao:\n padrao 9x18 mm,\n melhorada 9x18 mm +P+.</text>
 	</string>
 	<string id="enc_weapons1_wpn-rg-6">
 		<text>Um lancador de granadas tipo revolver. As vezes, e simplesmente indispensavel, especialmente quando se ataca grandes quantidades de mutantes, objetos estacionarios bem protegidos ou se combate criaturas especialmente fortes.\n Municao: granada VOG-25,\n e granada VOG-25R.</text>
