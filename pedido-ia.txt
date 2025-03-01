@@ -12,10 +12,12 @@ Pripyat para Prypiat; Chernobyl NPP para Chernobyl NPP; Monolith para Monolith; 
 Lab X-18 para Lab X-18; Lab X-16 para Lab X-16; Lab X-10 para Lab X-10; Sarcophagus para Sarcofago;
 Brain Scorcher para Brain Scorcher;
 
-Traduza sempre: Task para Missao; Flash drive para Pendrive; Lockpick para Arrombador; Energy drink para Energetico;
-Spetsnaz para Forcas Especiais; Flesh para Carnival; Mica para Migalha; Smile para Limo; Slug para Lesma;
+Traduza sempre: Marked One para Marked One; Wolf para Wolf; Fox para Fox; Guide para Guide; Nimble para Nimble;
+Task para Missao; Flash drive para Pendrive; Lockpick para Arrombador;
+Energy drink para Energetico; Spetsnaz para Forcas Especiais; Flesh para Carnival; Mica para Migalha; Smile para Limo; Slug para Lesma;
 Mama's Beads para Contas da mamae; Flash para Lampejo; Sparkler para Diamente; Fruit punch para Ponche de frutas;
 Burnt Fuzz para Fuzz queimado; Jelly para Agua-viva; Jellyfish para Agua-viva; Whirligig para Redemoinho;
-Anomalia Skinner para Traje anonimo; rat hound para cao de caca; Monolithian para Monolithiano
+Anomalia Skinner para Traje anonimo; rat hound para cao de caca; Monolithian para Monolithiano; Bloodsucker para Sanguessuga
+medkit para kit de primeiros socorros;
 
 Não traduza nomes próprios de personagens.

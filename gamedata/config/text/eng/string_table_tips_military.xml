@@ -1,0 +1,36 @@
+	<string id="mil_actor_blockpost">
+		<text>Voce esta se aproximando da Barreira. Nem pense em fazer bagunca. Mas estaremos mais do que felizes em aceitar qualquer ajuda.</text>
+	</string>
+	<string id="mil_after_sniper_dead">
+		<text>Marked One, venha aqui para sua parte e mais instrucoes.</text>
+	</string>
+	<string id="mil_fblockpost_warning">
+		<text>Marked One, volte para sua posicao.</text>
+	</string>
+	<string id="mil_info_freedom_radio">
+		<text>Se voce passar a noite toda na Torre na vila, algo com certeza vai acontecer...</text>
+	</string>
+	<string id="mil_info_max_mines">
+		<text>Nao se esqueca das minas! Um erro e voce esta frito...</text>
+	</string>
+	<string id="mil_info_max_village">
+		<text>Tenha cuidado, Marked One. Aparentemente ha uma nova anomalia na vila. O desgracado e rapido e invisivel!</text>
+	</string>
+	<string id="mil_info_to_all">
+		<text>Atencao a todos que desejam derreter seus cerebros: o caminho para o Red forest esta protegido por uma unidade do Monolith e, como provavelmente sabem, esses caras atiram primeiro e nao fazem perguntas depois. Boa sorte.</text>
+	</string>
+	<string id="mil_max_attack_signal">
+		<text>Avancem! Vamos exterminar esses desgracados!</text>
+	</string>
+	<string id="mil_mission_complete">
+		<text>Nosso trabalho aqui esta feito. Retirem-se para a fazenda. Vamos resolver o pagamento la.</text>
+	</string>
+	<string id="mil_scull_attack_signal">
+		<text>Avante, pessoal! O caminho esta livre!</text>
+	</string>
+	<string id="mil_scull_info">
+		<text>Marked One, elimine esses atiradores de elite!</text>
+	</string>
+	<string id="mil_sniper_to_player_warning">
+		<text>Tenha cuidado, Marked One, ou vai acabar levando uma bala...</text>
+	</string>
