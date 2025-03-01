@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="af-ameba-mica">
+		<text>Migalha</text>
+	</string>
+	<string id="af-ameba-slime">
+		<text>Limo</text>
+	</string>
+	<string id="af-ameba-slug">
+		<text>Lesma</text>
+	</string>
+	<string id="af-blood">
+		<text>Sangue de pedra</text>
+	</string>
+	<string id="af-cristall">
+		<text>Cristal</text>
+	</string>
+	<string id="af-cristall-flower">
+		<text>Flor de pedra</text>
+	</string>
+	<string id="af-drops">
+		<text>Gotículas</text>
+	</string>
+	<string id="af-dummy-battery">
+		<text>Bateria</text>
+	</string>
+	<string id="af-dummy-dummy">
+		<text>Concha</text>
+	</string>
+	<string id="af-dummy-glassbeads">
+		<text>Contas da mamae</text>
+	</string>
+	<string id="af-dummy-pellicle">
+		<text>Pelicula</text>
+	</string>
+	<string id="af-dummy-spring">
+		<text>Mola</text>
+	</string>
+	<string id="af-electra-flash">
+		<text>Lampejo</text>
+	</string>
+	<string id="af-electra-moonlight">
+		<text>Luz da lua</text>
+	</string>
+	<string id="af-electra-sparkler">
+		<text>Diamante</text>
+	</string>
+	<string id="af-fireball">
+		<text>Bola de fogo</text>
+	</string>
+	<string id="af-fuzz-kolobok">
+		<text>Massa redonda</text>
+	</string>
+	<string id="af-gold-fish">
+		<text>Peixe dourado</text>
+	</string>
+	<string id="af-gravi">
+		<text>Gravi</text>
+	</string>
+	<string id="af-medusa">
+		<text>Agua-viva</text>
+	</string>
+	<string id="af-mincer-meat">
+		<text>Pedaço de carne</text>
+	</string>
+	<string id="af-night-star">
+		<text>Estrela da noite</text>
+	</string>
+	<string id="af-rusty-kristall">
+		<text>Espinho de cristal</text>
+	</string>
+	<string id="af-rusty-sea-urchin">
+		<text>Ourico</text>
+	</string>
+	<string id="af-rusty-thorn">
+		<text>Espinho</text>
+	</string>
+	<string id="af-soul">
+		<text>Alma</text>
+	</string>
+	<string id="af-vyvert">
+		<text>Retorcido</text>
+	</string>
+	<string id="Agroprom">
+		<text>Agroprom</text>
+	</string>
+	<string id="Ameba">
+		<text>Ponche de fruta</text>
+	</string>
+	<string id="Anomalies">
+		<text>Anomalias</text>
+	</string>
+	<string id="Artifacts">
+		<text>Artefatos</text>
+	</string>
+	<string id="Bald">
+		<text>Trampolim</text>
+	</string>
+	<string id="Bar">
+		<text>Bar</text>
+	</string>
+	<string id="Darkdolina">
+		<text>Dark Valley</text>
+	</string>
+	<string id="Deadcity">
+		<text>Apagado</text>
+	</string>
+	<string id="Electra">
+		<text>Eletro</text>
+	</string>
+	<string id="enc_weapons1_wpn-winchester_m1">
+		<text>Variacao do Chaser. Um pequeno fragmento do artefato "Gravi" foi embutido no cano, posicionado de forma a aumentar a velocidade de voo da bala.</text>
+	</string>
+	<string id="enc_zone_anomalies_ameba">
+		<text>Uma anomalia de natureza desconhecida. Em contato, causa ferimentos semelhantes aos efeitos de um acido forte. Forma tres tipos de artefatos: Limo, Lesma e Migalha.</text>
+	</string>
+	<string id="enc_zone_anomalies_bald">
+		<text>Uma das primeiras anomalias ja registradas - um campo gravitacional instavel que causa danos de choque a qualquer um dentro de seu raio. Permanece ativa por uma semana em media. A quantidade de dano causado muda durante sua existencia, variando de hematomas leves, passando por ferimentos graves, ate morte instantanea. Facil de detectar a luz do dia. Acompanhada por flutuacao de ar acima da anomalia, folhas dancantes e manchas distintas de cor carmesim no chao. Detectada por todos os tipos de detectores, o Trampolim tambem pode ser revelado jogando objetos nela. Forma tres tipos de artefatos: Agua-viva, Flor de pedra e Estrela da noite.</text>
+	</string>
+	<string id="enc_zone_anomalies_electra">
+		<text>Uma formacao anomala, com cerca de 10 metros de diametro, acumulando grandes quantidades de eletricidade estatica. Quando acionada, a anomalia explode em dezenas de raios em miniatura, causando choque eletrico quase sempre letal para todos os seres vivos. Reconhecivel pela nevoa azulada pairando acima dela a luz do dia. A noite, o Eletro pode ser revelado usando qualquer tipo de detector ou jogando objetos metalicos na anomalia. Forma tres tipos de artefatos: Diamante, Lampejo e Luz da lua.</text>
+	</string>
+	<string id="enc_zone_anomalies_fuzz">
+		<text>Um dos exemplos da Zona de vegetacao mutante. Reage a seres vivos que se aproximam rapidamente disparando uma nuvem de projeteis que ferem gravemente a pele desprotegida ou levemente protegida ao contato. Nao reage a alvos que se movem lentamente. Forma tres tipos de artefatos (possivelmente suas sementes): Espinho, Espinho de cristal e Ourico.</text>
+	</string>
+	<string id="enc_zone_anomalies_gravi">
+		<text>Uma anomalia provavelmente de natureza gravitacional. Quando acionada, o tremendo poder do Vortex arrasta tudo dentro de um raio de 10-15 metros para o centro. Vitimas puxadas para o nucleo nao tem chance de sobrevivencia: seus corpos sao rapidamente comprimidos em um montinho apertado, apenas para explodir em uma poderosa descarga de energia um momento depois. A anomalia permanece estacionaria durante sua existencia (uma semana em media). Facilmente reconhecivel a luz do dia pela flutuacao de ar acima, folhas dancantes, fragmentos de corpos despedacados ao redor e uma mancha escura distinta no centro. Altamente perigosa a noite, ja que so pode ser revelada por meio de um detector ou jogando objetos metalicos nela. Forma tres tipos de artefatos: Retorcido, Gravi e Peixe dourado.</text>
+	</string>
+	<string id="enc_zone_anomalies_lift">
+		<text>Uma anomalia inofensiva, que暂时 nega a gravidade normal. Manifesta-se como uma area - geralmente de varios metros de diametro - onde a atracao gravitacional da Terra e grandemente reduzida. Forma o artefato Pelicula.</text>
+	</string>
+	<string id="enc_zone_anomalies_meat">
+		<text>A anomalia agarra suas vitimas no ar e as gira em uma velocidade alucinante. A natureza exata do Redemoinho permanece desconhecida. A anomalia pode ser reconhecida por um leve redemoinho de poeira acima e por fragmentos de corpos espalhados nas proximidades. Vitimas pegas na borda externa - longe o suficiente da zona de efeito maximo no centro - podem escapar do Redemoinho com ferimentos relativamente leves. Forma tres tipos de artefatos: Sangue de pedra, Pedaço de carne e Alma.</text>
+	</string>
+	<string id="enc_zone_anomalies_radioactive">
+		<text>Uma area de radiacao aumentada - acima de 50 mR/h. Permanecer em uma zona de radiacao por periodos prolongados e fortemente desencorajado.</text>
+	</string>
+	<string id="enc_zone_anomalies_time">
+		<text>Um verdadeiro milagre de anomalia: uma area de varios metros de diametro onde o fluxo do tempo e significativamente mais lento que o usual. Parece nao ter efeito negativo na saude humana. No entanto, a Maquina do Tempo pode ser muito dificil de sair. Curiosamente, remover as Contas da mamae - um artefato geralmente encontrado no centro da anomalia - faz a Maquina do Tempo desaparecer.</text>
+	</string>
+	<string id="enc_zone_anomalies_zharka">
+		<text>Enquanto inativa, a anomalia se manifesta como uma nuvem quase invisivel de ar quente. Quando acionada por um objeto ou ser vivo, aquece instantaneamente ate temperaturas letais proximas de 1500K. A noite, pode ser revelada por detectores poderosos ou jogando objetos metalicos na area de acionamento. Forma tres tipos de artefatos: Gotículas, Bola de fogo e Cristal.</text>
+	</string>
+	<string id="enc_zone_artifact_af-ameba-mica">
+		<text>A anomalia "Ponche de fruta" e capaz de criar este artefato nas condicoes fisicas mais raras e extremas. O resultado e um objeto duro e semitransparente. Um artefato raro e caro.</text>
+	</string>
+	<string id="enc_zone_artifact_af-ameba-slime">
+		<text>E certo que este artefato e criado pela anomalia chamada "Ponche de fruta". Quando carregado no cinto, os ferimentos sangram menos, embora o corpo de seu dono se torne mais vulneravel a varias queimaduras.</text>
+	</string>
+	<string id="enc_zone_artifact_af-ameba-slug">
+		<text>Formado pela anomalia "Ponche de fruta". As qualidades negativas deste artefato sao compensadas pelo fato de que ele aumenta a qualidade de coagulacao do sangue. Nao e comum encontrar esse artefato, e pagam bem por ele tambem.</text>
+	</string>
+	<string id="enc_zone_artifact_af-blood">
+		<text>Voce pode encontrar este artefato perto da anomalia "Redemoinho". E um objeto avermelhado feio feito de restos polimerizados e curiosamente dobrados de plantas, solo e ossos pressionados juntos. Bastante comum e nao muito eficaz.</text>
+	</string>
+	<string id="enc_zone_artifact_af-cristall">
+		<text>E criado quando metais pesados caem na anomalia Queimador. Este artefato elimina radiacao maravilhosamente. E altamente valorizado por stalkers e dificil de encontrar.</text>
+	</string>
+	<string id="enc_zone_artifact_af-cristall-flower">
+		<text>Nascido na anomalia Trampolim. Este artefato e encontrado em apenas algumas areas da Zona. Os pedacos de compostos metalicos criam um belo jogo de luz. E muito calmante estudar este artefato a noite ao lado da fogueira.</text>
+	</string>
+	<string id="enc_zone_artifact_af-drops">
+		<text>Formado na anomalia "Queimador" em altas temperaturas. Do exterior, parece um composto em forma de lagrima com uma superficie brilhante, coberta de rachaduras.</text>
+	</string>
+	<string id="enc_zone_artifact_af-dummy-battery">
+		<text>A origem deste objeto esta envolta em misterio cientifico. E claro que e feito em parte por elementos dieletricos, mas a ciencia nao conhece as condicoes fisicas em que e formado.</text>
+	</string>
+	<string id="enc_zone_artifact_af-dummy-dummy">
+		<text>Ao usar este artefato, a desnaturacao de proteinas acontece mais lentamente. Em outras palavras, a carne consegue suportar temperaturas mais altas e queima menos. Em si, e uma coisa cara e rara.</text>
+	</string>
+	<string id="enc_zone_artifact_af-dummy-glassbeads">
+		<text>Artefato maravilhoso. Guarde-o com cuidado - e bom porque so tem qualidades positivas. Cientistas nao conseguem descobrir como criar tal artefato em condicoes de laboratorio.</text>
+	</string>
+	<string id="enc_zone_artifact_af-dummy-pellicle">
+		<text>Este artefato e tao raro que muitos pesquisadores nem imaginam que tal substancia possa existir em um ambiente natural. Emite componentes quimicos acidos.</text>
+	</string>
+	<string id="enc_zone_artifact_af-dummy-spring">
+		<text>Segundo a opiniao de alguns pesquisadores-teoricos, este artefato e um hibrido entre Baterias e Concha.</text>
+	</string>
+	<string id="enc_zone_artifact_af-electra-flash">
+		<text>"Eletro" as vezes gera este artefato. Stalkers o usam prontamente por causa de suas boas qualidades. Um preco razoavel e uma boa aparencia externa tornam este artefato atraente para colecionadores.</text>
+	</string>
+	<string id="enc_zone_artifact_af-electra-moonlight">
+		<text>Caso degenerado da atividade da anomalia Eletro. Parece que essa forma redonda maravilhosa e criada quando a anomalia e submetida a influencias termicas. Artefato caro.</text>
+	</string>
+	<string id="enc_zone_artifact_af-electra-sparkler">
+		<text>Encontrado perto do tipo de anomalia Eletro. Artefato bastante comum e barato. Mas ainda assim e valorizado entre os pesquisadores na Zona por suas qualidades.</text>
+	</string>
+	<string id="enc_zone_artifact_af-fireball">
+		<text>Cristaliza na anomalia Queimador. Combate bem a radioatividade, embora a taxa elevada de troca de energia desgaste os musculos do aparelho locomotor. Nao conseguira correr por muito tempo. O artefato emite calor.</text>
+	</string>
+	<string id="enc_zone_artifact_af-fuzz-kolobok">
+		<text>Quando voce segura esse misterio da Zona nas maos, sente como sua pele fica mais dura e menos sensivel. Ainda pode ser atravessada por uma bala, mas e muito mais dificil corta-la.</text>
+	</string>
+	<string id="enc_zone_artifact_af-gold-fish">
+		<text>Um artefato formado na anomalia Vortex. E ativado pelo calor do corpo. Decida o que e pior: radiacao ou ferimentos de faca, e escolha o menor dos dois males. De qualquer forma, voce pode vender o artefato por um bom lucro.</text>
+	</string>
+	<string id="enc_zone_artifact_af-gravi">
+		<text>Pode ser visto perto de anomalias como "Vortex" ou nas maos de outro stalker. Ao usa-lo, uma certa quantidade de radiacao e armazenada no corpo, enquanto o resto e espalhado na direcao radial para longe do corpo. Um bom preco.</text>
+	</string>
+	<string id="enc_zone_artifact_af-medusa">
+		<text>Se forma na anomalia Springboard. Forma um campo protetor fraco cujo efeito colateral e uma leve radiacao. O artefato e muito comum e nao muito valioso.</text>
+	</string>
+	<string id="enc_zone_artifact_af-mincer-meat">
+		<text>Produzido pela anomalia Whirligig. Causa crescimento celular acelerado. Por outro lado, as celulas recem-formadas sao muito mais receptivas aos efeitos do uranio fisico. O artefato nao aparece com muita frequencia, mas e dificil chama-lo de raro.</text>
+	</string>
+	<string id="enc_zone_artifact_af-night-star">
+		<text>Este maravilhoso artefato e formado pela anomalia Springboard. O uso do artefato exige a neutralizacao da radiacao mortal. Caro e raro, este artefato e extremamente interessante para expedicoes cientificas e outras atividades de pesquisa na Zona.</text>
+	</string>
+	<string id="enc_zone_artifact_af-rusty-kristall">
+		<text>Cristaliza-se na anomalia Burnt Fuzz. Naturalmente remove a radiacao do organismo. Ou seja, atraves dos ouvidos junto com uma certa quantidade de sangue. Perda de sangue tambem e possivel por outras aberturas. Ampliamente difundido e bastante eficaz, o que causa um preco estavel no mercado de artefatos.</text>
+	</string>
+	<string id="enc_zone_artifact_af-rusty-sea-urchin">
+		<text>A anomalia Burnt Fuzz muito raramente da origem a este artefato. A pressao sanguinea sobe, o corpo se livra de uma grande quantidade de globulos vermelhos. Mas, junto com eles, a radiacao armazenada tambem sai do corpo. Em seu trabalho fundamental intitulado "Ionizacao e polarizacao dos componentes de artefatos raros", Saharov observou que o conteudo desta formacao possui uma estabilidade critica, e nao e realista criar tal artefato em condicoes de laboratorio nos proximos dez anos.</text>
+	</string>
+	<string id="enc_zone_artifact_af-rusty-thorn">
+		<text>O resultado da interacao entre a anomalia Burnt Fuzz e o corpo de um Stalker descuidado. O artefato Thorn espeta o corpo de seu portador, nao importa o que aconteca. Mas tambem ajuda a limpar o corpo de radionuclideos. Bastante comum e barato.</text>
+	</string>
+	<string id="enc_zone_artifact_af-soul">
+		<text>Artefato muito raro, encontrado perto da anomalia Whirligig. Apenas alguns conseguem encontrar este artefato, e poucos sequer o viram. Tem uma forma bonita e um preco igualmente atraente.</text>
+	</string>
+	<string id="enc_zone_artifact_af-vyvert">
+		<text>Localizado na anomalia chamada "Vortex". Quando toca o corpo, dissemina a radiacao direcionada, protegendo contra arranhoes ou ferimentos causados por armas. Este artefato nao e dificil de encontrar, por isso nao pagam muito por ele.</text>
+	</string>
+	<string id="enc_zone_locations_agroprom">
+		<text>Uma area estranha e altamente contaminada. Se voce se aventurar mais fundo, vera um lago raso, cheio de equipamentos abandonados e outros destrocos. Voce tambem pode visitar o Instituto de Pesquisa Agroprom e a fabrica, embora os militares tenham estado por la com bastante frequencia ultimamente.</text>
+	</string>
+	<string id="enc_zone_locations_bar">
+		<text>A faccao Duty montou acampamento na beira da planicie e sempre recebe Stalkers que precisam descansar. Um oasiso no deserto - um lugar completamente livre de anomalias e mutantes. Certifique-se de visitar o Bar 100 Rads nos tuneis - e um ponto de encontro para Stalkers de toda a Zona. O bar e administrado por um comerciante local, entao se voce estiver interessado em vender ou comprar mercadorias, alem de ouvir fofocas locais - esse e o lugar certo. Ao norte do bar fica a base militar, com o Lixao ao sul.</text>
+	</string>
+	<string id="enc_zone_locations_darkdolina">
+		<text>Sempre sombrio, sempre enevoado e sempre chuvoso. Stalkers que se aventuram no Dark Valley podem encontrar artefatos valiosos, morte instantanea, ou ambos. Um lugar frequentado pelos mais experientes veteranos, embora voce tambem possa encontrar alguns bandidos comuns. Dizem que ha um laboratorio subterraneo por la, entao pode valer a pena procurar uma entrada escondida pelo caminho. No entanto, ninguem voltou de la com vida, e ninguem pode dizer com certeza quais surpresas desagradaveis esperam por voce.</text>
+	</string>
+	<string id="enc_zone_locations_escape">
+		<text>Pense nisso como a antessala da Zona - um bom lugar para iniciantes se familiarizarem. Voce encontrara um comerciante nos tuneis nos fundos da vila, ao lado do posto avancado do exercito. Nao perca a oportunidade de falar com ele. Porem, e aconselhavel evitar o posto avancado em si. Voce nao quer que os soldados o vejam - a maioria atira primeiro e nem se preocupa em fazer perguntas depois. No entanto, como sempre, ha aqueles que podem ser subornados, desde que seus superiores estejam distraidos. Atacar os soldados nao e recomendado, a menos que representem uma ameaca direta.</text>
+	</string>
+	<string id="enc_zone_locations_garbage">
+		<text>Um vasto cemiterio de maquinas. Logo apos o primeiro acidente, grandes quantidades de lixo radioativo foram despejadas aqui. Principalmente ruinas de edificios antigos infestados de mutantes. Assim como os arredores da Zona, este lugar esta cheio de Stalkers novatos, com um ou outro bandido vagando por ai em busca de oportunidades. Alguns artefatos podem ser encontrados aqui, mas a maioria nao vale o esforco. Melhor procurar em outro lugar. Indo para o norte, voce chegara ao Wild Territory. A oeste fica a entrada para o Dark Valley, com a estrada para o Instituto de Pesquisa Agroprom a leste.</text>
+	</string>
+	<string id="enc_zone_locations_military-loc">
+		<text>Uma base militar abandonada ao lado de uma vila em ruinas e um pequeno pantano. A vila e um lugar sinistro, literalmente infestada de mutantes - os bloodsuckers sozinhos ja sao numerosos. Stalkers fazem o possivel para evitar o local, mesmo que isso signifique dar uma grande volta. Os anarquistas da faccao Freedom se estabeleceram na base militar. A estrada que liga a base a Zona e guardada pelo Brain Scorcher, que bloqueia o caminho para Prypiat e o Chernobyl NPP.</text>
+	</string>
+	<string id="enc_zone_locations_pripiat">
+		<text>Esta costumava ser uma cidade para engenheiros que trabalhavam no Chernobyl NPP. Um lugar grande antigamente, agora e uma cidade fantasma, com mutantes e zumbis como os unicos residentes. Parece nao haver um meio de entrar la: o Brain Scorcher bloqueia o caminho.</text>
+	</string>
+	<string id="enc_zone_locations_radar">
+		<text>Um lugar terrivel. Facil desaparecer sem deixar rastros ali, nao importa quanta sorte voce tenha tido na vida ate agora. Quem se aproxima do Brain Scorcher enlouquece imediatamente, se transforma em um zumbi e comeca a vagar sem rumo pela Zona. Apenas uma casca humana e o que resta. Ninguem jamais retornou de la com a mente intacta.</text>
+	</string>
+	<string id="enc_zone_locations_rostok">
+		<text>O Wild Territory costumava ser o local de uma grande planta industrial, atualmente em ruinas. Muitos Stalkers encontraram a morte la: o lugar esta infestado de todos os tipos de monstros. As feras estao literalmente migrando para la de toda a Zona. Dizem que algo de grande importancia esta escondido neste local, entao sempre ha aventureiros dispostos a tentar a sorte.</text>
+	</string>
+	<string id="enc_zone_locations_stancia">
+		<text>O local da famosa usina nuclear mundial. Este e o coracao da Zona. Se voce acreditar nas lendas, este tambem e o local do Monolith - uma coisa misteriosa capaz de conceder qualquer desejo.</text>
+	</string>
+	<string id="enc_zone_locations_yantar">
+		<text>O lendario lago no setor de mesmo nome secou ha muito tempo, deixando um pântano raso em seu lugar. O lugar é morbido e ensopado de morte. Grandes perigos aguardam qualquer alma aventureira e tola o suficiente para se aproximar. Quem se atrever a ir longe demais enlouquece. Zumbis-drones perambulam por todo o setor, esperando por novas vitimas. Se você andar ao redor do lago e passar pelos zumbis, acabara no campo dos cientistas, onde os cabeças trazidos de helicóptero estão fazendo algumas pesquisas. Você pode bater um papo com eles; eles compram artefatos e podem até lhe enviar em uma missão.</text>
+	</string>
+	<string id="enc_zone_zone-story_story-2006">
+		<text>A zona contaminada estava iluminada com a luz mais intensa, quase insuportavel para os olhos humanos. Você poderia praticamente ver as nuvens no céu se transformando em vapor. Depois de um momento de silencio absoluto, veio o trovão ruidoso, e então a terra tremeu. As pessoas caíram no chão, apertando os olhos e tapando os ouvidos. Aqueles que ainda conseguiam ficar em pé correram para salvar suas vidas. Parecia que todo o combustível nuclear enterrado sob o Sarcofago tinha explodido de uma vez. No dia seguinte, o exercito isolou a nova Zona. Os satelites ajudaram a determinar que o epicentro da explosao nao estava nas proximidades dos reatores da NPP, mas a cerca de meio quilometro de distancia. Acredita-se que o pessoal da estação tenha morrido instantaneamente, embora muitas pessoas ainda permanecessem na area isolada. A operação de resgate logo se mostrou uma empreitada sem sentido, pois todas as pessoas e maquinarios enviados para a zona morreriam ou falhariam imediatamente. Pouco tempo depois do desastre, o diametro da Zona se expandiu mais alguns quilometros. A maioria das tropas do governo que guardavam a linha de fronteira e as equipes de pesquisa estacionadas lá pereceram instantaneamente. Em pânico, as pessoas fugiram. Os habitantes das cidades e vilarejos próximos foram evacuados às pressas. Um enorme perigo se aproxima do mundo e só podemos imaginar qual será o seu impacto total.</text>
+	</string>
+	<string id="enc_zone_zone-story_story-2008">
+		<text>Dois anos se passaram desde o desastre na zona contaminada ao redor da NPP de Chernobyl. O numero de mortos disparou, incontáveis pessoas desaparecidas, gado morto, edifícios em decadência, florestas mutiladas... Até hoje os cientistas não têm explicação sobre o que exatamente aconteceu em Chernobyl. Enquanto isso, algumas anomalias incompreensíveis foram descobertas na area, e a Zona continua se expandindo. Expedições raras encontram especies de animais mutantes exibindo habilidades inacreditáveis.</text>
+	</string>
+	<string id="enc_zone_zone-story_story-2010">
+		<text>Seguindo as trilhas daqueles solitários imprudentes que se chamam de Stalkers, as expedições de pesquisa estão mais uma vez partindo para um estudo mais profundo da Zona. No entanto, o perímetro vigiado pelo exercito tem outros habitantes perigosos agora - desde caçadores comuns até a pior escória de bandidos. A maioria dos Stalkers perambula pela Zona em busca de anomalias e dos chamados artefatos pelos quais ganham um bom dinheiro.</text>
+	</string>
+	<string id="enc_zone_zone-story_story-raid">
+		<text>O exercito, incluindo as forças especiais lideradas por destacamentos paramilitares de Stalkers, lançou uma grande incursão na Zona. O objetivo era romper até a NPP de Chernobyl e eliminar a causa dos campos anômalos ou pelo menos obter informações de primeira mão sobre o estado atual da situação. Esse empreendimento, envolvendo mais de mil pessoas e maquinário pesado, foi um completo fracasso. Grupos isolados de sobreviventes foram forçados a se estabelecer na Zona com poucas esperanças de resgate.</text>
+	</string>
+	<string id="Escape">
+		<text>Posto avançado</text>
+	</string>
+	<string id="Fuzz">
+		<text>Fuzz queimado</text>
+	</string>
+	<string id="Garbage">
+		<text>Lixao</text>
+	</string>
+	<string id="Gravi">
+		<text>Vórtice</text>
+	</string>
+	<string id="Lift">
+		<text>Elevador</text>
+	</string>
+	<string id="Locations">
+		<text>Localizações</text>
+	</string>
+	<string id="Meat">
+		<text>Rebolo</text>
+	</string>
+	<string id="Military-loc">
+		<text>Base militar</text>
+	</string>
+	<string id="Pripiat">
+		<text>Prypiat</text>
+	</string>
+	<string id="Radar">
+		<text>Brain Scorcher</text>
+	</string>
+	<string id="Radioactive">
+		<text>Fonte de radioatividade</text>
+	</string>
+	<string id="Rostok">
+		<text>Wild Territory</text>
+	</string>
+	<string id="Stancia">
+		<text>Chernobyl NPP</text>
+	</string>
+	<string id="Story-2006">
+		<text>2008, 12 de Abril, 14:33</text>
+	</string>
+	<string id="Story-2008">
+		<text>Ano 2010</text>
+	</string>
+	<string id="Story-2010">
+		<text>Ano 2011</text>
+	</string>
+	<string id="Story-raid">
+		<text>Incursão do exercito na Zona. 2011</text>
+	</string>
+	<string id="Time_machine">
+		<text>Máquina do tempo</text>
+	</string>
+	<string id="Yantar">
+		<text>Yantar</text>
+	</string>
+	<string id="Zharka">
+		<text>Queimador</text>
+	</string>
+	<string id="Zone">
+		<text>A Zona</text>
+	</string>
+	<string id="Zone-story">
+		<text>História da Zona</text>
+	</string>
+</string_table>
