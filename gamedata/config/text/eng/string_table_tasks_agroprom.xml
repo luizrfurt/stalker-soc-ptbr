@@ -1,78 +1,78 @@
 	<string id="agr_find_ghost">
-		<text>Find out what happened to Ghost</text>
+		<text>Descobrir o que aconteceu com Ghost</text>
 	</string>
 	<string id="agr_gunslinger_cache">
-		<text>Strelok's stash</text>
+		<text>Esconderijo de Strelok</text>
 	</string>
 	<string id="agr_help_krot">
-		<text>Save Mole</text>
+		<text>Salvar Mole</text>
 	</string>
 	<string id="agr_help_krot_0">
-		<text>Help Mole fight off the soldiers</text>
+		<text>Ajudar Mole a lutar contra os soldados</text>
 	</string>
 	<string id="agr_help_krot_1">
-		<text>Kill the soldiers</text>
+		<text>Matar os soldados</text>
 	</string>
 	<string id="agr_help_krot_2">
-		<text>Save Mole</text>
+		<text>Salvar Mole</text>
 	</string>
 	<string id="agr_help_stalkers">
-		<text>Help the stalkers</text>
+		<text>Ajudar os stalkers</text>
 	</string>
 	<string id="agr_help_stalkers_0">
-		<text>Help the stalkers fight off the soldiers</text>
+		<text>Ajudar os stalkers a lutar contra os soldados</text>
 	</string>
 	<string id="agr_help_stalkers_1">
-		<text>Kill the soldiers</text>
+		<text>Matar os soldados</text>
 	</string>
 	<string id="agr_help_stalkers_2">
-		<text>Help the stalkers fight off the soldiers</text>
+		<text>Ajudar os stalkers a lutar contra os soldados</text>
 	</string>
 	<string id="agr_krot">
-		<text>Meet the stalkers</text>
+		<text>Encontrar os stalkers</text>
 	</string>
 	<string id="agr_meet_krot_band">
-		<text>Get information about Strelok</text>
+		<text>Obter informacao sobre Strelok</text>
 	</string>
 	<string id="agr_meet_krot_band_0">
-		<text>Get information from Mole</text>
+		<text>Obter informacao de Mole</text>
 	</string>
 	<string id="agr_meet_krot_band_1">
-		<text>Meet Mole's group</text>
+		<text>Encontrar o grupo de Mole</text>
 	</string>
 	<string id="agr_meet_krot_band_2">
-		<text>Get info from Mole</text>
+		<text>Pegar informacao de Mole</text>
 	</string>
 	<string id="agroprom_find_gunslinger_cache">
-		<text>Find Strelok's group's stash</text>
+		<text>Encontrar o esconderijo do grupo de Strelok</text>
 	</string>
 	<string id="agroprom_find_gunslinger_cache_0">
-		<text>Find Strelok's group's stash</text>
+		<text>Encontrar o esconderijo do grupo de Strelok</text>
 	</string>
 	<string id="agroprom_find_gunslinger_cache_1">
-		<text>Find the stash</text>
+		<text>Encontrar o esconderijo</text>
 	</string>
 	<string id="agroprom_find_gunslinger_cache_2">
-		<text>Find information about Strelok in the stash</text>
+		<text>Encontrar informacao sobre Strelok no esconderijo</text>
 	</string>
 	<string id="agroprom_find_gunslinger_cache_3">
-		<text>Find the way out of the underground</text>
+		<text>Encontrar a saida do Agroprom Subsolo</text>
 	</string>
 	<string id="agroprom_find_stalker_phantom">
-		<text>Find Ghost</text>
+		<text>Encontrar Ghost</text>
 	</string>
 	<string id="agroprom_find_stalker_phantom_0">
-		<text>Ghost knows where Strelok is.</text>
+		<text>Ghost sabe onde Strelok esta</text>
 	</string>
 	<string id="agroprom_get_military_documents">
-		<text>Find the militaries' documents</text>
+		<text>Encontrar os documentos dos militares</text>
 	</string>
 	<string id="agroprom_get_military_documents_0">
-		<text>Agroprom Research Institute</text>
+		<text>Instituto de Pesquisa Agroprom</text>
 	</string>
 	<string id="agroprom_get_military_documents_1">
-		<text>Steal the militaries' documents</text>
+		<text>Roubar os documentos dos militares</text>
 	</string>
 	<string id="agroprom_get_military_documents_2">
-		<text>Take the documents to the Barkeep</text>
+		<text>Levar os documentos para o Barkeep</text>
 	</string>

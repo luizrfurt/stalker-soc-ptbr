@@ -25,25 +25,25 @@
 		<text>Arquivo de documentos plastico. Voce precisaria de um diploma em biologia para entender uma palavra do que esta escrito.</text>
 	</string>
 	<string id="item_doc_x16_name">
-		<text>Documentos do Lab X16</text>
+		<text>Documentos do Lab X-16</text>
 	</string>
 	<string id="item_doc_x18_desc">
 		<text>Uma grossa pilha de documentos cientificos. Termos, formulas e varios diagramas.</text>
 	</string>
 	<string id="item_doc_x18p1_name">
-		<text>Documentos do Lab X18, parte 1</text>
+		<text>Documentos do Lab X-18, parte 1</text>
 	</string>
 	<string id="item_doc_x18p2_name">
-		<text>Documentos do Lab X18, parte 2</text>
+		<text>Documentos do Lab X-18, parte 2</text>
 	</string>
 	<string id="item_doc_x18p3_name">
-		<text>Documentos do Lab X18, parte 3</text>
+		<text>Documentos do Lab X-18, parte 3</text>
 	</string>
 	<string id="item_doc_x18p4_name">
-		<text>Documentos do Lab X18, parte 4</text>
+		<text>Documentos do Lab X-18, parte 4</text>
 	</string>
 	<string id="item_doc_x18p5_name">
-		<text>Documentos do Lab X18, parte 5</text>
+		<text>Documentos do Lab X-18, parte 5</text>
 	</string>
 	<string id="item_docs_hiden_pri_desc">
 		<text>Manuscrito desgastado encadernado em couro. Escrito pelo proprio Strelok. Judando apenas pelos titulos, pode explicar alguns dos segredos da Zona.</text>
@@ -82,7 +82,7 @@
 		<text>Pendrive do Strelok</text>
 	</string>
 	<string id="item_key_x18_desc">
-		<text>Chave electronica para o Lab subterraneo X18.</text>
+		<text>Chave electronica para o Lab subterraneo X-18.</text>
 	</string>
 	<string id="item_key_x18_name">
 		<text>Chave do Borov</text>

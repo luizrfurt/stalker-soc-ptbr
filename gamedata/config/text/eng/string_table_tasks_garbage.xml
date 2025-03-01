@@ -1,0 +1,48 @@
+	<string id="gar_car_graveyard_quest">
+		<text>Responda ao pedido de ajuda</text>
+	</string>
+	<string id="gar_defend_garbage">
+		<text>Repila o ataque dos bandidos.</text>
+	</string>
+	<string id="gar_dialog_hellcar">
+		<text>Ofereca sua ajuda ao lider do esquadrao neutro.</text>
+	</string>
+	<string id="gar_dialog_hellcar_1">
+		<text>Ofereca sua ajuda a Bes.</text>
+	</string>
+	<string id="gar_hellcar_alive">
+		<text>Fale com Bes.</text>
+	</string>
+	<string id="gar_help_dymon">
+		<text>Repila o ataque dos bandidos.</text>
+	</string>
+	<string id="gar_help_tunnel_newbie">
+		<text>Ajude o novato do Lixao</text>
+	</string>
+	<string id="gar_kill_bandits">
+		<text>Destrua o ataque dos bandidos</text>
+	</string>
+	<string id="gar_kill_boars">
+		<text>Ajude o posto de controle do Duty</text>
+	</string>
+	<string id="gar_kill_boars_1">
+		<text>Mate os javalis.</text>
+	</string>
+	<string id="gar_kill_boars_2">
+		<text>Fale com o comandante do Duty</text>
+	</string>
+	<string id="gar_kill_boars_descr">
+		<text>Duty: "Ola, aqui fala a faccao Duty do Lixao. Ha uma onda de mutantes vindo de Dark Valley em direcao ao Bar. Garantimos nossa gratidao a todos que ajudarem a eliminar essa escoria. Palavra da Duty."</text>
+	</string>
+	<string id="gar_kill_boars_main">
+		<text>Missao para chegar ao Bar.</text>
+	</string>
+	<string id="garbage_meet_stalker_1">
+		<text>Aprenda algo sobre Strelok com Seriy.</text>
+	</string>
+	<string id="graveyard_raid_text">
+		<text>Bes: "A escoria dos bandidos esta tentando tomar o controle do Lixao. Houve uma briga aqui ha meia hora. Matamos tres dos desgracados. O resto dos caras recuou, mas tenho a sensacao de que vao voltar a qualquer momento com reforcos. Somos poucos e um cano extra nao faria mal. Se voce nos ajudar a destruir os reforcos deles, eu retribuirei o favor."</text>
+	</string>
+	<string id="help_for_neitrals_text">
+		<text>Houve um tiroteio no cemiterio de veiculos abandonados entre forcas neutras e bandidos. Os neutros conseguiram repelir os bandidos, mas estao pedindo ajuda.</text>
+	</string>

@@ -221,7 +221,7 @@
 		<text>Sargento regular do Exercito Ucraniano. Nenhum detalhe disponivel.</text>
 	</string>
 	<string id="esc_shustryi_bio">
-		<text>Stalker que recebeu esse nome por ser quase invisivel e verdadeiramente indispensavel. O comerciante recorre a ele para missoes sensiveis, como espionar alguem, bisbilhotar e escutar conversas.</text>
+		<text>Stalker que recebeu esse nome por ser quase invisivel e verdadeiramente indispensavel. O trader recorre a ele para missoes sensiveis, como espionar alguem, bisbilhotar e escutar conversas.</text>
 	</string>
 	<string id="esc_shustryi_name">
 		<text>Nimble</text>
@@ -740,7 +740,7 @@
 		<text>Um dos veteranos. Conhece a Zona como a palma da mao. Geralmente bem equipado e altamente perigoso. Nenhum detalhe disponivel.</text>
 	</string>
 	<string id="sim_stalker_master_chuchelo_bio">
-		<text>Contrabandista experiente. Durante muito tempo, exerceu seu comercio na Africa e na America do Sul. A noticia do desastre de Chernobyl o trouxe para a Ucrania. Em pouco tempo, ele conseguiu contrabandear centenas de mutantes empalhados para fora da area restrita e ganhou o apelido de "Taxidermista". Quando nao esta "trabalhando" na Zona, ele e um comerciante bem sucedido. Adora ternos chiques e gravatas elegantes, mas prefere armas sovieticas.</text>
+		<text>Contrabandista experiente. Durante muito tempo, exerceu seu comercio na Africa e na America do Sul. A noticia do desastre de Chernobyl o trouxe para a Ucrania. Em pouco tempo, ele conseguiu contrabandear centenas de mutantes empalhados para fora da area restrita e ganhou o apelido de "Taxidermista". Quando nao esta "trabalhando" na Zona, ele e um trader bem sucedido. Adora ternos chiques e gravatas elegantes, mas prefere armas sovieticas.</text>
 	</string>
 	<string id="sim_stalker_master_diador_bio">
 		<text>Participou da guerra no Afeganistao. Antigo ateu, mas depois de sobreviver a uma emboscada dos Mujahideen, se tornou um homem religioso. Depois da guerra no Afeganistao, ele emigrou para a Polonia, onde se matriculou em um seminario teologico. Depois de se formar no seminario, pregou na igreja catolica em Lvov. Depois da explosao no Chernobyl NPP, ele se voluntariou para ajudar as vitimas. Nos ultimos anos tem pregado na Zona.</text>
@@ -764,7 +764,7 @@
 		<text>Stalker veterano. Possivelmente bem equipado. Nenhum detalhe disponivel.</text>
 	</string>
 	<string id="sim_stalker_veteran_gusarov_bio">
-		<text>Oleg "o Fiend" Gusarov. Um ex "Black Beret", serviu na brigada de Forcas Especiais Belotserkovskaya. Fez diversas missoes, tornando-se sargento mestre. Um atirador de elite e tecnico em explosivos. Um solitario por natureza, nunca entra na Zona em grupo, preferindo agir sozinho. Foi convidado a se juntar a diversos clas, mas sempre recusou.</text>
+		<text>Oleg "o Fiend" Gusarov. Um ex "Black Beret", serviu na brigada de Forcas Especiais Belotserkovskaya. Fez diversas missoes, tornando-se sargento mestre. Um sniper e tecnico em explosivos. Um solitario por natureza, nunca entra na Zona em grupo, preferindo agir sozinho. Foi convidado a se juntar a diversos clas, mas sempre recusou.</text>
 	</string>
 	<string id="sim_stalker_veteran_umnik_bio">
 		<text>Um estudante do Departamento de Fisica que abandonou no ultimo ano. Ele foi para a Zona em busca de dinheiro facil. Gosta de se exibir com seu "conhecimento cientifico" e discorrer sobre questoes filosoficas abstratas. Isso e motivo suficiente para outros stalkers nao gostarem dele. No geral, e um sujeito bem decente. Uma especie de idealista.</text>

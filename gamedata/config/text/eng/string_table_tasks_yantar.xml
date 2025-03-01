@@ -1,72 +1,74 @@
 	<string id="yan_find_ghost">
-		<text>Take the documents from Ghost</text>
+		<text>Pegue os documentos de Ghost</text>
 	</string>
 	<string id="yan_find_ghost_task">
-		<text>Take the documents</text>
+		<text>Pegue os documentos</text>
 	</string>
 	<string id="yan_find_vasilyev_task">
-		<text>Get inside the lab</text>
+		<text>Entre no laboratorio</text>
 	</string>
 	<string id="yan_find_labX16">
-		<text>Get inside Lab X16</text>
+		<text>Entre no Lab X-16</text>
 	</string>
 	<string id="yan_find_scientist">
-		<text>Take radiation measurements</text>
+		<text>Faca as medicoes de radiacao</text>
 	</string>
 	<string id="yan_find_vasilyev">
-		<text>Search Valiliev's corpse</text>
+		<text>Revise o corpo de Valiliev</text>
 	</string>
 	<string id="yan_kill_brain">
-		<text>Turn off psi-emission</text>
+		<text>Desligue a emisao psi</text>
 	</string>
 	<string id="yan_kill_brain_task">
-		<text>Unplug the mechanism</text>
+		<text>Desconecte o mecanismo</text>
 	</string>
 	<string id="yan_kill_brain_task_2">
-		<text>Get out of the lab</text>
+		<text>Saia do laboratorio</text>
 	</string>
 	<string id="yan_provodnik_about_doctor">
-		<text>Talk to Guide</text>
+		<text>Fale com Guide</text>
 	</string>
 	<string id="yan_provodnik_task">
-		<text>Meet the Guide</text>
+		<text>Encontre Guide</text>
 	</string>
 	<string id="yan_psi_zone_find">
-		<text>Escort Kruglov to the measurement site</text>
+		<text>Escolte Kruglov ate o local de medicao</text>
 	</string>
 	<string id="yan_psi_zone_find_semenov">
-		<text>Escort Semenov to the measurement site</text>
+		<text>Escolte Semenov ate o local de medicao</text>
 	</string>
 	<string id="yan_return_to_bunker">
-		<text>Bring the results to Sakharov</text>
+		<text>Leve os resultados para Sakharov</text>
 	</string>
 	<string id="yan_scientist_return">
-		<text>Talk to Sakharov</text>
+		<text>Fale com Sakharov</text>
 	</string>
 	<string id="yan_scientist_return_task">
-		<text>Talk to Sakharov</text>
+		<text>Fale com Sakharov</text>
 	</string>
 	<string id="yan_secret_tonnel">
-		<text>Get out via the secret tunnel</text>
+		<text>Saia pelo tunel secreto</text>
 	</string>
 	<string id="yan_switcher_off_1">
-		<text>Turn off the 1st control module</text>
+		<text>Desligue o 1º modulo de controle</text>
 	</string>
 	<string id="yan_switcher_off_2">
-		<text>Turn off the 2nd control module</text>
+		<text>Desligue o 2º modulo de controle</text>
 	</string>
 	<string id="yan_switcher_off_3">
-		<text>Turn off the 3rd control module</text>
+		<text>Desligue o 3º modulo de controle</text>
 	</string>
 	<string id="yan_talk_to_kruglov">
-		<text>Talk to Kruglov</text>
+		<text>Fale com Kruglov</text>
 	</string>
 	<string id="yan_talk_to_semenov">
-		<text>Talk to Semenov</text>
+		<text>Fale com Semenov</text>
 	</string>
 	<string id="yan_vasilyev_pda">
-		<text>Vasiliev's PDA</text>
+		<text>PDA de Vasiliev</text>
 	</string>
 	<string id="yan_zombie_zone">
-		<text>Estimated location of Lab X16</text>
+		<text>Localizacao estimada do Lab X-16</text>
 	</string>
+	<string id="yan_zombie_zone_task">
+		<text>Encontre o Lab X-16</text>
