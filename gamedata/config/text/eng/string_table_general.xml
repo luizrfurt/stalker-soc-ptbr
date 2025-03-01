@@ -166,7 +166,7 @@
 		<text>Salvamento automatico</text>
 	</string>
 	<string id="st_game_over">
-		<text>Fim de jogo.</text>
+		<text>Fim de jogo</text>
 	</string>
 	<string id="st_item_used">
 		<text>Usado</text>
@@ -184,7 +184,7 @@
 		<text>Procurar no esconderijo ($$ACTION_USE$$)</text>
 	</string>
 	<string id="inventory_item_use">
-		<text>Pequisar item ($$ACTION_USE$$)</text>
+		<text>Pegar item ($$ACTION_USE$$)</text>
 	</string>
 	<string id="ui_mm_check_updates">
 		<text>Atualizacoes do jogo</text>
@@ -208,10 +208,10 @@
 		<text>Sangrando</text>
 	</string>
 	<string id="st_mp_say_to_all">
-		<text>Para todos</text>
+		<text>Dizer a todos</text>
 	</string>
 	<string id="st_mp_say_to_team">
-		<text>Para a equipe</text>
+		<text>Dizer a equipe</text>
 	</string>
 	<string id="st_knife">
 		<text>Faca</text>
