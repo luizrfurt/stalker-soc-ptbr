@@ -10,16 +10,16 @@
 		<text>Me sigam!</text>
 	</string>
 	<string id="speech_guardartifact">
-		<text>Guardem o artefato. Não ataquem ainda!</text>
+		<text>Guardem o artefato. Nao ataquem ainda!</text>
 	</string>
 	<string id="speech_holdingpos">
-		<text>Estou mantendo a posição</text>
+		<text>Estou mantendo a posiçao</text>
 	</string>
 	<string id="speech_holdpos">
-		<text>Mantenham a posição!</text>
+		<text>Mantenham a posiçao!</text>
 	</string>
 	<string id="speech_icoverartifact">
-		<text>Vão para o artefato! Eu cubro vocês.</text>
+		<text>Vao para o artefato! Eu cubro voces.</text>
 	</string>
 	<string id="speech_needhelp">
 		<text>Preciso de ajuda</text>
@@ -28,13 +28,13 @@
 		<text>Sem dinheiro, compre algum equipamento</text>
 	</string>
 	<string id="speech_no">
-		<text>Não</text>
+		<text>Nao</text>
 	</string>
 	<string id="speech_noenemy">
-		<text>Não há ninguém por perto</text>
+		<text>Nao ha ninguem por perto</text>
 	</string>
 	<string id="speech_report">
-		<text>Relatem a situação!</text>
+		<text>Relatem a situaçao!</text>
 	</string>
 	<string id="speech_retreat">
 		<text>Retirem-se!</text>
@@ -49,6 +49,6 @@
 		<text>Mantenham-se unidos</text>
 	</string>
 	<string id="speech_takeartifact">
-		<text>Vão para o artefato!</text>
+		<text>Vao para o artefato!</text>
 	</string>
 </string_table>

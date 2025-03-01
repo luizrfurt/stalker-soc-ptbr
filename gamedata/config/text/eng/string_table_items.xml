@@ -112,13 +112,13 @@
 		<text>Documentos do posto avançado</text>
 	</string>
 	<string id="yan_bad_psy_helmet_desc">
-		<text>Protótipo desenvolvido por cientistas para proteger as pessoas de emissões psi. Não ajustado.</text>
+		<text>Prototipo desenvolvido por cientistas para proteger as pessoas de emissoes psi. Nao ajustado.</text>
 	</string>
 	<string id="yan_bad_psy_helmet_name">
-		<text>Capacete psi não ajustado.</text>
+		<text>Capacete psi nao ajustado.</text>
 	</string>
 	<string id="yan_good_psy_helmet_desc">
-		<text>Protótipo funcional desenvolvido por cientistas para proteger as pessoas de emissões psi</text>
+		<text>Prototipo funcional desenvolvido por cientistas para proteger as pessoas de emissoes psi</text>
 	</string>
 	<string id="yan_good_psy_helmet_name">
 		<text>Capacete psi funcional</text>

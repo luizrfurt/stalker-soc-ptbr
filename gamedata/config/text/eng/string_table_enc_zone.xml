@@ -19,7 +19,7 @@
 		<text>Flor de pedra</text>
 	</string>
 	<string id="af-drops">
-		<text>Gotículas</text>
+		<text>Goticulas</text>
 	</string>
 	<string id="af-dummy-battery">
 		<text>Bateria</text>
@@ -139,7 +139,7 @@
 		<text>Um verdadeiro milagre de anomalia: uma area de varios metros de diametro onde o fluxo do tempo e significativamente mais lento que o usual. Parece nao ter efeito negativo na saude humana. No entanto, a Maquina do Tempo pode ser muito dificil de sair. Curiosamente, remover as Contas da mamae - um artefato geralmente encontrado no centro da anomalia - faz a Maquina do Tempo desaparecer.</text>
 	</string>
 	<string id="enc_zone_anomalies_zharka">
-		<text>Enquanto inativa, a anomalia se manifesta como uma nuvem quase invisivel de ar quente. Quando acionada por um objeto ou ser vivo, aquece instantaneamente ate temperaturas letais proximas de 1500K. A noite, pode ser revelada por detectores poderosos ou jogando objetos metalicos na area de acionamento. Forma tres tipos de artefatos: Gotículas, Bola de fogo e Cristal.</text>
+		<text>Enquanto inativa, a anomalia se manifesta como uma nuvem quase invisivel de ar quente. Quando acionada por um objeto ou ser vivo, aquece instantaneamente ate temperaturas letais proximas de 1500K. A noite, pode ser revelada por detectores poderosos ou jogando objetos metalicos na area de acionamento. Forma tres tipos de artefatos: Goticulas, Bola de fogo e Cristal.</text>
 	</string>
 	<string id="enc_zone_artifact_af-ameba-mica">
 		<text>A anomalia "Ponche de fruta" e capaz de criar este artefato nas condicoes fisicas mais raras e extremas. O resultado e um objeto duro e semitransparente. Um artefato raro e caro.</text>
@@ -253,19 +253,19 @@
 		<text>O local da famosa usina nuclear mundial. Este e o coracao da Zona. Se voce acreditar nas lendas, este tambem e o local do Monolith - uma coisa misteriosa capaz de conceder qualquer desejo.</text>
 	</string>
 	<string id="enc_zone_locations_yantar">
-		<text>O lendario lago no setor de mesmo nome secou ha muito tempo, deixando um pântano raso em seu lugar. O lugar é morbido e ensopado de morte. Grandes perigos aguardam qualquer alma aventureira e tola o suficiente para se aproximar. Quem se atrever a ir longe demais enlouquece. Zumbis-drones perambulam por todo o setor, esperando por novas vitimas. Se você andar ao redor do lago e passar pelos zumbis, acabara no campo dos cientistas, onde os cabeças trazidos de helicóptero estão fazendo algumas pesquisas. Você pode bater um papo com eles; eles compram artefatos e podem até lhe enviar em uma missão.</text>
+		<text>O lendario lago no setor de mesmo nome secou ha muito tempo, deixando um pantano raso em seu lugar. O lugar e morbido e ensopado de morte. Grandes perigos aguardam qualquer alma aventureira e tola o suficiente para se aproximar. Quem se atrever a ir longe demais enlouquece. Zumbis-drones perambulam por todo o setor, esperando por novas vitimas. Se voce andar ao redor do lago e passar pelos zumbis, acabara no campo dos cientistas, onde os cabeças trazidos de helicoptero estao fazendo algumas pesquisas. Voce pode bater um papo com eles; eles compram artefatos e podem ate lhe enviar em uma missao.</text>
 	</string>
 	<string id="enc_zone_zone-story_story-2006">
-		<text>A zona contaminada estava iluminada com a luz mais intensa, quase insuportavel para os olhos humanos. Você poderia praticamente ver as nuvens no céu se transformando em vapor. Depois de um momento de silencio absoluto, veio o trovão ruidoso, e então a terra tremeu. As pessoas caíram no chão, apertando os olhos e tapando os ouvidos. Aqueles que ainda conseguiam ficar em pé correram para salvar suas vidas. Parecia que todo o combustível nuclear enterrado sob o Sarcofago tinha explodido de uma vez. No dia seguinte, o exercito isolou a nova Zona. Os satelites ajudaram a determinar que o epicentro da explosao nao estava nas proximidades dos reatores da NPP, mas a cerca de meio quilometro de distancia. Acredita-se que o pessoal da estação tenha morrido instantaneamente, embora muitas pessoas ainda permanecessem na area isolada. A operação de resgate logo se mostrou uma empreitada sem sentido, pois todas as pessoas e maquinarios enviados para a zona morreriam ou falhariam imediatamente. Pouco tempo depois do desastre, o diametro da Zona se expandiu mais alguns quilometros. A maioria das tropas do governo que guardavam a linha de fronteira e as equipes de pesquisa estacionadas lá pereceram instantaneamente. Em pânico, as pessoas fugiram. Os habitantes das cidades e vilarejos próximos foram evacuados às pressas. Um enorme perigo se aproxima do mundo e só podemos imaginar qual será o seu impacto total.</text>
+		<text>A zona contaminada estava iluminada com a luz mais intensa, quase insuportavel para os olhos humanos. Voce poderia praticamente ver as nuvens no ceu se transformando em vapor. Depois de um momento de silencio absoluto, veio o trovao ruidoso, e entao a terra tremeu. As pessoas cairam no chao, apertando os olhos e tapando os ouvidos. Aqueles que ainda conseguiam ficar em pe correram para salvar suas vidas. Parecia que todo o combustivel nuclear enterrado sob o Sarcofago tinha explodido de uma vez. No dia seguinte, o exercito isolou a nova Zona. Os satelites ajudaram a determinar que o epicentro da explosao nao estava nas proximidades dos reatores da NPP, mas a cerca de meio quilometro de distancia. Acredita-se que o pessoal da estaçao tenha morrido instantaneamente, embora muitas pessoas ainda permanecessem na area isolada. A operaçao de resgate logo se mostrou uma empreitada sem sentido, pois todas as pessoas e maquinarios enviados para a zona morreriam ou falhariam imediatamente. Pouco tempo depois do desastre, o diametro da Zona se expandiu mais alguns quilometros. A maioria das tropas do governo que guardavam a linha de fronteira e as equipes de pesquisa estacionadas la pereceram instantaneamente. Em panico, as pessoas fugiram. Os habitantes das cidades e vilarejos proximos foram evacuados as pressas. Um enorme perigo se aproxima do mundo e so podemos imaginar qual sera o seu impacto total.</text>
 	</string>
 	<string id="enc_zone_zone-story_story-2008">
-		<text>Dois anos se passaram desde o desastre na zona contaminada ao redor da NPP de Chernobyl. O numero de mortos disparou, incontáveis pessoas desaparecidas, gado morto, edifícios em decadência, florestas mutiladas... Até hoje os cientistas não têm explicação sobre o que exatamente aconteceu em Chernobyl. Enquanto isso, algumas anomalias incompreensíveis foram descobertas na area, e a Zona continua se expandindo. Expedições raras encontram especies de animais mutantes exibindo habilidades inacreditáveis.</text>
+		<text>Dois anos se passaram desde o desastre na zona contaminada ao redor da NPP de Chernobyl. O numero de mortos disparou, incontaveis pessoas desaparecidas, gado morto, edificios em decadencia, florestas mutiladas... Ate hoje os cientistas nao tem explicaçao sobre o que exatamente aconteceu em Chernobyl. Enquanto isso, algumas anomalias incompreensiveis foram descobertas na area, e a Zona continua se expandindo. Expediçoes raras encontram especies de animais mutantes exibindo habilidades inacreditaveis.</text>
 	</string>
 	<string id="enc_zone_zone-story_story-2010">
-		<text>Seguindo as trilhas daqueles solitários imprudentes que se chamam de Stalkers, as expedições de pesquisa estão mais uma vez partindo para um estudo mais profundo da Zona. No entanto, o perímetro vigiado pelo exercito tem outros habitantes perigosos agora - desde caçadores comuns até a pior escória de bandidos. A maioria dos Stalkers perambula pela Zona em busca de anomalias e dos chamados artefatos pelos quais ganham um bom dinheiro.</text>
+		<text>Seguindo as trilhas daqueles solitarios imprudentes que se chamam de Stalkers, as expediçoes de pesquisa estao mais uma vez partindo para um estudo mais profundo da Zona. No entanto, o perimetro vigiado pelo exercito tem outros habitantes perigosos agora - desde caçadores comuns ate a pior escoria de bandidos. A maioria dos Stalkers perambula pela Zona em busca de anomalias e dos chamados artefatos pelos quais ganham um bom dinheiro.</text>
 	</string>
 	<string id="enc_zone_zone-story_story-raid">
-		<text>O exercito, incluindo as forças especiais lideradas por destacamentos paramilitares de Stalkers, lançou uma grande incursão na Zona. O objetivo era romper até a NPP de Chernobyl e eliminar a causa dos campos anômalos ou pelo menos obter informações de primeira mão sobre o estado atual da situação. Esse empreendimento, envolvendo mais de mil pessoas e maquinário pesado, foi um completo fracasso. Grupos isolados de sobreviventes foram forçados a se estabelecer na Zona com poucas esperanças de resgate.</text>
+		<text>O exercito, incluindo as forças especiais lideradas por destacamentos paramilitares de Stalkers, lançou uma grande incursao na Zona. O objetivo era romper ate a NPP de Chernobyl e eliminar a causa dos campos anomalos ou pelo menos obter informaçoes de primeira mao sobre o estado atual da situaçao. Esse empreendimento, envolvendo mais de mil pessoas e maquinario pesado, foi um completo fracasso. Grupos isolados de sobreviventes foram forçados a se estabelecer na Zona com poucas esperanças de resgate.</text>
 	</string>
 	<string id="Escape">
 		<text>Posto avançado</text>
@@ -277,13 +277,13 @@
 		<text>Lixao</text>
 	</string>
 	<string id="Gravi">
-		<text>Vórtice</text>
+		<text>Vortice</text>
 	</string>
 	<string id="Lift">
 		<text>Elevador</text>
 	</string>
 	<string id="Locations">
-		<text>Localizações</text>
+		<text>Localizaçoes</text>
 	</string>
 	<string id="Meat">
 		<text>Rebolo</text>
@@ -316,10 +316,10 @@
 		<text>Ano 2011</text>
 	</string>
 	<string id="Story-raid">
-		<text>Incursão do exercito na Zona. 2011</text>
+		<text>Incursao do exercito na Zona. 2011</text>
 	</string>
 	<string id="Time_machine">
-		<text>Máquina do tempo</text>
+		<text>Maquina do tempo</text>
 	</string>
 	<string id="Yantar">
 		<text>Yantar</text>
@@ -331,6 +331,6 @@
 		<text>A Zona</text>
 	</string>
 	<string id="Zone-story">
-		<text>História da Zona</text>
+		<text>Historia da Zona</text>
 	</string>
 </string_table>

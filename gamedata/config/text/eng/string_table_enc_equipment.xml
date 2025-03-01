@@ -79,7 +79,7 @@
 		<text>Uma excelente bebida energetica composta de cafeina, taurina e uma mistura de vitaminas rejuvenescedoras. Ideal quando voce esta cansado demais para seguir em frente!</text>
 	</string>
 	<string id="enc_equipment_food_bread1">
-		<text>Dificil dizer quem consegue assar esses pães na Zona, mas o pao nao esta contaminado e e perfeitamente comestivel. Bem, pelo menos nenhum dos stalkers reclamou sobre isso.</text>
+		<text>Dificil dizer quem consegue assar esses paes na Zona, mas o pao nao esta contaminado e e perfeitamente comestivel. Bem, pelo menos nenhum dos stalkers reclamou sobre isso.</text>
 	</string>
 	<string id="enc_equipment_food_conserva1">
 		<text>Comida enlatada de um armazem do exercito saqueado pelos stalkers. O prazo de validade ainda nao expirou.</text>
@@ -88,7 +88,7 @@
 		<text>Feita de uma mistura de frango e soja, a "salsicha diet" e frequentemente, pela falta de outras opcoes, o cafe da manha, almoco e janta de um stalker em um so.</text>
 	</string>
 	<string id="enc_equipment_food_vodka1">
-		<text>Vodka fabricada pela empresa GSC. Desce facil e reduz significativamente os efeitos da radiacao, mas por obvias razoes deve ser consumida com moderação.</text>
+		<text>Vodka fabricada pela empresa GSC. Desce facil e reduz significativamente os efeitos da radiacao, mas por obvias razoes deve ser consumida com moderaçao.</text>
 	</string>
 	<string id="enc_equipment_medi_antirad1">
 		<text>Reduz os efeitos da radiacao.</text>
@@ -100,10 +100,10 @@
 		<text>Kit medico multiuso. Usado para tratar diversos tipos e gravidades de ferimentos - cortes, queimaduras, envenenamentos, etc.</text>
 	</string>
 	<string id="enc_equipment_medi_medkit2">
-		<text>Um kit medico especializado para combater danos fisicos e perda de sangue. Inclui um componente para coagulação sanguínea, antibióticos, estimuladores imunológicos e analgésicos.</text>
+		<text>Um kit medico especializado para combater danos fisicos e perda de sangue. Inclui um componente para coagulaçao sanguinea, antibioticos, estimuladores imunologicos e analgesicos.</text>
 	</string>
 	<string id="enc_equipment_medi_medkit3">
-		<text>Kit medico, especialmente projetado para o trabalho na Zona. O kit inclui meios de curar feridas, assim como meios para eliminar radionucleotideos do corpo. Previne o desenvolvimento de doenças por ondas radioativas e reduz a dose de radiação acumulada.</text>
+		<text>Kit medico, especialmente projetado para o trabalho na Zona. O kit inclui meios de curar feridas, assim como meios para eliminar radionucleotideos do corpo. Previne o desenvolvimento de doenças por ondas radioativas e reduz a dose de radiaçao acumulada.</text>
 	</string>
 	<string id="energy_drink_name">
 		<text>Energetico</text>
@@ -142,7 +142,7 @@
 		<text>Detector de anomalias</text>
 	</string>
 	<string id="st_detector_descr">
-		<text>Destinado para a detecção de zonas anômalas, assim como focos de poluição radioativa.</text>
+		<text>Destinado para a detecçao de zonas anomalas, assim como focos de poluiçao radioativa.</text>
 	</string>
 	<string id="st_grenade_gd5">
 		<text>Granada de fumaça</text>
