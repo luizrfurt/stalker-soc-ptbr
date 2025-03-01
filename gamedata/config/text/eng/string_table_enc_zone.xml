@@ -202,7 +202,7 @@
 		<text>Se forma na anomalia Springboard. Forma um campo protetor fraco cujo efeito colateral e uma leve radiacao. O artefato e muito comum e nao muito valioso.</text>
 	</string>
 	<string id="enc_zone_artifact_af-mincer-meat">
-		<text>Produzido pela anomalia Whirligig. Causa crescimento celular acelerado. Por outro lado, as celulas recem-formadas sao muito mais receptivas aos efeitos do uranio fisico. O artefato nao aparece com muita frequencia, mas e dificil chama-lo de raro.</text>
+		<text>Produzido pela anomalia Redemoinho. Causa crescimento celular acelerado. Por outro lado, as celulas recem-formadas sao muito mais receptivas aos efeitos do uranio fisico. O artefato nao aparece com muita frequencia, mas e dificil chama-lo de raro.</text>
 	</string>
 	<string id="enc_zone_artifact_af-night-star">
 		<text>Este maravilhoso artefato e formado pela anomalia Springboard. O uso do artefato exige a neutralizacao da radiacao mortal. Caro e raro, este artefato e extremamente interessante para expedicoes cientificas e outras atividades de pesquisa na Zona.</text>
@@ -217,7 +217,7 @@
 		<text>O resultado da interacao entre a anomalia Fuz queimado e o corpo de um Stalker descuidado. O artefato Thorn espeta o corpo de seu portador, nao importa o que aconteca. Mas tambem ajuda a limpar o corpo de radionuclideos. Bastante comum e barato.</text>
 	</string>
 	<string id="enc_zone_artifact_af-soul">
-		<text>Artefato muito raro, encontrado perto da anomalia Whirligig. Apenas alguns conseguem encontrar este artefato, e poucos sequer o viram. Tem uma forma bonita e um preco igualmente atraente.</text>
+		<text>Artefato muito raro, encontrado perto da anomalia Redemoinho. Apenas alguns conseguem encontrar este artefato, e poucos sequer o viram. Tem uma forma bonita e um preco igualmente atraente.</text>
 	</string>
 	<string id="enc_zone_artifact_af-vyvert">
 		<text>Localizado na anomalia chamada "Vortex". Quando toca o corpo, dissemina a radiacao direcionada, protegendo contra arranhoes ou ferimentos causados por armas. Este artefato nao e dificil de encontrar, por isso nao pagam muito por ele.</text>
@@ -286,7 +286,7 @@
 		<text>Localizacoes</text>
 	</string>
 	<string id="Meat">
-		<text>Rebolo</text>
+		<text>Redemoinho</text>
 	</string>
 	<string id="Military-loc">
 		<text>Base militar</text>
