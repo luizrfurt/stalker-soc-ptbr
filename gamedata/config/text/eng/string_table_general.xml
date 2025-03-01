@@ -193,7 +193,7 @@
 		<text>Alternativa</text>
 	</string>
 	<string id="ui_inv_health">
-		<text>Saude</text>
+		<text>Vida</text>
 	</string>
 	<string id="ui_inv_radiation">
 		<text>Radiacao</text>

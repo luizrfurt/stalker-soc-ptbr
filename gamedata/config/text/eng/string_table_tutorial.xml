@@ -10,10 +10,10 @@
 		<text>Abaixar-se</text>
 	</string>
 	<string id="crouch_down_tutorial">
-		<text>Para se agachar ainda mais, pressione ($$ACTION_crouch$$) + (Shift)</text>
+		<text>Para se abaixar ainda mais, pressione ($$ACTION_crouch$$) + (Shift)</text>
 	</string>
 	<string id="crouch_tutorial">
-		<text>Para se agachar, pressione ($$ACTION_crouch$$). Para se agachar ainda mais, pressione ($$ACTION_crouch$$) + ($$ACTION_accel$$)</text>
+		<text>Para se abaixar, pressione ($$ACTION_crouch$$). Para se agachar ainda mais, pressione ($$ACTION_crouch$$) + ($$ACTION_accel$$)</text>
 	</string>
 	<string id="hide_weapon">
 		<text>Selecionar arma</text>
