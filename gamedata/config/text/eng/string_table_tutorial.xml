@@ -40,7 +40,7 @@
 		<text>Radiacao</text>
 	</string>
 	<string id="radiation_tutorial">
-		<text>Quando o personagem usa um artefato radioativo no cinto ou entra em uma area com alto nivel de radiacao de fundo, ele comeca a perder saude e apresenta sinais de envenenamento por radiacao. O efeito da radiacao pode ser contrabalançado usando medicamentos anti-radiacao e vodka.</text>
+		<text>Quando o personagem usa um artefato radioativo no cinto ou entra em uma area com alto nivel de radiacao de fundo, ele comeca a perder saude e apresenta sinais de envenenamento por radiacao. O efeito da radiacao pode ser contrabalancado usando medicamentos anti-radiacao e vodka.</text>
 	</string>
 	<string id="relation">
 		<text>Atitude</text>
@@ -58,7 +58,7 @@
 		<text>As vezes voce vai precisar correr mais rapido do que o normal. Para isso, pressione ($$ACTION_sprint_toggle$$) enquanto corre. Um personagem correndo mais rapido vai correr mais longe e pular mais alto, mas se cansara mais rapido e nao conseguira atirar.</text>
 	</string>
 	<string id="starvation_tutorial">
-		<text>Se o personagem nao comer por um tempo, ele vai ficar com fome. A menos que encontre algo para comer, ele comecara a perder saude. Para evitar isso, o personagem precisa comer regularmente. Um pedaço de pao, comida enlatada ou um pedaço de linguiça resolvem o problema rapidamente, pelo menos por um tempo.</text>
+		<text>Se o personagem nao comer por um tempo, ele vai ficar com fome. A menos que encontre algo para comer, ele comecara a perder saude. Para evitar isso, o personagem precisa comer regularmente. Um pedaco de pao, comida enlatada ou um pedaco de linguica resolvem o problema rapidamente, pelo menos por um tempo.</text>
 	</string>
 	<string id="tutorial">
 		<text>Treinamento</text>

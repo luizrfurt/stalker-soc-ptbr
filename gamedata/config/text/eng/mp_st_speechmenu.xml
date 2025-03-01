@@ -13,10 +13,10 @@
 		<text>Guardem o artefato. Nao ataquem ainda!</text>
 	</string>
 	<string id="speech_holdingpos">
-		<text>Estou mantendo a posiçao</text>
+		<text>Estou mantendo a posicao</text>
 	</string>
 	<string id="speech_holdpos">
-		<text>Mantenham a posiçao!</text>
+		<text>Mantenham a posicao!</text>
 	</string>
 	<string id="speech_icoverartifact">
 		<text>Vao para o artefato! Eu cubro voces.</text>
@@ -34,7 +34,7 @@
 		<text>Nao ha ninguem por perto</text>
 	</string>
 	<string id="speech_report">
-		<text>Relatem a situaçao!</text>
+		<text>Relatem a situacao!</text>
 	</string>
 	<string id="speech_retreat">
 		<text>Retirem-se!</text>

@@ -58,6 +58,6 @@
 		<text>Pressione ($$ACTION_USE$$) para abrir o portao</text>
 	</string>
 	<string id="tip_monolith">
-		<text>FAÇA UM DESEJO ($$ACTION_USE$$)</text>
+		<text>FACA UM DESEJO ($$ACTION_USE$$)</text>
 	</string>
 </string_table>

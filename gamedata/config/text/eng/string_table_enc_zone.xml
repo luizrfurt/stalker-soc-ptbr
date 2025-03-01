@@ -61,7 +61,7 @@
 		<text>Agua-viva</text>
 	</string>
 	<string id="af-mincer-meat">
-		<text>Pedaço de carne</text>
+		<text>Pedaco de carne</text>
 	</string>
 	<string id="af-night-star">
 		<text>Estrela da noite</text>
@@ -130,7 +130,7 @@
 		<text>Uma anomalia inofensiva, que暂时 nega a gravidade normal. Manifesta-se como uma area - geralmente de varios metros de diametro - onde a atracao gravitacional da Terra e grandemente reduzida. Forma o artefato Pelicula.</text>
 	</string>
 	<string id="enc_zone_anomalies_meat">
-		<text>A anomalia agarra suas vitimas no ar e as gira em uma velocidade alucinante. A natureza exata do Redemoinho permanece desconhecida. A anomalia pode ser reconhecida por um leve redemoinho de poeira acima e por fragmentos de corpos espalhados nas proximidades. Vitimas pegas na borda externa - longe o suficiente da zona de efeito maximo no centro - podem escapar do Redemoinho com ferimentos relativamente leves. Forma tres tipos de artefatos: Sangue de pedra, Pedaço de carne e Alma.</text>
+		<text>A anomalia agarra suas vitimas no ar e as gira em uma velocidade alucinante. A natureza exata do Redemoinho permanece desconhecida. A anomalia pode ser reconhecida por um leve redemoinho de poeira acima e por fragmentos de corpos espalhados nas proximidades. Vitimas pegas na borda externa - longe o suficiente da zona de efeito maximo no centro - podem escapar do Redemoinho com ferimentos relativamente leves. Forma tres tipos de artefatos: Sangue de pedra, Pedaco de carne e Alma.</text>
 	</string>
 	<string id="enc_zone_anomalies_radioactive">
 		<text>Uma area de radiacao aumentada - acima de 50 mR/h. Permanecer em uma zona de radiacao por periodos prolongados e fortemente desencorajado.</text>
@@ -253,22 +253,22 @@
 		<text>O local da famosa usina nuclear mundial. Este e o coracao da Zona. Se voce acreditar nas lendas, este tambem e o local do Monolith - uma coisa misteriosa capaz de conceder qualquer desejo.</text>
 	</string>
 	<string id="enc_zone_locations_yantar">
-		<text>O lendario lago no setor de mesmo nome secou ha muito tempo, deixando um pantano raso em seu lugar. O lugar e morbido e ensopado de morte. Grandes perigos aguardam qualquer alma aventureira e tola o suficiente para se aproximar. Quem se atrever a ir longe demais enlouquece. Zumbis-drones perambulam por todo o setor, esperando por novas vitimas. Se voce andar ao redor do lago e passar pelos zumbis, acabara no campo dos cientistas, onde os cabeças trazidos de helicoptero estao fazendo algumas pesquisas. Voce pode bater um papo com eles; eles compram artefatos e podem ate lhe enviar em uma missao.</text>
+		<text>O lendario lago no setor de mesmo nome secou ha muito tempo, deixando um pantano raso em seu lugar. O lugar e morbido e ensopado de morte. Grandes perigos aguardam qualquer alma aventureira e tola o suficiente para se aproximar. Quem se atrever a ir longe demais enlouquece. Zumbis-drones perambulam por todo o setor, esperando por novas vitimas. Se voce andar ao redor do lago e passar pelos zumbis, acabara no campo dos cientistas, onde os cabecas trazidos de helicoptero estao fazendo algumas pesquisas. Voce pode bater um papo com eles; eles compram artefatos e podem ate lhe enviar em uma missao.</text>
 	</string>
 	<string id="enc_zone_zone-story_story-2006">
-		<text>A zona contaminada estava iluminada com a luz mais intensa, quase insuportavel para os olhos humanos. Voce poderia praticamente ver as nuvens no ceu se transformando em vapor. Depois de um momento de silencio absoluto, veio o trovao ruidoso, e entao a terra tremeu. As pessoas cairam no chao, apertando os olhos e tapando os ouvidos. Aqueles que ainda conseguiam ficar em pe correram para salvar suas vidas. Parecia que todo o combustivel nuclear enterrado sob o Sarcofago tinha explodido de uma vez. No dia seguinte, o exercito isolou a nova Zona. Os satelites ajudaram a determinar que o epicentro da explosao nao estava nas proximidades dos reatores da NPP, mas a cerca de meio quilometro de distancia. Acredita-se que o pessoal da estaçao tenha morrido instantaneamente, embora muitas pessoas ainda permanecessem na area isolada. A operaçao de resgate logo se mostrou uma empreitada sem sentido, pois todas as pessoas e maquinarios enviados para a zona morreriam ou falhariam imediatamente. Pouco tempo depois do desastre, o diametro da Zona se expandiu mais alguns quilometros. A maioria das tropas do governo que guardavam a linha de fronteira e as equipes de pesquisa estacionadas la pereceram instantaneamente. Em panico, as pessoas fugiram. Os habitantes das cidades e vilarejos proximos foram evacuados as pressas. Um enorme perigo se aproxima do mundo e so podemos imaginar qual sera o seu impacto total.</text>
+		<text>A zona contaminada estava iluminada com a luz mais intensa, quase insuportavel para os olhos humanos. Voce poderia praticamente ver as nuvens no ceu se transformando em vapor. Depois de um momento de silencio absoluto, veio o trovao ruidoso, e entao a terra tremeu. As pessoas cairam no chao, apertando os olhos e tapando os ouvidos. Aqueles que ainda conseguiam ficar em pe correram para salvar suas vidas. Parecia que todo o combustivel nuclear enterrado sob o Sarcofago tinha explodido de uma vez. No dia seguinte, o exercito isolou a nova Zona. Os satelites ajudaram a determinar que o epicentro da explosao nao estava nas proximidades dos reatores da NPP, mas a cerca de meio quilometro de distancia. Acredita-se que o pessoal da estacao tenha morrido instantaneamente, embora muitas pessoas ainda permanecessem na area isolada. A operacao de resgate logo se mostrou uma empreitada sem sentido, pois todas as pessoas e maquinarios enviados para a zona morreriam ou falhariam imediatamente. Pouco tempo depois do desastre, o diametro da Zona se expandiu mais alguns quilometros. A maioria das tropas do governo que guardavam a linha de fronteira e as equipes de pesquisa estacionadas la pereceram instantaneamente. Em panico, as pessoas fugiram. Os habitantes das cidades e vilarejos proximos foram evacuados as pressas. Um enorme perigo se aproxima do mundo e so podemos imaginar qual sera o seu impacto total.</text>
 	</string>
 	<string id="enc_zone_zone-story_story-2008">
-		<text>Dois anos se passaram desde o desastre na zona contaminada ao redor da NPP de Chernobyl. O numero de mortos disparou, incontaveis pessoas desaparecidas, gado morto, edificios em decadencia, florestas mutiladas... Ate hoje os cientistas nao tem explicaçao sobre o que exatamente aconteceu em Chernobyl. Enquanto isso, algumas anomalias incompreensiveis foram descobertas na area, e a Zona continua se expandindo. Expediçoes raras encontram especies de animais mutantes exibindo habilidades inacreditaveis.</text>
+		<text>Dois anos se passaram desde o desastre na zona contaminada ao redor da NPP de Chernobyl. O numero de mortos disparou, incontaveis pessoas desaparecidas, gado morto, edificios em decadencia, florestas mutiladas... Ate hoje os cientistas nao tem explicacao sobre o que exatamente aconteceu em Chernobyl. Enquanto isso, algumas anomalias incompreensiveis foram descobertas na area, e a Zona continua se expandindo. Expedicoes raras encontram especies de animais mutantes exibindo habilidades inacreditaveis.</text>
 	</string>
 	<string id="enc_zone_zone-story_story-2010">
-		<text>Seguindo as trilhas daqueles solitarios imprudentes que se chamam de Stalkers, as expediçoes de pesquisa estao mais uma vez partindo para um estudo mais profundo da Zona. No entanto, o perimetro vigiado pelo exercito tem outros habitantes perigosos agora - desde caçadores comuns ate a pior escoria de bandidos. A maioria dos Stalkers perambula pela Zona em busca de anomalias e dos chamados artefatos pelos quais ganham um bom dinheiro.</text>
+		<text>Seguindo as trilhas daqueles solitarios imprudentes que se chamam de Stalkers, as expedicoes de pesquisa estao mais uma vez partindo para um estudo mais profundo da Zona. No entanto, o perimetro vigiado pelo exercito tem outros habitantes perigosos agora - desde cacadores comuns ate a pior escoria de bandidos. A maioria dos Stalkers perambula pela Zona em busca de anomalias e dos chamados artefatos pelos quais ganham um bom dinheiro.</text>
 	</string>
 	<string id="enc_zone_zone-story_story-raid">
-		<text>O exercito, incluindo as forças especiais lideradas por destacamentos paramilitares de Stalkers, lançou uma grande incursao na Zona. O objetivo era romper ate a NPP de Chernobyl e eliminar a causa dos campos anomalos ou pelo menos obter informaçoes de primeira mao sobre o estado atual da situaçao. Esse empreendimento, envolvendo mais de mil pessoas e maquinario pesado, foi um completo fracasso. Grupos isolados de sobreviventes foram forçados a se estabelecer na Zona com poucas esperanças de resgate.</text>
+		<text>O exercito, incluindo as forcas especiais lideradas por destacamentos paramilitares de Stalkers, lancou uma grande incursao na Zona. O objetivo era romper ate a NPP de Chernobyl e eliminar a causa dos campos anomalos ou pelo menos obter informacoes de primeira mao sobre o estado atual da situacao. Esse empreendimento, envolvendo mais de mil pessoas e maquinario pesado, foi um completo fracasso. Grupos isolados de sobreviventes foram forcados a se estabelecer na Zona com poucas esperancas de resgate.</text>
 	</string>
 	<string id="Escape">
-		<text>Posto avançado</text>
+		<text>Posto avancado</text>
 	</string>
 	<string id="Fuzz">
 		<text>Fuzz queimado</text>
@@ -283,7 +283,7 @@
 		<text>Elevador</text>
 	</string>
 	<string id="Locations">
-		<text>Localizaçoes</text>
+		<text>Localizacoes</text>
 	</string>
 	<string id="Meat">
 		<text>Rebolo</text>
