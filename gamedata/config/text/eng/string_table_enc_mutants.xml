@@ -37,7 +37,7 @@
 		<text>O pseudogigante se assemelha a um abdomen massivo em forma de gota com um par de membros desproporcionalmente grandes. Os membros sao bracos e pernas ao mesmo tempo. A criatura os usa para se mover e agarrar suas vitimas. Um pseudogigante adulto pode pesar ate duas toneladas e ter 2 metros de altura. Sua aparencia desajeitada pode enganar, ja que eles podem se mover muito rapidamente se necessario. Seus musculos sao excepcionalmente poderosos e seus ossos sao duros como aco. O cerebro da criatura e protegido por um cranio resistente (ate 10 centimetros de espessura), enquanto muitas funcoes complexas sao controladas pela medula espinhal. Outra caracteristica surpreendente da fera e sua capacidade de criar ondas de choque locais, que danificam todas as coisas vivas nas proximidades.</text>
 	</string>
 	<string id="enc_mutant_snork_general">
-		<text>Parece que essas criaturas foram humanas em algum momento, embora seja dificil imaginar que condicoes poderiam transformar um ser humano em uma fera tao repugnante. Snorks sao criaturas insanas vivendo uma vida bestial e diferindo pouco de outros monstros carnivoros da Zona. Eles se movem de quatro em saltos longos, constantemente cheirando o chao na esperança de captar o cheiro de uma presa. Cacam com cuidado, de maneira calculada, frequentemente montando emboscadas. Gracas a seus reflexos incriveis e musculos poderosos, o snork pode se aproximar da vitima, imobiliza-la em um salto longo e preciso, e despedaca-la em questao de segundos. Tiras de uniformes militares e outras roupas sao ocasionalmente encontradas em seus corpos. E razoavel supor que sao tudo o que resta de stalkers militares desaparecidos.</text>
+		<text>Parece que essas criaturas foram humanas em algum momento, embora seja dificil imaginar que condicoes poderiam transformar um ser humano em uma fera tao repugnante. Snorkel sao criaturas insanas vivendo uma vida bestial e diferindo pouco de outros monstros carnivoros da Zona. Eles se movem de quatro em saltos longos, constantemente cheirando o chao na esperança de captar o cheiro de uma presa. Cacam com cuidado, de maneira calculada, frequentemente montando emboscadas. Gracas a seus reflexos incriveis e musculos poderosos, o snorkel pode se aproximar da vitima, imobiliza-la em um salto longo e preciso, e despedaca-la em questao de segundos. Tiras de uniformes militares e outras roupas sao ocasionalmente encontradas em seus corpos. E razoavel supor que sao tudo o que resta de stalkers militares desaparecidos.</text>
 	</string>
 	<string id="enc_mutant_tushkano">
 		<text>Na verdade, esses animais nao sao parentes de jerboas, embora haja uma semelhanca distinta. Tentativas de determinar a especie exata da qual esse roedor evoluiu ate agora foram sem sucesso, embora seu ancestral deva ter sido um roedor gregario. Atingindo ate 40cm na altura do ombro, o animal e muito mais habil, agressivo e voraz que seu primo do deserto. Roedores mutantes vivem principalmente em poroes de edificios destruidos, alimentando-se de tudo o que conseguem morder, de plantas a stalkers descuidados. Ocasionalmente, um bando de roedores ataca e mata animais grandes e mutantes, despedacando-os antes que possam escapar.</text>
@@ -82,10 +82,10 @@
 		<text>A resistencia da pele de caes mutantes a eletricidade e agentes quimicos tem sido ha muito tempo objeto de atencao cientifica. Como o rabo do animal e quase completamente livre de tecido gorduroso, e especialmente adequado para exame em laboratorio.</text>
 	</string>
 	<string id="mutant_snork_leg">
-		<text>Pe de snork</text>
+		<text>Pe de snorkel</text>
 	</string>
 	<string id="mutant_snork_leg_description">
-		<text>Os pes de snork contem um numero enorme de tendoes altamente elasticos. Isso explica a capacidade da fera de fazer aqueles saltos incrivelmente longos.</text>
+		<text>Os pes de snorkel contem um numero enorme de tendoes altamente elasticos. Isso explica a capacidade da fera de fazer aqueles saltos incrivelmente longos.</text>
 	</string>
 	<string id="Mutants">
 		<text>Animais e mutantes</text>
@@ -100,7 +100,7 @@
 		<text>Pseudogigante</text>
 	</string>
 	<string id="Snork">
-		<text>Snork</text>
+		<text>Snorkel</text>
 	</string>
 	<string id="Tushkano">
 		<text>Roedor</text>
