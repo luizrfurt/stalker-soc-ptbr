@@ -53,7 +53,7 @@
 		<text>Garik</text>
 	</string>
 	<string id="bar_bar_guard2_bio">
-		<text>Irmão gemeo de Garik. Seguranca do Bar. Tao reservado quanto seu irmao.</text>
+		<text>Irmao gemeo de Garik. Seguranca do Bar. Tao reservado quanto seu irmao.</text>
 	</string>
 	<string id="bar_bar_guard2_name">
 		<text>Zhorik</text>
@@ -86,7 +86,7 @@
 		<text>Snitch</text>
 	</string>
 	<string id="bar_ivancov_bio">
-		<text>Comandante de todas as incursões punitivas e expedicoes contra hordas de mutantes.</text>
+		<text>Comandante de todas as incursoes punitivas e expedicoes contra hordas de mutantes.</text>
 	</string>
 	<string id="bar_ivancov_name">
 		<text>Capitao Ivantsov</text>
@@ -659,7 +659,7 @@
 		<text>Veio para a Zona em busca de aventura. Imita personagens de quadrinhos populares dos anos 60. Usa varios nomes: Badman, Macho, the Black Coat, Banderos. Mesmo tendo sobrevivido na Zona por dois anos inteiros, ninguem realmente o leva a serio, e isso o deixa constantemente furioso.</text>
 	</string>
 	<string id="sim_bandit_master_kocherga_bio">
-		<text>Feroz, cruel, rude, egoista, insensivel e frio. Ninguem sabe quando e como ele chegou a Zona. Todos o temem e ele nao tem amigos. Simplesmente vive na Zona, sem futuro e sem passado. Depois de uma de suas muitas incursões na Zona, perdeu a memoria e esqueceu quase tudo. Nao se lembra de onde veio, nao lembra seu nome verdadeiro e sofre lapsos frequentes de memoria. E conhecido por esquecer completamente um novo conhecido em uma hora, confundi-lo com um inimigo e mata-lo.</text>
+		<text>Feroz, cruel, rude, egoista, insensivel e frio. Ninguem sabe quando e como ele chegou a Zona. Todos o temem e ele nao tem amigos. Simplesmente vive na Zona, sem futuro e sem passado. Depois de uma de suas muitas incursoes na Zona, perdeu a memoria e esqueceu quase tudo. Nao se lembra de onde veio, nao lembra seu nome verdadeiro e sofre lapsos frequentes de memoria. E conhecido por esquecer completamente um novo conhecido em uma hora, confundi-lo com um inimigo e mata-lo.</text>
 	</string>
 	<string id="sim_bandit_novice_bio">
 		<text>Stalker desconhecido. Reputacao duvidosa. Nenhuma informacao disponivel.</text>
@@ -749,13 +749,13 @@
 		<text>Antigo mecanico na fabrica "KholodMach". Depois que sua esposa o deixou, ele decidiu tirar a propria vida. No entanto, sendo profundamente religioso, ele escolheu a Zona como um metodo de suicidio nao convencional. Contrario as suas expectativas, ele sobreviveu. Ganhou experiencia invalivel e conquistou o respeito de outros stalkers graças as suas habilidades profissionais. Master e provavelmente o mecanico mais qualificado da Zona e conserta equipamentos e veiculos. Instalar sistemas de seguranca em abrigos de gangues e o que ele faz de melhor. Ele e bem-vindo onde quer que va. Um homem simples, serio, um pouco rude as vezes.</text>
 	</string>
 	<string id="sim_stalker_master_polkan_bio">
-		<text>Antigo stalker militar, tenente coronel nas tropas do Ministerio do Interior. O unico soldado a retornar de uma operacao desastrosa no interior da Zona, mais tarde descobriu que a missao foi inutil e suicida desde o inicio. Foi quando ele decidiu nao voltar, armou sua propria morte e se juntou aos stalkers. Quieto, cinico, firme de propósitos.</text>
+		<text>Antigo stalker militar, tenente coronel nas tropas do Ministerio do Interior. O unico soldado a retornar de uma operacao desastrosa no interior da Zona, mais tarde descobriu que a missao foi inutil e suicida desde o inicio. Foi quando ele decidiu nao voltar, armou sua propria morte e se juntou aos stalkers. Quieto, cinico, firme de propositos.</text>
 	</string>
 	<string id="sim_stalker_novice_bio">
 		<text>Novato. Novo na Zona. Nenhum detalhe disponivel.</text>
 	</string>
 	<string id="sim_stalker_novice_neumeha_bio">
-		<text>Klutz tem 20 anos. Perdeu tudo e todos na Grande Terra antes de decidir vir para ca. Ele mal ganha a vida na Zona, mas simplesmente nao tem outro lugar para ir. Deve dinheiro a muitos stalkers. Frequentemente a Zona, mas nunca vai sozinho. Sempre tentando se agarrar a um grupo de stalkers experientes. Não e muito popular como companheiro, pois na maioria das vezes, ele e inutil. Mal ganha dinheiro. Vive das esmolas de outros stalkers e esta profundamente endividado.</text>
+		<text>Klutz tem 20 anos. Perdeu tudo e todos na Grande Terra antes de decidir vir para ca. Ele mal ganha a vida na Zona, mas simplesmente nao tem outro lugar para ir. Deve dinheiro a muitos stalkers. Frequentemente a Zona, mas nunca vai sozinho. Sempre tentando se agarrar a um grupo de stalkers experientes. Nao e muito popular como companheiro, pois na maioria das vezes, ele e inutil. Mal ganha dinheiro. Vive das esmolas de outros stalkers e esta profundamente endividado.</text>
 	</string>
 	<string id="sim_stalker_sniper_bio">
 		<text>Stalker veterano. Possivelmente bem equipado. Nenhum detalhe disponivel.</text>
@@ -764,13 +764,13 @@
 		<text>Stalker veterano. Possivelmente bem equipado. Nenhum detalhe disponivel.</text>
 	</string>
 	<string id="sim_stalker_veteran_gusarov_bio">
-		<text>Oleg "o Fiend" Gusarov. Um ex "Black Beret", serviu na brigada de Forcas Especiais Belotserkovskaya. Fez diversas missões, tornando-se sargento mestre. Um atirador de elite e tecnico em explosivos. Um solitario por natureza, nunca entra na Zona em grupo, preferindo agir sozinho. Foi convidado a se juntar a diversos clãs, mas sempre recusou.</text>
+		<text>Oleg "o Fiend" Gusarov. Um ex "Black Beret", serviu na brigada de Forcas Especiais Belotserkovskaya. Fez diversas missoes, tornando-se sargento mestre. Um atirador de elite e tecnico em explosivos. Um solitario por natureza, nunca entra na Zona em grupo, preferindo agir sozinho. Foi convidado a se juntar a diversos clas, mas sempre recusou.</text>
 	</string>
 	<string id="sim_stalker_veteran_umnik_bio">
-		<text>Um estudante do Departamento de Fisica que abandonou no ultimo ano. Ele foi para a Zona em busca de dinheiro facil. Gosta de se exibir com seu "conhecimento cientifico" e discorrer sobre questões filosoficas abstratas. Isso e motivo suficiente para outros stalkers nao gostarem dele. No geral, e um sujeito bem decente. Uma especie de idealista.</text>
+		<text>Um estudante do Departamento de Fisica que abandonou no ultimo ano. Ele foi para a Zona em busca de dinheiro facil. Gosta de se exibir com seu "conhecimento cientifico" e discorrer sobre questoes filosoficas abstratas. Isso e motivo suficiente para outros stalkers nao gostarem dele. No geral, e um sujeito bem decente. Uma especie de idealista.</text>
 	</string>
 	<string id="sim_stalker_veteran_vorobey_bio">
-		<text>Sparrow tem 27 anos, e astuto, visionario, mas tambem capaz das piores trapalhadas. Pode ser maldoso. Uma pessoa duvidosa. E magro e pálido. Veio para a Zona por curiosidade, prometendo a si mesmo que voltaria para casa depois de dois meses. Nunca voltou. Em sua primeira incursao na Zona, Passaro conseguiu atravessar um campo repleto de anomalias desarmado e sem saber o quao perigoso isso era. Assim que descobriu o que havia feito, desmaiou. Desde então, comemora essa data (9 de outubro) como seu segundo aniversario.</text>
+		<text>Sparrow tem 27 anos, e astuto, visionario, mas tambem capaz das piores trapalhadas. Pode ser maldoso. Uma pessoa duvidosa. E magro e palido. Veio para a Zona por curiosidade, prometendo a si mesmo que voltaria para casa depois de dois meses. Nunca voltou. Em sua primeira incursao na Zona, Sparrow conseguiu atravessar um campo repleto de anomalias desarmado e sem saber o quao perigoso isso era. Assim que descobriu o que havia feito, desmaiou. Desde entao, comemora essa data (9 de outubro) como seu segundo aniversario.</text>
 	</string>
 	<string id="sim_Svoboda_master_bio">
 		<text>Master da faccao Freedom. Nenhum detalhe disponivel.</text>
@@ -785,7 +785,7 @@
 		<text>Militante da faccao Freedom. Geralmente bem equipado. Nenhum detalhe disponivel.</text>
 	</string>
 	<string id="sim_Svoboda_specnaz_leshii_bio">
-		<text>Leshiy, como seu irmao o chama, chegou a Zona como um jovem idealista. No entanto, alguns anos vivendo a beira da morte o transformaram em um cínico realista. Considera a Zona sua casa e acha que aqueles que falharam nao merecem andar sobre a face da Terra.</text>
+		<text>Leshiy, como seu irmao o chama, chegou a Zona como um jovem idealista. No entanto, alguns anos vivendo a beira da morte o transformaram em um cinico realista. Considera a Zona sua casa e acha que aqueles que falharam nao merecem andar sobre a face da Terra.</text>
 	</string>
 	<string id="sim_svoboda_specnaz_prut_bio">
 		<text>Escreve esboços e historias sobre a Zona sob o nome de Arkady. Ex-jornalista. Meticuloso e rigoroso, mas justo. Ampliamente respeitado pelos stalkers.</text>

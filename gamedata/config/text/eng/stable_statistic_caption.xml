@@ -1,174 +1,174 @@
 	<string id="bandit_experienced">
-		<text>bandit, skilled</text>
+		<text>bandido, habilidoso</text>
 	</string>
 	<string id="bandit_master">
-		<text>bandit, pro</text>
+		<text>bandido, pro</text>
 	</string>
 	<string id="bandit_novice">
-		<text>bandit, tyro</text>
+		<text>bandido, novato</text>
 	</string>
 	<string id="bandit_veteran">
-		<text>bandit, master</text>
+		<text>bandido, mestre</text>
 	</string>
 	<string id="bloodsucker_normal">
-		<text>sub bloodsucker</text>
+		<text>sanguessuga comum</text>
 	</string>
 	<string id="bloodsucker_strong">
-		<text>dark bloodsucker</text>
+		<text>sanguessuga das trevas</text>
 	</string>
 	<string id="bloodsucker_weak">
-		<text>bloodsucker</text>
+		<text>sanguessuga</text>
 	</string>
 	<string id="boar_normal">
-		<text>grown boar</text>
+		<text>javali adulto</text>
 	</string>
 	<string id="boar_strong">
-		<text>mature boar</text>
+		<text>javali maduro</text>
 	</string>
 	<string id="boar_weak">
-		<text>young boar</text>
+		<text>javali jovem</text>
 	</string>
 	<string id="burer_weak">
-		<text>burer</text>
+		<text>segurador</text>
 	</string>
 	<string id="controller_weak">
-		<text>controller</text>
+		<text>controlador</text>
 	</string>
 	<string id="dog_normal">
-		<text>rat hound</text>
+		<text>cao de caca</text>
 	</string>
 	<string id="dog_strong">
-		<text>albino dog</text>
+		<text>cao albino</text>
 	</string>
 	<string id="dog_weak">
-		<text>wild dog</text>
+		<text>cao selvagem</text>
 	</string>
 	<string id="dolg_experienced">
-		<text>Duty, experienced</text>
+		<text>Duty, experiente</text>
 	</string>
 	<string id="dolg_master">
-		<text>Duty, expert</text>
+		<text>Duty, especialista</text>
 	</string>
 	<string id="dolg_veteran">
-		<text>Duty, veteran</text>
+		<text>Duty, veterano</text>
 	</string>
 	<string id="ecolog_experienced">
-		<text>scientist, learned</text>
+		<text>cientista, experiente</text>
 	</string>
 	<string id="ecolog_novice">
-		<text>scientist, assistant</text>
+		<text>cientista, assistente</text>
 	</string>
 	<string id="flesh_normal">
-		<text>forest flesh</text>
+		<text>carnival da floresta</text>
 	</string>
 	<string id="flesh_strong">
-		<text>swamp flesh</text>
+		<text>carnival do pantano</text>
 	</string>
 	<string id="flesh_weak">
-		<text>prairie flesh</text>
+		<text>carnival da pradaria</text>
 	</string>
 	<string id="freedom_experienced">
-		<text>Freedom, seedy</text>
+		<text>Freedom, duvidoso</text>
 	</string>
 	<string id="freedom_master">
-		<text>Freedom, ace</text>
+		<text>Freedom, craque</text>
 	</string>
 	<string id="freedom_veteran">
-		<text>Freedom, war-dog</text>
+		<text>Freedom, cao de guerra</text>
 	</string>
 	<string id="killer_experienced">
-		<text>Merc, trained</text>
+		<text>Merc, treinado</text>
 	</string>
 	<string id="killer_master">
-		<text>Merc, tough</text>
+		<text>Merc, durao</text>
 	</string>
 	<string id="killer_veteran">
-		<text>Merc, old hand</text>
+		<text>Merc, veterano</text>
 	</string>
 	<string id="military_experienced">
-		<text>soldier, Sergeant</text>
+		<text>soldado, sargento</text>
 	</string>
 	<string id="military_master">
-		<text>soldier, Captain</text>
+		<text>soldado, capitao</text>
 	</string>
 	<string id="military_novice">
-		<text>soldier, Private</text>
+		<text>soldado, recruta</text>
 	</string>
 	<string id="military_veteran">
-		<text>soldier, Lieutenant</text>
+		<text>soldado, tenente</text>
 	</string>
 	<string id="monolith_experienced">
-		<text>Monolithian, experienced</text>
+		<text>Monolithiano, experiente</text>
 	</string>
 	<string id="monolith_master">
-		<text>Monolithian, expert</text>
+		<text>Monolithiano, experto</text>
 	</string>
 	<string id="monolith_novice">
-		<text>Monolithian, rookie</text>
+		<text>Monolithiano, novato</text>
 	</string>
 	<string id="monolith_veteran">
-		<text>Monolithian, veteran</text>
+		<text>Monolithiano, veterano</text>
 	</string>
 	<string id="neutral_experienced">
-		<text>stalker, trained</text>
+		<text>stalker, treinado</text>
 	</string>
 	<string id="neutral_master">
-		<text>stalker, skilled</text>
+		<text>stalker, habilidoso</text>
 	</string>
 	<string id="neutral_novice">
-		<text>stalker, lame</text>
+		<text>stalker, manco</text>
 	</string>
 	<string id="neutral_veteran">
-		<text>stalker, past master</text>
+		<text>stalker, ex-mestre</text>
 	</string>
 	<string id="poltergeist_weak">
 		<text>poltergeist</text>
 	</string>
 	<string id="pseudo_gigant_weak">
-		<text>pseudogiant</text>
+		<text>pseudogigante</text>
 	</string>
 	<string id="pseudodog_normal">
-		<text>mature pseudodog</text>
+		<text>pseudocao adulto</text>
 	</string>
 	<string id="pseudodog_strong">
-		<text>gray pseudodog</text>
+		<text>pseudocao cinzento</text>
 	</string>
 	<string id="pseudodog_weak">
-		<text>pseudodog</text>
+		<text>pseudocao</text>
 	</string>
 	<string id="psy_dog">
-		<text>dusky pseudodog</text>
+		<text>pseudocao estrangulador</text>
 	</string>
 	<string id="snork_normal">
-		<text>scavenger snork</text>
+		<text>snorkel catador</text>
 	</string>
 	<string id="snork_strong">
-		<text>man-eating snork</text>
+		<text>snorkel carnivoro</text>
 	</string>
 	<string id="snork_weak">
-		<text>snork</text>
+		<text>snorkel</text>
 	</string>
 	<string id="tushkano_weak">
-		<text>rodent</text>
+		<text>roedor</text>
 	</string>
 	<string id="zombie_normal">
-		<text>zombie</text>
+		<text>zumbi</text>
 	</string>
 	<string id="zombie_strong">
-		<text>zombie</text>
+		<text>zumbi</text>
 	</string>
 	<string id="zombie_weak">
-		<text>zombie</text>
+		<text>zumbi</text>
 	</string>
 	<string id="zombied_experienced">
-		<text>zombified stalker, experienced</text>
+		<text>stalker zumbificado, experiente</text>
 	</string>
 	<string id="zombied_master">
-		<text>zombified stalker, expert</text>
+		<text>stalker zumbificado, experto</text>
 	</string>
 	<string id="zombied_novice">
-		<text>zombified stalker, rookie</text>
+		<text>stalker zumbificado, novato</text>
 	</string>
 	<string id="zombied_veteran">
-		<text>zombified stalker, veteran</text>
+		<text>stalker zumbificado, veterano</text>
 	</string>

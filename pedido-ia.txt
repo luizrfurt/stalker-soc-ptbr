@@ -16,6 +16,6 @@ Traduza sempre: Task para Missao; Flash drive para Pendrive; Lockpick para Arrom
 Spetsnaz para Forcas Especiais; Flesh para Carnival; Mica para Migalha; Smile para Limo; Slug para Lesma;
 Mama's Beads para Contas da mamae; Flash para Lampejo; Sparkler para Diamente; Fruit punch para Ponche de frutas;
 Burnt Fuzz para Fuzz queimado; Jelly para Agua-viva; Jellyfish para Agua-viva; Whirligig para Redemoinho;
-Anomalia Skinner para Traje anonimo;
+Anomalia Skinner para Traje anonimo; rat hound para cao de caca; Monolithian para Monolithiano
 
-Não traduza nom es próprios. Dica: se o id da tag <string> terminar em "_name", não traduza o conteudo da tag <text>
+Não traduza nomes próprios de personagens.
