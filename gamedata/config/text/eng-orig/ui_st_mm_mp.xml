@@ -1,240 +1,240 @@
 <?xml version="1.0" encoding="windows-1251" ?>
 <string_table>
 	<string id="game type">
-		<text>TIPO DE JOGO</text>
+		<text>GAME TYPE</text>
 	</string>
 	<string id="icon">
-		<text>ICONES</text>
+		<text>ICONS</text>
 	</string>
 	<string id="map">
-		<text>MAPA</text>
+		<text>MAP</text>
 	</string>
 	<string id="mm_mp_allowvoting">
-		<text>Permitir votacao</text>
+		<text>Allow voting</text>
 	</string>
 	<string id="mm_mp_anomalytime">
-		<text>Tempo de anomalia (min)</text>
+		<text>Anomaly time (min)</text>
 	</string>
 	<string id="mm_mp_artefactcapture">
-		<text>Captura de artefato</text>
+		<text>Artifact capture</text>
 	</string>
 	<string id="mm_mp_artefdelay">
-		<text>Atraso de artefato (seg)</text>
+		<text>Artifact delay (sec)</text>
 	</string>
 	<string id="mm_mp_artefnum">
-		<text>Numero de artefatos</text>
+		<text>Number of artifacts</text>
 	</string>
 	<string id="mm_mp_artefstay">
-		<text>Vida do artefato (min)</text>
+		<text>Artifact life (min)</text>
 	</string>
 	<string id="mm_mp_autoteambalance">
-		<text>Balanceamento automatico de times</text>
+		<text>Auto team-balancing</text>
 	</string>
 	<string id="mm_mp_autoteamswap">
-		<text>Troca automatica de times</text>
+		<text>Auto team-swap</text>
 	</string>
 	<string id="mm_mp_avail_maps">
-		<text>MAPAS DISPONIVEIS</text>
+		<text>AVAILABLE MAPS</text>
 	</string>
 	<string id="mm_mp_cancel">
-		<text>Cancelar</text>
+		<text>Cancel</text>
 	</string>
 	<string id="mm_mp_cd_key">
 		<text>CD-Key</text>
 	</string>
 	<string id="mm_mp_client">
-		<text>Cliente</text>
+		<text>Client</text>
 	</string>
 	<string id="mm_mp_create">
-		<text>Criar</text>
+		<text>Create</text>
 	</string>
 	<string id="mm_mp_damageblock">
-		<text>Invulnerabilidade</text>
+		<text>Invulnerability</text>
 	</string>
 	<string id="mm_mp_damageblockindicator">
-		<text>Indicador de invulnerabilidade</text>
+		<text>Invulnerability indicator</text>
 	</string>
 	<string id="mm_mp_deaths">
-		<text>Mortes</text>
+		<text>Deaths</text>
 	</string>
 	<string id="mm_mp_dedicated">
-		<text>Dedidado</text>
+		<text>Dedicated</text>
 	</string>
 	<string id="mm_mp_empty">
-		<text>Vazio</text>
+		<text>Empty</text>
 	</string>
 	<string id="mm_mp_filters">
-		<text>Filtros</text>
+		<text>Filters</text>
 	</string>
 	<string id="mm_mp_forcerespawn">
-		<text>Reaparecimento forcado (s)</text>
+		<text>Forced respawn (s)</text>
 	</string>
 	<string id="mm_mp_fraglimit">
-		<text>Limite de frags</text>
+		<text>Frag limit</text>
 	</string>
 	<string id="mm_mp_frags">
 		<text>Frags</text>
 	</string>
 	<string id="mm_mp_freezetime">
-		<text>Tempo de congelamento</text>
+		<text>Freeze time</text>
 	</string>
 	<string id="mm_mp_friendlyfire">
-		<text>Dano amigo</text>
+		<text>Friendly damage</text>
 	</string>
 	<string id="mm_mp_friendlyindicators">
-		<text>Indicadores amigaveis</text>
+		<text>Friendly indicators</text>
 	</string>
 	<string id="mm_mp_friendlynames">
-		<text>Nomes amigaveis</text>
+		<text>Friendly names</text>
 	</string>
 	<string id="mm_mp_full">
-		<text>Cheio</text>
+		<text>Full</text>
 	</string>
 	<string id="mm_mp_gamemode">
-		<text>Modo</text>
+		<text>Mode</text>
 	</string>
 	<string id="mm_mp_host_port">
-		<text>IP/host:porta</text>
+		<text>IP/host:port</text>
 	</string>
 	<string id="mm_mp_internet">
 		<text>Internet</text>
 	</string>
 	<string id="mm_mp_join">
-		<text>Entrar</text>
+		<text>Join</text>
 	</string>
 	<string id="mm_mp_lan">
 		<text>LAN</text>
 	</string>
 	<string id="mm_mp_listenservers">
-		<text>Ouvir</text>
+		<text>Listen</text>
 	</string>
 	<string id="mm_mp_mapratation">
-		<text>Lista de mapas</text>
+		<text>Map list</text>
 	</string>
 	<string id="mm_mp_maxplayers">
-		<text>Maximo de jogadores</text>
+		<text>Max players</text>
 	</string>
 	<string id="mm_mp_network_connection">
-		<text>Conexao de rede</text>
+		<text>Network connection</text>
 	</string>
 	<string id="mm_mp_noanomalies">
-		<text>Sem anomalias</text>
+		<text>No anomalies</text>
 	</string>
 	<string id="mm_mp_options">
-		<text>Opcoes</text>
+		<text>Options</text>
 	</string>
 	<string id="mm_mp_password">
-		<text>Senha</text>
+		<text>Password</text>
 	</string>
 	<string id="mm_mp_player_name">
-		<text>Nome do jogador:</text>
+		<text>Player name:</text>
 	</string>
 	<string id="mm_mp_players">
-		<text>Jogadores</text>
+		<text>Players</text>
 	</string>
 	<string id="mm_mp_publicserver">
-		<text>Servidor publico</text>
+		<text>Public server</text>
 	</string>
 	<string id="mm_mp_quickrefresh">
-		<text>Atualizacao rapida</text>
+		<text>Quick refresh</text>
 	</string>
 	<string id="mm_mp_rateofchange">
-		<text>Coeficiente de mudanca</text>
+		<text>Change coefficient</text>
 	</string>
 	<string id="mm_mp_refresh">
-		<text>Atualizar tudo</text>
+		<text>Refresh all</text>
 	</string>
 	<string id="mm_mp_reinforcement">
-		<text>Reforcos (s)</text>
+		<text>Reinforcements (s)</text>
 	</string>
 	<string id="mm_mp_respawnoptions">
-		<text>Opcoes de respawn</text>
+		<text>Respawn options</text>
 	</string>
 	<string id="mm_mp_sel_maps">
-		<text>MAPAS SELECIONADOS</text>
+		<text>SELECTED MAPS</text>
 	</string>
 	<string id="mm_mp_server">
-		<text>Servidor</text>
+		<text>Server</text>
 	</string>
 	<string id="mm_mp_server_list">
-		<text>Lista de servidores</text>
+		<text>Server list</text>
 	</string>
 	<string id="mm_mp_server_prop">
-		<text>Propriedades do servidor</text>
+		<text>Server properties</text>
 	</string>
 	<string id="mm_mp_serverinfo">
-		<text>Informacoes do servidor</text>
+		<text>Server info</text>
 	</string>
 	<string id="mm_mp_serverlist">
-		<text>Servidor</text>
+		<text>Server</text>
 	</string>
 	<string id="mm_mp_servername">
-		<text>Nome do servidor</text>
+		<text>Server name</text>
 	</string>
 	<string id="mm_mp_serversettings">
-		<text>Configuracoes do servidor</text>
+		<text>Server settings</text>
 	</string>
 	<string id="mm_mp_spectator">
-		<text>Espectador</text>
+		<text>Spectator</text>
 	</string>
 	<string id="mm_mp_spectator_firsteye">
-		<text>Primeira pessoa</text>
+		<text>First person</text>
 	</string>
 	<string id="mm_mp_spectator_freefly">
-		<text>Camera livre</text>
+		<text>Free camera</text>
 	</string>
 	<string id="mm_mp_spectator_freelook">
-		<text>Visao livre</text>
+		<text>Free-locked</text>
 	</string>
 	<string id="mm_mp_spectator_lookat">
-		<text>Terceira pessoa</text>
+		<text>Third person</text>
 	</string>
 	<string id="mm_mp_spectator_options">
-		<text>Configuracoes do espectador</text>
+		<text>Spectator settings</text>
 	</string>
 	<string id="mm_mp_spectator_teamonly">
-		<text>Apenas time</text>
+		<text>Team only</text>
 	</string>
 	<string id="mm_mp_startweather">
-		<text>Clima inicial</text>
+		<text>Starting weather</text>
 	</string>
 	<string id="mm_mp_timelimit">
-		<text>Limite de tempo (min)</text>
+		<text>Time limit (min)</text>
 	</string>
 	<string id="mm_mp_warmuptime">
-		<text>Aquecimento (seg)</text>
+		<text>Warmup (sec)</text>
 	</string>
 	<string id="mm_mp_weatheroptions">
-		<text>Opcoes de clima</text>
+		<text>Weather options</text>
 	</string>
 	<string id="mm_mp_withoutfriendlyfire">
-		<text>Sem dano amigavel</text>
+		<text>No friendly fire</text>
 	</string>
 	<string id="mm_mp_withoutpassword">
-		<text>Sem senha</text>
+		<text>No password</text>
 	</string>
 	<string id="mm_mp_withoutpunkbuster">
-		<text>Sem PunkBuster</text>
+		<text>No PunkBuster</text>
 	</string>
 	<string id="mm_mp_withpassword">
-		<text>Usar senha</text>
+		<text>Use password</text>
 	</string>
 	<string id="mp_vote_hint">
-		<text>Votar A FAVOR-[$$ACTION_VOTE_YES$$]\nVotar CONTRA-[$$ACTION_VOTE_NO$$]\nResultados-[$$ACTION_VOTE$$]</text>
+		<text>Vote FOR-[$$ACTION_VOTE_YES$$]\nVote AGAINST-[$$ACTION_VOTE_NO$$]\nResults-[$$ACTION_VOTE$$]</text>
 	</string>
 	<string id="ping">
 		<text>PING</text>
 	</string>
 	<string id="players">
-		<text>JOGADORES</text>
+		<text>PLAYERS</text>
 	</string>
 	<string id="server name">
-		<text>NOME DO SERVIDOR</text>
+		<text>SERVER NAME</text>
 	</string>
 	<string id="version">
-		<text>Versao</text>
+		<text>Version</text>
 	</string>
 	<string id="st_mp_gsfilter">
-		<text>Filtro:</text>
+		<text>Filter:</text>
 	</string>
 </string_table>

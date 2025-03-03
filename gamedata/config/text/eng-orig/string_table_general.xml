@@ -13,43 +13,43 @@
 		<text>Merc</text>
 	</string>
 	<string id="bad">
-		<text>ruim</text>
+		<text>bad</text>
 	</string>
 	<string id="bandit">
-		<text>Bandido</text>
+		<text>Bandit</text>
 	</string>
 	<string id="dolg">
 		<text>Duty</text>
 	</string>
 	<string id="ecolog">
-		<text>Ecologista</text>
+		<text>Ecologist</text>
 	</string>
 	<string id="enemy">
-		<text>inimigo</text>
+		<text>enemy</text>
 	</string>
 	<string id="excellent">
-		<text>excelente</text>
+		<text>excellent</text>
 	</string>
 	<string id="exo_outfit_name_m1">
-		<text>Exoesqueleto PNB-4UZ</text>
+		<text>Exoskeleton PNB-4UZ</text>
 	</string>
 	<string id="experienced">
-		<text>Experiente</text>
+		<text>Experienced</text>
 	</string>
 	<string id="Found_PDA">
-		<text>PDA Encontrado</text>
+		<text>Found PDA</text>
 	</string>
 	<string id="freedom">
 		<text>Freedom</text>
 	</string>
 	<string id="friendly">
-		<text>amigo</text>
+		<text>friend</text>
 	</string>
 	<string id="good">
-		<text>bom</text>
+		<text>good</text>
 	</string>
 	<string id="indifferent">
-		<text>neutro</text>
+		<text>neutral</text>
 	</string>
 	<string id="killer">
 		<text>Merc</text>
@@ -58,181 +58,181 @@
 		<text>Cordon</text>
 	</string>
 	<string id="l02_garbage">
-		<text>Lixao</text>
+		<text>Garbage</text>
 	</string>
 	<string id="l03_agroprom">
-		<text>Instituto de Pesquisa Agroprom</text>
+		<text>Agroprom Research Institute</text>
 	</string>
 	<string id="l04_darkvalley">
-		<text>Vale Sombrio</text>
+		<text>The Dark Valley</text>
 	</string>
 	<string id="l05_bar">
 		<text>Bar</text>
 	</string>
 	<string id="l06_rostok">
-		<text>Territorio Selvagem</text>
+		<text>Wild Territory</text>
 	</string>
 	<string id="l07_military">
-		<text>Armazens militares</text>
+		<text>Army warehouses</text>
 	</string>
 	<string id="l08_yantar">
 		<text>Yantar</text>
 	</string>
 	<string id="l10_radar">
-		<text>Floresta Vermelha</text>
+		<text>Red forest</text>
 	</string>
 	<string id="l11_pripyat">
 		<text>Pripyat</text>
 	</string>
 	<string id="l12_stancia">
-		<text>Usina Nuclear de Chernobyl</text>
+		<text>Chernobyl NPP</text>
 	</string>
 	<string id="l12_stancia_2">
-		<text>Usina Nuclear de Chernobyl</text>
+		<text>Chernobyl NPP</text>
 	</string>
 	<string id="master">
-		<text>especialista</text>
+		<text>expert</text>
 	</string>
 	<string id="military">
-		<text>Militar</text>
+		<text>Military</text>
 	</string>
 	<string id="monolith">
 		<text>Monolith</text>
 	</string>
 	<string id="neutral">
-		<text>neutro</text>
+		<text>neutral</text>
 	</string>
 	<string id="novice">
-		<text>Novato</text>
+		<text>Rookie</text>
 	</string>
 	<string id="st_no_active_task">
-		<text>Sem missao ativa</text>
+		<text>No active task</text>
 	</string>
 	<string id="st_time_till_surge">
-		<text>Tempo ate a explosao</text>
+		<text>Time until blowout</text>
 	</string>
 	<string id="stalker">
 		<text>Loner</text>
 	</string>
 	<string id="terrible">
-		<text>terrivel</text>
+		<text>terrible</text>
 	</string>
 	<string id="trader">
-		<text>Comerciante</text>
+		<text>Trader</text>
 	</string>
 	<string id="ui_st_community">
-		<text>grupo</text>
+		<text>group</text>
 	</string>
 	<string id="ui_st_price">
-		<text>Preco</text>
+		<text>Price</text>
 	</string>
 	<string id="ui_st_rank">
-		<text>ranking</text>
+		<text>rank</text>
 	</string>
 	<string id="ui_st_relation">
-		<text>atitude</text>
+		<text>attitude</text>
 	</string>
 	<string id="ui_st_reputation">
-		<text>reputacao</text>
+		<text>reputation</text>
 	</string>
 	<string id="very_bad">
-		<text>Muito ruim</text>
+		<text>Very bad</text>
 	</string>
 	<string id="very_good">
-		<text>muito bom</text>
+		<text>very good</text>
 	</string>
 	<string id="veteran">
-		<text>veterano</text>
+		<text>veteran</text>
 	</string>
 	<string id="zombied">
-		<text>Zumbificado</text>
+		<text>Zombified</text>
 	</string>
 	<string id="Btn_Cancel">
-		<text>Cancelar</text>
+		<text>Cancel</text>
 	</string>
 	<string id="Btn_No">
-		<text>Nao</text>
+		<text>No</text>
 	</string>
 	<string id="Btn_OK">
 		<text>OK</text>
 	</string>
 	<string id="Btn_Yes">
-		<text>Sim</text>
+		<text>Yes</text>
 	</string>
 	<string id="global_map">
-		<text>Mapa da Zona</text>
+		<text>Map of the Zone</text>
 	</string>
 	<string id="st_autosave">
-		<text>Salvamento automatico</text>
+		<text>Autosave</text>
 	</string>
 	<string id="st_game_over">
-		<text>Fim de jogo</text>
+		<text>Game over.</text>
 	</string>
 	<string id="st_item_used">
-		<text>Usado</text>
+		<text>Used</text>
 	</string>
 	<string id="st_not_enough_money">
-		<text>Dinheiro insuficiente</text>
+		<text>Not enough money</text>
 	</string>
 	<string id="st_not_enough_money_npc">
-		<text>o NPC nao tem dinheiro suficiente</text>
+		<text>the NPC does not have enough money</text>
 	</string>
 	<string id="ui_st_opponent_items">
-		<text>Itens a comprar</text>
+		<text>Backpack</text>
 	</string>
 	<string id="st_search_treasure">
-		<text>Procurar no esconderijo ($$ACTION_USE$$)</text>
+		<text>Search the stash ($$ACTION_USE$$)</text>
 	</string>
 	<string id="inventory_item_use">
-		<text>Pegar item ($$ACTION_USE$$)</text>
+		<text>Pick up item ($$ACTION_USE$$)</text>
 	</string>
 	<string id="ui_mm_check_updates">
-		<text>Atualizacoes do jogo</text>
+		<text>Game updates</text>
 	</string>
 	<string id="ui_mm_alternative">
-		<text>Alternativa</text>
+		<text>Alternative</text>
 	</string>
 	<string id="ui_inv_health">
-		<text>Vida</text>
+		<text>Health</text>
 	</string>
 	<string id="ui_inv_radiation">
-		<text>Radiacao</text>
+		<text>Radiation</text>
 	</string>
 	<string id="ui_inv_satiety">
-		<text>Fome</text>
+		<text>Hunger</text>
 	</string>
 	<string id="ui_inv_power">
-		<text>Resistencia</text>
+		<text>Endurance</text>
 	</string>
 	<string id="ui_inv_bleeding">
-		<text>Sangrando</text>
+		<text>Bleeding</text>
 	</string>
 	<string id="st_mp_say_to_all">
-		<text>Dizer a todos</text>
+		<text>To all</text>
 	</string>
 	<string id="st_mp_say_to_team">
-		<text>Dizer a equipe</text>
+		<text>To team</text>
 	</string>
 	<string id="st_knife">
-		<text>Faca</text>
+		<text>Knife</text>
 	</string>
 	<string id="st_mp_disabled_voting">
-		<text>Votacao nao disponivel neste servidor.</text>
+		<text>Voting is not available on this server.</text>
 	</string>
 	<string id="st_mp_no_current_voting">
-		<text>Sem votacoes ativas.</text>
+		<text>No active votings.</text>
 	</string>
 	<string id="st_mp_ready">
-		<text>pronto</text>
+		<text>ready</text>
 	</string>
 	<string id="st_mp_voting_succeed">
-		<text>Votacao bem-sucedida!</text>
+		<text>Voting succeeded!</text>
 	</string>
 	<string id="st_mp_voting_failed">
-		<text>Votacao fracassada!</text>
+		<text>Voting failed!</text>
 	</string>
 	<string id="l03u_agr_underground">
-		<text>Agroprom Subsolo</text>
+		<text>Agroprom Underground</text>
 	</string>
 	<string id="l04u_labx18">
 		<text>Lab X-18</text>
@@ -244,9 +244,9 @@
 		<text>Lab X-10</text>
 	</string>
 	<string id="l12u_sarcofag">
-		<text>Sarcofago</text>
+		<text>Sarcophagus</text>
 	</string>
 	<string id="l12u_control_monolith">
-		<text>Controle do Monolito</text>
+		<text>Monolith control</text>
 	</string>
 </string_table>

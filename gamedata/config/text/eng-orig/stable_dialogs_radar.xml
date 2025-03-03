@@ -1,150 +1,150 @@
 <?xml version="1.0" encoding="windows-1251" ?>
 <string_table>
 	<string id="rad_chief_start_dialog_0">
-		<text>Ei!</text>
+		<text>Hey!</text>
 	</string>
 	<string id="rad_chief_start_dialog_100">
-		<text>Ei!</text>
+		<text>Hey!</text>
 	</string>
 	<string id="rad_find_deputy_dialog_1_0">
-		<text>Cade o dinheiro pela missao?</text>
+		<text>Where's the money for the mission?</text>
 	</string>
 	<string id="rad_find_deputy_dialog_1_100">
-		<text>Encontre meu delegado e voce vai ganhar seu dinheiro!</text>
+		<text>Find my deputy and you'll get your money!</text>
 	</string>
 	<string id="rad_find_deputy_dialog_1_1000">
-		<text>Ok, mas nao minta para mim dessa vez!</text>
+		<text>OK but don't lie to me this time!</text>
 	</string>
 	<string id="rad_find_stalkers_dialog_1_0">
-		<text>Quem e voce?</text>
+		<text>Who are you?</text>
 	</string>
 	<string id="rad_find_stalkers_dialog_1_10">
-		<text>Leha the Jaw e meu nome! Esses bandidos sao minha equipe!</text>
+		<text>Leha the Jaw is my name! These rogues are my crew!</text>
 	</string>
 	<string id="rad_find_stalkers_dialog_1_100">
-		<text>O que voces estao fazendo aqui?</text>
+		<text>What are you doing here?</text>
 	</string>
 	<string id="rad_find_stalkers_dialog_1_20">
-		<text>Meus rapazes e eu estamos descansando! Quando terminarmos, vamos para Prypiat!</text>
+		<text>My boys and I are resting! When we're done we'll head to Pripyat!</text>
 	</string>
 	<string id="rad_find_stalkers_dialog_2_0">
-		<text>O que voce sabe sobre Prypiat?</text>
+		<text>What do you know about Pripyat?</text>
 	</string>
 	<string id="rad_find_stalkers_dialog_2_10">
-		<text>E uma antiga cidade abandonada da era comunista! Da historia! Acredito que agora esta cheia de monstros e hordas de combatentes Monolith! Ninguem que tenha ido la antes voltou!</text>
+		<text>It's an old abandoned city from the communist era! From history! I reckon it's full of monsters and hordes of Monolith fighters now! No one who has gone there before ever returned!</text>
 	</string>
 	<string id="rad_find_stalkers_dialog_2_100">
-		<text>Voce acha que e perigoso?</text>
+		<text>You think it's dangerous?</text>
 	</string>
 	<string id="rad_find_stalkers_dialog_2_20">
-		<text>Sem duvida - ninguem nunca voltou de la.</text>
+		<text>No doubt about it - nobody has ever come back from there.</text>
 	</string>
 	<string id="rad_find_stalkers_dialog_3_0">
-		<text>Voce viu algum soldado por aqui?</text>
+		<text>You seen any soldiers around?</text>
 	</string>
 	<string id="rad_find_stalkers_dialog_3_10">
-		<text>Nao, faz muito tempo que nao vejo nenhum soldado.</text>
+		<text>No, I ain't seen any soldiers for a long time.</text>
 	</string>
 	<string id="rad_find_stalkers_dialog_3_100">
-		<text>E quanto aos stalkers militares?</text>
+		<text>What about military stalkers?</text>
 	</string>
 	<string id="rad_find_stalkers_dialog_3_20">
-		<text>Boatos dizem que apareceram perto da Floresta Vermelha, perto das antenas! Quando as desligaram, muitas pessoas foram para a Floresta Vermelha e mais adentro de Prypiat! Estamos aqui ha um dia e nao vimos ninguem. Provavelmente bloquearam a estrada aqui.</text>
+		<text>Rumour has it that they showed up right by the Red Forest, by the antennae! When they were turned off many people went to the Red Forest and further into Pripyat! We've been here for a day and we haven't seen anyone. Someone probably blocked the road here.</text>
 	</string>
 	<string id="rad_find_stalkers_dialog_3_200">
-		<text>Voce acha que o exercito bloqueou a estrada para a Floresta Vermelha?</text>
+		<text>You think the military blocked the road to the Red Forest?</text>
 	</string>
 	<string id="rad_find_stalkers_dialog_3_30">
-		<text>Nao acho que tenha sido o exercito, nao vejo nenhum ha muito tempo, mas stalkers militares poderiam ter feito isso! Eles nao perdem tempo. Sao do tipo sem frescura, trabalham rapido e eficientemente, em equipe ou sozinhos... e estranho que nao tenham bloqueado a estrada aqui antes.</text>
+		<text>I don't think it was the military, I haven't seen any for a long time but military stalkers could have done it! They don't waste any time. They're the no-nonsense types, they work quickly and efficiently in their teams or solo... it's weird that they didn't block the road here earlier.</text>
 	</string>
 	<string id="rad_find_stalkers_dialog_3_300">
-		<text>Por que eles nao foram para Prypiat ou bloquearam a estrada la?</text>
+		<text>Why did they not go to Pripyat or block the road there?</text>
 	</string>
 	<string id="rad_find_stalkers_dialog_3_40">
-		<text>Nao sei. Talvez eles tenham medo ou estejam se preparando para algo. So posso imaginar.</text>
+		<text>I don't know. Maybe they're afraid or they're getting ready for something. I can only guess.</text>
 	</string>
 	<string id="rad_find_stalkers_dialog_4_0">
-		<text>Talvez voce tenha uma missao para mim?</text>
+		<text>Maybe you've got a mission for me?</text>
 	</string>
 	<string id="rad_find_stalkers_dialog_4_10">
-		<text>Bem, eu tenho uma, mas nao e facil... vai fazer isso?</text>
+		<text>Well, I have one but it's not easy...will you do it?</text>
 	</string>
 	<string id="rad_find_stalkers_dialog_4_100">
-		<text>Dizer que nao e facil nao me assusta!</text>
+		<text>Saying it's not easy doesn't scare me!</text>
 	</string>
 	<string id="rad_find_stalkers_dialog_4_101">
-		<text>Nao, de jeito nenhum. Nao tenho tempo!</text>
+		<text>Nah, no way. I don't have the time!</text>
 	</string>
 	<string id="rad_find_stalkers_dialog_4_11">
-		<text>Eu entendo. Eu tambem estou com medo... preferiria gastar algum dinheiro em vez de mandar meus caras ou ir eu mesmo.</text>
+		<text>I understand. I'm afraid myself... would prefer to spend some money instead of sending my guys or going myself.</text>
 	</string>
 	<string id="rad_find_stalkers_dialog_4_20">
-		<text>Bom! A missao e encontrar meus scouts, Crowbar e Log! Eles foram para Prypiat, pois decidi nao me apressar e enviei meus melhores homens em vez disso! Encontre-os vivos e traga-os de volta. Se estiverem mortos, traga-me suas armas! Faça isso por mim e voce ganhara 2000!!!</text>
+		<text>Good! The job is to find my scouts, Crowbar and Log! They went to Pripyat since I decided not to rush in and sent my best guys instead! Find them alive and bring them here. If they're dead bring me their weapons! Do this for me and you'll get 2000!!!</text>
 	</string>
 	<string id="rad_find_stalkers_dialog_4_200">
-		<text>Ok, fechado!</text>
+		<text>OK, deal!</text>
 	</string>
 	<string id="rad_find_stalkers_dialog_4_201">
-		<text>Nao o suficiente. Que tal 4000 e fechamos o negocio?</text>
+		<text>Not enough. How about 4000 and we have a deal?</text>
 	</string>
 	<string id="rad_find_stalkers_dialog_4_21">
-		<text>Isso e tudo que posso oferecer por este trabalho!</text>
+		<text>That's all I can offer you for this job!</text>
 	</string>
 	<string id="rad_find_stalkers_dialog_4_30">
-		<text>Ok, vou esperar voce aqui!</text>
+		<text>OK, I'll wait for you here!</text>
 	</string>
 	<string id="rad_found_deputy_dialog_1_0">
-		<text>Missao cumprida!</text>
+		<text>Mission accomplished!</text>
 	</string>
 	<string id="rad_found_deputy_dialog_1_100">
-		<text>Otimo, me de o PDA dele!</text>
+		<text>Great, give me his PDA!</text>
 	</string>
 	<string id="rad_found_deputy_dialog_1_1000">
-		<text>Aqui. Agora o dinheiro!</text>
+		<text>Here. Now the money!</text>
 	</string>
 	<string id="rad_found_deputy_dialog_1_1100">
-		<text>Voce esta tentando me enganar. Ele nao tinha nada!</text>
+		<text>You're trying to pull a fast one on me. He didn't have anything!</text>
 	</string>
 	<string id="rad_found_deputy_dialog_1_1200">
-		<text>Eu vou te destruir agora mesmo!</text>
+		<text>I'm gonna waste you right now!</text>
 	</string>
 	<string id="rad_found_deputy_dialog_1_1300">
-		<text>Se eu te ver de novo, voce esta morto!</text>
+		<text>If I see you again you're a dead man!</text>
 	</string>
 	<string id="rad_found_deputy_dialog_1_1400">
-		<text>Ok, eu entendo. Boa sorte!</text>
+		<text>OK, I understand. Good luck!</text>
 	</string>
 	<string id="rad_found_deputy_dialog_1_200">
-		<text>Nao posso te dar nada, nao tenho dinheiro. Pode ficar com as coisas dele, se quiser.</text>
+		<text>I can't give you anything, I don't have any money. You can keep his stuff if you want.</text>
 	</string>
 	<string id="rad_found_deputy_dialog_1_300">
-		<text>Nao tenho dinheiro! Vai embora!</text>
+		<text>I don't have any money! Go away!</text>
 	</string>
 	<string id="rad_found_deputy_dialog_2_0">
-		<text>Nao consegui encontra-lo!</text>
+		<text>I couldn't find him!</text>
 	</string>
 	<string id="rad_found_deputy_dialog_2_10">
-		<text>Encontre-o rapido se quiser seu dinheiro!</text>
+		<text>Find him fast if you want your money!</text>
 	</string>
 	<string id="rad_found_stalkers_dialog_1_0">
-		<text>Encontrei seus meninos. Eles morreram, mas aqui estao suas armas!</text>
+		<text>I found your boys. They died but here are their weapons!</text>
 	</string>
 	<string id="rad_found_stalkers_dialog_1_100">
-		<text>Obrigado, entao estao mortos. Nao acho que ha motivo para ir a Prypiat agora! Tem um problema, porem - nao tenho seu dinheiro. Meu deputy desapareceu e ele tinha todo o dinheiro!</text>
+		<text>Thanks, they're dead then. I don't think there's any point going to Pripyat now! There's a problem though - I don't have your money. My deputy disappeared and he had all the money!</text>
 	</string>
 	<string id="rad_found_stalkers_dialog_1_1001">
-		<text>Ok, vou encontra-lo! Me diga onde procurar. E nao pense nem por um segundo em tentar me enganar desta vez!!!</text>
+		<text>OK, I'll find him! Tell me where to look for him. And don't even think about trying to cheat me out of my cash this time!!!</text>
 	</string>
 	<string id="rad_found_stalkers_dialog_1_200">
-		<text>Nao acho que ele tenha ido muito longe. Ele deve estar aqui ou aqui, vou marcar no mapa para voce! Quando o encontrar, traga-o ou o PDA dele de volta aqui!</text>
+		<text>I don't think he got very far. He's probably here or here, I'll mark it on the map for you! When you find him, bring him or his PDA back here!</text>
 	</string>
 	<string id="rad_found_stalkers_dialog_1_2000">
-		<text>Ok, espere por mim!!!</text>
+		<text>OK, wait for me!!!</text>
 	</string>
 	<string id="rad_found_stalkers_dialog_2_0">
-		<text>Nao consegui encontra-los.</text>
+		<text>I couldn't find them.</text>
 	</string>
 	<string id="rad_found_stalkers_dialog_2_10">
-		<text>Encontre-os rapido! Nao posso esperar para sempre!!! Boa sorte!</text>
+		<text>Find them fast! I can't wait forever!!! Good luck!</text>
 	</string>
 </string_table>

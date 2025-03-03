@@ -1,156 +1,156 @@
 <?xml version="1.0" encoding="windows-1251" ?>
 <string_table>
 	<string id="bandit_outfit_description">
-		<text>Roupa tradicional de um bandido - uma jaqueta de couro com elementos de kevlar. Proporciona protecao altamente insuficiente para as severas condicoes da Zona.</text>
+		<text>Traditional outfit of a bandit - a leather jacket with kevlar elements. Provides protection highly insufficient for the Zone's severe conditions.</text>
 	</string>
 	<string id="bandit_outfit_description_m">
-		<text>Armadura corporal comum e fraca de bandido com placas de malha costuradas no forro. Quase todos podem fazer isso, mas nem todos terao paciencia suficiente para.</text>
+		<text>Common weak bandit body armor with mail plates sewn in its backing. Almost everyone can do it, but not everyone by far will have enough patience to.</text>
 	</string>
 	<string id="bandit_outfit_name">
-		<text>Jaqueta de bandido</text>
+		<text>Bandit jacket</text>
 	</string>
 	<string id="bandit_outfit_name_m">
-		<text>Jaqueta de malha</text>
+		<text>Mail jacket</text>
 	</string>
 	<string id="dolg_outfit_description">
-		<text>Produzido por um dos institutos de pesquisa de defesa de Kiev e encomendado pela faccao Duty. E simples e confiavel como o modelo padrao PSZ-9, mas devido aos novos materiais, oferece boa protecao contra varios impactos nocivos, incluindo danos causados por armas de fogo. O colete ainda precisa de alguns ajustes, pois nao possui sistema de protecao respiratoria.</text>
+		<text>Produced by one of Kiev's defence research institutes and commissioned by the Duty faction. It is as simple and reliable as the standard PSZ-9 model, but due to the new materials, it provides good protection from various harmful impacts, including firearm damage. The vest still needs some work because it has no breathing protection system.</text>
 	</string>
 	<string id="dolg_outfit_description_m1">
-		<text>Traje de armadura Duty com parametros aprimorados de protecao contra mordidas e cortes.</text>
+		<text>Duty armor suit with enhanced parameters of protection against bites and cuts.</text>
 	</string>
 	<string id="dolg_outfit_name">
-		<text>Armadura PSZ-9d Duty</text>
+		<text>PSZ-9d Duty Armor</text>
 	</string>
 	<string id="dolg_outfit_name_m1">
 		<text>Hunter PSZ-9d</text>
 	</string>
 	<string id="dolg_scientific_outfit_description">
-		<text>Um maravilhoso traje de protecao para a Zona. Stalkers o apreciam porque combina excelentes qualidades de protecao contra anomalias e balas. Inclui o traje PSZ-9d, um sistema de respiracao de ciclo fechado e um sistema integrado de supressao de campo anomalo. Proporciona protecao de qualidade contra balas e estilhacos.</text>
+		<text>A wonderful protective suit for the Zone. Stalkers appreciate it because it combines excellent anomaly-proof and bullet-proof qualities. It includes the PSZ-9d suit, a closed cycle breathing system and an integrated system of anomalous field suppression. It provides quality bullet and splinter protection.</text>
 	</string>
 	<string id="dolg_scientific_outfit_name">
-		<text>Protecao universal PSZ-9Md</text>
+		<text>PSZ-9Md Universal Protection</text>
 	</string>
 	<string id="ecolog_outfit_description">
-		<text>Um traje de protecao quimica SSP-99 especialmente projetado para as condicoes da Zona. E usado por expedicoes cientificas e eco-stalkers que colaboram com elas. Possui um sistema integrado de filtragem de ar e ar-condicionado. E resistente a calor e eletricidade, proporciona boa protecao contra radiacao e anomalias biologicas. E resistente a ambientes quimicamente agressivos. Nao e projetado para combate, portanto nao oferece protecao contra balas ou estilhacos.</text>
+		<text>A SSP-99 chemical protection suit specially designed for the Zone conditions. It is used by scientific expeditions and the eco-stalkers who cooperate with them. It has an integrated air-filtering and air-conditioning system. It is heat and electricity resistant, provides good protection from radiation and biological anomalies. It is resistant to chemically aggressive environments. It is not designed for combat, so it provides neither bullet, nor splinter protection.</text>
 	</string>
 	<string id="ecolog_outfit_name">
-		<text>SSP-99 Ecologista</text>
+		<text>SSP-99 Ecologist</text>
 	</string>
 	<string id="exo_outfit_description">
-		<text>Um prototipo de exoesqueleto militar. Nunca entrou em producao em serie devido ao custo extremo e alguns defeitos de design. No entanto, e produzido em pequenas quantidades em pequenas fabricas ilegais fora da Ucrania. Este e um exoesqueleto de terceira geracao. Os defeitos de design que diminuim sua mobilidade foram eliminados e a armadura foi reforcada. Proporciona excelente protecao contra balas e estilhacos. Possui um baixo nivel de protecao contra anomalias.</text>
+		<text>A military exoskeleton prototype. It never went into serial production, because of extreme cost and some design flaws. It is however produced in small batches in small illegal factories outside of Ukraine. This is a third generation exoskeleton. The design defects which used to decrease its mobility were eliminated and the armor was reinforced. It provides excellent bullet and splinter protection. It has a low level of anomaly protection.</text>
 	</string>
 	<string id="exo_outfit_description_m1">
-		<text>O dispositivo basico para visao noturna foi substituido por um modelo mais moderno com filtragem digital do sinal enviado.</text>
+		<text>Basic device for night vision is replaced by a more modern model with a digital filtration of the signal sent.</text>
 	</string>
 	<string id="exo_outfit_name">
-		<text>Exoesqueleto</text>
+		<text>Exoskeleton</text>
 	</string>
 	<string id="killer_outfit_description">
-		<text>Traje de Stalker da faccao Merc. Seu design e baseado no traje usado pelas forcas especiais dos exercitos ocidentais. Devido ao tratamento especial do tecido, a armadura tem uma estabilidade aprimorada durante o movimento fisico de suas placas. Suas propriedades de protecao sao ligeiramente melhores do que as dos trajes militares PSZ-7 de protecao balistica.</text>
+		<text>Stalker suit from the Merc faction. Its design is based on the suit used by the special forces of the Western armies. Due to a special treatment of the fabric, the armor has a strengthened stability during the physical movement of its plates. Its protective properties are slightly better then those of the PSZ-7 military bulletproof suits.</text>
 	</string>
 	<string id="killer_outfit_description_m1">
-		<text>Ha malha de corrente costurada no forro do casaco, o que aumenta o nivel de protecao contra ataques de armas de fogo e mordidas de monstros. Um PNV tambem esta incluido no conjunto.</text>
+		<text>There is chain mail sown into the lining of the coat, which raises the level of protection against firearm attack and monster bites. A PNV is also included in the set.</text>
 	</string>
 	<string id="killer_outfit_name">
-		<text>Traje Merc</text>
+		<text>Merc suit</text>
 	</string>
 	<string id="killer_outfit_name_m1">
-		<text>Traje reforcado</text>
+		<text>Reinforced suit</text>
 	</string>
 	<string id="military_outfit_description">
-		<text>Este traje militar balistico Skat-9M e projetado para operacoes de assalto em areas de atividade anomala. Inclui o traje militar pesado PSZ-12p, um traje de compensacao integrado e um capacete Sphere-12M. Proporciona protecao perfeita contra balas e estilhacos e nao diminui a mobilidade do soldado. Possui um sistema equilibrado de protecao contra anomalias.</text>
+		<text>This Skat-9M bulletproof military suit is designed for assault operations in areas of anomalous activity. It includes a PSZ-12p heavy military bulletproof suit, an integrated compensation suit and a Sphere-12M helmet. It provides perfect protection from bullets and splinters and it doesn’t decrease the soldier’s mobility. It has a balanced system of anomaly protection.</text>
 	</string>
 	<string id="military_outfit_name">
-		<text>Traje militar blindado</text>
+		<text>Military armored suit</text>
 	</string>
 	<string id="monolit_outfit_description">
-		<text>Traje de Stalker da faccao Monolith. O produtor e desconhecido. Suas propriedades de protecao sao ligeiramente piores do que as do colete balistico militar PSZ-9a. Sua estrutura e semelhante ao traje popular entre os stalkers neutros que combina um colete a prova de balas e um traje de protecao contra radiacao. Proporciona boa protecao contra disparos de armas de fogo. Seu nivel de protecao contra anomalias e baixo devido a ausencia de um sistema de filtragem de ar.</text>
+		<text>Stalker suit from the Monolith faction. The producer is unknown. Its protective properties are slightly worse then those of the PSZ-9a military bulletproof vest. Its structure is similar to the suit popular with neutral stalkers which combines a bulletproof vest and a radiation protection suit. It provides good protection from gunfire. Its level of anomaly protection is low due to the absence of an air filtering system.</text>
 	</string>
 	<string id="monolit_outfit_name">
-		<text>Traje Monolith</text>
+		<text>Monolith suit</text>
 	</string>
 	<string id="novice_outfit_description_m">
-		<text>Retiraram este casaco do corpo de um dos stalkers que morreu na anomalia "ponche de frutas". Depois de ficar muito tempo na anomalia, o casaco obteve a habilidade de acelerar o metabolismo.</text>
+		<text>They took this coat off of the body of one of the stalkers who died in the anomaly "fruit punch". Having laid a long time in the anomaly, the coat obtained the ability to speed up metabolism.</text>
 	</string>
 	<string id="novice_outfit_name_m">
-		<text>Traje Anonimo</text>
+		<text>Skinner anomaly</text>
 	</string>
 	<string id="outfit_soldier_description">
-		<text>Uma jaqueta grossa comum, uma das muitas. Aumenta ligeiramente a protecao contra balas e estilhacos. Nao protege contra anomalias e outros efeitos.</text>
+		<text>An ordinary thick jacket, one of the many. It slightly increases bullet and splinter protection. It does not protect from anomalies and other affects.</text>
 	</string>
 	<string id="outfit_soldier_name">
-		<text>Jaqueta de couro</text>
+		<text>Leather jacket</text>
 	</string>
 	<string id="protection_outfit_description">
-		<text>Traje modificado SSP-99 de alta qualidade. Proporciona protecao aumentada do corpo contra danos de balas e estilhacos. Foi projetado para os guardas que trabalham com expedicoes cientificas. Oferece boa protecao contra radiacao e anomalias biologicas. E resistente a ambientes quimicamente agressivos e outros efeitos perigosos ao corpo.</text>
+		<text>High quality modified SSP-99 suit. It provides increased body protection from bullet and splinter damage. It is designed for the guards working with scientific expeditions. It provides good protection from radiation and biological anomalies. It is resistant to chemically aggressive environments and other effects dangerous to the body.</text>
 	</string>
 	<string id="protection_outfit_name">
-		<text>Traje SSP-99M</text>
+		<text>SSP-99M suit</text>
 	</string>
 	<string id="scientific_outfit_description">
-		<text>Este traje foi produzido por um dos institutos de pesquisa de defesa de Kiev e representa uma excelente alternativa aos trajes feitos a mao por stalkers. E uma excelente combinacao de colete balistico, sistema de respiracao de ciclo fechado e um sistema integrado de supressao de campo anomalo. Devido a escolha perfeita dos materiais, e uma boa opcao. O unico inconveniente e o seu preco.</text>
+		<text>This suit was produced by one of Kiev's defence research institutes and represents an excellent alternative to stalker hand-made suits. It is an excellent combination of an bulletproof vest, a closed cycle breathing system and an integrated system of anomalous field suppression. Due to the perfect choice of the materials, it is a good choice. The only disadvantage is its price.</text>
 	</string>
 	<string id="scientific_outfit_name">
-		<text>Traje SEVA</text>
+		<text>SEVA suit</text>
 	</string>
 	<string id="specnaz_outfit_description_m1">
-		<text>O tecido do traje e saturado com uma locao streptozoidal, que acelera a cicatrizacao de feridas.</text>
+		<text>The fabric of the suit is saturated with a streptozoidal lotion, which speeds up the healing of wounds.</text>
 	</string>
 	<string id="specnaz_outfit_name_m1">
-		<text>Beril curativo</text>
+		<text>Healing Beril</text>
 	</string>
 	<string id="specops_outfit_description">
-		<text>Um traje de Forcas Especiais Berill-5M modificado para o ambiente da Zona. Inclui um colete balistico militar PSZ-9a com revestimento de berilio e um capacete Sphere-08. Foi projetado para operacoes de assalto em areas com alta radiacao de fundo. Seu nivel de protecao contra anomalias e baixo.</text>
+		<text>A Berill-5M special forces suit modified for the Zone environment. It includes a PSZ-9a military bulletproof vest with beryllium coating and a Sphere-08 helmet. It is designed for assault operations in areas with high background radiation. Its level of anomaly protection is low.</text>
 	</string>
 	<string id="specops_outfit_name">
-		<text>Traje blindado Berill-5M</text>
+		<text>Berill-5M armored suit</text>
 	</string>
 	<string id="stalker_outfit_description">
-		<text>Traje Stalker fabricado por "artesaos locais". E uma combinacao eficaz de um colete balistico militar leve e um traje de tecido borrachado. E reforcado com placas de kevlar inseridas e oferece boa protecao contra tiros fracos. No geral, e altamente ineficiente para realizar incursoes profundas e operacoes serias nos pontos da Zona.</text>
+		<text>Stalker suit manufactured by "folk craftsmen". It is an effective combination of a light military bulletproof vest and of a rubberized fabric suit. It is reinforced with inserted kevlar plates and provides good protection from weak gunfire. All in all it is highly inefficient for carrying out deep raids and serious operations in the knots of the Zone.</text>
 	</string>
 	<string id="stalker_outfit_description_m1">
-		<text>Rumores dizem que o stalker fantasma nunca carrega um kit de primeiros socorros com ele. Tudo cicatriza nele como se fosse um cachorro. Dizem que ele possui um traje incomum que obteve em uma anomalia.</text>
+		<text>Rumor has it that the ghost stalker never carries a first aid kit with him. Everything heals on him like on a dog. They say that he has an unusual suit that he got on an anomaly.</text>
 	</string>
 	<string id="stalker_outfit_description_m2">
-		<text>O antigo dono deste traje era um verdadeiro turista e, pelo visto, fazia viagens muito dificeis, na beira da resistencia humana. Ele sabia como distribuir corretamente o peso que carregava e quais coisas dar preferencia. Os bolsos do casaco e a escolha cuidadosa da mochila permitem que seu dono carregue um peso elevado.</text>
+		<text>The former owner of this thing was a real tourist and, it seems, often went on very difficult, on the verge of human endurance, hiking trips. He knew how to distribute correctly the weight that he carried, and which things to give preference to. The coat pockets and the educated choice of the backpack allow its owner to carry a heavy weight.</text>
 	</string>
 	<string id="stalker_outfit_name">
-		<text>Traje Stalker</text>
+		<text>Stalker suit</text>
 	</string>
 	<string id="stalker_outfit_name_m1">
-		<text>Traje Fantasma</text>
+		<text>Ghost Suit</text>
 	</string>
 	<string id="stalker_outfit_name_m2">
-		<text>Traje de Turista</text>
+		<text>Tourist Suit</text>
 	</string>
 	<string id="svoboda_heavy_outfit_description">
-		<text>Traje reforcado de Stalker produzido pelos armeiros da faccao Freedom. Consiste em um colete balistico militar medio revestido com elementos de zirconio que oferecem boa protecao contra balas de fuzil e estilhacos de media e longa distancia. O material do traje e composto por duas camadas: couro tratado e tecido com fios de asbesto. O traje oferece boa protecao contra radiacao e varias anomalias fracas.</text>
+		<text>Reinforced stalker suit produced by the gunsmiths of the Freedom faction. It is made up of a medium military bulletproof vest plated with reinforcing zirconium elements which provide good protection from rifle bullets and splinters from medium and long range. The material of the suit consists of two layers: specially treated leather and fabric with asbestos yarn. The suit provides good protection from radiation and various weak anomalies.</text>
 	</string>
 	<string id="svoboda_heavy_outfit_name">
-		<text>Traje Guardiao da Liberdade</text>
+		<text>Guardian of Freedom suit</text>
 	</string>
 	<string id="svoboda_light_outfit_description">
-		<text>Traje leve de Stalker produzido pelos armeiros da faccao Freedom. Consiste em um colete balistico militar leve com placas de kevlar reforcadas. Pode proteger contra armas fracas. O tecido do traje e tratado com uma mistura especial que aumenta a resistencia a atividades anomalias.</text>
+		<text>Light stalker suit produced by the gunsmiths of the Freedom faction. It consists of a light military bulletproof vest with reinforcing kevlar plates. It can protect from weak weapons. The fabric of the suit is treated with a special mixture which increases anomaly activity resistance.</text>
 	</string>
 	<string id="svoboda_light_outfit_name">
-		<text>Traje Vento da Liberdade</text>
+		<text>Wind of Freedom suit</text>
 	</string>
 	<string id="mp_exo_outfit_description">
-		<text>O exoesqueleto protege maravilhosamente contra tiros e estilhacos, porem reduz a mobilidade. E vulneravel a balas de armadura.</text>
+		<text>The exoskeleton protects marvelously from bullet and splinter fire, however it lowers mobility. It is vulnerable to armor bullets.</text>
 	</string>
 	<string id="mp_exo_outfit_name">
-		<text>Exoesqueleto PNB-4UZ</text>
+		<text>Exoskeleton PNB-4UZ</text>
 	</string>
 	<string id="mp_military_outfit_description">
-		<text>O traje balistico militar foi criado para realizacao de operacoes de assalto. Oferece excelente protecao contra tiros e estilhacos sem reduzir a mobilidade do soldado. Vulneravel a balas de armadura.</text>
+		<text>Army bulletproof suit is created for carrying out storming operations. Provides an excellent source of protection from bullet and splinter fire without lowering the mobility of the soldier. Vulnerable to armor bullets.</text>
 	</string>
 	<string id="mp_military_outfit_name">
-		<text>Traje balistico militar</text>
+		<text>Army bulletproof suit.</text>
 	</string>
 	<string id="mp_scientific_outfit_description">
-		<text>Este traje em particular foi projetado para realizar pesquisas na Zona. Possui um sistema respiratorio com ciclo fechado, bem como um sistema embutido para neutralizar a atividade dos campos anomales, o que o protege maravilhosamente contra anomalias. Muito vulneravel devido a fraca protecao. Possui um recipiente embutido para transportar artefatos.</text>
+		<text>This particular bodysuit is designed for carrying out research in the Zone. It has a breathing system with a closed cycle, as well as a built-in system for nullifying the activity of anomalous fields, thanks to which it protects marvelously from anomalies. Very vulnerable due to the weak protection. Has a built-in container for transporting artifacts.</text>
 	</string>
 	<string id="mp_scientific_outfit_name">
-		<text>Traje cientifico</text>
+		<text>Scientific bodysuit</text>
 	</string>
 </string_table>

@@ -1,207 +1,207 @@
 <?xml version="1.0" encoding="windows-1251" ?>
 <string_table>
 	<string id="kb_active_jobs">
-		<text>Missoes ativas no PDA</text>
+		<text>Active tasks in PDA</text>
 	</string>
 	<string id="kb_always_run">
-		<text>Agachar</text>
+		<text>Low crouch</text>
 	</string>
 	<string id="kb_artefact">
-		<text>Artefato</text>
+		<text>Artifact</text>
 	</string>
 	<string id="kb_backward">
-		<text>Voltar</text>
+		<text>Back</text>
 	</string>
 	<string id="kb_binoculars">
-		<text>Binoculos</text>
+		<text>Binoculars</text>
 	</string>
 	<string id="kb_buy_menu">
-		<text>Menu de compra</text>
+		<text>Buy menu</text>
 	</string>
 	<string id="kb_chat">
-		<text>Bate-papo</text>
+		<text>Chat</text>
 	</string>
 	<string id="kb_chat_team">
-		<text>Bate-papo de equipe</text>
+		<text>Team chat</text>
 	</string>
 	<string id="kb_console">
 		<text>Console</text>
 	</string>
 	<string id="kb_contacts">
-		<text>Contatos do PDA</text>
+		<text>PDA contacts</text>
 	</string>
 	<string id="kb_crouch">
-		<text>Abaixar</text>
+		<text>Crouch</text>
 	</string>
 	<string id="kb_crouch_toggle">
-		<text>Abaixar sempre</text>
+		<text>Always crouch</text>
 	</string>
 	<string id="kb_down">
-		<text>Descer</text>
+		<text>Down</text>
 	</string>
 	<string id="kb_drop">
-		<text>Soltar</text>
+		<text>Drop</text>
 	</string>
 	<string id="kb_fire">
-		<text>Atirar</text>
+		<text>Fire</text>
 	</string>
 	<string id="kb_firemode_next">
-		<text>Proximo modo de tiro</text>
+		<text>Next firing mode</text>
 	</string>
 	<string id="kb_firemode_prev">
-		<text>Modo de tiro anterior</text>
+		<text>Previous firing mode</text>
 	</string>
 	<string id="kb_forward">
-		<text>Avancar</text>
+		<text>Forward</text>
 	</string>
 	<string id="kb_func">
-		<text>Lancador de granadas</text>
+		<text>Grenade launcher</text>
 	</string>
 	<string id="kb_grp_common">
-		<text>Geral</text>
+		<text>General</text>
 	</string>
 	<string id="kb_grp_direction">
-		<text>Direcao</text>
+		<text>Direction</text>
 	</string>
 	<string id="kb_grp_inventory">
-		<text>Inventario</text>
+		<text>Inventory</text>
 	</string>
 	<string id="kb_grp_movement">
-		<text>Movimento</text>
+		<text>Movement</text>
 	</string>
 	<string id="kb_grp_multiplayer">
 		<text>Multiplayer</text>
 	</string>
 	<string id="kb_grp_weapons">
-		<text>Arma</text>
+		<text>Weapon</text>
 	</string>
 	<string id="kb_inventory">
-		<text>Inventario</text>
+		<text>Inventory</text>
 	</string>
 	<string id="kb_jump">
-		<text>Pular</text>
+		<text>Jump</text>
 	</string>
 	<string id="kb_left">
-		<text>Esquerda</text>
+		<text>Left</text>
 	</string>
 	<string id="kb_left_lookout">
-		<text>Inclinar para a esquerda</text>
+		<text>Lean left</text>
 	</string>
 	<string id="kb_left_strafe">
-		<text>Deslocar para a esquerda</text>
+		<text>Strafe left</text>
 	</string>
 	<string id="kb_map">
-		<text>Mapa do PDA</text>
+		<text>PDA map</text>
 	</string>
 	<string id="kb_next_slot">
-		<text>Arma no proximo slot</text>
+		<text>Weapon in next slot</text>
 	</string>
 	<string id="kb_night_vision">
-		<text>Visao noturna</text>
+		<text>Night vision</text>
 	</string>
 	<string id="kb_pause">
-		<text>Pausa</text>
+		<text>Pause</text>
 	</string>
 	<string id="kb_pda">
 		<text>PDA</text>
 	</string>
 	<string id="kb_prev_slot">
-		<text>Arma no slot anterior</text>
+		<text>Weapon in previous slot</text>
 	</string>
 	<string id="kb_quit">
-		<text>Sair</text>
+		<text>Exit</text>
 	</string>
 	<string id="kb_reload">
-		<text>Recarregar</text>
+		<text>Reload</text>
 	</string>
 	<string id="kb_repair">
-		<text>Reparar</text>
+		<text>Repair</text>
 	</string>
 	<string id="kb_right">
-		<text>Direita</text>
+		<text>Right</text>
 	</string>
 	<string id="kb_right_lookout">
-		<text>Inclinar para a direita</text>
+		<text>Lean right</text>
 	</string>
 	<string id="kb_right_strafe">
-		<text>Deslocar para a direita</text>
+		<text>Strafe right</text>
 	</string>
 	<string id="kb_scores">
-		<text>Pontos</text>
+		<text>Points</text>
 	</string>
 	<string id="kb_screenshot">
-		<text>Captura de tela</text>
+		<text>Screenshot</text>
 	</string>
 	<string id="kb_skin_menu">
-		<text>Menu de aparencia</text>
+		<text>Skin Menu</text>
 	</string>
 	<string id="kb_sprint">
-		<text>Correr</text>
+		<text>Sprint</text>
 	</string>
 	<string id="kb_team_menu">
-		<text>Menu de equipe</text>
+		<text>Team Menu</text>
 	</string>
 	<string id="kb_torch">
-		<text>Lanterna</text>
+		<text>Flashlight</text>
 	</string>
 	<string id="kb_turn_engine">
-		<text>Ligar</text>
+		<text>Turn on</text>
 	</string>
 	<string id="kb_up">
-		<text>Cima</text>
+		<text>Up</text>
 	</string>
 	<string id="kb_use">
-		<text>Usar</text>
+		<text>Use</text>
 	</string>
 	<string id="kb_use_bandage">
-		<text>Curativo rapido</text>
+		<text>Quick bandage</text>
 	</string>
 	<string id="kb_use_medkit">
-		<text>Kit medico rapido</text>
+		<text>Quick medkit</text>
 	</string>
 	<string id="kb_vote_begin">
-		<text>Iniciar votacao</text>
+		<text>Begin voting</text>
 	</string>
 	<string id="kb_vote_menu">
-		<text>Votacao</text>
+		<text>Vote</text>
 	</string>
 	<string id="kb_vote_no">
-		<text>Votar "Sim"</text>
+		<text>Vote "Yes"</text>
 	</string>
 	<string id="kb_vote_yes">
-		<text>Votar "Nao"</text>
+		<text>Vote "No"</text>
 	</string>
 	<string id="kb_weapon1">
-		<text>Arma 1</text>
+		<text>Weapon 1</text>
 	</string>
 	<string id="kb_weapon2">
-		<text>Arma 2</text>
+		<text>Weapon 2</text>
 	</string>
 	<string id="kb_weapon3">
-		<text>Arma 3</text>
+		<text>Weapon 3</text>
 	</string>
 	<string id="kb_weapon4">
-		<text>Arma 4</text>
+		<text>Weapon 4</text>
 	</string>
 	<string id="kb_weapon5">
-		<text>Arma 5</text>
+		<text>Weapon 5</text>
 	</string>
 	<string id="kb_weapon6">
-		<text>Arma 6</text>
+		<text>Weapon 6</text>
 	</string>
 	<string id="kb_wpn_next">
-		<text>Trocar tipo de municao</text>
+		<text>Change ammo type</text>
 	</string>
 	<string id="kb_wpn_prev">
-		<text>Arma anterior deste tipo</text>
+		<text>Prev weapon of this type</text>
 	</string>
 	<string id="kb_zoom">
 		<text>Zoom</text>
 	</string>
 	<string id="speech_menu_group">
-		<text>Mensagens de voz (1)</text>
+		<text>Voice messages (1)</text>
 	</string>
 	<string id="speech_menu_personal">
-		<text>Mensagens de voz (2)</text>
+		<text>Voice messages (2)</text>
 	</string>
 </string_table>

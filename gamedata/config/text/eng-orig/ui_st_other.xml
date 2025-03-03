@@ -1,234 +1,234 @@
 <?xml version="1.0" encoding="windows-1251" ?>
 <string_table>
 	<string id="id_mp_money">
-		<text>Dinheiro</text>
+		<text>Money</text>
 	</string>
 	<string id="mm_mp_pda_hunt">
-		<text>Bonus PDA</text>
+		<text>PDA bonus</text>
 	</string>
 	<string id="st_drink">
-		<text>beber</text>
+		<text>drink</text>
 	</string>
 	<string id="st_mp_direct_ip">
-		<text>IP direto</text>
+		<text>Direct IP</text>
 	</string>
 	<string id="ui_mm_default">
-		<text>Padrao</text>
+		<text>Default</text>
 	</string>
 	<string id="ui_mm_detail_density">
-		<text>Densidade da grama</text>
+		<text>Grass density</text>
 	</string>
 	<string id="ui_mm_r2_sun">
-		<text>Sombra do sol</text>
+		<text>Sun shadow</text>
 	</string>
 	<string id="ui_mm_r2_sun_details">
-		<text>Sombra da grama</text>
+		<text>Grass shadow</text>
 	</string>
 	<string id="ui_mm_render_2">
 		<text>Render 2</text>
 	</string>
 	<string id="ui_pda_details">
-		<text># /detalhes</text>
+		<text># /details</text>
 	</string>
 	<string id="ui_st_btn_cancel">
-		<text>Cancelar</text>
+		<text>Cancel</text>
 	</string>
 	<string id="ui_st_btn_no">
-		<text>Nao</text>
+		<text>No</text>
 	</string>
 	<string id="ui_st_btn_ok">
 		<text>OK</text>
 	</string>
 	<string id="ui_st_btn_yes">
-		<text>Sim</text>
+		<text>Yes</text>
 	</string>
 	<string id="ui_st_cant_run_r2">
-		<text>Voce nao pode rodar o Render 2 no seu PC</text>
+		<text>You can't run Render 2 on your PC</text>
 	</string>
 	<string id="ui_st_conn_invalid_host">
-		<text>Erro de conexao: Host invalido</text>
+		<text>Connection error: Invalid host</text>
 	</string>
 	<string id="ui_st_conn_invalid_pass">
-		<text>Erro de conexao: Senha invalida</text>
+		<text>Connection error: Invalid password</text>
 	</string>
 	<string id="ui_st_conn_rejected_server">
-		<text>Erro de conexao: Conexao rejeitada pelo servidor</text>
+		<text>Connection error: connection rejected by server</text>
 	</string>
 	<string id="ui_st_conn_sess_full">
-		<text>Erro de conexao: Sessao cheia</text>
+		<text>Connection error: session is full</text>
 	</string>
 	<string id="ui_st_days">
-		<text>Dias</text>
+		<text>Days</text>
 	</string>
 	<string id="ui_st_error">
-		<text>Erro</text>
+		<text>Error</text>
 	</string>
 	<string id="ui_st_file_exist_owerwrite_q">
-		<text>O arquivo com este nome ja existe. Voce quer sobrescreve-lo?</text>
+		<text>The file with this name already exists. Do you want to overwrite it?</text>
 	</string>
 	<string id="ui_st_file_name_is_empty">
-		<text>O nome do arquivo esta vazio</text>
+		<text>The file name is empty</text>
 	</string>
 	<string id="ui_st_hours">
 		<text>hr.</text>
 	</string>
 	<string id="ui_st_leave">
-		<text>Sair</text>
+		<text>Leave</text>
 	</string>
 	<string id="ui_st_mins">
-		<text>min.</text>
+		<text>mins</text>
 	</string>
 	<string id="ui_st_months">
-		<text>meses</text>
+		<text>months</text>
 	</string>
 	<string id="ui_st_params">
-		<text>Parametros</text>
+		<text>Parameters</text>
 	</string>
 	<string id="ui_st_secs">
-		<text>seg.</text>
+		<text>sec.</text>
 	</string>
 	<string id="ui_st_select_one_map">
-		<text>Por favor, selecione pelo menos um mapa</text>
+		<text>Please select at least one map</text>
 	</string>
 	<string id="ui_st_take_all">
-		<text>Pegar tudo</text>
+		<text>Take all</text>
 	</string>
 	<string id="ui_st_time_remains">
-		<text>Restante</text>
+		<text>Remaining</text>
 	</string>
 	<string id="ui_st_trade">
-		<text>Negociar</text>
+		<text>Trade</text>
 	</string>
 	<string id="ui_st_voting_disabled">
-		<text>Votacao desabilitada</text>
+		<text>Voting is disabled</text>
 	</string>
 	<string id="ui_st_want_to_leave_game_q">
-		<text>Voce realmente quer sair do jogo?</text>
+		<text>Do you really want to leave the game?</text>
 	</string>
 	<string id="ui_st_your_items">
-		<text>Itens a vender</text>
+		<text>Your items</text>
 	</string>
 	<string id="st_game_over_press_jump">
-		<text>pressione ($$ACTION_JUMP$$) para sair para o menu principal</text>
+		<text>press ($$ACTION_JUMP$$) to exit to main menu</text>
 	</string>
 	<string id="st_level">
-		<text>Nivel</text>
+		<text>Level</text>
 	</string>
 	<string id="st_opening_stream">
-		<text>Abrindo stream</text>
+		<text>Opening stream</text>
 	</string>
 	<string id="st_loading_cform">
-		<text>Carregando CFORM</text>
+		<text>Loading CFORM</text>
 	</string>
 	<string id="st_prefetching_objects">
-		<text>Precarregando objetos</text>
+		<text>Prefetching objects</text>
 	</string>
 	<string id="st_creating_new_game">
-		<text>Criando novo jogo</text>
+		<text>Creating new game</text>
 	</string>
 	<string id="st_loading_alife_simulator">
-		<text>SERVER: Carregando simulador alife</text>
+		<text>SERVER: Loading alife simulator</text>
 	</string>
 	<string id="st_server_connecting">
-		<text>SERVER: Conectando</text>
+		<text>SERVER: Connecting</text>
 	</string>
 	<string id="st_loading_saved_game">
-		<text>Carregando jogo salvo</text>
+		<text>Loading saved game</text>
 	</string>
 	<string id="st_validating_cdkey">
-		<text>Validando CD Key</text>
+		<text>Validating CD Key</text>
 	</string>
 	<string id="st_loading_ai_objects">
-		<text>Carregando objetos de IA</text>
+		<text>Loading AI objects</text>
 	</string>
 	<string id="st_client_connecting_to">
-		<text>CLIENTE: Conectando a</text>
+		<text>CLIENT: Connecting to</text>
 	</string>
 	<string id="st_client_spawning">
-		<text>CLIENTE: Gerando</text>
+		<text>CLIENT: Spawning</text>
 	</string>
 	<string id="st_loading_textures">
-		<text>Carregando texturas</text>
+		<text>Loading textures</text>
 	</string>
 	<string id="st_client_synchronising">
-		<text>CLIENTE: Sincronizando</text>
+		<text>CLIENT: Synchronizing</text>
 	</string>
 	<string id="st_server_starting">
-		<text>SERVER: Iniciando</text>
+		<text>SERVER: Starting</text>
 	</string>
 	<string id="st_loading_shaders">
-		<text>Carregando shaders</text>
+		<text>Loading shaders</text>
 	</string>
 	<string id="st_loading_geometry">
-		<text>Carregando geometria</text>
+		<text>Loading geometry</text>
 	</string>
 	<string id="st_loading_spatial_db">
-		<text>Carregando banco de dados espacial</text>
+		<text>Loading spatial-DB</text>
 	</string>
 	<string id="st_loading_details">
-		<text>Carregando detalhes</text>
+		<text>Loading details</text>
 	</string>
 	<string id="st_loading_sectors_portals">
-		<text>Carregando setores e portais</text>
+		<text>Loading sectors & portals</text>
 	</string>
 	<string id="ui_st_conn_version_differs">
-		<text>Erro de conexao: Versao diferente.</text>
+		<text>Connection error: Different version.</text>
 	</string>
 	<string id="ui_st_conn_cdkey_invalid">
-		<text>Erro de conexao: CD-Key invalido.</text>
+		<text>Connection error: Invalid CD-Key.</text>
 	</string>
 	<string id="ui_st_conn_cdkey_in_use">
-		<text>Erro de conexao: CD-Key ja em uso.</text>
+		<text>Connection error: CD-Key already in use.</text>
 	</string>
 	<string id="ui_st_conn_cdkey_disabled">
-		<text>Erro de conexao: Seu CD-Key esta desabilitado. Contate o suporte.</text>
+		<text>Connection error: Your CD-Key is disabled. Contact customer's service.</text>
 	</string>
 	<string id="ui_st_conn_new_patch">
-		<text>Novo patch disponivel.\n Versao: %s\n Localizacao: %s\nVoce deseja baixar agora?</text>
+		<text>New patch is available.\n Version: %s\n Location: %s\nDo you want to download it now?</text>
 	</string>
 	<string id="ui_st_conn_no_new_patch">
-		<text>Sem novos patches disponiveis no momento</text>
+		<text>No new patches available now</text>
 	</string>
 	<string id="ui_mm_delete_existing_file_q">
-		<text>Voce realmente quer deletar o arquivo?</text>
+		<text>You really want to delete file?</text>
 	</string>
 	<string id="st_game_paused">
-		<text>Pausa</text>
+		<text>Pause</text>
 	</string>
 	<string id="st_bolt">
-		<text>Parafuso</text>
+		<text>Bolt</text>
 	</string>
 	<string id="st_items">
-		<text>Itens</text>
+		<text>Items</text>
 	</string>
 	<string id="st_video">
 		<text>Video</text>
 	</string>
 	<string id="st_audio">
-		<text>Som</text>
+		<text>Sound</text>
 	</string>
 	<string id="st_game">
-		<text>Jogo</text>
+		<text>Game</text>
 	</string>
 	<string id="st_controll">
-		<text>Controles</text>
+		<text>Controls</text>
 	</string>
 	<string id="ui_st_connecting_to_masterserver">
-		<text>Tentando conectar ao servidor principal</text>
+		<text>Trying to connect to master server</text>
 	</string>
 	<string id="mp_only_one_voting">
-		<text>Somente uma votacao ativa permitida</text>
+		<text>Only one active voting allowed</text>
 	</string>
 	<string id="ui_st_patch_download_success">
-		<text>Patch foi baixado com sucesso. Voce deseja instala-lo?</text>
+		<text>Patch was successfully downloaded. Do you want to install it?</text>
 	</string>
 	<string id="ui_st_patch_download_error">
-		<text>Nao foi possivel baixar o patch.</text>
+		<text>Unable to download the patch.</text>
 	</string>
 	<string id="ui_st_load_game_confirm">
-		<text>Carregar o jogo causara a perda de dados nao salvos. Continuar?</text>
+		<text>Loading game will cause losing non-saved data. Proceed?</text>
 	</string>
-	<string id="ui_st_invalid_saved_game">
-		<text>Incompatibilidade de versao do jogo salvo ou o jogo salvo esta corrompido</text>
+        	<string id="ui_st_invalid_saved_game">
+		<text>Saved game version mismatch or saved game is corrupted</text>
 	</string>
 </string_table>

@@ -1,87 +1,87 @@
 <?xml version="1.0" encoding="windows-1251" ?>
 <string_table>
 	<string id="binoc_tutorial">
-		<text>Para usar os binoculos, selecione-os ($$ACTION_wpn_5$$) e pressione "disparar" para dar zoom.</text>
+		<text>To use the binoculars, select them ($$ACTION_wpn_5$$) and press "fire" to zoom in.</text>
 	</string>
 	<string id="binocular">
-		<text>Binoculos</text>
+		<text>Binoculars</text>
 	</string>
 	<string id="crouch">
-		<text>Abaixar-se</text>
+		<text>Crouching</text>
 	</string>
 	<string id="crouch_down_tutorial">
-		<text>Para se agachar, pressione ($$ACTION_crouch$$) + (Shift)</text>
+		<text>To crouch lower, press ($$ACTION_crouch$$) + (Shift)</text>
 	</string>
 	<string id="crouch_tutorial">
-		<text>Para se abaixar, pressione ($$ACTION_crouch$$). Para se agachar, pressione ($$ACTION_crouch$$) + ($$ACTION_accel$$)</text>
+		<text>To crouch, press ($$ACTION_crouch$$). To crouch even lower, press ($$ACTION_crouch$$) + ($$ACTION_accel$$)</text>
 	</string>
 	<string id="hide_weapon">
-		<text>Selecionar arma</text>
+		<text>Weapon select</text>
 	</string>
 	<string id="hide_weapon_tutorial">
-		<text>Alguns stalkers nao vao querer conversar se voce colocar a arma na cara deles. Para esconder sua arma, basta selecionar um parafuso. ($$ACTION_wpn_6$$).</text>
+		<text>Some stalkers won't want to talk if you stick your weapon in their face. To hide your weapon you only need to select a bolt. ($$ACTION_wpn_6$$).</text>
 	</string>
 	<string id="jump">
-		<text>Pular</text>
+		<text>Jumping</text>
 	</string>
 	<string id="jump_tutorial">
-		<text>Os pulos vao ajudar a subir sobre barreiras medias. Para pular, pressione ($$ACTION_jump$$)</text>
+		<text>The jumps will help you climb on top of medium barriers. To jump, press ($$ACTION_jump$$)</text>
 	</string>
 	<string id="move_tutorial">
-		<text>Tipos de movimento.</text>
+		<text>Movement types.</text>
 	</string>
 	<string id="overload">
-		<text>Pesado</text>
+		<text>Overloading</text>
 	</string>
 	<string id="overload_tutorial">
-		<text>Voce nao e um burro de carga, entao ha um limite para o quanto voce pode carregar. Quando o peso do seu equipamento exceder seus limites, voce comecara a perder energia muito rapidamente. Voce pode monitorar o peso atual do seu equipamento e o peso maximo que pode carregar no seu inventario.</text>
+		<text>You're not a mule, so there's a limit to how much you can carry. When the weight of your gear exceeds your limits, you will start losing energy very quickly. You can monitor the current weight of your equipment and the maximum weight you can carry in your inventory.</text>
 	</string>
 	<string id="radiation">
-		<text>Radiacao</text>
+		<text>Radiation</text>
 	</string>
 	<string id="radiation_tutorial">
-		<text>Quando o personagem usa um artefato radioativo no cinto ou entra em uma area com alto nivel de radiacao de fundo, ele comeca a perder saude e apresenta sinais de envenenamento por radiacao. O efeito da radiacao pode ser contrabalancado usando medicamentos anti-radiacao e vodka.</text>
+		<text>When the character wears a radioactive artifact on his belt or enters an area with a high level of background radiation, he starts losing health and exhibits signs of radiation poisoning. Effect of radiation can be countered by using antiradiation drugs and vodka.</text>
 	</string>
 	<string id="relation">
-		<text>Atitude</text>
+		<text>attitude</text>
 	</string>
 	<string id="relation_tutorial">
-		<text>Ao ajudar outros personagens, voce melhora a atitude deles em relacao a voce, bem como sua reputacao geral. Melhor atitude e reputacao mais alta ajudam ao interagir com as pessoas que voce encontra. Elas tendem a dar informacoes adicionais e vender seus itens mais baratos se voce estiver nas boas com elas. Por outro lado, se voce abrir fogo contra alguem, a atitude deles em relacao a voce rapidamente se tornara negativa, assim como a dos amigos deles, e eles vao te atacar.</text>
+		<text>By helping other characters you improve their attitude towards you, as well as your general reputation. Better attitude and higher reputation help you when interacting with the people you meet. They will be prone to give you additional information and sell you their items cheaper if you're in their good books. On the other hand, if you open fire at someone, their attitude towards you will quickly turn negative, as will that of their friends, and they will attack you.</text>
 	</string>
 	<string id="sleep_tutorial">
-		<text>Este e um bom lugar para dormir. Aqui voce pode ter uma boa noite de sono, esperar passar a noite ou simplesmente matar o tempo. Para dormir, abra o Inventario, defina o tempo que deseja descansar e pressione o botao Descansar. Seu personagem acordara no horario determinado. As vezes, ele tera sonhos.</text>
+		<text>This is a good place to hit the sack. Here you can get a good night's sleep, wait out the night, or simply kill some time. To go to sleep, open the Inventory, set the amount of time you want to kip down and press the Rest button. Your character will wake up at the designated time. Sometimes, he will have dreams.</text>
 	</string>
 	<string id="sprint">
-		<text>Correr</text>
+		<text>Speeding-up</text>
 	</string>
 	<string id="sprint_tutorial">
-		<text>As vezes voce vai precisar correr mais rapido do que o normal. Para isso, pressione ($$ACTION_sprint_toggle$$) enquanto corre. Um personagem correndo mais rapido vai correr mais longe e pular mais alto, mas se cansara mais rapido e nao conseguira atirar.</text>
+		<text>Sometimes you will need to run faster than usual. To do this, press ($$ACTION_sprint_toggle$$) while running. A sprinting character runs faster and jumps further, but tires more quickly and is unable to shoot.</text>
 	</string>
 	<string id="starvation_tutorial">
-		<text>Se o personagem nao comer por um tempo, ele vai ficar com fome. A menos que encontre algo para comer, ele comecara a perder saude. Para evitar isso, o personagem precisa comer regularmente. Um pedaco de pao, comida enlatada ou um pedaco de linguica resolvem o problema rapidamente, pelo menos por um tempo.</text>
+		<text>If the character does not eat for a while he becomes hungry. Unless he finds something to eat, he will start losing health. To prevent this, the character must eat regularly. A loaf of bread, tinned food or a piece of sausage will solve the problem easily enough, at least for a while.</text>
 	</string>
 	<string id="tutorial">
-		<text>Treinamento</text>
+		<text>Training</text>
 	</string>
 	<string id="weakness">
-		<text>Fadiga</text>
+		<text>Fatigue</text>
 	</string>
 	<string id="weakness_tutorial">
-		<text>Correr por um periodo prolongado causa fadiga. Quando o personagem ficar exausto, ele nao podera correr e se movera em ritmo de caminhada. Quanto mais o personagem estiver carregando, mais rapido ele vai se cansar. Ficar parado por alguns segundos ja e o suficiente para se recuperar.</text>
+		<text>Running for a prolonged period of time causes fatigue. When a character becomes exhausted, he will not be able to run and will move at walking pace. The more the character is carrying, the faster he tires. Standing still for a few seconds is enough to recuperate.</text>
 	</string>
 	<string id="weapon">
-		<text>Condicao da arma</text>
+		<text>State of the weapon</text>
 	</string>
 	<string id="weapon_tutorial">
-		<text>Todas as armas tem um parametro de durabilidade. Quanto menor a durabilidade de uma arma, mais frequentemente ela travara. Para destravar, recarregue a arma pressionando $$ACTION_wpn_reload$$. A durabilidade da arma diminui com o uso. Uma arma pode se tornar completamente inutil se for atingida por balas.</text>
+		<text>All weapons have a durability parameter. The lower a weapon's durability, the more often it jams. To unjam, reload the weapon by pressing $$ACTION_wpn_reload$$. The weapon's durability decreases with use. A weapon may become completely useless if struck by bullets.</text>
 	</string>
 	<string id="wound">
-		<text>Feridas abertas</text>
+		<text>Open wounds</text>
 	</string>
 	<string id="wound_tutorial">
-		<text>Quando o personagem e atingido, ele pode comecar a sangrar. O sangramento faz o personagem perder saude constantemente. Quanto mais grave o sangramento (um icone verde significa sangramento leve, um icone vermelho indica uma hemorragia grave), mais rapido ele perde saude. O sangramento eventualmente vai parar com o tempo, mas ate mesmo hemorragias graves podem ser interrompidas imediatamente com o uso de ataduras.</text>
+		<text>When the character is hit, he may start to bleed. Bleeding causes the character to constantly lose health. The more serious the bleeding (a green icon means slight bleeding, a red icon indicates a serious hemorrhage), the faster the rate at which he loses health. Bleeding will eventually stop with time, but even serious hemorrhages can be stopped immediately using bandages.</text>
 	</string>
 	<string id="pda_diary_tutorial">
-		<text>No PDA do stalker falecido, voce encontrou suas observacoes apos as anomalias nos tunel. Descobriu-se que ele descobriu a regularidade de seu funcionamento. Voce pode ler essas informacoes no seu PDA na sessao "Diario".</text>
+		<text>In PDA of the deceased stalker, you found his observations after anomalies in tunnels. It turns out to be that he discovered the regularity of their work. You can read this information in your PDA in "Diary" section.</text>
 	</string>
 </string_table>

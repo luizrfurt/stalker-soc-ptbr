@@ -1,12 +1,12 @@
 	<string id="rad_barman_spam">
-		<text>Marcado!? Voce esta vivo!? Otimo! Entao voce conseguiu desligar o Brain Scorcher, ne? Todos estao tentando chegar ao centro da Zona atraves de Prypiat. Ninguem sabe o que ha la... talvez um tesouro de artefatos ou talvez algo que realize todos os desejos.\n Ha um grupo de veteranos se preparando para ir la agora mesmo. Se voce se apressar, podera chegar a tempo de se juntar a eles. Vou avisa-los que voce esta vindo para que eles esperem por voce.</text>
+		<text>Marked One!? You're alive!? Great! So you managed to turn off the Scorcher, eh? Everyone is trying to get to the center of the Zone through Pripyat. Nobody knows what's there...maybe a treasure trove of artifacts or maybe something that makes all wishes come true.\n There's a party of veterans preparing to go there right now. If you hurry up you just might make it in time to join them. I'll let them know you're coming so they wait for you.</text>
 	</string>
 	<string id="tips_bun_komand">
-		<text>Equipes um e dois - verifiquem o primeiro andar, equipe tres - salao principal, quatro e cinco - verifiquem o segundo andar</text>
+		<text>Teams one and two - check the first floor, team three - main hall, four and five - check the second floor</text>
 	</string>
 	<string id="tips_rad_sos_suicide">
-		<text>...me ajude, estou morrendo...</text>
+		<text>...help me, I'm dying...</text>
 	</string>
 	<string id="tips_rad_switcher_press">
-		<text>Para desligar a maquina, pressione ($$ACTION_USE$$)</text>
+		<text>To turn the machine off, press ($$ACTION_USE$$)</text>
 	</string>

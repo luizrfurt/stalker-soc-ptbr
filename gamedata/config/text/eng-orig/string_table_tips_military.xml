@@ -1,36 +1,36 @@
 	<string id="mil_actor_blockpost">
-		<text>Voce esta se aproximando da Barreira. Nem pense em fazer bagunca. Mas estaremos mais do que felizes em aceitar qualquer ajuda.</text>
+		<text>You're approaching the Barrier. Don't even think about messing around. We'll be more than happy to accept any help though.</text>
 	</string>
 	<string id="mil_after_sniper_dead">
-		<text>Marcado, venha aqui para sua parte e mais instrucoes.</text>
+		<text>Marked One, get over here for your share and further instructions</text>
 	</string>
 	<string id="mil_fblockpost_warning">
-		<text>Marcado, volte para sua posicao.</text>
+		<text>Marked One, go back to your position</text>
 	</string>
 	<string id="mil_info_freedom_radio">
-		<text>Se voce passar a noite toda na Torre na vila, algo com certeza vai acontecer...</text>
+		<text>If you spend the whole night at the Tower in the village something is GUARANTEED to happen...</text>
 	</string>
 	<string id="mil_info_max_mines">
-		<text>Nao se esqueca das minas! Um erro e voce esta frito...</text>
+		<text>Don't forget the mines! One mistake and you're toast...</text>
 	</string>
 	<string id="mil_info_max_village">
-		<text>Tenha cuidado, Marcado. Aparentemente ha uma nova anomalia na vila. O desgracado e rapido e invisivel!</text>
+		<text>Be careful, Marked One. Apparently there's a new anomaly in the village. The bastard's fast and invisible!</text>
 	</string>
 	<string id="mil_info_to_all">
-		<text>Atencao a todos que desejam derreter seus cerebros: o caminho para a Floresta Vermelha esta protegido por uma unidade do Monolith e, como provavelmente sabem, esses caras atiram primeiro e nao fazem perguntas depois. Boa sorte.</text>
+		<text>Attention all those wishing to liquefy their brains: the road to the Red forest is protected by a Monolith unit and as you probably know those guys shoot first and don't ask questions later. Good luck.</text>
 	</string>
 	<string id="mil_max_attack_signal">
-		<text>Avancem! Vamos exterminar esses desgracados!</text>
+		<text>Charge! Let's waste the bastards!</text>
 	</string>
 	<string id="mil_mission_complete">
-		<text>Nosso trabalho aqui esta feito. Retirem-se para a fazenda. Vamos resolver o pagamento la.</text>
+		<text>Our job here is done. Retreat to the farmstead. We will sort out the payment there.</text>
 	</string>
 	<string id="mil_scull_attack_signal">
-		<text>Avante, pessoal! O caminho esta livre!</text>
+		<text>Forward boys! The way is clear!</text>
 	</string>
 	<string id="mil_scull_info">
-		<text>Marcado, elimine esses atiradores de elite!</text>
+		<text>Marked One, take down those snipers!</text>
 	</string>
 	<string id="mil_sniper_to_player_warning">
-		<text>Tenha cuidado, Marcado, ou vai acabar levando uma bala...</text>
+		<text>Be careful, Marked One, or you'll catch a bullet...</text>
 	</string>

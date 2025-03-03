@@ -1,150 +1,150 @@
 <?xml version="1.0" encoding="windows-1251" ?>
 <string_table>
 	<string id="Antirad">
-		<text>Medicamentos anti-radiacao</text>
+		<text>Antiradiation drugs</text>
 	</string>
 	<string id="Arm-heavy">
-		<text>Equipamento pesado de stalker</text>
+		<text>Heavy stalker gear</text>
 	</string>
 	<string id="Arm-light">
-		<text>Equipamento leve de stalker</text>
+		<text>Light stalker gear</text>
 	</string>
 	<string id="Arm-medium">
-		<text>Equipamento medio de stalker</text>
+		<text>Medium stalker gear</text>
 	</string>
 	<string id="bandage">
-		<text>Ataduras</text>
+		<text>Bandages</text>
 	</string>
 	<string id="Binocul">
-		<text>Binoculares</text>
+		<text>Binoculars</text>
 	</string>
 	<string id="Bread">
-		<text>Pao</text>
+		<text>Bread</text>
 	</string>
 	<string id="cit_deadcity_maps_desc">
-		<text>Um mapa detalhado da Cidade Morta, incluindo posicoes dos Mercs</text>
+		<text>A detailed map of the Dead City including Merc positions</text>
 	</string>
 	<string id="cit_deadcity_maps_name">
-		<text>Mapa da Cidade Morta</text>
+		<text>Map of the Dead City</text>
 	</string>
 	<string id="cit_doctors_key_desc">
-		<text>Chave do medico para um esconderijo secreto em Pripyat</text>
+		<text>Doctor's key to a secret stash in Pripyat</text>
 	</string>
 	<string id="cit_doctors_key_short_desc">
-		<text>Chave do medico</text>
+		<text>Doctor's key</text>
 	</string>
 	<string id="Conserva">
-		<text>Conserva</text>
+		<text>Tourist's Delight</text>
 	</string>
 	<string id="Detect1">
-		<text>Detector de anomalias (DA-2)</text>
+		<text>Anomaly detector (DA-2)</text>
 	</string>
 	<string id="Devic">
-		<text>Instrumentos e dispositivos</text>
+		<text>Instruments and devices</text>
 	</string>
 	<string id="device-PDA">
 		<text>PDA</text>
 	</string>
 	<string id="device-torch">
-		<text>Lanterna</text>
+		<text>Flashlight</text>
 	</string>
 	<string id="enc_equipment_armors_arm-heavy">
-		<text>Traje de protecao. Peso: 18kg. Detalhes: Protege o corpo de Agua-viva, Fuz queimado, a maioria das anomalias e danos fisicos. O torso e as costas sao protegidos por placas biometalicas embutidas. O traje vem com um capacete plastico reforcado e dois cilindros de oxigenio. Nota: Durante o uso prolongado, o traje se desgasta e deteriora ate se tornar inutilizavel.</text>
+		<text>Protective suit. Weight: 18kg. Details: Protects the body from Jelly, Burnt Fuzz, most anomalies and physical damage. The torso and back are protected by built-in bio-metallic plates. The suit is equipped with an airtight, reinforced plastic helmet and two oxygen bottles. Note: During extended periods of use the suit tears through and gradually deteriorates beyond use.</text>
 	</string>
 	<string id="enc_equipment_armors_arm-light">
-		<text>Traje de protecao. Peso: 8kg. Detalhes: Protege o corpo de anomalias fracas e danos fisicos. Equipado com uma mascara de oxigenio. Nota: Durante o uso prolongado, o traje se desgasta e deteriora ate se tornar inutilizavel.</text>
+		<text>Protective suit. Weight: 8 kg. Details: Protects the body from weak anomalies and physical damage. Equipped with an oxygen mask. Note: During extended periods of use the suit tears through and gradually deteriorates beyond use.</text>
 	</string>
 	<string id="enc_equipment_armors_arm-medium">
-		<text>Traje de protecao. Peso: 12kg. Detalhes: Protege o usuario de Agua-viva, Fuz queimado, muitas anomalias e danos fisicos. Equipado com um capacete hermetico e um cilindro de oxigenio. Nota: Durante o uso prolongado, o traje se desgasta e deteriora ate se tornar inutilizavel.</text>
+		<text>Protective suit. Weight: 12 kg. Details: Protects the user from Jelly, Burnt Fuzz, many anomalies and physical damage. Equipped with an airtight helmet and an oxygen bottle. Note: During extended periods of use the suit tears through and gradually deteriorates beyond use.</text>
 	</string>
 	<string id="enc_equipment_armors_sci2">
-		<text>Um traje S.C.A.P.E. vermelho com um capacete hermetico. Peso: 11kg. Descricao: Protege o corpo do fogo, acido, gas toxico, diversas anomalias, Fuz queimado e danos fisicos. Equipado com dois cilindros de oxigenio. Nota: Durante o uso prolongado, o traje se desgasta e deteriora ate se tornar inutilizavel.</text>
+		<text>A red S.C.A.P.E suit with an airtight helmet. Weight: 11kg. Description: Protects the body from fire, acid, toxic gas, various anomalies, Burnt Fuzz and physical damage. Equipped with two oxygen bottles. Note: During extended periods of use the suit tears through and gradually deteriorates beyond use.</text>
 	</string>
 	<string id="enc_equipment_devic_binocul1">
-		<text>Binoculares militares de campo</text>
+		<text>Military field binoculars</text>
 	</string>
 	<string id="enc_equipment_devic_detect1">
-		<text>Um dispositivo para detectar campos de anomalias e disturcoes. Aviso sonoro quando uma anomalia for detectada. Deve ser preso ao cinto e ligado para funcionar corretamente.</text>
+		<text>A device for detecting anomaly fields and disturbances. Notifies of their presence with a sound. Needs to be attached to the belt and turned on to operate correctly.</text>
 	</string>
 	<string id="enc_equipment_devic_device-PDA1">
-		<text>Assistente digital pessoal - indispensavel na Zona.</text>
+		<text>Personal digital assistant - indispensable in the Zone.</text>
 	</string>
 	<string id="enc_equipment_devic_device-torch1">
-		<text>Uma lanterna potente. Muito util em areas com pouca iluminacao.</text>
+		<text>A powerful flashlight. Quite useful in areas with insufficient lighting.</text>
 	</string>
 	<string id="enc_equipment_devic_device-torch1_m1">
-		<text>Uma lanterna potente. O tempo de recarga da bateria foi reduzido gracas a um transformador modernizado.</text>
+		<text>A powerful flashlight. Battery recharge time has been reduced thanks to a modernized transformer.</text>
 	</string>
 	<string id="enc_equipment_energydrink">
-		<text>Uma excelente bebida energetica composta de cafeina, taurina e uma mistura de vitaminas rejuvenescedoras. Ideal quando voce esta cansado demais para seguir em frente!</text>
+		<text>This is an excellent energy drink consisting of caffeine, taurine and a mixture of rejuvenating vitamins. Just the ticket when you're too tired to push forward!</text>
 	</string>
 	<string id="enc_equipment_food_bread1">
-		<text>Dificil dizer quem consegue assar esses paes na Zona, mas o pao nao esta contaminado e e perfeitamente comestivel. Bem, pelo menos nenhum dos stalkers reclamou sobre isso.</text>
+		<text>Hard to say who manages to bake these loaves in the Zone, but the bread isn't contaminated and is perfectly edible. Well, at least none of the stalkers have complained about it.</text>
 	</string>
 	<string id="enc_equipment_food_conserva1">
-		<text>Comida enlatada de um armazem do exercito saqueado pelos stalkers. O prazo de validade ainda nao expirou.</text>
+		<text>Canned food from an army warehouse raided by stalkers. The best-before period hasn't expired yet.</text>
 	</string>
 	<string id="enc_equipment_food_kolbasa1">
-		<text>Feita de uma mistura de frango e soja, a salsicha diet e frequentemente, pela falta de outras opcoes, o cafe da manha, almoco e janta de um stalker em um so.</text>
+		<text>Made from a mix of chicken and soya, the "diet" sausage is often, for lack of other options, a stalker's breakfast, lunch and dinner in one.</text>
 	</string>
 	<string id="enc_equipment_food_vodka1">
-		<text>Vodka fabricada pela empresa GSC. Desce facil e reduz significativamente os efeitos da radiacao, mas por obvias razoes deve ser consumida com moderacao.</text>
+		<text>Vodka made by the GSC company. Goes down easily and significantly reduces the effects of radiation, but for obvious reasons should be enjoyed in moderation.</text>
 	</string>
 	<string id="enc_equipment_medi_antirad1">
-		<text>Reduz os efeitos da radiacao.</text>
+		<text>Reduces the effects of radiation.</text>
 	</string>
 	<string id="enc_equipment_medi_bandage1">
-		<text>Ataduras. Ajudam a estancar o sangramento.</text>
+		<text>Bandages. Help stop bleeding.</text>
 	</string>
 	<string id="enc_equipment_medi_medkit1">
-		<text>Kit medico multiuso. Usado para tratar diversos tipos e gravidades de ferimentos - cortes, queimaduras, envenenamentos, etc.</text>
+		<text>An all-purpose medkit. Used to treat injuries of various types and severities - wounds, burns, poisonings, etc.</text>
 	</string>
 	<string id="enc_equipment_medi_medkit2">
-		<text>Um kit medico especializado para combater danos fisicos e perda de sangue. Inclui um componente para coagulacao sanguinea, antibioticos, estimuladores imunologicos e analgesicos.</text>
+		<text>A specialized medical set to fight against physical damage and blood loss. In it is included a component for blood coagulation, antibiotics, immunal stimulators, and painkillers.</text>
 	</string>
 	<string id="enc_equipment_medi_medkit3">
-		<text>Kit medico, especialmente projetado para o trabalho na Zona. O kit inclui meios de curar feridas, assim como meios para eliminar radionucleotideos do corpo. Previne o desenvolvimento de doencas por ondas radioativas e reduz a dose de radiacao acumulada.</text>
+		<text>Medical set, designed especially for work in the Zone. The set includes means of healing wounds as well as means of eliminating radionucleodes from the body. Prevents the development of radiowave sickness and lowers the dose of accumulated radiation.</text>
 	</string>
 	<string id="energy_drink_name">
-		<text>Energetico</text>
+		<text>Energy drink</text>
 	</string>
 	<string id="energy_drink_short_name">
-		<text>Energetico</text>
+		<text>Energy drink</text>
 	</string>
 	<string id="Equipment">
-		<text>Equipamentos e comida</text>
+		<text>Gear and food</text>
 	</string>
 	<string id="Food">
-		<text>Comida</text>
+		<text>Food</text>
 	</string>
 	<string id="Kolbasa">
-		<text>Salsicha diet</text>
+		<text>Diet sausage</text>
 	</string>
 	<string id="Medi">
-		<text>Medicamentos</text>
+		<text>Medicaments</text>
 	</string>
 	<string id="Medkit">
-		<text>Kit medico</text>
+		<text>Medkit</text>
 	</string>
 	<string id="Medkit_army">
-		<text>Kit de primeiros socorros militar</text>
+		<text>Army first aid kit</text>
 	</string>
 	<string id="Medkit_scientific">
-		<text>Kit de primeiros socorros cientifico</text>
+		<text>Scientific first aid kit</text>
 	</string>
 	<string id="Sci2">
-		<text>Cientifico EXP-4</text>
+		<text>Scientific EXP-4</text>
 	</string>
 	<string id="Vodka">
-		<text>Vodka dos Cossacos</text>
+		<text>Cossacks vodka</text>
 	</string>
 	<string id="st_detector">
-		<text>Detector de anomalias</text>
+		<text>Anomaly detector</text>
 	</string>
 	<string id="st_detector_descr">
-		<text>Destinado para a deteccao de zonas anomalas, assim como focos de poluicao radioativa.</text>
+		<text>Intended for the detection of anomalous zones as well as hotbeds of radioactive pollution.</text>
 	</string>
 	<string id="st_grenade_gd5">
-		<text>Granada de fumaca</text>
+		<text>Smoke grenade</text>
 	</string>
 </string_table>

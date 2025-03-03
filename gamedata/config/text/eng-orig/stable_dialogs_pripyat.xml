@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="windows-1251" ?>
 <string_table>
 	<string id="pri_followers_start_dlg_21">
-		<text>Vamos subir a rua. Se algo acontecer, me cubra.</text>
+		<text>Let's move up the street. If anything happens, cover me.</text>
 	</string>
 	<string id="pri_followers_start_dlg_211">
 		<text>OK.</text>
 	</string>
 	<string id="pri_followers_start_dlg_31">
-		<text>Obrigado pela ajuda, Marcado. Foi uma luta dificil. Podemos descansar aqui. Se voce quiser continuar, eu te conto mais sobre a area. Se voce voltar e virar a direita, vai chegar na estaçao de onibus. Aquela area e aberta e nao muito segura. Se voce seguir em frente, vai acabar na frente do hotel. A direita dele fica a base Monolith. Aqueles caras nao tem limites. Atras da base tem o estadio. Estavamos planejando chegar na estaçao passando por ele. Isso e tudo.</text>
+		<text>Thanks for the help, Marked One. That was a hard fight. We can rest here. If you wanna keep going, I'll tell you more about the area. If you go back and turn right you'll reach the bus station. That area is open and not very safe. If you go forward you'll end up in front of the hotel. To the right of it is the Monolith base. Those guys have no limits. Behind the base is the stadium. We were planning to get to the station through it. That's all.</text>
 	</string>
 	<string id="pri_followers_start_dlg_311">
-		<text>Obrigado.</text>
+		<text>Thank you.</text>
 	</string>
 	<string id="pri_followers_start_dlg_41">
-		<text>Obrigado pela ajuda. Boa sorte.</text>
+		<text>Thanks for the help. Good luck.</text>
 	</string>
 	<string id="pri_followers_start_dlg_411">
-		<text>Tchau.</text>
+		<text>Bye.</text>
 	</string>
 </string_table>

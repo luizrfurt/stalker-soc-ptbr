@@ -4,15 +4,15 @@
 		<text>Kombez Freedom M2</text>
 	</string>
 	<string id="team_1_desc">
-		<text>Os anarquistas da Zona. Eles acreditam que a Zona e um refugio para a liberdade, e que todas as leis, regras e tradicoes do mundo exterior nao se aplicam la. O seu lema e "Faca o que quiser e deixe os outros fazerem o mesmo." Eles tentam impedir o governo de colocar a Zona sob seu controle, e lutam contra os Mercs. Os lutadores da Freedom usam principalmente armas sovieticas e russas.</text>
+		<text>The anarchists of the Zone. They believe that the Zone is a haven for freedom, and that all the laws, rules and traditions of the outside world do not apply there. Their motto is "Do as you wish and let others do the same." They try to stop the government from placing the Zone under its control, and fight against the Mercs. Freedom fighters use mainly Soviet and Russian weapons.</text>
 	</string>
 	<string id="team_1_name">
-		<text>Faccao Freedom (Stalkers livres)</text>
+		<text>Freedom faction (Free Stalkers)</text>
 	</string>
 	<string id="team_2_desc">
-		<text>Vagabundos e facinorosos de todo o mundo, nada e abaixo deles. O lema deles e "Pecunia non olet - O dinheiro nao tem cheiro." Existem artefatos aqui, e por isso deve haver dinheiro. Os Mercs usam principalmente armas ocidentais.</text>
+		<text>Drifters and cutthroats from all over the world, nothing's below them. Their motto is "Pecunia non olet - Money does not smell." There are artifacts here and so there's bound to be money. Mercs use mainly Western weapons.</text>
 	</string>
 	<string id="team_2_name">
-		<text>Faccao Merc (Cacadores de recompensas)</text>
+		<text>Merc faction (Headhunters)</text>
 	</string>
 </string_table>

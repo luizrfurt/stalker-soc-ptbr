@@ -1,126 +1,126 @@
 <?xml version="1.0" encoding="windows-1251" ?>
-	<string_table>
+<string_table>
 	<string id="item test1">
-		<text>Esta e uma string de teste de ITEM</text>
+		<text>This is an ITEM test string</text>
 	</string>
 	<string id="item test2">
-		<text>Esta e outra string de teste de ITEM</text>
+		<text>This is another ITEM test string</text>
 	</string>
 	<string id="item_case_esc_desc">
-		<text>Maleta a prova de fogo com documentos.</text>
+		<text>Fireproof briefcase with documents.</text>
 	</string>
 	<string id="item_decoder_desc">
-		<text>Arrombador electronico poderoso. Estranhamente, nao parece ser um instrumento para ladroes de uso geral. Na verdade, parece ter sido criado com uma fechadura electronica especifica em mente e nao pode ser usado para anular qualquer outra coisa.</text>
+		<text>Powerful electronic lockpick. Strangely enough, it does not seem to be an all-purpose thieves' instrument. Rather, it seems to have been created with a specific electronic lock in mind and can't be used to override anything else.</text>
 	</string>
 	<string id="item_decoder_name">
-		<text>Decodificador</text>
+		<text>Decoder</text>
 	</string>
 	<string id="item_detector_yantar_desc">
-		<text>Detector de emissoes Psi</text>
+		<text>Psi-emission detector</text>
 	</string>
 	<string id="item_detector_yantar_name">
-		<text>Sensor PP-4a</text>
+		<text>PP-4a sensor</text>
 	</string>
 	<string id="item_doc_x16_desc">
-		<text>Arquivo de documentos plastico. Voce precisaria de um diploma em biologia para entender uma palavra do que esta escrito.</text>
+		<text>Plastic document file. You'd need a degree in biology to understand a word of what it says.</text>
 	</string>
 	<string id="item_doc_x16_name">
-		<text>Documentos do Lab X-16</text>
+		<text>Documents from Lab X16</text>
 	</string>
 	<string id="item_doc_x18_desc">
-		<text>Uma grossa pilha de documentos cientificos. Termos, formulas e varios diagramas.</text>
+		<text>A thick pile of scientific documents. Terms, formulas, and a number of diagrams</text>
 	</string>
 	<string id="item_doc_x18p1_name">
-		<text>Documentos do Lab X-18, parte 1</text>
+		<text>Documents from Lab X18, part 1</text>
 	</string>
 	<string id="item_doc_x18p2_name">
-		<text>Documentos do Lab X-18, parte 2</text>
+		<text>Documents from Lab X18, part 2</text>
 	</string>
 	<string id="item_doc_x18p3_name">
-		<text>Documentos do Lab X-18, parte 3</text>
+		<text>Documents from Lab X18, part 3</text>
 	</string>
 	<string id="item_doc_x18p4_name">
-		<text>Documentos do Lab X-18, parte 4</text>
+		<text>Documents from Lab X18, part 4</text>
 	</string>
 	<string id="item_doc_x18p5_name">
-		<text>Documentos do Lab X-18, parte 5</text>
+		<text>Documents from Lab X18, part 5</text>
 	</string>
 	<string id="item_docs_hiden_pri_desc">
-		<text>Manuscrito desgastado encadernado em couro. Escrito pelo proprio Strelok. Judando apenas pelos titulos, pode explicar alguns dos segredos da Zona.</text>
+		<text>Worn manuscript in leather binding. Written by Strelok himself. Judging by the headings alone, it might explain some of the Zone's secrets.</text>
 	</string>
 	<string id="item_docs_hiden_pri_name">
-		<text>Documentos do esconderijo secreto em Pripyat</text>
+		<text>Documents from the secret stash in Pripyat</text>
 	</string>
 	<string id="item_dynamite_esc_desc">
-		<text>Uma caixa de madeira pesada com a palavra "Explosivos" escrita em varias linguas</text>
+		<text>A heavy wooden crate with the word "Explosives" written in several languages</text>
 	</string>
 	<string id="item_dynamite_esc_name">
-		<text>Caixa de explosivos</text>
+		<text>Crate of explosives</text>
 	</string>
 	<string id="item_flash_crazy_mil_desc">
-		<text>Pendrive - maneira conveniente de armazenar e transferir informacoes.</text>
+		<text>Flash drive - convenient way to store and transfer information.</text>
 	</string>
 	<string id="item_flash_crazy_mil_name">
-		<text>Pendrive do stalker louco</text>
+		<text>The crazy stalker's flash drive</text>
 	</string>
 	<string id="item_flash_eco_rost_desc">
-		<text>Pendrive - maneira conveniente de armazenar e transferir informacoes.</text>
+		<text>Flash drive - convenient way to store and transfer information.</text>
 	</string>
 	<string id="item_flash_eco_rost_name">
-		<text>Pendrive do Professor Kruglov</text>
+		<text>Professor Kruglov's flash drive</text>
 	</string>
 	<string id="item_flash_esc_desc">
-		<text>Pendrive - maneira conveniente de armazenar e transferir informacoes.</text>
+		<text>Flash drive - convenient way to store and transfer information.</text>
 	</string>
 	<string id="item_flash_esc_name">
-		<text>Pendrive do stalker prisioneiro</text>
+		<text>Captive stalker's flash drive</text>
 	</string>
 	<string id="item_flash_gslinger_agro_desc">
-		<text>Pendrive - maneira conveniente de armazenar e transferir informacoes.</text>
+		<text>Flash drive - convenient way to store and transfer information.</text>
 	</string>
 	<string id="item_flash_gslinger_agro_name">
-		<text>Pendrive do Strelok</text>
+		<text>Strelok's flash drive</text>
 	</string>
 	<string id="item_key_x18_desc">
-		<text>Chave electronica para o Lab subterraneo X-18.</text>
+		<text>Electronic key to the underground Lab X18.</text>
 	</string>
 	<string id="item_key_x18_name">
-		<text>Chave do Borov</text>
+		<text>Borov's key</text>
 	</string>
 	<string id="item_krot_flash">
-		<text>Pendrive do Mole</text>
+		<text>Mole's flash drive</text>
 	</string>
 	<string id="item_PDA_lucky_desc">
-		<text>Assistente digital pessoal. Indispensavel na Zona.</text>
+		<text>Personal digital assistant. Indispensable in the Zone.</text>
 	</string>
 	<string id="item_PDA_lucky_name">
-		<text>PDA do Lucky</text>
+		<text>Lucky's PDA</text>
 	</string>
 	<string id="item_PDA_tiran_desc">
-		<text>Assistente digital pessoal. Indispensavel na Zona.</text>
+		<text>Personal digital assistant. Indispensable in the Zone.</text>
 	</string>
 	<string id="item_PDA_tiran_name">
-		<text>PDA de Tyran</text>
+		<text>Tyran's PDA</text>
 	</string>
 	<string id="item_quest_case_02_desc">
-		<text>Uma maleta a prova de fogo com documentos.</text>
+		<text>A fireproof briefcase with documents.</text>
 	</string>
 	<string id="item_quest_case_02_name">
-		<text>Documentos militares</text>
+		<text>Military documents</text>
 	</string>
 	<string id="item_case_esc_name">
-		<text>Documentos do posto avancado</text>
+		<text>Documents from the outpost</text>
 	</string>
 	<string id="yan_bad_psy_helmet_desc">
-		<text>Prototipo desenvolvido por cientistas para proteger as pessoas de emissoes psi. Nao ajustado.</text>
+		<text>Prototype developed by scientists to protect people from psi-emissions. Not adjusted.</text>
 	</string>
 	<string id="yan_bad_psy_helmet_name">
-		<text>Capacete psi nao ajustado.</text>
+		<text>Not adjusted psi-helmet.</text>
 	</string>
 	<string id="yan_good_psy_helmet_desc">
-		<text>Prototipo funcional desenvolvido por cientistas para proteger as pessoas de emissoes psi</text>
+		<text>Functional prototype developed by scientists to protect people from psi-emissions</text>
 	</string>
 	<string id="yan_good_psy_helmet_name">
-		<text>Capacete psi funcional</text>
+		<text>Functional psi-helmet</text>
 	</string>
 </string_table>

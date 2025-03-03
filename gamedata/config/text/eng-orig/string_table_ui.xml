@@ -1,63 +1,63 @@
 <?xml version="1.0" encoding="windows-1251" ?>
 <string_table>
 	<string id="cant_walk">
-		<text>Voce esta muito exausto para andar</text>
+		<text>You're too exhausted to walk</text>
 	</string>
 	<string id="cant_walk_weight">
-		<text>Voce esta pesado demais para continuar</text>
+		<text>You're too heavily loaded to continue</text>
 	</string>
 	<string id="dar_poltergeist_hold_the_door">
-		<text>Alguem esta segurando a porta.</text>
+		<text>Someone is holding the door.</text>
 	</string>
 	<string id="Global Map">
-		<text>Mapa global</text>
+		<text>Global map</text>
 	</string>
 	<string id="gun_jammed">
-		<text>A arma esta travada. Voce precisa recarregar.</text>
+		<text>The weapon has jammed.You need to reload.</text>
 	</string>
 	<string id="inventory_box_use">
-		<text>Abrir a caixa ($$ACTION_USE$$)</text>
+		<text>Search the box ($$ACTION_USE$$)</text>
 	</string>
 	<string id="Local Map">
-		<text>Mapa local</text>
+		<text>Local map</text>
 	</string>
 	<string id="st_game_saved">
-		<text>jogo salvo</text>
+		<text>game saved</text>
 	</string>
 	<string id="tip_car_locked">
-		<text>Bloqueado</text>
+		<text>Blocked</text>
 	</string>
 	<string id="tip_car_use">
-		<text>Abrir a porta ($$ACTION_USE$$)</text>
+		<text>Open the door ($$ACTION_USE$$)</text>
 	</string>
 	<string id="tip_door_close">
-		<text>Pressione ($$ACTION_USE$$) para fechar a porta</text>
+		<text>Press ($$ACTION_USE$$) to close the door</text>
 	</string>
 	<string id="tip_door_coded">
-		<text>A porta esta trancada por um codigo</text>
+		<text>The door is locked by a code</text>
 	</string>
 	<string id="tip_door_decode">
-		<text>Pressione ($$ACTION_USE$$) para decodificar a porta</text>
+		<text>Press ($$ACTION_USE$$) to decode the door</text>
 	</string>
 	<string id="tip_door_decoding">
-		<text>Decodificando em progresso</text>
+		<text>Decoding in progress</text>
 	</string>
 	<string id="tip_door_locked">
-		<text>A porta esta trancada</text>
+		<text>The door is locked</text>
 	</string>
 	<string id="tip_door_open">
-		<text>Pressione ($$ACTION_USE$$) para abrir a porta</text>
+		<text>Press ($$ACTION_USE$$) to open the door</text>
 	</string>
 	<string id="tip_gate_close">
-		<text>Pressione ($$ACTION_USE$$) para fechar o portao</text>
+		<text>Press ($$ACTION_USE$$) to close the gate</text>
 	</string>
 	<string id="tip_gate_locked">
-		<text>O portao esta bloqueado</text>
+		<text>The gate is blocked</text>
 	</string>
 	<string id="tip_gate_open">
-		<text>Pressione ($$ACTION_USE$$) para abrir o portao</text>
+		<text>Press ($$ACTION_USE$$) to open the gate</text>
 	</string>
 	<string id="tip_monolith">
-		<text>FACA UM DESEJO ($$ACTION_USE$$)</text>
+		<text>MAKE A SECRET WISH ($$ACTION_USE$$)</text>
 	</string>
 </string_table>

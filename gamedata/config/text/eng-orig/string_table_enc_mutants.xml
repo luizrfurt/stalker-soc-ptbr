@@ -1,117 +1,117 @@
 <?xml version="1.0" encoding="windows-1251" ?>
 <string_table>
 	<string id="Blind">
-		<text>Cao cego</text>
+		<text>Blind dog</text>
 	</string>
 	<string id="Bloodsucker">
-		<text>Sanguessuga</text>
+		<text>Bloodsucker</text>
 	</string>
 	<string id="Boar">
-		<text>Javali</text>
+		<text>Boar</text>
 	</string>
 	<string id="Crow">
-		<text>Corvo</text>
+		<text>Crow</text>
 	</string>
 	<string id="enc_mutant_blind_general">
-		<text>Varias geracoes da especie cao viveram e morreram desde a catastrofe. Cada uma foi mais afetada pela Zona do que a anterior. Mutacao rapida levou a uma vasta melhoria em habilidades antes perifericas, frequentemente as custas das principais. A mudanca biologica mais notavel foi a perda da visao, combinada com um desenvolvimento incrivel do olfato. Como se descobriu, filhotes cegos sobreviveram na Zona tao bem quanto os normais, se nao melhor. Como resultado, o cao comum rapidamente se extinguiu na Zona, dando lugar a uma nova raca - a dos caes cegos. Os animais identificam e evitam instintivamente anomalias, radiacao e outros perigos invisiveis que assolam a Zona. Como seus ancestrais selvagens - os lobos - caes cegos cacam em bandos. Um encontro com um grande grupo desses animais pode ser perigoso ate para um stalker experiente e bem armado.</text>
+		<text>Several generations of the dog species have lived and died since the catastrophe. Each was more affected by the Zone than the previous one. Rapid mutation lead to a vast improvement in previously peripheral abilities, frequently at the expense of primary ones. The most notable biological change was the loss of sight, paired with an uncanny development of smell. As it turned out, blind cubs survived in the Zone as well as normal ones, if not better. As a result, the common dog quickly became extinct in the Zone, giving way to a new breed - that of blind dogs. The animals instinctively identify and avoid anomalies, radiation, and other invisible dangers that plague the Zone. Like their wild ancestors - the wolves - blind dogs hunt in packs. An encounter with a large group of these animals can be dangerous even to an experiences and well-armed stalker.</text>
 	</string>
 	<string id="enc_mutant_bloodsucker_general">
-		<text>Stalkers experientes descrevem essa fera semi-lendaria como um humanoide alto e curvado com um emaranhado de tentaculos onde deveria estar sua boca. Segundo aqueles que o viram e sobreviveram para contar, a criatura usa seus tentaculos para agarrar a garganta da vitima, paralisa-la e sugar todo o seu sangue. Uma casca seca e mumificada e tudo o que resta do que antes era um ser humano vivo. A caracteristica mais surpreendente do Sanguessuga, no entanto, e sua capacidade de se tornar invisivel. Inumeros stalkers mortos ou desaparecidos teriam perecido no aperto impiedoso de um Sanguessuga. Os poucos sortudos que sobreviveram a um encontro contam historias arrepiantes de pantanos e areas subterraneas assombradas pela versao da Zona do Conde Dracula.</text>
+		<text>Experienced stalkers describe this semi-legendary beast as a tall, hunched humanoid with a mess of tentacles where its mouth should be. According to those who saw it and lived to tell the tale, the creature uses its tentacles to cling to the victim's throat, paralyze it, and suck it dry of blood. A dry, mummified shell is all that's left of what used to be a living human being. The most astounding feature of the bloodsucker, however, is its ability to become invisible. Countless dead or missing stalkers are said to have perished in the merciless grip of a bloodsucker. The lucky few who have survived an encounter tell spine-chilling tales of marshes and subterranean areas haunted by the Zone's version of Count Dracula.</text>
 	</string>
 	<string id="enc_mutant_boar_general">
-		<text>Um animal mutante massivo, atingindo 1,5 metro na altura do ombro. A agressividade e capacidade de sobrevivencia do javali da Zona superam em muito as de seus parentes fora da area contaminada. Radiacao e anomalias deixaram sua marca na aparencia fisica do animal tambem: seu pelo desapareceu completamente em alguns lugares, e e longo e ericado em outros. As patas evoluiram para garras resistentes e afiadas, as pupilas se tornaram incolores, e a cabeca careca do javali e marcada por disturbios de pigmentacao e rugas profundas. Javalis da Zona sao bastante resistentes a radiacao e podem permanecer em areas altamente contaminadas por periodos mais longos. Eles geralmente investem contra suas vitimas, tentando derruba-las e depois despedaca-las.</text>
+		<text>A massive, mutated animal, reaching 1.5 meters at the shoulder. The Zone boar's aggressiveness and ability to survive surpass by far those of its relatives outside the contaminated area. Radiation and anomalies left their mark on the physical appearance of the animal as well: its fur is entirely gone in some places, and long and bristly in others. The hooves have evolved into sturdy, sharp claws, the pupils became colorless, and the boar's bald head is marred by pigmentation disorders and deep wrinkles. Zone boars are quite resistant to radiation and can stay in heavily contaminated areas for longer periods of time. They usually charge at their victims, trying to knock them over and then rip them to shreds.</text>
 	</string>
 	<string id="enc_mutant_crow_general">
-		<text>A unica especie de ave que sobreviveu na Zona, suportando niveis aumentados de radiacao e evitando anomalias com eficacia. Enquanto pilotos do exercito precisam confiar em detectores complexos para evitar disturbios gravitacionais, o corvo parece depender de seus proprios sentidos para isso - um misterio que enlouquece ornitologos e biologos. Varias teorias tentando explicar o fenomeno existem, todas apontando para um desenvolvimento altamente especializado do cerebro da ave.</text>
+		<text>The only bird species to have survived in the Zone, enduring increased radiation levels and effectively avoiding anomalies. While the army pilots need to rely on complex detectors to avoid gravitational disturbances, the crow seems to rely on its own senses for that - a mystery that drives ornithologists and biologists mad. Various theories attempting to explain the phenomenon exist, all of them pointing to a highly specialized development of the bird's brain.</text>
 	</string>
 	<string id="enc_mutant_flesh_general">
-		<text>Como a maioria das outras criaturas vivas na Zona, o porco domestico tambem sofreu serias mudancas biologicas desde o dia da catastrofe. Parece que os genes responsaveis pelo metabolismo foram especialmente afetados neste caso. Porcos mutantes, conhecidos simplesmente como Carnival entre os stalkers, sao um dos exemplos mais vivos da perversa destruicao da natureza pela Zona. Porcos mutantes desenvolveram uma camada protetora de escamas e placas exoesqueleticas. Seu potencial de regeneracao aumentou varias vezes, assim como a complexidade de seu sistema nervoso. Assim como um porco normal, um Carnival e onivoro e pode atacar um stalker se estiver com fome.</text>
+		<text>Like most other living creatures in the Zone, the domestic pig also underwent serious biological changes since the day of the catastrophe. It seems the genes responsible for metabolism were especially affected in this case. Mutant pigs, known simply as Flesh among the stalkers, are one of the most vivid examples of the Zone's disastrous perversion of nature. Mutant pigs developed a protective layer of scales and exoskeletal plates. Their regeneration potential increased several times, as did the complexity of their nervous system. Just like a normal pig, a Flesh is an omnivore and may attack a stalker if hungry.</text>
 	</string>
 	<string id="enc_mutant_poltergeist_general">
-		<text>Sobrenatural aos olhos de alguns, criaturas invisiveis assombram as regioes mais profundas da Zona, geralmente em edificios velhos e abandonados. Nada se sabe sobre sua origem, embora rumores em circulacao afirmem que sao espiritos de stalkers atingidos por uma onda massiva de radiacao. Suas aparicoes e desaparecimentos misteriosos parecem corresponder a lenda do poltergeist, dai o nome. Encontros conhecidos com poltergeists sao bastante diversos, na verdade: de risadas travessas e uivos de gelar o sangue, a bolas de fogo mortais aparecendo do nada. Infelizmente, todas as informacoes sobre o fenomeno poltergeist vem de historias confusas e contraditorias de validade questionavel.</text>
+		<text>Supernatural in the eyes of some, invisible creatures haunting the deeper reaches of the Zone, usually haunting old, abandoned buildings. Nothing is known about their origin, although rumors in circulation claim they are spirits of stalkers hit by a massive wave of radiation. Their mysterious appearances and disappearances seem to correspond to the poltergeist legend, hence the name. Known encounters with poltergeists are quite diverse in fact: from mischievous laughter and blood-chilling howling, to deadly fireballs appearing out of nowhere. Unfortunately, all information about the poltergeist phenomenon originates from unclear and contradictory stories of questionable validity.</text>
 	</string>
 	<string id="enc_mutant_pseudodog_general">
-		<text>Apesar do nome, os pseudocaes evoluiram diretamente de lobos. Os animais que habitavam as florestas na epoca da catastrofe deram origem a uma das especies mutantes mais perigosas da Zona. Pseudocaes sao tao diferentes de caes mutantes quanto lobos selvagens diferem de poodles. As criaturas marcam e guardam seu territorio cuidadosamente, atacando qualquer um estupido o suficiente para se aventurar em suas terras a vista. Reflexos extremamente rapidos, destreza incrivel e dentes afiados como navalhas tornam o pseudocao um inimigo formidavel para mutantes grandes e stalkers bem armados.</text>
+		<text>Despite the name, the pseudodogs evolved directly from wolves. The animals inhabiting the forests at the time of the catastrophe gave rise to one of the Zone's most dangerous mutant species. Pseudodogs are about as different from mutant dogs as wild wolves differ from poodles. The creatures mark and guard their territory carefully, attacking anyone stupid enough to venture onto their land on sight. Lightning-fast reflexes, uncanny dexterity and razor-sharp teeth make the pseudodog a formidable enemy for large mutants and well-armed stalkers.</text>
 	</string>
 	<string id="enc_mutant_pseudogiant_general">
-		<text>O pseudogigante se assemelha a um abdomen massivo em forma de gota com um par de membros desproporcionalmente grandes. Os membros sao bracos e pernas ao mesmo tempo. A criatura os usa para se mover e agarrar suas vitimas. Um pseudogigante adulto pode pesar ate duas toneladas e ter 2 metros de altura. Sua aparencia desajeitada pode enganar, ja que eles podem se mover muito rapidamente se necessario. Seus musculos sao excepcionalmente poderosos e seus ossos sao duros como aco. O cerebro da criatura e protegido por um cranio resistente (ate 10 centimetros de espessura), enquanto muitas funcoes complexas sao controladas pela medula espinhal. Outra caracteristica surpreendente da fera e sua capacidade de criar ondas de choque locais, que danificam todas as coisas vivas nas proximidades.</text>
+		<text>The pseudogiant resembles a massive, drop-shaped abdomen with a pair of disproportionately large limbs. The limbs are arms and legs at the same time. The creature uses them to move around and grab its victims. An adult pseudogiant can weigh up to two tons and stand 2 meters tall. Their clumsy appearance might be deceiving, since they can move very rapidly if needed. Their muscles are exceptionally powerful and their bones are as hard as steel. The creature's brain is protected by a sturdy (up to 10 centimeters thick) skull, while many complex functions are controlled by the spinal medulla. Another astonishing feature of the beast is its ability to create local shock waves, which damage all living things in the vicinity.</text>
 	</string>
 	<string id="enc_mutant_snork_general">
-		<text>Parece que essas criaturas foram humanas em algum momento, embora seja dificil imaginar que condicoes poderiam transformar um ser humano em uma fera tao repugnante. Snorkel sao criaturas insanas vivendo uma vida bestial e diferindo pouco de outros monstros carnivoros da Zona. Eles se movem de quatro em saltos longos, constantemente cheirando o chao na esperanca de captar o cheiro de uma presa. Cacam com cuidado, de maneira calculada, frequentemente montando emboscadas. Gracas a seus reflexos incriveis e musculos poderosos, o snorkel pode se aproximar da vitima, imobiliza-la em um salto longo e preciso, e despedaca-la em questao de segundos. Tiras de uniformes militares e outras roupas sao ocasionalmente encontradas em seus corpos. E razoavel supor que sao tudo o que resta de stalkers militares desaparecidos.</text>
+		<text>It seems these creatures were human at some point, though it is difficult to imagine what conditions could turn a human being into such disgusting beast. Snorks are insane creatures leading a beast's life and differing little from other carnivorous monsters in the Zone. They move on all fours in long jumps, constantly sniffing the ground in hope of picking up the scent of prey. They hunt carefully, in a calculated manner, frequently setting up ambushes. Thanks to its uncanny reflexes and powerful muscles, the snork can approach the victim, pin it down in one long, accurate jump, and tear it to shreds in a matter of seconds. Strips of army uniforms and other clothing are occasionally found on their bodies. It stands to reason that they are all that's left of missing military stalkers.</text>
 	</string>
 	<string id="enc_mutant_tushkano">
-		<text>Na verdade, esses animais nao sao parentes de jerboas, embora haja uma semelhanca distinta. Tentativas de determinar a especie exata da qual esse roedor evoluiu ate agora foram sem sucesso, embora seu ancestral deva ter sido um roedor gregario. Atingindo ate 40cm na altura do ombro, o animal e muito mais habil, agressivo e voraz que seu primo do deserto. Roedores mutantes vivem principalmente em poroes de edificios destruidos, alimentando-se de tudo o que conseguem morder, de plantas a stalkers descuidados. Ocasionalmente, um bando de roedores ataca e mata animais grandes e mutantes, despedacando-os antes que possam escapar.</text>
+		<text>In fact these animals are not related to jerboas, although there is a distinct resemblance. Attempts at determining the exact species from which this rodent evolved have so far been unsuccessful, although its ancestor must have been a gregarious rodent. Reaching up to 40cm at the shoulder, the animal is far more dexterous, aggressive and ravenous than its desert cousin. Mutant rodents live mainly in basements of destroyed buildings, feeding on everything they can get their teeth in, from plants to careless stalkers. Occasionally a pack of rodents will attack and kill large animals and mutants, tearing them apart before they can escape.</text>
 	</string>
 	<string id="enc_mutant_zombie_general">
-		<text>O Brain Scorcher retira a mente e a razao de sua vitima, deixando apenas uma casca vazia e sem mente. Os corpos sem cerebro entao se transformam em zumbis, seguindo apenas os instintos mais basicos, vagando sem rumo pela Zona sem armas ou roupas. Zumbis sao pouco mais que cadaveres ambulantes lentos, preocupando-se apenas com comida e sono. Eles comem e bebem quase qualquer coisa que consigam agarrar, por isso estao praticamente encharcados de radiacao e residuos toxicos. Geralmente, vagam pela Zona sem nenhum proposito aparente ou apenas ficam deitados como cadaveres em edificios abandonados. No entanto, assim que sentem a presenca de um ser humano, atacam imediatamente. Stalkers experientes aprenderam a evita-los se possivel.</text>
+		<text>The Brain Scorcher strips its victim of mind and reason, leaving only an empty, mindless shell. The brainless bodies then turn into zombies, following only the most basic instincts, wandering aimlessly around the Zone without weapons or clothing. Zombies are little more than sluggish walking corpses, caring only about food and sleep. They eat and drink just about anything they can get their claws on, hence they are virtually soaked in radiation and toxic waste. Usually they roam the Zone without any apparent purpose or just lie corpse-like in abandoned buildings. However, as soon as they sense the presence of a human being, they attack immediately. Experienced stalkers have learned to avoid them if they can.</text>
 	</string>
 	<string id="Flesh">
-		<text>Carnival</text>
+		<text>Flesh</text>
 	</string>
 	<string id="General">
-		<text>Informacao geral</text>
+		<text>General information</text>
 	</string>
 	<string id="mutant_boar_leg">
-		<text>Pata de javali</text>
+		<text>Boar's hoof</text>
 	</string>
 	<string id="mutant_boar_leg_description">
-		<text>As patas de javali podem ser usadas para produzir varios farmacos, incluindo um soro antiradiacao.</text>
+		<text>Boar's hooves can be used to produce a number of drugs, including an antiradiation serum.</text>
 	</string>
 	<string id="mutant_dog_tail">
-		<text>Rabo de cao</text>
+		<text>Dog tail</text>
 	</string>
 	<string id="mutant_dog_tail_description">
-		<text>A resistencia da pele de caes mutantes a eletricidade e agentes quimicos tem sido ha muito tempo objeto de atencao cientifica. Como o rabo do animal e quase completamente livre de tecido gorduroso, e especialmente adequado para exame em laboratorio.</text>
+		<text>The resistance of mutant dogs' skin to electricity and chemical agents has long been the subject of scientific attention. Since the animal's tail is almost completely free of fat tissue, it is especially suited for lab examination.</text>
 	</string>
 	<string id="mutant_flesh_eye">
-		<text>Olho de Carnival</text>
+		<text>Flesh eye</text>
 	</string>
 	<string id="mutant_flesh_eye_description">
-		<text>O olho mutante e inchado do Carnival adquiriu varias caracteristicas estranhas, a mais util das quais e a capacidade de regenerar a lente. Os detalhes do processo sao ate agora desconhecidos, embora tal descoberta certamente revolucionaria a medicina moderna. Voce pode desempenhar seu papel no desenvolvimento cientifico vendendo olhos de Carnival para cientistas para seus experimentos.</text>
+		<text>The mutated, swollen eye of the Flesh acquired a number of strange characteristics, the most useful of which is the ability to regenerate the lens. The specifics of the process are hitherto unknown, although such discovery would most certainly revolutionize modern medicine. You can play your part in scientific development by selling Flesh eyes to scientists for their experiments.</text>
 	</string>
 	<string id="mutant_krovosos_jaw">
-		<text>Tentaculos de Sanguessuga</text>
+		<text>Bloodsucker tentacles</text>
 	</string>
 	<string id="mutant_krovosos_jaw_description">
-		<text>Os tentaculos de Sanguessuga contem uma glandula especial que produz um fermento capaz de dissolver a pele e ao mesmo tempo impedir a coagulacao do sangue. Descobrir a composicao do fermento poderia ser a base de uma serie de grandes avancos medicos.</text>
+		<text>Bloodsucker tentacles contain a special gland producing a ferment capable of dissolving the skin and simultaneously preventing blood from clotting. Discovering the ferment's composition could be the cornerstone of a whole series of great medical advances.</text>
 	</string>
 	<string id="mutant_psevdodog_tail">
-		<text>Rabo de pseudocao</text>
+		<text>Pseudodog tail</text>
 	</string>
 	<string id="mutant_psevdodog_tail_description">
-		<text>A resistencia da pele de caes mutantes a eletricidade e agentes quimicos tem sido ha muito tempo objeto de atencao cientifica. Como o rabo do animal e quase completamente livre de tecido gorduroso, e especialmente adequado para exame em laboratorio.</text>
+		<text>The resistance of mutant dogs' skin to electricity and chemical agents has long been the subject of scientific attention. Since the animal's tail is almost completely free of fat tissue, it is especially suited for lab examination.</text>
 	</string>
 	<string id="mutant_snork_leg">
-		<text>Pe de snorkel</text>
+		<text>Snork foot</text>
 	</string>
 	<string id="mutant_snork_leg_description">
-		<text>Os pes de snorkel contem um numero enorme de tendoes altamente elasticos. Isso explica a capacidade da fera de fazer aqueles saltos incrivelmente longos.</text>
+		<text>Snork feet contain a huge number of highly elastic tendons. This explains the beast's ability to make those unbelievably long jumps.</text>
 	</string>
 	<string id="Mutants">
-		<text>Animais e mutantes</text>
+		<text>Animals and mutants</text>
 	</string>
 	<string id="Poltergeist">
 		<text>Poltergeist</text>
 	</string>
 	<string id="Pseudodog">
-		<text>Pseudocao</text>
+		<text>Pseudodog</text>
 	</string>
 	<string id="Pseudogiant">
-		<text>Pseudogigante</text>
+		<text>Pseudogiant</text>
 	</string>
 	<string id="Snork">
-		<text>Snorkel</text>
+		<text>Snork</text>
 	</string>
 	<string id="Tushkano">
-		<text>Roedor</text>
+		<text>Rodent</text>
 	</string>
 	<string id="Zombie">
-		<text>Zumbi</text>
+		<text>Zombie</text>
 	</string>
 	<string id="Controller">
-		<text>Controlador</text>
+		<text>controller</text>
 	</string>
 	<string id="enc_mutant_controller_general">
-		<text>Um mutante raro visto perto do centro da Zona. Tem uma semelhanca superficial com um humanoide com uma cabeca desproporcionalmente grande. Possui boa percepcao e uma habilidade de controlar o comportamento de criaturas menos desenvolvidas. Especimes maduros sao capazes de tomar controle da cabeca de humanos. Este e um inimigo feroz, e ate os stalkers mais experientes tem medo de encontra-lo.</text>
+		<text>A rare mutant seen near to the center of the Zone. Bears a superficial resemblance of a humanoid with a disproportionately big head. Possesses a good perception, and an ability to control the behavior of less developed creatures. Mature specimen are capable of taking control over human's head. This is a ferocious enemy, and even the most experienced stalkers are afraid of meeting it.</text>
 	</string>
 </string_table>

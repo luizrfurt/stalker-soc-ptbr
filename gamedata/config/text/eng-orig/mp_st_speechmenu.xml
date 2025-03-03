@@ -1,54 +1,54 @@
 <?xml version="1.0" encoding="windows-1251" ?>
 <string_table>
 	<string id="speech_attack">
-		<text>Atacar!</text>
+		<text>Attack!</text>
 	</string>
 	<string id="speech_covermeartifact">
-		<text>Estou indo para o artefato! Me cubram.</text>
+		<text>I'm going for the artifact! Cover me.</text>
 	</string>
 	<string id="speech_followme">
-		<text>Me sigam!</text>
+		<text>Follow me!</text>
 	</string>
 	<string id="speech_guardartifact">
-		<text>Guardem o artefato. Nao ataquem ainda!</text>
+		<text>Guard the artifact. Don't attack yet!</text>
 	</string>
 	<string id="speech_holdingpos">
-		<text>Estou mantendo a posicao</text>
+		<text>I'm holding ground</text>
 	</string>
 	<string id="speech_holdpos">
-		<text>Mantenham a posicao!</text>
+		<text>Hold the position!</text>
 	</string>
 	<string id="speech_icoverartifact">
-		<text>Vao para o artefato! Eu cubro voces.</text>
+		<text>Go for the artifact! I'll cover you.</text>
 	</string>
 	<string id="speech_needhelp">
-		<text>Preciso de ajuda</text>
+		<text>Need help</text>
 	</string>
 	<string id="speech_needmoney">
-		<text>Sem dinheiro, compre algum equipamento</text>
+		<text>No money, buy some equipment</text>
 	</string>
 	<string id="speech_no">
-		<text>Nao</text>
+		<text>No</text>
 	</string>
 	<string id="speech_noenemy">
-		<text>Nao ha ninguem por perto</text>
+		<text>No-one around</text>
 	</string>
 	<string id="speech_report">
-		<text>Relatem a situacao!</text>
+		<text>Report on the situation!</text>
 	</string>
 	<string id="speech_retreat">
-		<text>Retirem-se!</text>
+		<text>Fall back!</text>
 	</string>
 	<string id="speech_roger">
-		<text>Entendido</text>
+		<text>Roger</text>
 	</string>
 	<string id="speech_silence">
-		<text>Silencio, todos!</text>
+		<text>Quiet, everyone!</text>
 	</string>
 	<string id="speech_sticktogether">
-		<text>Mantenham-se unidos</text>
+		<text>Keep close together</text>
 	</string>
 	<string id="speech_takeartifact">
-		<text>Vao para o artefato!</text>
+		<text>Go for the artifact!</text>
 	</string>
 </string_table>

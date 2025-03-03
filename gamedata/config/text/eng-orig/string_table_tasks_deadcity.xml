@@ -1,15 +1,15 @@
 	<string id="cit_doctor_task">
-		<text>Armazenamento secreto em Prypiat</text>
+		<text>Secret stash at Pripyat</text>
 	</string>
 	<string id="cit_doctor_task_0">
-		<text>Encontre o armazenamento secreto do Strelok em Prypiat</text>
+		<text>Find the secret stash of the Shooter at Pripyat</text>
 	</string>
 	<string id="cit_doctor_task_1">
-		<text>Va para o hotel.</text>
+		<text>Get to the hotel.</text>
 	</string>
 	<string id="cit_doctor_task_2">
-		<text>Encontre o quarto com o armazenamento secreto</text>
+		<text>Find the room with the secret stash</text>
 	</string>
 	<string id="cit_doctor_task_3">
-		<text>Examine o armazenamento secreto</text>
+		<text>Look the secret stash over</text>
 	</string>

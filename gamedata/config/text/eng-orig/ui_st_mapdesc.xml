@@ -1,75 +1,75 @@
 <?xml version="1.0" encoding="windows-1251" ?>
 <string_table>
 	<string id="ui_map_desc_mp_agroprom_large">
-		<text>Um lugar estranho. O edificio silencioso tem seus segredos, mas os stalkers sao atraidos pelos numerosos artefatos que podem ser encontrados aqui, apesar do perigo. Movimentos rapidos e tiros precisos farao de voce o stalker favorito da Dama Sorte.</text>
+		<text>A strange place. The silent building has its share of secrets, but the stalkers are drawn to the numerous artifacts that can be found here, despite the danger. Quick moves and accurate shots will make you Lady Luck's favorite stalker.</text>
 	</string>
 	<string id="ui_map_desc_mp_agroprom_short">
-		<text>Um lugar estranho. O edificio silencioso tem seus segredos, mas os stalkers sao atraidos pelos numerosos artefatos que podem ser encontrados aqui, apesar do perigo.</text>
+		<text>A strange place. The silent building has its share of secrets, but the stalkers are drawn to the numerous artifacts that can be found here, despite the danger.</text>
 	</string>
 	<string id="ui_map_desc_mp_atp_large">
-		<text>O parque de onibus e trolebus e o lobby da Zona. Tratores, onibus e caminhao pararam para sempre. Nenhum artefato foi reportado, mas o lugar e popular entre os stalkers experientes que cacam novatos e pegam o que podem. Se proteja nos edificios e atraz de varios equipamentos e fique atento aos inimigos nos tetos.</text>
+		<text>The bus and trolley park is the Zone's lobby. Tractors, buses and trucks have stopped in their tracks forever. No artifacts have ever been reported, but the place is popular with experienced stalkers who hunt down rookies and grab what they can. Take cover in buildings and behind various equipment and watch out for enemies up on the roofs.</text>
 	</string>
 	<string id="ui_map_desc_mp_atp_short">
-		<text>O parque de onibus e trolebus e o lobby da Zona. Tratores, onibus e caminhao pararam para sempre.</text>
+		<text>The bus and trolley park is the Zone's lobby. Tractors, buses and trucks have stopped in their tracks forever.</text>
 	</string>
 	<string id="ui_map_desc_mp_bath_large">
-		<text>Este lugar misterioso tem uma estranha atracao pelas pessoas. Quem construiu aquela piscina experimental e para que - isso vai permanecer um segredo para sempre. Nenhum artefato pode ser encontrado aqui. Apenas os restos de maquinas e dispositivos estranhos atraem stalkers para este local. Fique de olho nos tetos e lembre-se que o nivel de radiacao e extremamente alto nesta area.</text>
+		<text>This mysterious place holds a strange attraction for people. Who built that experimental pool and what for - that will forever remain a secret. No artifacts are to be found here. Only the remnants of strange machines and devices attract stalkers here. Keep your eyes on the roofs and remember that the radiation level is extremely high in this area.</text>
 	</string>
 	<string id="ui_map_desc_mp_bath_short">
-		<text>Este lugar misterioso tem uma estranha atracao pelas pessoas. Quem construiu aquela piscina experimental e para que - isso vai permanecer um segredo para sempre.</text>
+		<text>This mysterious place holds a strange attraction for people. Who built that experimental pool and what for - that will forever remain a secret.</text>
 	</string>
 	<string id="ui_map_desc_mp_factory_large">
-		<text>Uma fabrica abandonada e sombria. Nao se sabe quantos stalkers encontraram sua morte nestas paredes. Todos os tipos de anomalias estao por aqui e ainda assim o lugar atrai stalkers como um ima, ja que artefatos valiosos podem ser encontrados aqui. Mas fique atento aos niveis de radiacao!</text>
+		<text>A gloomy abandoned factory. There is no telling how many stalkers have found their demise in these walls. All kinds of anomalies abound and it still draws stalkers in like a magnet, since valuable artifacts can be found here. But watch out for the radiation levels!</text>
 	</string>
 	<string id="ui_map_desc_mp_factory_short">
-		<text>Uma fabrica abandonada e sombria. Nao se sabe quantos stalkers encontraram sua morte nestas paredes.</text>
+		<text>A gloomy abandoned factory. There is no telling how many stalkers have found their demise in these walls.</text>
 	</string>
 	<string id="ui_map_desc_mp_garbage_large">
-		<text>Esta e uma secao do enorme lixao onde montanhas de lixo radioativo foram trazidas apos o desastre de '86... coisas como guindastes deteriorados, pecas de hardware e assim por diante. Voce pode encontrar alguns restos de instalacoes antigas e um enorme galpao. Tudo isso perto da entrada da Zona e muitos artefatos estao espalhados por aqui. Isso atrai stalkers que procuram por coisas faceis.</text>
+		<text>This is a section of the huge dump where mountains of radioactive trash were brought after the disaster in '86... things like dilapidated cranes, hardware, and so on. You can find some remnants of old facilities and a huge hangar. All this is close to the entrance to the Zone and many artifacts are lying around. That's what brings in stalkers looking for easy pickings.</text>
 	</string>
 	<string id="ui_map_desc_mp_garbage_short">
-		<text>Esta e uma secao do enorme lixao onde montanhas de lixo radioativo foram trazidas apos o desastre de '86... coisas como guindastes deteriorados, pecas de hardware e assim por diante.</text>
+		<text>This is a section of the huge dump where mountains of radioactive trash were brought after the disaster in '86... things like dilapidated cranes, hardware, and so on</text>
 	</string>
 	<string id="ui_map_desc_mp_lost_village_large">
-		<text>Uma vila deserta e amaldicoada no interior da Zona. O pequeno e raso lago de cor enferrujada, cheio de destrocos de carros, cria um medo subconsciente nos coracoes dos exploradores da Zona. Cuidado com os snipers, mas lembre-se que a Zona favorece os corajosos.</text>
+		<text>A deserted, godforsaken village deep inside the Zone. The small, shallow, rusty-colored lake filled with car wrecks breeds a subconscious fear in the hearts of the Zone's explorers. Beware of snipers, but keep in mind that the Zone favors the brave.</text>
 	</string>
 	<string id="ui_map_desc_mp_lost_village_short">
-		<text>Uma vila deserta e amaldicoada no interior da Zona. O pequeno e raso lago de cor enferrujada, cheio de destrocos de carros, cria um medo subconsciente nos coracoes dos exploradores da Zona.</text>
+		<text>A deserted, godforsaken village deep inside the Zone. The small, shallow, rusty-colored lake filled with car wrecks breeds a subconscious fear in the hearts of the Zone's explorers.</text>
 	</string>
 	<string id="ui_map_desc_mp_military_1_large">
-		<text>Uma base militar negligenciada com caminhoes e APCs quebrados, barracas e um centro de comando arruinado. Mas nao e o que parece. A base e rica em artefatos e o inimigo pode estar escondido atras de cada canto. Prove seu valor e colete a recompensa!</text>
+		<text>A disaffected army base with broken-down trucks and APCs left to rot, some barracks, and a ruined command center. But it's not what it seems. The base is rich in artifacts and the enemy can be hiding behind every corner. Prove your mettle and collect the reward!</text>
 	</string>
 	<string id="ui_map_desc_mp_military_1_short">
-		<text>Uma base militar negligenciada com caminhoes e APCs quebrados, barracas e um centro de comando arruinado.</text>
+		<text>A disaffected army base with broken-down trucks and APCs left to rot, some barracks, and a ruined command center.</text>
 	</string>
 	<string id="ui_map_desc_mp_military_2_large">
-		<text>Esta antiga vila e um lugar sinistro e uma armadilha mortal. Mas, se voce chegou ate aqui apesar de todos os riscos, prepare-se para morrer repentinamente. Ja que nenhum lugar e seguro aqui, que sua mira e seu silenciador te mantenham inteiro.</text>
+		<text>This old village is a sinister place and a death-trap. But, if you've come this far despite all the risks, be prepared to die a sudden death. Since no place is safe here, may your scope and your silencer keep you in one piece.</text>
 	</string>
 	<string id="ui_map_desc_mp_military_2_short">
-		<text>Esta antiga vila e um lugar sinistro e uma armadilha mortal. Mas, se voce chegou ate aqui apesar de todos os riscos, prepare-se para morrer repentinamente.</text>
+		<text>This old village is a sinister place and a death-trap. But, if you've come this far despite all the risks, be prepared to die a sudden death.</text>
 	</string>
 	<string id="ui_map_desc_mp_prypiat_large">
-		<text>A cidade de Pripyat e a antiga residencia dos trabalhadores da NPP, ou o que sobrou dela. As ruinas desse esqueleto industrial contem um perigo imediato. Voce realmente precisa proteger sua vida aqui.</text>
+		<text>The city of Pripyat is the former residence of the workers of NPP, or what's left of it. The ruins of this industrial skeleton contain quite an immediate danger. You truly need to guard your life here.</text>
 	</string>
 	<string id="ui_map_desc_mp_prypiat_short">
-		<text>A cidade de Pripyat nao esta longe da NPP - a heranca da catastrofe de Chernobyl.</text>
+		<text>The city of Pripyat isn't far from NPP - the heirloom of the Chernobyl catastrophe.</text>
 	</string>
 	<string id="ui_map_desc_mp_railraod_short">
-		<text>Uma pequena estacao de trem na fabrica Rostok.</text>
+		<text>A small railroad station at the factory Rostok.</text>
 	</string>
 	<string id="ui_map_desc_mp_railroad_large">
-		<text>Uma pequena estacao de trem na fabrica Rostok. Os vagoes enferrujados e locomotivas a diesel agora estao parados em um eterno desvio. Os muitos artefatos encontrados aqui atraem stalkers desesperados de toda a Zona.</text>
+		<text>A small railroad station at the factory Rostok. The rusted train cars and diesel locomotives now stand at an eternal fork in the road. The many artifacts found here lure in desperate stalkers from all over the Zone.</text>
 	</string>
 	<string id="ui_map_desc_mp_rostok_large">
-		<text>Sob montes de metal e atras de muros de concreto, esta fabrica guarda um tipo especial de silencio. No seculo passado, ela fervilhava de atividade com os trabalhadores correndo para seus turnos com slogans ecoando pelos alto-falantes...Mas agora a fabrica ja fez sua parte do trabalho.</text>
+		<text>Under heaps of metal and behind walls of concrete, this factory holds a special kind of silence. Last century, it bustled of activity with the workers hurrying to their shift with slogans booming from the loudspeakers...But now the factory has done its share of work.</text>
 	</string>
 	<string id="ui_map_desc_mp_rostok_short">
-		<text>A fabrica abandonada guarda um profundo silencio sob montes de metal e atras de muros de concreto.</text>
+		<text>The abandoned factory holds a deep silence under heaps of metal and behind walls of concrete.</text>
 	</string>
 	<string id="ui_map_desc_mp_workshop_large">
-		<text>As redondezas da fabrica Rostok antes da chegada da Duty. Esta area em ruinas e, no entanto, muito rica em artefatos. Os galpoes e armazens vazios estao cheios de cem perigos a cada passo. Seja extremamente cuidadoso e mantenha uma vigilancia constante na torre branca.</text>
+		<text>The outskirts of the Rostok factory before Duty's arrival. This dilapidated area is nonetheless very rich in artifacts. The empty hangars and warehouses teem with a hundred dangers every step of the way. Be extremely careful and keep a close watch on the white tower.</text>
 	</string>
 	<string id="ui_map_desc_mp_workshop_short">
-		<text>As redondezas da fabrica Rostok antes da chegada da Duty. Esta area em ruinas e, no entanto, muito rica em artefatos.</text>
+		<text>The outskirts of the Rostok factory before Duty's arrival. This dilapidated area is nonetheless very rich in artifacts.</text>
 	</string>
 </string_table>

@@ -1,60 +1,60 @@
 	<string id="esc_direction_fire">
-		<text>Nao vai haver tiros a nao ser que eu de a ordem. Nada de dedos ansiosos no gatilho, entendeu?</text>
+		<text>There will be no shooting unless I give the order. No itchy trigger fingers, understood?</text>
 	</string>
 	<string id="esc_fanat_victory">
-		<text>Vitoria!!! Todo mundo, venham aqui. Vamos, Marcado. Precisamos conversar.</text>
+		<text>Victory!!! Everyone, get over here. Come, Marked One. We need to talk.</text>
 	</string>
 	<string id="esc_return_dv">
-		<text>Bom, Marcado. Fico feliz que voce esteja vivo e tenha decidido nos visitar. Chegue aqui, e vamos conversar. Algo esta para acontecer.</text>
+		<text>Good, Marked One. Glad you're alive and decided to pay us a visit. Come over, and we'll have a chat. There's a little something coming up.</text>
 	</string>
 	<string id="esc_tutorial_end">
-		<text>Excelente, sua missao esta completa. Pode-se dizer que voce aprendeu as habilidades basicas.</text>
+		<text>Excellent, your task is complete. Safe to say you've learned the basic skills.</text>
 	</string>
 	<string id="esc_wolf_thanks">
-		<text>Marcado, o caminho para o acampamento esta agora aberto para voce. Venha e vamos conversar.</text>
+		<text>Marked One, the way to the camp is now open to you. Come over and we'll talk.</text>
 	</string>
 	<string id="escape_fox_quest">
-		<text>Uma palavra sobre Strelok, Marcado. Um stalker acabou de voltar de uma longa incursao. Ele se chama Fox. Parece que ele teve um tempo bem dificil e esta pedindo ajuda. Algumas criaturas estranhas o seguiram ate aqui, ele diz que nao vai aguentar por muito tempo. Acho que o cara sabe um pouco sobre Strelok. Aqui estao as coordenadas. Melhor se apressar.</text>
+		<text>A word about Strelok, Marked One. A stalker just came back from a long raid. Fox he's called. Looks like he had a pretty rough time and he's asking for help. Some weird beasts followed him all the way back, he says he won't hold out much longer. I reckon the fella will know a bit about Strelok. Here are the coordinates. You might wanna hurry up though.</text>
 	</string>
 	<string id="escape_stalker_death">
-		<text>Que show ruim, Marcado. Os garotos estao mortos, embora isso nao seja bem sua culpa. Essas coisas acontecem na Zona. De qualquer forma, voce passou no teste, entao volte aqui e vamos conversar sobre negocios.</text>
+		<text>Poor show, Marked One. The boys are dead, although that ain't exactly your fault. These things happen in the Zone. Anyway, you passed the test so get back here and we'll talk business.</text>
 	</string>
 	<string id="escape_stalker_helped">
-		<text>Bom trabalho, Marcado. Continue assim e vai fazer alguns amigos. Me visite e vamos conversar sobre negocios.</text>
+		<text>Good job, Marked One. Keep it up and you'll make yourself a few friends. Pay me a visit and we'll talk business.</text>
 	</string>
 	<string id="escape_stalker_killed">
-		<text>Isso nao foi muito inteligente, Marcado. Voce passou no teste, mas agora vai ter que lidar com o Wolf e seus capangas sozinho. De qualquer forma, estou esperando por voce. Temos mais trabalho para conversar.</text>
+		<text>That wasn't very smart, Marked One. You passed the test but you're gonna have to deal with Wolf and his goons on your own now. Anyway, I'm waiting for you. We got more work to talk about.</text>
 	</string>
 	<string id="info_esc_give_agroprom_task">
-		<text>Marcado, os militares desenterraram umas coisas interessantes no Instituto de Pesquisa Agroprom. Eu gostaria de por as maos nisso, e voce provavelmente tambem. Pegue as informacoes e leve para o barman no Bar dos stalkers. Agora se mova!</text>
+		<text>Marked One, the military dug up some interesting stuff at the Agroprom Research Institute. I'd like to get my hands on it and you probably would too. Get the info and take it to the barman at the stalkers' bar. Now get moving!</text>
 	</string>
 	<string id="tips_esc_trader_about_anomalies">
-		<text>Cuidado! Voce esta bem perto das anomalias. Use seus parafusos para descobrir a localizacao e forma exata delas.</text>
+		<text>Watch out! You're right next to the anomalies. Use your bolts to work out their exact location and shape.</text>
 	</string>
 	<string id="tips_esc_trader_about_pda">
-		<text>Pressione Contato ($$ACTION_CONTACTS$$). Pessoas dentro de 250 metros de voce que ligaram seus PDAs se tornarao visiveis em Contatos e no seu Mini mapa. Voce tambem vera a atitude delas em relacao a voce, assim podera identificar possiveis inimigos. No entanto, bandidos e mutantes (ha ha) normalmente nao ligam seus PDAs, entao fique atento!</text>
+		<text>Press Contact ($$ACTION_CONTACTS$$). People within 250 meters of you who have turned their PDAs will become visible in Contacts and on your visor Minimap. You will also see their attitude towards you, so you can look out for potential enemies. However, bandits and mutants (har har) don't usually turn their PDAs on, so be careful!</text>
 	</string>
 	<string id="tips_esc_trader_activate_map">
-		<text>Para ativar o mapa, pressione '$$ACTION_MAP$$'.</text>
+		<text>To activate the map, press '$$ACTION_MAP$$'.</text>
 	</string>
 	<string id="tips_esc_trader_activate_pda">
-		<text>Para ativar o PDA, pressione '$$ACTION_ACTIVE_JOBS$$'.</text>
+		<text>To activate the PDA, press '$$ACTION_ACTIVE_JOBS$$'.</text>
 	</string>
 	<string id="tips_esc_trader_how_to_talk">
-		<text>Para conversar com alguem, aponte para ele e pressione '$$ACTION_USE$$'.</text>
+		<text>To talk to someone, aim at them and press '$$ACTION_USE$$'.</text>
 	</string>
 	<string id="tips_esc_trader_quest_1">
-		<text>Encontre o artefato na area marcada no mapa e leve-o para o trader.</text>
+		<text>Find the artifact in the area marked on the map and take it to the trader.</text>
 	</string>
 	<string id="tutorial_flash_anomaly_alarm">
-		<text>Preste atencao, Marcado. Da proxima vez pode ser voce.</text>
+		<text>Pay attention, Marked One. Next time it could be you.</text>
 	</string>
 	<string id="tutorial_trader_give_medikit">
-		<text>De este kit de primeiros socorros para esse idiota.</text>
+		<text>Give this moron a medkit.</text>
 	</string>
 	<string id="tutorial_trader_look_vagon">
-		<text>Marcado! Esqueca o artefato, voce vai deixa-lo mais tarde. Chegue no reboque perto da estrada o quanto antes. Meus garotos precisam de ajuda la. Os idiotas abriram fogo contra um helicoptero que passou. Eu te enviei as coordenadas.</text>
+		<text>Marked One! Forget the artifact, you'll drop it off later. Get to the trailer by the road ASAP. My boys need help there. The idiots opened fire at a passing chopper. I've sent you the coordinates.</text>
 	</string>
 	<string id="tutorial_trader_search_corpses">
-		<text>Reviste os corpos - voce pode encontrar algo util.</text>
+		<text>Search the bodies - you might find something useful.</text>
 	</string>

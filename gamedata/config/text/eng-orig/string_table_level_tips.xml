@@ -1,105 +1,105 @@
 <?xml version="1.0" encoding="windows-1251" ?>
 <string_table>
 	<string id="bar_rostok">
-		<text>Territorio Selvagem - Rostok</text>
+		<text>Wild Territory - Rostok</text>
 	</string>
 	<string id="car_character_use">
-		<text>Abrir a porta ($$ACTION_USE$$)</text>
+		<text>Open the door ($$ACTION_USE$$)</text>
 	</string>
 	<string id="character_use">
-		<text>Conversar ($$ACTION_USE$$)</text>
+		<text>Talk ($$ACTION_USE$$)</text>
 	</string>
 	<string id="dead_character_use_or_drag">
-		<text>Revistar corpo ($$ACTION_USE$$) \n Arrastar corpo (SHIFT+$$ACTION_USE$$)</text>
+		<text>Search body ($$ACTION_USE$$) \n Drag body (SHIFT+$$ACTION_USE$$)</text>
 	</string>
 	<string id="dead_character_use">
-		<text>Revistar corpo ($$ACTION_USE$$)</text>
+		<text>Search body ($$ACTION_USE$$)</text>
 	</string>
 	<string id="general_complete_task">
-		<text>Missao concluida:</text>
+		<text>Task complete:</text>
 	</string>
 	<string id="general_fail_task">
-		<text>Missao fracassada:</text>
+		<text>Task failed:</text>
 	</string>
 	<string id="general_help">
-		<text>Rapido, preciso de um kit medico! Estou morrendo aqui!</text>
+		<text>Quick, I need a medkit! I'm dying here!</text>
 	</string>
 	<string id="general_in_item">
-		<text>Item recebido:</text>
+		<text>Item received:</text>
 	</string>
 	<string id="general_in_money">
-		<text>Dinheiro recebido:</text>
+		<text>Money received:</text>
 	</string>
 	<string id="general_new_diary">
-		<text>Nova entrada no diario.</text>
+		<text>New journal entry.</text>
 	</string>
 	<string id="general_new_encyclopedy">
-		<text>Novo artigo na enciclopedia.</text>
+		<text>New encyclopedia article.</text>
 	</string>
 	<string id="general_new_task">
-		<text>Nova missao:</text>
+		<text>New task:</text>
 	</string>
 	<string id="general_out_item">
-		<text>Item perdido:</text>
+		<text>Item lost:</text>
 	</string>
 	<string id="general_out_money">
-		<text>Dinheiro perdido:</text>
+		<text>Money lost:</text>
 	</string>
 	<string id="general_update_task">
-		<text>Missao atualizada:</text>
+		<text>Task updated:</text>
 	</string>
 	<string id="physic_shell_use">
-		<text>Mover objeto ($$ACTION_USE$$)</text>
+		<text>Move object ($$ACTION_USE$$)</text>
 	</string>
 	<string id="st_codelock">
-		<text>Fechadura numerica ($$ACTION_USE$$)</text>
+		<text>Combination lock ($$ACTION_USE$$)</text>
 	</string>
 	<string id="to_aes">
-		<text>Para Usina Nuclear de Chernobyl</text>
+		<text>To Chernobyl NPP</text>
 	</string>
 	<string id="to_agroprom">
-		<text>Para o Instituto de Pesquisa Agroprom</text>
+		<text>To Agroprom</text>
 	</string>
 	<string id="to_agroprom_underground">
-		<text>Para o Agroprom Subsolo</text>
+		<text>To the catacombs</text>
 	</string>
 	<string id="to_bar">
-		<text>Para Rostok</text>
+		<text>To Rostok</text>
 	</string>
 	<string id="to_darkvalley">
-		<text>Para o Vale Sombrio</text>
+		<text>To the Dark Valley</text>
 	</string>
 	<string id="to_escape">
-		<text>Para o Cordon</text>
+		<text>To the Cordon</text>
 	</string>
 	<string id="to_garbage">
-		<text>Para o Lixao</text>
+		<text>To the Garbage</text>
 	</string>
 	<string id="to_military">
-		<text>Para o Armazens militares</text>
+		<text>To the warehouses</text>
 	</string>
 	<string id="to_pripyat">
-		<text>Para Pripyat</text>
+		<text>To Pripyat</text>
 	</string>
 	<string id="to_radar">
-		<text>Para o Brain Scorcher</text>
+		<text>To the Brain Scorcher</text>
 	</string>
 	<string id="to_rostok">
-		<text>Para o Territorio Selvagem</text>
+		<text>To the Wild Territory</text>
 	</string>
 	<string id="to_yantar">
-		<text>Para Yantar</text>
+		<text>To Yantar</text>
 	</string>
 	<string id="st_helmet_countdown">
-		<text>Desativacao da protecao</text>
+		<text>Protection shutdown</text>
 	</string>
 	<string id="st_psy_danger">
-		<text>Nivel critico de emissao psiquica. Deixe a area perigosa imediatamente.</text>
+		<text>Critical psi-emission level. Leave the dangerous zone immediately.</text>
 	</string>
 	<string id="st_radiation_danger">
-		<text>Nivel perigoso de radiacao. Protecao necessaria para prosseguir.</text>
+		<text>Hazardous radiation level. Protection required to pass.</text>
 	</string>
 	<string id="st_found_new_pda">
-		<text>Informacao encontrada:</text>
+		<text>Found information:</text>
 	</string>
 </string_table>
