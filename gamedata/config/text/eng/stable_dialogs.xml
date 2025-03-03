@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="actor_break_dialog_0">
+		<text>Ate mais!</text>
+	</string>
+	<string id="actor_help_wounded_0">
+		<text>Voce esta bem?</text>
+	</string>
+	<string id="actor_help_wounded_1">
+		<text>Estou ferido droga, nao esta vendo? Preciso de um kit de primeiros socorros ou pelo menos um bandagem.</text>
+	</string>
+	<string id="actor_help_wounded_11">
+		<text>Aqui, pegue este kit de primeiros socorros.</text>
+	</string>
+	<string id="actor_help_wounded_111">
+		<text>Valeu irmao, nao vou esquecer disso.</text>
+	</string>
+	<string id="actor_help_wounded_12">
+		<text>Aqui, pegue esta bandagem.</text>
+	</string>
+	<string id="actor_help_wounded_13">
+		<text>Desculpe, nao tenho nenhuma.</text>
+	</string>
+	<string id="actor_help_wounded_131">
+		<text>Entao como voce anda pela Zona? E se for infectado ou algo assim? Voce nem vai conseguir se curar!</text>
+	</string>
+	<string id="actor_help_wounded_14">
+		<text>Foi mal cara. Mas se eu te der a minha, nao terei nenhuma para mim.</text>
+	</string>
+	<string id="actor_help_wounded_141">
+		<text>Isso e com voce, mas nao vai te ajudar em nada.</text>
+	</string>
+	<string id="hello_dialog_2">
+		<text>Ei!</text>
+	</string>
+	<string id="hello_dialog_3">
+		<text>Me da uma ajuda, vai?</text>
+	</string>
+</string_table>
