@@ -15,7 +15,7 @@ Dead City para Dead City; Army warehouses para Armazens militares; Yantar para Y
 Pripyat para Prypiat; Chernobyl NPP para Chernobyl NPP; Agroprom Underground para Agroprom Subsolo;
 Lab X-18 para Lab X-18; Lab X-16 para Lab X-16; Lab X-10 para Lab X-10; Sarcophagus para Sarcofago; Brain Scorcher para Brain Scorcher;
 - personagens:
-Marked One para Marked One; Wolf para Wolf; Fox para Fox; Guide para Guide; Nimble para Nimble; Fanatic para Fanatic; Ghost para Ghost; Wish Granter para Wish Granter;
+Marked One para Marked One; Wolf para Wolf; Fox para Fox; Guide para Guide; Nimble para Nimble; Fanatic para Fanatic; Ghost para Ghost; Wish Granter para Wish Granter; Vampire para Vampire; Sparrow para Sparrow;
 - itens:
 Flash drive para Pendrive; Lockpick para Arrombador; Energy drink para Energetico; medkit para kit de primeiros socorros
 - mutantes:
@@ -23,6 +23,6 @@ Flesh para Carnival; Bloodsucker para Sanguessuga; rat hound para cao de caca
 artefatos e anomalias:
 Mica para Migalha; Smile para Limo; Slug para Lesma; Mama's Beads para Contas da mamae; Flash para Lampejo; Sparkler para Diamante; Fruit punch para Ponche de frutas; Burnt Fuzz para Fuzz queimado; Jelly para Agua-viva; Jellyfish para Agua-viva; Whirligig para Redemoinho;
 - outros:
-Task para Missao; Anomalia Skinner para Traje anonimo;
+Task para Missao; Anomalia Skinner para Traje anonimo; detachment para unidade
 
 Não traduza nomes próprios de personagens.

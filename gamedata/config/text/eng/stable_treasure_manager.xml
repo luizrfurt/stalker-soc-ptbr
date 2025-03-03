@@ -1,0 +1,1296 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="agr_secret_0000_descr">
+		<text>Por enquanto, nosso esconderijo secreto esta no tunel. Esse e um bom lugar - poucos sabem sobre ele, e as anomalias manterao os outros afastados.</text>
+	</string>
+	<string id="agr_secret_0000_name">
+		<text>Esconderijo secreto de Seriy</text>
+	</string>
+	<string id="agr_secret_0001_descr">
+		<text>Eu escondi no toco perto do tunel. Ha um bom buraco la.</text>
+	</string>
+	<string id="agr_secret_0001_name">
+		<text>Toco com buraco</text>
+	</string>
+	<string id="agr_secret_0002_descr">
+		<text>Enterrei algumas coisas embaixo da cruz perto do arbusto.</text>
+	</string>
+	<string id="agr_secret_0002_name">
+		<text>A marca esta sob a cruz</text>
+	</string>
+	<string id="agr_secret_0003_descr">
+		<text>Joguei a mochila embaixo da arvore caida.</text>
+	</string>
+	<string id="agr_secret_0003_name">
+		<text>Mochila sob a arvore</text>
+	</string>
+	<string id="agr_secret_0004_descr">
+		<text>Enfiei a mochila no cano perto da fabrica. Ninguem vai encontra-la.</text>
+	</string>
+	<string id="agr_secret_0004_name">
+		<text>Mochila do limpador de chamine</text>
+	</string>
+	<string id="agr_secret_0005_descr">
+		<text>Guardei o bau no telhado da fabrica - assim ninguem vai encontra-lo. O problema e que ele vai enferrujar na chuva.</text>
+	</string>
+	<string id="agr_secret_0005_name">
+		<text>Bau no telhado</text>
+	</string>
+	<string id="agr_secret_0006_descr">
+		<text>Estavam atirando. Tive que largar a mochila debaixo do vagoes atras do assento. Pelo menos consegui escapar. Vou voltar para busca-la.</text>
+	</string>
+	<string id="agr_secret_0006_name">
+		<text>Mochila do bebado</text>
+	</string>
+	<string id="agr_secret_0007_descr">
+		<text>Escondi debaixo da cruz, atras das cisternas. Cave um pouco, so nao exagere.</text>
+	</string>
+	<string id="agr_secret_0007_name">
+		<text>Perto das tres cisternas</text>
+	</string>
+	<string id="agr_secret_0008_descr">
+		<text>Coloquei a mochila no alto da fabrica, assim ninguem vai ve-la. O problema e que nao lembro exatamente o que tem dentro.</text>
+	</string>
+	<string id="agr_secret_0008_name">
+		<text>A mochila esta no olhal</text>
+	</string>
+	<string id="agr_secret_0009_descr">
+		<text>Escondi minhas coisas em um bau dentro da fabrica.</text>
+	</string>
+	<string id="agr_secret_0009_name">
+		<text>Bau radioativo</text>
+	</string>
+	<string id="agr_secret_0010_descr">
+		<text>No bau sob as escadas ha um esconderijo secreto.</text>
+	</string>
+	<string id="agr_secret_0010_name">
+		<text>Bau na escadaria</text>
+	</string>
+	<string id="agr_secret_0011_descr">
+		<text>Escondi no bau, ninguem vai olhar la mesmo.</text>
+	</string>
+	<string id="agr_secret_0011_name">
+		<text>Bau da fabrica</text>
+	</string>
+	<string id="agr_secret_0012_descr">
+		<text>Joguei a bolsa pela janela. Vou pega-la depois.</text>
+	</string>
+	<string id="agr_secret_0012_name">
+		<text>A bolsa esta na viga de suporte</text>
+	</string>
+	<string id="agr_secret_0013_descr">
+		<text>Kolyan e eu demos um passeio no Agroprom. Encontramos um monte de sucata, mas conseguimos esconder algumas coisas. Colocamos o bau na lixeira.</text>
+	</string>
+	<string id="agr_secret_0013_name">
+		<text>Lixeira</text>
+	</string>
+	<string id="agr_secret_0014_descr">
+		<text>Encontrei um cofre debaixo de uma arvore caida. Vou esconder tudo la por enquanto.</text>
+	</string>
+	<string id="agr_secret_0014_name">
+		<text>Cofre sob a arvore</text>
+	</string>
+	<string id="agr_secret_0015_descr">
+		<text>Joguei as coisas no cano, vou pega-las depois. Tive que fazer isso, caso contrario, obviamente as teria levado comigo. So espero que nao fiquem molhadas.</text>
+	</string>
+	<string id="agr_secret_0015_name">
+		<text>Coisas no cano</text>
+	</string>
+	<string id="agr_secret_0016_descr">
+		<text>Os suprimentos estao no cano velho, temos que avisar os caras disso. Nao vou entrar la.</text>
+	</string>
+	<string id="agr_secret_0016_name">
+		<text>Cano radioativo</text>
+	</string>
+	<string id="agr_secret_0017_descr">
+		<text>Fugi da base, que se dane eles! Desviei dos tiros dos Stalkers. Escondi minhas coisas em uma pilha dentro de um cano. Vou ficar por aqui ate eles irem embora, depois eu pego.</text>
+	</string>
+	<string id="agr_secret_0017_name">
+		<text>A pilha</text>
+	</string>
+	<string id="agr_secret_0018_descr">
+		<text>Ha um cofre meio enterrado debaixo do arbusto - e la que escondo tudo.</text>
+	</string>
+	<string id="agr_secret_0018_name">
+		<text>Cofre sob o arbusto</text>
+	</string>
+	<string id="agr_secret_0019_descr">
+		<text>Descobriram o bau debaixo da viga de suporte. Alguem o arrastou desde o Instituto de Pesquisa Agroprom. Vamos esperar pelo windflier e depois busca-lo.</text>
+	</string>
+	<string id="agr_secret_0019_name">
+		<text>Caixa de arquivo</text>
+	</string>
+	<string id="agr_secret_0020_descr">
+		<text>Escondi minhas coisas em uma capsula de ferro</text>
+	</string>
+	<string id="agr_secret_0020_name">
+		<text>Debaixo da porta falsa</text>
+	</string>
+	<string id="agr_secret_0021_descr">
+		<text>Ha um cofre meio enterrado sob o arbusto - e la que eu escondo tudo.</text>
+	</string>
+	<string id="agr_secret_0021_name">
+		<text>Debaixo do arbusto perto do muro</text>
+	</string>
+	<string id="agr_secret_0022_descr">
+		<text>Um bom bau para coletar tralha extra</text>
+	</string>
+	<string id="agr_secret_0022_name">
+		<text>Bau do instituto</text>
+	</string>
+	<string id="agr_secret_0023_descr">
+		<text>Escondi no cofre, mas os soldados chegaram e agora nao consigo pegar a mercadoria.</text>
+	</string>
+	<string id="agr_secret_0023_name">
+		<text>Agrosafe</text>
+	</string>
+	<string id="agr_secret_0024_descr">
+		<text>Joguei minha tralha no cano - pego depois.</text>
+	</string>
+	<string id="agr_secret_0024_name">
+		<text>Corpo do caminhao</text>
+	</string>
+	<string id="agr_secret_0025_descr">
+		<text>Pegue as coisas do tronco podre</text>
+	</string>
+	<string id="agr_secret_0025_name">
+		<text>Tronco podre</text>
+	</string>
+	<string id="agr_secret_0026_descr">
+		<text>Bom bau para guardar tralha extra. O inventario de equipamentos do instituto ja esteve la.</text>
+	</string>
+	<string id="agr_secret_0026_name">
+		<text>Bau Zavhoz</text>
+	</string>
+	<string id="agr_secret_0027_descr">
+		<text>Bom bau para coisas pequenas. Eu guardava meus instrumentos de metalurgia em um bau desses em casa.</text>
+	</string>
+	<string id="agr_secret_0027_name">
+		<text>Inventario de metalurgia</text>
+	</string>
+	<string id="agr_u_secret_0000_descr">
+		<text>Os bandidos esconderam algo sob o cano, preciso conferir. Pelo que conversamos, eles guardam seus suprimentos la.</text>
+	</string>
+	<string id="agr_u_secret_0000_name">
+		<text>"Fundo" comunitario dos bandidos</text>
+	</string>
+	<string id="agr_u_secret_0001_descr">
+		<text>Escondi a mochila atras das placas de concreto, levei pouca coisa. Vou ficar com fome, mas pelo menos vivo.</text>
+	</string>
+	<string id="agr_u_secret_0001_name">
+		<text>Mochila esta em um beco</text>
+	</string>
+	<string id="agr_u_secret_0002_descr">
+		<text>O bau esta atras de um "barril" enferrujado no subsolo, tudo esta la. Nao volto mais la. E um milagre que eu tenha acabado com a Sanguessuga. Ainda nao lembro como.</text>
+	</string>
+	<string id="agr_u_secret_0002_name">
+		<text>Bau da Sanguessuga</text>
+	</string>
+	<string id="agr_u_secret_0003_descr">
+		<text>Tem umas coisas boas atras da porta. Eu sou responsavel pelos suprimentos na loja!</text>
+	</string>
+	<string id="agr_u_secret_0003_name">
+		<text>Bugigangas do Stalker</text>
+	</string>
+	<string id="agr_u_secret_0004_descr">
+		<text>Desenterrei umas coisas boas aqui. Um otimo esconderijo para meu estoque secreto. Ninguem vai achar em um barril amarelo.</text>
+	</string>
+	<string id="agr_u_secret_0004_name">
+		<text>Toca do Tatu</text>
+	</string>
+	<string id="bar_secret_0000_description">
+		<text>Escondi a mochila perto da base da Duty. Pego depois</text>
+	</string>
+	<string id="bar_secret_0000_name">
+		<text>Mochila escondida</text>
+	</string>
+	<string id="bar_secret_0001_description">
+		<text>Um grande bando de caes de caca veio atras de mim. Se eu nao tivesse deixado minha mochila, nao teria chegado no portao</text>
+	</string>
+	<string id="bar_secret_0001_name">
+		<text>A mochila que foi deixada para tras</text>
+	</string>
+	<string id="bar_secret_0002_description">
+		<text>Tudo que restou foi enterrado sob a cruz</text>
+	</string>
+	<string id="bar_secret_0002_name">
+		<text>Esconderijo sob a cruz</text>
+	</string>
+	<string id="bar_secret_0003_description">
+		<text>Deixei minha mochila aqui - fica mais facil assim</text>
+	</string>
+	<string id="bar_secret_0003_name">
+		<text>Mochila</text>
+	</string>
+	<string id="bar_secret_0004_description">
+		<text>A municao do posto de seguranca da Duty esta guardada em um bunker, mas ninguem vigia o bau</text>
+	</string>
+	<string id="bar_secret_0004_name">
+		<text>Suprimentos no bunker</text>
+	</string>
+	<string id="bar_secret_0005_description">
+		<text>Vi um membro da Duty enfiar algo no cano perto do portao</text>
+	</string>
+	<string id="bar_secret_0005_name">
+		<text>Esconderijo secreto</text>
+	</string>
+	<string id="bar_secret_0006_description">
+		<text>Tudo isso pertencia a ele, entao pode muito bem ficar aqui por enquanto</text>
+	</string>
+	<string id="bar_secret_0006_name">
+		<text>Esconderijo sob a cruz</text>
+	</string>
+	<string id="bar_secret_0007_description">
+		<text>Vou para o Bar, deixei a mochila no hangar</text>
+	</string>
+	<string id="bar_secret_0007_name">
+		<text>Mochila</text>
+	</string>
+	<string id="bar_secret_0008_description">
+		<text>Dizem que ha algo valioso escondido no territorio da Duty, no quadro de distribuicao.</text>
+	</string>
+	<string id="bar_secret_0008_name">
+		<text>Quadro de distribuicao com um esconderijo secreto</text>
+	</string>
+	<string id="bar_secret_0009_description">
+		<text>Escondi o bau no topo da torre em frente a Duty - ninguem vai notar</text>
+	</string>
+	<string id="bar_secret_0009_name">
+		<text>Esconderijo secreto na torre</text>
+	</string>
+	<string id="bar_secret_0010_description">
+		<text>Escondi na tubulacao sob as escadas</text>
+	</string>
+	<string id="bar_secret_0010_name">
+		<text>Esconderijo secreto</text>
+	</string>
+	<string id="bar_secret_0011_description">
+		<text>Escondi os suprimentos nao muito longe do Bar, atras das anomalias - ninguem vai entrar la. E mesmo que entrem, nao vao saber como abrir. Mas e muito simples - basta puxar levemente a porta para cima, e tudo vai abrir.</text>
+	</string>
+	<string id="bar_secret_0011_name">
+		<text>Esconderijo secreto do Arny</text>
+	</string>
+	<string id="bar_secret_0012_description">
+		<text>Enterrei os suprimentos nao muito longe do Bar</text>
+	</string>
+	<string id="bar_secret_0012_name">
+		<text>Esconderijo secreto</text>
+	</string>
+	<string id="bar_secret_0013_description">
+		<text>Pelo Bar, em um bau</text>
+	</string>
+	<string id="bar_secret_0013_name">
+		<text>Bau</text>
+	</string>
+	<string id="bar_secret_0014_description">
+		<text>Escondi o bau em uma rua lateral perto do Bar</text>
+	</string>
+	<string id="bar_secret_0014_name">
+		<text>Pequeno bau</text>
+	</string>
+	<string id="bar_secret_0015_description">
+		<text>Enterrei sob a cruz atras dos pinheiros</text>
+	</string>
+	<string id="bar_secret_0015_name">
+		<text>Esconderijo secreto</text>
+	</string>
+	<string id="bar_secret_0016_description">
+		<text>Sob a cruz, nao muito longe da passagem para o Dark Territory</text>
+	</string>
+	<string id="bar_secret_0016_name">
+		<text>Esconderijo secreto</text>
+	</string>
+	<string id="bar_secret_0017_description">
+		<text>Escondi o bau com antirrad em uma tubulacao perto da Arena</text>
+	</string>
+	<string id="bar_secret_0017_name">
+		<text>Pequeno bau</text>
+	</string>
+	<string id="bar_secret_0018_description">
+		<text>Escondi minhas coisas em uma tubulacao sob a torre</text>
+	</string>
+	<string id="bar_secret_0018_name">
+		<text>Esconderijo secreto</text>
+	</string>
+	<string id="bar_secret_0019_description">
+		<text>Ha um esconderijo secreto sob a cruz</text>
+	</string>
+	<string id="bar_secret_0019_name">
+		<text>Esconderijo secreto</text>
+	</string>
+	<string id="esc_secret_0000_descr">
+		<text>Escondi suprimentos militares em um vagao durante o reagrupamento. Nao esquecer.</text>
+	</string>
+	<string id="esc_secret_0000_name">
+		<text>Vagao acima da ponte</text>
+	</string>
+	<string id="esc_secret_0001_descr">
+		<text>Vi um Stalker descer sob uma anomalia perto do tunel do trem na floresta. Parecia que ele tinha algumas coisas boas.</text>
+	</string>
+	<string id="esc_secret_0001_name">
+		<text>Coisas pertencentes a quem pereceu na anomalia</text>
+	</string>
+	<string id="esc_secret_0002_descr">
+		<text>Escondi o habar perto do acampamento dos bandidos sob a cruz</text>
+	</string>
+	<string id="esc_secret_0002_name">
+		<text>A cruz perto do acampamento dos bandidos</text>
+	</string>
+	<string id="esc_secret_0003_descr">
+		<text>O bau roubado pelos bandidos foi encontrado no porao do predio central. Preciso preparar uma unidade e pega-lo.</text>
+	</string>
+	<string id="esc_secret_0003_name">
+		<text>Armazem dos bandidos</text>
+	</string>
+	<string id="esc_secret_0004_descr">
+		<text>Quando meus camaradas e eu estavamos afastando os caes de caca, enterrei alguns suprimentos sob a ponte. Deixarei la por enquanto.</text>
+	</string>
+	<string id="esc_secret_0004_name">
+		<text>Sob a cruz</text>
+	</string>
+	<string id="esc_secret_0005_descr">
+		<text>Escondi a mochila no porao. Voltarei mais tarde - nao consigo pega-la agora.</text>
+	</string>
+	<string id="esc_secret_0005_name">
+		<text>Abrigo no porao</text>
+	</string>
+	<string id="esc_secret_0006_descr">
+		<text>Encontrei um cofre meio enterrado na fazenda. Vou manter os suprimentos la por enquanto.</text>
+	</string>
+	<string id="esc_secret_0006_name">
+		<text>Cofre na fazenda</text>
+	</string>
+	<string id="esc_secret_0007_descr">
+		<text>Um passarinho me contou que alguem escondeu alguma coisa no vagao do trem na ponte. Preciso dar uma olhada na volta. Quem sera...</text>
+	</string>
+	<string id="esc_secret_0007_name">
+		<text>Container no vagao do trem</text>
+	</string>
+	<string id="esc_secret_0008_descr">
+		<text>Escondi os itens bem embaixo do telhado da pequena casa perto da ponte.</text>
+	</string>
+	<string id="esc_secret_0008_name">
+		<text>Itens do atirador</text>
+	</string>
+	<string id="esc_secret_0009_descr">
+		<text>Escondi minhas coisas em um dos baus nao muito longe da ponte. E isso, estou caindo fora e deixando a Zona. Adeus, irmaos! Nunca esquecerei a patria.</text>
+	</string>
+	<string id="esc_secret_0009_name">
+		<text>Coisas perto da ponte</text>
+	</string>
+	<string id="esc_secret_0010_descr">
+		<text>Um dos Stalkers bateu as botas perto do acampamento dos novatos. Verifique os itens dele.</text>
+	</string>
+	<string id="esc_secret_0010_name">
+		<text>A mochila esta perto da vila</text>
+	</string>
+	<string id="esc_secret_0011_descr">
+		<text>Descobri pelo Lihoi que o esconderijo secreto esta no porao. Ele falou demais, entao demos um jeito nele.</text>
+	</string>
+	<string id="esc_secret_0011_name">
+		<text>Porao na vila</text>
+	</string>
+	<string id="esc_secret_0012_descr">
+		<text>Encontrei um otimo esconderijo no porao. Vou esperar ate alguem colocar algo la.</text>
+	</string>
+	<string id="esc_secret_0012_name">
+		<text>Um bom lugar</text>
+	</string>
+	<string id="esc_secret_0013_descr">
+		<text>Descobri pelo Vorpal que ha um esconderijo no porao. Nossos homens estavam fazendo uma expedicao de reconhecimento na area. Vamos conferir.</text>
+	</string>
+	<string id="esc_secret_0013_name">
+		<text>Esconderijo do Vorpal</text>
+	</string>
+	<string id="esc_secret_0014_descr">
+		<text>Disseram que o comandante tem um bau complicado no escritorio dele, e tem um monte de itens valiosos la.</text>
+	</string>
+	<string id="esc_secret_0014_name">
+		<text>Os valores do comandante</text>
+	</string>
+	<string id="esc_secret_0015_descr">
+		<text>Um Stalker bateu as botas perto do acampamento dos novatos. Precisamos ver o que ele estava carregando. Quem deixa esses novatos entrarem aqui?</text>
+	</string>
+	<string id="esc_secret_0015_name">
+		<text>Perto de uma estrada de terra</text>
+	</string>
+	<string id="esc_secret_0016_descr">
+		<text>Os itens estao escondidos no porao dos bandidos. Eles nao estavam la antes, entao vamos esperar o momento certo para pegar tudo.</text>
+	</string>
+	<string id="esc_secret_0016_name">
+		<text>Porao dos ladroes</text>
+	</string>
+	<string id="esc_secret_0017_descr">
+		<text>Descobri o estoque na tubulacao, nao muito longe da fazenda. Assim que a confusao passar, eu volto la.</text>
+	</string>
+	<string id="esc_secret_0017_name">
+		<text>Tubulacao de gas</text>
+	</string>
+	<string id="esc_secret_0018_descr">
+		<text>Joguei minha mochila fora perto do posto, preciso pega-la o quanto antes, antes que o comandante nos transfira para outro local.</text>
+	</string>
+	<string id="esc_secret_0018_name">
+		<text>Coisas escondidas</text>
+	</string>
+	<string id="esc_secret_0019_descr">
+		<text>Deixei o bau na torre por enquanto. Pegarei quando puder.</text>
+	</string>
+	<string id="esc_secret_0019_name">
+		<text>Torre no posto de controle</text>
+	</string>
+	<string id="gar_secret_0000_descr">
+		<text>Vi um bandido esconder seus itens em um bau no hangar. Como posso rouba-lo sem que percebam?</text>
+	</string>
+	<string id="gar_secret_0000_name">
+		<text>Armazem dos bandidos</text>
+	</string>
+	<string id="gar_secret_0001_descr">
+		<text>Eu e Vasya fomos dar uma olhada e de repente uma bala o acertou. E eu nao tive nada a ver com isso. Foi a maldita bala. Escondi as coisas em uma tubulacao.</text>
+	</string>
+	<string id="gar_secret_0001_name">
+		<text>Guindaste velho</text>
+	</string>
+	<string id="gar_secret_0002_descr">
+		<text>Grizzly bateu as botas com todos os seus itens no Lixao, no tunel do trem atras do diesel. Uma pena pelo Grizzly.</text>
+	</string>
+	<string id="gar_secret_0002_name">
+		<text>Coisas do Grizzly</text>
+	</string>
+	<string id="gar_secret_0003_descr">
+		<text>Escondi os itens em uma tubulacao no Lixao.</text>
+	</string>
+	<string id="gar_secret_0003_name">
+		<text>Tubulacao na pilha norte</text>
+	</string>
+	<string id="gar_secret_0004_descr">
+		<text>Os itens estao no Lixao, em uma das tubulacoes. Se voce nao souber exatamente onde estao, nao vai encontrar.</text>
+	</string>
+	<string id="gar_secret_0004_name">
+		<text>Grana extra no ferro-velho</text>
+	</string>
+	<string id="gar_secret_0005_descr">
+		<text>Escondi os itens em uma tubulacao de metal ao lado das duas cisternas. Preciso pega-los, mas nao tenho tempo.</text>
+	</string>
+	<string id="gar_secret_0005_name">
+		<text>Forno de ferro ao lado da cisterna</text>
+	</string>
+	<string id="gar_secret_0006_descr">
+		<text>Ha alguns itens uteis escondidos entre os residuos radioativos, onde poucos andam.</text>
+	</string>
+	<string id="gar_secret_0006_name">
+		<text>Tubulacao na pilha leste</text>
+	</string>
+	<string id="gar_secret_0007_descr">
+		<text>Uma mochila de alguem esta largada no vale, com anomalias ao redor. Como chegar ate ela?</text>
+	</string>
+	<string id="gar_secret_0007_name">
+		<text>Mochila de ninguem</text>
+	</string>
+	<string id="gar_secret_0008_descr">
+		<text>Acabei com o traidor no pantano... nos o enterramos la tambem e deixamos seus pertences sob a cruz. Tinhamos coisas mais importantes para nos preocupar.</text>
+	</string>
+	<string id="gar_secret_0008_name">
+		<text>Pertences do assassinado</text>
+	</string>
+	<string id="gar_secret_0009_descr">
+		<text>Ha um esconderijo secreto nas sombras - um bom lugar para esconde-lo.</text>
+	</string>
+	<string id="gar_secret_0009_name">
+		<text>Toco podre</text>
+	</string>
+	<string id="gar_secret_0010_descr">
+		<text>Ha um tronco na floresta com um buraco dentro. No buraco ha um tesouro - esta na hora de pega-lo.</text>
+	</string>
+	<string id="gar_secret_0010_name">
+		<text>Tronco na floresta</text>
+	</string>
+	<string id="gar_secret_0011_descr">
+		<text>Petrenko queria avisar que ha informacoes sobre o esconderijo secreto da faccao Strelok no Lixao. Aqui no fundo do vale deve haver um bueiro, ele explicou que ha um truque para abri-lo. Assim que tudo se acalmar, temos que ir la conferir.</text>
+	</string>
+	<string id="gar_secret_0011_name">
+		<text>Armazem da faccao Strelok</text>
+	</string>
+	<string id="gar_secret_0012_descr">
+		<text>Escondi no carro, o Long One disse que era um bom lugar.</text>
+	</string>
+	<string id="gar_secret_0012_name">
+		<text>Esconderijo secreto no carro</text>
+	</string>
+	<string id="gar_secret_0013_descr">
+		<text>Coloquei a mochila no onibus - parece imperceptivel</text>
+	</string>
+	<string id="gar_secret_0013_name">
+		<text>Mochila do stalker no onibus</text>
+	</string>
+	<string id="gar_secret_0014_descr">
+		<text>Coloquei os suprimentos no bau, e o bau na casa velha na esquina. Ainda nao entendi para que serve essa estrutura.</text>
+	</string>
+	<string id="gar_secret_0014_name">
+		<text>Suprimentos variados</text>
+	</string>
+	<string id="gar_secret_0015_descr">
+		<text>Ha um cofre parcialmente enterrado em uma pilha de lixo. Tudo esta no cofre. Melhor nao esquecer o que tem nele.</text>
+	</string>
+	<string id="gar_secret_0015_name">
+		<text>Cofre na pilha sul</text>
+	</string>
+	<string id="gar_secret_0016_descr">
+		<text>Coloquei as coisas na pilha de lixo no tubo</text>
+	</string>
+	<string id="gar_secret_0016_name">
+		<text>Deposito no ferro-velho</text>
+	</string>
+	<string id="gar_secret_0017_descr">
+		<text>O chefe das comunicacoes de radio nos passou uma mensagem: recuar. Encontrei um bau, joguei o que tinha comigo dentro e recuei de maos vazias.</text>
+	</string>
+	<string id="gar_secret_0017_name">
+		<text>Suprimentos no bau</text>
+	</string>
+	<string id="gar_secret_0018_descr">
+		<text>Coloquei o habar dentro do tubo no Lixao. Nao vai ficar la por muito tempo.</text>
+	</string>
+	<string id="gar_secret_0018_name">
+		<text>Tubo perto do onibus</text>
+	</string>
+	<string id="gar_secret_0019_descr">
+		<text>Esconder a mochila nas ruinas e facil. Espero que nao seja dificil pega-la, se os bandidos nao atrapalharem.</text>
+	</string>
+	<string id="gar_secret_0019_name">
+		<text>Mochila nas ruinas</text>
+	</string>
+	<string id="gar_secret_0020_descr">
+		<text>Enquanto os Duty atiravam, escondi o habar no vagao de trem. De algum jeito preciso entrar para pega-lo. E agradecer aos Duty.</text>
+	</string>
+	<string id="gar_secret_0020_name">
+		<text>Bau no posto militar fortemente armado</text>
+	</string>
+	<string id="gar_secret_0021_descr">
+		<text>Dizem que Weakling engasgou no Lixao - preciso dar uma passada la para ver os pertences. Caso contrario, muitos interessados aparecerao.</text>
+	</string>
+	<string id="gar_secret_0021_name">
+		<text>Mochila de Weakling</text>
+	</string>
+	<string id="gar_secret_0022_descr">
+		<text>Por enquanto vou esconder as coisas no buraco. Talvez nao as encontrem.</text>
+	</string>
+	<string id="gar_secret_0022_name">
+		<text>Sacola no buraco</text>
+	</string>
+	<string id="gar_secret_0023_descr">
+		<text>Uma anomalia pegou alguem na escada rolante - a mochila esta a vista, mas dificil de alcancar.</text>
+	</string>
+	<string id="gar_secret_0023_name">
+		<text>Sob a escavadeira</text>
+	</string>
+	<string id="gar_secret_0024_descr">
+		<text>Mal consegui passar sob as vigas, mas pelo menos a mochila esta bem escondida - ninguem vai tentar subir aqui.</text>
+	</string>
+	<string id="gar_secret_0024_name">
+		<text>O dinheiro extra esta sob os blocos de concreto</text>
+	</string>
+	<string id="mil_secret_0000_description">
+		<text>Escondi as coisas no tronco - nao acho que alguem va encontra-las.</text>
+	</string>
+	<string id="mil_secret_0000_name">
+		<text>Esconderijo secreto no tronco</text>
+	</string>
+	<string id="mil_secret_0001_description">
+		<text>Escondi a tralha na fornalha.</text>
+	</string>
+	<string id="mil_secret_0001_name">
+		<text>Esconderijo secreto na fornalha</text>
+	</string>
+	<string id="mil_secret_0002_description">
+		<text>Escondi a sucata no escritorio da KAMAZ</text>
+	</string>
+	<string id="mil_secret_0002_name">
+		<text>Esconderijo secreto na KAMAZ</text>
+	</string>
+	<string id="mil_secret_0003_description">
+		<text>Enterrei alguns itens debaixo da cruz perto da vila.</text>
+	</string>
+	<string id="mil_secret_0003_name">
+		<text>Tesouro debaixo da cruz</text>
+	</string>
+	<string id="mil_secret_0004_description">
+		<text>Joguei minhas coisas no cano, vou pega-las depois.</text>
+	</string>
+	<string id="mil_secret_0004_name">
+		<text>Esconderijo secreto no cano</text>
+	</string>
+	<string id="mil_secret_0005_description">
+		<text>Esconderijo secreto no bau dentro da caixa d'agua</text>
+	</string>
+	<string id="mil_secret_0005_name">
+		<text>Tesouro na torre</text>
+	</string>
+	<string id="mil_secret_0006_description">
+		<text>Enfiei minha mochila na fornalha, vai ser util depois.</text>
+	</string>
+	<string id="mil_secret_0006_name">
+		<text>Esconderijo secreto na fornalha</text>
+	</string>
+	<string id="mil_secret_0007_description">
+		<text>Escondi os itens no carro na vila abandonada.</text>
+	</string>
+	<string id="mil_secret_0007_name">
+		<text>Auto-esconderijo secreto</text>
+	</string>
+	<string id="mil_secret_0008_description">
+		<text>Deixei a mochila nas ruinas radioativas. Fiquei com medo de aparecer la.</text>
+	</string>
+	<string id="mil_secret_0008_name">
+		<text>Segredo perigoso</text>
+	</string>
+	<string id="mil_secret_0009_description">
+		<text>Enterrei os itens debaixo da cruz em um lugar escondido.</text>
+	</string>
+	<string id="mil_secret_0009_name">
+		<text>Esconderijo do Stalker</text>
+	</string>
+	<string id="mil_secret_0010_description">
+		<text>Escondi a mochila com o equipamento em um lugar aconchegante.</text>
+	</string>
+	<string id="mil_secret_0010_name">
+		<text>Mochila com equipamento</text>
+	</string>
+	<string id="mil_secret_0011_description">
+		<text>Escondi minha tralha no carro em uma colina</text>
+	</string>
+	<string id="mil_secret_0011_name">
+		<text>Esconderijo secreto na colina</text>
+	</string>
+	<string id="mil_secret_0012_description">
+		<text>Um helicoptero caiu bem perto da base militar abandonada, e o bau esta la, embaixo do helicoptero. Um problema - ha anomalias e radiacao por toda parte.</text>
+	</string>
+	<string id="mil_secret_0012_name">
+		<text>Bau do helicoptero</text>
+	</string>
+	<string id="mil_secret_0013_description">
+		<text>Enterrei os itens na colina, debaixo da cruz</text>
+	</string>
+	<string id="mil_secret_0013_name">
+		<text>Segredo no tumulo</text>
+	</string>
+	<string id="mil_secret_0014_description">
+		<text>Ha um esconderijo secreto no toco - um bom lugar</text>
+	</string>
+	<string id="mil_secret_0014_name">
+		<text>Toco secreto</text>
+	</string>
+	<string id="mil_secret_0015_description">
+		<text>Deixei a mochila na cabine do guindaste. Vou pega-la depois</text>
+	</string>
+	<string id="mil_secret_0015_name">
+		<text>Esconderijo secreto do trabalhador de altura</text>
+	</string>
+	<string id="mil_secret_0016_description">
+		<text>Tudo esta no bau, em um vagao de trem nao muito longe da base. Foi assim que planejamos, agora so precisamos esperar.</text>
+	</string>
+	<string id="mil_secret_0016_name">
+		<text>Esconderijo secreto combinado</text>
+	</string>
+	<string id="mil_secret_0017_description">
+		<text>Enfiei os itens no tronco. Nao acho que vao encontrar nada.</text>
+	</string>
+	<string id="mil_secret_0017_name">
+		<text>Tesouro no tronco</text>
+	</string>
+	<string id="mil_secret_0018_description">
+		<text>Enfiei os itens em um cano na margem do lago</text>
+	</string>
+	<string id="mil_secret_0018_name">
+		<text>Cano com itens</text>
+	</string>
+	<string id="mil_secret_0019_description">
+		<text>Escondi minhas coisas em uma capsula de ferro</text>
+	</string>
+	<string id="mil_secret_0019_name">
+		<text>Esconderijo secreto do Stalker</text>
+	</string>
+	<string id="mil_secret_0020_description">
+		<text>Enfiei os itens em um tronco, nao acho que vao encontra-los</text>
+	</string>
+	<string id="mil_secret_0020_name">
+		<text>Itens no tronco</text>
+	</string>
+	<string id="mil_secret_0021_description">
+		<text>Bom bau para guardar tralha extra</text>
+	</string>
+	<string id="mil_secret_0021_name">
+		<text>Bom bau de suprimentos</text>
+	</string>
+	<string id="mil_secret_0022_description">
+		<text>Escondi a mochila com os itens no tunel</text>
+	</string>
+	<string id="mil_secret_0022_name">
+		<text>Mochila no tunel</text>
+	</string>
+	<string id="mil_secret_0023_description">
+		<text>Bau bom para guardar tralha extra</text>
+	</string>
+	<string id="mil_secret_0023_name">
+		<text>Bau com itens</text>
+	</string>
+	<string id="mil_secret_0024_description">
+		<text>Enfiei os itens dentro de um tronco, acho que ninguem vai encontrar</text>
+	</string>
+	<string id="mil_secret_0024_name">
+		<text>Esconderijo no tronco</text>
+	</string>
+	<string id="mil_secret_0025_description">
+		<text>Joguei os itens dentro do bau - vou pegar depois</text>
+	</string>
+	<string id="mil_secret_0025_name">
+		<text>Esconderijo temporario</text>
+	</string>
+	<string id="mil_secret_0026_description">
+		<text>Escondi as coisas no bueiro. Elas serao uteis um dia.</text>
+	</string>
+	<string id="mil_secret_0026_name">
+		<text>Esconderijo de aco</text>
+	</string>
+	<string id="mil_secret_0027_description">
+		<text>Joguei os itens dentro do bau - vou pegar depois</text>
+	</string>
+	<string id="mil_secret_0027_name">
+		<text>Bau com itens</text>
+	</string>
+	<string id="mil_secret_0028_description">
+		<text>Escondi os itens no carro bem debaixo do nariz dos Freedom, nao tive tempo de procurar um lugar melhor</text>
+	</string>
+	<string id="mil_secret_0028_name">
+		<text>Esconderijo no carro</text>
+	</string>
+	<string id="pri_secret_0000_description">
+		<text>Dizem que algum Stalker famoso bateu as botas aqui, e ninguem pegou os itens dele ainda</text>
+	</string>
+	<string id="pri_secret_0000_name">
+		<text>Coisas do Stalker morto</text>
+	</string>
+	<string id="pri_secret_0001_description">
+		<text>Dizem que ha um bau na garagem com um monte de itens</text>
+	</string>
+	<string id="pri_secret_0001_name">
+		<text>Tesouro na garagem</text>
+	</string>
+	<string id="pri_secret_0002_description">
+		<text>Dizem que ha um bau no jardim de infancia com um monte de itens dentro</text>
+	</string>
+	<string id="pri_secret_0002_name">
+		<text>Velho esconderijo</text>
+	</string>
+	<string id="pri_secret_0003_description">
+		<text>Fang foi enterrado em Prypiat sob um monumento. Deixaram todos os itens dele com ele - nao e certo pegar algo dos mortos.</text>
+	</string>
+	<string id="pri_secret_0003_name">
+		<text>Itens de Fang</text>
+	</string>
+	<string id="pri_secret_0004_description">
+		<text>A ultima coisa que souberam dele foi que ele foi o unico sobrevivente apos o Brain Scorcher. Ele deixou todos os suprimentos em um antigo supermercado e seguiu em frente. Tudo saiu do controle, e ele era o melhor lider dos Freedom em toda a nossa historia.</text>
+	</string>
+	<string id="pri_secret_0004_name">
+		<text>Suprimentos do lider dos Freedom</text>
+	</string>
+	<string id="rad_secret_0000_description">
+		<text>A cruz esta no caminho para o Brain Scorcher, nao fui mais longe, escondi tudo la embaixo.</text>
+	</string>
+	<string id="rad_secret_0000_name">
+		<text>Tesouro de Murk</text>
+	</string>
+	<string id="rad_secret_0001_description">
+		<text>Um Stalker morreu aqui, e os itens dele ainda estao por ai, ninguem consegue pega-los</text>
+	</string>
+	<string id="rad_secret_0001_name">
+		<text>Itens do Stalker morto</text>
+	</string>
+	<string id="rad_secret_0002_description">
+		<text>Dizem que ha um cofre meio enterrado na floresta e que dentro tem um monte de itens</text>
+	</string>
+	<string id="rad_secret_0002_name">
+		<text>Itens no cofre</text>
+	</string>
+	<string id="rad_secret_0003_description">
+		<text>Disseram para eles nao sobrevoarem o Brain Scorcher, e olha no que deu. Eles pousaram no meio da floresta, e e improvavel que alguem tenha sobrevivido. Nos deveriamos pegar as coisas que estavam com eles.</text>
+	</string>
+	<string id="rad_secret_0003_name">
+		<text>Pacote para Duty</text>
+	</string>
+	<string id="rad_secret_0004_description">
+		<text>Dizem que os suprimentos da faccao que tentava chegar ao centro da Zona ainda estao sob a radiacao do Brain Scorcher. Nenhum deles voltou, e os suprimentos permaneceram la esperando que alguem os pegasse.</text>
+	</string>
+	<string id="rad_secret_0004_name">
+		<text>Suprimentos do grupo imprudente</text>
+	</string>
+	<string id="rad_secret_0005_description">
+		<text>Dizem que o lider de alguma antiga faccao morreu aqui, e havia uma quantidade valiosa de itens com ele</text>
+	</string>
+	<string id="rad_secret_0005_name">
+		<text>Itens do lider da antiga faccao</text>
+	</string>
+	<string id="ros_secret_0000_description">
+		<text>Escondi a mochila atras da chapa de ferro</text>
+	</string>
+	<string id="ros_secret_0000_name">
+		<text>Mochila escondida</text>
+	</string>
+	<string id="ros_secret_0001_description">
+		<text>Guardei os itens sob a cruz</text>
+	</string>
+	<string id="ros_secret_0001_name">
+		<text>Esconderijo sob a cruz</text>
+	</string>
+	<string id="ros_secret_0002_description">
+		<text>Escondi uma coisinha no bau embaixo da casa pequena. Nao devo esquecer disso.</text>
+	</string>
+	<string id="ros_secret_0002_name">
+		<text>Bau embaixo da casa pequena</text>
+	</string>
+	<string id="ros_secret_0003_description">
+		<text>Estava prestes a colocar a mochila embaixo dos degraus, quando aqueles idiotas apareceram. Cara, como vou pegar de volta?</text>
+	</string>
+	<string id="ros_secret_0003_name">
+		<text>Mochila do Stalker</text>
+	</string>
+	<string id="ros_secret_0004_description">
+		<text>Tem um cofre meio enterrado no canto atras da arvore. E onde meu lixo vai ficar por agora.</text>
+	</string>
+	<string id="ros_secret_0004_name">
+		<text>Esconderijo secreto atras da arvore</text>
+	</string>
+	<string id="ros_secret_0005_description">
+		<text>Eles esconderam tudo em um bau na garagem que tomaram durante a chuva.</text>
+	</string>
+	<string id="ros_secret_0005_name">
+		<text>Esconderijo secreto na garagem</text>
+	</string>
+	<string id="ros_secret_0006_description">
+		<text>Escondi algumas coisas no bau atras da barraca</text>
+	</string>
+	<string id="ros_secret_0006_name">
+		<text>Bau escondido</text>
+	</string>
+	<string id="ros_secret_0007_description">
+		<text>Coloquei a mochila em um buraco. Parece imperceptivel de cima.</text>
+	</string>
+	<string id="ros_secret_0007_name">
+		<text>Mochila no esconderijo secreto</text>
+	</string>
+	<string id="ros_secret_0008_description">
+		<text>Escondi o bau pequeno em um lugar seguro</text>
+	</string>
+	<string id="ros_secret_0008_name">
+		<text>Bau em um lugar seguro</text>
+	</string>
+	<string id="ros_secret_0009_description">
+		<text>Minha mochila esta bem embaixo do telhado. Esta la para um dia chuvoso.</text>
+	</string>
+	<string id="ros_secret_0009_name">
+		<text>Esconderijo secreto do stalker</text>
+	</string>
+	<string id="ros_secret_0010_description">
+		<text>Dizem que tem um cofre naquela casa pequena, e que tem algo dentro</text>
+	</string>
+	<string id="ros_secret_0010_name">
+		<text>Cofre na casa</text>
+	</string>
+	<string id="ros_secret_0011_description">
+		<text>Escondi na casa em um cano. Cuidado, tudo esta uma bagunca la</text>
+	</string>
+	<string id="ros_secret_0011_name">
+		<text>Esconderijo secreto no cano</text>
+	</string>
+	<string id="ros_secret_0012_description">
+		<text>Pega o que combinamos no bau. Normalmente ninguem olha la dentro</text>
+	</string>
+	<string id="ros_secret_0012_name">
+		<text>Bau escondido</text>
+	</string>
+	<string id="ros_secret_0013_description">
+		<text>Escondi embaixo da cruz em uma rua lateral</text>
+	</string>
+	<string id="ros_secret_0013_name">
+		<text>Esconderijo secreto embaixo da cruz</text>
+	</string>
+	<string id="ros_secret_0014_description">
+		<text>Eles esconderam os suprimentos extras embaixo do concreto no canteiro de obras</text>
+	</string>
+	<string id="ros_secret_0014_name">
+		<text>Esconderijo secreto embaixo do concreto</text>
+	</string>
+	<string id="ros_secret_0015_description">
+		<text>Em caso de precisarmos sair rapido, vamos colocar o habar no bau no canteiro de obras.</text>
+	</string>
+	<string id="ros_secret_0015_name">
+		<text>Esconderijo secreto do Lucky One</text>
+	</string>
+	<string id="ros_secret_0016_description">
+		<text>Escondi em uma das ruas laterais no canteiro de obras</text>
+	</string>
+	<string id="ros_secret_0016_name">
+		<text>Nychka</text>
+	</string>
+	<string id="ros_secret_0017_description">
+		<text>Enfiei tudo em algum cano - vou pegar depois</text>
+	</string>
+	<string id="ros_secret_0017_name">
+		<text>Esconderijo secreto no cano</text>
+	</string>
+	<string id="ros_secret_0018_description">
+		<text>Escondi os remedios em um bau nao muito longe do canteiro de obras</text>
+	</string>
+	<string id="ros_secret_0018_name">
+		<text>Bau com remedios</text>
+	</string>
+	<string id="ros_secret_0019_description">
+		<text>Arrastei o bau para a cabine do guindaste</text>
+	</string>
+	<string id="ros_secret_0019_name">
+		<text>Bau no guindaste</text>
+	</string>
+	<string id="ros_secret_0020_description">
+		<text>Escondi minhas coisas em um bueiro no canto.</text>
+	</string>
+	<string id="ros_secret_0020_name">
+		<text>Esconderijo secreto no bueiro</text>
+	</string>
+	<string id="ros_secret_0021_description">
+		<text>Fui atras do artefato e cai em uma anomalia. Mal consegui andar e deixei a mochila no canto.</text>
+	</string>
+	<string id="ros_secret_0021_name">
+		<text>A mochila largada</text>
+	</string>
+	<string id="ros_secret_0022_description">
+		<text>Coloquei o bau bem embaixo do telhado perto da torre para que ninguem percebesse.</text>
+	</string>
+	<string id="ros_secret_0022_name">
+		<text>Bau pequeno embaixo do telhado</text>
+	</string>
+	<string id="ros_secret_0023_description">
+		<text>Escondemos o que encontramos no cano nao muito longe do canteiro de obras.</text>
+	</string>
+	<string id="ros_secret_0023_name">
+		<text>Esconderijo secreto no cano</text>
+	</string>
+	<string id="ros_secret_0024_description">
+		<text>Enfiei todas as coisas no tronco. Nao acho que vao encontrar.</text>
+	</string>
+	<string id="ros_secret_0024_name">
+		<text>Esconderijo secreto</text>
+	</string>
+	<string id="ros_secret_0025_description">
+		<text>Deixei a mochila perto do guindaste</text>
+	</string>
+	<string id="ros_secret_0025_name">
+		<text>Mochila</text>
+	</string>
+	<string id="val_secret_0000_description">
+		<text>Escondi um pouco das coisas boas embaixo da cruz perto da montanha</text>
+	</string>
+	<string id="val_secret_0000_name">
+		<text>Esconderijo secreto embaixo da cruz</text>
+	</string>
+	<string id="val_secret_0001_description">
+		<text>Enfiei as coisas no tronco. Nao acho que vao encontrar.</text>
+	</string>
+	<string id="val_secret_0001_name">
+		<text>Esconderijo secreto no tronco</text>
+	</string>
+	<string id="val_secret_0002_description">
+		<text>Coloquei a mochila embaixo da ponte. Deixa ficar la por enquanto.</text>
+	</string>
+	<string id="val_secret_0002_name">
+		<text>Mochila embaixo da ponte</text>
+	</string>
+	<string id="val_secret_0003_description">
+		<text>Coloquei o bau dentro do carro perto do pantano</text>
+	</string>
+	<string id="val_secret_0003_name">
+		<text>Carro com o esconderijo secreto</text>
+	</string>
+	<string id="val_secret_0004_description">
+		<text>Tem um esconderijo secreto em um toco - bom lugar pra isso</text>
+	</string>
+	<string id="val_secret_0004_name">
+		<text>Esconderijo secreto no toco</text>
+	</string>
+	<string id="val_secret_0005_description">
+		<text>Encontrei um bau otimo na fazenda. Vou guardar os suprimentos la por enquanto.</text>
+	</string>
+	<string id="val_secret_0005_name">
+		<text>Bau com suprimentos</text>
+	</string>
+	<string id="val_secret_0006_description">
+		<text>Joguei minhas coisas no cano. Vou pegar depois.</text>
+	</string>
+	<string id="val_secret_0006_name">
+		<text>Esconderijo secreto no cano</text>
+	</string>
+	<string id="val_secret_0007_description">
+		<text>Escondi a mochila embaixo de um pinheiro</text>
+	</string>
+	<string id="val_secret_0007_name">
+		<text>Esconderijo secreto embaixo do pinheiro</text>
+	</string>
+	<string id="val_secret_0008_description">
+		<text>O novato acabou roubando o bau dos bandidos. Ele colocou no Niva que virou de cabeca pra baixo. Ele diz que, pelo jeito, e um bau do governo. Vamos ter que armar nossos caras e pegar ele.</text>
+	</string>
+	<string id="val_secret_0008_name">
+		<text>Bau do governo</text>
+	</string>
+	<string id="val_secret_0009_description">
+		<text>Tem assaltos por todo lado. Estao ate roubando dos proprios... mas nunca vao encontrar meu bau</text>
+	</string>
+	<string id="val_secret_0009_name">
+		<text>Bau</text>
+	</string>
+	<string id="val_secret_0010_description">
+		<text>Escondi minhas coisas no bueiro. Talvez sejam uteis algum dia.</text>
+	</string>
+	<string id="val_secret_0010_name">
+		<text>Esconderijo secreto no bueiro</text>
+	</string>
+	<string id="val_secret_0011_description">
+		<text>Joguei a mochila embaixo de uma arvore. Se nao fosse assim, eu nao teria escapado dos bandidos.</text>
+	</string>
+	<string id="val_secret_0011_name">
+		<text>Mochila do Stalker</text>
+	</string>
+	<string id="val_secret_0012_description">
+		<text>Coloquei meu lixo em um cano, vou pegar depois</text>
+	</string>
+	<string id="val_secret_0012_name">
+		<text>Esconderijo secreto</text>
+	</string>
+	<string id="val_secret_0013_description">
+		<text>Tudo que roubei do Borov eu escondi em um cofre embaixo do pinheiro. Agora tenho que esperar enquanto eles terminam de surtar.</text>
+	</string>
+	<string id="val_secret_0013_name">
+		<text>Cofre escondido</text>
+	</string>
+	<string id="val_secret_0014_description">
+		<text>O quartel-general temporario fica no vago de trem, assim como o bau com os suprimentos</text>
+	</string>
+	<string id="val_secret_0014_name">
+		<text>Armazem no vago de trem</text>
+	</string>
+	<string id="val_secret_0015_description">
+		<text>Mal consegui entrar no cano embaixo da estrada. Agora tenho um lugar pra esconder minha mochila</text>
+	</string>
+	<string id="val_secret_0015_name">
+		<text>Lugar secreto no cano</text>
+	</string>
+	<string id="val_secret_0016_description">
+		<text>Joguei as coisas no bau - vou pegar depois</text>
+	</string>
+	<string id="val_secret_0016_name">
+		<text>Bau com coisas</text>
+	</string>
+	<string id="val_secret_0017_description">
+		<text>Estou escondendo as coisas boas atras do cano - e dificil de chegar, mas pelo menos nao vao levar</text>
+	</string>
+	<string id="val_secret_0017_name">
+		<text>Esconderijo secreto atras do cano</text>
+	</string>
+	<string id="val_secret_0018_description">
+		<text>Encontrei alguns cartuchos na sala de eletricidade</text>
+	</string>
+	<string id="val_secret_0018_name">
+		<text>Esconderijo secreto na sala de eletricidade</text>
+	</string>
+	<string id="val_secret_0019_description">
+		<text>Deixamos tudo que encontramos no bau, vamos pegar quando voltarmos</text>
+	</string>
+	<string id="val_secret_0019_name">
+		<text>Esconderijo secreto no bau</text>
+	</string>
+	<string id="val_secret_0020_description">
+		<text>Escondi a mochila do novato, e ele nunca encontrou</text>
+	</string>
+	<string id="val_secret_0020_name">
+		<text>Mochila escondida</text>
+	</string>
+	<string id="val_secret_0021_description">
+		<text>O bau foi deixado na van - precisa ser pego</text>
+	</string>
+	<string id="val_secret_0021_name">
+		<text>Bau esquecido</text>
+	</string>
+	<string id="val_secret_0022_description">
+		<text>Encontrei um cofre no posto de gasolina e escondi minhas coisas la. Parece que ninguem vai la.</text>
+	</string>
+	<string id="val_secret_0022_name">
+		<text>Cofre no posto de gasolina</text>
+	</string>
+	<string id="val_secret_0023_description">
+		<text>Arrastei o bau pra cima da cisterna</text>
+	</string>
+	<string id="val_secret_0023_name">
+		<text>Bau</text>
+	</string>
+	<string id="val_secret_0024_description">
+		<text>Escondi os suprimentos no cofre no posto de gasolina.</text>
+	</string>
+	<string id="val_secret_0024_name">
+		<text>Cofre no posto de gasolina</text>
+	</string>
+	<string id="val_secret_0025_description">
+		<text>Tem um bau no carro no acampamento dos bandidos. Precisamos entrar no carro e dar uma olhada - sinto que tem algo la</text>
+	</string>
+	<string id="val_secret_0025_name">
+		<text>Bau no carro</text>
+	</string>
+	<string id="val_secret_0026_description">
+		<text>Coloquei o bau no esconderijo secreto - e um lugar confiavel</text>
+	</string>
+	<string id="val_secret_0026_name">
+		<text>Bau no esconderijo secreto</text>
+	</string>
+	<string id="val_secret_0027_description">
+		<text>Deixei a mochila em um predio abandonado. Bom, ninguem por perto.</text>
+	</string>
+	<string id="val_secret_0027_name">
+		<text>A mochila deixada pra tras</text>
+	</string>
+	<string id="val_secret_0028_description">
+		<text>Vamos guardar as coisas em um cofre em um lugar discreto. Se os soldados nao vierem hoje, vao vir amanha. Nao vao procurar muito, entao as coisas mais valiosas vao ficar pra mim.</text>
+	</string>
+	<string id="val_secret_0028_name">
+		<text>Esconderijo secreto do Borov</text>
+	</string>
+	<string id="val_secret_0029_description">
+		<text>Guardei a mochila perto do predio</text>
+	</string>
+	<string id="val_secret_0029_name">
+		<text>Mochila em um lugar secreto</text>
+	</string>
+	<string id="val_secret_0030_description">
+		<text>Enfiei as coisas boas em um bau discreto. Vou pegar depois</text>
+	</string>
+	<string id="val_secret_0030_name">
+		<text>Bau discreto</text>
+	</string>
+	<string id="val_secret_0031_description">
+		<text>Escondi a mochila embaixo do carro, ninguem vai se dar ao trabalho de olhar la</text>
+	</string>
+	<string id="val_secret_0031_name">
+		<text>Mochila escondida</text>
+	</string>
+	<string id="val_secret_0032_description">
+		<text>Escondi as coisas boas no carro bem debaixo do nariz dos bandidos, nao tive tempo de procurar um lugar melhor</text>
+	</string>
+	<string id="val_secret_0032_name">
+		<text>Esconderijo secreto no carro</text>
+	</string>
+	<string id="x16_secret_0000_description">
+		<text>Rumor diz que tinha um stalker que entrou no Lab X-16 e escondeu suas coisas nas tomadas eletricas no poço do elevador. Quando chegou a hora de pegar, ele nao conseguiu.</text>
+	</string>
+	<string id="x16_secret_0000_name">
+		<text>Coisas nas tomadas eletricas</text>
+	</string>
+	<string id="x16_secret_0001_description">
+		<text>Rumor diz que tinha um stalker que entrou nesse Lab X-16 e morreu na area onde faziam os experimentos, com todas as suas coisas.</text>
+	</string>
+	<string id="x16_secret_0001_name">
+		<text>Mochila do Scout</text>
+	</string>
+	<string id="x18_secret_0000_description">
+		<text>Smoked colocou tudo em um cofre no Lab X-18. Nao e um mal lugar - ninguem tem as chaves do lab. O unico problema e que tem pedras que comecam a voar do nada. Dizem que alguem morreu assim.</text>
+	</string>
+	<string id="x18_secret_0000_name">
+		<text>Esconderijo secreto do Smoked</text>
+	</string>
+	<string id="x18_secret_0001_description">
+        <text>Teve que deixar a mochila</text>
+    </string>
+    <string id="x18_secret_0001_name">
+        <text>A mochila deixada para tras</text>
+    </string>
+    <string id="yan_secret_0000_description">
+        <text>A cruz esta em uma colina, e a mochila esta embaixo dela</text>
+    </string>
+    <string id="yan_secret_0000_name">
+        <text>Esconderijo secreto debaixo da cruz</text>
+    </string>
+    <string id="yan_secret_0001_description">
+        <text>Dizem que ha um cofre semi-enterrado em uma pequena ilha no pantano. Preciso me informar sobre isso</text>
+    </string>
+    <string id="yan_secret_0001_name">
+        <text>Cofre antigo</text>
+    </string>
+    <string id="yan_secret_0002_description">
+        <text>Enfiei os bens em um cano perto do acampamento</text>
+    </string>
+    <string id="yan_secret_0002_name">
+        <text>Cano com bens</text>
+    </string>
+    <string id="yan_secret_0003_description">
+        <text>Escondi os bens atras das garagens</text>
+    </string>
+    <string id="yan_secret_0003_name">
+        <text>Mochila atras das garagens</text>
+    </string>
+    <string id="yan_secret_0004_description">
+        <text>Escondi a mochila em uma cabine, logo atras da sucata de ferro</text>
+    </string>
+    <string id="yan_secret_0004_name">
+        <text>Mochila com o saque</text>
+    </string>
+    <string id="yan_secret_0005_description">
+        <text>Coloquei o bau no onibus - parece imperceptivel</text>
+    </string>
+    <string id="yan_secret_0005_name">
+        <text>Esconderijo secreto no onibus</text>
+    </string>
+    <string id="yan_secret_0006_description">
+        <text>O saque esta escondido no carro nao muito longe do territorio. A radiacao nao e muito alta.</text>
+    </string>
+    <string id="yan_secret_0006_name">
+        <text>O saque esta no carro</text>
+    </string>
+    <string id="yan_secret_0007_description">
+        <text>Dizem que ha bens de alguem la, mas eles nao conseguem chegar la por causa da radiacao.</text>
+    </string>
+    <string id="yan_secret_0007_name">
+        <text>Mochila antiga</text>
+    </string>
+    <string id="yan_secret_0008_description">
+        <text>Dizem que aqui ha um esconderijo secreto de algum grupo. Eu so me pergunto como eles chegaram aqui com a radiacao?</text>
+    </string>
+    <string id="yan_secret_0008_name">
+        <text>Esconderijo secreto de um grupo</text>
+    </string>
+    <string id="yan_secret_0009_description">
+        <text>Outro voluntario stalker morreu porque outro prototipo nao o protegeu da radiacao. Ele so chegou ao meio do territorio, e ficou la. Saharov quer fazer medicoes mais precisas, mas eu nao vou, senao vou acabar ficando la tambem, nao muito longe do territorio.</text>
+    </string>
+    <string id="yan_secret_0009_name">
+        <text>Mochila do testador</text>
+    </string>
+    <string id="yan_secret_0010_description">
+        <text>Dizem que ha bens de alguem la, mas nao ha como chegar la por causa da radiacao.</text>
+    </string>
+    <string id="yan_secret_0010_name">
+        <text>Esconderijo secreto antigo</text>
+    </string>
+    <string id="yan_secret_0011_description">
+        <text>Preciso ir embora. Saharov e Kruglov sao psicopatas totais - eles querem que eu va com algum stalker para o centro da radiacao. Que se danem, assim que eu reunir todos os suprimentos no bueiro, vou embora.</text>
+    </string>
+    <string id="yan_secret_0011_name">
+        <text>Esconderijo secreto do cientista</text>
+    </string>
+    <string id="yan_secret_0012_description">
+        <text>Enfiei os bens em um tronco, nao acho que eles vao encontrar.</text>
+    </string>
+    <string id="yan_secret_0012_name">
+        <text>Tesouro em um tronco</text>
+    </string>
+    <string id="yan_secret_0013_description">
+        <text>Dizem que ha um cofre de alguem aqui, mas nao ha como chegar la por causa da radiacao.</text>
+    </string>
+    <string id="yan_secret_0013_name">
+        <text>Bau com bens</text>
+    </string>
+    <string id="st_found_new_treasure">
+        <text>Informacoes sobre esconderijo</text>
+    </string>
+</string_table>
