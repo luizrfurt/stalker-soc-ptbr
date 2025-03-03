@@ -1,0 +1,63 @@
+	<string id="gar_seryi_info">
+		<text>Mole e Co. desenterraram o esconderijo de Strelok no Instituto de Pesquisa Agroprom, nao muito longe da fabrica abandonada. Por que voce nao vai la e descobre o que esta acontecendo? Afinal, ele nos convidou para participar da busca.</text>
+	</string>
+	<string id="memuars">
+		<text>Nota pessoal</text>
+	</string>
+	<string id="sl_beginning">
+		<text>Quem sou eu?</text>
+	</string>
+	<string id="sl_beginning_text">
+		<text>Droga, tudo esta embacado agora... Lembro de um carro... Me levaram para algum lugar por muito tempo e meu corpo todo doia... Havia escuridao... O que aconteceu antes disso? Nao tenho ideia... Tanta confusao... Agora esse gordo me chama de Marcado, provavelmente por causa da tatuagem estranha no meu braco, e depois tem essa missao esquisita de matar um cara chamado Strelok no meu PDA... Sera que esse PDA e mesmo meu? Olhando para a foto de Strelok, nao tenho certeza se o conhecia ou nao... Droga! Tudo isso parece um pesadelo ruim do qual nao se pode acordar! O que fazer? Onde ir? E o pior de tudo: quem sou eu? Ok, ok, calma, controle-se. A primeira coisa que vou fazer e realizar alguns trabalhos para esse Sidorovich. Ele diz que me salvou a vida, afinal... Nao deve ser tao ruim. Vou dar uma caminhada, me acalmar e talvez minha cabeca fique mais clara.</text>
+	</string>
+	<string id="sl_first_deep_raid">
+		<text>A primeira expedicao profunda</text>
+	</string>
+	<string id="sl_first_deep_raid_text">
+		<text>Entao, estou indo na minha primeira expedicao profunda na Zona. O alvo e o Instituto de Pesquisa Agroprom. Preciso recuperar alguns documentos pertencentes a uma expedicao militar. Alem da missao, o Comerciante me deu algumas informacoes sobre uma area ao norte, a caminho do centro da Zona, onde os "cerebros ferveriam"... Provavelmente mais uma lenda do que um fato, mas como tem claramente algo de errado com a minha cabeca, provavelmente eu deveria dar uma olhada e conversar com algumas pessoas. Nao se sabe, talvez eu ja tenha estado la antes... Alem disso, o Comerciante me disse que Strelok descobriu um jeito de passar por essa area e os Comerciantes querem saber como. Seus motivos sao claros - eles querem acessar campos de artefatos intocados. Bem, eu vou ajudar, eu acho.</text>
+	</string>
+	<string id="sl_first_opinions">
+		<text>Primeiras impressoes</text>
+	</string>
+	<string id="sl_first_opinions_text">
+		<text>Bem, bem... Respirei um pouco de ar fresco, vi a fauna local... Curiosamente parece que eu ja lembrava de parte disso, mas tudo esta embacado... Tive a chance de experimentar a "diversao" local chamada de anomalias... Judgando pelo fato de eu ter sobrevivido, provavelmente eu ja passei por elas antes, mas meu cerebro se recusa teimosamente a lembrar... Sidorovich e um filho da mae esperto - ele sabe que pode me usar quase de graca e e exatamente isso que ele quer fazer. Mesmo assim, talvez ele me ajude a encontrar esse tal Strelok... Ele e minha unica ligacao com o meu passado.</text>
+	</string>
+	<string id="sl_fox_meet">
+		<text>Encontrando Fox</text>
+	</string>
+	<string id="sl_fox_meet_text">
+		<text>Encontrei Fox. E como sempre, e aquela velha historia de mas e boas noticias. A ma noticia e que ele sabe pouco sobre Strelok. A boa noticia e que o irmao dele, chamado Seriy, sabe mais. Parece que Seriy esta em um hangar a cerca de 2 quilometros daqui, em um lixao cheio de residuos radioativos. Minha tarefa esta clara: chegar la antes que ele saia.</text>
+	</string>
+	<string id="sl_monolith_off">
+		<text>Desligar o Monolito</text>
+	</string>
+	<string id="sl_monolith_off_text">
+		<text>Estou a um passo das pessoas que criaram essa maldita rede de unidades psi por toda a Zona. O Monolito parece ser apenas mais um zumbificador, com a excecao de que alguem teve o cuidado de instalar um holograma em forma de um enorme cristal dentro do sarcofago. Quando os "felizes" se aproximam, ele bagunca os cerebros. Talvez ate faca eles acreditarem que seus desejos se realizaram, quem sabe? Eu ja fui afetado por essa merda? Nao sei, mas quem quer que esteja por tras disso logo vai responder minhas perguntas. Eles ate me convidaram... Bem, la vou eu, seus filhos da mae!</text>
+	</string>
+	<string id="sl_provodnik">
+		<text>Guide</text>
+	</string>
+	<string id="sl_provodnik_text">
+		<text>Guide disse que o Doctor acha que esta sendo seguido e vai ficar no antigo esconderijo de Strelok. Bem, acho que vou ter que dar uma passada por la.</text>
+	</string>
+	<string id="sl_seryi_meet">
+		<text>Encontrando Seriy</text>
+	</string>
+	<string id="sl_seryi_meet_text">
+		<text>Minhas esperancas de aprender algo sobre Strelok devem ser adiadas por mais um tempo: Seriy me mandou encontrar um Stalker chamado Mole, que aparentemente sabe a localizacao do esconderijo secreto de Strelok... Nao muito, mas se ele estiver certo, pelo menos terei algo... Quem sabe, talvez eu aprenda algo util la.</text>
+	</string>
+	<string id="sl_usefull_info">
+		<text>A informacao util do Comerciante</text>
+	</string>
+	<string id="sl_usefull_info_text">
+		<text>Hmm... O Comerciante nao me deixou na mao e eu sou grato a ele - ele me deu uma ajuda na minha busca por Strelok. Aparentemente, um Stalker chamado Fox apareceu por aqui perto e esta pedindo ajuda. Sidorovich acha que Fox pode conhecer Strelok.</text>
+	</string>
+	<string id="sl_wishmaster_legend">
+		<text>A lenda da maquina que realiza desejos</text>
+	</string>
+	<string id="sl_wishmaster_legend_text">
+		<text>Um pouco do folclore local que eu peguei: Reza a lenda que existe uma maquina que realiza desejos bem no fundo da Zona... A localizacao exata e desconhecida, mas esta em algum lugar no centro. Aparentemente, tudo que voce precisa fazer e chegar la e... de repente sua vida se torna muito, muito mais facil. Hmm... Que tal encontra-la e dizer "Quero lembrar de tudo sobre o meu passado!" Mas, e se eu lembrasse de tudo e descobrisse que sou um completo filho da mae? Isso ia ser um saco. Eu me pergunto quantos desejos ela realiza.</text>
+	</string>
+	<string id="storyline_seriy_flash_info">
+		<text>Bruiser escreve para Seriy: Mole e Co. desenterraram o esconderijo de Strelok no Instituto. Descubra o que esta acontecendo. Seriy para Bruiser: Eles vao para o Bar depois de qualquer forma, entao eu vou esperar por eles no caminho no Lixao.</text>
+	</string>

@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="rad_chief_start_dialog_0">
+		<text>Ei!</text>
+	</string>
+	<string id="rad_chief_start_dialog_100">
+		<text>Ei!</text>
+	</string>
+	<string id="rad_find_deputy_dialog_1_0">
+		<text>Cade o dinheiro pela missao?</text>
+	</string>
+	<string id="rad_find_deputy_dialog_1_100">
+		<text>Encontre meu delegado e voce vai ganhar seu dinheiro!</text>
+	</string>
+	<string id="rad_find_deputy_dialog_1_1000">
+		<text>Ok, mas nao minta para mim dessa vez!</text>
+	</string>
+	<string id="rad_find_stalkers_dialog_1_0">
+		<text>Quem e voce?</text>
+	</string>
+	<string id="rad_find_stalkers_dialog_1_10">
+		<text>Leha the Jaw e meu nome! Esses bandidos sao minha equipe!</text>
+	</string>
+	<string id="rad_find_stalkers_dialog_1_100">
+		<text>O que voces estao fazendo aqui?</text>
+	</string>
+	<string id="rad_find_stalkers_dialog_1_20">
+		<text>Meus rapazes e eu estamos descansando! Quando terminarmos, vamos para Prypiat!</text>
+	</string>
+	<string id="rad_find_stalkers_dialog_2_0">
+		<text>O que voce sabe sobre Prypiat?</text>
+	</string>
+	<string id="rad_find_stalkers_dialog_2_10">
+		<text>E uma antiga cidade abandonada da era comunista! Da historia! Acredito que agora esta cheia de monstros e hordas de combatentes Monolith! Ninguem que tenha ido la antes voltou!</text>
+	</string>
+	<string id="rad_find_stalkers_dialog_2_100">
+		<text>Voce acha que e perigoso?</text>
+	</string>
+	<string id="rad_find_stalkers_dialog_2_20">
+		<text>Sem duvida - ninguem nunca voltou de la.</text>
+	</string>
+	<string id="rad_find_stalkers_dialog_3_0">
+		<text>Voce viu algum soldado por aqui?</text>
+	</string>
+	<string id="rad_find_stalkers_dialog_3_10">
+		<text>Nao, faz muito tempo que nao vejo nenhum soldado.</text>
+	</string>
+	<string id="rad_find_stalkers_dialog_3_100">
+		<text>E quanto aos stalkers militares?</text>
+	</string>
+	<string id="rad_find_stalkers_dialog_3_20">
+		<text>Boatos dizem que apareceram perto da Floresta Vermelha, perto das antenas! Quando as desligaram, muitas pessoas foram para a Floresta Vermelha e mais adentro de Prypiat! Estamos aqui ha um dia e nao vimos ninguem. Provavelmente bloquearam a estrada aqui.</text>
+	</string>
+	<string id="rad_find_stalkers_dialog_3_200">
+		<text>Voce acha que o exercito bloqueou a estrada para a Floresta Vermelha?</text>
+	</string>
+	<string id="rad_find_stalkers_dialog_3_30">
+		<text>Nao acho que tenha sido o exercito, nao vejo nenhum ha muito tempo, mas stalkers militares poderiam ter feito isso! Eles nao perdem tempo. Sao do tipo sem frescura, trabalham rapido e eficientemente, em equipe ou sozinhos... e estranho que nao tenham bloqueado a estrada aqui antes.</text>
+	</string>
+	<string id="rad_find_stalkers_dialog_3_300">
+		<text>Por que eles nao foram para Prypiat ou bloquearam a estrada la?</text>
+	</string>
+	<string id="rad_find_stalkers_dialog_3_40">
+		<text>Nao sei. Talvez eles tenham medo ou estejam se preparando para algo. So posso imaginar.</text>
+	</string>
+	<string id="rad_find_stalkers_dialog_4_0">
+		<text>Talvez voce tenha uma missao para mim?</text>
+	</string>
+	<string id="rad_find_stalkers_dialog_4_10">
+		<text>Bem, eu tenho uma, mas nao e facil... vai fazer isso?</text>
+	</string>
+	<string id="rad_find_stalkers_dialog_4_100">
+		<text>Dizer que nao e facil nao me assusta!</text>
+	</string>
+	<string id="rad_find_stalkers_dialog_4_101">
+		<text>Nao, de jeito nenhum. Nao tenho tempo!</text>
+	</string>
+	<string id="rad_find_stalkers_dialog_4_11">
+		<text>Eu entendo. Eu tambem estou com medo... preferiria gastar algum dinheiro em vez de mandar meus caras ou ir eu mesmo.</text>
+	</string>
+	<string id="rad_find_stalkers_dialog_4_20">
+		<text>Bom! A missao e encontrar meus scouts, Crowbar e Log! Eles foram para Prypiat, pois decidi nao me apressar e enviei meus melhores homens em vez disso! Encontre-os vivos e traga-os de volta. Se estiverem mortos, traga-me suas armas! Faça isso por mim e voce ganhara 2000!!!</text>
+	</string>
+	<string id="rad_find_stalkers_dialog_4_200">
+		<text>Ok, fechado!</text>
+	</string>
+	<string id="rad_find_stalkers_dialog_4_201">
+		<text>Nao o suficiente. Que tal 4000 e fechamos o negocio?</text>
+	</string>
+	<string id="rad_find_stalkers_dialog_4_21">
+		<text>Isso e tudo que posso oferecer por este trabalho!</text>
+	</string>
+	<string id="rad_find_stalkers_dialog_4_30">
+		<text>Ok, vou esperar voce aqui!</text>
+	</string>
+	<string id="rad_found_deputy_dialog_1_0">
+		<text>Missao cumprida!</text>
+	</string>
+	<string id="rad_found_deputy_dialog_1_100">
+		<text>Otimo, me de o PDA dele!</text>
+	</string>
+	<string id="rad_found_deputy_dialog_1_1000">
+		<text>Aqui. Agora o dinheiro!</text>
+	</string>
+	<string id="rad_found_deputy_dialog_1_1100">
+		<text>Voce esta tentando me enganar. Ele nao tinha nada!</text>
+	</string>
+	<string id="rad_found_deputy_dialog_1_1200">
+		<text>Eu vou te destruir agora mesmo!</text>
+	</string>
+	<string id="rad_found_deputy_dialog_1_1300">
+		<text>Se eu te ver de novo, voce esta morto!</text>
+	</string>
+	<string id="rad_found_deputy_dialog_1_1400">
+		<text>Ok, eu entendo. Boa sorte!</text>
+	</string>
+	<string id="rad_found_deputy_dialog_1_200">
+		<text>Nao posso te dar nada, nao tenho dinheiro. Pode ficar com as coisas dele, se quiser.</text>
+	</string>
+	<string id="rad_found_deputy_dialog_1_300">
+		<text>Nao tenho dinheiro! Vai embora!</text>
+	</string>
+	<string id="rad_found_deputy_dialog_2_0">
+		<text>Nao consegui encontra-lo!</text>
+	</string>
+	<string id="rad_found_deputy_dialog_2_10">
+		<text>Encontre-o rapido se quiser seu dinheiro!</text>
+	</string>
+	<string id="rad_found_stalkers_dialog_1_0">
+		<text>Encontrei seus meninos. Eles morreram, mas aqui estao suas armas!</text>
+	</string>
+	<string id="rad_found_stalkers_dialog_1_100">
+		<text>Obrigado, entao estao mortos. Nao acho que ha motivo para ir a Prypiat agora! Tem um problema, porem - nao tenho seu dinheiro. Meu deputy desapareceu e ele tinha todo o dinheiro!</text>
+	</string>
+	<string id="rad_found_stalkers_dialog_1_1001">
+		<text>Ok, vou encontra-lo! Me diga onde procurar. E nao pense nem por um segundo em tentar me enganar desta vez!!!</text>
+	</string>
+	<string id="rad_found_stalkers_dialog_1_200">
+		<text>Nao acho que ele tenha ido muito longe. Ele deve estar aqui ou aqui, vou marcar no mapa para voce! Quando o encontrar, traga-o ou o PDA dele de volta aqui!</text>
+	</string>
+	<string id="rad_found_stalkers_dialog_1_2000">
+		<text>Ok, espere por mim!!!</text>
+	</string>
+	<string id="rad_found_stalkers_dialog_2_0">
+		<text>Nao consegui encontra-los.</text>
+	</string>
+	<string id="rad_found_stalkers_dialog_2_10">
+		<text>Encontre-os rapido! Nao posso esperar para sempre!!! Boa sorte!</text>
+	</string>
+</string_table>

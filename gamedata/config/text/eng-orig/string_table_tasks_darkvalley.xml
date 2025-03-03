@@ -1,0 +1,72 @@
+	<string id="bar_darklab_documents">
+		<text>Encontre os documentos no laboratorio subterraneo</text>
+	</string>
+	<string id="bar_darklab_documents_1">
+		<text>Pegue a chave para o laboratorio com Borov</text>
+	</string>
+	<string id="bar_darklab_documents_2">
+		<text>Saia da base dos bandidos</text>
+	</string>
+	<string id="bar_darklab_documents_3">
+		<text>Encontre a entrada para o laboratorio</text>
+	</string>
+	<string id="bar_darklab_documents_4">
+		<text>Entre sorrateiramente na base</text>
+	</string>
+	<string id="bar_darklab_documents2">
+		<text>Encontre os documentos no Lab X-18</text>
+	</string>
+	<string id="bar_darklab_documents2_1">
+		<text>Encontre os documentos</text>
+	</string>
+	<string id="bar_darklab_documents2_2">
+		<text>Leve os documentos para o Barkeep</text>
+	</string>
+	<string id="dar_codedoor_1">
+		<text>Encontre a porta com fechadura por codigo</text>
+	</string>
+	<string id="dar_codedoor_1_1">
+		<text>Descubra o codigo que abre a porta</text>
+	</string>
+	<string id="dar_codedoor_1_2">
+		<text>Abra a porta usando o codigo</text>
+	</string>
+	<string id="dar_codedoor_2">
+		<text>Abra a porta para o centro de controle</text>
+	</string>
+	<string id="dar_codedoor_2_1">
+		<text>Descubra o codigo que abre a porta</text>
+	</string>
+	<string id="dar_codedoor_2_2">
+		<text>Abra a porta usando o codigo</text>
+	</string>
+	<string id="val_captive_help">
+		<text>Liberte o Dutyer</text>
+	</string>
+	<string id="val_captive_help_1">
+		<text>Va com Bullet para o local da emboscada</text>
+	</string>
+	<string id="val_captive_help_2">
+		<text>Mate os bandidos e resgate o Dutyer</text>
+	</string>
+	<string id="val_come_to_trader">
+		<text>Volte para o trader</text>
+	</string>
+	<string id="val_come_to_trader_0">
+		<text>Volte para o trader</text>
+	</string>
+	<string id="val_come_to_trader_1">
+		<text>Saia do Vale Sombrio</text>
+	</string>
+	<string id="val_come_to_trader_2">
+		<text>Mostre os documentos para o trader</text>
+	</string>
+	<string id="val_prisoner_help">
+		<text>Liberte o Dutyer da prisao</text>
+	</string>
+	<string id="val_prisoner_help_0">
+		<text>Liberte o Dutyer da prisao dos bandidos</text>
+	</string>
+	<string id="val_prisoner_help_main">
+		<text>Liberte o membro do Duty da prisao dos bandidos</text>
+	</string>

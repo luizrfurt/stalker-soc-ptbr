@@ -1,0 +1,75 @@
+	<string id="bar_darklab_documents_txt">
+		<text>Barkeep: "De acordo com os documentos que voce trouxe do Instituto de Pesquisa Agroprom, as coisas estao comecando a se esclarecer, mas alguns dados estao faltando. Ha evidencias que sugerem a presenca de um Brain Scorcher que bloqueia a estrada pro norte, mas ninguem sabe exatamente o que e isso. Tambem ha mencao do Lab X-18, cuja descricao bate com a de estruturas subterraneas abandonadas no Vale Sombrio. Sua atividade atual e desconhecida e, alem disso, bandidos agora montaram sua base no Vale Sombrio.\n Varios batedores do Duty foram pra la recentemente, mas ate agora nao ha noticias deles.\n Pra entrar no laboratorio, voce vai precisar de duas chaves eletronicas; eu te dou uma, mas a segunda voce vai ter que pegar do Borov, o lider dos bandidos. \n\n Entao, voce precisa pegar a segunda chave do laboratorio com o Borov, depois entrar no laboratorio e pegar os documentos."</text>
+	</string>
+	<string id="bar_darklab_documents2_txt">
+		<text>E necessario encontrar os documentos sobre as pesquisas feitas anteriormente no Lab X-18. Eles podem esclarecer algo sobre o "Brain Scorcher"."</text>
+	</string>
+	<string id="dar_codedoor_1_txt">
+		<text>Um cadeado de combinacao esta bloqueando o caminho pras profundezas do laboratorio. Voce deve encontrar alguem que conheca a combinacao."</text>
+	</string>
+	<string id="dar_codedoor_2_txt">
+		<text>Ha outra porta, e certamente tem algo atras dela. Voce deve descobrir o codigo que abre essa porta."</text>
+	</string>
+	<string id="dar_document1">
+		<text>O inicio do experimento</text>
+	</string>
+	<string id="dar_document2">
+		<text>A segunda etapa do experimento</text>
+	</string>
+	<string id="dar_document3">
+		<text>Relatorio de seguranca</text>
+	</string>
+	<string id="dar_document4">
+		<text>Ataque ao pessoal</text>
+	</string>
+	<string id="dar_document5">
+		<text>A ultima etapa do experimento</text>
+	</string>
+	<string id="documents_1">
+		<text>Ha uma semana foi decidido aumentar a intensidade da radiacao nos sujeitos de teste. Nenhuma mudanca foi detectada nos primeiros dias. Depois de varios dias, estranhas metamorfoses comecaram a ocorrer: perda de cabelo, agressividade aumentada. Varios sujeitos foram literalmente pisoteados por seus pares."</text>
+	</string>
+	<string id="documents_2">
+		<text>A condicao dos sujeitos se estabilizou. A quantidade de cabelo agora e 10% da quantidade original. Suas garras e dentes cresceram consideravelmente. Explosoes de atividade mostram um comportamento aparentemente aleatorio e nao sao dirigidas aos seus pares. O tecnico senior do laboratorio A.N. Burnov especulou que isso pode indicar um aumento no intelecto dos sujeitos. Foi decidido testar a nova modulacao de emissoes psi nos sujeitos."</text>
+	</string>
+	<string id="documents_3">
+		<text>Chefe de seguranca: Ontem o guarda de seguranca G.P. Glebov jogou um pedaco de carne pros sujeitos so por diversao. Eles rasgaram e devoraram em poucos segundos. Depois disso, varios individuos tentaram escapar das celas. Por causa disso, os tecnicos do laboratorio nao conseguiram obter as amostras de teste necessarias. Embora as acoes de G.P. Glebov tenham sido mal pensadas, proponho que o pessoal de manutencao seja equipado com armas de ar comprimido pra protecao adequada em caso de emergencias."</text>
+	</string>
+	<string id="documents_4">
+		<text>Chefe de seguranca: Ontem o experimento quase saiu do controle. Duas duzias de sujeitos de teste escaparam e vandalizaram duas salas do laboratorio. Felizmente, o pessoal de pesquisa conseguiu se trancar no andar de cima. Fomos ordenados a limpar a sala principal do laboratorio. Durante a operacao, tres guardas sofreram mordidas. Espero que eles fiquem bem. Tomara que o experimento acabe logo."</text>
+	</string>
+	<string id="documents_5">
+		<text>Ontem entregamos uma nova modulacao de emissoes psi pros sujeitos de teste. Parecia que os cerebros deles simplesmente foram torrados. Mal posso imaginar como essa emissao afetaria humanos. Testamos todos os tipos de emissao e os resultados coincidem com os obtidos em outros laboratorios. O experimento agora pode ser considerado concluido. Presumivelmente, em uma semana, estaremos prontos pra conduzir o experimento em criaturas maiores."</text>
+	</string>
+	<string id="LabX18 first key">
+		<text>Codigo de acesso nivel 2</text>
+	</string>
+	<string id="LabX18 second key">
+		<text>Codigo de acesso nivel 1</text>
+	</string>
+	<string id="LabX18_information">
+		<text>Informacao do X-18</text>
+	</string>
+	<string id="pass_to_1st_door">
+		<text>Excelente, colega. Fico feliz que voce tenha recebido acesso nivel 2. Finalmente voce vai descobrir o que acontece no nosso laboratorio. Seu codigo de acesso e 1243. Chefe do Laboratorio X-18, Piotr Ilyitch Kalugin."</text>
+	</string>
+	<string id="pass_to_2nd_door">
+		<text>Caro colega, posso lembrar que a partir de amanha voce vai cuidar do container na sala central do laboratorio. Voce deve inspecionar os containers a cada duas horas. Reporte tudo diretamente pra mim. O codigo pra sala central do laboratorio e 9524. Chefe do Laboratorio X-18, Piotr Ilyitch Kalugin."</text>
+	</string>
+	<string id="sl_x18_dream_name">
+		<text>Um sonho estranho</text>
+	</string>
+	<string id="sl_x18_dream_text">
+		<text>Tive um sonho estranho. A colossal usina de Chernobyl surge no crepusculo. Tudo parece pacifico. Um homem solitario aparece. Eu o vejo de costas contra o fundo da usina. O vento comeca a soprar. De repente, hordas de ratos comecam a fugir da estacao em todas as direcoes. O homem, ainda de costas pra mim, atira nos ratos. Ha um grito repentino: "Strelok!". O homem estremece, fica parado por um momento, entao comeca a se virar lentamente na minha direcao, mas... um instante antes de eu conseguir ver seu rosto, eu acordo. O que esse sonho significa? Nao sei, mas acho que e algo que ja vi antes."</text>
+	</string>
+	<string id="val_captive_help_txt">
+		<text>O membro do Duty Bullet quer que eu resgate seu parceiro que foi capturado por bandidos. Ele logo vai ser escoltado pra fabrica abandonada."</text>
+	</string>
+	<string id="val_prisoner_help_art_txt">
+		<text>Dutyer: "Eles tem outro dos nossos: Serega. Estao mantendo ele no porao... tem um predio grande la... nao terminado... Ajude ele, ta? Senao eles vao acabar com ele tambem..."</text>
+	</string>
+	<string id="val_x18_conclusion">
+		<text>Lab X-18</text>
+	</string>
+	<string id="val_x18_conclusion_txt">
+		<text>Inferno... Lab X-18 nao foi divertido... e seus moradores atuais... eu nao achava que coisas assim existiam. Encontrei alguns documentos... nao entendi muito do que estava escrito la exceto que continham especificacoes tecnicas de alguns componentes pra emissores Kaimanov. O interessante e que as pecas eram destinadas pra outro laboratorio com o codinome X-16 e provavelmente e secreto tambem."</text>
+	</string>

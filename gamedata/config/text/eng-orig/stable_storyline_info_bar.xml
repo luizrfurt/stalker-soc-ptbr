@@ -1,0 +1,51 @@
+	<string id="descr_bar_crazy_veterans_quest">
+		<text>Barkeep: "Duty tem uma reputacao a manter. Por isso eles querem que isso seja feito em silencio. Tudo que voce precisa fazer e eliminar o lider chamado Lucky e trazer o PDA dele como prova."</text>
+	</string>
+	<string id="descr_bar_dolg_community_quest">
+		<text>Para se juntar ao Duty, voce vai precisar da aprovacao de um dos lutadores mais respeitados do grupo e tambem provar ao lider do Duty que voce e digno de um lugar nas fileiras deles.</text>
+	</string>
+	<string id="descr_bar_dolg_svoboda_ambush_quest">
+		<text>Barkeep: "Sua missao e matar Tyran, o lider dos Mercs. A equipe dele chegou ao Territorio Selvagem e montou uma base no canteiro de obras. Cuidado, alguns dos lutadores deles montaram emboscadas no caminho ate o local. Traga o PDA do Tyran e a recompensa e sua."</text>
+	</string>
+	<string id="descr_bar_dolg_svoboda_leader_kill_quest">
+		<text>General Voronin: "A guerra com o Freedom esta chegando ao fim, Marcado. Voce fez sua parte lutando pela causa! Agora eu quero terminar essa guerra. O lider do Freedom deve ser eliminado."</text>
+	</string>
+	<string id="descr_bar_dolg_test_quest">
+		<text>Capitao Ivantsov: "...antes de chegarmos as conclusoes, passe por um teste facil. Voce tem que pegar uma pasta no edificio abandonado do outro lado. Nao e dificil, so entre, pegue a pasta e traga pra mim. Moleza, ne? Quando eu tiver a pasta, vamos decidir se voce e apto pra se juntar ao Duty ou nao."</text>
+	</string>
+	<string id="descr_bar_hunter_rifle">
+		<text>Hunter: "Traga meu rifle de volta. Eu perdi ele perto do lugar onde vivem os Sanguessugas. Vou te passar as coordenadas. E cuidado, esses desgracados nao sao brincadeira."</text>
+	</string>
+	<string id="descr_bar_kill_professor">
+		<text>Wolfhound: "Estamos com uma pequena caca rolando aqui. Encurralamos os cientistas ali atras do helicoptero. Meus caras tao dando uns tiros de vez em quando pra garantir que eles nao escapem. Junta-se a nos, vamos entrar e acabar com eles. Se voce ajudar, te dou o traje dos cientistas... achamos ele no helicoptero que derrubamos. Seu alvo e o professor Kruglov. Mate ele ou ele vai fugir durante o tiroteio, conheco o tipo dele. Se voce matar ele, o traje e seu, se nao, voce nao leva nada."</text>
+	</string>
+	<string id="descr_bar_radar_deactivate">
+		<text>Barkeep: "Voce tem o prototipo de protecao pra se proteger do Brain Scorcher, eu sei as coordenadas de um bunker. Nao esqueca que o prototipo nao protege contra a emissao pra sempre, entao voce tem que chegar ao bunker embaixo das antenas e desligar o Scorcher. Tudo que voce precisa fazer e chegar nas antenas e desliga-las."</text>
+	</string>
+	<string id="descr_bar_resque_information">
+		<text>Kruglov: "Stalker, ajuda! Fomos atacados pelos Mercs e metade do nosso time esta morto. Ajude-nos e voce nao vai se arrepender"\n \n "...cuidado, tem uns quinze deles, mas nao sabemos ao certo"</text>
+	</string>
+	<string id="descr_bar_resque_information_2">
+		<text>Kruglov: "Estavamos voltando de Yantar quando os Mercs nos derrubaram. As pessoas dizem que eles querem informacoes, mas eu sei mais - eles vao matar todos nos. Me leve pra Yantar e eu te conto o que sei sobre o Brain Scorcher, e o Barkeep vai te pagar bem por isso. Eu sou um pessimo guerreiro, mas conheco o caminho, entao eu guio e voce nos cobre no trajeto."</text>
+	</string>
+	<string id="descr_bar_x16_documents">
+		<text>Barkeep: "Voce precisa chegar ate os cientistas e descobrir onde fica o Lab X-16 pra encontrar os documentos perdidos."</text>
+	</string>
+	<string id="journal_after_agroprom_documents">
+		<text>Eu olhei os documentos encontrados no Instituto de Pesquisa Agroprom. Parece que o Instituto foi usado como fachada pra um laboratorio nao oficial chamado Lab X-18 nos anos antes do acidente. Esse laboratorio abrigou varios experimentos bem estranhos; a localizacao dele nao esta clara nos documentos e os militares parecem nao saber de nada sobre isso tambem. Bem, bem... a trama engrossa... Mas talvez esse seja o ponto de partida que os Comerciantes precisam. Agora eu tenho que viajar mais pro norte ate um Comerciante conhecido como Barkeep."</text>
+	</string>
+	<string id="journal_bar_darklab_documents">
+		<text>Inferno... Lab X-18 nao foi divertido... e os moradores atuais... eu nao achava que coisas assim existiam. Encontrei alguns documentos... nao entendi muito do que estava escrito la exceto que continham especificacoes tecnicas de alguns componentes pra emissores Kaimanov. O interessante e que as pecas eram destinadas a outro laboratorio com o codinome X-16 e provavelmente e secreto tambem."</text>
+	</string>
+	<string id="journal_bar_x16_documents">
+		<text>Hmm... Os Comerciantes desenterraram muita informacao sobre esses laboratorios. O Barkeep nao ficou surpreso ao saber dos emissores e do X-16. Agora ele esta convencido que esse Brain Scorcher e feito pelo homem. Ele acha que o Lab X-16 fica perto do acampamento dos cientistas no Lake Yantar. E interessante que eles estao estudando emissoes que parecem com os efeitos do Scorcher. Entao agora eu tenho que fazer uma visita pra comunidade cientifica da Zone."</text>
+	</string>
+	<string id="journal_before_darklab_documents">
+		<text>Eu me encontrei com o Barkeep. Tendo olhado os documentos do Instituto, ele acha que esse X-18 fica no chamado Vale Sombrio e me pediu pra ir la procurar informacoes e documentos. Ele diz que mandou batedores do Duty pra entrar nos cofres subterraneos la, mas eles sumiram. O Barkeep acha que eles foram capturados por bandidos que tem uma base por perto. Se isso for verdade, tudo que os caras do Duty encontraram vai estar nas maos do Borov, o lider dos bandidos. O Barkeep me disse pra tomar cuidado e... claramente nao me contou tudo sobre esses cofres subterraneos. Bem, hora de trabalhar: primeiro eu preciso fazer uma visita ao Borov e, se a "conversa" correr bem, vou explorar o subterraneo."</text>
+	</string>
+	<string id="journal_before_radar_task">
+		<text>Bem, eu estou pronto pra ir pro Scorcher. Descobri com o Crazy os horarios em que os niveis de emissao diminuem. Ele tambem me falou de um lugar seguro onde eu posso esperar esses periodos. Minha protecao psi nao vai funcionar em outros horarios mesmo. Vou ter que encontrar um jeito de entrar no bunker subterraneo do Lab X19. La dentro eu devo encontrar os controles das antenas do Brain Scorcher."</text>
+	</string>
+	<string id="st_gordon_diary">
+		<text>PDA do Gordon</text>
+	</string>

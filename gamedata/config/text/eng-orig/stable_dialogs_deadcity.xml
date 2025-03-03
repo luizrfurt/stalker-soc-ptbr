@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="cit_doctor_escape_dialog_0">
+		<text>Eu preciso de respostas para varias perguntas.</text>
+	</string>
+	<string id="cit_doctor_escape_dialog_1">
+		<text>Pergunte, vou tentar ajudar.</text>
+	</string>
+	<string id="cit_doctor_escape_dialog_11">
+		<text>Onde estao minhas coisas?</text>
+	</string>
+	<string id="cit_doctor_escape_dialog_111">
+		<text>O lider geralmente fica com todas as coisas confiscadas. O quarto dele e no topo do predio. Minhas coisas foram levadas para la quando me pegaram.</text>
+	</string>
+	<string id="cit_doctor_escape_dialog_1111">
+		<text>Obrigado!</text>
+	</string>
+	<string id="cit_doctor_escape_dialog_12">
+		<text>Como eu posso sair daqui?</text>
+	</string>
+	<string id="cit_doctor_escape_dialog_121">
+		<text>Quando me estavam levando eu notei uma grade de esgoto embaixo das escadas no primeiro andar... Se voce conseguir abrir a cela, seria possivel sair daqui usando esse esgoto... O melhor e ir para o Oeste e depois voce pode usar o tunel para chegar ate Freedom.</text>
+	</string>
+	<string id="cit_doctor_escape_dialog_1211">
+		<text>Obrigado pela informacao.</text>
+	</string>
+	<string id="cit_doctor_escape_dialog_14">
+		<text>Quem nos capturou?</text>
+	</string>
+	<string id="cit_doctor_escape_dialog_141">
+		<text>Nos estamos sendo mantidos pelos Mercs. Ninguem sabe realmente quem sao, mas ha rumores de que eles trabalham com servicos de inteligencia estrangeiros. A localizacao dessa base e top secret - ninguem sabe como entrar na Cidade Morta. Muitas pessoas estao muito interessadas nessa informacao, especialmente Freedom e Duty.</text>
+	</string>
+	<string id="cit_doctor_escape_dialog_1411">
+		<text>Continue.</text>
+	</string>
+	<string id="cit_doctor_escape_dialog_14111">
+		<text>Se voce conseguir um mapa da Cidade Morta, um assalto bem-sucedido sera possivel. Os Mercs ou os bandidos provavelmente tem um. Voce poderia tentar pega-lo.</text>
+	</string>
+	<string id="cit_doctor_escape_dialog_141111">
+		<text>Obrigado pela informacao.</text>
+	</string>
+	<string id="cit_doctor_escape_dialog_15">
+		<text>O que voce sabe sobre esse lugar?</text>
+	</string>
+	<string id="cit_doctor_escape_dialog_151">
+		<text>A cidade esta dividida em duas secoes. Estamos no lado dos Mercs. Ao Sul, alem da praca, estao os bandidos. Eles estao escondidos no predio da escola ao sudoeste da cidade. Entre as bases, ha um predio de cinco andares em ruinas e alguns predios relativamente intactos. Se a coisa apertar, voce pode se esconder la. Ha tambem algumas garagens e umas pequenas casas na area. Ha alguns predios de cinco andares e uma duzia de garagens no lado dos bandidos tambem. O antigo predio da prefeitura esta do outro lado da praca.</text>
+	</string>
+	<string id="cit_doctor_escape_dialog_1511">
+		<text>Obrigado pela informacao.</text>
+	</string>
+	<string id="cit_doctor_escape_dialog_16">
+		<text>Quem esta no comando aqui?</text>
+	</string>
+	<string id="cit_doctor_escape_dialog_161">
+		<text>Um cara realmente malvado chamado Dushman. Eu vi ele carregando uma pasta com alguns documentos algumas vezes. Eu acho que ha algo interessante dentro.</text>
+	</string>
+	<string id="cit_doctor_escape_dialog_1611">
+		<text>Obrigado pela informacao.</text>
+	</string>
+	<string id="cit_doctor_escape_dialog_17">
+		<text>Nada, nada.</text>
+	</string>
+	<string id="cit_doctor_hello_dialog_11">
+		<text>Strelok! Onde diabos voce esteve??? Eu nao vi voce nem os outros desde o ultimo ataque! Eu estava preocupado!</text>
+	</string>
+	<string id="cit_doctor_hello_dialog_21">
+		<text>Entao, voce esta se sentindo melhor? Pensando claramente?</text>
+	</string>
+	<string id="cit_doctor_main_dialog_0">
+		<text>Strelok???</text>
+	</string>
+	<string id="cit_doctor_main_dialog_1">
+		<text>Sim, voce e Strelok! Quem mais seria? Eu sou o Doc, voce nao me reconhece? O que aconteceu com voce, amigo? Voce nao parece bem. Fomos para a Zona juntos por 2 anos. Voce realmente nao lembra de mim?</text>
+	</string>
+	<string id="cit_doctor_main_dialog_11">
+		<text>Nao, eu nao lembro.</text>
+	</string>
+	<string id="cit_doctor_main_dialog_2">
+		<text>Voce nao lembra??? Strelok, o que...? Voce nao esta brincando, esta? Cara... E os outros, nossos amigos? Fang, Ghost? Voce lembra deles, nao lembra?</text>
+	</string>
+	<string id="cit_doctor_main_dialog_21">
+		<text>Eu nao lembro do Fang, e o Ghost esta morto - eu encontrei o corpo dele em Yantar.</text>
+	</string>
+	<string id="cit_doctor_main_dialog_3">
+		<text>Ghost!!?!?! Morto??!!! Droga, como isso aconteceu?! Eles... eles eram os melhores. O que aconteceu com voce?</text>
+	</string>
+	<string id="cit_doctor_main_dialog_31">
+		<text>Eu nao sei o que aconteceu, eu nao lembro.</text>
+	</string>
+	<string id="cit_doctor_main_dialog_4">
+		<text>Espera, eu preciso me acalmar. Essa e uma noticia ruim, cara. Eu acho que tudo isso tem a ver com sua ultima viagem para a Zona. Quando nos vimos pela ultima vez, voce me deixou a chave do esconderijo em Prypiat e o mapa de como encontra-lo. Eu consegui manter isso - escondi dos Mercs. Aqui, pegue, esconda bem. Talvez voce encontre algo la. Voce estava dizendo que ha algum truque com o Monolith. Mas eu nao entendo o que era isso, e voce tambem nao.</text>
+	</string>
+	<string id="cit_doctor_main_dialog_41">
+		<text>Entendi. Onde estamos? Eu nao lembro como cheguei aqui.</text>
+	</string>
+	<string id="cit_doctor_main_dialog_5">
+		<text>Estamos na Cidade Morta! No acampamento dos Mercs.</text>
+	</string>
+	<string id="cit_doctor_main_dialog_6">
+		<text>Estamos na Cidade Morta!.. No acampamento dos Mercs...</text>
+	</string>
+	<string id="quest_cit_reward_0">
+		<text>A proposito, eu tenho informacoes sobre os Mercs. Interessado?</text>
+	</string>
+	<string id="quest_cit_reward_1">
+		<text>Depende das informacoes.</text>
+	</string>
+	<string id="quest_cit_reward_11">
+		<text>Eu tenho um mapa que detalha a localizacao da base deles, postos de guarda, a maneira de entrar sem ser notado e muito mais.</text>
+	</string>
+	<string id="quest_cit_reward_111">
+		<text>Parece valioso. Eu vou te dar 3000 por isso.</text>
+	</string>
+	<string id="quest_cit_reward_1111">
+		<text>Fechado. Aqui.</text>
+	</string>
+	<string id="quest_cit_reward_11111">
+		<text>Otimo! Aqui esta sua recompensa. Logo os stalkers vao discutir se os Mercs realmente existiram!</text>
+	</string>
+	<string id="quest_cit_reward_1112">
+		<text>Nao, isso nao e o suficiente.</text>
+	</string>
+	<string id="quest_cit_reward_11121">
+		<text>Como desejar, eu nao vou te dar mais nada.</text>
+	</string>
+	<string id="quest_cit_reward_13">
+		<text>Nada de interessante. So os mesmos boatos. Desculpe.</text>
+	</string>
+	<string id="quest_cit_reward_131">
+		<text>Se voce descobrir algo mais especifico, volte aqui. Eu vou te pagar.</text>
+	</string>
+</string_table>
