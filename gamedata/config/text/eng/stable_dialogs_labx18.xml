@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="dar_explorer_dialog_1">
+		<text>Estou em uma missao.</text>
+	</string>
+	<string id="dar_explorer_dialog_11">
+		<text>Hmm. Que tipo de missao? Voce esta procurando por algo? Ou ja encontrou? Ouvi dizer que ha muitas coisas boas por aqui...</text>
+	</string>
+	<string id="dar_explorer_dialog_111">
+		<text>Desculpe, nao posso te dizer e de qualquer forma nao tenho tempo.</text>
+	</string>
+	<string id="dar_explorer_dialog_1111">
+		<text>Espera, nao corra ainda. Voce tera tempo para isso... O que voce encontrou? Eu mesmo nao estou aqui a toa, sabe.</text>
+	</string>
+	<string id="dar_explorer_dialog_11111">
+		<text>O que eu encontrei e da minha conta.</text>
+	</string>
+	<string id="dar_explorer_dialog_11112">
+		<text>Encontrei alguns documentos do X18. O Barkeep prometeu me pagar bem por eles.</text>
+	</string>
+	<string id="dar_explorer_dialog_112">
+		<text>Nao, nao encontrei nada.</text>
+	</string>
+	<string id="dar_explorer_dialog_2">
+		<text>Nem sei como acabei aqui. Adoraria sair o mais rapido possivel.</text>
+	</string>
+	<string id="dar_explorer_dialog_21">
+		<text>Voce nao encontrou nada de interessante aqui, nao e? Dizem que ha algumas informacoes sobre experimentos cientificos. Elas valem um bom dinheiro...</text>
+	</string>
+	<string id="dar_explorer_dialog_211">
+		<text>Nao, nao encontrei.</text>
+	</string>
+	<string id="dar_explorer_dialog_2111">
+		<text>Eh?.. E se voce pensar bem sobre isso? Esta escondendo algo de mim?</text>
+	</string>
+	<string id="dar_explorer_dialog_21111">
+		<text>Nao.</text>
+	</string>
+	<string id="dar_explorer_dialog_21112">
+		<text>Que tipo de pergunta e essa?</text>
+	</string>
+	<string id="dar_explorer_dialog_21113">
+		<text>Voce esta me ameaçando?</text>
+	</string>
+	<string id="dar_explorer_dialog_212">
+		<text>Que se dane todas essas informacoes. Eu mal estou conseguindo ficar vivo aqui.</text>
+	</string>
+	<string id="dar_explorer_dialog_2121">
+		<text>Certinho, entao pode ir. Se encontrar algo, estarei por aqui...</text>
+	</string>
+	<string id="dar_explorer_dialog_25">
+		<text>Escuta, camarada, eu passei por fogo, anomalias e monstros nessa Lixao fedida e como pode ver, ainda estou vivo! Entao nao venha me dizer o que eu posso ou nao posso falar. Eu vim aqui pelos documentos e nao vou sair sem eles. Se estao com voce, aconselho a entregar ou descanse em paz nesse buraco! Entendeu?</text>
+	</string>
+	<string id="dar_explorer_dialog_251">
+		<text>Entendi.</text>
+	</string>
+	<string id="dar_explorer_dialog_2511">
+		<text>Se voce estiver mentindo para mim, esta em uma baita encrenca. Se estiver pensando em me enganar, esta em uma baita encrenca, e se tentar me empurrar alguma porcaria, esta em uma baita encrenca. Na verdade, voce esta tao fundo em encrenca que vai ter que nadar muito para conseguir sair! Agora, deixa eu tentar mais uma vez para os idiotas da assistencia: voce encontrou os documentos?</text>
+	</string>
+	<string id="dar_explorer_dialog_2521">
+		<text>Certo, e da próxima vez, cuide da sua boca. Pode ir agora. Caso encontre algo, estarei por aqui...</text>
+	</string>
+	<string id="dar_explorer_dialog_253">
+		<text>Essa conversa acabou. Sai do meu caminho.</text>
+	</string>
+	<string id="dar_explorer_dialog_26">
+		<text>Nao tenho nenhum documento.</text>
+	</string>
+	<string id="dar_explorer_dialog_271">
+		<text>Isso esta muito melhor, camarada. Agora me entregue todas as informacoes que voce tem, cada detalhezinho ate o ultimo pedaço de papel. E nem pense em tentar me enganar, pois essa piada seria a sua ultima...</text>
+	</string>
+	<string id="dar_explorer_dialog_51">
+		<text>Estou te dizendo, pare! Nao estou perambulando por esse buraco de rato a toa. Pare de brincadeira e me diga o que voce encontrou. A gente poderia até dividir...</text>
+	</string>
+	<string id="dar_explorer_dialog_511">
+		<text>Nao vou dividir nada.</text>
+	</string>
+	<string id="dar_explorer_dialog_5111">
+		<text>Uh-huh, vai embora agora... Tenho um ultimo conselho para voce - cuide dos seus passos, stalker, voce vai precisar disso!</text>
+	</string>
+	<string id="dar_explorer_dialog_512">
+		<text>Voce esta me ameaçando?</text>
+	</string>
+	<string id="dar_explorer_dialog_5121">
+		<text>OK, OK, calma... Assim que eu fico curioso, voce pega sua arma! Sem mais perguntas. So tenha cuidado, e isso tudo.</text>
+	</string>
+	<string id="dar_explorer_dialog_61">
+		<text>Documentos, hein... So pra voce saber, foi exatamente isso que eu vim fazer aqui. E agora voce vai me entregar eles e seguir seu caminho. Entendido?</text>
+	</string>
+	<string id="dar_explorer_dialog_6111">
+		<text>Eu vou oferecer algo</text>
+	</string>
+	<string id="dar_explorer_dialog_6121">
+		<text>Olha, cara, para de mexer com a minha cabeça. Vamos fazer um acordo. Eu te dou uma boa grana - voce nao vai se arrepender.</text>
+	</string>
+	<string id="dar_explorer_dialog_6131">
+		<text>Escuta, minha vida depende desses documentos. Vamos ver o que voce tem - acho que podemos chegar a um acordo...</text>
+	</string>
+	<string id="dar_explorer_dialog_8011">
+		<text>Esta tao escuro aqui, nao consigo ver nada. Carnivais por toda parte... Porque eu aceitei fazer isso?! E voce, como acabou aqui?</text>
+	</string>
+	<string id="dar_explorer_dialog_8021">
+		<text>Continua andando, stalker.</text>
+	</string>
+	<string id="dar_explorer_dialog_8031">
+		<text>Eu odeio quando alguem interrompe quando estou falando. De qualquer forma, eu vim aqui por uns documentos importantes. Se voce encontrou algo, me conta ou vai se dar mal. Se nao encontrou nada, cai fora e para de perder meu tempo.</text>
+	</string>
+	<string id="dar_explorer_dialog_8041">
+		<text>Eu odeio quando alguem interrompe quando estou falando. Me da esses documentos se nao quiser perder sua vida.</text>
+	</string>
+	<string id="dar_explorer_dialog_9">
+		<text>Eu vou lembrar disso.</text>
+	</string>
+</string_table>
