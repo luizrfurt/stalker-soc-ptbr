@@ -370,7 +370,7 @@
         <text>Neutralize o bandido Poker.</text>
     </string>
     <string id="dolg_kill_stalker_1_text">
-        <text>Apelido do sujeito - Poker. Um dos lideres de bandidos mais cruéis, suino e estuprador... Evidentemente, sua cabeca nao esta bem: dizem que ele contraiu uma doenca rara na Zona. Agora ele sofre lapsos de memoria bastante frequentes e, quando recupera a consciencia, nao consegue se lembrar quem e onde esta. No entanto, ele esta sempre armado e muito agressivo. Localizacao presumivel: Vale Sombrio. Pronto para a tarefa?</text>
+        <text>Apelido do sujeito - Poker. Um dos lideres de bandidos mais crueis, suino e estuprador... Evidentemente, sua cabeca nao esta bem: dizem que ele contraiu uma doenca rara na Zona. Agora ele sofre lapsos de memoria bastante frequentes e, quando recupera a consciencia, nao consegue se lembrar quem e onde esta. No entanto, ele esta sempre armado e muito agressivo. Localizacao presumivel: Vale Sombrio. Pronto para a tarefa?</text>
     </string>
     <string id="drunk_dolg_find_item">
         <text>Encontre a arma do Dutyer.</text>
@@ -478,7 +478,7 @@
         <text>Bem, olhe para a Ciencia! Tentando encontrar um segundo cerebro em humanos?.. Pobres caes, um deles tera que ficar sem rabo agora.</text>
     </string>
     <string id="ecolog_monster_part_3_text">
-        <text>Bem-vindo, eh... viajante! Estou muito feliz que voce tenha aparecido: precisamos de um homem para participar de um experimento de grande importancia. Meu colega Brenter quer tentar cozinhar uma refeicao usando a fauna local para um experimento pratico para estudar a influencia da proteina mutante no corpo humano. Para comecar, decidimos experimentar os javalis. Precisamos de presunto. Uma perna de javali, voce entende? E se voce concordar em fazer isso, por favor, selecione o espécime mais saudavel.</text>
+        <text>Bem-vindo, eh... viajante! Estou muito feliz que voce tenha aparecido: precisamos de um homem para participar de um experimento de grande importancia. Meu colega Brenter quer tentar cozinhar uma refeicao usando a fauna local para um experimento pratico para estudar a influencia da proteina mutante no corpo humano. Para comecar, decidimos experimentar os javalis. Precisamos de presunto. Uma perna de javali, voce entende? E se voce concordar em fazer isso, por favor, selecione o especime mais saudavel.</text>
     </string>
     <string id="ecolog_monster_part_4">
         <text>Traga a perna de um javali</text>
@@ -520,7 +520,7 @@
         <text>Proteja a fronteira perto dos armazens militares de monstros.</text>
     </string>
     <string id="freedom_defend_lager_2_text">
-        <text>La vem os monstros de novo do lado do Brain Scorcher. Ajude os caras na fronteira a detê-los. Garanto uma recompensa.</text>
+        <text>La vem os monstros de novo do lado do Brain Scorcher. Ajude os caras na fronteira a dete-los. Garanto uma recompensa.</text>
     </string>
     <string id="freedom_eliminate_camp_1">
         <text>Destrua o acampamento militar</text>

@@ -7,79 +7,79 @@
 		<text>Ei!</text>
 	</string>
 	<string id="rad_find_deputy_dialog_1_0">
-		<text>Cadê o dinheiro pela missão?</text>
+		<text>Cade o dinheiro pela missao?</text>
 	</string>
 	<string id="rad_find_deputy_dialog_1_100">
-		<text>Encontre meu delegado e você vai ganhar seu dinheiro!</text>
+		<text>Encontre meu delegado e voce vai ganhar seu dinheiro!</text>
 	</string>
 	<string id="rad_find_deputy_dialog_1_1000">
-		<text>Ok, mas não minta para mim dessa vez!</text>
+		<text>Ok, mas nao minta para mim dessa vez!</text>
 	</string>
 	<string id="rad_find_stalkers_dialog_1_0">
-		<text>Quem é você?</text>
+		<text>Quem e voce?</text>
 	</string>
 	<string id="rad_find_stalkers_dialog_1_10">
-		<text>Leha the Jaw é meu nome! Esses bandidos são minha equipe!</text>
+		<text>Leha the Jaw e meu nome! Esses bandidos sao minha equipe!</text>
 	</string>
 	<string id="rad_find_stalkers_dialog_1_100">
-		<text>O que vocês estão fazendo aqui?</text>
+		<text>O que voces estao fazendo aqui?</text>
 	</string>
 	<string id="rad_find_stalkers_dialog_1_20">
 		<text>Meus rapazes e eu estamos descansando! Quando terminarmos, vamos para Prypiat!</text>
 	</string>
 	<string id="rad_find_stalkers_dialog_2_0">
-		<text>O que você sabe sobre Prypiat?</text>
+		<text>O que voce sabe sobre Prypiat?</text>
 	</string>
 	<string id="rad_find_stalkers_dialog_2_10">
-		<text>É uma antiga cidade abandonada da era comunista! Da história! Acredito que agora está cheia de monstros e hordas de combatentes Monolith! Ninguém que tenha ido lá antes voltou!</text>
+		<text>E uma antiga cidade abandonada da era comunista! Da historia! Acredito que agora esta cheia de monstros e hordas de combatentes Monolith! Ninguem que tenha ido la antes voltou!</text>
 	</string>
 	<string id="rad_find_stalkers_dialog_2_100">
-		<text>Você acha que é perigoso?</text>
+		<text>Voce acha que e perigoso?</text>
 	</string>
 	<string id="rad_find_stalkers_dialog_2_20">
-		<text>Sem dúvida - ninguém nunca voltou de lá.</text>
+		<text>Sem duvida - ninguem nunca voltou de la.</text>
 	</string>
 	<string id="rad_find_stalkers_dialog_3_0">
-		<text>Você viu algum soldado por aqui?</text>
+		<text>Voce viu algum soldado por aqui?</text>
 	</string>
 	<string id="rad_find_stalkers_dialog_3_10">
-		<text>Não, faz muito tempo que não vejo nenhum soldado.</text>
+		<text>Nao, faz muito tempo que nao vejo nenhum soldado.</text>
 	</string>
 	<string id="rad_find_stalkers_dialog_3_100">
 		<text>E quanto aos stalkers militares?</text>
 	</string>
 	<string id="rad_find_stalkers_dialog_3_20">
-		<text>Boatos dizem que apareceram perto da Floresta Vermelha, perto das antenas! Quando as desligaram, muitas pessoas foram para a Floresta Vermelha e mais adentro de Prypiat! Estamos aqui há um dia e não vimos ninguém. Provavelmente bloquearam a estrada aqui.</text>
+		<text>Boatos dizem que apareceram perto da Floresta Vermelha, perto das antenas! Quando as desligaram, muitas pessoas foram para a Floresta Vermelha e mais adentro de Prypiat! Estamos aqui ha um dia e nao vimos ninguem. Provavelmente bloquearam a estrada aqui.</text>
 	</string>
 	<string id="rad_find_stalkers_dialog_3_200">
-		<text>Você acha que o exército bloqueou a estrada para a Floresta Vermelha?</text>
+		<text>Voce acha que o exercito bloqueou a estrada para a Floresta Vermelha?</text>
 	</string>
 	<string id="rad_find_stalkers_dialog_3_30">
-		<text>Não acho que tenha sido o exército, não vejo nenhum há muito tempo, mas stalkers militares poderiam ter feito isso! Eles não perdem tempo. São do tipo sem frescura, trabalham rápido e eficientemente, em equipe ou sozinhos... é estranho que não tenham bloqueado a estrada aqui antes.</text>
+		<text>Nao acho que tenha sido o exercito, nao vejo nenhum ha muito tempo, mas stalkers militares poderiam ter feito isso! Eles nao perdem tempo. Sao do tipo sem frescura, trabalham rapido e eficientemente, em equipe ou sozinhos... e estranho que nao tenham bloqueado a estrada aqui antes.</text>
 	</string>
 	<string id="rad_find_stalkers_dialog_3_300">
-		<text>Por que eles não foram para Prypiat ou bloquearam a estrada lá?</text>
+		<text>Por que eles nao foram para Prypiat ou bloquearam a estrada la?</text>
 	</string>
 	<string id="rad_find_stalkers_dialog_3_40">
-		<text>Não sei. Talvez eles tenham medo ou estejam se preparando para algo. Só posso imaginar.</text>
+		<text>Nao sei. Talvez eles tenham medo ou estejam se preparando para algo. So posso imaginar.</text>
 	</string>
 	<string id="rad_find_stalkers_dialog_4_0">
-		<text>Talvez você tenha uma missão para mim?</text>
+		<text>Talvez voce tenha uma missao para mim?</text>
 	</string>
 	<string id="rad_find_stalkers_dialog_4_10">
-		<text>Bem, eu tenho uma, mas não é fácil... vai fazer isso?</text>
+		<text>Bem, eu tenho uma, mas nao e facil... vai fazer isso?</text>
 	</string>
 	<string id="rad_find_stalkers_dialog_4_100">
-		<text>Dizer que não é fácil não me assusta!</text>
+		<text>Dizer que nao e facil nao me assusta!</text>
 	</string>
 	<string id="rad_find_stalkers_dialog_4_101">
-		<text>Não, de jeito nenhum. Não tenho tempo!</text>
+		<text>Nao, de jeito nenhum. Nao tenho tempo!</text>
 	</string>
 	<string id="rad_find_stalkers_dialog_4_11">
-		<text>Eu entendo. Eu também estou com medo... preferiria gastar algum dinheiro em vez de mandar meus caras ou ir eu mesmo.</text>
+		<text>Eu entendo. Eu tambem estou com medo... preferiria gastar algum dinheiro em vez de mandar meus caras ou ir eu mesmo.</text>
 	</string>
 	<string id="rad_find_stalkers_dialog_4_20">
-		<text>Bom! A missao e encontrar meus scouts, Crowbar e Log! Eles foram para Prypiat, pois decidi nao me apressar e enviei meus melhores homens em vez disso! Encontre-os vivos e traga-os de volta. Se estiverem mortos, traga-me suas armas! Faça isso por mim e voce ganhará 2000!!!</text>
+		<text>Bom! A missao e encontrar meus scouts, Crowbar e Log! Eles foram para Prypiat, pois decidi nao me apressar e enviei meus melhores homens em vez disso! Encontre-os vivos e traga-os de volta. Se estiverem mortos, traga-me suas armas! Faça isso por mim e voce ganhara 2000!!!</text>
 	</string>
 	<string id="rad_find_stalkers_dialog_4_200">
 		<text>Ok, fechado!</text>

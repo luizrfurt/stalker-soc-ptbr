@@ -553,7 +553,7 @@
 		<text>Vamos ver.</text>
 	</string>
 	<string id="bar_bar_hunter_start_11">
-		<text>Tenho um problemão, cara! Eu... eu perdi meu rifle de familia no Territorio Selvagem. Queria atirar em uns Sanguessugas, mas mal consegui escapar. Droga! Escuta, mano... se voce pegar ele de volta, eu te pago. Juntei um dinheirinho aqui e te dou tudo, so pega meu rifle de volta. E um rifle de familia, sabe, passado de pai pra filho... E eu perdi ele! Ja me acostumei com ele, e como uma extensao do meu braço agora...</text>
+		<text>Tenho um problemao, cara! Eu... eu perdi meu rifle de familia no Territorio Selvagem. Queria atirar em uns Sanguessugas, mas mal consegui escapar. Droga! Escuta, mano... se voce pegar ele de volta, eu te pago. Juntei um dinheirinho aqui e te dou tudo, so pega meu rifle de volta. E um rifle de familia, sabe, passado de pai pra filho... E eu perdi ele! Ja me acostumei com ele, e como uma extensao do meu braço agora...</text>
 	</string>
 	<string id="bar_bar_hunter_start_21">
 		<text>E ai! Alguma novidade? Voce achou?!</text>
@@ -712,7 +712,7 @@
         <text>Voce pode me dizer algo que seria util para um novato?</text>
     </string>
     <string id="bar_bar_visitors_10_start_7111">
-        <text>Util para um novato? Bem, escute. Ao norte, nao muito longe do Brain Scorcher, Freedom montou seu quartel-general em uma antiga base militar. Eles sao notórios niilistas, anarquistas e criminosos - lutadores da liberdade, guerrilheiros todos eles. Tudo o que fazem e sabotar grupos de pesquisa, atacar unidades do exercito e constantemente fazer escaramucas com Duty. Essas escaramucas agora estao se transformando em uma guerra em pequena escala pela sobrevivencia. Deixe-me dar-lhe um conselho: nunca se envolva com eles. Eles so o aceitarao se voce for totalmente louco e houver uma recompensa pela sua cabeca. Ha-ha-ha. Voce pode acreditar nisso?</text>
+        <text>Util para um novato? Bem, escute. Ao norte, nao muito longe do Brain Scorcher, Freedom montou seu quartel-general em uma antiga base militar. Eles sao notorios niilistas, anarquistas e criminosos - lutadores da liberdade, guerrilheiros todos eles. Tudo o que fazem e sabotar grupos de pesquisa, atacar unidades do exercito e constantemente fazer escaramucas com Duty. Essas escaramucas agora estao se transformando em uma guerra em pequena escala pela sobrevivencia. Deixe-me dar-lhe um conselho: nunca se envolva com eles. Eles so o aceitarao se voce for totalmente louco e houver uma recompensa pela sua cabeca. Ha-ha-ha. Voce pode acreditar nisso?</text>
     </string>
     <string id="bar_bar_visitors_10_start_71111">
         <text>Obrigado pelo seu conselho.</text>
@@ -940,13 +940,13 @@
         <text>O que voce esta parado ai fazendo? Continue andando.</text>
     </string>
 	<string id="bar_dolg_base_guard_start_31">
-        <text>Vá em frente, irmao. Lembre-se: a missao da Duty e purificar.</text>
+        <text>Va em frente, irmao. Lembre-se: a missao da Duty e purificar.</text>
     </string>
     <string id="bar_dolg_base_guard_talk_0">
         <text>Por que voces nao deixam estranhos entrarem?</text>
     </string>
     <string id="bar_dolg_base_guard_talk_1">
-        <text>De onde voces, garotos ingênuos, vieram? Há uma guerra acontecendo, certo? Estamos lutando contra bandidos da Freedom! Temos escaramucas regulares com seus combatentes em Territorio Selvagem.</text>
+        <text>De onde voces, garotos ingenuos, vieram? Ha uma guerra acontecendo, certo? Estamos lutando contra bandidos da Freedom! Temos escaramucas regulares com seus combatentes em Territorio Selvagem.</text>
     </string>
     <string id="bar_dolg_base_guard_talk_2">
         <text>Uma guerra com Freedom? Por que?</text>
@@ -961,7 +961,7 @@
         <text>O que voce esta parado ai fazendo? Continue andando.</text>
     </string>
     <string id="bar_dolg_guard_bunker_start_31">
-        <text>Vá em frente. Lembre-se: a missao da Duty e purificar.</text>
+        <text>Va em frente. Lembre-se: a missao da Duty e purificar.</text>
     </string>
     <string id="bar_dolg_ivancov_start_11">
         <text>O que voce quer?</text>
@@ -1105,7 +1105,7 @@
         <text>O que voce quer?</text>
     </string>
     <string id="bar_dolg_zastava_11">
-        <text>Vá em frente, continue andando. O que voce esta olhando?</text>
+        <text>Va em frente, continue andando. O que voce esta olhando?</text>
     </string>
     <string id="bar_dolg_zastava_21">
         <text>Ei cara! Estou feliz que voce ainda nao foi comido por mutantes.</text>
@@ -1186,7 +1186,7 @@
         <text>Voronin nao te disse nada?</text>
     </string>
     <string id="bar_dolg_zavskald_reward_131">
-        <text>Uau, parabens! E uma grande conquista matar o lider da Freedom. Cara, eu queria ser tao durão quanto voce.</text>
+        <text>Uau, parabens! E uma grande conquista matar o lider da Freedom. Cara, eu queria ser tao durao quanto voce.</text>
     </string>
     <string id="bar_dolg_zavskald_reward_1311">
         <text>Faca muito exercicio, coma seus legumes e escute sua mae. Obrigado pelo novo equipamento. Estou indo.</text>
@@ -1225,7 +1225,7 @@
         <text>Por que Mercs estao procurando por esta informacao?</text>
     </string>
     <string id="bar_ecolog_crush_professor_give_info_dp_131">
-        <text>Espero que isso nao o ofenda, mas muitos stalkers sao como criancas. Eles sao seriamente afetados pelas coisas que descobrem. Basta pensar em todas essas lendas sobre um Monolito que realiza desejos. Que piada! O problema e que essas criancas brincam com armas de verdade e causam morte. Pessoas infantis muitas vezes se irritam com o fato de que alguem nao compartilha tudo com elas, incluindo informacoes que nao sao para elas. Nao ha limites no uso da forca. Eles atiram sem pensar e matam aqueles que estudam a Zona. Eles acreditam que essa informacao lhes permitira abrir o caminho para o centro da Zona. Eles sao tolos, tolos perigosos e ingênuos!</text>
+        <text>Espero que isso nao o ofenda, mas muitos stalkers sao como criancas. Eles sao seriamente afetados pelas coisas que descobrem. Basta pensar em todas essas lendas sobre um Monolito que realiza desejos. Que piada! O problema e que essas criancas brincam com armas de verdade e causam morte. Pessoas infantis muitas vezes se irritam com o fato de que alguem nao compartilha tudo com elas, incluindo informacoes que nao sao para elas. Nao ha limites no uso da forca. Eles atiram sem pensar e matam aqueles que estudam a Zona. Eles acreditam que essa informacao lhes permitira abrir o caminho para o centro da Zona. Eles sao tolos, tolos perigosos e ingenuos!</text>
     </string>
     <string id="bar_ecolog_crush_professor_give_info_dp_14">
         <text>Estou procurando o Lab X16. Voce poderia me dizer onde ele fica?</text>

@@ -52,7 +52,7 @@
 		<text>Obrigado pela informacao.</text>
 	</string>
 	<string id="agr_krot_about_agroprom_20">
-		<text>Sim, tem uma base militar. Eu nao sei quantos sao exatamente, mas deve ser pelo menos um pelotao. Eles estao bem armados e voce nao tem chances de passar - vao te derrubar antes de voce poder dizer "olá, camaradas". A melhor forma de entrar e durante a noite, porque a base e bem vigiada durante o dia - tem pontos de controle por toda parte e, de qualquer forma, ouvi dizer que um desertor dessa base esta escondido nos pântanos. Se voce conseguir encontra-lo, tenho certeza que pode arrancar algumas informacoes uteis dele.</text>
+		<text>Sim, tem uma base militar. Eu nao sei quantos sao exatamente, mas deve ser pelo menos um pelotao. Eles estao bem armados e voce nao tem chances de passar - vao te derrubar antes de voce poder dizer "ola, camaradas". A melhor forma de entrar e durante a noite, porque a base e bem vigiada durante o dia - tem pontos de controle por toda parte e, de qualquer forma, ouvi dizer que um desertor dessa base esta escondido nos pantanos. Se voce conseguir encontra-lo, tenho certeza que pode arrancar algumas informacoes uteis dele.</text>
 	</string>
 	<string id="agr_krot_actor_hasnot_met_seriy_0">
 		<text>O que esta acontecendo?</text>
@@ -100,7 +100,7 @@
 		<text>O que voce esta fazendo?</text>
 	</string>
 	<string id="agr_stalker_esc_20">
-		<text>Eu estou voltando da fabrica que fica um pouco mais adiante na estrada. Nao sei como, mas o exercito descobriu nosso grupo. Eu nao esperei eles chegarem e saí o mais rapido que pude. Espero que nossos caras tenham saído de la porque senão nao vao estar vivos por muito mais tempo - voce viu os helicópteros.</text>
+		<text>Eu estou voltando da fabrica que fica um pouco mais adiante na estrada. Nao sei como, mas o exercito descobriu nosso grupo. Eu nao esperei eles chegarem e sai o mais rapido que pude. Espero que nossos caras tenham saido de la porque senao nao vao estar vivos por muito mais tempo - voce viu os helicopteros.</text>
 	</string>
 	<string id="agr_stalker_esc_300">
 		<text>Entendi, obrigado.</text>
@@ -139,7 +139,7 @@
 		<text>Trinta, negocio fechado?</text>
 	</string>
 	<string id="agr_stalker_talk_about_ratcatcher_40">
-		<text>A saida do tunel de ferrovia esta por aqui perto. E bem seguro no beco sem saida. Pelo menos ninguém foi comido enquanto dormia... ainda. Alem disso, a Noroeste da fabrica voce vai encontrar um pântano com um carro nele. Mas tenha cuidado, ha uma porcao de radiação por la, então é melhor se aproximar pela parte oeste. Ah, e mais uma coisa: um soldado foi avistado la. Provavelmente é do batalhao do Instituto. O coitado provavelmente esta louco - ja esta la faz alguns dias e duvido que sobrevive mais tempo sozinho.</text>
+		<text>A saida do tunel de ferrovia esta por aqui perto. E bem seguro no beco sem saida. Pelo menos ninguem foi comido enquanto dormia... ainda. Alem disso, a Noroeste da fabrica voce vai encontrar um pantano com um carro nele. Mas tenha cuidado, ha uma porcao de radiaçao por la, entao e melhor se aproximar pela parte oeste. Ah, e mais uma coisa: um soldado foi avistado la. Provavelmente e do batalhao do Instituto. O coitado provavelmente esta louco - ja esta la faz alguns dias e duvido que sobrevive mais tempo sozinho.</text>
 	</string>
 	<string id="agr_stalker_talk_about_ratcatcher_9999">
 		<text>Falou!</text>
@@ -148,7 +148,7 @@
 		<text>Algo interessante acontecendo aqui?</text>
 	</string>
 	<string id="agr_stalker_talk_about_ratcatcher1_1">
-		<text>Voce sabe sobre o Ratoroi? A informação vai custar 30.</text>
+		<text>Voce sabe sobre o Ratoroi? A informaçao vai custar 30.</text>
 	</string>
 	<string id="agr_stalker_talk_about_ratcatcher1_11">
 		<text>Fechado.</text>
@@ -163,13 +163,13 @@
 		<text>Me fale mais sobre os coletores.</text>
 	</string>
 	<string id="agr_stalker_talk_about_ratcatcher1_11121">
-		<text>Coletores sao os esgotos fedidos padrão que pegam o lixo do Instituto e jogam no reservatório de água mais próximo.</text>
+		<text>Coletores sao os esgotos fedidos padrao que pegam o lixo do Instituto e jogam no reservatorio de agua mais proximo.</text>
 	</string>
 	<string id="agr_stalker_talk_about_ratcatcher1_111211">
 		<text>Legal. Se cuida e ate mais.</text>
 	</string>
 	<string id="agr_stalker_talk_about_ratcatcher1_12">
-		<text>Eu já sei disso. Valeu.</text>
+		<text>Eu ja sei disso. Valeu.</text>
 	</string>
 	<string id="agr_stalker_talk_about_ratcatcher1_121">
 		<text>Eu nao tenho mais nada para te contar.</text>
@@ -193,13 +193,13 @@
 		<text>Me fale sobre esse lugar.</text>
 	</string>
 	<string id="agr_stalker_talk_level_1">
-		<text>Essa e a area ao redor do Instituto de Pesquisa Agroprom. O Instituto em si esta a sudoeste. A fabrica, que era a instalação técnica de produção do Instituto, fica ao norte. Os predios foram abandonados ha muito tempo e nao ha nada de interessante por la, mas o exercito tem vasculhado muito ativamente o lugar ultimamente.</text>
+		<text>Essa e a area ao redor do Instituto de Pesquisa Agroprom. O Instituto em si esta a sudoeste. A fabrica, que era a instalaçao tecnica de produçao do Instituto, fica ao norte. Os predios foram abandonados ha muito tempo e nao ha nada de interessante por la, mas o exercito tem vasculhado muito ativamente o lugar ultimamente.</text>
 	</string>
 	<string id="agr_stalker_talk_level_2">
 		<text>Me fale mais sobre o Instituto.</text>
 	</string>
 	<string id="agr_stalker_talk_level_21">
-		<text>Ha muitas lendas sobre o Instituto. Antes do acidente em 1986, o unico coisa aqui era o Instituto de Seleção de Culturas e Genetica. A area onde a fabrica esta agora era usada para campos experimentais de culturas. Depois do acidente, eles fecharam o Instituto e queimaram os campos. Depois, lembraram disso, pintaram o edificio, colocaram uma cerca ao redor e construiram alguns barracos. Eu nao sei o que eles faziam no Instituto, mas com certeza nao faltava financiamento para eles.</text>
+		<text>Ha muitas lendas sobre o Instituto. Antes do acidente em 1986, o unico coisa aqui era o Instituto de Seleçao de Culturas e Genetica. A area onde a fabrica esta agora era usada para campos experimentais de culturas. Depois do acidente, eles fecharam o Instituto e queimaram os campos. Depois, lembraram disso, pintaram o edificio, colocaram uma cerca ao redor e construiram alguns barracos. Eu nao sei o que eles faziam no Instituto, mas com certeza nao faltava financiamento para eles.</text>
 	</string>
 	<string id="agr_stalker_talk_level_3">
 		<text>Me fale mais sobre a fabrica.</text>
@@ -241,7 +241,7 @@
 		<text>No quartel-general. Fica no terceiro andar do Instituto. E la que guardam aqueles malditos papeis. Mas e uma missao chegar la. Durante o dia, a area esta cheia de patrulhas, mas nao tanto de noite. Eu te digo isso de graca: se voce quiser entrar, vai ter que passar pelas catacumbas - voce nao tem chance na porta.</text>
 	</string>
 	<string id="agr_swamp_ratcatcher_talks_50">
-		<text>Hmm. Nao sei. Eu sou um desertor de acordo com o codigo militar e preciso sair da Zona de alguma forma. Quando chegamos aqui pela primeira vez, havia um Zaporozhets na garagem que estava quase funcionando. Eu dei um jeito nele em meia hora, mas aquele maldito capitão pegou pra ele mesmo dizendo que tinha direito a ele de acordo com o codigo. Ele dirigiu por esse caminho e o largou na chuva perto do portao. Se eu conseguisse pegar aquele carro - fugir de carro e muito mais seguro!</text>
+		<text>Hmm. Nao sei. Eu sou um desertor de acordo com o codigo militar e preciso sair da Zona de alguma forma. Quando chegamos aqui pela primeira vez, havia um Zaporozhets na garagem que estava quase funcionando. Eu dei um jeito nele em meia hora, mas aquele maldito capitao pegou pra ele mesmo dizendo que tinha direito a ele de acordo com o codigo. Ele dirigiu por esse caminho e o largou na chuva perto do portao. Se eu conseguisse pegar aquele carro - fugir de carro e muito mais seguro!</text>
 	</string>
 	<string id="agr_swamp_ratcatcher_talks1_0">
 		<text>Ola.</text>
@@ -253,7 +253,7 @@
 		<text>Me fale sobre o coletor. Como eu entro? Onde estao as saidas e entradas?</text>
 	</string>
 	<string id="agr_swamp_ratcatcher_talks1_0111">
-		<text>E perigoso dentro do coletor. Existem seis entradas e duas delas ficam na area ao redor do Instituto, onde os militares montaram uma base. Aquela area e patrulhada e o capitão guarda o horario das patrulhas na sua armeria.</text>
+		<text>E perigoso dentro do coletor. Existem seis entradas e duas delas ficam na area ao redor do Instituto, onde os militares montaram uma base. Aquela area e patrulhada e o capitao guarda o horario das patrulhas na sua armeria.</text>
 	</string>
 	<string id="agr_swamp_ratcatcher_talks1_01111">
 		<text>Como voce sabe de tudo isso?</text>
@@ -277,7 +277,7 @@
 		<text>Eu sou o Ratoroi.</text>
 	</string>
 	<string id="agr_swamp_ratcatcher_talks1_01351">
-		<text>O que voce esta fazendo nesse pântano?</text>
+		<text>O que voce esta fazendo nesse pantano?</text>
 	</string>
 	<string id="agr_swamp_ratcatcher_talks1_123">
 		<text>Ah... entendi.... bom, sou de outra historia. Ha-ha-ha...</text>

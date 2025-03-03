@@ -61,7 +61,7 @@
 		<text>Voce pode me contar mais sobre esse lugar?</text>
 	</string>
 	<string id="esc_stalker_talk_level_1">
-		<text>Este e o caminho para a Zone. Se eu fosse voce, nao chegaria muito perto do posto militar ou deixaria aqueles soldados te verem - eles tem ordem de atirar a vista. Mais ao norte ha uma ponte quebrada, mas eles montaram um posto la tambem. As areas abertas estao cheias de cães selvagens, entao nao e um lugar seguro para iniciantes. Ah, e de vez em quando aparece um bando de mutantes por la.</text>
+		<text>Este e o caminho para a Zone. Se eu fosse voce, nao chegaria muito perto do posto militar ou deixaria aqueles soldados te verem - eles tem ordem de atirar a vista. Mais ao norte ha uma ponte quebrada, mas eles montaram um posto la tambem. As areas abertas estao cheias de caes selvagens, entao nao e um lugar seguro para iniciantes. Ah, e de vez em quando aparece um bando de mutantes por la.</text>
 	</string>
 	<string id="esc_stalker_talk_level_10">
 		<text>E quanto aos soldados na ponte? Eu preciso passar por eles de algum jeito.</text>
@@ -82,13 +82,13 @@
 		<text>Sim. Quantos bandidos tem no acampamento?</text>
 	</string>
 	<string id="escape_factory_assault_start_3111">
-		<text>Sete ou oito pessoas. Dois perto do portao, dois mais na edificação a direita perto do fogo, e outros dois na esquerda - e la onde eles estão mantendo o Nimble. Alguem geralmente fica no pátio também. Isso é tudo. Vamos rezar e ir?</text>
+		<text>Sete ou oito pessoas. Dois perto do portao, dois mais na edificaçao a direita perto do fogo, e outros dois na esquerda - e la onde eles estao mantendo o Nimble. Alguem geralmente fica no patio tambem. Isso e tudo. Vamos rezar e ir?</text>
 	</string>
 	<string id="escape_factory_assault_start_31111">
-		<text>Vamos. Reúna seus homens.</text>
+		<text>Vamos. Reuna seus homens.</text>
 	</string>
 	<string id="escape_factory_assault_start_31112">
-		<text>Não. Iremos fazer muito barulho. Eu vou sozinho.</text>
+		<text>Nao. Iremos fazer muito barulho. Eu vou sozinho.</text>
 	</string>
 	<string id="escape_factory_assault_start_311121">
 		<text>Bem, faça como quiser. Grite se algo der errado... Vai se ferrar, aspirante a Rambo!</text>
@@ -118,7 +118,7 @@
 		<text>O que voce pode me contar sobre a Zone?</text>
 	</string>
 	<string id="escape_fox_hello_dialog_21111">
-		<text>Isso e tudo o que voce quer saber? Tire uma semana de folga e depois volte para me ver. Olha, meu tempo nao e barato e eu estou meio ocupado agora. Aqui estao o basico e depois voce esta por conta propria. Aproximadamente tres kilometros ao norte daqui, voce vai encontrar o Lixao. Esse e o lugar onde costumavam jogar todo o lixo radioativo da estacao. Altos niveis de radiação, anomalias por toda parte, então ha muitos artefatos por la... mas nao muito valiosos. Apenas tome cuidado com as gangues e nao atravesse as patrulhas do Duty. A oeste do Lixao esta o antigo Instituto de Pesquisa Agroprom. Pouco em termos de artefatos la, entao pode pular. E a leste, tem o Vale Sombrio. Quem sabe... Esse e um lugar bem estranho. Parece tranquilo o suficiente, a nao ser pelas gangues que rondam por ai. Mas eu tenho a sensação de que ha mais do que parece. Ah, e tem a fabrica Rostok logo apos o Lixao. Esse e o territorio dos stalkers. Voce vai encontrar muitas pessoas bem informadas la, elas vao te contar o resto.</text>
+		<text>Isso e tudo o que voce quer saber? Tire uma semana de folga e depois volte para me ver. Olha, meu tempo nao e barato e eu estou meio ocupado agora. Aqui estao o basico e depois voce esta por conta propria. Aproximadamente tres kilometros ao norte daqui, voce vai encontrar o Lixao. Esse e o lugar onde costumavam jogar todo o lixo radioativo da estacao. Altos niveis de radiaçao, anomalias por toda parte, entao ha muitos artefatos por la... mas nao muito valiosos. Apenas tome cuidado com as gangues e nao atravesse as patrulhas do Duty. A oeste do Lixao esta o antigo Instituto de Pesquisa Agroprom. Pouco em termos de artefatos la, entao pode pular. E a leste, tem o Vale Sombrio. Quem sabe... Esse e um lugar bem estranho. Parece tranquilo o suficiente, a nao ser pelas gangues que rondam por ai. Mas eu tenho a sensaçao de que ha mais do que parece. Ah, e tem a fabrica Rostok logo apos o Lixao. Esse e o territorio dos stalkers. Voce vai encontrar muitas pessoas bem informadas la, elas vao te contar o resto.</text>
 	</string>
 	<string id="escape_fox_hello_dialog_2113">
 		<text>Eu mudei de ideia. Obrigado.</text>
@@ -220,7 +220,7 @@
 		<text>Sim, algo assim.</text>
 	</string>
 	<string id="escape_lager_leader_hello_3111">
-		<text>Aqui, espero que voce nao se esqueça de nos. E a proposito... um milhão de obrigado pela ajuda. Nos salvamos os jovens, Marcado.</text>
+		<text>Aqui, espero que voce nao se esqueça de nos. E a proposito... um milhao de obrigado pela ajuda. Nos salvamos os jovens, Marcado.</text>
 	</string>
 	<string id="escape_lager_leader_hello_41">
 		<text>Ei, Marcado, que bom te ver!</text>
@@ -271,13 +271,13 @@
 		<text>O que trouxe voce para a Zona?</text>
 	</string>
 	<string id="escape_lager_volk_info_2131">
-		<text>Eu trabalhava numa mina antes de fecharem ela. Eu nao tinha dinheiro e nada para esperar. Ai eu ouvi alguns rumores sobre as riquezas fabulosas escondidas dentro da Zona. Eu ja tinha alguma experiencia, então pensei "Que se dane?". Nao posso dizer que fiquei rico, mas algum dinheiro apareceu, com certeza. Essa e a historia tipica; a maioria de nos chegou aqui do mesmo jeito.</text>
+		<text>Eu trabalhava numa mina antes de fecharem ela. Eu nao tinha dinheiro e nada para esperar. Ai eu ouvi alguns rumores sobre as riquezas fabulosas escondidas dentro da Zona. Eu ja tinha alguma experiencia, entao pensei "Que se dane?". Nao posso dizer que fiquei rico, mas algum dinheiro apareceu, com certeza. Essa e a historia tipica; a maioria de nos chegou aqui do mesmo jeito.</text>
 	</string>
 	<string id="escape_lager_volk_info_214">
 		<text>Qual a coisa mais perigosa na Zona?</text>
 	</string>
 	<string id="escape_lager_volk_info_2141">
-		<text>Fica dificil dizer. Ha tantos perigos e surpresas, voce simplesmente nao pode se deparar com todos eles. Ha o suficiente para uma pessoa de qualquer forma. Eu perdi um dedo do pe, meu cabelo esta caindo por causa da radiacao, e metade da minha perna foi frita por um Scorcher... As coisas la sao bem ruins. Outra vez eu acabei cara a cara com uma Sanguessuga - esse foi um encontro que eu adoraria esquecer. Então, podemos conversar o quanto voce quiser, mas ate voce nao vai saber ate vivenciar isso por si proprio. O unico conselho que eu posso dar e tenha cuidado - em todo lugar e sempre.</text>
+		<text>Fica dificil dizer. Ha tantos perigos e surpresas, voce simplesmente nao pode se deparar com todos eles. Ha o suficiente para uma pessoa de qualquer forma. Eu perdi um dedo do pe, meu cabelo esta caindo por causa da radiacao, e metade da minha perna foi frita por um Scorcher... As coisas la sao bem ruins. Outra vez eu acabei cara a cara com uma Sanguessuga - esse foi um encontro que eu adoraria esquecer. Entao, podemos conversar o quanto voce quiser, mas ate voce nao vai saber ate vivenciar isso por si proprio. O unico conselho que eu posso dar e tenha cuidado - em todo lugar e sempre.</text>
 	</string>
 	<string id="escape_lager_volk_info_3">
 		<text>Voce ja ouviu falar de um cara chamado Strelok?</text>
@@ -325,7 +325,7 @@
 		<text>Sim, claro que tem. Tudo bem, se manda!</text>
 	</string>
 	<string id="escape_lager_volk_talk_21">
-		<text>Então, como estão as coisas?</text>
+		<text>Entao, como estao as coisas?</text>
 	</string>
 	<string id="escape_lager_volk_talk_211">
 		<text>Seus homens e eu chegamos bem no estacionamento.</text>
@@ -361,7 +361,7 @@
 		<text>Me fale algo novo, stalker.</text>
 	</string>
 	<string id="escape_lager_volk_talk_511">
-		<text>O que eu posso te dizer. Havia bandidos no estacionamento, então fizemos uma limpeza. Isso é tudo.</text>
+		<text>O que eu posso te dizer. Havia bandidos no estacionamento, entao fizemos uma limpeza. Isso e tudo.</text>
 	</string>
 	<string id="escape_lager_volk_talk_5111">
 		<text>Voce nao e do tipo que se gabar, ne! Olha, como voce ja lidou com esses bandidos, nao posso simplesmente te deixar ir assim...</text>
@@ -457,7 +457,7 @@
 		<text>Entendido.</text>
 	</string>
 	<string id="escape_trader_jobs_611111111">
-		<text>Voce vai ter que ir ao Norte pelo Lixao, depois virar para Oeste. Vai acabar no Instituto de Pesquisa Agroprom depois de alguns kilometros. E tome cuidado, o nivel de radiação no Lixao esta altissimo. Entao, sugiro que compre algum antirradiacao ou vodka. Bom, boa sorte.</text>
+		<text>Voce vai ter que ir ao Norte pelo Lixao, depois virar para Oeste. Vai acabar no Instituto de Pesquisa Agroprom depois de alguns kilometros. E tome cuidado, o nivel de radiaçao no Lixao esta altissimo. Entao, sugiro que compre algum antirradiacao ou vodka. Bom, boa sorte.</text>
 	</string>
 	<string id="escape_trader_start_dialog_111">
 		<text>Tenho uma Missao para voce, Marcado... Quero que encontre um stalker chamado Nimble, ele estava carregando umas informacoes muito importantes. Ele desapareceu em algum lugar perto da ponte. Encontre ele, morto ou vivo - nao me importo, preciso do Pendrive com as informacoes. Visite o Wolf do acampamento local e pergunte a ele. Ele com certeza sabe onde esse cara pode estar.</text>
@@ -481,7 +481,7 @@
 		<text>Bem, bem... Eu vejo... Agora isso e interessante, muito interessante! Se eu contasse para alguem, eles nao acreditariam! Hmm... Sim... Oh! Veja isso! Eu nao esperava por isso... e bem ruim, hein... Bem, leve isso de volta e entregue para o Barman. Ah, e te devo uma por sua ajuda.</text>
 	</string>
 	<string id="escape_trader_start_dialog_199">
-		<text>Espera. Aqui, leve essa pistola e munição. Voce nao vai durar dois segundos na Zona sem uma arma! Ah, e quando voce foi trazido aqui, voce tinha uma faca. Eu a peguei de voce, caso sua cabeca nao estivesse funcionando direito. Mas voce parece bem, entao aqui esta.</text>
+		<text>Espera. Aqui, leve essa pistola e muniçao. Voce nao vai durar dois segundos na Zona sem uma arma! Ah, e quando voce foi trazido aqui, voce tinha uma faca. Eu a peguei de voce, caso sua cabeca nao estivesse funcionando direito. Mas voce parece bem, entao aqui esta.</text>
 	</string>
 	<string id="escape_trader_start_dialog_1999">
 		<text>Obrigado.</text>
@@ -517,7 +517,7 @@
 		<text>Ei, Marcado. Bom ver que esta vivo.</text>
 	</string>
 	<string id="escape_trader_start_dialog_5">
-		<text>Saudações, Marcado! Conseguiu?</text>
+		<text>Saudaçoes, Marcado! Conseguiu?</text>
 	</string>
 	<string id="escape_trader_start_dialog_51">
 		<text>Missao concluida. Aqui esta o artefato.</text>
@@ -568,7 +568,7 @@
 		<text>Marcado, ja te disse tudo. Suma daqui!</text>
 	</string>
 	<string id="escape_trader_start_dialog_661">
-		<text>Então Marcado, alguma novidade?</text>
+		<text>Entao Marcado, alguma novidade?</text>
 	</string>
 	<string id="escape_trader_talk_info_0">
 		<text>Preciso de respostas para algumas perguntas.</text>
@@ -586,55 +586,55 @@
 		<text>O que o exercito faz na Zona?</text>
 	</string>
 	<string id="escape_trader_talk_info_21">
-		<text>Eles guardam e protegem, o que mais? Ninguem realmente sabe se eles estao guardando a Zona ou protegendo o resto do mundo dela. As vezes eles mandam expedições inteiras aqui para procurar alguma coisa... Mas vou te contar uma coisa: eles nao respeitam a Zona e a Zona tambem nao gosta deles, por isso eles sempre voltam pra casa em sacos de corpo. O que mais? Bem, eles se acham superiores e agem como deuses ou algo assim. Nao respeitam as regras dos stalkers e nunca vao te ajudar mesmo que voce esteja morrendo na frente deles. Eles vao adorar te matar eles mesmos... e nao vao ser repreendidos por isso... Eu tenho alguns contatos entre eles... voce sabe, as pessoas sempre precisam de vodka e... humm, revistas, certo? Nao os irritem - eles vao te matar por nada.</text>
+		<text>Eles guardam e protegem, o que mais? Ninguem realmente sabe se eles estao guardando a Zona ou protegendo o resto do mundo dela. As vezes eles mandam expediçoes inteiras aqui para procurar alguma coisa... Mas vou te contar uma coisa: eles nao respeitam a Zona e a Zona tambem nao gosta deles, por isso eles sempre voltam pra casa em sacos de corpo. O que mais? Bem, eles se acham superiores e agem como deuses ou algo assim. Nao respeitam as regras dos stalkers e nunca vao te ajudar mesmo que voce esteja morrendo na frente deles. Eles vao adorar te matar eles mesmos... e nao vao ser repreendidos por isso... Eu tenho alguns contatos entre eles... voce sabe, as pessoas sempre precisam de vodka e... humm, revistas, certo? Nao os irritem - eles vao te matar por nada.</text>
 	</string>
 	<string id="escape_trader_talk_info_3">
 		<text>Me fale sobre a Zona.</text>
 	</string>
 	<string id="escape_trader_talk_info_31">
-		<text>A Zona... Voce vê, nao é só um circulo de alguns quilômetros de diametro com uma usina nuclear no centro. É algo bizarro. Realmente bizarro. Duvido que alguem no mundo possa te dar uma resposta direta. Eu sinto que a Zona nem faz parte deste mundo. É um mundo diferente, estranho e perigoso... e atraente também. E sabe por que? Porque com um pouco de sorte, qualquer um pode ficar rico rapidamente. E quanto mais perto voce chega do centro da Zona, mais alto voce vai subir na escada do dinheiro.</text>
+		<text>A Zona... Voce ve, nao e so um circulo de alguns quilometros de diametro com uma usina nuclear no centro. E algo bizarro. Realmente bizarro. Duvido que alguem no mundo possa te dar uma resposta direta. Eu sinto que a Zona nem faz parte deste mundo. E um mundo diferente, estranho e perigoso... e atraente tambem. E sabe por que? Porque com um pouco de sorte, qualquer um pode ficar rico rapidamente. E quanto mais perto voce chega do centro da Zona, mais alto voce vai subir na escada do dinheiro.</text>
 	</string>
 	<string id="escape_trader_talk_info_311">
 		<text>O que tem de perigoso nesse "mundo diferente"?</text>
 	</string>
 	<string id="escape_trader_talk_info_3111">
-		<text>Hrm... Nada muito, exceto que voce pode morrer a qualquer segundo e nao saber o que te atingiu. A bala de um soldado burro é o menor dos seus problemas, embora eles tenham trazido muitas Forcas Especiais aqui. Ser baleado é basicamente a maneira mais indolor de morrer na Zona. As anomalias, agora isso é um problema... Morrer em uma anomalia é uma coisa terrivel de fato. Ate os mutantes tentam se manter longe delas. Por falar nisso, os mutantes, esses "filhos da Zona", sao outro tipo de problema, entao nao va a lugar nenhum desarmado. E de qualquer maneira, para saber mais sobre os outros perigos, pergunte aos outros stalkers.</text>
+		<text>Hrm... Nada muito, exceto que voce pode morrer a qualquer segundo e nao saber o que te atingiu. A bala de um soldado burro e o menor dos seus problemas, embora eles tenham trazido muitas Forcas Especiais aqui. Ser baleado e basicamente a maneira mais indolor de morrer na Zona. As anomalias, agora isso e um problema... Morrer em uma anomalia e uma coisa terrivel de fato. Ate os mutantes tentam se manter longe delas. Por falar nisso, os mutantes, esses "filhos da Zona", sao outro tipo de problema, entao nao va a lugar nenhum desarmado. E de qualquer maneira, para saber mais sobre os outros perigos, pergunte aos outros stalkers.</text>
 	</string>
 	<string id="escape_trader_talk_info_312">
-		<text>Como alguém fica rico por aqui?</text>
+		<text>Como alguem fica rico por aqui?</text>
 	</string>
 	<string id="escape_trader_talk_info_3121">
-		<text>Gee, cara, o que voce acha? Voce nao lembra?! Artefatos, isso é o mais importante por aqui. Todo tipo de brinquedo estranho que vem da Zona vale uma fortuna no Grande Territorio. Artefatos são mais preciosos que ouro, diamantes ou plutonio puro. Por que? Porque nenhum joia no mundo pode te dar os poderes sobrenaturais que os artefatos possuem. Imagina só: voce pode pendurar um gadget no seu cinto que faz as balas desviarem e nunca te atingirem! O que mais? Bem, voce pode encontrar pedaços e partes até mesmo aqui. Mas para os pedaços mais valiosos, voce vai ter que se aproximar do centro.</text>
+		<text>Gee, cara, o que voce acha? Voce nao lembra?! Artefatos, isso e o mais importante por aqui. Todo tipo de brinquedo estranho que vem da Zona vale uma fortuna no Grande Territorio. Artefatos sao mais preciosos que ouro, diamantes ou plutonio puro. Por que? Porque nenhum joia no mundo pode te dar os poderes sobrenaturais que os artefatos possuem. Imagina so: voce pode pendurar um gadget no seu cinto que faz as balas desviarem e nunca te atingirem! O que mais? Bem, voce pode encontrar pedaços e partes ate mesmo aqui. Mas para os pedaços mais valiosos, voce vai ter que se aproximar do centro.</text>
 	</string>
 	<string id="escape_trader_talk_info_313">
 		<text>Alguem sabe o que esta acontecendo no centro da Zona?</text>
 	</string>
 	<string id="escape_trader_talk_info_3131">
-		<text>É uma historia diferente toda vez que voce ouve. São um monte de contos de fadas... exceto que eu nao acredito nessas bobagens sobrenaturais. A única coisa em que eu acredito é que o centro da Zona contém muitos artefatos valiosos. Só que eu nunca conheci ninguem que foi la e conseguiu voltar vivo.</text>
+		<text>E uma historia diferente toda vez que voce ouve. Sao um monte de contos de fadas... exceto que eu nao acredito nessas bobagens sobrenaturais. A unica coisa em que eu acredito e que o centro da Zona contem muitos artefatos valiosos. So que eu nunca conheci ninguem que foi la e conseguiu voltar vivo.</text>
 	</string>
 	<string id="escape_trader_talk_info_4">
 		<text>Voce sabe o que aconteceu comigo?</text>
 	</string>
 	<string id="escape_trader_talk_info_41">
-		<text>Que tipo de pergunta é essa? Veja, isso é coisa suja... Te encontraram em um "caminhao da morte", que é... uma espécie de transportador de corpos, certo? Esses caminhões chegam do centro da Zona de vez em quando, carregados de corpos. Ninguem realmente sabe para onde eles estão indo. Então, um deles bateu em alguma coisa e voce foi encontrado perto. Isso é a coisa mais impressionante de tudo. Já encontramos caminhões de corpos quebrados antes, mas nunca ninguém saiu deles vivo. Me desculpe, amigo, é tudo que eu posso te ajudar. O resto voce vai ter que descobrir por si mesmo.</text>
+		<text>Que tipo de pergunta e essa? Veja, isso e coisa suja... Te encontraram em um "caminhao da morte", que e... uma especie de transportador de corpos, certo? Esses caminhoes chegam do centro da Zona de vez em quando, carregados de corpos. Ninguem realmente sabe para onde eles estao indo. Entao, um deles bateu em alguma coisa e voce foi encontrado perto. Isso e a coisa mais impressionante de tudo. Ja encontramos caminhoes de corpos quebrados antes, mas nunca ninguem saiu deles vivo. Me desculpe, amigo, e tudo que eu posso te ajudar. O resto voce vai ter que descobrir por si mesmo.</text>
 	</string>
 	<string id="escape_trader_talk_info_5">
-		<text>Quem é o Strelok?</text>
+		<text>Quem e o Strelok?</text>
 	</string>
 	<string id="escape_trader_talk_info_51">
-		<text>Sim, eu já ouvi falar de um stalker com esse nome. Rumores dizem que ele é um dos poucos que foi até o centro da Zona e conseguiu voltar. Mas, nós temos tantas dessas historias lendarias sobre herois stalkers que eu nao posso realmente garantir nada. De qualquer forma, eu nunca tratei com ele pessoalmente. Parece que ele tem seus próprios canais de comercio. Enfim, pergunte ao pessoal aqui na Zona e voce vai com certeza aprender muito mais.</text>
+		<text>Sim, eu ja ouvi falar de um stalker com esse nome. Rumores dizem que ele e um dos poucos que foi ate o centro da Zona e conseguiu voltar. Mas, nos temos tantas dessas historias lendarias sobre herois stalkers que eu nao posso realmente garantir nada. De qualquer forma, eu nunca tratei com ele pessoalmente. Parece que ele tem seus proprios canais de comercio. Enfim, pergunte ao pessoal aqui na Zona e voce vai com certeza aprender muito mais.</text>
 	</string>
 	<string id="escape_trader_talk_info_6">
-		<text>Quem é esse stalker Ghost?</text>
+		<text>Quem e esse stalker Ghost?</text>
 	</string>
 	<string id="escape_trader_talk_info_61">
-		<text>Heh, essa é outra lenda local. Não recebemos noticias dele a um bom tempo. Eu suponho que ele tenha morrido em algum lugar profundo na Zona.</text>
+		<text>Heh, essa e outra lenda local. Nao recebemos noticias dele a um bom tempo. Eu suponho que ele tenha morrido em algum lugar profundo na Zona.</text>
 	</string>
 	<string id="escape_trader_talk_info_99">
 		<text>O que esta acontecendo por aqui?</text>
 	</string>
 	<string id="escape_trader_talk_info_999">
-		<text>Huh! Isso aqui é a entrada da Zona, uma espécie de antecâmara. Temos um cordao de Forcas Especiais aqui. É relativamente tranquilo, exceto por alguns soldados que gostam de se divertir, fazer batidas. Stalkers experientes nao aparecem muito por aqui, então é mais para iniciantes. Alguns se estabelecem por aqui mesmo, sim... Um pouco distante daqui há uma fazenda transformada em campo de iniciantes. Cuidado, no entanto, eles nao tem medo de atirar quando é necessário. O que mais? Voce nao vai fazer muito lucro por aqui, isso é certo. Tem uma fabrica abandonada do outro lado da estrada. Ao norte, atras do aterro ferroviario, ha as ruinas de uma fazenda. Uma unidade militar fica ao sul daqui. E cuidado: os militares deixaram algumas minas no solo. Além disso, costumava haver uma ponte no centro, mas ela caiu de alguma forma. É isso aí, na verdade.</text>
+		<text>Huh! Isso aqui e a entrada da Zona, uma especie de antecamara. Temos um cordao de Forcas Especiais aqui. E relativamente tranquilo, exceto por alguns soldados que gostam de se divertir, fazer batidas. Stalkers experientes nao aparecem muito por aqui, entao e mais para iniciantes. Alguns se estabelecem por aqui mesmo, sim... Um pouco distante daqui ha uma fazenda transformada em campo de iniciantes. Cuidado, no entanto, eles nao tem medo de atirar quando e necessario. O que mais? Voce nao vai fazer muito lucro por aqui, isso e certo. Tem uma fabrica abandonada do outro lado da estrada. Ao norte, atras do aterro ferroviario, ha as ruinas de uma fazenda. Uma unidade militar fica ao sul daqui. E cuidado: os militares deixaram algumas minas no solo. Alem disso, costumava haver uma ponte no centro, mas ela caiu de alguma forma. E isso ai, na verdade.</text>
 	</string>
 	<string id="escape_trader_talk_info_9991">
 		<text>Me fale mais sobre o posto militar.</text>
@@ -643,7 +643,7 @@
 		<text>Os poucos soldados la receberam ordens de atirar a vista, entao e melhor voce andar ao redor e tentar nao mostrar sua bunda. Se voce irritar eles, podem chamar as Forcas Especiais do cordao mais afastado. Aqueles caras podem criar uma confusao tamanha que eu nao terei clientes por um mes... Eu conheco um pouco o comandante: ele gosta de beber tanto quanto o proximo. Eu estou sobrevivendo aqui graças a ele.</text>
 	</string>
 	<string id="escape_trader_talk_info_9992">
-		<text>Eu quero saber mais sobre a ponte caída.</text>
+		<text>Eu quero saber mais sobre a ponte caida.</text>
 	</string>
 	<string id="escape_trader_talk_info_99922">
 		<text>Isso fica apenas alguns minutos ao norte daqui, voce vera imediatamente. Antigamente havia uma ponte sobre a estrada, mas ela desabou durante uma das explosoes. Os soldados construiram um posto de controle la e nao deixam ninguem passar... mas se voce 'lubrificar a palma certa', vai passar sem problemas. No geral, voce nao quer mostrar a cara la demais, a menos que esteja gravemente ferido ou com uma carga pesada.</text>
@@ -682,7 +682,7 @@
 		<text>Os poucos soldados la receberam ordens de atirar a vista, entao e melhor voce andar ao redor e tentar nao mostrar sua bunda. Se voce irritar eles, podem chamar as Forcas Especiais do cordao mais afastado. Aqueles caras podem criar uma confusao tamanha que eu nao terei clientes por um mes... Eu conheco um pouco o comandante: ele gosta de beber tanto quanto o proximo. Eu estou sobrevivendo aqui graças a ele.</text>
 	</string>
 	<string id="escape_trader_talk_level_3">
-		<text>Eu quero saber mais sobre a ponte caída.</text>
+		<text>Eu quero saber mais sobre a ponte caida.</text>
 	</string>
 	<string id="escape_trader_talk_level_31">
 		<text>Isso fica apenas alguns minutos ao norte daqui - voce vera imediatamente. Antigamente havia uma ponte sobre a estrada, mas ela desabou durante uma das explosoes. Os soldados construiram um posto de controle la e nao deixam ninguem passar... mas se voce 'lubrificar a palma certa', vai passar sem problemas. No geral, voce nao quer mostrar a cara la demais, a menos que esteja gravemente ferido ou com uma carga pesada.</text>
@@ -715,7 +715,7 @@
 		<text>Que diabos aconteceu?</text>
 	</string>
 	<string id="tutorial_wounded_give_medkit_2111">
-		<text>Estavamos voltando de uma missão de reconhecimento... Encontramos alguns bandidos. Um dos nossos foi morto ali mesmo. Eles pegaram o Nimble porque ele inventou uma boa historia sobre um esconderijo cheio de artefatos. Eu fingi de morto e isso me salvou.</text>
+		<text>Estavamos voltando de uma missao de reconhecimento... Encontramos alguns bandidos. Um dos nossos foi morto ali mesmo. Eles pegaram o Nimble porque ele inventou uma boa historia sobre um esconderijo cheio de artefatos. Eu fingi de morto e isso me salvou.</text>
 	</string>
 	<string id="tutorial_wounded_give_medkit_21111">
 		<text>Eu preciso ver o Nimble... Eu vou atras dele. Quer me acompanhar?</text>
@@ -733,7 +733,7 @@
 		<text>Procura pelos corpos... Os nossos caras devem ter algum... tem que ter algum por aqui.</text>
 	</string>
 	<string id="tutorial_wounded_give_medkit_5111">
-		<text>Nao estou muito bem, mas vou sobreviver. Droga, por que eu nao juntei o suficiente pra comprar um colete a prova de balas. Só um idiota vai fundo na Zona sem um desses.</text>
+		<text>Nao estou muito bem, mas vou sobreviver. Droga, por que eu nao juntei o suficiente pra comprar um colete a prova de balas. So um idiota vai fundo na Zona sem um desses.</text>
 	</string>
 	<string id="tutorial_wounded_give_medkit_6">
 		<text>Ah, droga, a dor esta insuportavel... Estou morrendo...</text>
