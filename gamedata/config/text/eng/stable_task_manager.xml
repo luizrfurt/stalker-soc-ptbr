@@ -49,19 +49,19 @@
         <text>Ha a fazenda perto dos antigos armazens. Costumava ser um lugar perfeito para um encontro, para trocar bens, sabe... esse tipo de coisa. Mas agora os bandidos a ocuparam e, pelo que parece, eles nao vao embora. Agora, isso nao me agrada nem um pouco. Eu preciso desta fazenda o mais rapido possivel. Eu nao me importo com o que acontece com os hospedes.</text>
     </string>
     <string id="barmen_eliminate_camp_4">
-        <text>Expulse o acampamento dos bandidos em Wild Territory</text>
+        <text>Expulse o acampamento dos bandidos em Territorio Selvagem</text>
     </string>
     <string id="barmen_eliminate_camp_4_descr">
-        <text>Expulse o acampamento dos bandidos em Wild Territory</text>
+        <text>Expulse o acampamento dos bandidos em Territorio Selvagem</text>
     </string>
     <string id="barmen_eliminate_camp_4_text">
-        <text>Ha bandidos em Wild Territory. Nao podemos deixar essa escoria da sociedade criar insalubridade bem perto do bar. E essencial exterminar o acampamento deles.</text>
+        <text>Ha bandidos em Territorio Selvagem. Nao podemos deixar essa escoria da sociedade criar insalubridade bem perto do bar. E essencial exterminar o acampamento deles.</text>
     </string>
     <string id="barmen_eliminate_camp_5">
-        <text>Destrua o covil de caes mutantes selvagens em Wild Territory</text>
+        <text>Destrua o covil de caes mutantes selvagens em Territorio Selvagem</text>
     </string>
     <string id="barmen_eliminate_camp_5_descr">
-        <text>Destrua o covil de caes mutantes selvagens em Wild Territory</text>
+        <text>Destrua o covil de caes mutantes selvagens em Territorio Selvagem</text>
     </string>
     <string id="barmen_eliminate_camp_5_text">
         <text>Alguns dos nossos caras foram em uma expedicao, voltaram sozinhos. Todos rasgados, ensanguentados, olhos vidrados. Encontraram caes, muito provavelmente. Ha um bando inteiro deles la. Entao, encontre o covil deles e mate todos eles.</text>
@@ -76,13 +76,13 @@
         <text>Eu me lembro como em '94 os extorsionarios me atacaram - desembolse, eles disseram. Cara, eu passei pelo inferno entao, eu tinha um restaurante e tudo mais. Naquela epoca nao havia processo contra eles! E aqui eu descubro que a mesma gangue esta trabalhando em Agroprom, lucrando com os artefatos que encontram la. Mas aqui eu posso fazer alguma coisa. Eu ate sei exatamente onde eles estao escondidos. Faca-me um favor, puna-os.</text>
     </string>
     <string id="barmen_eliminate_camp_7">
-        <text>Destrua o covil de snorks em Dark Valley</text>
+        <text>Destrua o covil de snorks em Vale Sombrio</text>
     </string>
     <string id="barmen_eliminate_camp_7_descr">
-        <text>Destrua o covil de snorks em Dark Valley</text>
+        <text>Destrua o covil de snorks em Vale Sombrio</text>
     </string>
     <string id="barmen_eliminate_camp_7_text">
-        <text>Sim... Parece que aqueles que dizem que a zona esta se expandindo estao certos. Eles avistaram alguns snorks em Dark Valley, mas antes nunca os viram la. E aqui alguns comecaram a entrar em panico. Os Dutiers prometeram destruir os snorks, mas eles nao conseguem fazer isso. Voce vai assumir?</text>
+        <text>Sim... Parece que aqueles que dizem que a zona esta se expandindo estao certos. Eles avistaram alguns snorks em Vale Sombrio, mas antes nunca os viram la. E aqui alguns comecaram a entrar em panico. Os Dutiers prometeram destruir os snorks, mas eles nao conseguem fazer isso. Voce vai assumir?</text>
     </string>
     <string id="barmen_find_artefact_1">
         <text>Encontre o artefato Pedaço de carne</text>
@@ -127,16 +127,16 @@
         <text>Encontre o artefato Peixe Dourado</text>
     </string>
     <string id="barmen_find_artefact_5_text">
-        <text>Marked One, voce conhece a historia do conto de fadas sobre o Peixe Dourado? Sim, sim, esse mesmo. Ha um monte de piadas sobre isso tambem. Entao, de qualquer forma, ha esse velho que continua querendo pega-lo. Resumindo, preciso do artefato unico chamado Peixe Dourado, o cliente e de fora, respeitavel. Voce vai ajudar?</text>
+        <text>Marcado, voce conhece a historia do conto de fadas sobre o Peixe Dourado? Sim, sim, esse mesmo. Ha um monte de piadas sobre isso tambem. Entao, de qualquer forma, ha esse velho que continua querendo pega-lo. Resumindo, preciso do artefato unico chamado Peixe Dourado, o cliente e de fora, respeitavel. Voce vai ajudar?</text>
     </string>
     <string id="barmen_find_item_1">
         <text>Encontre o traje psi</text>
     </string>
     <string id="barmen_find_item_1_descr">
-        <text>Encontre o traje que fornece protecao eficiente contra emissoes psi. O lugar para procura-lo sao os laboratorios desertos no Dark Valley.</text>
+        <text>Encontre o traje que fornece protecao eficiente contra emissoes psi. O lugar para procura-lo sao os laboratorios desertos no Vale Sombrio.</text>
     </string>
     <string id="barmen_find_item_1_text">
-        <text>Naqueles laboratorios no Dark Valley, eles estavam tentando encontrar uma maneira de proteger cerebros humanos de emissoes psi. Eles estavam demorando, com certeza... De qualquer forma, uma de suas tentativas realmente foi um sucesso, e supostamente ha esse traje em algum lugar que voce pode usar e ate beijar o controlador. Sim, e muito bom. Entao, se voce me conseguir essa engenhoca, nunca vou esquecer.</text>
+        <text>Naqueles laboratorios no Vale Sombrio, eles estavam tentando encontrar uma maneira de proteger cerebros humanos de emissoes psi. Eles estavam demorando, com certeza... De qualquer forma, uma de suas tentativas realmente foi um sucesso, e supostamente ha esse traje em algum lugar que voce pode usar e ate beijar o controlador. Sim, e muito bom. Entao, se voce me conseguir essa engenhoca, nunca vou esquecer.</text>
     </string>
     <string id="barmen_find_item_2">
         <text>Encontre a arma do estrangeiro.</text>
@@ -169,7 +169,7 @@
         <text>Mate o stalker</text>
     </string>
     <string id="barmen_kill_stalker_2_descr">
-        <text>Mate um dos stalkers. Morte ao trapaceiro, essa e a vinganca do Trader.</text>
+        <text>Mate um dos stalkers. Morte ao trapaceiro, essa e a vinganca do Comerciante.</text>
     </string>
     <string id="barmen_kill_stalker_2_text">
         <text>Voce sabe, ha esse tipo de homem que voce nunca diria uma palavra ruim sobre... voce confia nele como confia em si mesmo, certo? Voce aposta nele... Mas de repente voce descobre que ele e o filho da mae mais vil e mesquinho... Entao, aqui esta o negocio: ha este caso que precisa ser resolvido. Faca isso e eu cuidarei do resto.</text>
@@ -178,10 +178,10 @@
         <text>Mate o stalker do grupo Monolito</text>
     </string>
     <string id="barmen_kill_stalker_3_descr">
-        <text>Encontre o ex-amigo do Trader e ajude-o a morrer.</text>
+        <text>Encontre o ex-amigo do Comerciante e ajude-o a morrer.</text>
     </string>
     <string id="barmen_kill_stalker_3_text">
-        <text>Eu costumava ter um amigo... dificil de acreditar, ne? Ah! nos viemos para a Zona juntos quando nada disso estava aqui... As coisas que costumavamos fazer, os lugares que costumavamos ir... ah bem, eramos jovens, nao ligavamos para nada... Mas ele nunca se contentava. Ele queria ir para o centro da Zona e estava me convencendo a ir, mas eu me recusei e fiz a coisa certa... Tivemos uma briga muito feia e ele foi embora sozinho... E agora ouco que alguem o viu la... ele esta com Monolito agora. Entao o acordo e, Marked One... Como amigo, faca isso por mim, encontre-o e... bem, nao o faca sofrer, ja deve estar ruim o suficiente... Ele era como um irmao para mim, sabe?</text>
+        <text>Eu costumava ter um amigo... dificil de acreditar, ne? Ah! nos viemos para a Zona juntos quando nada disso estava aqui... As coisas que costumavamos fazer, os lugares que costumavamos ir... ah bem, eramos jovens, nao ligavamos para nada... Mas ele nunca se contentava. Ele queria ir para o centro da Zona e estava me convencendo a ir, mas eu me recusei e fiz a coisa certa... Tivemos uma briga muito feia e ele foi embora sozinho... E agora ouco que alguem o viu la... ele esta com Monolito agora. Entao o acordo e, Marcado... Como amigo, faca isso por mim, encontre-o e... bem, nao o faca sofrer, ja deve estar ruim o suficiente... Ele era como um irmao para mim, sabe?</text>
     </string>
     <string id="barmen_kill_stalker_4">
         <text>Mate o stalker chamado Vampire</text>
@@ -226,7 +226,7 @@
         <text>Proteja o posto de seguranca da Duty no Lixao.</text>
     </string>
     <string id="dolg_defend_lager_1_text">
-        <text>Entao, voce provavelmente encontrou nossos caras no Lixao. Eles estao la como uma especie de posto exterior protegendo o Bar de mutantes que descem do Dark Valley. Chegou a informacao de que o rebanho doente de javalis esta se aproximando deles. Ajude-os a lutar contra os mutantes, e eu te devo uma.</text>
+        <text>Entao, voce provavelmente encontrou nossos caras no Lixao. Eles estao la como uma especie de posto exterior protegendo o Bar de mutantes que descem do Vale Sombrio. Chegou a informacao de que o rebanho doente de javalis esta se aproximando deles. Ajude-os a lutar contra os mutantes, e eu te devo uma.</text>
     </string>
     <string id="dolg_eliminate_lager_1">
         <text>Destrua o zumbi</text>
@@ -268,10 +268,10 @@
         <text>Proteja a base dos bandidos</text>
     </string>
     <string id="dolg_eliminate_lager_13_descr">
-        <text>Proteja a base principal dos bandidos no Dark Valley.</text>
+        <text>Proteja a base principal dos bandidos no Vale Sombrio.</text>
     </string>
     <string id="dolg_eliminate_lager_13_text">
-        <text>E imperativo invadir a base principal dos bandidos e destruir a quantidade maxima de forca viva do inimigo. Isso e no Dark Valley, onde ha um centro de ciencias inacabado. O inimigo conta com trinta combatentes; armados com armas automaticas leves, pistolas, espingardas. Tudo claro?</text>
+        <text>E imperativo invadir a base principal dos bandidos e destruir a quantidade maxima de forca viva do inimigo. Isso e no Vale Sombrio, onde ha um centro de ciencias inacabado. O inimigo conta com trinta combatentes; armados com armas automaticas leves, pistolas, espingardas. Tudo claro?</text>
     </string>
     <string id="dolg_eliminate_lager_14">
         <text>Elimine os Snorks.</text>
@@ -286,7 +286,7 @@
         <text>Destrua o rebanho de Carnivais</text>
     </string>
     <string id="dolg_eliminate_lager_2_descr">
-        <text>Destrua o rebanho de Carnivais no Wild Territory.</text>
+        <text>Destrua o rebanho de Carnivais no Territorio Selvagem.</text>
     </string>
 	<string id="dolg_eliminate_lager_2_text">
         <text>Rastreamos a migracao de um grande rebanho de bestas... Mutantes suinos bastante repugnantes que todos chamam de Carnivals. Agora eles estao na area do Lixao. Todas as nossas pessoas estao ocupadas, mas essas bestas precisam ser destruidas. E um tipo especial de trabalho - pagaremos.</text>
@@ -310,22 +310,22 @@
         <text>Ultimamente tem havido um aumento na atividade de grupos de Mercs, houve alguns ataques aos cientistas, pesquisadores que trabalham na Zona. Nao podemos deixar isso impune. Precisamos realizar uma pequena operacao punitiva. O objetivo: o posto de seguranca dos Mercs nos armazens militares, atras da vila abandonada.</text>
     </string>
     <string id="dolg_eliminate_lager_5">
-        <text>Destrua os Mercs no Wild Territory</text>
+        <text>Destrua os Mercs no Territorio Selvagem</text>
     </string>
     <string id="dolg_eliminate_lager_5_descr">
-        <text>Destrua os Mercs no Wild Territory</text>
+        <text>Destrua os Mercs no Territorio Selvagem</text>
     </string>
     <string id="dolg_eliminate_lager_5_text">
-        <text>Um grupo de cientistas esta planejando estudar o Wild Territory. Mas ultimamente nao tem sido seguro la, os Mercs foram ativados. Certifique-se de que nao haja mais Mercs no Wild Territory.</text>
+        <text>Um grupo de cientistas esta planejando estudar o Territorio Selvagem. Mas ultimamente nao tem sido seguro la, os Mercs foram ativados. Certifique-se de que nao haja mais Mercs no Territorio Selvagem.</text>
     </string>
     <string id="dolg_eliminate_lager_6">
         <text>Mate os bandidos</text>
     </string>
     <string id="dolg_eliminate_lager_6_descr">
-        <text>Mate os bandidos que entraram no Wild Territory.</text>
+        <text>Mate os bandidos que entraram no Territorio Selvagem.</text>
     </string>
     <string id="dolg_eliminate_lager_6_text">
-        <text>Serei breve. Os bandidos contornaram nossos postos de seguranca no Bar e agora estao localizados no Wild Territory. Eles precisam ser eliminados.</text>
+        <text>Serei breve. Os bandidos contornaram nossos postos de seguranca no Bar e agora estao localizados no Territorio Selvagem. Eles precisam ser eliminados.</text>
     </string>
     <string id="dolg_eliminate_lager_7">
         <text>Destrua o controlador</text>
@@ -352,7 +352,7 @@
         <text>Destrua os bandidos no Lixao.</text>
     </string>
     <string id="dolg_eliminate_lager_9_text">
-        <text>A situacao atual e desfavoravel, os bandidos estao se reunindo nas areas do Lixao e do Dark Valley. A melhor solucao e realizar dois ataques preventivos ao mesmo tempo! Nossos combatentes cuidarao do vale, e voce cuidara do Lixao.</text>
+        <text>A situacao atual e desfavoravel, os bandidos estao se reunindo nas areas do Lixao e do Vale Sombrio. A melhor solucao e realizar dois ataques preventivos ao mesmo tempo! Nossos combatentes cuidarao do vale, e voce cuidara do Lixao.</text>
     </string>
     <string id="dolg_find_item_1">
         <text>Encontre o rifle aprimorado</text>
@@ -370,16 +370,16 @@
         <text>Neutralize o bandido Poker.</text>
     </string>
     <string id="dolg_kill_stalker_1_text">
-        <text>Apelido do sujeito - Poker. Um dos lideres de bandidos mais cruéis, suino e estuprador... Evidentemente, sua cabeca nao esta bem: dizem que ele contraiu uma doenca rara na Zona. Agora ele sofre lapsos de memoria bastante frequentes e, quando recupera a consciencia, nao consegue se lembrar quem e onde esta. No entanto, ele esta sempre armado e muito agressivo. Localizacao presumivel: Dark Valley. Pronto para a tarefa?</text>
+        <text>Apelido do sujeito - Poker. Um dos lideres de bandidos mais cruéis, suino e estuprador... Evidentemente, sua cabeca nao esta bem: dizem que ele contraiu uma doenca rara na Zona. Agora ele sofre lapsos de memoria bastante frequentes e, quando recupera a consciencia, nao consegue se lembrar quem e onde esta. No entanto, ele esta sempre armado e muito agressivo. Localizacao presumivel: Vale Sombrio. Pronto para a tarefa?</text>
     </string>
     <string id="drunk_dolg_find_item">
         <text>Encontre a arma do Dutyer.</text>
     </string>
     <string id="drunk_dolg_find_item_descr">
-        <text>O Dutyer esta pedindo para voce encontrar sua arma, ele a perdeu em algum lugar no Dark Valley durante outra expedicao de reconhecimento.</text>
+        <text>O Dutyer esta pedindo para voce encontrar sua arma, ele a perdeu em algum lugar no Vale Sombrio durante outra expedicao de reconhecimento.</text>
     </string>
     <string id="drunk_dolg_find_item_text">
-        <text>Nao deveria ter surtado daquele jeito. Como a Zona mexe com sua cabeca. Pensei que tinha nervos bons, nunca tive medo de nada, e aqui esta isso. Esse uivo nos ouvidos. Tudo estava indo como sempre. Houve uma expedicao de reconhecimento para o Dark Valley, descemos para a trincheira com Krivoi para cobrir o resto do grupo, e entao, uma vez que ouvi o uivo, fui tomado pelo medo. Droga, nem me lembro como cheguei a coordenada. Quando voltei para a base, Voronin quase atirou em mim na hora: ele tinha acabado de me dar um canhao aprimorado, por bom servico, por assim dizer. E aqui... entrei em panico e sai tao rapido que deixei o canhao la. Voce poderia traze-lo de volta para mim, senao para onde irei agora sem uma arma decente.</text>
+        <text>Nao deveria ter surtado daquele jeito. Como a Zona mexe com sua cabeca. Pensei que tinha nervos bons, nunca tive medo de nada, e aqui esta isso. Esse uivo nos ouvidos. Tudo estava indo como sempre. Houve uma expedicao de reconhecimento para o Vale Sombrio, descemos para a trincheira com Krivoi para cobrir o resto do grupo, e entao, uma vez que ouvi o uivo, fui tomado pelo medo. Droga, nem me lembro como cheguei a coordenada. Quando voltei para a base, Voronin quase atirou em mim na hora: ele tinha acabado de me dar um canhao aprimorado, por bom servico, por assim dizer. E aqui... entrei em panico e sai tao rapido que deixei o canhao la. Voce poderia traze-lo de volta para mim, senao para onde irei agora sem uma arma decente.</text>
     </string>
     <string id="ecolog_eliminate_lager_1">
         <text>Limpe o covil dos Snorks</text>
@@ -394,10 +394,10 @@
         <text>Destrua o covil de caes selvagens</text>
     </string>
     <string id="ecolog_eliminate_lager_2_descr">
-        <text>Limpe o covil de caes selvagens no Wild Territory</text>
+        <text>Limpe o covil de caes selvagens no Territorio Selvagem</text>
     </string>
     <string id="ecolog_eliminate_lager_2_text">
-        <text>Ha um covil de caes mutantes no Wild Territory, quero que voce va la e o limpe. Esses mutantes sao particularmente perigosos para nossas expedicoes. Sei que os zoologos nao vao gostar disso, mas isto nao e um zoologico aqui, devo admitir. Tais bestas espalham raiva, peste ou Deus sabe o que mais.</text>
+        <text>Ha um covil de caes mutantes no Territorio Selvagem, quero que voce va la e o limpe. Esses mutantes sao particularmente perigosos para nossas expedicoes. Sei que os zoologos nao vao gostar disso, mas isto nao e um zoologico aqui, devo admitir. Tais bestas espalham raiva, peste ou Deus sabe o que mais.</text>
     </string>
     <string id="ecolog_find_artefact_1">
         <text>Traga o artefato Bola de Fogo</text>
@@ -580,10 +580,10 @@
         <text>Destrua o rebanho de roedores</text>
     </string>
     <string id="freedom_eliminate_camp_7_descr">
-        <text>Destrua o rebanho de roedores no Wild Territory.</text>
+        <text>Destrua o rebanho de roedores no Territorio Selvagem.</text>
     </string>
     <string id="freedom_eliminate_camp_7_text">
-        <text>Nao ha roedores perto de nossa base, embora essas criaturas possam chegar a qualquer lugar. E recentemente havia tantos deles aqui - voce nao acreditaria. Dois meses lidamos com eles... hehehe. Entao, descobrimos de onde os roedores vieram para nossa base. Do Wild Territory, entendeu? Ha um medo de que esses ratos saltadores se multipliquem e retornem. Precisamos de um homem para cuidar deles para nos. Voce vai?</text>
+        <text>Nao ha roedores perto de nossa base, embora essas criaturas possam chegar a qualquer lugar. E recentemente havia tantos deles aqui - voce nao acreditaria. Dois meses lidamos com eles... hehehe. Entao, descobrimos de onde os roedores vieram para nossa base. Do Territorio Selvagem, entendeu? Ha um medo de que esses ratos saltadores se multipliquem e retornem. Precisamos de um homem para cuidar deles para nos. Voce vai?</text>
     </string>
     <string id="freedom_find_item_1">
         <text>Roube o rifle de precisao</text>
@@ -757,13 +757,13 @@
         <text>Veja o que temos agora:</text>
     </string>
     <string id="tm_defend_camp_1">
-        <text>Cubra a unidade de Duty do ataque dos bandidos em Dark Valley</text>
+        <text>Cubra a unidade de Duty do ataque dos bandidos em Vale Sombrio</text>
     </string>
     <string id="tm_defend_camp_1_descr">
-        <text>Cubra a unidade de Duty do ataque dos bandidos em Dark Valley</text>
+        <text>Cubra a unidade de Duty do ataque dos bandidos em Vale Sombrio</text>
     </string>
     <string id="tm_defend_camp_1_text">
-        <text>Finalmente consegui colocar nas cabecas grossas dos dutyers que ja era hora de limpar o Lixao dos bandidos. Duty ira ampliar seu territorio e eles nao irao prejudicar meus clientes regulares com tanta frequencia. Bem, aqui esta o acordo - a lideranca de Duty decidiu, para comecar, cortar o fluxo de bandidos de Dark Valley. Entao eles enviaram uma unidade de bloqueio e descobriram que os bandidos nao gostaram disso. Quem diria! Entao, o que eu estou me perguntando e, voce poderia ajuda-los a proteger a entrada do Valley? Eu lhe agradecerei generosamente.</text>
+        <text>Finalmente consegui colocar nas cabecas grossas dos dutyers que ja era hora de limpar o Lixao dos bandidos. Duty ira ampliar seu territorio e eles nao irao prejudicar meus clientes regulares com tanta frequencia. Bem, aqui esta o acordo - a lideranca de Duty decidiu, para comecar, cortar o fluxo de bandidos do Vale Sombrio. Entao eles enviaram uma unidade de bloqueio e descobriram que os bandidos nao gostaram disso. Quem diria! Entao, o que eu estou me perguntando e, voce poderia ajuda-los a proteger a entrada do Valley? Eu lhe agradecerei generosamente.</text>
     </string>
     <string id="tm_dolg_has_no_job">
         <text>Nao ha trabalhos disponiveis no momento.</text>
@@ -814,7 +814,7 @@
         <text>Destrua o acampamento de bandidos no Lixao.</text>
     </string>
     <string id="tm_eliminate_camp_1_descr">
-        <text>Elimine os bandidos no Lixao que roubam stalkers no caminho de volta da Zona. O Trader ficara feliz.</text>
+        <text>Elimine os bandidos no Lixao que roubam stalkers no caminho de volta da Zona. O Comerciante ficara feliz.</text>
     </string>
     <string id="tm_eliminate_camp_1_text">
         <text>Os bandidos se reuniram ultimamente, atrapalhando as pessoas honestas que negociam... Entao, va direto para o Lixao, me disseram que esses canalhas se estabeleceram perto do ferro-velho. Voce investiga este assunto, e todos ficarao gratos a voce, e eu serei generoso com a recompensa. Concorda?</text>
@@ -832,7 +832,7 @@
         <text>Elimine os bandidos perto do Instituto de Pesquisa Agroprom.</text>
     </string>
     <string id="tm_eliminate_camp_3_descr">
-        <text>Elimine os bandidos perto do Instituto de Pesquisa Agroprom. E melhor manter termos amigaveis com o Trader.</text>
+        <text>Elimine os bandidos perto do Instituto de Pesquisa Agroprom. E melhor manter termos amigaveis com o Comerciante.</text>
     </string>
     <string id="tm_eliminate_camp_3_text">
         <text>Alguns bandidos apareceram perto do Instituto de Pesquisa Agroprom. Eles estao perturbando meus escavadores quando eles vasculham o lixo. Voce resolve o problema, eu ficarei te devendo.</text>
@@ -856,13 +856,13 @@
         <text>Recentemente, um dos melhores lugares da Zona se tornou inacessivel para os amantes do maravilhoso. No Lixao... sim, o Lixao, ha um lugar pitoresco como nenhum outro, onde toda a sua tristeza o deixa, onde voce se esquece da sujeira, do dinheiro, do sangue. Esqueceu, isso e, porque agora ha dois monstros sujos sentados la, que ameaçam matar qualquer um que nao os pague por poder entrar no lugar. Livre-se deles - nao tenho outro lugar para levar os turistas.</text>
     </string>
     <string id="tm_eliminate_camp_6">
-        <text>Mate o Sanguessuga no Dark Valley</text>
+        <text>Mate o Sanguessuga no Vale Sombrio</text>
     </string>
     <string id="tm_eliminate_camp_6_descr">
-        <text>Mate o Sanguessuga no Dark Valley</text>
+        <text>Mate o Sanguessuga no Vale Sombrio</text>
     </string>
     <string id="tm_eliminate_camp_6_text">
-        <text>Dizem que as tropas deixaram o Dark Valley. E entao monstros comecaram a sair de todas as fendas. Os stalkers ja avistaram um Sanguessuga la, e um extraordinario - ele nao tem medo de espacos abertos. De qualquer forma, assim que a noticia chegar aos cientistas, eles definitivamente vao querer estudar este Sanguessuga. E eu quero ser a pessoa que entrega o corpo a eles. Seu trabalho e matar o Sanguessuga, e eu cuido do resto.</text>
+        <text>Dizem que as tropas deixaram o Vale Sombrio. E entao monstros comecaram a sair de todas as fendas. Os stalkers ja avistaram um Sanguessuga la, e um extraordinario - ele nao tem medo de espacos abertos. De qualquer forma, assim que a noticia chegar aos cientistas, eles definitivamente vao querer estudar este Sanguessuga. E eu quero ser a pessoa que entrega o corpo a eles. Seu trabalho e matar o Sanguessuga, e eu cuido do resto.</text>
     </string>
     <string id="tm_find_artefact_1">
         <text>Encontre o artefato Agua-viva</text>
@@ -949,19 +949,19 @@
         <text>Mate o lider dos bandidos</text>
     </string>
     <string id="tm_kill_stalker_1_descr">
-        <text>Mate o lider dos bandidos que cruzou o caminho do Trader. Muito provavelmente ele nao estara sozinho... Trabalho dificil, mas o pagamento cobre tudo. O Lixao e o lugar para procura-lo.</text>
+        <text>Mate o lider dos bandidos que cruzou o caminho do Comerciante. Muito provavelmente ele nao estara sozinho... Trabalho dificil, mas o pagamento cobre tudo. O Lixao e o lugar para procura-lo.</text>
     </string>
     <string id="tm_kill_stalker_1_text">
         <text>Voce tera que acabar com este um elegante, um dos lideres dos bandidos. No outro dia, os bandidos, por ordem dele, interceptaram meu mensageiro e o sacudiram e eu nao perco palavras com aqueles que tocam no meu pessoal... Em uma palavra, se voce conseguir fazer isso, eu retribuirei o favor. Entao, voce topa?</text>
     </string>
     <string id="tm_kill_stalker_2">
-        <text>Mate o stalker Trader</text>
+        <text>Mate o stalker Comerciante</text>
     </string>
     <string id="tm_kill_stalker_2_descr">
         <text>Mate um stalker... Bem, esse nao e o melhor trabalho, levantar a mao contra um colega de trabalho. Mas o pagamento e muito bom, e isso pode ser o que mais importa.</text>
     </string>
 	<string id="tm_kill_stalker_2_text">
-        <text>Estou tendo um confronto com este Trader. Bem, se ele nao quer cooperar, que se dane! Mas nao vou deixar ninguem espalhar rumores sujos. Resumindo, ele precisa ser eliminado para que os outros nao saiam do controle. Que todos saibam quem manda aqui...</text>
+        <text>Estou tendo um confronto com este Comerciante. Bem, se ele nao quer cooperar, que se dane! Mas nao vou deixar ninguem espalhar rumores sujos. Resumindo, ele precisa ser eliminado para que os outros nao saiam do controle. Que todos saibam quem manda aqui...</text>
     </string>
     <string id="tm_kill_stalker_3">
         <text>Mate o stalker novato</text>
@@ -976,7 +976,7 @@
         <text>Mate o stalker chamado Demonio</text>
     </string>
     <string id="tm_kill_stalker_4_descr">
-        <text>Elimine um dos rivais do Trader Sidorovich, um stalker chamado Demonio.</text>
+        <text>Elimine um dos rivais do Comerciante Sidorovich, um stalker chamado Demonio.</text>
     </string>
     <string id="tm_kill_stalker_4_text">
         <text>O Demonio, tambem conhecido como Oleg Gusarov... costumava servir nas Forcas Especiais. Enquanto ele cuidava de seus proprios assuntos, eu nao tinha nada contra ele, um Loner e um Loner. Mas ouvi dizer que ele esta reunindo uma gangue para esmagar o Cordon e assumir o controle das operacoes de contrabando da Zona. Agora este e um grande problema e tem que ser resolvido rapidamente. Entao, voce fara isso?</text>
@@ -994,7 +994,7 @@
         <text>Mate o "representante de vendas"</text>
     </string>
     <string id="tm_kill_stalker_6_descr">
-        <text>Mate o "representante de vendas". O Trader esta cuidando de sua reputacao</text>
+        <text>Mate o "representante de vendas". O Comerciante esta cuidando de sua reputacao</text>
     </string>
     <string id="tm_kill_stalker_6_text">
         <text>Imagine isto: tem um esquisito correndo por aqui que se apresenta como meu representante de vendas, usa minha reputacao e depois tenta vender coisas de segunda categoria! Canos quebrados, armaduras caindo aos pedaços, alimentos enlatados vencidos. Eu ja tive que lidar com alguns clientes insatisfeitos. Resumindo, preciso de um homem para ter uma pequena conversa com esse "representante de vendas", custe o que custar.</text>

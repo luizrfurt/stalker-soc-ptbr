@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="windows-1251" ?>
 <string_table>
 	<string id="bar_rostok">
-		<text>Wild Territory - Rostok</text>
+		<text>Territorio Selvagem - Rostok</text>
 	</string>
 	<string id="car_character_use">
 		<text>Abrir a porta ($$ACTION_USE$$)</text>
@@ -55,7 +55,7 @@
 		<text>Fechadura numerica ($$ACTION_USE$$)</text>
 	</string>
 	<string id="to_aes">
-		<text>Para Chernobyl NPP</text>
+		<text>Para Usina Nuclear de Chernobyl</text>
 	</string>
 	<string id="to_agroprom">
 		<text>Para o Instituto de Pesquisa Agroprom</text>
@@ -67,7 +67,7 @@
 		<text>Para Rostok</text>
 	</string>
 	<string id="to_darkvalley">
-		<text>Para o Dark Valley</text>
+		<text>Para o Vale Sombrio</text>
 	</string>
 	<string id="to_escape">
 		<text>Para o Cordon</text>
@@ -85,7 +85,7 @@
 		<text>Para o Brain Scorcher</text>
 	</string>
 	<string id="to_rostok">
-		<text>Para o Wild Territory</text>
+		<text>Para o Territorio Selvagem</text>
 	</string>
 	<string id="to_yantar">
 		<text>Para Yantar</text>

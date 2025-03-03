@@ -8,13 +8,13 @@
 		<text>Quem sou eu?</text>
 	</string>
 	<string id="sl_beginning_text">
-		<text>Droga, tudo esta embacado agora... Lembro de um carro... Me levaram para algum lugar por muito tempo e meu corpo todo doia... Havia escuridao... O que aconteceu antes disso? Nao tenho ideia... Tanta confusao... Agora esse gordo me chama de Marked One, provavelmente por causa da tatuagem estranha no meu braco, e depois tem essa missao esquisita de matar um cara chamado Strelok no meu PDA... Sera que esse PDA e mesmo meu? Olhando para a foto de Strelok, nao tenho certeza se o conhecia ou nao... Droga! Tudo isso parece um pesadelo ruim do qual nao se pode acordar! O que fazer? Onde ir? E o pior de tudo: quem sou eu? Ok, ok, calma, controle-se. A primeira coisa que vou fazer e realizar alguns trabalhos para esse Sidorovich. Ele diz que me salvou a vida, afinal... Nao deve ser tao ruim. Vou dar uma caminhada, me acalmar e talvez minha cabeca fique mais clara.</text>
+		<text>Droga, tudo esta embacado agora... Lembro de um carro... Me levaram para algum lugar por muito tempo e meu corpo todo doia... Havia escuridao... O que aconteceu antes disso? Nao tenho ideia... Tanta confusao... Agora esse gordo me chama de Marcado, provavelmente por causa da tatuagem estranha no meu braco, e depois tem essa missao esquisita de matar um cara chamado Strelok no meu PDA... Sera que esse PDA e mesmo meu? Olhando para a foto de Strelok, nao tenho certeza se o conhecia ou nao... Droga! Tudo isso parece um pesadelo ruim do qual nao se pode acordar! O que fazer? Onde ir? E o pior de tudo: quem sou eu? Ok, ok, calma, controle-se. A primeira coisa que vou fazer e realizar alguns trabalhos para esse Sidorovich. Ele diz que me salvou a vida, afinal... Nao deve ser tao ruim. Vou dar uma caminhada, me acalmar e talvez minha cabeca fique mais clara.</text>
 	</string>
 	<string id="sl_first_deep_raid">
 		<text>A primeira expedicao profunda</text>
 	</string>
 	<string id="sl_first_deep_raid_text">
-		<text>Entao, estou indo na minha primeira expedicao profunda na Zona. O alvo e o Instituto de Pesquisa Agroprom. Preciso recuperar alguns documentos pertencentes a uma expedicao militar. Alem da missao, o Trader me deu algumas informacoes sobre uma area ao norte, a caminho do centro da Zona, onde os "cerebros ferveriam"... Provavelmente mais uma lenda do que um fato, mas como tem claramente algo de errado com a minha cabeca, provavelmente eu deveria dar uma olhada e conversar com algumas pessoas. Nao se sabe, talvez eu ja tenha estado la antes... Alem disso, o Trader me disse que Strelok descobriu um jeito de passar por essa area e os Traders querem saber como. Seus motivos sao claros - eles querem acessar campos de artefatos intocados. Bem, eu vou ajudar, eu acho.</text>
+		<text>Entao, estou indo na minha primeira expedicao profunda na Zona. O alvo e o Instituto de Pesquisa Agroprom. Preciso recuperar alguns documentos pertencentes a uma expedicao militar. Alem da missao, o Comerciante me deu algumas informacoes sobre uma area ao norte, a caminho do centro da Zona, onde os "cerebros ferveriam"... Provavelmente mais uma lenda do que um fato, mas como tem claramente algo de errado com a minha cabeca, provavelmente eu deveria dar uma olhada e conversar com algumas pessoas. Nao se sabe, talvez eu ja tenha estado la antes... Alem disso, o Comerciante me disse que Strelok descobriu um jeito de passar por essa area e os Comerciantes querem saber como. Seus motivos sao claros - eles querem acessar campos de artefatos intocados. Bem, eu vou ajudar, eu acho.</text>
 	</string>
 	<string id="sl_first_opinions">
 		<text>Primeiras impressoes</text>
@@ -47,10 +47,10 @@
 		<text>Minhas esperancas de aprender algo sobre Strelok devem ser adiadas por mais um tempo: Seriy me mandou encontrar um Stalker chamado Mole, que aparentemente sabe a localizacao do esconderijo secreto de Strelok... Nao muito, mas se ele estiver certo, pelo menos terei algo... Quem sabe, talvez eu aprenda algo util la.</text>
 	</string>
 	<string id="sl_usefull_info">
-		<text>A informacao util do Trader</text>
+		<text>A informacao util do Comerciante</text>
 	</string>
 	<string id="sl_usefull_info_text">
-		<text>Hmm... O Trader nao me deixou na mao e eu sou grato a ele - ele me deu uma ajuda na minha busca por Strelok. Aparentemente, um Stalker chamado Fox apareceu por aqui perto e esta pedindo ajuda. Sidorovich acha que Fox pode conhecer Strelok.</text>
+		<text>Hmm... O Comerciante nao me deixou na mao e eu sou grato a ele - ele me deu uma ajuda na minha busca por Strelok. Aparentemente, um Stalker chamado Fox apareceu por aqui perto e esta pedindo ajuda. Sidorovich acha que Fox pode conhecer Strelok.</text>
 	</string>
 	<string id="sl_wishmaster_legend">
 		<text>A lenda da maquina que realiza desejos</text>

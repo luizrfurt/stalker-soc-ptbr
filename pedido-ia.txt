@@ -10,9 +10,9 @@ Monolith para Monolito (quando o contexto for algo ou alguma coisa); Monolithian
 Spetsnaz para Forcas Especiais;
 - lugares:
 Cordon para Cordon; The Garbage ou Garbage para Lixao; Agroprom Research Institute para Instituto de Pesquisa Agroprom;
-The Dark Valley ou Dark Valley para Dark Valley; Bar para Bar; Wild Territory para Wild Territory;
-Dead City para Dead City; Army warehouses para Armazens militares; Yantar para Yantar; Red forest para Red forest;
-Pripyat para Prypiat; Chernobyl NPP para Chernobyl NPP; Agroprom Underground para Agroprom Subsolo;
+The Dark Valley ou Dark Valley para Vale Sombrio; Bar para Bar; Wild Territory para Territorio Selvagem;
+Dead City para Cidade Morta; Army warehouses para Armazens militares; Yantar para Yantar; Red forest para Floresta Vermelha;
+Pripyat para Prypiat; Chernobyl NPP para Usina Nuclear de Chernobyl; Agroprom Underground para Agroprom Subsolo;
 Lab X-18 para Lab X-18; Lab X-16 para Lab X-16; Lab X-10 para Lab X-10; Sarcophagus para Sarcofago; Brain Scorcher para Brain Scorcher;
 - personagens:
 Marked One para Marked One; Wolf para Wolf; Fox para Fox; Guide para Guide; Nimble para Nimble; Fanatic para Fanatic; Ghost para Ghost; Wish Granter para Wish Granter; Vampire para Vampire; Sparrow para Sparrow; C-Consciousness para C-Consciousness; Ratcatcher para Ratoroi;

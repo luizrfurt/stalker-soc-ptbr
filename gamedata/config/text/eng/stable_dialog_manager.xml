@@ -28,7 +28,7 @@
 		<text>Dizem que costumava ter um laboratorio impressionante aqui, camuflado. Oh... Por um lado, seria otimo encontrar a entrada - aposto que tem muitas coisas boas la dentro. Por outro lado, me da arrepios...</text>
 	</string>
 	<string id="dm_action_info_16">
-		<text>Voce sabia que no que agora e Dark Valley, antes da catastrofe, costumava ter um complexo de pesquisa cientifica subterraneo? Eu nao sei para que servia, mas tenho certeza que nao era nada bom. Eles dizem coisas diferentes sobre isso, mas principalmente e ruim. Coisa terrivel.</text>
+		<text>Voce sabia que no que agora e Vale Sombrio, antes da catastrofe, costumava ter um complexo de pesquisa cientifica subterraneo? Eu nao sei para que servia, mas tenho certeza que nao era nada bom. Eles dizem coisas diferentes sobre isso, mas principalmente e ruim. Coisa terrivel.</text>
 	</string>
 	<string id="dm_action_info_17">
 		<text>E dai? O que voce quer ouvir? Eu vou te dizer o seguinte: "dutiers" sao definitivamente os policiais, mas eles sabem como manter a ordem, com certeza. Mas no geral eu nao gosto muito deles. Eles sao como os proprietarios em todos os lugares - nao pegue isso, nao leve aquilo para fora da Zona... Nao so isso, mas eles ja determinaram o que voce pode falar na Grande Terra e o que voce deve manter em segredo! Eles falam besteiras, e na verdade querem destruir a Zona, aos poucos. Bem, isso nao me surpreende, vindo de ex-soldados... eles sao todos sonhadores. O pior e que, dizem, o apoio deles vem de cima.</text>
@@ -40,7 +40,7 @@
 		<text>Voce esteve no nosso acampamento de meio caminho? Claro, nao e so nosso - voce pode encontrar quase qualquer um aqui. O importante e que e um bom lugar, sem lixo, e todas as noticias sobre a Zona chegam aqui. Voce quase sempre pode ouvir algo util, ou pelo menos conversar com as pessoas sobre nada em particular. Que pena que o Careca com o grupo dele foi embora anteontem - entao desta vez eu nem consegui ve-lo.</text>
 	</string>
 	<string id="dm_action_info_2">
-		<text>Vamos para o acampamento, voce vai ouvir todos os rumores la. Todos que estao fazendo isso pela primeira vez - os novatos como voce - geralmente passam para pegar algumas dicas ou descansar um pouco. Tem soldados por perto: nao tenha muito medo deles, mas tambem nao entre no caminho deles - eles podem atirar e nao pensar duas vezes... Aqui pelo Trader - bem, o varejista da mercadoria local - tem um lugarzinho legal e calmo onde voce pode montar acampamento.</text>
+		<text>Vamos para o acampamento, voce vai ouvir todos os rumores la. Todos que estao fazendo isso pela primeira vez - os novatos como voce - geralmente passam para pegar algumas dicas ou descansar um pouco. Tem soldados por perto: nao tenha muito medo deles, mas tambem nao entre no caminho deles - eles podem atirar e nao pensar duas vezes... Aqui pelo Comerciante - bem, o varejista da mercadoria local - tem um lugarzinho legal e calmo onde voce pode montar acampamento.</text>
 	</string>
 	<string id="dm_action_info_20">
 		<text>Agora, stalker, este lugar e seguro, e estamos tentando mantê-lo assim. Tem muita gente aqui: alguns que fizeram daqui sua casa e nao vao alem da area circundante, outros que estao se preparando para mais um ataque. Que pena que Irokez nao voltou. Ele adorava colocar novatos como voce no caminho da justica.</text>
@@ -172,7 +172,7 @@
 		<text>Ja faz tres dias que estou aqui, observando. Tem um laboratorio aqui, certo? Ninguem entrou nele desde o comeco, os Dutiers costumavam eliminar zumbis apenas no topo, e agora pararam completamente, certo? Mas a ciencia teve que entrar la. Isso significa que eles encontraram uma maneira de se proteger, o diabo sabe do que. Entao estou pensando, por que nao bisbilhotar, descobrir - aposto que tem tantas coisas boas la que voce pode ate pegar com uma pa.</text>
 	</string>
 	<string id="dm_action_info_6">
-		<text>Nos ultimos dias, matilhas inteiras de animais estao saindo de Dark Valley. O que esta forcando eles a sair de la nao esta claro, mas eles realmente estao saindo de la, como se estivessem fugindo de um incendio. E no setor leste, os mutantes estao se reproduzindo como moscas. Tudo que podemos fazer e continuar abatendo eles. Entao essas sao as noticias.</text>
+		<text>Nos ultimos dias, matilhas inteiras de animais estao saindo do Vale Sombrio. O que esta forcando eles a sair de la nao esta claro, mas eles realmente estao saindo de la, como se estivessem fugindo de um incendio. E no setor leste, os mutantes estao se reproduzindo como moscas. Tudo que podemos fazer e continuar abatendo eles. Entao essas sao as noticias.</text>
 	</string>
 	<string id="dm_action_info_60">
 		<text>E o que voce esta procurando aqui? Tambem esta tentando entrar no laboratorio? Voce ouviu uma historia de fadas sobre instrumentos magicos e pilhas de artefatos? Cara... quando voces, idiotas, vao aprender?</text>
@@ -235,7 +235,7 @@
 		<text>Voce viu os arranha-ceus? Isso ja e Prypiat. A usina esta logo atras. Ah, como eu queria entrar la... so que e dificil dizer o que esta vagando la hoje em dia.</text>
 	</string>
 	<string id="dm_action_info_79">
-		<text>Deixe-me explicar. Tem Prypiat. Atras dela - Chernobyl NPP. O que esta acontecendo la e quem esta habitando essas partes, e desconhecido. Este e o lugar para nos. Nos vamos encontrar algo, como sempre.</text>
+		<text>Deixe-me explicar. Tem Prypiat. Atras dela - Usina Nuclear de Chernobyl. O que esta acontecendo la e quem esta habitando essas partes, e desconhecido. Este e o lugar para nos. Nos vamos encontrar algo, como sempre.</text>
 	</string>
 	<string id="dm_action_info_8">
 		<text>Nao esta atualizado! E eu estou indo para o bar, para conversar com o pessoal. O que, voce nunca esteve la? Meu deus! Entao aqui esta o seguinte: do jeito que voce esta, continue indo para o norte. O bar esta logo ali na esquina. E muito util dar uma passada la, especialmente para novatos como voce, e como se fosse receita medica: tem homens experientes la, quem sabe, eles podem ajudar, te dizer algo, como e o que. Uma coisa, voce vai encontrar nossos amigos da Duty no caminho... e aqui depende - se voce tiver sorte, eles vao gostar de voce. Se nao, bem, entao eles nao vao.</text>
@@ -259,7 +259,7 @@
 		<text>O territorio da usina esta muito perto! Por enquanto ainda nao conseguimos lidar com a resistencia dos Monolithianos!</text>
 	</string>
 	<string id="dm_action_info_86">
-		<text>La esta ela, Chernobyl NPP, ao alcance das maos. So mais um pouco, mas essas vadias malditas sao tao teimosas, nao nos deixam passar! Nao e grande coisa, vamos limpar eles rapidinho!</text>
+		<text>La esta ela, Usina Nuclear de Chernobyl, ao alcance das maos. So mais um pouco, mas essas vadias malditas sao tao teimosas, nao nos deixam passar! Nao e grande coisa, vamos limpar eles rapidinho!</text>
 	</string>
 	<string id="dm_action_info_9">
 		<text>Escuta, amigo, voce mesmo nao sabe sobre Agroprom? Eu queria ir la, mas todo mundo comecou a zombar de mim: nao tem mais mercadorias la, eles limparam o lugar ha um tempo, e agora so restam anomalias. Voce sabe, eles estao falando serio ou estao so brincando? Eu sou bem novo aqui - acredito no que os locais dizem... Talvez eles estejam todos juntos nisso, so para zoar? Tudo que eles precisam e um motivo para rachar de rir, esses idiotas!</text>
@@ -361,7 +361,7 @@
 		<text>Eu nem sei o que te dizer... Sempre tem algo acontecendo aqui, mas dentro dos limites da razao. Embora eles nao pensem assim na Grande Terra, voce e eu estamos, por assim dizer, em uma zona anomalica agora.</text>
 	</string>
 	<string id="dm_cool_info_31">
-		<text>Os intelectuais estao farejando alguma coisa. O inferno sabe que segredo eles ja encontraram, mas eles certamente tem as tropas enroladas no dedo mindinho. E eles estao procurando por todo Agroprom e Dark Valley ja, procurando, procurando, tentando encontrar algo...</text>
+		<text>Os intelectuais estao farejando alguma coisa. O inferno sabe que segredo eles ja encontraram, mas eles certamente tem as tropas enroladas no dedo mindinho. E eles estao procurando por todo Agroprom e Vale Sombrio ja, procurando, procurando, tentando encontrar algo...</text>
 	</string>
 	<string id="dm_cool_info_32">
 		<text>A cada dia sai mais e mais lixo do Brain Scorcher, e os caras da Duty e Freedom decidiram brigar de novo. Entao eles vao se matar, e ai? Por quanto tempo podemos segurar a fronteira sozinhos?</text>
@@ -448,7 +448,7 @@
 		<text>Escuta, as pessoas aqui estao realmente perdendo a cabeca. Alguem ve uma pedra e comeca a gritar que e seu artefato maldito, que ele viu primeiro, e que todo mundo deveria ir para o sul. Outro ve Dja em uma nuvem abracando seus amigos que desapareceram anos atras... Nao, definitivamente tem alguma merda doentia acontecendo aqui.</text>
 	</string>
 	<string id="dm_cool_info_6">
-		<text>As tropas estao agitadas - procurando, cavando. Antes os helicopteros voavam so para Yantar - protegiam os cientistas, carregavam suprimentos e tecnologia. Mas agora eles estao praticamente invadindo - planejando todo tipo de expedicao, dirigindo em APCs. Ja os vi em Agroprom e em Dark Valley. Nao entendo.</text>
+		<text>As tropas estao agitadas - procurando, cavando. Antes os helicopteros voavam so para Yantar - protegiam os cientistas, carregavam suprimentos e tecnologia. Mas agora eles estao praticamente invadindo - planejando todo tipo de expedicao, dirigindo em APCs. Ja os vi em Agroprom e em Vale Sombrio. Nao entendo.</text>
 	</string>
 	<string id="dm_cool_info_7">
 		<text>Dizem que alguem tentou passar pelo Brain Scorcher de novo. Bem, obviamente ele nunca voltou... voce nunca ouviu falar do Brain Scorcher? Que que ha com voce, cara?! E o maior perigo em toda essa area! O unico problema e que todos os horrores que dizem sobre ele sao quase todos verdade.</text>
@@ -586,7 +586,7 @@
 		<text>Voce seja mais cuidadoso aqui. Os ilimitados estao escondidos no predio principal. Em uma palavra, eles sao chacais - sem consciencia, sem misericordia... eles teriam matado todo mundo.</text>
 	</string>
 	<string id="dm_intro_9">
-		<text>Voce nao deveria ir para Dark Valley sozinho. Tem um ninho de bandidos bem apertado aqui em um dos predios - ainda nao conseguimos tira-los de la. Tenha cuidado para nao encontra-los, cara.</text>
+		<text>Voce nao deveria ir para Vale Sombrio sozinho. Tem um ninho de bandidos bem apertado aqui em um dos predios - ainda nao conseguimos tira-los de la. Tenha cuidado para nao encontra-los, cara.</text>
 	</string>
 	<string id="dm_intro_help_1">
 		<text>Ajuda amigo!</text>

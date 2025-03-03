@@ -94,7 +94,7 @@
 		<text>Voce pode me contar algo sobre o Lixao?</text>
 	</string>
 	<string id="gar_dramm_novice_start_31">
-		<text>Nao ha muito o que contar, amigo. O Lixao e... um deposito de lixo. Os soldados do Duty guardam a estrada norte para o Bar. Voce pode querer evita-los - o Duty esta cheio de tipos realmente maus. A direita estao os caminhos para o Dark Valley, mas os niveis de radiacao sao bem altos la. Um pouco mais perto esta o Grimpen Mire - pântanos terriveis cheios de anomalias. Dizem que e facil encontrar artefatos bons la, mas ainda mais facil encontrar um monte de problemas. Bom, pelo menos nao tem o Cão de Baskerville no Pântano!</text>
+		<text>Nao ha muito o que contar, amigo. O Lixao e... um deposito de lixo. Os soldados do Duty guardam a estrada norte para o Bar. Voce pode querer evita-los - o Duty esta cheio de tipos realmente maus. A direita estao os caminhos para o Vale Sombrio, mas os niveis de radiacao sao bem altos la. Um pouco mais perto esta o Grimpen Mire - pântanos terriveis cheios de anomalias. Dizem que e facil encontrar artefatos bons la, mas ainda mais facil encontrar um monte de problemas. Bom, pelo menos nao tem o Cão de Baskerville no Pântano!</text>
 	</string>
 	<string id="gar_dramm_novice_start_311">
 		<text>Continue.</text>
@@ -193,7 +193,7 @@
 		<text>A Missao nao esta terminada. Vamos acabar com isso e conversar depois.</text>
 	</string>
 	<string id="gar_hellcar_start_51">
-		<text>Ei, Marked One.</text>
+		<text>Ei, Marcado.</text>
 	</string>
 	<string id="gar_seriy_start_11">
 		<text>Malditos, cara, nao eh hora de conversar! Em poucos segundos as unicas coisas que vao falar vao ser as armas. Me ajude a espantar eles e podemos conversar depois.</text>
@@ -247,7 +247,7 @@
 		<text>Voce pode me contar algo sobre este lugar?</text>
 	</string>
 	<string id="gar_stalker_about_level_1">
-		<text>Bom, ouca. Onde voce olha, e um grande lixao fedido. Depois do acidente em 1986, trouxeram residuos radioativos, guindastes e todas as maquinas destruídas para ca. Basicamente, e cheio de lixo inutil e algumas anomalias por aqui e ali. Voce pode ate encontrar alguns artefatos, mas nao sao espetaculares, por isso, normalmente voce vai encontrar iniciantes nesse lugar. Muitos iniciantes significam muitos bandidos, entao e melhor nao ficar por aqui muito tempo. Mais a Leste, ha varios bolsao de radiacao; voce nao pode ir para la sem protecao. Indo para o Sul, voce vai chegar na fronteira da Zona. Indo para o Norte, eventualmente voce vai chegar na fabrica Rostok e no bar dos stalkers. Para o Leste esta o Dark Valley, um lugar sombrio e nebuloso. Para o Oeste esta o Instituto de Pesquisa Agroprom. Vou marcar os caminhos seguros no seu mapa.</text>
+		<text>Bom, ouca. Onde voce olha, e um grande lixao fedido. Depois do acidente em 1986, trouxeram residuos radioativos, guindastes e todas as maquinas destruídas para ca. Basicamente, e cheio de lixo inutil e algumas anomalias por aqui e ali. Voce pode ate encontrar alguns artefatos, mas nao sao espetaculares, por isso, normalmente voce vai encontrar iniciantes nesse lugar. Muitos iniciantes significam muitos bandidos, entao e melhor nao ficar por aqui muito tempo. Mais a Leste, ha varios bolsao de radiacao; voce nao pode ir para la sem protecao. Indo para o Sul, voce vai chegar na fronteira da Zona. Indo para o Norte, eventualmente voce vai chegar na fabrica Rostok e no bar dos stalkers. Para o Leste esta o Vale Sombrio, um lugar sombrio e nebuloso. Para o Oeste esta o Instituto de Pesquisa Agroprom. Vou marcar os caminhos seguros no seu mapa.</text>
 	</string>
 	<string id="gar_hellcar_start_3111411121">
 		<text>No centro ha um grande galpao, geralmente e bem tranquilo por la. No pior dos casos, voce pode passar a noite la. Se voce for para o Oeste, em direcao ao Agroprom, ha um acampamento de bandidos la, e e de la que aqueles malucos que matamos a um tempo atras estavam vindo. Mas eu tenho a sensacao de que ha mais deles por la.</text>

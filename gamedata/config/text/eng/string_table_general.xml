@@ -64,13 +64,13 @@
 		<text>Instituto de Pesquisa Agroprom</text>
 	</string>
 	<string id="l04_darkvalley">
-		<text>Dark Valley</text>
+		<text>Vale Sombrio</text>
 	</string>
 	<string id="l05_bar">
 		<text>Bar</text>
 	</string>
 	<string id="l06_rostok">
-		<text>Wild Territory</text>
+		<text>Territorio Selvagem</text>
 	</string>
 	<string id="l07_military">
 		<text>Armazens militares</text>
@@ -79,16 +79,16 @@
 		<text>Yantar</text>
 	</string>
 	<string id="l10_radar">
-		<text>Red forest</text>
+		<text>Floresta Vermelha</text>
 	</string>
 	<string id="l11_pripyat">
 		<text>Pripyat</text>
 	</string>
 	<string id="l12_stancia">
-		<text>Chernobyl NPP</text>
+		<text>Usina Nuclear de Chernobyl</text>
 	</string>
 	<string id="l12_stancia_2">
-		<text>Chernobyl NPP</text>
+		<text>Usina Nuclear de Chernobyl</text>
 	</string>
 	<string id="master">
 		<text>especialista</text>
@@ -118,7 +118,7 @@
 		<text>terrivel</text>
 	</string>
 	<string id="trader">
-		<text>Trader</text>
+		<text>Comerciante</text>
 	</string>
 	<string id="ui_st_community">
 		<text>grupo</text>

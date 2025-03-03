@@ -74,7 +74,7 @@
 		<text>Brome</text>
 	</string>
 	<string id="bar_hunter_bio">
-		<text>Rapaz bondoso e alegre, cujo unico problema e que nao consegue atirar com nada alem de um rifle de caca. Hunter nao tenta usar outras armas ha tempos. Recentemente, entrou em uma briga no Wild Territory e perdeu seu rifle de familia. Agora, ele fica no Bar esperando que alguem o devolva.</text>
+		<text>Rapaz bondoso e alegre, cujo unico problema e que nao consegue atirar com nada alem de um rifle de caca. Hunter nao tenta usar outras armas ha tempos. Recentemente, entrou em uma briga no Territorio Selvagem e perdeu seu rifle de familia. Agora, ele fica no Bar esperando que alguem o devolva.</text>
 	</string>
 	<string id="bar_hunter_name">
 		<text>Hunter</text>
@@ -221,7 +221,7 @@
 		<text>Sargento regular do Exercito Ucraniano. Nenhum detalhe disponivel.</text>
 	</string>
 	<string id="esc_shustryi_bio">
-		<text>Stalker que recebeu esse nome por ser quase invisivel e verdadeiramente indispensavel. O trader recorre a ele para missoes sensiveis, como espionar alguem, bisbilhotar e escutar conversas.</text>
+		<text>Stalker que recebeu esse nome por ser quase invisivel e verdadeiramente indispensavel. O comerciante recorre a ele para missoes sensiveis, como espionar alguem, bisbilhotar e escutar conversas.</text>
 	</string>
 	<string id="esc_shustryi_name">
 		<text>Nimble</text>
@@ -494,7 +494,7 @@
 		<text>Freeman</text>
 	</string>
 	<string id="ros_happy_bio">
-		<text>Saqueador e assassino. Um preco foi colocado por sua cabeca. Antigamente tinha boas relacoes com a faccao Duty, ajudou-os a conquistar seu territorio. Agora vive no Wild Territory e assalta stalkers solitarios com sua gangue.</text>
+		<text>Saqueador e assassino. Um preco foi colocado por sua cabeca. Antigamente tinha boas relacoes com a faccao Duty, ajudou-os a conquistar seu territorio. Agora vive no Territorio Selvagem e assalta stalkers solitarios com sua gangue.</text>
 	</string>
 	<string id="ros_happy_name">
 		<text>Lucky</text>
@@ -740,10 +740,10 @@
 		<text>Um dos veteranos. Conhece a Zona como a palma da mao. Geralmente bem equipado e altamente perigoso. Nenhum detalhe disponivel.</text>
 	</string>
 	<string id="sim_stalker_master_chuchelo_bio">
-		<text>Contrabandista experiente. Durante muito tempo, exerceu seu comercio na Africa e na America do Sul. A noticia do desastre de Chernobyl o trouxe para a Ucrania. Em pouco tempo, ele conseguiu contrabandear centenas de mutantes empalhados para fora da area restrita e ganhou o apelido de "Taxidermista". Quando nao esta "trabalhando" na Zona, ele e um trader bem sucedido. Adora ternos chiques e gravatas elegantes, mas prefere armas sovieticas.</text>
+		<text>Contrabandista experiente. Durante muito tempo, exerceu seu comercio na Africa e na America do Sul. A noticia do desastre de Chernobyl o trouxe para a Ucrania. Em pouco tempo, ele conseguiu contrabandear centenas de mutantes empalhados para fora da area restrita e ganhou o apelido de "Taxidermista". Quando nao esta "trabalhando" na Zona, ele e um comerciante bem sucedido. Adora ternos chiques e gravatas elegantes, mas prefere armas sovieticas.</text>
 	</string>
 	<string id="sim_stalker_master_diador_bio">
-		<text>Participou da guerra no Afeganistao. Antigo ateu, mas depois de sobreviver a uma emboscada dos Mujahideen, se tornou um homem religioso. Depois da guerra no Afeganistao, ele emigrou para a Polonia, onde se matriculou em um seminario teologico. Depois de se formar no seminario, pregou na igreja catolica em Lvov. Depois da explosao no Chernobyl NPP, ele se voluntariou para ajudar as vitimas. Nos ultimos anos tem pregado na Zona.</text>
+		<text>Participou da guerra no Afeganistao. Antigo ateu, mas depois de sobreviver a uma emboscada dos Mujahideen, se tornou um homem religioso. Depois da guerra no Afeganistao, ele emigrou para a Polonia, onde se matriculou em um seminario teologico. Depois de se formar no seminario, pregou na igreja catolica em Lvov. Depois da explosao no Usina Nuclear de Chernobyl, ele se voluntariou para ajudar as vitimas. Nos ultimos anos tem pregado na Zona.</text>
 	</string>
 	<string id="sim_stalker_master_master_bio">
 		<text>Antigo mecanico na fabrica "KholodMach". Depois que sua esposa o deixou, ele decidiu tirar a propria vida. No entanto, sendo profundamente religioso, ele escolheu a Zona como um metodo de suicidio nao convencional. Contrario as suas expectativas, ele sobreviveu. Ganhou experiencia invalivel e conquistou o respeito de outros stalkers gracas as suas habilidades profissionais. Master e provavelmente o mecanico mais qualificado da Zona e conserta equipamentos e veiculos. Instalar sistemas de seguranca em abrigos de gangues e o que ele faz de melhor. Ele e bem-vindo onde quer que va. Um homem simples, serio, um pouco rude as vezes.</text>
@@ -869,7 +869,7 @@
 		<text>Stalker zumbificado</text>
 	</string>
 	<string id="actor_name">
-		<text>Marked One</text>
+		<text>Marcado</text>
 	</string>
 	<string id="sim_bandit_master_fraer_name">
 		<text>Friar</text>

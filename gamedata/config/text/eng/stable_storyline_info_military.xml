@@ -5,7 +5,7 @@
 		<text>E imperativo proteger a barreira contra ataques vindos da direcao do Brain Scorcher.</text>
 	</string>
 	<string id="mil_blockpost_job2_descr">
-		<text>Lukash: "Se voce tiver coragem, pode ir ate o ponto de controle de seguranca perto da saida para a Red forest - com base em algumas indicacoes, eles estao esperando outra tentativa de invasao por mutantes ou Monolith."</text>
+		<text>Lukash: "Se voce tiver coragem, pode ir ate o ponto de controle de seguranca perto da saida para a Floresta Vermelha - com base em algumas indicacoes, eles estao esperando outra tentativa de invasao por mutantes ou Monolith."</text>
 	</string>
 	<string id="mil_courier_doc_descr">
 		<text>A Freedom adquiriu lancadores de granada Bulldog 6. Dois deles. Um esta no arsenal, o outro em algum lugar da vila.</text>
@@ -14,7 +14,7 @@
 		<text>Lukash: "Triste, mas verdade - temos um traidor entre nos... O nome dele e Pavlik. Ele esta enviando informacoes para o outro lado e precisamos parar isso. Sua missao e seguir ele ate a fazenda e descobrir para quem ele esta passando as informacoes. Ele saiu ha um tempo, entao voce tera que alcanca-lo. Lembre-se disso: voce pode e deve elimina-lo, mas nao antes de ele revelar quem e a pessoa para quem ele esta passando as informacoes. Voce tambem precisara eliminar o segundo sujeito."</text>
 	</string>
 	<string id="mil_crazy_flash_info">
-		<text>... hoje fomos para a vila novamente cacar. Tudo igual como sempre. De onde apareceu aquela besta? Deve ter se esgueirado perto da Red forest. Todos os caras estao caidos, eu sou o unico de pe... Vou tentar sair a noite... Nao lembro como sai. Foi um inferno... Minha cabeca esta explodindo - imagens, sons, nao sei de onde vem. Maldita radiacao. E para piorar, o maldito detector esta quebrado. Preciso descansar, vou melhorar.</text>
+		<text>... hoje fomos para a vila novamente cacar. Tudo igual como sempre. De onde apareceu aquela besta? Deve ter se esgueirado perto da Floresta Vermelha. Todos os caras estao caidos, eu sou o unico de pe... Vou tentar sair a noite... Nao lembro como sai. Foi um inferno... Minha cabeca esta explodindo - imagens, sons, nao sei de onde vem. Maldita radiacao. E para piorar, o maldito detector esta quebrado. Preciso descansar, vou melhorar.</text>
 	</string>
 	<string id="mil_dolg_kill_lukash_descr">
 		<text>Entre na base com os membros da Duty. Elimine tres atiradores de elite. Mate Lukash.</text>
@@ -26,10 +26,10 @@
 		<text>Merda, aqueles filhos da mae da Duty nos expulsaram de um otimo lugar. Eles se enterraram perto da nossa fazenda. Nem tivemos tempo de pegar nossas coisas do sotao. Mas tudo bem, a base da Freedom esta perto, entao nao vao ficar por la muito tempo.</text>
 	</string>
 	<string id="mil_flash_max_descr">
-		<text>Hoje conseguimos pegar alguns soldados a caminho da Red forest - conseguimos alguns Bulldog 6. Eles sao incriveis. Lukash pegou um, e Murk escondeu o outro na vila, em um dos poroes.</text>
+		<text>Hoje conseguimos pegar alguns soldados a caminho da Floresta Vermelha - conseguimos alguns Bulldog 6. Eles sao incriveis. Lukash pegou um, e Murk escondeu o outro na vila, em um dos poroes.</text>
 	</string>
 	<string id="mil_flash_ugrumy_descr">
-		<text>1. O Diabo me fez ir para a Red forest. Eu mal consegui sair - se fosse um pouco mais devagar, teria virado apenas mais uma exposicao com cerebros liquefeitos.\n\n 2: Quatro criminosos me cercaram como se eu fosse uma crianca de tres anos. Fiz a minha parte - nao vi a armadilha deles. So me salvei pela tagarelice e ganancia deles. Em vez de me encherem de chumbo, comecaram a me despir - se prenderam no meu traje. Esse foi o ultimo erro deles; ainda assim, um deles me acertou com um tiro... hehe, estou ficando velho...\n\n 3: Quando cheguei, o mensageiro do Strelok ja nao respirava. Tres sanguessugas sao capazes de enfrentar qualquer um, mas esse cara matou quatro deles, e mais alguns rastros de sangue saem em direcoes diferentes. A unica informacao sobre ele e um codigo de porta (19840519), mas identificar a porta que ele abre parece impossivel.\n\n 4: Interceptamos alguns soldados a caminho da Red forest. Nao carregavam documentos ou ordens, mas estavam muito bem equipados. Acho que vou deixar esse Bulldog 6 no porao ate precisar dele.</text>
+		<text>1. O Diabo me fez ir para a Floresta Vermelha. Eu mal consegui sair - se fosse um pouco mais devagar, teria virado apenas mais uma exposicao com cerebros liquefeitos.\n\n 2: Quatro criminosos me cercaram como se eu fosse uma crianca de tres anos. Fiz a minha parte - nao vi a armadilha deles. So me salvei pela tagarelice e ganancia deles. Em vez de me encherem de chumbo, comecaram a me despir - se prenderam no meu traje. Esse foi o ultimo erro deles; ainda assim, um deles me acertou com um tiro... hehe, estou ficando velho...\n\n 3: Quando cheguei, o mensageiro do Strelok ja nao respirava. Tres sanguessugas sao capazes de enfrentar qualquer um, mas esse cara matou quatro deles, e mais alguns rastros de sangue saem em direcoes diferentes. A unica informacao sobre ele e um codigo de porta (19840519), mas identificar a porta que ele abre parece impossivel.\n\n 4: Interceptamos alguns soldados a caminho da Floresta Vermelha. Nao carregavam documentos ou ordens, mas estavam muito bem equipados. Acho que vou deixar esse Bulldog 6 no porao ate precisar dele.</text>
 	</string>
 	<string id="mil_freedom_rg6_task_descr">
 		<text>Voronin: "A Freedom tem alguns lancadores de granada PG-6 muito bons. Se voce conseguir entrar no territorio deles e roubar pelo menos um desses lancadores de granada, eu lhe recompensarei generosamente. Como voce nao pertence a nossa faccao, pode facilmente ganhar a simpatia da Freedom e, com sorte, roubar o PG-6. Eu vou te passar as informacoes sobre a localizacao da Freedom. La, voce deve encontrar um tal de Chef, um membro do grupo Freedom, ele sabe exatamente onde os PG-6 estao guardados. Ele tem uma fraqueza por bebida, entao tente embriaga-lo. Para isso, leve muita vodka junto."</text>

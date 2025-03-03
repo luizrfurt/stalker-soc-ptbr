@@ -1,5 +1,5 @@
 	<string id="sar_monolith">
-		<text>Wish Granter</text>
+		<text>Concessor de Desejos</text>
 	</string>
 	<string id="sar_monolith_0">
 		<text>Chegar ao Monolito</text>
@@ -8,7 +8,7 @@
 		<text>Entrar sorrateiramente no sarcofago</text>
 	</string>
 	<string id="sar_monolith_2">
-		<text>Encontrar o Wish Granter</text>
+		<text>Encontrar o Concessor de Desejos</text>
 	</string>
 	<string id="sar_monolith_destroy">
 		<text>O segredo do Monolito.</text>
