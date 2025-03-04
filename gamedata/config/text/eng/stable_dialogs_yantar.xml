@@ -4,10 +4,10 @@
 		<text>Obrigado... err... Marcado, certo? Voce ajudou a salvar nosso associado Kruglov e, para mostrar minha sincera apreciacao, gostaria de lhe oferecer um de nossos trajes de trabalho. Ele e bem util, voce sabe disso... Posso lhe ajudar em algo mais?</text>
 	</string>
 	<string id="yantar_general_ucheniy_talk_start_1011">
-		<text>Estou procurando o Lab X16. O Barkeep me disse que voce pode ter informacoes sobre sua localizacao.</text>
+		<text>Estou procurando o Lab X-16. O Barkeep me disse que voce pode ter informacoes sobre sua localizacao.</text>
 	</string>
 	<string id="yantar_general_ucheniy_talk_start_1012">
-		<text>Ha muito tempo temos interesse no Lab X16... ou, melhor dizendo, no mecanismo dentro dele que gera as emissoes que afetam diretamente a consciencia das pessoas. Receio decepciona-lo: o lugar e impossivel de penetrar sem uma armadura psi especial. O resultado ja e conhecido de antemao - mesmo que voce consiga evitar as enxurradas de zumbis que infestam a entrada do laboratorio, corre o risco de se tornar um deles. Isso e bem serio. No entanto, desenvolvemos um dispositivo de blindagem para proteger das emissoes, mas para ajusta-lo precisamos obter mediçoes adicionais. Se voce nos ajudar com essa tarefa, provavelmente poderemos lhe fornecer um prototipo totalmente calibrado para testes em campo.</text>
+		<text>Ha muito tempo temos interesse no Lab X-16... ou, melhor dizendo, no mecanismo dentro dele que gera as emissoes que afetam diretamente a consciencia das pessoas. Receio decepciona-lo: o lugar e impossivel de penetrar sem uma armadura psi especial. O resultado ja e conhecido de antemao - mesmo que voce consiga evitar as enxurradas de zumbis que infestam a entrada do laboratorio, corre o risco de se tornar um deles. Isso e bem serio. No entanto, desenvolvemos um dispositivo de blindagem para proteger das emissoes, mas para ajusta-lo precisamos obter mediçoes adicionais. Se voce nos ajudar com essa tarefa, provavelmente poderemos lhe fornecer um prototipo totalmente calibrado para testes em campo.</text>
 	</string>
 	<string id="yantar_general_ucheniy_talk_start_1013">
 		<text>Medicoes?</text>
@@ -43,16 +43,16 @@
 		<text>Sim, senhor? O que voce esta procurando?</text>
 	</string>
 	<string id="yantar_general_ucheniy_talk_start_111">
-		<text>Estou procurando o Lab X16. O Barkeep me disse que voce pode ter informacoes sobre sua localizacao.</text>
+		<text>Estou procurando o Lab X-16. O Barkeep me disse que voce pode ter informacoes sobre sua localizacao.</text>
 	</string>
 	<string id="yantar_general_ucheniy_talk_start_12">
 		<text>Obrigado, Marcado, por resgatar Kruglov. Pegue este traje pressurizado como recompensa pelos seus problemas. Alem disso, suspeito que voce nao tenha vindo aqui apenas por uma recompensa simples, estou certo?</text>
 	</string>
 	<string id="yantar_general_ucheniy_talk_start_121">
-		<text>Estou procurando o Lab X16. O Barkeep me disse que voce pode ter informacoes sobre sua localizacao.</text>
+		<text>Estou procurando o Lab X-16. O Barkeep me disse que voce pode ter informacoes sobre sua localizacao.</text>
 	</string>
 	<string id="yantar_general_ucheniy_talk_start_1211">
-		<text>Estamos estudando a emissao no Lab X16 ha muito tempo, mas voce nao conseguira entrar la sem equipamento especial. Desenvolvemos um dispositivo de protecao psi que pode ajudar a proteger voce da emissoes, mas precisa de alguns ajustes. Se voce puder nos ajudar com isso, poderei lhe dar um prototipo funcional que voce podera usar para entrar no laboratorio.</text>
+		<text>Estamos estudando a emissao no Lab X-16 ha muito tempo, mas voce nao conseguira entrar la sem equipamento especial. Desenvolvemos um dispositivo de protecao psi que pode ajudar a proteger voce da emissoes, mas precisa de alguns ajustes. Se voce puder nos ajudar com isso, poderei lhe dar um prototipo funcional que voce podera usar para entrar no laboratorio.</text>
 	</string>
 	<string id="yantar_general_ucheniy_talk_start_12111">
 		<text>OK.</text>
@@ -70,13 +70,13 @@
 		<text>Sim, senhor? O que voce esta procurando?</text>
 	</string>
 	<string id="yantar_general_ucheniy_talk_start_211">
-		<text>Ha muito tempo temos interesse no Lab X16... ou, melhor dizendo, no mecanismo dentro dele que gera as emissoes que afetam diretamente a consciencia das pessoas. Receio decepciona-lo: o lugar e impossivel de penetrar sem uma armadura psi especial. O resultado ja e conhecido de antemao - mesmo que voce consiga evitar as enxurradas de zumbis que infestam a entrada do laboratorio, corre o risco de se tornar um deles. Isso e bem serio. No entanto, desenvolvemos um dispositivo de blindagem para proteger das emissoes, mas para ajusta-lo precisamos obter mediçoes adicionais. Se voce nos ajudar com essa tarefa, provavelmente poderemos lhe fornecer um prototipo totalmente calibrado para testes em campo.</text>
+		<text>Ha muito tempo temos interesse no Lab X-16... ou, melhor dizendo, no mecanismo dentro dele que gera as emissoes que afetam diretamente a consciencia das pessoas. Receio decepciona-lo: o lugar e impossivel de penetrar sem uma armadura psi especial. O resultado ja e conhecido de antemao - mesmo que voce consiga evitar as enxurradas de zumbis que infestam a entrada do laboratorio, corre o risco de se tornar um deles. Isso e bem serio. No entanto, desenvolvemos um dispositivo de blindagem para proteger das emissoes, mas para ajusta-lo precisamos obter mediçoes adicionais. Se voce nos ajudar com essa tarefa, provavelmente poderemos lhe fornecer um prototipo totalmente calibrado para testes em campo.</text>
 	</string>
 	<string id="yantar_general_ucheniy_talk_start_2111">
 		<text>Continue.</text>
 	</string>
 	<string id="yantar_general_ucheniy_talk_start_21111">
-		<text>Estamos estudando a emissao no Lab X16 ha muito tempo, mas voce nao conseguira entrar la sem equipamento especial. Desenvolvemos um dispositivo de protecao psi que pode ajudar a proteger voce da emissoes, mas precisa de alguns ajustes. Se voce puder nos ajudar com isso, poderei lhe dar um prototipo funcional que voce podera usar para entrar no laboratorio.</text>
+		<text>Estamos estudando a emissao no Lab X-16 ha muito tempo, mas voce nao conseguira entrar la sem equipamento especial. Desenvolvemos um dispositivo de protecao psi que pode ajudar a proteger voce da emissoes, mas precisa de alguns ajustes. Se voce puder nos ajudar com isso, poderei lhe dar um prototipo funcional que voce podera usar para entrar no laboratorio.</text>
 	</string>
 	<string id="yantar_general_ucheniy_talk_start_21112">
 		<text>OK, eu aceito.</text>
@@ -139,7 +139,7 @@
 		<text>Agora seu caminho ate o laboratorio esta livre... exceto que, se a fonte da emissao nao for destruida e nao perder seu poder, talvez voce nao tenha tempo de voltar. Entao, meu caro senhor, aqui esta o acordo. Nossos calculos produziram uma localizaçao estimada da fonte, bem como o fato de que ela esta subterranea. Com sua permissao, eu ja marquei o local no seu mapa.</text>
 	</string>
 	<string id="yantar_general_ucheniy_talk_start_31111">
-		<text>Como exatamente se entra no Lab X16? Onde fica a entrada?</text>
+		<text>Como exatamente se entra no Lab X-16? Onde fica a entrada?</text>
 	</string>
 	<string id="yantar_general_ucheniy_talk_start_311111">
 		<text>Vasiliev estava trabalhando na questao do laboratorio. Cerca de uma semana atras, ele e um stalker chamado Ghost tentaram entrar. Algumas horas depois sentimos um tremor forte, e depois de mais uma hora, recebemos um sinal de Vasiliev vindo do pantano, mas ele desapareceu. E Vasiliev desapareceu com ele, aparentemente. Tente encontrar o corpo dele. Ele tinha as informaçoes exatas sobre o laboratorio e a forma de entrar. Talvez ate informaçoes para desativar a fonte da emissao. Eu carreguei todos os dados que temos para voce.</text>
@@ -148,7 +148,7 @@
 		<text>Ahem... Seria muito interessante dar uma olhada nesses documentos. Entao, voce acha que Vasiliev os tem?</text>
 	</string>
 	<string id="yantar_general_ucheniy_talk_start_311113">
-		<text>Talvez. De qualquer forma, voce deve começar encontrando o corpo de Vasiliev - essa e a unica chance de obter informaçoes precisas sobre a localizaçao do laboratorio. O corpo do seu colega, Ghost, tambem deve estar por ai. Voce sabe, me parecia que ele sabia muito mais sobre o X16 do que admitiu para nos. Se ele sobreviveu de alguma forma... Bem, nao vale a pena manter essa esperança, claro.</text>
+		<text>Talvez. De qualquer forma, voce deve começar encontrando o corpo de Vasiliev - essa e a unica chance de obter informaçoes precisas sobre a localizaçao do laboratorio. O corpo do seu colega, Ghost, tambem deve estar por ai. Voce sabe, me parecia que ele sabia muito mais sobre o X-16 do que admitiu para nos. Se ele sobreviveu de alguma forma... Bem, nao vale a pena manter essa esperança, claro.</text>
 	</string>
 	<string id="yantar_general_ucheniy_talk_start_311114">
 		<text>OK, vou tentar.</text>
@@ -163,13 +163,13 @@
 		<text>Ah, cara... como isso aconteceu? Como isso aconteceu??! Droga, tudo esta dando errado de novo. Agora vamos ter que chamar mais gente... Ja temos problemas suficientes... Droga...</text>
 	</string>
 	<string id="yantar_general_ucheniy_talk_start_41111">
-		<text>Escute... Kruglov se foi, mas eu estou vivo. Me de o prototipo. Eu vou lutar para entrar no X16.</text>
+		<text>Escute... Kruglov se foi, mas eu estou vivo. Me de o prototipo. Eu vou lutar para entrar no X-16.</text>
 	</string>
 	<string id="yantar_general_ucheniy_talk_start_411111">
 		<text>Aqui esta o prototipo, tome cuidado com ele. Nao esta calibrado corretamente, mas isso e culpa sua - voce nao conseguiu salvar nosso colega. O dispositivo nao fornecera proteçao maxima, mas pelo menos diminuira a intensidade da emissao. Entao, stalker, voce tera que se mover rapido ate a fonte.</text>
 	</string>
 	<string id="yantar_general_ucheniy_talk_start_4111111">
-		<text>Como se entra no Lab X16? Onde exatamente fica a entrada?</text>
+		<text>Como se entra no Lab X-16? Onde exatamente fica a entrada?</text>
 	</string>
 	<string id="yantar_general_ucheniy_talk_start_41111111">
 		<text>Vasiliev estava trabalhando na questao do laboratorio. Cerca de uma semana atras, ele e um stalker chamado Ghost tentaram entrar. Algumas horas depois sentimos um tremor forte, e depois de mais uma hora, recebemos um sinal de Vasiliev vindo do pantano, mas ele desapareceu. E Vasiliev desapareceu com ele, aparentemente. Tente encontrar o corpo dele. Ele tinha as informaçoes exatas sobre o laboratorio e a forma de entrar. Talvez ate informaçoes para desativar a fonte da emissao. Eu carreguei todos os dados que temos para voce.</text>
@@ -178,7 +178,7 @@
 		<text>Algo mais?</text>
 	</string>
 	<string id="yantar_general_ucheniy_talk_start_41113">
-		<text>Voce deve começar encontrando o corpo de Vasiliev - essa e a unica chance de obter informaçoes precisas sobre a localizaçao do laboratorio. O corpo do seu colega, Ghost, tambem deve estar por ai. Voce sabe, me parecia que ele sabia muito mais sobre o X16 do que admitiu para nos. Se ele sobreviveu de alguma forma... Bem, nao vale a pena manter essa esperança, claro.</text>
+		<text>Voce deve começar encontrando o corpo de Vasiliev - essa e a unica chance de obter informaçoes precisas sobre a localizaçao do laboratorio. O corpo do seu colega, Ghost, tambem deve estar por ai. Voce sabe, me parecia que ele sabia muito mais sobre o X-16 do que admitiu para nos. Se ele sobreviveu de alguma forma... Bem, nao vale a pena manter essa esperança, claro.</text>
 	</string>
 	<string id="yantar_general_ucheniy_talk_start_41114">
 		<text>OK, vou tentar.</text>
@@ -193,13 +193,13 @@
 		<text>Ah, cara... como isso aconteceu? Como isso aconteceu??! Droga, tudo esta dando errado de novo. Agora vamos ter que chamar mais gente... Ja temos problemas suficientes... Droga...</text>
 	</string>
 	<string id="yantar_general_ucheniy_talk_start_51111">
-		<text>Escute... Semenov se foi, mas eu estou vivo. Me de o prototipo. Eu vou lutar para entrar no X16.</text>
+		<text>Escute... Semenov se foi, mas eu estou vivo. Me de o prototipo. Eu vou lutar para entrar no X-16.</text>
 	</string>
 	<string id="yantar_general_ucheniy_talk_start_511111">
 		<text>Aqui esta o prototipo, tome cuidado com ele. Nao esta calibrado corretamente, mas isso e culpa sua - voce nao conseguiu salvar nosso colega. O dispositivo nao fornecera proteçao maxima, mas pelo menos diminuira a intensidade da emissao. Entao, stalker, voce tera que se mover rapido ate a fonte.</text>
 	</string>
 	<string id="yantar_general_ucheniy_talk_start_5111111">
-		<text>Como se entra no Lab X16? Onde exatamente fica a entrada?</text>
+		<text>Como se entra no Lab X-16? Onde exatamente fica a entrada?</text>
 	</string>
 	<string id="yantar_general_ucheniy_talk_start_511111111">
 		<text>Vasiliev estava trabalhando na questao do laboratorio. Ha cerca de uma semana, ele e um stalker chamado Ghost tentaram entrar. Algumas horas depois, sentimos um tremor forte, e depois de mais uma hora, recebemos um sinal de Vasiliev vindo do pantano, mas ele desapareceu. E Vasiliev desapareceu junto. Tente encontrar o corpo dele. Ele tinha as informaçoes exatas sobre o laboratorio e como entrar. Pode ser que ele tenha ate informaçoes sobre como desativar aquela fonte de emissao. Eu te enviei todos os dados que temos.</text>
@@ -208,7 +208,7 @@
 		<text>Ahem... Seria muito interessante dar uma olhada nesses documentos. Entao, voce acha que Vasiliev os tem?</text>
 	</string>
 	<string id="yantar_general_ucheniy_talk_start_51113">
-		<text>Talvez. De qualquer forma, voce deve começar encontrando o corpo de Vasiliev - essa e a unica chance de obter informaçoes precisas sobre a localizaçao do laboratorio. O corpo do seu colega, Ghost, deve estar por la tambem. Sabe, me parecia que ele sabia muito mais sobre o X16 do que nos disse. Se ele tivesse sobrevivido... Bem, claro, nao vale a pena se apegar a essa esperança.</text>
+		<text>Talvez. De qualquer forma, voce deve começar encontrando o corpo de Vasiliev - essa e a unica chance de obter informaçoes precisas sobre a localizaçao do laboratorio. O corpo do seu colega, Ghost, deve estar por la tambem. Sabe, me parecia que ele sabia muito mais sobre o X-16 do que nos disse. Se ele tivesse sobrevivido... Bem, claro, nao vale a pena se apegar a essa esperança.</text>
 	</string>
 	<string id="yantar_general_ucheniy_talk_start_51114">
 		<text>Ok, eu tentarei.</text>
@@ -247,7 +247,7 @@
 		<text>Stalker, agora voce vai poder entrar no laboratorio, mas a menos que desative o emissor, nao vai durar muito tempo, mesmo com a proteçao psi. Estimamos uma localizaçao aproximada do emissor; ele esta em uma instalaçao subterranea. Eu marquei o local no seu mapa.</text>
 	</string>
 	<string id="yantar_general_ucheniy_talk_start_9112">
-		<text>Como eu entro no X16? Onde exatamente fica a entrada?</text>
+		<text>Como eu entro no X-16? Onde exatamente fica a entrada?</text>
 	</string>
 	<string id="yantar_general_ucheniy_talk_start_9113">
 		<text>Vasiliev estava trabalhando na questao do laboratorio. Ha cerca de uma semana, ele e um stalker chamado Ghost tentaram entrar. Algumas horas depois, sentimos um tremor forte, e depois de mais uma hora, recebemos um sinal de Vasiliev vindo do pantano, mas ele desapareceu. E Vasiliev desapareceu junto. Tente encontrar o corpo dele. Ele tinha as informaçoes exatas sobre o laboratorio e como entrar. Pode ser que ele tenha ate informaçoes sobre como desativar aquela fonte de emissao. Eu te enviei todos os dados que temos.</text>
@@ -256,7 +256,7 @@
 		<text>Ahem... Seria muito interessante dar uma olhada nesses documentos. Entao, voce acha que Vasiliev os tem?</text>
 	</string>
 	<string id="yantar_general_ucheniy_talk_start_9115">
-		<text>Talvez. De qualquer forma, voce deve começar encontrando o corpo de Vasiliev - essa e a unica chance de obter informaçoes precisas sobre a localizaçao do laboratorio. O corpo do seu colega, Ghost, deve estar por la tambem. Sabe, me parecia que ele sabia muito mais sobre o X16 do que nos disse. Se ele tivesse sobrevivido... Bem, claro, nao vale a pena se apegar a essa esperança.</text>
+		<text>Talvez. De qualquer forma, voce deve começar encontrando o corpo de Vasiliev - essa e a unica chance de obter informaçoes precisas sobre a localizaçao do laboratorio. O corpo do seu colega, Ghost, deve estar por la tambem. Sabe, me parecia que ele sabia muito mais sobre o X-16 do que nos disse. Se ele tivesse sobrevivido... Bem, claro, nao vale a pena se apegar a essa esperança.</text>
 	</string>
 	<string id="yantar_general_ucheniy_talk_start_9116">
 		<text>Ok, eu tentarei.</text>
