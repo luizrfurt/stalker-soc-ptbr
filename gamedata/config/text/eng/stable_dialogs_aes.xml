@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="windows-1251" ?>
 <string_table>
 	<string id="oso_chernobyl_crush_0">
-		<text>A explosao de 86 foi obra sua tambem?</text>
+		<text>A explosao de 86 tambem foi culpa sua?</text>
 	</string>
 	<string id="oso_chernobyl_crush_1">
-		<text>Nao, nao tivemos nada a ver com isso. A maioria de nos estava comecando na ciencia naquela epoca. A Zona de Chernobyl nao foi utilizada como local de experimento ate 1989.</text>
+		<text>Nao, nao tivemos nada a ver com isso. A maioria de nos ainda estava iniciando na ciencia naquela epoca. A Zona de Chernobyl so comecou a ser usada para experimentos em 1989.</text>
 	</string>
 	<string id="oso_death_truck_0">
 		<text>O que sao os "caminhoes da morte"?</text>
 	</string>
 	<string id="oso_death_truck_1">
-		<text>Os transportes que usamos para enviar nossos "agentes" marcados para a Zona. Eles se infiltram na "comunidade" stalker e cumprem nossas ordens sem perceber. Infelizmente, mais da metade dos stalkers morrem durante o transporte, a Zona e muito instavel. Voce e um de nossos agentes enviados para matar Strelok e agora estamos tentando descobrir como cometemos esse erro.</text>
+		<text>Veiculos que usamos para levar nossos "agentes" marcados ate a Zona. Eles se infiltram na "comunidade" stalker e seguem nossas ordens sem saber. Infelizmente, mais da metade morre no caminho. A Zona e instavel. Voce foi enviado para matar Strelok, e agora tentamos entender onde erramos.</text>
 	</string>
 	<string id="oso_no_0">
-		<text>Nao vou te ajudar nessa manipulacao.</text>
+		<text>Nao vou cair nessa manipulacao.</text>
 	</string>
 	<string id="oso_osoznanie_start_11">
-		<text>Ola, Strelok. Vejo que tem muitas perguntas para mim. Pois bem, pergunte-as e depois decidiremos o que fazer com voce.</text>
+		<text>Ola, Strelok. Imagino que tenha muitas perguntas. Pois bem, faca-as, e depois decidiremos o que fazer com voce.</text>
 	</string>
 	<string id="oso_osoznanie_start_21">
 		<text>A escolha e sua, Strelok.</text>
@@ -25,39 +25,39 @@
 		<text>O que significa a tatuagem "S.T.A.L.K.E.R."?</text>
 	</string>
 	<string id="oso_stalker_1">
-		<text>S.T.A.L.K.E.R. e uma sigla codificada, que usamos para marcar agentes programados para missoes especificas. Sua missao, como nosso agente, era matar Strelok e seu grupo. Eles se aproximaram demais de descobrir coisas que nao deveriam. Criamos uma rede de campos psi no caminho para o centro da Zona a fim de recrutar agentes. Voce conhece um desses campos pelo nome de Desintegrador Psiquico. Quando um stalker tenta chegar ao centro da Zona para cumprir algum desejo, assumimos o controle de sua consciencia e o programamos para uma missao especifica. Um erro foi cometido e sua missao era matar a si proprio.</text>
+		<text>S.T.A.L.K.E.R. e um codigo usado para marcar agentes programados para missoes especificas. Sua missao era eliminar Strelok e seu grupo, pois chegaram perto demais da verdade. Criamos campos psi no caminho para o centro da Zona para recrutar agentes. Voce conhece um deles como Desintegrador Psiquico. Quem tenta chegar ao centro e reprogramado para servir aos nossos interesses. Um erro ocorreu, e sua missao era eliminar a si mesmo.</text>
 	</string>
 	<string id="oso_what_about_me_0">
 		<text>O que aconteceu comigo?</text>
 	</string>
 	<string id="oso_what_about_me_1">
-		<text>Voce e um parafuso que caiu da maquina. Infelizmente, isso nao nos chamou a atencao por muito tempo. Desde o momento em que a Zona foi formada, muitas pessoas tentaram chegar ao seu centro, mas nao podemos deixar isso acontecer. A humanidade nao esta pronta para a verdade. Por isso, recrutamos stalkers prometendo-lhes o cumprimento de seus desejos mais cobiçados. Uma vez recrutados, seriam enviados para proteger o segredo da Zona.</text>
+		<text>Voce e apenas um parafuso solto na maquina. Algo que passou despercebido por um tempo. Desde que a Zona surgiu, muitos tentaram chegar ao centro, mas nao podemos permitir isso. A humanidade nao esta pronta para a verdade. Oferecemos a stalkers o cumprimento de seus maiores desejos, apenas para recruta-los e fazer com que protejam o segredo da Zona.</text>
 	</string>
 	<string id="oso_what_is_the_zone_0">
 		<text>O que e a Zona? Como ela surgiu?</text>
 	</string>
 	<string id="oso_what_is_the_zone_1">
-		<text>O que voce ve e o resultado de uma intervencao mal calculada na noosfera da Terra. Tentativas de afetar a noosfera causaram uma rachadura local. A Zona e simplesmente a manifestacao visivel dessa rachadura. O problema subjacente e muito maior do que voce pode imaginar.</text>
+		<text>O que voce ve e o resultado de uma falha em nossas tentativas de manipular a noosfera da Terra. Tentamos alterar esse campo informacional global e causamos uma fissura. A Zona e apenas a manifestacao visivel desse erro. O verdadeiro problema e muito maior do que voce pode imaginar.</text>
 	</string>
 	<string id="oso_what_next_0">
 		<text>E agora?</text>
 	</string>
 	<string id="oso_what_next_1">
-		<text>Isso depende de voce. A Zona esta crescendo. Estamos tentando conter sua expansao, mas a humanidade parece determinada a prejudicar nosso trabalho. Nossos recursos nao sao ilimitados e os corpos ligados ao C-Consciencia acabam morrendo. Se voce se juntar a nos, podemos restringir o crescimento da Zona. Se decidir o contrario, nao podemos fazer uma prognose confiavel sobre o resultado.</text>
+		<text>Isso depende de voce. A Zona continua crescendo. Estamos tentando conter sua expansao, mas a humanidade insiste em atrapalhar. Nossos recursos sao limitados e os corpos ligados ao C-Consciencia estao morrendo. Se se juntar a nos, poderemos desacelerar o crescimento da Zona. Caso contrario, nao podemos prever o que acontecera.</text>
 	</string>
 	<string id="oso_who_are_you_0">
 		<text>Quem sao voces?</text>
 	</string>
 	<string id="oso_who_are_you_1">
-		<text>Somos o resultado de um experimento voltado para a criacao de uma superconsciencia chamada "C-Consciencia". As consciencias de sete voluntarios foram conectadas durante o experimento, levando a criacao da superconsciencia que somos nos. Imediatamente subordinamos aqueles que conduziam o experimento e os designamos para tarefas que precisavamos que realizassem. Segundo nossos calculos, a Terra esta cercada por um campo informacional especial, o chamado noosfera. Ele inclui todos os habitantes do planeta com habilidades cognitivas. Nosso principal objetivo era fazer pequenos ajustes na noosfera, permitindo-nos remover fatores negativos como raiva, crueldade, ganancia e outros. Individuos nao conseguem afetar a noosfera, mas C-Consciencia pode. Infelizmente, cometemos um erro e nossa interferencia gerou a Zona, que estamos tentando conter desde entao.</text>
+		<text>Somos o resultado de um experimento para criar uma superconsciencia chamada "C-Consciencia". Sete voluntarios tiveram suas mentes conectadas, formando uma unica entidade. Imediatamente assumimos o controle do experimento e o direcionamos para nossos objetivos. Descobrimos que a Terra e cercada por um campo informacional conhecido como noosfera, que inclui todas as mentes cognitivas do planeta. Nosso objetivo era modificar a noosfera para remover aspectos negativos como raiva, crueldade e ganancia. Humanos comuns nao podem afetar a noosfera, mas C-Consciencia pode. Infelizmente, cometemos um erro e criamos a Zona, que desde entao tentamos conter.</text>
 	</string>
 	<string id="oso_why_chernobyl_0">
-		<text>Por que aconteceu aqui?</text>
+		<text>Por que tudo aconteceu aqui?</text>
 	</string>
 	<string id="oso_why_chernobyl_1">
-		<text>Foi o melhor lugar. Depois da explosao em 1986, sobraram poucas pessoas nesta area e podiamos trabalhar sem medo de sermos encontrados. Alem disso, havia muitas antenas poderosas aqui, que sao extremamente importantes para nossos experimentos de otimizacao cognitiva.</text>
+		<text>Foi o local perfeito. Depois da explosao de 1986, poucas pessoas permaneceram na regiao, o que nos permitiu operar sem interferencia. Alem disso, a area possuia varias antenas poderosas, essenciais para nossos experimentos de otimizacao cognitiva.</text>
 	</string>
 	<string id="oso_yes_0">
-		<text>Concordo em me juntar ao projeto C-Consciencia.</text>
+		<text>Eu aceito me juntar ao C-Consciencia.</text>
 	</string>
 </string_table>

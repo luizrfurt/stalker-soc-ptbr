@@ -13,7 +13,7 @@
 		<text>Merc</text>
 	</string>
 	<string id="bad">
-		<text>ruim</text>
+		<text>Ruim</text>
 	</string>
 	<string id="bandit">
 		<text>Bandido</text>
@@ -25,10 +25,10 @@
 		<text>Ecologista</text>
 	</string>
 	<string id="enemy">
-		<text>inimigo</text>
+		<text>Inimigo</text>
 	</string>
 	<string id="excellent">
-		<text>excelente</text>
+		<text>Excelente</text>
 	</string>
 	<string id="exo_outfit_name_m1">
 		<text>Exoesqueleto PNB-4UZ</text>
@@ -43,13 +43,13 @@
 		<text>Freedom</text>
 	</string>
 	<string id="friendly">
-		<text>amigo</text>
+		<text>Amigo</text>
 	</string>
 	<string id="good">
-		<text>bom</text>
+		<text>Bom</text>
 	</string>
 	<string id="indifferent">
-		<text>neutro</text>
+		<text>Neutro</text>
 	</string>
 	<string id="killer">
 		<text>Merc</text>
@@ -73,7 +73,7 @@
 		<text>Territorio Selvagem</text>
 	</string>
 	<string id="l07_military">
-		<text>Armazens militares</text>
+		<text>Armazens Militares</text>
 	</string>
 	<string id="l08_yantar">
 		<text>Yantar</text>
@@ -91,7 +91,7 @@
 		<text>Usina Nuclear de Chernobyl</text>
 	</string>
 	<string id="master">
-		<text>especialista</text>
+		<text>Especialista</text>
 	</string>
 	<string id="military">
 		<text>Militar</text>
@@ -100,7 +100,7 @@
 		<text>Monolith</text>
 	</string>
 	<string id="neutral">
-		<text>neutro</text>
+		<text>Neutro</text>
 	</string>
 	<string id="novice">
 		<text>Novato</text>
@@ -115,34 +115,34 @@
 		<text>Loner</text>
 	</string>
 	<string id="terrible">
-		<text>terrivel</text>
+		<text>Terrivel</text>
 	</string>
 	<string id="trader">
 		<text>Comerciante</text>
 	</string>
 	<string id="ui_st_community">
-		<text>grupo</text>
+		<text>Grupo</text>
 	</string>
 	<string id="ui_st_price">
 		<text>Preco</text>
 	</string>
 	<string id="ui_st_rank">
-		<text>ranking</text>
+		<text>Ranking</text>
 	</string>
 	<string id="ui_st_relation">
-		<text>atitude</text>
+		<text>Atitude</text>
 	</string>
 	<string id="ui_st_reputation">
-		<text>reputacao</text>
+		<text>Reputacao</text>
 	</string>
 	<string id="very_bad">
 		<text>Muito ruim</text>
 	</string>
 	<string id="very_good">
-		<text>muito bom</text>
+		<text>Muito bom</text>
 	</string>
 	<string id="veteran">
-		<text>veterano</text>
+		<text>Veterano</text>
 	</string>
 	<string id="zombied">
 		<text>Zumbificado</text>
@@ -169,16 +169,16 @@
 		<text>Fim de jogo</text>
 	</string>
 	<string id="st_item_used">
-		<text>Usado</text>
+		<text>Item usado</text>
 	</string>
 	<string id="st_not_enough_money">
 		<text>Dinheiro insuficiente</text>
 	</string>
 	<string id="st_not_enough_money_npc">
-		<text>o NPC nao tem dinheiro suficiente</text>
+		<text>O NPC nao tem dinheiro suficiente</text>
 	</string>
 	<string id="ui_st_opponent_items">
-		<text>Itens a comprar</text>
+		<text>Itens para comprar</text>
 	</string>
 	<string id="st_search_treasure">
 		<text>Procurar no esconderijo ($$ACTION_USE$$)</text>
@@ -217,31 +217,31 @@
 		<text>Faca</text>
 	</string>
 	<string id="st_mp_disabled_voting">
-		<text>Votacao nao disponivel neste servidor.</text>
+		<text>Votacao desabilitada neste servidor</text>
 	</string>
 	<string id="st_mp_no_current_voting">
-		<text>Sem votacoes ativas.</text>
+		<text>Sem votacoes ativas</text>
 	</string>
 	<string id="st_mp_ready">
-		<text>pronto</text>
+		<text>Pronto</text>
 	</string>
 	<string id="st_mp_voting_succeed">
-		<text>Votacao bem-sucedida!</text>
+		<text>Votacao realizada com sucesso!</text>
 	</string>
 	<string id="st_mp_voting_failed">
-		<text>Votacao fracassada!</text>
+		<text>Votacao falhou!</text>
 	</string>
 	<string id="l03u_agr_underground">
 		<text>Agroprom Subsolo</text>
 	</string>
 	<string id="l04u_labx18">
-		<text>Lab X-18</text>
+		<text>Laboratorio X-18</text>
 	</string>
 	<string id="l08u_brainlab">
-		<text>Lab X-16</text>
+		<text>Laboratorio X-16</text>
 	</string>
 	<string id="l10u_bunker">
-		<text>Lab X-10</text>
+		<text>Laboratorio X-10</text>
 	</string>
 	<string id="l12u_sarcofag">
 		<text>Sarcofago</text>

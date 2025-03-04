@@ -4,7 +4,7 @@
 		<text>TIPO DE JOGO</text>
 	</string>
 	<string id="icon">
-		<text>ICONES</text>
+		<text>ICONE</text>
 	</string>
 	<string id="map">
 		<text>MAPA</text>
@@ -25,7 +25,7 @@
 		<text>Numero de artefatos</text>
 	</string>
 	<string id="mm_mp_artefstay">
-		<text>Vida do artefato (min)</text>
+		<text>Duracao do artefato (min)</text>
 	</string>
 	<string id="mm_mp_autoteambalance">
 		<text>Balanceamento automatico de times</text>
@@ -58,7 +58,7 @@
 		<text>Mortes</text>
 	</string>
 	<string id="mm_mp_dedicated">
-		<text>Dedidado</text>
+		<text>Servidor dedicado</text>
 	</string>
 	<string id="mm_mp_empty">
 		<text>Vazio</text>
@@ -91,7 +91,7 @@
 		<text>Cheio</text>
 	</string>
 	<string id="mm_mp_gamemode">
-		<text>Modo</text>
+		<text>Modo de jogo</text>
 	</string>
 	<string id="mm_mp_host_port">
 		<text>IP/host:porta</text>
@@ -106,7 +106,7 @@
 		<text>LAN</text>
 	</string>
 	<string id="mm_mp_listenservers">
-		<text>Ouvir</text>
+		<text>Ouvir servidores</text>
 	</string>
 	<string id="mm_mp_mapratation">
 		<text>Lista de mapas</text>
@@ -154,73 +154,73 @@
 		<text>MAPAS SELECIONADOS</text>
 	</string>
 	<string id="mm_mp_server">
-		<text>Servidor</text>
+		<text>SERVIDOR</text>
 	</string>
 	<string id="mm_mp_server_list">
-		<text>Lista de servidores</text>
+		<text>LISTA DE SERVIDORES</text>
 	</string>
 	<string id="mm_mp_server_prop">
-		<text>Propriedades do servidor</text>
+		<text>PROPRIEDADES DO SERVIDOR</text>
 	</string>
 	<string id="mm_mp_serverinfo">
-		<text>Informacoes do servidor</text>
+		<text>INFORMACOES DO SERVIDOR</text>
 	</string>
 	<string id="mm_mp_serverlist">
-		<text>Servidor</text>
+		<text>SERVIDORES</text>
 	</string>
 	<string id="mm_mp_servername">
-		<text>Nome do servidor</text>
+		<text>NOME DO SERVIDOR</text>
 	</string>
 	<string id="mm_mp_serversettings">
-		<text>Configuracoes do servidor</text>
+		<text>CONFIGURACOES DO SERVIDOR</text>
 	</string>
 	<string id="mm_mp_spectator">
-		<text>Espectador</text>
+		<text>ESPECTADOR</text>
 	</string>
 	<string id="mm_mp_spectator_firsteye">
-		<text>Primeira pessoa</text>
+		<text>PRIMEIRA PESSOA</text>
 	</string>
 	<string id="mm_mp_spectator_freefly">
-		<text>Camera livre</text>
+		<text>CAMERA LIVRE</text>
 	</string>
 	<string id="mm_mp_spectator_freelook">
-		<text>Visao livre</text>
+		<text>VISAO LIVRE</text>
 	</string>
 	<string id="mm_mp_spectator_lookat">
-		<text>Terceira pessoa</text>
+		<text>TERCEIRA PESSOA</text>
 	</string>
 	<string id="mm_mp_spectator_options">
-		<text>Configuracoes do espectador</text>
+		<text>CONFIGURACOES DO ESPECTADOR</text>
 	</string>
 	<string id="mm_mp_spectator_teamonly">
-		<text>Apenas time</text>
+		<text>APENAS TIME</text>
 	</string>
 	<string id="mm_mp_startweather">
-		<text>Clima inicial</text>
+		<text>CLIMA INICIAL</text>
 	</string>
 	<string id="mm_mp_timelimit">
-		<text>Limite de tempo (min)</text>
+		<text>LIMITE DE TEMPO (min)</text>
 	</string>
 	<string id="mm_mp_warmuptime">
-		<text>Aquecimento (seg)</text>
+		<text>AQUECIMENTO (seg)</text>
 	</string>
 	<string id="mm_mp_weatheroptions">
-		<text>Opcoes de clima</text>
+		<text>OPCOES DE CLIMA</text>
 	</string>
 	<string id="mm_mp_withoutfriendlyfire">
-		<text>Sem dano amigavel</text>
+		<text>SEM DANO AMIGAVEL</text>
 	</string>
 	<string id="mm_mp_withoutpassword">
-		<text>Sem senha</text>
+		<text>SEM SENHA</text>
 	</string>
 	<string id="mm_mp_withoutpunkbuster">
-		<text>Sem PunkBuster</text>
+		<text>SEM PUNKBUSTER</text>
 	</string>
 	<string id="mm_mp_withpassword">
-		<text>Usar senha</text>
+		<text>USAR SENHA</text>
 	</string>
 	<string id="mp_vote_hint">
-		<text>Votar A FAVOR-[$$ACTION_VOTE_YES$$]\nVotar CONTRA-[$$ACTION_VOTE_NO$$]\nResultados-[$$ACTION_VOTE$$]</text>
+		<text>VOTAR A FAVOR-[$$ACTION_VOTE_YES$$]\nVOTAR CONTRA-[$$ACTION_VOTE_NO$$]\nRESULTADOS-[$$ACTION_VOTE$$]</text>
 	</string>
 	<string id="ping">
 		<text>PING</text>
@@ -232,9 +232,9 @@
 		<text>NOME DO SERVIDOR</text>
 	</string>
 	<string id="version">
-		<text>Versao</text>
+		<text>VERSAO</text>
 	</string>
 	<string id="st_mp_gsfilter">
-		<text>Filtro:</text>
+		<text>FILTRO:</text>
 	</string>
 </string_table>

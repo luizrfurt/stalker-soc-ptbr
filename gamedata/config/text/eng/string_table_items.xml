@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="windows-1251" ?>
-	<string_table>
+<string_table>
 	<string id="item test1">
 		<text>Esta e uma string de teste de ITEM</text>
 	</string>
@@ -10,25 +10,25 @@
 		<text>Maleta a prova de fogo com documentos.</text>
 	</string>
 	<string id="item_decoder_desc">
-		<text>Arrombador electronico poderoso. Estranhamente, nao parece ser um instrumento para ladroes de uso geral. Na verdade, parece ter sido criado com uma fechadura electronica especifica em mente e nao pode ser usado para anular qualquer outra coisa.</text>
+		<text>Arrombador electronico poderoso. Estranho, nao parece ser um instrumento comum para ladroes. Na verdade, parece ter sido feito para uma fechadura electronica especifica e nao pode ser usado em outras.</text>
 	</string>
 	<string id="item_decoder_name">
 		<text>Decodificador</text>
 	</string>
 	<string id="item_detector_yantar_desc">
-		<text>Detector de emissoes Psi</text>
+		<text>Detector de emissoes Psi.</text>
 	</string>
 	<string id="item_detector_yantar_name">
 		<text>Sensor PP-4a</text>
 	</string>
 	<string id="item_doc_x16_desc">
-		<text>Arquivo de documentos plastico. Voce precisaria de um diploma em biologia para entender uma palavra do que esta escrito.</text>
+		<text>Arquivo plastico com documentos. Voce precisaria de um diploma em biologia para entender alguma coisa do que esta escrito.</text>
 	</string>
 	<string id="item_doc_x16_name">
 		<text>Documentos do Lab X-16</text>
 	</string>
 	<string id="item_doc_x18_desc">
-		<text>Uma grossa pilha de documentos cientificos. Termos, formulas e varios diagramas.</text>
+		<text>Uma pilha de documentos cientificos. Termos, formulas e varios diagramas.</text>
 	</string>
 	<string id="item_doc_x18p1_name">
 		<text>Documentos do Lab X-18, parte 1</text>
@@ -46,37 +46,37 @@
 		<text>Documentos do Lab X-18, parte 5</text>
 	</string>
 	<string id="item_docs_hiden_pri_desc">
-		<text>Manuscrito desgastado encadernado em couro. Escrito pelo proprio Strelok. Judando apenas pelos titulos, pode explicar alguns dos segredos da Zona.</text>
+		<text>Manuscrito encadernado em couro, escrito pelo proprio Strelok. Judando pelos titulos, pode revelar alguns dos segredos da Zona.</text>
 	</string>
 	<string id="item_docs_hiden_pri_name">
 		<text>Documentos do esconderijo secreto em Pripyat</text>
 	</string>
 	<string id="item_dynamite_esc_desc">
-		<text>Uma caixa de madeira pesada com a palavra "Explosivos" escrita em varias linguas</text>
+		<text>Uma caixa de madeira com a palavra "Explosivos" escrita em varias linguas.</text>
 	</string>
 	<string id="item_dynamite_esc_name">
 		<text>Caixa de explosivos</text>
 	</string>
 	<string id="item_flash_crazy_mil_desc">
-		<text>Pendrive - maneira conveniente de armazenar e transferir informacoes.</text>
+		<text>Pendrive - uma maneira conveniente de armazenar e transferir informacoes.</text>
 	</string>
 	<string id="item_flash_crazy_mil_name">
 		<text>Pendrive do stalker louco</text>
 	</string>
 	<string id="item_flash_eco_rost_desc">
-		<text>Pendrive - maneira conveniente de armazenar e transferir informacoes.</text>
+		<text>Pendrive - uma maneira conveniente de armazenar e transferir informacoes.</text>
 	</string>
 	<string id="item_flash_eco_rost_name">
 		<text>Pendrive do Professor Kruglov</text>
 	</string>
 	<string id="item_flash_esc_desc">
-		<text>Pendrive - maneira conveniente de armazenar e transferir informacoes.</text>
+		<text>Pendrive - uma maneira conveniente de armazenar e transferir informacoes.</text>
 	</string>
 	<string id="item_flash_esc_name">
 		<text>Pendrive do stalker prisioneiro</text>
 	</string>
 	<string id="item_flash_gslinger_agro_desc">
-		<text>Pendrive - maneira conveniente de armazenar e transferir informacoes.</text>
+		<text>Pendrive - uma maneira conveniente de armazenar e transferir informacoes.</text>
 	</string>
 	<string id="item_flash_gslinger_agro_name">
 		<text>Pendrive do Strelok</text>
@@ -112,13 +112,13 @@
 		<text>Documentos do posto avancado</text>
 	</string>
 	<string id="yan_bad_psy_helmet_desc">
-		<text>Prototipo desenvolvido por cientistas para proteger as pessoas de emissoes psi. Nao ajustado.</text>
+		<text>Prototipo desenvolvido por cientistas para proteger contra emissoes psi. Nao ajustado.</text>
 	</string>
 	<string id="yan_bad_psy_helmet_name">
-		<text>Capacete psi nao ajustado.</text>
+		<text>Capacete psi nao ajustado</text>
 	</string>
 	<string id="yan_good_psy_helmet_desc">
-		<text>Prototipo funcional desenvolvido por cientistas para proteger as pessoas de emissoes psi</text>
+		<text>Prototipo funcional desenvolvido por cientistas para proteger contra emissoes psi.</text>
 	</string>
 	<string id="yan_good_psy_helmet_name">
 		<text>Capacete psi funcional</text>

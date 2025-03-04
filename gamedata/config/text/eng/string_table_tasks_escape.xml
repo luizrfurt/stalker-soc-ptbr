@@ -1,11 +1,11 @@
 	<string id="esc_bandits_on_factory">
-		<text>Mate os bandidos na fabrica</text>
+		<text>Elimine os bandidos na fabrica</text>
 	</string>
 	<string id="esc_bandits_on_factory_0">
-		<text>Mate os bandidos que se esconderam na fabrica.</text>
+		<text>Acabe com os bandidos que se esconderam na fabrica.</text>
 	</string>
 	<string id="esc_bandits_on_factory_1">
-		<text>Mate todos os bandidos na fabrica</text>
+		<text>Acabe com todos os bandidos na fabrica</text>
 	</string>
 	<string id="esc_bandits_on_factory_2">
 		<text>Fale com o trader</text>
@@ -38,22 +38,22 @@
 		<text>Fale com o comandante dos novatos</text>
 	</string>
 	<string id="esc_dinamit_to_volk">
-		<text>Mate os bandidos no estacionamento</text>
+		<text>Elimine os bandidos no estacionamento</text>
 	</string>
 	<string id="esc_dinamit_to_volk_0">
-		<text>Mate os bandidos no estacionamento e reporte ao Wolf.</text>
+		<text>Elimine os bandidos no estacionamento e reporte ao Wolf.</text>
 	</string>
 	<string id="esc_dinamit_to_volk_1">
 		<text>Encontre-se com os exploradores de Wolf</text>
 	</string>
 	<string id="esc_dinamit_to_volk_2">
-		<text>Mate todos os bandidos</text>
+		<text>Elimine todos os bandidos</text>
 	</string>
 	<string id="esc_dinamit_to_volk_3">
 		<text>Fale com o Wolf</text>
 	</string>
 	<string id="esc_help_wounded_from_raid">
-		<text>Saiba algo sobre o Strelok com o Fox</text>
+		<text>Descubra algo sobre o Strelok com o Fox</text>
 	</string>
 	<string id="esc_help_wounded_from_raid_0">
 		<text>Ajude o Stalker ferido</text>
@@ -71,10 +71,10 @@
 		<text>Entregue o pacote ao trader. Ele podera te ajudar.</text>
 	</string>
 	<string id="garbage_meet_stalker">
-		<text>Encontre com o Seriy.</text>
+		<text>Encontre-se com o Seriy.</text>
 	</string>
 	<string id="garbage_meet_stalker_0">
-		<text>Encontre com o Seriy no Lixao.</text>
+		<text>Encontre-se com o Seriy no Lixao.</text>
 	</string>
 	<string id="meet_with_doctor">
 		<text>Encontre-se com o Doutor.</text>
@@ -86,7 +86,7 @@
 		<text>Encontre-se com o Doutor no esconderijo do Strelok</text>
 	</string>
 	<string id="storyline_escape_eliminate_gunslinger">
-		<text>Mate o Strelok</text>
+		<text>Elimine o Strelok</text>
 	</string>
 	<string id="storyline_escape_find_gunslinger">
 		<text>Encontre o Strelok</text>
@@ -104,10 +104,10 @@
 		<text>Leve o artefato ao trader.</text>
 	</string>
 	<string id="tutorial_help_wounded">
-		<text>Obtenha informacoes do scout</text>
+		<text>Descubra informacoes do scout</text>
 	</string>
 	<string id="tutorial_help_wounded_0">
-		<text>Leve a informacao ao trader</text>
+		<text>Leve as informacoes ao trader</text>
 	</string>
 	<string id="tutorial_help_wounded_1">
 		<text>Fale com o Wolf</text>
@@ -140,7 +140,7 @@
 		<text>Va para o aterro ferroviario</text>
 	</string>
 	<string id="find_railroad_passage_1">
-		<text>Encontre com o jornaleiro</text>
+		<text>Encontre-se com o jornaleiro</text>
 	</string>
 	<string id="find_railroad_passage_2">
 		<text>Traverse o aterro ferroviario</text>

@@ -7,7 +7,7 @@
 		<text>Bonus PDA</text>
 	</string>
 	<string id="st_drink">
-		<text>beber</text>
+		<text>Beber</text>
 	</string>
 	<string id="st_mp_direct_ip">
 		<text>IP direto</text>
@@ -28,7 +28,7 @@
 		<text>Render 2</text>
 	</string>
 	<string id="ui_pda_details">
-		<text># /detalhes</text>
+		<text># / Detalhes</text>
 	</string>
 	<string id="ui_st_btn_cancel">
 		<text>Cancelar</text>
@@ -88,13 +88,13 @@
 		<text>seg.</text>
 	</string>
 	<string id="ui_st_select_one_map">
-		<text>Por favor, selecione pelo menos um mapa</text>
+		<text>Selecione pelo menos um mapa</text>
 	</string>
 	<string id="ui_st_take_all">
 		<text>Pegar tudo</text>
 	</string>
 	<string id="ui_st_time_remains">
-		<text>Restante</text>
+		<text>Tempo restante</text>
 	</string>
 	<string id="ui_st_trade">
 		<text>Negociar</text>
@@ -103,13 +103,13 @@
 		<text>Votacao desabilitada</text>
 	</string>
 	<string id="ui_st_want_to_leave_game_q">
-		<text>Voce realmente quer sair do jogo?</text>
+		<text>Voce tem certeza que quer sair do jogo?</text>
 	</string>
 	<string id="ui_st_your_items">
-		<text>Itens a vender</text>
+		<text>Itens para vender</text>
 	</string>
 	<string id="st_game_over_press_jump">
-		<text>pressione ($$ACTION_JUMP$$) para sair para o menu principal</text>
+		<text>Pressione ($$ACTION_JUMP$$) para voltar ao menu principal</text>
 	</string>
 	<string id="st_level">
 		<text>Nivel</text>
@@ -184,13 +184,13 @@
 		<text>Erro de conexao: Seu CD-Key esta desabilitado. Contate o suporte.</text>
 	</string>
 	<string id="ui_st_conn_new_patch">
-		<text>Novo patch disponivel.\n Versao: %s\n Localizacao: %s\nVoce deseja baixar agora?</text>
+		<text>Novo patch disponivel.\n Versao: %s\n Localizacao: %s\nVoce quer baixar agora?</text>
 	</string>
 	<string id="ui_st_conn_no_new_patch">
 		<text>Sem novos patches disponiveis no momento</text>
 	</string>
 	<string id="ui_mm_delete_existing_file_q">
-		<text>Voce realmente quer deletar o arquivo?</text>
+		<text>Voce tem certeza que quer deletar o arquivo?</text>
 	</string>
 	<string id="st_game_paused">
 		<text>Pausa</text>
@@ -217,18 +217,18 @@
 		<text>Tentando conectar ao servidor principal</text>
 	</string>
 	<string id="mp_only_one_voting">
-		<text>Somente uma votacao ativa permitida</text>
+		<text>Somente uma votacao ativa e permitida</text>
 	</string>
 	<string id="ui_st_patch_download_success">
-		<text>Patch foi baixado com sucesso. Voce deseja instala-lo?</text>
+		<text>Patch baixado com sucesso. Voce deseja instala-lo?</text>
 	</string>
 	<string id="ui_st_patch_download_error">
-		<text>Nao foi possivel baixar o patch.</text>
+		<text>Falha ao baixar o patch.</text>
 	</string>
 	<string id="ui_st_load_game_confirm">
-		<text>Carregar o jogo causara a perda de dados nao salvos. Continuar?</text>
+		<text>Carregar o jogo ira perder os dados nao salvos. Continuar?</text>
 	</string>
 	<string id="ui_st_invalid_saved_game">
-		<text>Incompatibilidade de versao do jogo salvo ou o jogo salvo esta corrompido</text>
+		<text>Versao incompativel do jogo salvo ou arquivo corrompido</text>
 	</string>
 </string_table>

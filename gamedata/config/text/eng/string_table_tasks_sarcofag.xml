@@ -11,38 +11,38 @@
 		<text>Encontrar o Concessor de Desejos</text>
 	</string>
 	<string id="sar_monolith_destroy">
-		<text>O segredo do Monolito.</text>
+		<text>O segredo do Monolito</text>
 	</string>
 	<string id="sar_monolith_destroy_0">
-		<text>Infiltrar-se no laboratorio secreto.</text>
+		<text>Infiltrar-se no laboratorio secreto</text>
 	</string>
 	<string id="sar_monolith_destroy_1">
-		<text>Resolver o segredo do Monolito.</text>
+		<text>Resolver o segredo do Monolito</text>
 	</string>
 	<string id="sar_monolith_destroy_2">
-		<text>Destruir os geradores de energia do Monolito.</text>
+		<text>Destruir os geradores de energia do Monolito</text>
 	</string>
 	<string id="sar_perception">
-		<text>O segredo da Zona.</text>
+		<text>O segredo da Zona</text>
 	</string>
 	<string id="sar_perception_1">
-		<text>Encontrar quem esta por tras do Monolito.</text>
+		<text>Encontrar quem esta por tras do Monolito</text>
 	</string>
 	<string id="sar_perception_2">
-		<text>Encontrar o laboratorio secreto e conhecer os "marionetistas".</text>
+		<text>Encontrar o laboratorio secreto e conhecer os "marionetistas"</text>
 	</string>
 	<string id="sar_secret_lab">
 		<text>Laboratorio secreto</text>
 	</string>
 	<string id="sar_secret_lab_0">
-		<text>Entrar no bunker secreto.</text>
+		<text>Entrar no bunker secreto</text>
 	</string>
 	<string id="sar_secret_lab_1">
-		<text>Encontrar a porta secreta.</text>
+		<text>Encontrar a porta secreta</text>
 	</string>
 	<string id="sar_secret_lab_2">
-		<text>Abrir a porta usando o decodificador.</text>
+		<text>Abrir a porta usando o decodificador</text>
 	</string>
 	<string id="sar_secret_lab_3">
-		<text>Descobrir o que esta por tras da porta.</text>
+		<text>Descobrir o que esta por tras da porta</text>
 	</string>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="windows-1251" ?>
 <string_table>
 	<string id="actor_btn_hint">
-		<text>Centralizar ator</text>
+		<text>Centralizar personagem</text>
 	</string>
 	<string id="add_spot_btn_hint">
 		<text>Adicionar novo marcador</text>
@@ -13,10 +13,10 @@
 		<text>Enciclopedia</text>
 	</string>
 	<string id="global_map_btn_hint">
-		<text>Para mapa da Zona</text>
+		<text>Ir para o mapa da Zona</text>
 	</string>
 	<string id="level_changer_invitation">
-		<text>Mover para o proximo nivel?</text>
+		<text>Avancar para o proximo nivel?</text>
 	</string>
 	<string id="Name">
 		<text>Nome</text>
@@ -37,19 +37,19 @@
 		<text>Contatos</text>
 	</string>
 	<string id="pda_btn_contacts_hint">
-		<text>Mostrar lista de contatos stalker</text>
+		<text>Ver lista de contatos stalker</text>
 	</string>
 	<string id="pda_btn_diary">
 		<text>Diario</text>
 	</string>
 	<string id="pda_btn_diary_hint">
-		<text>Mostrar diario do jogador</text>
+		<text>Exibir diario do jogador</text>
 	</string>
 	<string id="pda_btn_encyclopedia">
 		<text>Enciclopedia</text>
 	</string>
 	<string id="pda_btn_encyclopedia_hint">
-		<text>Mostrar a enciclopedia da Zona</text>
+		<text>Ver enciclopedia da Zona</text>
 	</string>
 	<string id="pda_btn_failed">
 		<text>Fracassadas</text>
@@ -70,13 +70,13 @@
 		<text>Mapa</text>
 	</string>
 	<string id="pda_btn_map_hint">
-		<text>Mostrar mapa da Zona</text>
+		<text>Ver mapa da Zona</text>
 	</string>
 	<string id="pda_btn_news">
 		<text>Historico de mensagens</text>
 	</string>
 	<string id="pda_btn_news_hint">
-		<text>Mostrar historico de mensagens</text>
+		<text>Ver historico de mensagens</text>
 	</string>
 	<string id="pda_btn_off_hint">
 		<text>Desligar</text>
@@ -85,19 +85,19 @@
 		<text>Meus</text>
 	</string>
 	<string id="pda_btn_own_hint">
-		<text>Mostrar meus marcadores no mapa</text>
+		<text>Ver meus marcadores no mapa</text>
 	</string>
 	<string id="pda_btn_quests">
 		<text>Missoes</text>
 	</string>
 	<string id="pda_btn_quests_hint">
-		<text>Mostrar informacoes de quest</text>
+		<text>Ver informacoes das missoes</text>
 	</string>
 	<string id="pda_btn_ranking">
 		<text>Ranking</text>
 	</string>
 	<string id="pda_btn_ranking_hint">
-		<text>Mostrar ranking dos top stalkers</text>
+		<text>Ver ranking dos top stalkers</text>
 	</string>
 	<string id="pda_btn_reputation">
 		<text>Reputacao</text>
@@ -106,46 +106,46 @@
 		<text>Estatisticas</text>
 	</string>
 	<string id="pda_btn_statistics_hint">
-		<text>Mostrar estatisticas de progresso</text>
+		<text>Ver estatisticas de progresso</text>
 	</string>
 	<string id="pda_edit_user_task_btn_hint">
-		<text>Editar descricao</text>
+		<text>Alterar descricao</text>
 	</string>
 	<string id="pda_remove_btn_hint">
-		<text>Excluir marcador</text>
+		<text>Remover marcador</text>
 	</string>
 	<string id="pda_show_descr_btn_hint">
-		<text>Ir</text>
+		<text>Ir para o local</text>
 	</string>
 	<string id="pda_show_location_btn_hint">
-		<text>Mostrar marcadores no mapa</text>
+		<text>Ver marcadores no mapa</text>
 	</string>
 	<string id="pda_show_pointer_btn_hint">
 		<text>Ativar marcador</text>
 	</string>
 	<string id="pda_switch_description_btn_hint">
-		<text>Alternar mapa/texto</text>
+		<text>Alternar entre mapa e texto</text>
 	</string>
 	<string id="Rank">
 		<text>Rank</text>
 	</string>
 	<string id="remove_spot_btn_hint">
-		<text>Excluir marcador</text>
+		<text>Remover marcador</text>
 	</string>
 	<string id="st_detail_list_for_artefacts">
-		<text>Artefatos ganhos</text>
+		<text>Artefatos coletados</text>
 	</string>
 	<string id="st_detail_list_for_community_relations">
 		<text>Relacoes com faccoes</text>
 	</string>
 	<string id="st_detail_list_for_monsterkills">
-		<text>Mutantes mortos</text>
+		<text>Mutantes derrotados</text>
 	</string>
 	<string id="st_detail_list_for_quests">
 		<text>Missoes concluidas</text>
 	</string>
 	<string id="st_detail_list_for_stalkerkills">
-		<text>Stalkers mortos</text>
+		<text>Stalkers eliminados</text>
 	</string>
 	<string id="st_map_actor">
 		<text>Este sou eu</text>
@@ -160,7 +160,7 @@
 		<text>Informacoes detalhadas</text>
 	</string>
 	<string id="st_pda_monster_kills">
-		<text>Mutantes mortos</text>
+		<text>Mutantes derrotados</text>
 	</string>
 	<string id="st_pda_player_statistic">
 		<text>Estatisticas do jogador</text>
@@ -169,7 +169,7 @@
 		<text>Missoes concluidas</text>
 	</string>
 	<string id="st_pda_stalker_kills">
-		<text>Stalkers mortos</text>
+		<text>Stalkers eliminados</text>
 	</string>
 	<string id="st_pda_statistic_reputation">
 		<text>Reputacao:</text>

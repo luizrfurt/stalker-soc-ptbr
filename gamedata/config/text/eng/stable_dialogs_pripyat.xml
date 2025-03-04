@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="windows-1251" ?>
 <string_table>
 	<string id="pri_followers_start_dlg_21">
-		<text>Vamos subir a rua. Se algo acontecer, me cubra.</text>
+		<text>Vamos subir a rua. Se algo der errado, me de cobertura.</text>
 	</string>
 	<string id="pri_followers_start_dlg_211">
-		<text>OK.</text>
+		<text>Entendido.</text>
 	</string>
 	<string id="pri_followers_start_dlg_31">
-		<text>Obrigado pela ajuda, Marcado. Foi uma luta dificil. Podemos descansar aqui. Se voce quiser continuar, eu te conto mais sobre a area. Se voce voltar e virar a direita, vai chegar na estaçao de onibus. Aquela area e aberta e nao muito segura. Se voce seguir em frente, vai acabar na frente do hotel. A direita dele fica a base Monolith. Aqueles caras nao tem limites. Atras da base tem o estadio. Estavamos planejando chegar na estaçao passando por ele. Isso e tudo.</text>
+		<text>Valeu pela ajuda, Marcado. Essa luta foi tensa. Podemos descansar aqui um pouco. Se quiser continuar, posso te contar mais sobre a area. Se voltar e virar a direita, vai chegar na estacao de onibus. Aquele lugar e bem aberto e perigoso. Se seguir em frente, vai dar de cara com o hotel. A direita dele esta a base Monolith. Aqueles fanaticos sao implacaveis. Atras da base, tem o estadio. Nosso plano era cortar caminho por la ate a estacao. Isso e tudo.</text>
 	</string>
 	<string id="pri_followers_start_dlg_311">
-		<text>Obrigado.</text>
+		<text>Valeu.</text>
 	</string>
 	<string id="pri_followers_start_dlg_41">
-		<text>Obrigado pela ajuda. Boa sorte.</text>
+		<text>Obrigado pela ajuda. Que a sorte esteja com voce.</text>
 	</string>
 	<string id="pri_followers_start_dlg_411">
-		<text>Tchau.</text>
+		<text>Ate mais.</text>
 	</string>
 </string_table>

@@ -1,0 +1,9 @@
+Criei uma tradução de ingles para portugues brasil para o jogo Stalker Shadow Of Chernoyl.
+Usei inteligencia artifical para traduzir, porém preciso de mais uma ajuda.
+
+Analisando o xml acima, usando op contexto do jogo, melhore as frases dentro das tags <text>,
+para serem melhores interpretativas pelo jogador.
+Não use letras com acentos durante o melhoramento, vogais, tanto maiusculas e minusculas não podem ter acento.
+Não use Ç ou ç, troque pela respectiva sem o cedilha.
+
+Me de o resultado no xml informado, sem traduzir nada.

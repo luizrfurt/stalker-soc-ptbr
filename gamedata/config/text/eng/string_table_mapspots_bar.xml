@@ -1,14 +1,14 @@
 	<string id="bar_arena_locator">
-		<text>Arena.</text>
+		<text>Arena</text>
 	</string>
 	<string id="bar_bar_locator">
-		<text>100 Rads Bar.</text>
+		<text>Bar 100 Rads</text>
 	</string>
 	<string id="bar_dolg_locator">
 		<text>Base da faccao Duty</text>
 	</string>
 	<string id="rostok_banda_volkodava">
-		<text>Wolfhound e seus assassinos perto do helicoptero</text>
+		<text>Wolfhound e seus homens perto do helicoptero</text>
 	</string>
 	<string id="rostok_kruglov">
 		<text>Professor Kruglov</text>
@@ -17,5 +17,5 @@
 		<text>Emboscada perto da fabrica</text>
 	</string>
 	<string id="rostok_volkodav">
-		<text>Wolfhound.</text>
+		<text>Wolfhound</text>
 	</string>

@@ -7,13 +7,13 @@
 		<text>Voce esta bem?</text>
 	</string>
 	<string id="actor_help_wounded_1">
-		<text>Estou ferido droga, nao esta vendo? Preciso de um kit de primeiros socorros ou pelo menos um bandagem.</text>
+		<text>Estou ferido, droga, nao esta vendo? Preciso de um kit de primeiros socorros ou pelo menos uma bandagem.</text>
 	</string>
 	<string id="actor_help_wounded_11">
 		<text>Aqui, pegue este kit de primeiros socorros.</text>
 	</string>
 	<string id="actor_help_wounded_111">
-		<text>Valeu irmao, nao vou esquecer disso.</text>
+		<text>Valeu, irmao, nao vou esquecer disso.</text>
 	</string>
 	<string id="actor_help_wounded_12">
 		<text>Aqui, pegue esta bandagem.</text>
@@ -25,7 +25,7 @@
 		<text>Entao como voce anda pela Zona? E se for infectado ou algo assim? Voce nem vai conseguir se curar!</text>
 	</string>
 	<string id="actor_help_wounded_14">
-		<text>Foi mal cara. Mas se eu te der a minha, nao terei nenhuma para mim.</text>
+		<text>Foi mal, cara. Mas se eu te der a minha, nao terei nenhuma pra mim.</text>
 	</string>
 	<string id="actor_help_wounded_141">
 		<text>Isso e com voce, mas nao vai te ajudar em nada.</text>

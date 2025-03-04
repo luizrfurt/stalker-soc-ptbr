@@ -1,55 +1,55 @@
 <?xml version="1.0" encoding="windows-1251" ?>
 <string_table>
 	<string id="ui_map_desc_mp_agroprom_large">
-		<text>Um lugar estranho. O edificio silencioso tem seus segredos, mas os stalkers sao atraidos pelos numerosos artefatos que podem ser encontrados aqui, apesar do perigo. Movimentos rapidos e tiros precisos farao de voce o stalker favorito da Dama Sorte.</text>
+		<text>Um lugar estranho. O edificio silencioso guarda segredos, mas os stalkers sao atraidos pelos artefatos valiosos encontrados aqui, apesar do perigo. Movimentos rapidos e tiros certeiros faram de voce o stalker favorito da Dama Sorte.</text>
 	</string>
 	<string id="ui_map_desc_mp_agroprom_short">
-		<text>Um lugar estranho. O edificio silencioso tem seus segredos, mas os stalkers sao atraidos pelos numerosos artefatos que podem ser encontrados aqui, apesar do perigo.</text>
+		<text>Um lugar estranho. O edificio silencioso guarda segredos, mas os stalkers sao atraidos pelos artefatos valiosos encontrados aqui, apesar do perigo.</text>
 	</string>
 	<string id="ui_map_desc_mp_atp_large">
-		<text>O parque de onibus e trolebus e o lobby da Zona. Tratores, onibus e caminhao pararam para sempre. Nenhum artefato foi reportado, mas o lugar e popular entre os stalkers experientes que cacam novatos e pegam o que podem. Se proteja nos edificios e atraz de varios equipamentos e fique atento aos inimigos nos tetos.</text>
+		<text>O parque de onibus e trolebus, o lobby da Zona. Tratores, onibus e caminhao pararam para sempre. Nenhum artefato foi encontrado, mas o lugar e frequentado por stalkers experientes que cacam novatos e pegam o que podem. Proteja-se nos edificios e por tras dos equipamentos, fique atento aos inimigos nos tetos.</text>
 	</string>
 	<string id="ui_map_desc_mp_atp_short">
-		<text>O parque de onibus e trolebus e o lobby da Zona. Tratores, onibus e caminhao pararam para sempre.</text>
+		<text>O parque de onibus e trolebus, o lobby da Zona. Tratores, onibus e caminhao pararam para sempre.</text>
 	</string>
 	<string id="ui_map_desc_mp_bath_large">
-		<text>Este lugar misterioso tem uma estranha atracao pelas pessoas. Quem construiu aquela piscina experimental e para que - isso vai permanecer um segredo para sempre. Nenhum artefato pode ser encontrado aqui. Apenas os restos de maquinas e dispositivos estranhos atraem stalkers para este local. Fique de olho nos tetos e lembre-se que o nivel de radiacao e extremamente alto nesta area.</text>
+		<text>Este lugar misterioso exerce uma estranha atracao sobre as pessoas. Quem construiu aquela piscina experimental e para que, permanece um segredo. Nenhum artefato foi encontrado aqui. Apenas restos de maquinas e dispositivos estranhos atraem stalkers para este local. Fique de olho nos tetos e lembre-se que o nivel de radiacao e altissimo nesta area.</text>
 	</string>
 	<string id="ui_map_desc_mp_bath_short">
-		<text>Este lugar misterioso tem uma estranha atracao pelas pessoas. Quem construiu aquela piscina experimental e para que - isso vai permanecer um segredo para sempre.</text>
+		<text>Este lugar misterioso exerce uma estranha atracao sobre as pessoas. Quem construiu aquela piscina experimental e para que, permanece um segredo.</text>
 	</string>
 	<string id="ui_map_desc_mp_factory_large">
-		<text>Uma fabrica abandonada e sombria. Nao se sabe quantos stalkers encontraram sua morte nestas paredes. Todos os tipos de anomalias estao por aqui e ainda assim o lugar atrai stalkers como um ima, ja que artefatos valiosos podem ser encontrados aqui. Mas fique atento aos niveis de radiacao!</text>
+		<text>Uma fabrica abandonada e sombria. Nao se sabe quantos stalkers perderam a vida aqui. Anomalias de todos os tipos estao presentes, mas ainda assim o local atrai stalkers, pois artefatos valiosos podem ser encontrados aqui. Fique atento aos niveis de radiacao!</text>
 	</string>
 	<string id="ui_map_desc_mp_factory_short">
-		<text>Uma fabrica abandonada e sombria. Nao se sabe quantos stalkers encontraram sua morte nestas paredes.</text>
+		<text>Uma fabrica abandonada e sombria. Nao se sabe quantos stalkers perderam a vida aqui.</text>
 	</string>
 	<string id="ui_map_desc_mp_garbage_large">
-		<text>Esta e uma secao do enorme lixao onde montanhas de lixo radioativo foram trazidas apos o desastre de '86... coisas como guindastes deteriorados, pecas de hardware e assim por diante. Voce pode encontrar alguns restos de instalacoes antigas e um enorme galpao. Tudo isso perto da entrada da Zona e muitos artefatos estao espalhados por aqui. Isso atrai stalkers que procuram por coisas faceis.</text>
+		<text>Esta e uma secao do enorme lixao onde montanhas de lixo radioativo foram trazidas apos o desastre de '86. Restos de guindastes deteriorados, pecas de hardware e mais. Voce pode encontrar vestigios de antigas instalacoes e um enorme galpao. Proximo a entrada da Zona, muitos artefatos estao espalhados por aqui, atraindo stalkers que buscam facilidades.</text>
 	</string>
 	<string id="ui_map_desc_mp_garbage_short">
-		<text>Esta e uma secao do enorme lixao onde montanhas de lixo radioativo foram trazidas apos o desastre de '86... coisas como guindastes deteriorados, pecas de hardware e assim por diante.</text>
+		<text>Esta e uma secao do enorme lixao onde montanhas de lixo radioativo foram trazidas apos o desastre de '86. Restos de guindastes deteriorados, pecas de hardware e mais.</text>
 	</string>
 	<string id="ui_map_desc_mp_lost_village_large">
-		<text>Uma vila deserta e amaldicoada no interior da Zona. O pequeno e raso lago de cor enferrujada, cheio de destrocos de carros, cria um medo subconsciente nos coracoes dos exploradores da Zona. Cuidado com os snipers, mas lembre-se que a Zona favorece os corajosos.</text>
+		<text>Uma vila deserta e amaldicoada no interior da Zona. O pequeno lago de cor enferrujada, cheio de destrocos de carros, gera um medo subconsciente nos coracoes dos exploradores. Cuidado com os snipers, mas lembre-se: a Zona favorece os corajosos.</text>
 	</string>
 	<string id="ui_map_desc_mp_lost_village_short">
-		<text>Uma vila deserta e amaldicoada no interior da Zona. O pequeno e raso lago de cor enferrujada, cheio de destrocos de carros, cria um medo subconsciente nos coracoes dos exploradores da Zona.</text>
+		<text>Uma vila deserta e amaldicoada no interior da Zona. O pequeno lago de cor enferrujada, cheio de destrocos de carros, gera um medo subconsciente nos coracoes dos exploradores.</text>
 	</string>
 	<string id="ui_map_desc_mp_military_1_large">
-		<text>Uma base militar negligenciada com caminhoes e APCs quebrados, barracas e um centro de comando arruinado. Mas nao e o que parece. A base e rica em artefatos e o inimigo pode estar escondido atras de cada canto. Prove seu valor e colete a recompensa!</text>
+		<text>Uma base militar negligenciada, com caminhao e APCs quebrados, barracas e um centro de comando arruinado. Mas nao se engane. A base e rica em artefatos, e o inimigo pode estar escondido em qualquer canto. Prove seu valor e cole a recompensa!</text>
 	</string>
 	<string id="ui_map_desc_mp_military_1_short">
-		<text>Uma base militar negligenciada com caminhoes e APCs quebrados, barracas e um centro de comando arruinado.</text>
+		<text>Uma base militar negligenciada, com caminhao e APCs quebrados, barracas e um centro de comando arruinado.</text>
 	</string>
 	<string id="ui_map_desc_mp_military_2_large">
-		<text>Esta antiga vila e um lugar sinistro e uma armadilha mortal. Mas, se voce chegou ate aqui apesar de todos os riscos, prepare-se para morrer repentinamente. Ja que nenhum lugar e seguro aqui, que sua mira e seu silenciador te mantenham inteiro.</text>
+		<text>Esta antiga vila e um lugar sinistro, uma armadilha mortal. Se voce chegou ate aqui, apesar de todos os riscos, prepare-se para a morte repentina. Nenhum lugar e seguro aqui, que sua mira e seu silenciador te mantenham vivo.</text>
 	</string>
 	<string id="ui_map_desc_mp_military_2_short">
-		<text>Esta antiga vila e um lugar sinistro e uma armadilha mortal. Mas, se voce chegou ate aqui apesar de todos os riscos, prepare-se para morrer repentinamente.</text>
+		<text>Esta antiga vila e um lugar sinistro, uma armadilha mortal. Se voce chegou ate aqui, apesar de todos os riscos, prepare-se para a morte repentina.</text>
 	</string>
 	<string id="ui_map_desc_mp_prypiat_large">
-		<text>A cidade de Pripyat e a antiga residencia dos trabalhadores da NPP, ou o que sobrou dela. As ruinas desse esqueleto industrial contem um perigo imediato. Voce realmente precisa proteger sua vida aqui.</text>
+		<text>A cidade de Pripyat, a antiga residencia dos trabalhadores da NPP, ou o que sobrou dela. As ruinas desse esqueleto industrial contem perigo imediato. Voce realmente precisa proteger sua vida aqui.</text>
 	</string>
 	<string id="ui_map_desc_mp_prypiat_short">
 		<text>A cidade de Pripyat nao esta longe da NPP - a heranca da catastrofe de Chernobyl.</text>
@@ -58,16 +58,16 @@
 		<text>Uma pequena estacao de trem na fabrica Rostok.</text>
 	</string>
 	<string id="ui_map_desc_mp_railroad_large">
-		<text>Uma pequena estacao de trem na fabrica Rostok. Os vagoes enferrujados e locomotivas a diesel agora estao parados em um eterno desvio. Os muitos artefatos encontrados aqui atraem stalkers desesperados de toda a Zona.</text>
+		<text>Uma pequena estacao de trem na fabrica Rostok. Os vagoes enferrujados e locomotivas a diesel agora estao parados em um eterno desvio. Muitos artefatos encontrados aqui atraem stalkers desesperados de toda a Zona.</text>
 	</string>
 	<string id="ui_map_desc_mp_rostok_large">
-		<text>Sob montes de metal e atras de muros de concreto, esta fabrica guarda um tipo especial de silencio. No seculo passado, ela fervilhava de atividade com os trabalhadores correndo para seus turnos com slogans ecoando pelos alto-falantes...Mas agora a fabrica ja fez sua parte do trabalho.</text>
+		<text>Sob montes de metal e atras de muros de concreto, esta fabrica guarda um tipo especial de silencio. No seculo passado, ela fervilhava de atividade, com trabalhadores correndo para seus turnos e slogans ecoando pelos alto-falantes. Mas agora, a fabrica cumpriu seu papel.</text>
 	</string>
 	<string id="ui_map_desc_mp_rostok_short">
 		<text>A fabrica abandonada guarda um profundo silencio sob montes de metal e atras de muros de concreto.</text>
 	</string>
 	<string id="ui_map_desc_mp_workshop_large">
-		<text>As redondezas da fabrica Rostok antes da chegada da Duty. Esta area em ruinas e, no entanto, muito rica em artefatos. Os galpoes e armazens vazios estao cheios de cem perigos a cada passo. Seja extremamente cuidadoso e mantenha uma vigilancia constante na torre branca.</text>
+		<text>As redondezas da fabrica Rostok antes da chegada da Duty. Esta area em ruinas e, no entanto, muito rica em artefatos. Galpoes e armazens vazios estao cheios de perigos a cada passo. Seja extremamente cuidadoso e mantenha uma vigilancia constante na torre branca.</text>
 	</string>
 	<string id="ui_map_desc_mp_workshop_short">
 		<text>As redondezas da fabrica Rostok antes da chegada da Duty. Esta area em ruinas e, no entanto, muito rica em artefatos.</text>

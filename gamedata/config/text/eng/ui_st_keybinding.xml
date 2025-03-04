@@ -4,7 +4,7 @@
 		<text>Missoes ativas no PDA</text>
 	</string>
 	<string id="kb_always_run">
-		<text>Agachar</text>
+		<text>Abaixar</text>
 	</string>
 	<string id="kb_artefact">
 		<text>Artefato</text>
@@ -16,13 +16,13 @@
 		<text>Binoculos</text>
 	</string>
 	<string id="kb_buy_menu">
-		<text>Menu de compra</text>
+		<text>Menu de compras</text>
 	</string>
 	<string id="kb_chat">
 		<text>Bate-papo</text>
 	</string>
 	<string id="kb_chat_team">
-		<text>Bate-papo de equipe</text>
+		<text>Bate-papo da equipe</text>
 	</string>
 	<string id="kb_console">
 		<text>Console</text>
@@ -31,16 +31,16 @@
 		<text>Contatos do PDA</text>
 	</string>
 	<string id="kb_crouch">
-		<text>Abaixar</text>
+		<text>Abaixar-se</text>
 	</string>
 	<string id="kb_crouch_toggle">
-		<text>Abaixar sempre</text>
+		<text>Abaixar constantemente</text>
 	</string>
 	<string id="kb_down">
 		<text>Descer</text>
 	</string>
 	<string id="kb_drop">
-		<text>Soltar</text>
+		<text>Soltar item</text>
 	</string>
 	<string id="kb_fire">
 		<text>Atirar</text>
@@ -55,7 +55,7 @@
 		<text>Avancar</text>
 	</string>
 	<string id="kb_func">
-		<text>Lancador de granadas</text>
+		<text>Lancar granada</text>
 	</string>
 	<string id="kb_grp_common">
 		<text>Geral</text>
@@ -73,7 +73,7 @@
 		<text>Multiplayer</text>
 	</string>
 	<string id="kb_grp_weapons">
-		<text>Arma</text>
+		<text>Armas</text>
 	</string>
 	<string id="kb_inventory">
 		<text>Inventario</text>
@@ -85,7 +85,7 @@
 		<text>Esquerda</text>
 	</string>
 	<string id="kb_left_lookout">
-		<text>Inclinar para a esquerda</text>
+		<text>Olhar para a esquerda</text>
 	</string>
 	<string id="kb_left_strafe">
 		<text>Deslocar para a esquerda</text>
@@ -94,25 +94,25 @@
 		<text>Mapa do PDA</text>
 	</string>
 	<string id="kb_next_slot">
-		<text>Arma no proximo slot</text>
+		<text>Arma no proximo espaco</text>
 	</string>
 	<string id="kb_night_vision">
 		<text>Visao noturna</text>
 	</string>
 	<string id="kb_pause">
-		<text>Pausa</text>
+		<text>Pausar</text>
 	</string>
 	<string id="kb_pda">
 		<text>PDA</text>
 	</string>
 	<string id="kb_prev_slot">
-		<text>Arma no slot anterior</text>
+		<text>Arma no espaco anterior</text>
 	</string>
 	<string id="kb_quit">
 		<text>Sair</text>
 	</string>
 	<string id="kb_reload">
-		<text>Recarregar</text>
+		<text>Recarregar arma</text>
 	</string>
 	<string id="kb_repair">
 		<text>Reparar</text>
@@ -121,7 +121,7 @@
 		<text>Direita</text>
 	</string>
 	<string id="kb_right_lookout">
-		<text>Inclinar para a direita</text>
+		<text>Olhar para a direita</text>
 	</string>
 	<string id="kb_right_strafe">
 		<text>Deslocar para a direita</text>
@@ -139,13 +139,13 @@
 		<text>Correr</text>
 	</string>
 	<string id="kb_team_menu">
-		<text>Menu de equipe</text>
+		<text>Menu da equipe</text>
 	</string>
 	<string id="kb_torch">
 		<text>Lanterna</text>
 	</string>
 	<string id="kb_turn_engine">
-		<text>Ligar</text>
+		<text>Ligar motor</text>
 	</string>
 	<string id="kb_up">
 		<text>Cima</text>
@@ -163,13 +163,13 @@
 		<text>Iniciar votacao</text>
 	</string>
 	<string id="kb_vote_menu">
-		<text>Votacao</text>
+		<text>Menu de votacao</text>
 	</string>
 	<string id="kb_vote_no">
-		<text>Votar "Sim"</text>
+		<text>Votar "Nao"</text>
 	</string>
 	<string id="kb_vote_yes">
-		<text>Votar "Nao"</text>
+		<text>Votar "Sim"</text>
 	</string>
 	<string id="kb_weapon1">
 		<text>Arma 1</text>

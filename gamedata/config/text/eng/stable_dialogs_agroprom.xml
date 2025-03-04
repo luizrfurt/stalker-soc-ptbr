@@ -16,7 +16,7 @@
 		<text>Obrigado pela informacao.</text>
 	</string>
 	<string id="agr_factory_krot_start_1501">
-		<text>Sim, eu ouvi falar disso. Dizem ate que ele costumava "trabalhar" por aqui e o esconderijo de Strelok esta nos subsolos locais. Falam que a base do grupo dele ficava aqui tambem.</text>
+		<text>Sim, ja ouvi falar disso. Dizem que ele costumava "trabalhar" por aqui e o esconderijo de Strelok esta nos subsolos locais. Falam que a base do grupo dele ficava aqui tambem.</text>
 	</string>
 	<string id="agr_factory_krot_start_1502">
 		<text>Esta e uma das muitas saidas que vao te levar aos subsolos interconectados. Quando voce estiver la, esta por sua conta - eu nao tenho um mapa e a rede de subsolos e enorme e confusa.</text>
@@ -34,16 +34,16 @@
 		<text>O que esta acontecendo aqui?</text>
 	</string>
 	<string id="agr_factory_stalker_about_1">
-		<text>Estamos lutando, ou mais especificamente, acampando como patos sentados. Fale com Mole se quiser saber mais - ele e o lider.</text>
+		<text>Estamos lutando, ou melhor, apenas acampando como patos sentados. Fale com Mole se quiser saber mais - ele e o lider.</text>
 	</string>
 	<string id="agr_factory_stalker_start_0">
-		<text>Rapaz, foi uma luta e tanto - voce nao desejaria algo assim nem pro seu pior inimigo. Esses soldados do exercito estao ficando bem convencidos!</text>
+		<text>Rapaz, foi uma luta e tanto - voce nao gostaria de passar por isso nem com seu pior inimigo. Esses soldados do exercito estao ficando bem convencidos!</text>
 	</string>
 	<string id="agr_krot_about_agroprom_0">
 		<text>Onde fica o Instituto de Pesquisa Agroprom?</text>
 	</string>
 	<string id="agr_krot_about_agroprom_10">
-		<text>Nao muito longe daqui. Siga a estrada para o Oeste e voce chegara aos portoes do Instituto.</text>
+		<text>Nao muito longe daqui. Siga a estrada para o Oeste e voce vai chegar nos portoes do Instituto.</text>
 	</string>
 	<string id="agr_krot_about_agroprom_100">
 		<text>Ouvi dizer que o exercito montou uma base la, certo?</text>
@@ -52,16 +52,16 @@
 		<text>Obrigado pela informacao.</text>
 	</string>
 	<string id="agr_krot_about_agroprom_20">
-		<text>Sim, tem uma base militar. Eu nao sei quantos sao exatamente, mas deve ser pelo menos um pelotao. Eles estao bem armados e voce nao tem chances de passar - vao te derrubar antes de voce poder dizer "ola, camaradas". A melhor forma de entrar e durante a noite, porque a base e bem vigiada durante o dia - tem pontos de controle por toda parte e, de qualquer forma, ouvi dizer que um desertor dessa base esta escondido nos pantanos. Se voce conseguir encontra-lo, tenho certeza que pode arrancar algumas informacoes uteis dele.</text>
+		<text>Sim, tem uma base militar. Nao sei o numero exato, mas deve ser pelo menos um pelotao. Eles estao bem armados e voce nao tem chances de passar - vao te derrubar antes de voce poder dizer "ola, camaradas". A melhor forma de entrar e durante a noite, porque a base e bem vigiada durante o dia - tem pontos de controle por toda parte e, de qualquer forma, ouvi dizer que um desertor dessa base esta escondido nos pantanos. Se voce conseguir encontra-lo, tenho certeza que pode arrancar algumas informacoes uteis dele.</text>
 	</string>
 	<string id="agr_krot_actor_hasnot_met_seriy_0">
 		<text>O que esta acontecendo?</text>
 	</string>
 	<string id="agr_krot_actor_hasnot_met_seriy_100">
-		<text>Eu e meus rapazes encontramos uma boa area cheia de artefatos, mas esses bastardos do exercito nos atacaram por algum motivo. Eu nao sei o que diabos eles queriam de nos...</text>
+		<text>Eu e meus rapazes encontramos uma boa area cheia de artefatos, mas esses bastardos do exercito nos atacaram por algum motivo. Nao sei o que diabos eles queriam de nos...</text>
 	</string>
 	<string id="agr_krot_actor_hasnot_met_seriy_200">
-		<text>Sim, ja ouvi falar dele. Acho que ele costumava "ganhar a vida" por aqui - e um lugar bem bom, na verdade. Ele foi embora ha muito tempo; nao sei quando exatamente e nao tenho ideia para onde ele foi. Isso e tudo que posso te contar.</text>
+		<text>Sim, ja ouvi falar dele. Acho que ele costumava "ganhar a vida" por aqui - e um lugar bem bom, na verdade. Ele foi embora ha muito tempo; nao sei quando exatamente e nao tenho ideia para onde ele foi. Isso e tudo o que posso te contar.</text>
 	</string>
 	<string id="agr_krot_actor_hasnot_met_seriy_2000">
 		<text>Voce nao estava esperando aqui a toa, estava? Caso contrario, porque as Forcas Especiais apareceriam aqui?</text>
@@ -100,7 +100,7 @@
 		<text>O que voce esta fazendo?</text>
 	</string>
 	<string id="agr_stalker_esc_20">
-		<text>Eu estou voltando da fabrica que fica um pouco mais adiante na estrada. Nao sei como, mas o exercito descobriu nosso grupo. Eu nao esperei eles chegarem e sai o mais rapido que pude. Espero que nossos caras tenham saido de la porque senao nao vao estar vivos por muito mais tempo - voce viu os helicopteros.</text>
+		<text>Eu estou voltando da fabrica que fica um pouco mais adiante na estrada. Nao sei como, mas o exercito descobriu nosso grupo. Eu nao esperei eles chegarem e sai o mais rapido que pude. Espero que nossos caras tenham saido de la, porque senao nao vao estar vivos por muito mais tempo - voce viu os helicopteros.</text>
 	</string>
 	<string id="agr_stalker_esc_300">
 		<text>Entendi, obrigado.</text>
@@ -133,13 +133,13 @@
 		<text>Sim, ha alguns lugares, mas voce vai ter que dividir um pouco da sua grana, amigo.</text>
 	</string>
 	<string id="agr_stalker_talk_about_ratcatcher_21">
-		<text>Era bem tranquilo antes, mas agora o exercito ficou todo empolgado e começou a matar todo mundo. Eles limparam os bandidos recentemente e ouvi dizer que alguns conseguiram escapar para os catacumbas.</text>
+		<text>Era bem tranquilo antes, mas agora o exercito ficou todo empolgado e comecou a matar todo mundo. Eles limparam os bandidos recentemente e ouvi dizer que alguns conseguiram escapar para os catacumbas.</text>
 	</string>
 	<string id="agr_stalker_talk_about_ratcatcher_30">
 		<text>Trinta, negocio fechado?</text>
 	</string>
 	<string id="agr_stalker_talk_about_ratcatcher_40">
-		<text>A saida do tunel de ferrovia esta por aqui perto. E bem seguro no beco sem saida. Pelo menos ninguem foi comido enquanto dormia... ainda. Alem disso, a Noroeste da fabrica voce vai encontrar um pantano com um carro nele. Mas tenha cuidado, ha uma porcao de radiaçao por la, entao e melhor se aproximar pela parte oeste. Ah, e mais uma coisa: um soldado foi avistado la. Provavelmente e do batalhao do Instituto. O coitado provavelmente esta louco - ja esta la faz alguns dias e duvido que sobrevive mais tempo sozinho.</text>
+		<text>A saida do tunel de ferrovia esta por aqui perto. E bem seguro no beco sem saida. Pelo menos ninguem foi comido enquanto dormia... ainda. Alem disso, a Noroeste da fabrica voce vai encontrar um pantano com um carro nele. Mas tenha cuidado, ha uma porcao de radiacao por la, entao e melhor se aproximar pela parte oeste. Ah, e mais uma coisa: um soldado foi avistado la. Provavelmente e do batalhao do Instituto. O coitado provavelmente esta louco - ja esta la faz alguns dias e duvido que sobrevive mais tempo sozinho.</text>
 	</string>
 	<string id="agr_stalker_talk_about_ratcatcher_9999">
 		<text>Falou!</text>
@@ -148,7 +148,7 @@
 		<text>Algo interessante acontecendo aqui?</text>
 	</string>
 	<string id="agr_stalker_talk_about_ratcatcher1_1">
-		<text>Voce sabe sobre o Ratoroi? A informaçao vai custar 30.</text>
+		<text>Voce sabe sobre o Ratoroi? A informacao vai custar 30.</text>
 	</string>
 	<string id="agr_stalker_talk_about_ratcatcher1_11">
 		<text>Fechado.</text>
@@ -193,13 +193,13 @@
 		<text>Me fale sobre esse lugar.</text>
 	</string>
 	<string id="agr_stalker_talk_level_1">
-		<text>Essa e a area ao redor do Instituto de Pesquisa Agroprom. O Instituto em si esta a sudoeste. A fabrica, que era a instalaçao tecnica de produçao do Instituto, fica ao norte. Os predios foram abandonados ha muito tempo e nao ha nada de interessante por la, mas o exercito tem vasculhado muito ativamente o lugar ultimamente.</text>
+		<text>Essa e a area ao redor do Instituto de Pesquisa Agroprom. O Instituto em si esta a sudoeste. A fabrica, que era a instalacao tecnica de producao do Instituto, fica ao norte. Os predios foram abandonados ha muito tempo e nao ha nada de interessante por la, mas o exercito tem vasculhado muito ativamente o lugar ultimamente.</text>
 	</string>
 	<string id="agr_stalker_talk_level_2">
 		<text>Me fale mais sobre o Instituto.</text>
 	</string>
 	<string id="agr_stalker_talk_level_21">
-		<text>Ha muitas lendas sobre o Instituto. Antes do acidente em 1986, o unico coisa aqui era o Instituto de Seleçao de Culturas e Genetica. A area onde a fabrica esta agora era usada para campos experimentais de culturas. Depois do acidente, eles fecharam o Instituto e queimaram os campos. Depois, lembraram disso, pintaram o edificio, colocaram uma cerca ao redor e construiram alguns barracos. Eu nao sei o que eles faziam no Instituto, mas com certeza nao faltava financiamento para eles.</text>
+		<text>Ha muitas lendas sobre o Instituto. Antes do acidente em 1986, o unico coisa aqui era o Instituto de Selecao de Culturas e Genetica. A area onde a fabrica esta agora era usada para campos experimentais de culturas. Depois do acidente, eles fecharam o Instituto e queimaram os campos. Depois, lembraram disso, pintaram o edificio, colocaram uma cerca ao redor e construiram alguns barracos. Eu nao sei o que eles faziam no Instituto, mas com certeza nao faltava financiamento para eles.</text>
 	</string>
 	<string id="agr_stalker_talk_level_3">
 		<text>Me fale mais sobre a fabrica.</text>

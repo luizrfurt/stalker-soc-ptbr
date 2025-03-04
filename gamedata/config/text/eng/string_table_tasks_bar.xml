@@ -1,11 +1,11 @@
 	<string id="bar_bring_hunter_rifle">
-		<text>Devolva o rifle da familia do cacador</text>
+		<text>Devolva o rifle para a familia do cacador</text>
 	</string>
 	<string id="bar_bring_PDA_lucky">
 		<text>Leve o PDA do lider para o Barkeep</text>
 	</string>
 	<string id="bar_crazy_veterans_quest">
-		<text>Mate os veteranos loucos</text>
+		<text>Elimine os veteranos malucos</text>
 	</string>
 	<string id="bar_dolg_base_rules">
 		<text>Registre-se com o comandante da guarda Duty</text>
@@ -23,7 +23,7 @@
 		<text>Junte-se a faccao Duty</text>
 	</string>
 	<string id="bar_dolg_community_quest_prisyaga">
-		<text>Jure a lealdade</text>
+		<text>Jure lealdade</text>
 	</string>
 	<string id="bar_dolg_community_quest_recomendation">
 		<text>Consiga uma recomendacao do Capitao Ivantsov</text>
@@ -41,7 +41,7 @@
 		<text>Encontre a informacao interceptada sobre o Lab X-18</text>
 	</string>
 	<string id="bar_dolg_kill_tiran">
-		<text>Mate Tyran, o lider da equipe</text>
+		<text>Elimine Tyran, o lider da equipe</text>
 	</string>
 	<string id="bar_dolg_return_info">
 		<text>Leve a informacao sobre o Lab X-18 para o General Voronin</text>
@@ -71,13 +71,13 @@
 		<text>Encontre o rifle da familia</text>
 	</string>
 	<string id="bar_kill_crazy_veterans">
-		<text>Mate o lider dos veteranos</text>
+		<text>Elimine o lider dos veteranos</text>
 	</string>
 	<string id="bar_kill_crazy_veterans_PDA">
 		<text>Pegue o PDA do lider deles</text>
 	</string>
 	<string id="bar_kill_veterans">
-		<text>Destrua o acampamento dos veteranos loucos</text>
+		<text>Destruia o acampamento dos veteranos malucos</text>
 	</string>
 	<string id="bar_radar_deactivate">
 		<text>Desative o Desintegrador Psiquico</text>

@@ -4,10 +4,10 @@
 		<text>O que voce esta fazendo aqui?</text>
 	</string>
 	<string id="dm_general_cool_info">
-		<text>Pode me contar algo interessante?</text>
+		<text>Tem algo interessante para me contar?</text>
 	</string>
 	<string id="dm_general_cool_info_no_more">
-		<text>Nao sei de mais nada.</text>
+		<text>Nao sei mais nada.</text>
 	</string>
 	<string id="dm_general_help_bandage">
 		<text>Pegue o curativo.</text>
@@ -16,13 +16,13 @@
 		<text>Pegue o kit de primeiros socorros.</text>
 	</string>
 	<string id="dm_general_trade_info">
-		<text>Interessado em informacao. Por dinheiro.</text>
+		<text>Quer informacao? Vai custar dinheiro.</text>
 	</string>
 	<string id="dm_general_trade_info_caption">
-		<text>Posso oferecer o seguinte:</text>
+		<text>Posso oferecer isso aqui:</text>
 	</string>
 	<string id="dm_general_trade_info_hasno">
-		<text>Nao posso oferecer nada.</text>
+		<text>Nao tenho nada para oferecer.</text>
 	</string>
 	<string id="dm_general_trade_info_nothing">
 		<text>Outra hora.</text>
