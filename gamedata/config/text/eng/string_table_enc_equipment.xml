@@ -13,7 +13,7 @@
 		<text>Equipamento de protecao medio para stalker</text>
 	</string>
 	<string id="bandage">
-		<text>Ataduras para curar ferimentos</text>
+		<text>Curativos para curar ferimentos</text>
 	</string>
 	<string id="Binocul">
 		<text>Binoculares para observacao a longa distancia</text>
@@ -94,7 +94,7 @@
 		<text>Reduz os efeitos da radiacao.</text>
 	</string>
 	<string id="enc_equipment_medi_bandage1">
-		<text>Ataduras para estancar sangramentos.</text>
+		<text>Curativos para estancar sangramentos.</text>
 	</string>
 	<string id="enc_equipment_medi_medkit1">
 		<text>Kit medico multiuso para tratar diversos tipos de ferimentos, como cortes, queimaduras, envenenamentos, entre outros.</text>

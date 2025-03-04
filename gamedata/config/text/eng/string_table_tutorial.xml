@@ -40,7 +40,7 @@
 		<text>Radiacao</text>
 	</string>
 	<string id="radiation_tutorial">
-		<text>Quando o personagem usa um artefato radioativo ou entra em uma area com alta radiacao de fundo, ele comeca a perder saude e apresenta sinais de envenenamento por radiacao. O efeito da radiacao pode ser neutralizado com medicamentos anti-radiacao e vodka.</text>
+		<text>Quando o personagem usa um artefato radioativo ou entra em uma area com alta radiacao de fundo, ele comeca a perder vida e apresenta sinais de envenenamento por radiacao. O efeito da radiacao pode ser neutralizado com medicamentos anti-radiacao e vodka.</text>
 	</string>
 	<string id="relation">
 		<text>Atitude</text>
@@ -58,7 +58,7 @@
 		<text>As vezes voce precisara correr mais rapido. Para isso, pressione ($$ACTION_sprint_toggle$$) enquanto corre. Correndo mais rapido, o personagem conseguira cobrir mais distancia e saltar mais alto, mas se cansara mais rapido e nao conseguira atirar.</text>
 	</string>
 	<string id="starvation_tutorial">
-		<text>Se o personagem nao comer por um tempo, ele comecara a sentir fome. A menos que encontre comida, ele perdera saude. Para evitar isso, o personagem precisa se alimentar regularmente. Um pedaco de pao, comida enlatada ou linguica podem resolver o problema rapidamente, pelo menos por algum tempo.</text>
+		<text>Se o personagem nao comer por um tempo, ele comecara a sentir fome. A menos que encontre comida, ele perdera vida. Para evitar isso, o personagem precisa se alimentar regularmente. Um pedaco de pao, comida enlatada ou linguica podem resolver o problema rapidamente, pelo menos por algum tempo.</text>
 	</string>
 	<string id="tutorial">
 		<text>Treinamento</text>
@@ -79,7 +79,7 @@
 		<text>Feridas abertas</text>
 	</string>
 	<string id="wound_tutorial">
-		<text>Quando o personagem e atingido, pode comecar a sangrar. O sangramento faz com que ele perca saude continuamente. Quanto mais grave for o sangramento (um icone verde indica sangramento leve, e um icone vermelho indica hemorragia grave), mais rapido ele perde saude. O sangramento vai parar com o tempo, mas hemorragias graves podem ser paradas imediatamente com o uso de ataduras.</text>
+		<text>Quando o personagem e atingido, pode comecar a sangrar. O sangramento faz com que ele perca vida continuamente. Quanto mais grave for o sangramento (um icone verde indica sangramento leve, e um icone vermelho indica hemorragia grave), mais rapido ele perde vida. O sangramento vai parar com o tempo, mas hemorragias graves podem ser paradas imediatamente com o uso de curativos.</text>
 	</string>
 	<string id="pda_diary_tutorial">
 		<text>No PDA do stalker falecido, voce encontrou suas observacoes sobre as anomalias nos tunel. Descobriu que ele entendeu o padrao de funcionamento delas. Voce pode ler essas informacoes no seu PDA na sessao "Diario".</text>
