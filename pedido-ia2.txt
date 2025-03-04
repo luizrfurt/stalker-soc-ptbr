@@ -1,5 +1,5 @@
 Analisando o xml acima, usando o contexto do jogo Stalker Shadow Of Chernobyl,
-preciso de uma ajuda para melhorar esses dialogos.
+preciso de uma ajuda para melhorar esses dialogos, sem muitas girias.
 Não use letras com acentos durante o melhoramento, vogais, tanto maiusculas e minusculas não podem ter acento.
 Não use Ç ou ç, troque pela respectiva sem o cedilha.
 

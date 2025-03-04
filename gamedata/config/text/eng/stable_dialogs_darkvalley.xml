@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="windows-1251" ?>
 <string_table>
 	<string id="val_escort_captive_dialog_11">
-		<text>Bandidos! Aqueles desgracados estavam me levando para a antiga fabrica. Nao faco ideia do que iam fazer comigo la. Vi eles levarem outro cara antes, e ele nunca mais voltou. Pegaram outro de nos, o Serega. Estao mantendo ele no porao daquela grande construcao inacabada. Me ajude, por favor... Se nao, eles... voce sabe...</text>
+		<text>Bandidos! Aqueles desgraçados estavam me levando para a antiga fabrica. Nao faço ideia do que iam fazer comigo la. Vi eles levarem outro cara antes, e ele nunca mais voltou. Pegaram outro de nos, o Serega. Estao mantendo ele no porao daquela grande construcao inacabada. Me ajude, por favor... Se nao, eles... voce sabe...</text>
 	</string>
 	<string id="val_escort_captive_dialog_2">
 		<text>Voce tem ideia do que tem na fabrica?</text>
@@ -13,7 +13,7 @@
 		<text>Entendido. Vou me lembrar disso.</text>
 	</string>
 	<string id="val_escort_captive_dialog_3">
-		<text>Vou tentar salvar seu camarada.</text>
+		<text>Vou tentar salvar seu parceiro.</text>
 	</string>
 	<string id="val_escort_captive_dialog_41">
 		<text>Que pena pelo meu parceiro... Ele era um bom cara. Mas, de qualquer forma, eu te devo essa.</text>
@@ -100,7 +100,7 @@
 		<text>Ate mais.</text>
 	</string>
 	<string id="val_prisoner_hello_11">
-		<text>Ei, camarada! Me ajuda! Sou um batedor do Duty. Me tira daqui!</text>
+		<text>Ei, parceiro! Me ajuda! Sou um batedor do Duty. Me tira daqui!</text>
 	</string>
 	<string id="val_prisoner_hello_111">
 		<text>Vou tentar.</text>

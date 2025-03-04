@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="windows-1251" ?>
 <string_table>
     <string id="mil_bodyguard_dialog_0">
-        <text>O que quer?</text>
+        <text>O que voce quer?</text>
     </string>
     <string id="mil_bodyguard_dialog_1">
-        <text>Procuro o lider da Freedom. Tenho informacoes importantes para ele.</text>
+        <text>Estou procurando o lider da Freedom. Tenho informacoes importantes para ele.</text>
     </string>
     <string id="mil_bodyguard_dialog_2">
-        <text>E quao importantes seriam?</text>
+        <text>E quao importantes sao?</text>
     </string>
     <string id="mil_bodyguard_dialog_5">
         <text>Encontrei membros da Duty perto da base de voces.</text>
     </string>
     <string id="mil_bodyguard_dialog_6">
-        <text>Hum... Parece que a Duty quer confusao... Ok, entre, mas guarde a arma. Sem problemas aqui, ou saiara de maca.</text>
+        <text>Hum... Parece que a Duty quer confusao... Ok, entre, mas guarde a arma. Sem problemas aqui, ou sai fora de maca.</text>
     </string>
     <string id="mil_bodyguard_dialog_7">
         <text>Certo.</text>
@@ -25,13 +25,13 @@
         <text>Uh-hum!</text>
     </string>
     <string id="mil_cook_common1_102">
-        <text>Quer dizer?</text>
+        <text>Quer dizer o que?</text>
     </string>
     <string id="mil_cook_common1_103">
         <text>Claro.</text>
     </string>
     <string id="mil_cook_common1_104">
-        <text>Qual a graca?</text>
+        <text>Qual e a graca?</text>
     </string>
     <string id="mil_cook_common1_105">
         <text>E ai! Bom te ver!</text>
@@ -52,7 +52,7 @@
         <text>Sinceramente, nao lembro quem e voce.</text>
     </string>
     <string id="mil_cook_common1_111">
-        <text>Hum... Ok, sem problema.</text>
+        <text>Hum... Ok, sem problemas.</text>
     </string>
     <string id="mil_cook_common2_0">
         <text>Que lugar e este?</text>
@@ -64,7 +64,7 @@
         <text>E dai?</text>
     </string>
     <string id="mil_cook_common2_203">
-        <text>Pfft... Perguntas dificeis, forasteiro!</text>
+        <text>Pfft... Perguntas dificies, forasteiro!</text>
     </string>
     <string id="mil_cook_common2_204">
         <text>Va direto ao ponto.</text>
@@ -100,7 +100,7 @@
         <text>Chega, entendi! Qual seu nome?</text>
     </string>
     <string id="mil_cook_common3_309">
-        <text>Hein?.. Ah! Slavik... e um avental! Branco... Senta, nao seja alvo... Atirador, sabe... te pega! .. Eles sao assim...</text>
+        <text>Hein?.. Ah! Slavik... e um avental! Branco... Senta, nao seja alvo... Atirador, sabe... te pega! Eles sao assim...</text>
     </string>
     <string id="mil_cook_common4_0">
         <text>Tem alguma vila por perto?</text>
@@ -337,46 +337,46 @@
         <text>Esperamos. Mas nao muito.</text>
     </string>
     <string id="mil_dolg_skull_dialog_200">
-        <text>Obrigado pela ajuda, Marcado. Aqui sua recompensa.</text>
+        <text>Agradecemos pela ajuda, Marcado. Aqui esta sua recompensa.</text>
     </string>
     <string id="mil_dolg_skull_dialog_201">
-        <text>Obrigado.</text>
+        <text>Agradeco.</text>
     </string>
     <string id="mil_dolg_skull_dialog_300">
-        <text>Fizemos um acordo, lembra?</text>
+        <text>Lembra do acordo que fizemos?</text>
     </string>
     <string id="mil_dolg_skull_dialog_400">
-        <text>Derrubou o atirador. Aqui sua recompensa.</text>
+        <text>Atirador derrubado. Aqui esta sua recompensa.</text>
     </string>
     <string id="mil_dolg_skull_dialog_401">
         <text>Entendi.</text>
     </string>
     <string id="mil_dolg_skull_dialog_402">
-        <text>Saia da frente, quer? Precisamos nos preparar...</text>
+        <text>Afaste-se, por favor. Precisamos nos preparar...</text>
     </string>
     <string id="mil_dolg_skull_dialog_403">
-        <text>OK.</text>
+        <text>Ok.</text>
     </string>
     <string id="mil_dolg_skull_dialog_411">
-        <text>Outra hora.</text>
+        <text>Em outra hora.</text>
     </string>
     <string id="mil_dolg_skull_dialog_412">
-        <text>Como quiser.</text>
+        <text>Como preferir.</text>
     </string>
     <string id="mil_dolg_skull_dialog_413">
         <text>Ate logo.</text>
     </string>
     <string id="mil_dolg_skull_dialog_420">
-        <text>Continuamos?</text>
+        <text>Podemos continuar?</text>
     </string>
     <string id="mil_dolg_skull_dialog_421">
-        <text>Continuar o que?</text>
+        <text>Continuar com o que?</text>
     </string>
     <string id="mil_dolg_skull_dialog_450">
-        <text>Obrigado.</text>
+        <text>Agradeco.</text>
     </string>
     <string id="mil_dolg_skull_dialog_451">
-        <text>Vamos explodir a cerca e atacar. Voce e bom atirador, pode cuidar dos atiradores nas torres? Facilita chegar no Lukash.</text>
+        <text>Vamos explodir a cerca e atacar. Voce e bom atirador, pode cuidar dos atiradores nas torres? Isso facilita a chegada ao Lukash.</text>
     </string>
     <string id="mil_dolg_skull_dialog_501">
         <text>Derrubou o atirador?</text>
@@ -388,19 +388,19 @@
         <text>Bom trabalho! Abriu o caminho... Aqui, um agrado.</text>
     </string>
     <string id="mil_dolg_skull_dialog_504">
-        <text>Obrigado.</text>
+        <text>Agradeco.</text>
     </string>
     <string id="mil_dolg_skull_dialog_506">
-        <text>O que faco?</text>
+        <text>O que devo fazer?</text>
     </string>
     <string id="mil_dolg_skull_dialog_507">
         <text>Cuide dos outros atiradores. Voce e bom nisso.</text>
     </string>
     <string id="mil_dolg_skull_dialog_5070">
-        <text>Outra hora.</text>
+        <text>Em outra hora.</text>
     </string>
     <string id="mil_dolg_skull_dialog_5071">
-        <text>Voce decide. Nao forco.</text>
+        <text>Voce decide. Nao vou forcar.</text>
     </string>
     <string id="mil_dolg_skull_dialog_508">
         <text>Fechado.</text>
@@ -412,13 +412,13 @@
         <text>Nao atrapalhe, Marcado.</text>
     </string>
     <string id="mil_dolg_skull_dialog_602">
-        <text>OK.</text>
+        <text>Ok.</text>
     </string>
     <string id="mil_dolg_skull_dialog_701">
         <text>Siga seu caminho.</text>
     </string>
     <string id="mil_dolg_skull_dialog_702">
-        <text>OK.</text>
+        <text>Ok.</text>
     </string>
     <string id="mil_dolg_skull_dialog_801">
         <text>E agora?</text>
@@ -451,19 +451,19 @@
         <text>Talvez.</text>
     </string>
     <string id="mil_dolg_soldier_dialog_4">
-        <text>Siga a gente, fale com nosso comandante.</text>
+        <text>Siga-nos, fale com o comandante.</text>
     </string>
     <string id="mil_dolg_soldier_dialog_5">
         <text>Comandante?</text>
     </string>
     <string id="mil_dolg_soldier_dialog_6">
-        <text>Claro. Skull te explica tudo.</text>
+        <text>Claro. Skull vai te explicar tudo.</text>
     </string>
     <string id="mil_dolg_soldier_dialog_7">
-        <text>OK.</text>
+        <text>Ok.</text>
     </string>
     <string id="mil_freedom_commander_1001">
-        <text>E ai, stalker! Chegou na hora. Nos defendemos da Monolith, e a proxima onda chega logo! Perdemos nosso ultimo atirador! Ajuda? Pagamos depois da luta!</text>
+        <text>Oi, stalker! Chegou na hora. Nos defendemos da Monolith e a proxima onda esta chegando! Perdemos nosso ultimo atirador! Pode ajudar? Pagamos depois da luta!</text>
     </string>
     <string id="mil_freedom_commander_10011">
         <text>Nao, nao posso ajudar.</text>
@@ -472,19 +472,19 @@
         <text>Que pena. Volte se mudar de ideia.</text>
     </string>
     <string id="mil_freedom_commander_1002">
-        <text>Ajudo sim.</text>
+        <text>Eu ajudo.</text>
     </string>
     <string id="mil_freedom_commander_1003">
-        <text>Otimo! Suba na torre, tem rifle e municao. Derrube-os de cima, nao desca, ou nossos homens te atingem. Missao clara?</text>
+        <text>Otimo! Suba na torre, tem rifle e municao. Derrube-os de la de cima, nao desca, ou nossos homens vao te atingir. Missao clara?</text>
     </string>
     <string id="mil_freedom_commander_1004">
         <text>Clara.</text>
     </string>
     <string id="mil_freedom_commander_1005">
-        <text>Falamos de manha. Nao se afaste... Ou penso que fugiu. E sabe o que acontece! Agora, posicione-se.</text>
+        <text>Falamos de manha. Nao se afaste... Ou vou pensar que fugiu. E sabe o que acontece! Agora, posicione-se.</text>
     </string>
     <string id="mil_freedom_commander_1007">
-        <text>Isso. Vamos la. Monolith tenta invadir. Vai esquentar logo.</text>
+        <text>Isso. Vamos la. A Monolith tenta invadir. Vai esquentar logo.</text>
     </string>
     <string id="mil_freedom_commander_1008">
         <text>Entendi.</text>
@@ -496,7 +496,7 @@
         <text>Onde fico?</text>
     </string>
     <string id="mil_freedom_commander_1011">
-        <text>Suba na torre, tem Dragunov e municao. Derrube-os de cima, cuidado com nossas balas. Missao clara?</text>
+        <text>Suba na torre, tem Dragunov e municao. Derrube-os de la de cima, cuidado com nossas balas. Missao clara?</text>
     </string>
     <string id="mil_freedom_commander_1012">
         <text>Sim.</text>
@@ -514,13 +514,13 @@
         <text>Boa sorte, Marcado!</text>
     </string>
     <string id="mil_freedom_commander_4001">
-        <text>E ai, Marcado! Lukash te mandou?</text>
+        <text>Oi, Marcado! Lukash te mandou?</text>
     </string>
     <string id="mil_freedom_commander_4002">
         <text>Sim. Ele pediu para ajudar.</text>
     </string>
     <string id="mil_freedom_commander_4003">
-        <text>Chegou na hora. Nos defendemos da Monolith, a proxima onda chega logo! Perdemos nosso ultimo atirador! Ajuda? Pagamos depois!</text>
+        <text>Chegou na hora. Nos defendemos da Monolith e a proxima onda esta chegando! Perdemos nosso ultimo atirador! Pode ajudar? Pagamos depois!</text>
     </string>
     <string id="mil_freedom_commander_5001">
         <text>Derrubamos todos. Acabou por hoje. Obrigado pela ajuda! Toma, um dinheiro.</text>
@@ -535,13 +535,13 @@
         <text>Que lugar e este?</text>
     </string>
     <string id="mil_freedom_commander_common2_1">
-        <text>Chamamos de Barreira... basicamente isso. Ultimo posto normal deste lado do centro da Zona. Entre pessoas e Territorio Selvagem.</text>
+        <text>Chamamos de Barreira... basicamente isso. Ultimo posto normal deste lado do centro da Zona. Entre as pessoas e o Territorio Selvagem.</text>
     </string>
     <string id="mil_freedom_commander_common2_2">
         <text>O que tem la?</text>
     </string>
     <string id="mil_freedom_commander_common2_3">
-        <text>Morte... ou servir o Monolito. "Nosso Monolito! Em seu nome..." Droga! Ninguem precisa ir la. Por isso estamos aqui, impedindo a Zona de apodrecer. Jedis, hehe. E paramos os idiotas, ou tentamos, de entrar no centro.</text>
+        <text>Morte... ou servir o Monolito. "Nosso Monolito! Em seu nome..." Droga! Ninguem precisa ir la. Por isso estamos aqui, impedindo a Zona de apodrecer. Jedis, hehe. E tentamos parar os idiotas de entrar no centro.</text>
     </string>
     <string id="mil_freedom_commander_common2_4">
         <text>Por que fazem isso?</text>
@@ -574,22 +574,22 @@
         <text>Skinflint me mandou limpar os sanguessugas.</text>
     </string>
     <string id="mil_hunter_dialog_101">
-        <text>E ai, stalker, o que faz aqui? Corre, salva sua vida!</text>
+        <text>Oi, stalker, o que faz aqui? Corre, salva sua vida!</text>
     </string>
     <string id="mil_hunter_dialog_2">
         <text>Outra historia... Inferno sabe o que rola aqui! Dois homens foram a vila e sumiram. Nao queremos morrer! Decidimos o que fazer.</text>
     </string>
     <string id="mil_hunter_dialog_201">
-        <text>E ai, irmao, que surto ontem!</text>
+        <text>Oi, irmao, que aconteceu ontem!</text>
     </string>
     <string id="mil_hunter_dialog_202">
-        <text>Quer dizer?</text>
+        <text>Como assim?</text>
     </string>
     <string id="mil_hunter_dialog_203">
         <text>Sentados, voce chega bebado! Foi pra vila, pros sanguessugas! Ainda bem que te paramos e te fizemos dormir.</text>
     </string>
     <string id="mil_hunter_dialog_204">
-        <text>E o que fazem aqui?</text>
+        <text>O que estao fazendo aqui?</text>
     </string>
     <string id="mil_hunter_dialog_205">
         <text>Inferno sabe o que rola aqui! Dois homens foram a vila e sumiram. Nao queremos morrer! Decidimos o que fazer.</text>
@@ -604,22 +604,22 @@
         <text>Matei eles.</text>
     </string>
     <string id="mil_hunter_dialog_303">
-        <text>Uau! Manda bem! Saiu vivo, bebidas por sua conta!</text>
+        <text>Uau! Mandou bem! Saiu vivo, as bebidas sao por sua conta!</text>
     </string>
     <string id="mil_hunter_dialog_304">
         <text>Obrigado.</text>
     </string>
     <string id="mil_hunter_dialog_4">
-        <text>Nao. Foram a torre de agua, cairam la. Se fez acordo com Skinflint, veja la... Anoto o endereco, se algo der errado.</text>
+        <text>Nao. Foram a torre de agua, cairam la. Fez acordo com Skinflint, veja la... Anoto o endereco, se algo der errado.</text>
     </string>
     <string id="mil_hunter_dialog_401">
-        <text>Por que anda como fantasma?</text>
+        <text>Por que anda como um fantasma?</text>
     </string>
     <string id="mil_hunter_dialog_402">
         <text>So olhando.</text>
     </string>
     <string id="mil_hunter_dialog_5">
-        <text>Parece legal... Ok, vou la.</text>
+        <text>Parece interessante... Ok, vou la.</text>
     </string>
     <string id="mil_hunter_dialog_501">
         <text>O que faz aqui?</text>
@@ -628,7 +628,7 @@
         <text>So olhando.</text>
     </string>
     <string id="mil_hunter_dialog_503">
-        <text>Achou esse o melhor lugar? E o pior da Zona...</text>
+        <text>Achou esse o melhor lugar? Este e o pior da Zona...</text>
     </string>
     <string id="mil_hunter_dialog_504">
         <text>O que tem de ruim aqui?</text>
@@ -637,10 +637,10 @@
         <text>Inferno sabe! Vila cheia de sanguessugas. Nossos homens foram la e sumiram. Nao queremos morrer! Decidimos o que fazer.</text>
     </string>
     <string id="mil_hunter_dialog_506">
-        <text>Nao tem certeza?</text>
+        <text>Tem certeza disso?</text>
     </string>
     <string id="mil_hunter_dialog_507">
-        <text>Isso! Sem fazer nada, cabeca vazia, va a vila. Limpe as criaturas, Skinflint te paga. Anoto o endereco, se algo der errado.</text>
+        <text>Isso! Sem fazer nada, cabeca vazia, vai a vila. Limpe as criaturas, Skinflint te paga. Anoto o endereco, se algo der errado.</text>
     </string>
     <string id="mil_hunter_dialog_508">
         <text>Ok, vou ver.</text>
@@ -661,7 +661,7 @@
         <text>Viu sanguessugas?</text>
     </string>
     <string id="mil_hunter_dialog_606">
-        <text>Sim. Pode ir, seguro agora, matei eles.</text>
+        <text>Sim. Pode ir, esta seguro agora, matei eles.</text>
     </string>
     <string id="mil_hunter_dialog_607">
         <text>Uau! Bom trabalho! Va ver Skinflint na base. Ele paga bem.</text>
@@ -691,7 +691,7 @@
         <text>So olhando...</text>
     </string>
     <string id="mil_hunter_dialog_803">
-        <text>Achou esse o melhor lugar? E o pior da Zona...</text>
+        <text>Achou esse o melhor lugar? Este e o pior da Zona...</text>
     </string>
     <string id="mil_hunter_dialog_804">
         <text>O que tem de ruim aqui?</text>
@@ -1096,22 +1096,22 @@
         <text>Entendi.</text>
     </string>
     <string id="mil_trader_dialog_2001">
-        <text>Que coisas boas trouxe?</text>
+        <text>O que trouxe de bom?</text>
     </string>
     <string id="mil_trader_dialog_3001">
-        <text>Precisa de que?</text>
+        <text>Precisa de algo?</text>
     </string>
     <string id="mil_trader_dialog_3002">
-        <text>Nada... so olhando.</text>
+        <text>Nada... so estou olhando.</text>
     </string>
     <string id="mil_trader_dialog_3003">
-        <text>Faz algo util. Tenho algo que te interessa... quer ganhar, hein?</text>
+        <text>Faca algo util. Tenho algo que pode te interessar... quer ganhar, hein?</text>
     </string>
     <string id="mil_trader_dialog_3004">
         <text>Interessante...</text>
     </string>
     <string id="mil_trader_dialog_3005">
-        <text>Te dou um Cristal por um favor. Ruim a situacao... Ninguem pega artefato na vila, medo. Sanguessugas la. Nao mando ninguem, quase peco ajuda a Duty!</text>
+        <text>Te dou um Cristal por um favor. Situacao ruim... Ninguem pega artefato na vila, medo. Sanguessugas la. Nao mando ninguem, quase peço ajuda a Duty!</text>
     </string>
     <string id="mil_trader_dialog_3006">
         <text>Continue.</text>
@@ -1123,7 +1123,7 @@
         <text>Agora nao.</text>
     </string>
     <string id="mil_trader_dialog_30072">
-        <text>Voce decide... Alguem limpa eles cedo ou tarde. Cristal e raro e caro.</text>
+        <text>Voce decide... Alguem vai limpar eles cedo ou tarde. Cristal e raro e caro.</text>
     </string>
     <string id="mil_trader_dialog_3008">
         <text>Topo.</text>
@@ -1138,7 +1138,7 @@
         <text>Parados la, olhando...</text>
     </string>
     <string id="mil_trader_dialog_3111">
-        <text>Ajuda eles na caca, te dou um artefato, Cristal. Topa?</text>
+        <text>Ajuda eles na caça, te dou um artefato, Cristal. Topa?</text>
     </string>
     <string id="mil_trader_dialog_3200">
         <text>Conversamos e fomos a vila tentar pegar mutante...</text>
@@ -1153,7 +1153,7 @@
         <text>Droga. Murk era bom stalker. Que pena. Toma o artefato por ajudar.</text>
     </string>
     <string id="mil_trader_dialog_3310">
-        <text>Foram cacar, voltei pra ca...</text>
+        <text>Foram caçar, voltei pra ca...</text>
     </string>
     <string id="mil_trader_dialog_3311">
         <text>Entendi.</text>
@@ -1171,7 +1171,7 @@
         <text>Droga, stalker! Rapido demais! Ok, toma seu Cristal.</text>
     </string>
     <string id="mil_trader_dialog_4001">
-        <text>E a caca?</text>
+        <text>E a caça?</text>
     </string>
     <string id="mil_trader_dialog_4002">
         <text>Matei os monstros.</text>
@@ -1207,10 +1207,10 @@
         <text>Sem problema.</text>
     </string>
     <string id="mil_trader_dialog_7001">
-        <text>Dizem que matou os sanguessugas na vila. Verdade?</text>
+        <text>Dizem que matou os sanguessugas na vila. E verdade?</text>
     </string>
     <string id="mil_trader_dialog_7002">
-        <text>Verdade.</text>
+        <text>E verdade.</text>
     </string>
     <string id="mil_trader_dialog_7003">
         <text>Dificil?</text>
@@ -1228,7 +1228,7 @@
         <text>Tem cozinheiro por aqui?</text>
     </string>
     <string id="mil_zoneguard_common1_1">
-        <text>Claro, como viver sem! Que quer com ele?</text>
+        <text>Claro, como viver sem! O que quer com ele?</text>
     </string>
     <string id="mil_zoneguard_common1_2">
         <text>Quero comida.</text>
@@ -1351,13 +1351,13 @@
         <text>A-9?</text>
     </string>
     <string id="mil_zoneguard_dialog_610">
-        <text>Navio afundado. Para de enrolar! Mais algo?</text>
+        <text>Navio afundado. Para de enrolar! Algo mais?</text>
     </string>
     <string id="mil_zoneguard_dialog_611">
         <text>Me testa.</text>
     </string>
     <string id="mil_zoneguard_dialog_612">
-        <text>Vinte e um. Droga, de novo! Esperto. Nao sabe a senha, ne?</text>
+        <text>Vinte e um. Droga, de novo! Esperto. Nao sabe a senha, nao?</text>
     </string>
     <string id="mil_zoneguard_dialog_613">
         <text>Fala ai.</text>

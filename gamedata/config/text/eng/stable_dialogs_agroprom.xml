@@ -52,7 +52,7 @@
 		<text>Obrigado pela informacao.</text>
 	</string>
 	<string id="agr_krot_about_agroprom_20">
-		<text>Sim, tem uma base militar. Nao sei o numero exato, mas deve ser pelo menos um pelotao. Eles estao bem armados e voce nao tem chances de passar - vao te derrubar antes de voce poder dizer "ola, camaradas". A melhor forma de entrar e durante a noite, porque a base e bem vigiada durante o dia - tem pontos de controle por toda parte e, de qualquer forma, ouvi dizer que um desertor dessa base esta escondido nos pantanos. Se voce conseguir encontra-lo, tenho certeza que pode arrancar algumas informacoes uteis dele.</text>
+		<text>Sim, ha uma base militar. Nao sei o numero exato, mas deve ser pelo menos um pelotao. Eles estao bem armados e voce nao tem chances de passar - vao te derrubar antes de voce conseguir dizer "ola". A melhor forma de entrar e durante a noite, pois a base e bem vigiada durante o dia - ha pontos de controle por toda parte e, de qualquer forma, ouvi dizer que um desertor dessa base esta escondido nos pantanos. Se voce conseguir encontra-lo, tenho certeza que pode obter algumas informacoes uteis dele.</text>
 	</string>
 	<string id="agr_krot_actor_hasnot_met_seriy_0">
 		<text>O que esta acontecendo?</text>
@@ -88,7 +88,7 @@
 		<text>Eu nao sei mais nada. Te contei tudo o que sabia e agora voce vai ter que descobrir por conta propria. Boa sorte para voce.</text>
 	</string>
 	<string id="agr_krot_help_0">
-		<text>Me ajude, stalker!!!</text>
+		<text>Me ajude, stalker!</text>
 	</string>
 	<string id="agr_krot_help_10">
 		<text>Ok.</text>
@@ -247,31 +247,31 @@
 		<text>Ola.</text>
 	</string>
 	<string id="agr_swamp_ratcatcher_talks1_01">
-		<text>O que houve?</text>
+		<text>O que aconteceu?</text>
 	</string>
 	<string id="agr_swamp_ratcatcher_talks1_011">
-		<text>Me fale sobre o coletor. Como eu entro? Onde estao as saidas e entradas?</text>
+		<text>Me fale sobre o coletor. Como entro? Onde ficam as entradas e saidas?</text>
 	</string>
 	<string id="agr_swamp_ratcatcher_talks1_0111">
-		<text>E perigoso dentro do coletor. Existem seis entradas e duas delas ficam na area ao redor do Instituto, onde os militares montaram uma base. Aquela area e patrulhada e o capitao guarda o horario das patrulhas na sua armeria.</text>
+		<text>Eh perigoso dentro do coletor. Existem seis entradas, e duas delas ficam na area ao redor do Instituto, onde os militares montaram uma base. Aquela area e patrulhada, e o capitao guarda o horario das patrulhas na sua armeria.</text>
 	</string>
 	<string id="agr_swamp_ratcatcher_talks1_01111">
-		<text>Como voce sabe de tudo isso?</text>
+		<text>Como sabe de tudo isso?</text>
 	</string>
 	<string id="agr_swamp_ratcatcher_talks1_011111">
 		<text>Os ratos me contaram.</text>
 	</string>
 	<string id="agr_swamp_ratcatcher_talks1_0111111">
-		<text>Entendi. Tchau! Boa sorte para voce.</text>
+		<text>Entendi. Ate logo. Boa sorte para voce.</text>
 	</string>
 	<string id="agr_swamp_ratcatcher_talks1_012">
-		<text>Nada. Ate logo.</text>
+		<text>Nada. Ate mais.</text>
 	</string>
 	<string id="agr_swamp_ratcatcher_talks1_013">
 		<text>Quem e voce?</text>
 	</string>
 	<string id="agr_swamp_ratcatcher_talks1_0134">
-		<text>Eu moro aqui, se e que podemos chamar isso de vida. Eu crio ratos no coletor para irritar os militares do Instituto.</text>
+		<text>Eu moro aqui, se eh que podemos chamar isso de vida. Eu crio ratos no coletor para incomodar os militares do Instituto.</text>
 	</string>
 	<string id="agr_swamp_ratcatcher_talks1_0135">
 		<text>Eu sou o Ratoroi.</text>
@@ -280,6 +280,6 @@
 		<text>O que voce esta fazendo nesse pantano?</text>
 	</string>
 	<string id="agr_swamp_ratcatcher_talks1_123">
-		<text>Ah... entendi.... bom, sou de outra historia. Ha-ha-ha...</text>
+		<text>Ah... entendi... bom, sou de outra historia. Ha-ha-ha...</text>
 	</string>
 </string_table>

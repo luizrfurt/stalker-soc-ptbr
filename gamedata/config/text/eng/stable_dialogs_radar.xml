@@ -10,19 +10,19 @@
 		<text>Onde esta o dinheiro pela missao?</text>
 	</string>
 	<string id="rad_find_deputy_dialog_1_100">
-		<text>Encontre meu delegado e seu pagamento estara garantido!</text>
+		<text>Encontre meu delegado e o pagamento estara garantido!</text>
 	</string>
 	<string id="rad_find_deputy_dialog_1_1000">
 		<text>Beleza, mas nao me engane dessa vez!</text>
 	</string>
 	<string id="rad_find_stalkers_dialog_1_0">
-		<text>Quem diabos e voce?</text>
+		<text>Quem e voce?</text>
 	</string>
 	<string id="rad_find_stalkers_dialog_1_10">
-		<text>Leha the Jaw, e esse bando de canalhas e minha equipe!</text>
+		<text>Leha the Jaw, esse grupo de canalhas e minha equipe!</text>
 	</string>
 	<string id="rad_find_stalkers_dialog_1_100">
-		<text>E o que voces estao fazendo aqui?</text>
+		<text>O que voces estao fazendo aqui?</text>
 	</string>
 	<string id="rad_find_stalkers_dialog_1_20">
 		<text>Estamos apenas descansando. Depois seguimos para Prypiat!</text>
@@ -67,7 +67,7 @@
 		<text>Tem algum trabalho para mim?</text>
 	</string>
 	<string id="rad_find_stalkers_dialog_4_10">
-		<text>Tenho, mas nao e nada facil... Quer encarar?</text>
+		<text>Tenho, mas nao e facil... Quer tentar?</text>
 	</string>
 	<string id="rad_find_stalkers_dialog_4_100">
 		<text>Dificuldade nunca me assustou!</text>
@@ -79,7 +79,7 @@
 		<text>Entendo... Tambem tenho receio. Prefiro gastar dinheiro do que arriscar meus rapazes ou minha pele.</text>
 	</string>
 	<string id="rad_find_stalkers_dialog_4_20">
-		<text>Entao e o seguinte: preciso que voce encontre meus scouts, Crowbar e Log! Eles foram para Prypiat, ja que decidi nao me arriscar e mandei meus melhores homens no lugar. Ache-os vivos e traga-os de volta. Se estiverem mortos, quero as armas deles! Faz isso por mim e voce ganha 2000!</text>
+		<text>Entao e o seguinte: preciso que voce encontre meus exploradores, Crowbar e Log! Eles foram para Prypiat, ja que decidi nao me arriscar e mandei meus melhores homens no lugar. Ache-os vivos e traga-os de volta. Se estiverem mortos, quero as armas deles! Faz isso por mim e voce ganha 2000!</text>
 	</string>
 	<string id="rad_find_stalkers_dialog_4_200">
 		<text>Fechado!</text>

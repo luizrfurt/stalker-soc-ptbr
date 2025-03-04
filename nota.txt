@@ -10,3 +10,4 @@
 10. rever o uso de snorkel e snorkels*
 11. passar Luz da lua para Luar*
 12. passar tarefa para missao*
+13. trocar camarada por ??*

@@ -7,16 +7,16 @@
 		<text>Por que?</text>
 	</string>
 	<string id="gar_dolg_blokpost_1111">
-		<text>Area do Duty, exigentes com quem passa para nossa base. Sem negocios importantes com nossos lideres, nao passa por aqui.</text>
+		<text>Area do Duty, somos exigentes com quem passa para nossa base. Sem negocios importantes com nossos lideres, nao passa por aqui.</text>
 	</string>
 	<string id="gar_dolg_blokpost_11111">
 		<text>Entendi.</text>
 	</string>
 	<string id="gar_dolg_blokpost_111111">
-		<text>Sao as regras.</text>
+		<text>Estas sao as regras.</text>
 	</string>
 	<string id="gar_dolg_blokpost_11112">
-		<text>Preciso passar, negocios com o Barkeep.</text>
+		<text>Preciso passar, negocio com o Barkeep.</text>
 	</string>
 	<string id="gar_dolg_blokpost_111121">
 		<text>Sim, Barkeep falou sobre voce. Pode passar.</text>
@@ -25,7 +25,7 @@
 		<text>Prefiro pagar. Aqui.</text>
 	</string>
 	<string id="gar_dolg_blokpost_11112111">
-		<text>Bom! Pode ir, mas tenha algo importante para tratar com o Barkeep, ouviu? Cuidado, muitas anomalias pela frente.</text>
+		<text>Bom! Pode ir, mas tenha algo importante para tratar com o Barkeep, ouviu? Cuidado, ha muitas anomalias pela frente.</text>
 	</string>
 	<string id="gar_dolg_blokpost_1111212">
 		<text>Qual o favor?</text>
@@ -43,7 +43,7 @@
 		<text>Nao tenho o dinheiro.</text>
 	</string>
 	<string id="gar_dolg_blokpost_1111212121">
-		<text>Entao, comece a procurar!</text>
+		<text>Entao, comecce a procurar!</text>
 	</string>
 	<string id="gar_dolg_blokpost_111122">
 		<text>Nao tenho o dinheiro.</text>
@@ -85,7 +85,7 @@
 		<text>Ok.</text>
 	</string>
 	<string id="gar_dramm_novice_start_2">
-		<text>Limpando o Lixao dos bandidos. Amigos vao emboscar esquadrao de bandidos proximos. Se nao impedirmos, tomam o controle do Lixao, ninguem vai fundo na Zona. Fale com nosso comandante. Ele e seus homens no ferro-velho de maquinarios. Vou para la agora, vamos juntos se quiser.</text>
+		<text>Limpando o Lixao dos bandidos. Amigos vao emboscar esquadrao de bandidos proximos. Se nao impedirmos, vao tomar o controle do Lixao, ninguem vai fundo na Zona. Fale com nosso comandante. Ele e seus homens estao no ferro-velho de maquinarios. Vou para la agora, vamos juntos se quiser.</text>
 	</string>
 	<string id="gar_dramm_novice_start_21">
 		<text>Vamos la.</text>
@@ -94,7 +94,7 @@
 		<text>Pode me contar algo sobre o Lixao?</text>
 	</string>
 	<string id="gar_dramm_novice_start_31">
-		<text>Nao ha muito o que contar, amigo. Lixao e... deposito de lixo. Soldados do Duty guardam estrada norte para o Bar. Evite-os, Duty cheio de tipos maus. A direita, caminhos para o Vale Sombrio, radiacao alta la. Um pouco mais perto, Grimpen Mire, pantanos terriveis cheios de anomalias. Facil encontrar artefatos bons la, mas mais facil encontrar problemas. Pelo menos nao tem o Cao de Baskerville no Pantano!</text>
+		<text>Nao ha muito o que contar, amigo. Lixao e... deposito de lixo. Soldados do Duty guardam a estrada norte para o Bar. Evite-os, Duty cheio de tipos maus. A direita, caminhos para o Vale Sombrio, radiacao alta la. Um pouco mais perto, Grimpen Mire, pantanos terriveis cheios de anomalias. Facil encontrar artefatos bons la, mas mais facil encontrar problemas. Pelo menos nao tem o Cao de Baskerville no Pantano!</text>
 	</string>
 	<string id="gar_dramm_novice_start_311">
 		<text>Continue.</text>

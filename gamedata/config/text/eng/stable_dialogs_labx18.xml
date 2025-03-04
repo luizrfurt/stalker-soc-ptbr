@@ -7,10 +7,10 @@
 		<text>Hmm. Que tipo de missao? Esta procurando algo? Ou ja encontrou? Dizem que ha coisas valiosas por aqui...</text>
 	</string>
 	<string id="dar_explorer_dialog_111">
-		<text>Desculpe, nao posso falar disso e nao tenho tempo para conversa.</text>
+		<text>Desculpe, nao posso falar sobre isso e nao tenho tempo para conversa.</text>
 	</string>
 	<string id="dar_explorer_dialog_1111">
-		<text>Espera ai, sem pressa. Sempre ha tempo... O que voce encontrou? Eu tambem nao estou aqui de passeio.</text>
+		<text>Espera ai, sem pressa. Sempre ha tempo... O que voce encontrou? Eu tambem nao estou aqui apenas para passear.</text>
 	</string>
 	<string id="dar_explorer_dialog_11111">
 		<text>O que eu achei nao te interessa.</text>
@@ -25,13 +25,13 @@
 		<text>Nao sei nem como vim parar aqui. So quero sair o mais rapido possivel.</text>
 	</string>
 	<string id="dar_explorer_dialog_21">
-		<text>Tem certeza? Dizem que ha informacoes sobre experimentos cientificos por aqui. Elas valem uma grana...</text>
+		<text>Tem certeza? Dizem que ha informacoes sobre experimentos cientificos por aqui. Elas valem uma boa quantia...</text>
 	</string>
 	<string id="dar_explorer_dialog_211">
 		<text>Nao, nada.</text>
 	</string>
 	<string id="dar_explorer_dialog_2111">
-		<text>Eh?... Tem certeza? Ta escondendo algo de mim?</text>
+		<text>Eh?... Tem certeza? Esta escondendo algo de mim?</text>
 	</string>
 	<string id="dar_explorer_dialog_21111">
 		<text>Nao.</text>
@@ -40,7 +40,7 @@
 		<text>Que tipo de pergunta e essa?</text>
 	</string>
 	<string id="dar_explorer_dialog_21113">
-		<text>Ta me ameacando?</text>
+		<text>Esta me ameacando?</text>
 	</string>
 	<string id="dar_explorer_dialog_212">
 		<text>Que se dane essas informacoes. Estou ocupado tentando sobreviver.</text>
@@ -49,16 +49,16 @@
 		<text>Beleza, entao pode ir. Se achar algo, estarei por aqui...</text>
 	</string>
 	<string id="dar_explorer_dialog_25">
-		<text>Escuta, camarada, ja passei por fogo, anomalias e monstros nessa lixeira radioativa e ainda estou vivo! Entao nao vem me dizer o que posso ou nao posso falar. Vim aqui pelos documentos e nao saio sem eles. Se estao com voce, sugiro que entregue ou vai ficar apodrecendo nesse buraco! Entendeu?</text>
+		<text>Escuta, amigo, ja passei por fogo, anomalias e monstros nessa lixeira radioativa e ainda estou vivo! Entao nao venha me dizer o que posso ou nao posso falar. Vim aqui pelos documentos e nao saio sem eles. Se estao com voce, sugiro que entregue ou vai acabar apodrecendo nesse buraco! Entendeu?</text>
 	</string>
 	<string id="dar_explorer_dialog_251">
 		<text>Entendi.</text>
 	</string>
 	<string id="dar_explorer_dialog_2511">
-		<text>Se estiver mentindo pra mim, ta ferrado. Se estiver pensando em me enganar, ta ferrado. E se tentar me passar qualquer porcaria, ta ferrado. Na verdade, voce ta tao ferrado que vai precisar de um mapa pra sair dessa. Vou perguntar de novo: voce encontrou os documentos?</text>
+		<text>Se estiver mentindo para mim, esta ferrado. Se estiver pensando em me enganar, esta ferrado. E se tentar me passar qualquer porcaria, esta ferrado. Na verdade, voce esta tao ferrado que vai precisar de um mapa para sair dessa. Vou perguntar de novo: voce encontrou os documentos?</text>
 	</string>
 	<string id="dar_explorer_dialog_2521">
-		<text>Certo, da proxima vez, toma cuidado com o que diz. Pode ir. Se achar algo, estarei por perto...</text>
+		<text>Certo, da proxima vez, tome cuidado com o que diz. Pode ir. Se achar algo, estarei por perto...</text>
 	</string>
 	<string id="dar_explorer_dialog_253">
 		<text>Ja deu essa conversa. Sai do meu caminho.</text>
@@ -67,10 +67,10 @@
 		<text>Nao tenho documento nenhum.</text>
 	</string>
 	<string id="dar_explorer_dialog_271">
-		<text>Melhor assim, camarada. Agora passa tudo o que tiver, cada pedaco de papel. E nem pensa em me enganar, ou essa sera sua ultima burrice...</text>
+		<text>Melhor assim, amigo. Agora passa tudo o que tiver, cada pedaco de papel. E nem pense em me enganar, ou essa sera sua ultima burrice...</text>
 	</string>
 	<string id="dar_explorer_dialog_51">
-		<text>To te avisando, para ai! Nao to rodando por esse buraco atoa. Para com o joguinho e me diz o que achou. Podemos ate dividir...</text>
+		<text>To te avisando, pare ai! Nao estou rodando por esse buraco atoa. Pare com o joguinho e me diga o que achou. Podemos ate dividir...</text>
 	</string>
 	<string id="dar_explorer_dialog_511">
 		<text>Nao divido nada.</text>
@@ -79,7 +79,7 @@
 		<text>Eh... entao cai fora... So um conselho, stalker - olha bem por onde pisa. Vai precisar.</text>
 	</string>
 	<string id="dar_explorer_dialog_512">
-		<text>Ta me ameacando?</text>
+		<text>Esta me ameacando?</text>
 	</string>
 	<string id="dar_explorer_dialog_5121">
 		<text>Ta bom, ta bom... Mal fico curioso e voce ja saca a arma! Sem mais perguntas. So se cuida.</text>
