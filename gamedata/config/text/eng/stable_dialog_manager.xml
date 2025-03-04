@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="windows-1251" ?>
 <string_table>
 	<string id="dm_action_info_0">
-		<text>Novo por aqui? Pense nisso como um jardim de infancia, pre-escola. Se nao ficar esperto, vira comida de mutante em cinco minutos. Os espertos ficam um tempo, juntam uns trocados com muniçao e armas, e somem daqui. Todo mundo faz isso.</text>
+		<text>Novo por aqui? Pense nisso como um jardim de infancia, pre-escola. Se nao ficar esperto, vira comida de mutante em cinco minutos. Os espertos ficam um tempo, juntam uns trocados com municao e armas, e somem daqui. Todo mundo faz isso.</text>
 	</string>
 	<string id="dm_action_info_1">
-		<text>So preciso esperar aqueles caras de uniforme sairem para o almoço... Quero ir para a Grande Terra, mas eles nao deixam. Nao sou o unico tentando, mas ninguem conseguiu passar ainda.</text>
+		<text>So preciso esperar aqueles caras de uniforme sairem para o almoco... Quero ir para a Grande Terra, mas eles nao deixam. Nao sou o unico tentando, mas ninguem conseguiu passar ainda.</text>
 	</string>
 	<string id="dm_action_info_10">
-		<text>Nao muito longe daqui, os caras de uniforme estavam procurando alguma coisa. Eles nunca vinham para ca antes, limpavam tudo antes de mim. Mas agora, parece que encontraram algo... Nem consegui chegar perto do predio, eles me viram e começaram a atirar. Ainda bem que escapei sem um arranhao.</text>
+		<text>Nao muito longe daqui, os caras de uniforme estavam procurando alguma coisa. Eles nunca vinham para ca antes, limpavam tudo antes de mim. Mas agora, parece que encontraram algo... Nem consegui chegar perto do predio, eles me viram e comecaram a atirar. Ainda bem que escapei sem um arranhao.</text>
 	</string>
 	<string id="dm_action_info_100">
 		<text>Nada demais. Apenas tentando sobreviver.</text>
@@ -40,25 +40,25 @@
 		<text>Ja foi no nosso acampamento? Nao e so nosso, mas quase todo mundo passa por la. E um bom lugar, limpo, e as noticias da Zona chegam primeiro la. Quase sempre da para ouvir algo util, ou so bater papo. Pena que o Careca e o grupo dele foram embora anteontem, nem consegui ve-lo dessa vez.</text>
 	</string>
 	<string id="dm_action_info_2">
-		<text>Vem para o acampamento, la voce ouve todos os boatos. Quem esta começando agora, como voce, sempre aparece la para pegar dicas ou descansar. Tem soldados por perto, nao precisa ter medo, mas nao atrapalhe eles, podem atirar sem pensar. Aqui perto do Comerciante, tem um lugar calmo para montar acampamento.</text>
+		<text>Vem para o acampamento, la voce ouve todos os boatos. Quem esta comecando agora, como voce, sempre aparece la para pegar dicas ou descansar. Tem soldados por perto, nao precisa ter medo, mas nao atrapalhe eles, podem atirar sem pensar. Aqui perto do Comerciante, tem um lugar calmo para montar acampamento.</text>
 	</string>
 	<string id="dm_action_info_20">
 		<text>Aqui e seguro, stalker, e estamos tentando manter assim. Tem muita gente por aqui, alguns que moram aqui e nao vao para outros lugares, outros que estao se preparando para mais uma aventura. Pena que o Irokez nao voltou, ele adorava ensinar os novatos como voce.</text>
 	</string>
 	<string id="dm_action_info_21">
-		<text>Ouviu falar que a Duty esta recrutando? Pensei em me juntar, mas deixei para la. Daqui a pouco, me alistam a força... Nao preciso dessa disciplina. Ja servi dois anos, chega para mim...</text>
+		<text>Ouviu falar que a Duty esta recrutando? Pensei em me juntar, mas deixei para la. Daqui a pouco, me alistam a forca... Nao preciso dessa disciplina. Ja servi dois anos, chega para mim...</text>
 	</string>
 	<string id="dm_action_info_22">
 		<text>Se nao ouviu, fique sabendo: estamos recrutando. Se tem experiencia, venha, nao vai se arrepender. Na base, procure o Petrenko.</text>
 	</string>
 	<string id="dm_action_info_23">
-		<text>Veio para ver as lutas? Quer apostar? Tem uma arena aqui, sabia? Os caras da Duty capturam mutantes, fazem uns testes, e se eles sobrevivem, soltam na arena. Tem mutantes de todo tipo, alguns sao engraçados, outros te fazem tremer na base.</text>
+		<text>Veio para ver as lutas? Quer apostar? Tem uma arena aqui, sabia? Os caras da Duty capturam mutantes, fazem uns testes, e se eles sobrevivem, soltam na arena. Tem mutantes de todo tipo, alguns sao engracados, outros te fazem tremer na base.</text>
 	</string>
 	<string id="dm_action_info_24">
 		<text>Acabaram de trazer carne fresca para a arena. Diversao para o povo, e para nos, uma boa grana com as apostas. Vamos mostrar para os stalkers que a Duty faz mais do que so falar.</text>
 	</string>
 	<string id="dm_action_info_25">
-		<text>Ja foi para Rostok? Antes era calmo, mas agora e perigoso ir sozinho, muitos mutantes por la. Vamos juntos, o que acha? Mas... nao te conheço, e voce nao me conhece. Vai que... Melhor cada um seguir seu caminho.</text>
+		<text>Ja foi para Rostok? Antes era calmo, mas agora e perigoso ir sozinho, muitos mutantes por la. Vamos juntos, o que acha? Mas... nao te conheco, e voce nao me conhece. Vai que... Melhor cada um seguir seu caminho.</text>
 	</string>
 	<string id="dm_action_info_26">
 		<text>Acabamos de voltar de Rostok. Melhor nem aparecer por la, principalmente sozinho. Quer continuar vivo? Fique longe de la.</text>
@@ -79,7 +79,7 @@
 		<text>A Freedom se esconde atras dos armazens antigos... acabe com eles, esses malditos...</text>
 	</string>
 	<string id="dm_action_info_31">
-		<text>Vai embora antes de escurecer! De dia e mais ou menos tranquilo, mas quando o sol se põe...</text>
+		<text>Vai embora antes de escurecer! De dia e mais ou menos tranquilo, mas quando o sol se poe...</text>
 	</string>
 	<string id="dm_action_info_32">
 		<text>Stalker, va embora! Vamos derrubar o isolamento. Por enquanto, so mantemos de dia, e vamos embora a noite, e muito perigoso aqui a noite.</text>
@@ -88,7 +88,7 @@
 		<text>De noite, voce precisa se esconder, de preferencia atras de portas bem trancadas. Na escuridao, ficamos cercados.</text>
 	</string>
 	<string id="dm_action_info_34">
-		<text>Amigo, parece que voce nao esta sabendo das coisas. De noite, e melhor dormir longe daqui. Aqui, nem um lança granadas te salva.</text>
+		<text>Amigo, parece que voce nao esta sabendo das coisas. De noite, e melhor dormir longe daqui. Aqui, nem um lanca granadas te salva.</text>
 	</string>
 	<string id="dm_action_info_35">
 		<text>Quer saber? Deixa a Duty, a Freedom e os saqueadores brigarem por esse lugar. O que eu tenho a ver com isso? Que se dane tudo...</text>
@@ -112,7 +112,7 @@
 		<text>E voce, o que faz por aqui? Vai para Yantar, ou esta tentando contrabandear uns artefatos?</text>
 	</string>
 	<string id="dm_action_info_41">
-		<text>Nao vou esconder, outros stalkers encontram umas formaçoes anomalias interessantes por aqui, artefatos, como voces chamam. Como... digamos... o controle sobre eles e incerto, esses lugares viraram rotas de contrabando.</text>
+		<text>Nao vou esconder, outros stalkers encontram umas formacoes anomalias interessantes por aqui, artefatos, como voces chamam. Como... digamos... o controle sobre eles e incerto, esses lugares viraram rotas de contrabando.</text>
 	</string>
 	<string id="dm_action_info_42">
 		<text>Qual e a sua, cara? Abrimos um caminho para nao precisar encontrar os caras da Duty quando vamos para a Grande Terra. Eles ainda aparecem por aqui, mas pelo menos nao sabem de nada, da para passar despercebido.</text>
@@ -127,7 +127,7 @@
 		<text>Nem sei o que te dizer. Queria voltar para nosso complexo, Yantar, como voce sabe. Dizem que antes era so perigoso, agora e impossivel passar. Sera que estao exagerando?</text>
 	</string>
 	<string id="dm_action_info_46">
-		<text>Estive em Yantar, os cientistas estao escondidos, so saem para pegar suprimentos dos helicopteros. E tem muitos zumbis por la agora. Se voce morar la uma semana, começa a se esconder tambem. Lugar horrivel.</text>
+		<text>Estive em Yantar, os cientistas estao escondidos, so saem para pegar suprimentos dos helicopteros. E tem muitos zumbis por la agora. Se voce morar la uma semana, comeca a se esconder tambem. Lugar horrivel.</text>
 	</string>
 	<string id="dm_action_info_47">
 		<text>Que se dane ele! Quem ele pensa que e, andando com zumbis?! Tem um monte deles naquele complexo estupido, e continuam aparecendo. Cada vez mais.</text>
@@ -139,7 +139,7 @@
 		<text>Estamos coletando dados. Por exemplo, estou pesquisando como os quase vivos, ou zumbis, se espalham. Quer compartilhar suas descobertas?</text>
 	</string>
 	<string id="dm_action_info_5">
-		<text>E assim que funciona. Alguns vasculham o Lixao, pegando sucata, outros vao mais fundo na Zona. La tem itens melhores, mas nem todos se arriscam. Nao e lugar para novatos, e sem muniçao, nem tente, e suicidio.</text>
+		<text>E assim que funciona. Alguns vasculham o Lixao, pegando sucata, outros vao mais fundo na Zona. La tem itens melhores, mas nem todos se arriscam. Nao e lugar para novatos, e sem municao, nem tente, e suicidio.</text>
 	</string>
 	<string id="dm_action_info_50">
 		<text>Atirou nos zumbis nas janelas do laboratorio? Cuidado, eles nao sentem medo nem dor, sao miseraveis sem cerebro.</text>
@@ -151,7 +151,7 @@
 		<text>Nao entre no laboratorio. Se quiser ir, va, nao vou te impedir. Mas ninguem sai de la vivo.</text>
 	</string>
 	<string id="dm_action_info_53">
-		<text>Nao entre no laboratorio. Ninguem deveria ir la. Causa mudanças na mente e no corpo, e acho que nao tem volta.</text>
+		<text>Nao entre no laboratorio. Ninguem deveria ir la. Causa mudancas na mente e no corpo, e acho que nao tem volta.</text>
 	</string>
 	<string id="dm_action_info_54">
 		<text>Deixa eu te explicar. Nao va para o laboratorio. E sinistro la. Pessoas somem, e as vezes voltam para te assombrar. Nao sao historias de terror, sao zumbis de verdade. E assim que as coisas sao.</text>
@@ -163,10 +163,10 @@
 		<text>O que voce tem a ver com isso? Nao os incomode com perguntas idiotas, e eles te deixam em paz.</text>
 	</string>
 	<string id="dm_action_info_57">
-		<text>Nao saimos do bunker sem proteção. As condiçoes aqui nao permitem. Sou uma exceçao, nao gosto de grandes expediçoes. Nao posso te ajudar muito agora.</text>
+		<text>Nao saimos do bunker sem protecao. As condicoes aqui nao permitem. Sou uma excecao, nao gosto de grandes expedicoes. Nao posso te ajudar muito agora.</text>
 	</string>
 	<string id="dm_action_info_58">
-		<text>Nossa ciencia e engraçada! Os caras quase nunca saem do bunker. E quando saem, meu deus! Tropas, helicopteros, blindados! Podiam trazer um navio de guerra ou um trem blindado.</text>
+		<text>Nossa ciencia e engracada! Os caras quase nunca saem do bunker. E quando saem, meu deus! Tropas, helicopteros, blindados! Podiam trazer um navio de guerra ou um trem blindado.</text>
 	</string>
 	<string id="dm_action_info_59">
 		<text>Estou observando ha tres dias. Tem um laboratorio aqui, certo? Ninguem entra la, os Dutiers so matavam zumbis na superficie, e agora pararam. Os cientistas devem ter achado um jeito de se proteger. Deve ter muita coisa boa la dentro.</text>
@@ -187,10 +187,10 @@
 		<text>Estou pensando em me juntar a Freedom. A base deles e nos armazens antigos. Por que nao? Parecem espertos, e nao sao muito organizados. Melhor assim, nao gosto de disciplina. Sei o que fazer, nao sou novato.</text>
 	</string>
 	<string id="dm_action_info_64">
-		<text>Nao gosta da Freedom, ne? Tudo bem, nao se preocupe. Vamos expulsar eles dos armazens. Nao tem organização nem disciplina, sao uma bagunça. E ainda querem enfrentar a gente, aqueles filhotes da OTAN.</text>
+		<text>Nao gosta da Freedom, ne? Tudo bem, nao se preocupe. Vamos expulsar eles dos armazens. Nao tem organizacao nem disciplina, sao uma bagunca. E ainda querem enfrentar a gente, aqueles filhotes da OTAN.</text>
 	</string>
 	<string id="dm_action_info_65">
-		<text>Converso com um cara da Duty quando tem cessar fogo. A gente troca informaçoes. O cara e inteligente, mas fechado como um tanque. Nossa filosofia e diferente, queremos entender a Zona, nao destrui-la. Precisamos de informaçao, alguem vai descobrir algo. Eles so pensam em fechar tudo. Completamente retardados. Mas faz sentido, com toda a maquina politica por tras deles, nao podem pensar diferente.</text>
+		<text>Converso com um cara da Duty quando tem cessar fogo. A gente troca informacoes. O cara e inteligente, mas fechado como um tanque. Nossa filosofia e diferente, queremos entender a Zona, nao destrui-la. Precisamos de informacao, alguem vai descobrir algo. Eles so pensam em fechar tudo. Completamente retardados. Mas faz sentido, com toda a maquina politica por tras deles, nao podem pensar diferente.</text>
 	</string>
 	<string id="dm_action_info_66">
 		<text>Tem uma casa por aqui, era calma, mas agora tem monstros por la. Melhor dar a volta, por isso estou indo por outro caminho... Eu avisei.</text>
@@ -199,13 +199,13 @@
 		<text>Cuidado, stalker, os Sanguessugas fizeram um ninho na vila, e talvez algo pior. Tome cuidado.</text>
 	</string>
 	<string id="dm_action_info_68">
-		<text>Nao tem nada de novo. Nao tem mais artefatos aqui, e os Sanguessugas moravam nas casas, matamos todos. Agora nao consigo chegar perto. Intuiçao, talvez, mas nao consigo. Tem morte la...</text>
+		<text>Nao tem nada de novo. Nao tem mais artefatos aqui, e os Sanguessugas moravam nas casas, matamos todos. Agora nao consigo chegar perto. Intuicao, talvez, mas nao consigo. Tem morte la...</text>
 	</string>
 	<string id="dm_action_info_69">
-		<text>Vou sair daqui! Fiquei quatro semanas na fronteira, chega! Aberraçoes aparecem direto do Desintegrador Psiquico, e cada vez mais...</text>
+		<text>Vou sair daqui! Fiquei quatro semanas na fronteira, chega! Aberracoes aparecem direto do Desintegrador Psiquico, e cada vez mais...</text>
 	</string>
 	<string id="dm_action_info_7">
-		<text>Muitos viraram "lixeiros". Antes, nem olhavam para o lixo, a radiaçao fritava um ovo em meia hora. Agora que as coisas boas estao dificeis, eles usam proteção, tomam uns remedios e vao procurar. Acham de tudo la, mas geralmente e lixo.</text>
+		<text>Muitos viraram "lixeiros". Antes, nem olhavam para o lixo, a radiacao fritava um ovo em meia hora. Agora que as coisas boas estao dificeis, eles usam protecao, tomam uns remedios e vao procurar. Acham de tudo la, mas geralmente e lixo.</text>
 	</string>
 	<string id="dm_action_info_70">
 		<text>Se veio para o bloqueio, te respeito. Se nao, saia da minha frente! Precisamos de gente de verdade, nao de covardes. Ja temos muitos deles...</text>
@@ -214,7 +214,7 @@
 		<text>Veio para o bloqueio? Que bom, mais um normal por aqui. Organizamos isso aqui, mas ai os monstros apareceram do nosso lado! Agora esta dificil, cada bala conta.</text>
 	</string>
 	<string id="dm_action_info_72">
-		<text>Nao esta sabendo? O caminho para o centro da Zona esta aberto! Ou abriu sozinho, ou alguem se esforçou muito. Se alguem fez isso, agradecemos. Agora e so pegar as melhores coisas!</text>
+		<text>Nao esta sabendo? O caminho para o centro da Zona esta aberto! Ou abriu sozinho, ou alguem se esforcou muito. Se alguem fez isso, agradecemos. Agora e so pegar as melhores coisas!</text>
 	</string>
 	<string id="dm_action_info_73">
 		<text>Podia ter esperado, stalker. Nao corra atras de tudo. Sabe o que tem la? Nao sabe. Nao sei se tem algo ou nao. Nao sabe quais armadilhas te esperam. Entao por que esta correndo como um bufalo?</text>
@@ -226,7 +226,7 @@
 		<text>Siga em frente, voce vai ver tudo! Nao quer ver o que esta acontecendo? Vai ter muita coisa boa la! Ja ouviu falar do Concessor de Desejos?</text>
 	</string>
 	<string id="dm_action_info_76">
-		<text>Parecem crianças! "Concessor de Desejos", "Klondike de Artefatos"... inacreditavel!</text>
+		<text>Parecem criancas! "Concessor de Desejos", "Klondike de Artefatos"... inacreditavel!</text>
 	</string>
 	<string id="dm_action_info_77">
 		<text>Quero descobrir o que tem la! E se acharmos a resposta para tudo que acontece na Zona?</text>
@@ -244,19 +244,19 @@
 		<text>Prypiat! Finalmente! A usina e logo ali. Nao sei o que vamos encontrar la, que criatura esta nos esperando.</text>
 	</string>
 	<string id="dm_action_info_81">
-		<text>Amigo, voce tambem esta ouvindo uma voz na cabeça, ou estou ficando louco? Fica repetindo a mesma coisa...</text>
+		<text>Amigo, voce tambem esta ouvindo uma voz na cabeca, ou estou ficando louco? Fica repetindo a mesma coisa...</text>
 	</string>
 	<string id="dm_action_info_82">
 		<text>Droga, mais um... Vou explicar de novo o efeito telepatico daqui. Vozes chamam para o centro da Zona, prometendo realizar desejos de quem tocar no... como chama?... Monolito.</text>
 	</string>
 	<string id="dm_action_info_83">
-		<text>Ouve uma voz? Legal, como um tocador de musica na cabeça! So tem uma musica: venha ate mim e sera feliz. Repetindo isso ha duas horas.</text>
+		<text>Ouve uma voz? Legal, como um tocador de musica na cabeca! So tem uma musica: venha ate mim e sera feliz. Repetindo isso ha duas horas.</text>
 	</string>
 	<string id="dm_action_info_84">
 		<text>Nao adivinhou ainda? Esta tentando chegar na usina tambem! Nos tambem estamos, qual a novidade? So precisamos tirar esses caras do caminho...</text>
 	</string>
 	<string id="dm_action_info_85">
-		<text>A usina esta perto! Mas nao conseguimos vencer a resistencia dos Monolithianos!</text>
+		<text>A usina esta perto! Mas nao conseguimos vencer a resistencia da Monolith!</text>
 	</string>
 	<string id="dm_action_info_86">
 		<text>La esta ela, a Usina de Chernobyl, ao alcance. So mais um pouco, mas esses caras nao deixam a gente passar! Vamos limpar eles rapidinho!</text>
@@ -265,7 +265,7 @@
 		<text>Amigo, nao sabe de Agroprom? Queria ir la, mas todos riram de mim. Disseram que nao tem mais nada la, so anomalias. Sera que estao falando serio? Sou novo aqui, acredito no que me dizem... Sera que estao me zoando? Eles adoram fazer isso!</text>
 	</string>
 	<string id="dm_action_info_94">
-		<text>Espere! Va rapido, mas com cuidado. Tem Monolithianos por toda parte, eles conhecem a cidade, montam armadilhas. Cuidado.</text>
+		<text>Espere! Va rapido, mas com cuidado. Tem Monolith por toda parte, eles conhecem a cidade, montam armadilhas. Cuidado.</text>
 	</string>
 	<string id="dm_action_info_95">
 		<text>Cuidado, a Monolith controla grande parte da cidade. Tem muitas armadilhas, eles conhecem a cidade. Fique atento e verifique suas armas.</text>
@@ -307,13 +307,13 @@
 		<text>Ouvi dizer que os cientistas acharam algo incrivel. E todo mundo enlouqueceu: tropas, Mercs, ate a Duty esta atras.</text>
 	</string>
 	<string id="dm_cool_info_15">
-		<text>Se quer saber o que todos me perguntam ha dois dias, vai se ferrar! Se eu soubesse e pudesse falar, falaria. Mas nao sei nada! O que os cientistas acharam? Onde foi a liderança? Nao sei de nada! Estao de ferias, nao precisam dar satisfação.</text>
+		<text>Se quer saber o que todos me perguntam ha dois dias, vai se ferrar! Se eu soubesse e pudesse falar, falaria. Mas nao sei nada! O que os cientistas acharam? Onde foi a lideranca? Nao sei de nada! Estao de ferias, nao precisam dar satisfacao.</text>
 	</string>
 	<string id="dm_cool_info_16">
 		<text>Todo mundo pirou! O Confederado e o grupo dele voltaram de um ataque, trouxeram um monte de artefatos! Ele nao fala nada, como sempre, e os caras dele agem como se tivessem achado ouro no Yukon... cuzoes!</text>
 	</string>
 	<string id="dm_cool_info_17">
-		<text>Ultimamente, monstros estao vindo do Desintegrador Psiquico. O pessoal dos armazens antigos fez uma barreira, por enquanto esta funcionando. Se piorar, vao precisar de reforços.</text>
+		<text>Ultimamente, monstros estao vindo do Desintegrador Psiquico. O pessoal dos armazens antigos fez uma barreira, por enquanto esta funcionando. Se piorar, vao precisar de reforcos.</text>
 	</string>
 	<string id="dm_cool_info_18">
 		<text>Ouviu falar que a Zona esta crescendo? Acho que e verdade, vi um monstro horrivel perto do perimetro, antes so via isso no centro da Zona. As coisas nao estao boas.</text>
@@ -325,7 +325,7 @@
 		<text>E triste. Otter morreu, do nada. Nao da para acreditar... nunca ouviu falar dele, ne? Ele era experiente, conhecia a Zona como ninguem... e morreu assim! Tem stalkers experientes, mas a Zona pega todos. Alguns voltam para a Grande Terra.</text>
 	</string>
 	<string id="dm_cool_info_20">
-		<text>O bartender sabe o que os cientistas acharam? Sera que ele esta envolvido com a ciencia? Ultimamente ele da tarefas estranhas para stalkers experientes. Nao explica nada, so manda ir para lugares perigosos. O que ele procura?</text>
+		<text>O bartender sabe o que os cientistas acharam? Sera que ele esta envolvido com a ciencia? Ultimamente ele da missoes estranhas para stalkers experientes. Nao explica nada, so manda ir para lugares perigosos. O que ele procura?</text>
 	</string>
 	<string id="dm_cool_info_21">
 		<text>Algo estranho esta acontecendo. Os zumbis que tinham medo da luz agora vagam por toda parte. Que diabos e isso?!</text>
@@ -340,7 +340,7 @@
 		<text>Aposto que os cientistas fizeram besteira no laboratorio. Antes era dificil achar zumbi, agora eles saem do complexo. E vagam como se estivessem procurando algo.</text>
 	</string>
 	<string id="dm_cool_info_25">
-		<text>Dizem que os cientistas contrataram um dos nossos para ir ao laboratorio. Deram algo para ele, um equipamento de proteçao, e nada mais.</text>
+		<text>Dizem que os cientistas contrataram um dos nossos para ir ao laboratorio. Deram algo para ele, um equipamento de protecao, e nada mais.</text>
 	</string>
 	<string id="dm_cool_info_26">
 		<text>Contam cada historia. Dizem que um maluco conversou com um cientista e foi para o laboratorio. Que besteira!</text>
@@ -352,7 +352,7 @@
 		<text>Acho que algo esta acontecendo de novo. Os cientistas acharam algo que assustou todo mundo, e isso significa que nao teremos paz.</text>
 	</string>
 	<string id="dm_cool_info_29">
-		<text>Nao sei o que esta acontecendo. Mandam a gente fazer o dobro de tarefas, bloqueios, limpezas... e tem mais tropas na Zona.</text>
+		<text>Nao sei o que esta acontecendo. Mandam a gente fazer o dobro de missoes, bloqueios, limpezas... e tem mais tropas na Zona.</text>
 	</string>
 	<string id="dm_cool_info_3">
 		<text>E tudo triste. Sempre teve gente na periferia, mas a maioria nunca foi fundo na Zona, nao tem artefatos para todos. Levaram tudo dos laboratorios e fabricas. Logo, nao vai sobrar nada para fazer aqui, so abrir um restaurante... com vista e comida exoticas.</text>
@@ -370,10 +370,10 @@
 		<text>Os mutantes tentam passar pela barreira direto. Ultimamente esta dificil. Se parassem de fazer besteira, seria mais facil!</text>
 	</string>
 	<string id="dm_cool_info_34">
-		<text>A Duty se acha heroica na barreira. Se alguem acreditasse neles... Nos começamos isso, e nos mantemos funcionando, e muitos Loners ajudam. Mas a Duty... que se danem!</text>
+		<text>A Duty se acha heroica na barreira. Se alguem acreditasse neles... Nos comecamos isso, e nos mantemos funcionando, e muitos Loners ajudam. Mas a Duty... que se danem!</text>
 	</string>
 	<string id="dm_cool_info_35">
-		<text>Ouvi dizer que a Duty se vendeu. Dizem que sao voluntarios, que querem segurança e ordem na Zona... aham, voluntarios! Algum patrocinador deu tanta muniçao e armas para eles, que da inveja. Se venderam.</text>
+		<text>Ouvi dizer que a Duty se vendeu. Dizem que sao voluntarios, que querem seguranca e ordem na Zona... aham, voluntarios! Algum patrocinador deu tanta municao e armas para eles, que da inveja. Se venderam.</text>
 	</string>
 	<string id="dm_cool_info_36">
 		<text>Que boatos? Vou te dizer sem boatos: logo teremos mais ordem. Vamos limpar a Zona de monstros e de alguns idiotas...</text>
@@ -397,7 +397,7 @@
 		<text>Agora que tem caminho para o centro, deve ter tesouro debaixo dos seus pes!</text>
 	</string>
 	<string id="dm_cool_info_42">
-		<text>Agora que da para chegar ao centro da Zona com segurança, os stalkers vao para la como moscas no mel. A ganancia nao e a melhor qualidade humana.</text>
+		<text>Agora que da para chegar ao centro da Zona com seguranca, os stalkers vao para la como moscas no mel. A ganancia nao e a melhor qualidade humana.</text>
 	</string>
 	<string id="dm_cool_info_43">
 		<text>Agora sim e vida boa! Enquanto os caras do bar e do perimetro tentam chegar aqui, vamos pegar as melhores coisas! Vamos pegar tudo, e deixar a sobra para os outros.</text>
@@ -427,7 +427,7 @@
 		<text>Ouviu? As tropas vao pegar tudo! Vao chegar aqui logo! Descobriram que o Desintegrador Psiquico quebrou, e querem tudo para eles!</text>
 	</string>
 	<string id="dm_cool_info_51">
-		<text>Informação nova: exercito vai invadir a usina. Se quer pegar algo bom, se apresse.</text>
+		<text>Informacao nova: exercito vai invadir a usina. Se quer pegar algo bom, se apresse.</text>
 	</string>
 	<string id="dm_cool_info_52">
 		<text>Caos total! Abriram o caminho, limparam a usina, e os militares querem tudo! Sem vergonha!</text>
@@ -439,16 +439,16 @@
 		<text>Entendeu o que esta acontecendo? Ganhei respeito pelo Mikluha! Sobreviver quatro semanas aqui, e sem perder ninguem!</text>
 	</string>
 	<string id="dm_cool_info_55">
-		<text>Alguns aqui enlouqueceram. Eram caras durões, agora babam como idiotas. Assustador.</text>
+		<text>Alguns aqui enlouqueceram. Eram caras duroes, agora babam como idiotas. Assustador.</text>
 	</string>
 	<string id="dm_cool_info_56">
-		<text>Quanto mais perto da usina, mais forte a força telepatica. Alguns enlouquecem, outros veem coisas. Melhor recuar.</text>
+		<text>Quanto mais perto da usina, mais forte a forca telepatica. Alguns enlouquecem, outros veem coisas. Melhor recuar.</text>
 	</string>
 	<string id="dm_cool_info_57">
-		<text>O pessoal aqui esta pirando. Um ve uma pedra e grita que e um artefato, que viu primeiro. Outro ve Dja em uma nuvem, abraçando amigos mortos. Tem algo errado aqui.</text>
+		<text>O pessoal aqui esta pirando. Um ve uma pedra e grita que e um artefato, que viu primeiro. Outro ve Dja em uma nuvem, abracando amigos mortos. Tem algo errado aqui.</text>
 	</string>
 	<string id="dm_cool_info_6">
-		<text>As tropas estao agitadas, procurando. Antes os helicopteros so iam para Yantar, proteger cientistas, levar suprimentos. Agora invadem tudo, fazem expediçoes, dirigem APCs. Ja vi em Agroprom e no Vale Sombrio. Nao entendo.</text>
+		<text>As tropas estao agitadas, procurando. Antes os helicopteros so iam para Yantar, proteger cientistas, levar suprimentos. Agora invadem tudo, fazem expedicoes, dirigem APCs. Ja vi em Agroprom e no Vale Sombrio. Nao entendo.</text>
 	</string>
 	<string id="dm_cool_info_7">
 		<text>Dizem que alguem tentou passar pelo Desintegrador Psiquico de novo. Nao voltou, claro... nunca ouviu falar do Desintegrador Psiquico? O que ha com voce? E o maior perigo daqui! E o que dizem sobre ele e quase tudo verdade.</text>
@@ -463,10 +463,10 @@
 		<text>Muito obrigado.</text>
 	</string>
 	<string id="dm_intro_0">
-		<text>Andando sem proteção? Quer morrer? Tem anomalia em todo canto! Ninguem mija sem proteção aqui, pega radiaçao na hora.</text>
+		<text>Andando sem protecao? Quer morrer? Tem anomalia em todo canto! Ninguem mija sem protecao aqui, pega radiacao na hora.</text>
 	</string>
 	<string id="dm_intro_1">
-		<text>Nao conhece o lugar, ne? Nao se meta com os militares. Vê um, sai de perto. Atiram primeiro, perguntam depois.</text>
+		<text>Nao conhece o lugar, ne? Nao se meta com os militares. Ve um, sai de perto. Atiram primeiro, perguntam depois.</text>
 	</string>
 	<string id="dm_intro_10">
 		<text>A Duty manda aqui. A policia local, digamos assim. Lembre disso para evitar problemas.</text>
@@ -493,16 +493,16 @@
 		<text>Ola.</text>
 	</string>
 	<string id="dm_intro_107">
-		<text>Saudaçoes!</text>
+		<text>Saudacoes!</text>
 	</string>
 	<string id="dm_intro_108">
 		<text>Ola, stalker.</text>
 	</string>
 	<string id="dm_intro_109">
-		<text>Saudaçoes, stalker.</text>
+		<text>Saudacoes, stalker.</text>
 	</string>
 	<string id="dm_intro_11">
-		<text>A Duty mantem a ordem aqui. Cumpra as ordens da patrulha sem resistencia. Se precisar de explicaçoes, peça. Seja educado e nao tera problemas.</text>
+		<text>A Duty mantem a ordem aqui. Cumpra as ordens da patrulha sem resistencia. Se precisar de explicacoes, peca. Seja educado e nao tera problemas.</text>
 	</string>
 	<string id="dm_intro_110">
 		<text>E ai, voce ai, stalker!</text>
@@ -541,7 +541,7 @@
 		<text>O Desintegrador Psiquico esta perto. Nao va para o norte.</text>
 	</string>
 	<string id="dm_intro_19">
-		<text>Cuidado, se nao quiser perder a cabeça, nao va para o norte.</text>
+		<text>Cuidado, se nao quiser perder a cabeca, nao va para o norte.</text>
 	</string>
 	<string id="dm_intro_2">
 		<text>Cuidado na ponte, tem muitos caes. Se bobear, te destroem.</text>
@@ -562,16 +562,16 @@
 		<text>Cuidado com os idiotas! Tem muitos deles por aqui!</text>
 	</string>
 	<string id="dm_intro_25">
-		<text>Atire nos Monolithianos assim que os vir. Sao muito perigosos, fanaticos!</text>
+		<text>Atire na Monolith assim que os vir. Sao muito perigosos, fanaticos!</text>
 	</string>
 	<string id="dm_intro_26">
-		<text>Tem uns loucos aqui, chamam de Monolithianos. Eles nao sentem dor. Sem muniçao, pulam em voce e tentam te morder. Viu um, atire na hora.</text>
+		<text>Tem uns loucos aqui, chamam de Monolith. Eles nao sentem dor. Sem municao, pulam em voce e tentam te morder. Viu um, atire na hora.</text>
 	</string>
 	<string id="dm_intro_3">
-		<text>Se vir um tunel, nao entre. Nao seja idiota, nao se meta em encrenca. Vao te achar em pedaços nas paredes. Isso e a Zona.</text>
+		<text>Se vir um tunel, nao entre. Nao seja idiota, nao se meta em encrenca. Vao te achar em pedacos nas paredes. Isso e a Zona.</text>
 	</string>
 	<string id="dm_intro_4">
-		<text>Por que esta sem nada? Encontrou os monstros na ponte? Quase me mataram! Tive que dar tudo para eles! Bandidos ou tropas, nao faz diferença.</text>
+		<text>Por que esta sem nada? Encontrou os monstros na ponte? Quase me mataram! Tive que dar tudo para eles! Bandidos ou tropas, nao faz diferenca.</text>
 	</string>
 	<string id="dm_intro_5">
 		<text>Por que esta sozinho? Tem muitos bandidos aqui, te pegam a qualquer hora! Ultimamente, estao atacando ate os postos de controle!</text>

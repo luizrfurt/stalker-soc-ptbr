@@ -86,7 +86,7 @@
 		<text>Snitch</text>
 	</string>
 	<string id="bar_ivancov_bio">
-		<text>Comandante de operacoes militares contra mutantes e incursões punitivas.</text>
+		<text>Comandante de operacoes militares contra mutantes e incursoes punitivas.</text>
 	</string>
 	<string id="bar_ivancov_name">
 		<text>Capitao Ivantsov</text>
@@ -263,7 +263,7 @@
 		<text>Sidorovich</text>
 	</string>
 	<string id="gar_bandit_leader_bio">
-		<text>Possui autoridade entre os bandidos. Braço direito de Borov.</text>
+		<text>Possui autoridade entre os bandidos. Braco direito de Borov.</text>
 	</string>
 	<string id="gar_bandit_leader_name">
 		<text>Vasya Boar</text>
@@ -302,16 +302,16 @@
 		<text>Um stalker experiente que ja viu de tudo na Zona. Sempre alerta para o perigo.</text>
 	</string>
 	<string id="mil_Dolg_specnaz_bio">
-		<text>Militante da facao Duty, altamente treinado e bem equipado. Defensor ferrenho da ordem na Zona.</text>
+		<text>Militante da faccao Duty, altamente treinado e bem equipado. Defensor ferrenho da ordem na Zona.</text>
 	</string>
 	<string id="mil_Dolg_specnaz_cherep_bio">
-		<text>Comandante das forcas especiais da facao Duty. Frio e estrategico, lidera operacoes com maos de ferro.</text>
+		<text>Comandante das forcas especiais da faccao Duty. Frio e estrategico, lidera operacoes com maos de ferro.</text>
 	</string>
 	<string id="mil_Dolg_specnaz_cherep_name">
 		<text>Skull</text>
 	</string>
 	<string id="mil_Dolg_specnaz_silence_bio">
-		<text>Um soldado da facao Duty, treinado para missao de alto risco. Letal em combate.</text>
+		<text>Um soldado da faccao Duty, treinado para missao de alto risco. Letal em combate.</text>
 	</string>
 	<string id="mil_Killer_informator_bio">
 		<text>Conhecido dedo-duro, sua reputacao na Zona esta longe de ser boa. Poucos confiam nele.</text>
@@ -332,7 +332,7 @@
 		<text>Sentinela do grupo Monolith. Extremamente perigoso e fanatico. Melhor nao chamar sua atencao.</text>
 	</string>
 	<string id="mil_Monolit_regular_bio">
-		<text>Guerreiro devoto do Monolith. Obedece ordens sem hesitar e nao recua em combate.</text>
+		<text>Guerreiro devoto do Monolito. Obedece ordens sem hesitar e nao recua em combate.</text>
 	</string>
 	<string id="mil_Stalker_master_bio">
 		<text>Veterano da Zona. Conhece cada atalho e cada perigo. Equipado para enfrentar qualquer ameaca.</text>
@@ -341,7 +341,7 @@
 		<text>Stalker experiente, habilidoso em combate e sobrevivencia. Um verdadeiro sobrevivente.</text>
 	</string>
 	<string id="mil_Svoboda_blockpost_leader_bio">
-		<text>Comandante da Barreira e lider da facao Freedom. Inspirou muitos a lutar por um ideal.</text>
+		<text>Comandante da Barreira e lider da faccao Freedom. Inspirou muitos a lutar por um ideal.</text>
 	</string>
 	<string id="mil_Svoboda_blockpost_leader_name">
 		<text>Cap</text>
@@ -350,7 +350,7 @@
 		<text>Guarda pessoal de Lukash. Protege seu lider com a propria vida.</text>
 	</string>
 	<string id="mil_Svoboda_cook_bio">
-		<text>Cozinheiro da facao Freedom. Um beberrao briguento, mas ninguem reclama da sua comida.</text>
+		<text>Cozinheiro da faccao Freedom. Um beberrao briguento, mas ninguem reclama da sua comida.</text>
 	</string>
 	<string id="mil_Svoboda_cook_name">
 		<text>Chef</text>
@@ -362,37 +362,37 @@
 		<text>Screw</text>
 	</string>
 	<string id="mil_Svoboda_leader_bio">
-		<text>Lider da facao Freedom. Comanda seus homens com carisma e conviccao.</text>
+		<text>Lider da faccao Freedom. Comanda seus homens com carisma e conviccao.</text>
 	</string>
 	<string id="mil_Svoboda_leader_name">
 		<text>Lukash</text>
 	</string>
 	<string id="mil_Svoboda_master_bio">
-		<text>Comandante experiente da facao Freedom. Suas decisoes podem mudar o rumo da guerra na Zona.</text>
+		<text>Comandante experiente da faccao Freedom. Suas decisoes podem mudar o rumo da guerra na Zona.</text>
 	</string>
 	<string id="mil_Svoboda_master_Max_bio">
-		<text>Guarda da facao Freedom. Extremamente dedicado e pronto para eliminar qualquer ameaca.</text>
+		<text>Guarda da faccao Freedom. Extremamente dedicado e pronto para eliminar qualquer ameaca.</text>
 	</string>
 	<string id="mil_Svoboda_master_Max_name">
 		<text>Max</text>
 	</string>
 	<string id="mil_Svoboda_master_Ugrumiy_bio">
-		<text>Guerreiro implacavel da facao Freedom. Raramente fala, mas suas acoes dizem tudo.</text>
+		<text>Guerreiro implacavel da faccao Freedom. Raramente fala, mas suas acoes dizem tudo.</text>
 	</string>
 	<string id="mil_Svoboda_master_Ugrumiy_name">
 		<text>Murk</text>
 	</string>
 	<string id="mil_Svoboda_regular_bio">
-		<text>Stalker comum da facao Freedom. Luta pela liberdade e pelo direito de explorar a Zona.</text>
+		<text>Stalker comum da faccao Freedom. Luta pela liberdade e pelo direito de explorar a Zona.</text>
 	</string>
 	<string id="mil_Svoboda_sniper_bio">
-		<text>Franco-atirador da facao Freedom. Um tiro, um alvo abatido.</text>
+		<text>Franco-atirador da faccao Freedom. Um tiro, um alvo abatido.</text>
 	</string>
 	<string id="mil_Svoboda_specnaz_bio">
-		<text>Forca especial da facao Freedom. Bem armado e pronto para a acao.</text>
+		<text>Forca especial da faccao Freedom. Bem armado e pronto para a acao.</text>
 	</string>
 	<string id="mil_Svoboda_stukach_bio">
-		<text>Informante da facao Freedom. Sempre em busca de segredos e informacoes valiosas.</text>
+		<text>Informante da faccao Freedom. Sempre em busca de segredos e informacoes valiosas.</text>
 	</string>
 	<string id="mil_Svoboda_stukach_name">
 		<text>Pavlik</text>
@@ -407,10 +407,10 @@
 		<text>Ex-stalker, agora reduzido a um casca vazia pela influencia da Zona.</text>
 	</string>
 	<string id="mil_Svoboda_zombi_stalker_name">
-		<text>Stalker insano da facao Freedom.</text>
+		<text>Stalker insano da faccao Freedom.</text>
 	</string>
 	<string id="mil_Svoboda_zoneguard_bio">
-		<text>Militante da facao Freedom. Defende seus ideais com ferro e fogo.</text>
+		<text>Militante da faccao Freedom. Defende seus ideais com ferro e fogo.</text>
 	</string>
 	<string id="pri_followers_bomber_name">
 		<text>Sasha Bely</text>
@@ -422,19 +422,19 @@
 		<text>Guerreiro Monolith. Segue sua missao sem questionar, mesmo que custe sua vida.</text>
 	</string>
 	<string id="pri_monolith_exo_bio">
-		<text>Elite da facao Monolith. Usa exoesqueleto para maximizar seu poder de fogo.</text>
+		<text>Elite da faccao Monolith. Usa exoesqueleto para maximizar seu poder de fogo.</text>
 	</string>
 	<string id="pri_monolith_leader_bio">
-		<text>Lider da facao Monolith. Fanatico e implacavel, sua fe e inabalavel.</text>
+		<text>Lider da faccao Monolith. Fanatico e implacavel, sua fe e inabalavel.</text>
 	</string>
 	<string id="pri_monolith_leader_name">
 		<text>Charon</text>
 	</string>
 	<string id="pri_monolith_regular_bio">
-		<text>Stalker Monolith. Sua devocao ao misterioso Monolith o torna imprevisivel.</text>
+		<text>Stalker Monolith. Sua devocao ao misterioso Monolito o torna imprevisivel.</text>
 	</string>
 	<string id="pri_monolith_specnaz_bio">
-		<text>Forca especial do Monolith. Treinado para missao suicidas.</text>
+		<text>Forca especial da Monolith. Treinado para missao suicidas.</text>
 	</string>
 	<string id="pri_zombied_soldier_bio">
 		<text>Soldado sem mente, um fantasma de seu antigo eu. Apenas segue ordens mecanicamente.</text>
@@ -521,7 +521,7 @@
 		<text>Stalker do grupo Monolith. Nenhum detalhe disponivel.</text>
 	</string>
 	<string id="sar_monolith_cristall_bio">
-		<text>Stalker do grupo especial "Cristal" do Monolith, responsavel pela seguranca do proprio Monolito.</text>
+		<text>Stalker do grupo especial "Cristal" da Monolith, responsavel pela seguranca do proprio Monolito.</text>
 	</string>
 	<string id="sar2_arena_manager_name">
 		<text>Arnie</text>
@@ -659,7 +659,7 @@
 		<text>Veio para a Zona em busca de aventura. Imita personagens de quadrinhos populares dos anos 60. Usa varios nomes: Badman, Macho, the Black Coat, Banderos. Mesmo tendo sobrevivido na Zona por dois anos inteiros, ninguem realmente o leva a serio, e isso o deixa constantemente furioso.</text>
 	</string>
 	<string id="sim_bandit_master_kocherga_bio">
-		<text>Feroz, cruel, rude, egoista, insensivel e frio. Ninguem sabe quando e como ele chegou a Zona. Todos o temem e ele nao tem amigos. Simplesmente vive na Zona, sem futuro e sem passado. Depois de uma de suas muitas incursões na Zona, perdeu a memoria e esqueceu quase tudo. Nao se lembra de onde veio, nao lembra seu nome verdadeiro e sofre lapsos frequentes de memoria. E conhecido por esquecer completamente um novo conhecido em uma hora, confundi-lo com um inimigo e mata-lo.</text>
+		<text>Feroz, cruel, rude, egoista, insensivel e frio. Ninguem sabe quando e como ele chegou a Zona. Todos o temem e ele nao tem amigos. Simplesmente vive na Zona, sem futuro e sem passado. Depois de uma de suas muitas incursoes na Zona, perdeu a memoria e esqueceu quase tudo. Nao se lembra de onde veio, nao lembra seu nome verdadeiro e sofre lapsos frequentes de memoria. E conhecido por esquecer completamente um novo conhecido em uma hora, confundi-lo com um inimigo e mata-lo.</text>
 	</string>
 	<string id="sim_bandit_novice_bio">
 		<text>Stalker desconhecido. Reputacao duvidosa. Nenhuma informacao disponivel.</text>

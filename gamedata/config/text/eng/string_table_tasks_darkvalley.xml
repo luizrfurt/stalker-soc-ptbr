@@ -50,16 +50,16 @@
 		<text>Mate os bandidos e resgate o Dutyer</text>
 	</string>
 	<string id="val_come_to_trader">
-		<text>Volte para o trader</text>
+		<text>Volte para o comerciante</text>
 	</string>
 	<string id="val_come_to_trader_0">
-		<text>Volte para o trader</text>
+		<text>Volte para o comerciante</text>
 	</string>
 	<string id="val_come_to_trader_1">
 		<text>Saia do Vale Sombrio</text>
 	</string>
 	<string id="val_come_to_trader_2">
-		<text>Mostre os documentos para o trader</text>
+		<text>Mostre os documentos para o comerciante</text>
 	</string>
 	<string id="val_prisoner_help">
 		<text>Liberte o Dutyer da prisao</text>

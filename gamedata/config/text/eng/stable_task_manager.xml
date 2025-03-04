@@ -19,16 +19,16 @@
         <text>Ajude os stalkers a lutarem contra os bandidos em Agroprom.</text>
     </string>
     <string id="barmen_defend_camp_2_text">
-        <text>Stalkers foram a Agroprom. Disseram que tem algo valioso no subsolo, mas bandidos atrapalham. Estão aguentando, mas não limpam a area. Ajuda eles?</text>
+        <text>Stalkers foram a Agroprom. Disseram que tem algo valioso no subsolo, mas bandidos atrapalham. Estao aguentando, mas nao limpam a area. Ajuda eles?</text>
     </string>
     <string id="barmen_eliminate_camp_1">
         <text>Mate os bandidos no Lixao.</text>
     </string>
     <string id="barmen_eliminate_camp_1_descr">
-        <text>Extermine a gangue de bandidos que mora no Lixao. Rápido e eficiente.</text>
+        <text>Extermine a gangue de bandidos que mora no Lixao. Rapido e eficiente.</text>
     </string>
     <string id="barmen_eliminate_camp_1_text">
-        <text>Derruba os bandidos no Lixao? Duty não da conta. São canalhas, não duram muito. Quem pegar eles primeiro ganha bem... e bebida por minha conta.</text>
+        <text>Derruba os bandidos no Lixao? Duty nao da conta. Sao canalhas, nao duram muito. Quem pegar eles primeiro ganha bem... e bebida por minha conta.</text>
     </string>
     <string id="barmen_eliminate_camp_2">
         <text>Mate os Mercs e bandidos em Rostok.</text>
@@ -37,7 +37,7 @@
         <text>Destrua o grupo de Mercs e bandidos que bloqueiam Rostok.</text>
     </string>
     <string id="barmen_eliminate_camp_2_text">
-        <text>Tem Mercs em Rostok. Juntaram com bandidos, bloqueiam a fabrica. Problema grande, resolve logo. Duty e veteranos foram la, não sabemos deles... Va la e veja. Dinheiro bom.</text>
+        <text>Tem Mercs em Rostok. Juntaram com bandidos, bloqueiam a fabrica. Problema grande, resolve logo. Duty e veteranos foram la, nao sabemos deles... Va la e veja. Dinheiro bom.</text>
     </string>
     <string id="barmen_eliminate_camp_3">
         <text>Mate os bandidos na fazenda.</text>
@@ -46,7 +46,7 @@
         <text>Simples: limpe a fazenda dos bandidos.</text>
     </string>
     <string id="barmen_eliminate_camp_3_text">
-        <text>Fazenda perto dos armazens. Bom lugar pra trocar coisas. Bandidos tomaram, não saem. Não gosto disso. Quero a fazenda logo. Não ligo pro que acontece com eles.</text>
+        <text>Fazenda perto dos armazens. Bom lugar pra trocar coisas. Bandidos tomaram, nao saem. Nao gosto disso. Quero a fazenda logo. Nao ligo pro que acontece com eles.</text>
     </string>
     <string id="barmen_eliminate_camp_4">
         <text>Acabe com o acampamento dos bandidos em Territorio Selvagem.</text>
@@ -55,7 +55,7 @@
         <text>Acabe com o acampamento dos bandidos em Territorio Selvagem.</text>
     </string>
     <string id="barmen_eliminate_camp_4_text">
-        <text>Bandidos em Territorio Selvagem. Não queremos essa escória perto do bar. Extermine o acampamento deles.</text>
+        <text>Bandidos em Territorio Selvagem. Nao queremos essa escoria perto do bar. Extermine o acampamento deles.</text>
     </string>
     <string id="barmen_eliminate_camp_5">
         <text>Destrua o covil de caes mutantes selvagens em Territorio Selvagem.</text>
@@ -64,7 +64,7 @@
         <text>Destrua o covil de caes mutantes selvagens em Territorio Selvagem.</text>
     </string>
     <string id="barmen_eliminate_camp_5_text">
-        <text>Nossos homens foram em expedição, voltaram sozinhos. Rasgados, ensanguentados, olhos vidrados. Acharam caes, provavelmente. Muitos deles. Ache o covil e mate todos.</text>
+        <text>Nossos homens foram em expedicao, voltaram sozinhos. Rasgados, ensanguentados, olhos vidrados. Acharam caes, provavelmente. Muitos deles. Ache o covil e mate todos.</text>
     </string>
     <string id="barmen_eliminate_camp_6">
         <text>Destrua o grupo de bandidos em Agroprom.</text>
@@ -76,22 +76,22 @@
         <text>Em '94 me atacaram, pediram grana. Sofri muito, tinha restaurante. Sem lei contra eles! Descobri que a mesma gangue ta em Agroprom, ganhando com artefatos. Posso fazer algo agora. Sei onde se escondem. Faz um favor, puna eles.</text>
     </string>
     <string id="barmen_eliminate_camp_7">
-        <text>Destrua o covil de snorks em Vale Sombrio.</text>
+        <text>Destrua o covil de Snorkels no Vale Sombrio.</text>
     </string>
     <string id="barmen_eliminate_camp_7_descr">
-        <text>Destrua o covil de snorks no Vale Sombrio.</text>
+        <text>Destrua o covil de Snorkels no Vale Sombrio.</text>
     </string>
     <string id="barmen_eliminate_camp_7_text">
-        <text>Zona se expandindo, dizem. Snorks no Vale Sombrio, nunca viram antes. Pessoal em panico. Duty prometeu destruir, não conseguem. Topa?</text>
+        <text>Zona se expandindo, dizem. Snorkels no Vale Sombrio, nunca viram antes. Pessoal em panico. Duty prometeu destruir, nao conseguem. Topa?</text>
     </string>
     <string id="barmen_find_artefact_1">
-        <text>Ache o artefato Pedaço de Carne.</text>
+        <text>Ache o artefato Pedaco de Carne.</text>
     </string>
     <string id="barmen_find_artefact_1_descr">
-        <text>Ache o artefato Pedaço de Carne que cura doenças e ferimentos.</text>
+        <text>Ache o artefato Pedaco de Carne que cura doencas e ferimentos.</text>
     </string>
     <string id="barmen_find_artefact_1_text">
-        <text>Padres passaram, pediram Pedaço de Carne. Artefato de cura... aqueles milagreiros! Topa?</text>
+        <text>Padres passaram, pediram Pedaco de Carne. Artefato de cura... aqueles milagreiros! Topa?</text>
     </string>
     <string id="barmen_find_artefact_2">
         <text>Ache o artefato Espinho de Cristal.</text>
@@ -100,7 +100,7 @@
         <text>Ache o artefato Espinho de Cristal que protege contra ataques psi.</text>
     </string>
     <string id="barmen_find_artefact_2_text">
-        <text>"Bruxa"? Não. "Milho de Cristal"? Não... "Espinho de Cristal"! Pedido desse artefato. Protege o cerebro. Topa?</text>
+        <text>"Bruxa"? Nao. "Milho de Cristal"? Nao... "Espinho de Cristal"! Pedido desse artefato. Protege o cerebro. Topa?</text>
     </string>
     <string id="barmen_find_artefact_3">
         <text>Ache o artefato Estrela da Noite.</text>
@@ -109,7 +109,7 @@
         <text>Ache o artefato Estrela da Noite para pesquisa militar.</text>
     </string>
     <string id="barmen_find_artefact_3_text">
-        <text>Preciso do artefato Estrela da Noite. Não realiza desejos, mas te deixa rico. Cientistas pagam bem, fazem coisas militares com ele... Topa?</text>
+        <text>Preciso do artefato Estrela da Noite. Nao realiza desejos, mas te deixa rico. Cientistas pagam bem, fazem coisas militares com ele... Topa?</text>
     </string>
     <string id="barmen_find_artefact_4">
         <text>Ache o artefato Lampejo.</text>
@@ -118,7 +118,7 @@
         <text>Ache o artefato Lampejo.</text>
     </string>
     <string id="barmen_find_artefact_4_text">
-        <text>Missão simples, paga bem. Ache o artefato Lampejo. Não pergunte quem pediu e por que. Topa?</text>
+        <text>Missao simples, paga bem. Ache o artefato Lampejo. Nao pergunte quem pediu e por que. Topa?</text>
     </string>
     <string id="barmen_find_artefact_5">
         <text>Ache o artefato Peixe Dourado.</text>
@@ -136,7 +136,7 @@
         <text>Ache o traje que protege contra emissoes psi. Nos laboratorios do Vale Sombrio.</text>
     </string>
     <string id="barmen_find_item_1_text">
-        <text>Laboratorios no Vale Sombrio tentaram proteger cerebros de emissoes psi. Um traje funcionou, protege de controlador. Pega pra mim, nunca esqueço.</text>
+        <text>Laboratorios no Vale Sombrio tentaram proteger cerebros de emissoes psi. Um traje funcionou, protege de controlador. Pega pra mim, nunca esqueco.</text>
     </string>
     <string id="barmen_find_item_2">
         <text>Ache a arma do estrangeiro.</text>
@@ -154,7 +154,7 @@
         <text>Ache o Vintar modificado. Na area da Floresta Vermelha.</text>
     </string>
     <string id="barmen_find_item_3_text">
-        <text>Historia estranha. Sujeito com grana contratou gangue, novatos. Comprou muito equipamento... Vendi um Vintar novo pra ele. Ganhei bem, mas a equipe caiu na Floresta Vermelha. Morreram atoa... Lição: grana não te leva longe na Zona. Quero o Vintar de volta, enferrujando la! Pago bem!</text>
+        <text>Historia estranha. Sujeito com grana contratou gangue, novatos. Comprou muito equipamento... Vendi um Vintar novo pra ele. Ganhei bem, mas a equipe caiu na Floresta Vermelha. Morreram atoa... Licao: grana nao te leva longe na Zona. Quero o Vintar de volta, enferrujando la! Pago bem!</text>
     </string>
     <string id="barmen_kill_stalker_1">
         <text>Mate o soldado.</text>
@@ -163,16 +163,16 @@
         <text>Soldado tem que morrer. Trabalho facil, mas estranho o alvo ser fardado, e o cliente bravo.</text>
     </string>
     <string id="barmen_kill_stalker_1_text">
-        <text>Derrube esse soldado... não pergunte quem e, não importa! So faça. Confio em voce?</text>
+        <text>Derrube esse soldado... nao pergunte quem e, nao importa! So faca. Confio em voce?</text>
     </string>
     <string id="barmen_kill_stalker_2">
         <text>Mate o stalker.</text>
     </string>
     <string id="barmen_kill_stalker_2_descr">
-        <text>Mate um stalker. Vingança do Comerciante contra o trapaceiro.</text>
+        <text>Mate um stalker. Vinganca do Comerciante contra o trapaceiro.</text>
     </string>
     <string id="barmen_kill_stalker_2_text">
-        <text>Confiava nele como em mim mesmo, apostava nele... Descobri que era o pior safado... Preciso resolver isso. Faça e cuido do resto.</text>
+        <text>Confiava nele como em mim mesmo, apostava nele... Descobri que era o pior safado... Preciso resolver isso. Faca e cuido do resto.</text>
     </string>
     <string id="barmen_kill_stalker_3">
         <text>Mate o stalker do Monolito.</text>
@@ -181,7 +181,7 @@
         <text>Ache o ex-amigo do Comerciante e ajude-o a morrer.</text>
     </string>
     <string id="barmen_kill_stalker_3_text">
-        <text>Tinha um amigo... fomos pra Zona juntos, antes de tudo isso. Lugares que fomos... eramos jovens, sem medo... Ele queria ir pro centro, me chamou, recusei... Brigamos feio, foi sozinho... Soube que ta la, com o Monolito. Marcado... como amigo, ache ele e... não faça sofrer, já deve estar ruim... Era como irmão pra mim.</text>
+        <text>Tinha um amigo... fomos pra Zona juntos, antes de tudo isso. Lugares que fomos... eramos jovens, sem medo... Ele queria ir pro centro, me chamou, recusei... Brigamos feio, foi sozinho... Soube que ta la, com o Monolito. Marcado... como amigo, ache ele e... nao faca sofrer, ja deve estar ruim... Era como irmao pra mim.</text>
     </string>
     <string id="barmen_kill_stalker_4">
         <text>Mate o stalker Vampire.</text>
@@ -190,7 +190,7 @@
         <text>Ache e mate o stalker Vampire.</text>
     </string>
     <string id="barmen_kill_stalker_4_text">
-        <text>Cansei desse canalha! Vampire, conhece? Sugando a sorte dos outros, não sangue. Quem vai com ele morre, sem exceção, ele sempre volta! Cinco vezes! Maldade, não? Quero flores no tumulo do Vampire... Topa?</text>
+        <text>Cansei desse canalha! Vampire, conhece? Sugando a sorte dos outros, nao sangue. Quem vai com ele morre, sem excecao, ele sempre volta! Cinco vezes! Maldade, nao? Quero flores no tumulo do Vampire... Topa?</text>
     </string>
     <string id="barmen_kill_stalker_5">
         <text>Mate o stalker Sparrow.</text>
@@ -199,7 +199,7 @@
         <text>Ache Sparrow e vingue a morte de outro stalker.</text>
     </string>
     <string id="barmen_kill_stalker_5_text">
-        <text>Malditos mosqueteiros! D'Artagnan, idiotas! Além de anomalias e balas, agora duelos! Brigaram, nem lembram porque. Decidiram derramar sangue. Um morreu... otimo stalker! O outro, Sparrow, fugiu, ia dar um tiro nele. Ache ele, ta na Zona. Topa?</text>
+        <text>Malditos mosqueteiros! D'Artagnan, idiotas! Alem de anomalias e balas, agora duelos! Brigaram, nem lembram porque. Decidiram derramar sangue. Um morreu... otimo stalker! O outro, Sparrow, fugiu, ia dar um tiro nele. Ache ele, ta na Zona. Topa?</text>
     </string>
     <string id="barmen_monster_part_1">
         <text>Pegue o olho de Carnival.</text>
@@ -208,7 +208,7 @@
         <text>Pegue o olho de Carnival.</text>
     </string>
     <string id="barmen_monster_part_1_text">
-        <text>Festa chegando, jantar fino, gourmets (não apontamos dedos) querem minha receita especial: olhos de "Carnival" no molho de porco. Ou seja, nos sucos com maionese. Preciso do olho da besta, rápido.</text>
+        <text>Festa chegando, jantar fino, gourmets (nao apontamos dedos) querem minha receita especial: olhos de "Carnival" no molho de porco. Ou seja, nos sucos com maionese. Preciso do olho da besta, rapido.</text>
     </string>
     <string id="barmen_monster_part_2">
         <text>Traga o casco de javali.</text>
@@ -217,7 +217,7 @@
         <text>Traga o casco de javali.</text>
     </string>
     <string id="barmen_monster_part_2_text">
-        <text>Preparamos chifres e cascos. Raro. Joias ótimas dos cascos mutantes, joalheiro quer. Ache o casco de javali, grana no bolso.</text>
+        <text>Preparamos chifres e cascos. Raro. Joias otimas dos cascos mutantes, joalheiro quer. Ache o casco de javali, grana no bolso.</text>
     </string>
     <string id="dolg_defend_lager_1">
         <text>Proteja o posto da Duty.</text>
@@ -235,7 +235,7 @@
         <text>Destrua os zumbis em Yantar.</text>
     </string>
     <string id="dolg_eliminate_lager_1_text">
-        <text>Grupo pra Yantar, não voltou. Viram stalkers zumbificados perto do laboratorio dos cientistas em Yantar. Não podemos deixar assim. Ache e destrua o que se tornaram.</text>
+        <text>Grupo pra Yantar, nao voltou. Viram stalkers zumbificados perto do laboratorio dos cientistas em Yantar. Nao podemos deixar assim. Ache e destrua o que se tornaram.</text>
     </string>
     <string id="dolg_eliminate_lager_10">
         <text>Livre-se da matilha de caes.</text>
@@ -244,7 +244,7 @@
         <text>Livre-se da matilha de caes no Lixao.</text>
     </string>
     <string id="dolg_eliminate_lager_10_text">
-        <text>Não damos missões pra estrangeiros. Tarefa simples, não vamos mandar nossos homens. Limpe um covil de bestas no Lixao. Nosso grupo ta la, pode recuar se precisar. Sem problemas, não tem muitas bestas, uns dez. Provavelmente caes, migração recente. Pode começar.</text>
+        <text>Nao damos missoes pra estrangeiros. Missao simples, nao vamos mandar nossos homens. Limpe um covil de bestas no Lixao. Nosso grupo ta la, pode recuar se precisar. Sem problemas, nao tem muitas bestas, uns dez. Provavelmente caes, migracao recente. Pode comecar.</text>
     </string>
     <string id="dolg_eliminate_lager_11">
         <text>Destrua o acampamento dos stalkers.</text>
@@ -253,7 +253,7 @@
         <text>Destrua o acampamento dos stalkers em Agroprom.</text>
     </string>
     <string id="dolg_eliminate_lager_11_text">
-        <text>Problema delicado, nossos homens não podem se envolver. Neutros na fabrica em Agroprom atrapalham nossos aliados. Limpe a area industrial de stalkers, qualquer um, qualquer grupo. Entendeu?</text>
+        <text>Problema delicado, nossos homens nao podem se envolver. Neutros na fabrica em Agroprom atrapalham nossos aliados. Limpe a area industrial de stalkers, qualquer um, qualquer grupo. Entendeu?</text>
     </string>
     <string id="dolg_eliminate_lager_12">
         <text>Destrua a unidade de Mercs.</text>
@@ -262,7 +262,7 @@
         <text>Destrua a unidade de Mercs em Rostok.</text>
     </string>
     <string id="dolg_eliminate_lager_12_text">
-        <text>Destrua a unidade de atiradores de elite dos Mercs. Estão no ultimo andar do complexo do canteiro de obras. Uns dois a cinco. Armados com rifles de precisão. Não apareça la de dia.</text>
+        <text>Destrua a unidade de snipers dos Mercs. Estao no ultimo andar do complexo do canteiro de obras. Uns dois a cinco. Armados com rifles de precisao. Nao apareca la de dia.</text>
     </string>
     <string id="dolg_eliminate_lager_13">
         <text>Ataque a base dos bandidos.</text>
@@ -274,13 +274,13 @@
         <text>Invada a base dos bandidos e mate o maximo possivel. No Vale Sombrio, centro de ciencias inacabado. Inimigo com trinta homens, armas automaticas leves, pistolas, espingardas. Claro?</text>
     </string>
     <string id="dolg_eliminate_lager_14">
-        <text>Mate os Snorks.</text>
+        <text>Mate os Snorkels.</text>
     </string>
     <string id="dolg_eliminate_lager_14_descr">
-        <text>Mate os Snorks nos tuneis em Yantar.</text>
+        <text>Mate os Snorkels nos tuneis em Yantar.</text>
     </string>
     <string id="dolg_eliminate_lager_14_text">
-        <text>Limpeza. Tuneis em Yantar cheios de Snorks, uns dez. Não da pra passear la agora...</text>
+        <text>Limpeza. Tuneis em Yantar cheios de Snorkels, uns dez. Nao da pra passear la agora...</text>
     </string>
     <string id="dolg_eliminate_lager_2">
         <text>Destrua o rebanho de Carnivais.</text>
@@ -289,7 +289,7 @@
         <text>Destrua o rebanho de Carnivais no Territorio Selvagem.</text>
     </string>
     <string id="dolg_eliminate_lager_2_text">
-        <text>Migração de um rebanho grande de bestas... Mutantes suinos, Carnivais. Estão no Lixao. Nossos homens ocupados, mas precisam ser destruídos. Trabalho especial, pagamos.</text>
+        <text>Migracao de um rebanho grande de bestas... Mutantes suinos, Carnivais. Estao no Lixao. Nossos homens ocupados, mas precisam ser destruidos. Trabalho especial, pagamos.</text>
     </string>
     <string id="dolg_eliminate_lager_3">
         <text>Destrua os pseudocaes.</text>
@@ -298,7 +298,7 @@
         <text>Limpe o covil de pseudocaes nos armazens militares.</text>
     </string>
     <string id="dolg_eliminate_lager_3_text">
-        <text>Aliados avisaram de um covil de monstros nos armazens militares. Achamos que são pseudocaes. Não podemos ir la agora, missão para neutro. Topa?</text>
+        <text>Aliados avisaram de um covil de monstros nos armazens militares. Achamos que sao pseudocaes. Nao podemos ir la agora, missao para neutro. Topa?</text>
     </string>
     <string id="dolg_eliminate_lager_4">
         <text>Destrua o posto dos Mercs.</text>
@@ -307,7 +307,7 @@
         <text>Destrua o posto dos Mercs perto dos armazens militares.</text>
     </string>
     <string id="dolg_eliminate_lager_4_text">
-        <text>Mercs ativos, atacando cientistas. Não podemos deixar assim. Operação punitiva. Alvo: posto dos Mercs nos armazens militares, atras da vila abandonada.</text>
+        <text>Mercs ativos, atacando cientistas. Nao podemos deixar assim. Operacao punitiva. Alvo: posto dos Mercs nos armazens militares, atras da vila abandonada.</text>
     </string>
     <string id="dolg_eliminate_lager_5">
         <text>Destrua os Mercs no Territorio Selvagem.</text>
@@ -325,7 +325,7 @@
         <text>Mate os bandidos que entraram no Territorio Selvagem.</text>
     </string>
     <string id="dolg_eliminate_lager_6_text">
-        <text>Direto ao ponto. Bandidos passaram nossos postos no Bar, estão no Territorio Selvagem. Elimine eles.</text>
+        <text>Direto ao ponto. Bandidos passaram nossos postos no Bar, estao no Territorio Selvagem. Elimine eles.</text>
     </string>
     <string id="dolg_eliminate_lager_7">
         <text>Destrua o controlador.</text>
@@ -334,7 +334,7 @@
         <text>Destrua o controlador em Yantar.</text>
     </string>
     <string id="dolg_eliminate_lager_7_text">
-        <text>Missão pra quem tem habilidade especial. Cientistas viram um controlador em Yantar, na entrada do laboratorio subterraneo (prédio central). Controladores perigosos, mas voce consegue.</text>
+        <text>Missao pra quem tem habilidade especial. Cientistas viram um controlador em Yantar, na entrada do laboratorio subterraneo (predio central). Controladores perigosos, mas voce consegue.</text>
     </string>
     <string id="dolg_eliminate_lager_8">
         <text>Limpe os Freedomers.</text>
@@ -361,7 +361,7 @@
         <text>Ache o TRs 301 aprimorado perto dos armazens militares.</text>
     </string>
     <string id="dolg_find_item_1_text">
-        <text>Alguem ajuda os Mercs. Armas aprimoradas pra tiro de precisão. Brinquedo perigoso. Quero uma arma dessas. Gratidão garantida.</text>
+        <text>Alguem ajuda os Mercs. Armas aprimoradas pra tiro de precisao. Brinquedo perigoso. Quero uma arma dessas. Gratidao garantida.</text>
     </string>
     <string id="dolg_kill_stalker_1">
         <text>Neutralize o bandido.</text>
@@ -370,25 +370,25 @@
         <text>Neutralize o bandido Poker.</text>
     </string>
     <string id="dolg_kill_stalker_1_text">
-        <text>Apelido Poker. Lider de bandidos cruel, porco e estuprador... Doença rara da Zona, lapsos de memoria. Não lembra quem e onde esta. Sempre armado e agressivo. Local: Vale Sombrio. Pronto?</text>
+        <text>Apelido Poker. Lider de bandidos cruel, porco e estuprador... Doenca rara da Zona, lapsos de memoria. Nao lembra quem e onde esta. Sempre armado e agressivo. Local: Vale Sombrio. Pronto?</text>
     </string>
     <string id="drunk_dolg_find_item">
         <text>Ache a arma do Dutyer.</text>
     </string>
     <string id="drunk_dolg_find_item_descr">
-        <text>Dutyer perdeu a arma no Vale Sombrio, expedição de reconhecimento.</text>
+        <text>Dutyer perdeu a arma no Vale Sombrio, expedicao de reconhecimento.</text>
     </string>
     <string id="drunk_dolg_find_item_text">
-        <text>Não devia ter surtado. Zona mexe com a cabeça. Medo, uivo nos ouvidos. Expedição no Vale Sombrio, trincheira com Krivoi. Uivo, medo. Não lembro como cheguei na coordenada. Voltei pra base, Voronin quase atirou. Me deu um canhão aprimorado, deixei la no panico. Pega pra mim, preciso da arma.</text>
+        <text>Nao devia ter surtado. Zona mexe com a cabeca. Medo, uivo nos ouvidos. Expedicao no Vale Sombrio, trincheira com Krivoi. Uivo, medo. Nao lembro como cheguei na coordenada. Voltei pra base, Voronin quase atirou. Me deu um canhao aprimorado, deixei la no panico. Pega pra mim, preciso da arma.</text>
     </string>
     <string id="ecolog_eliminate_lager_1">
-        <text>Limpe o covil dos Snorks.</text>
+        <text>Limpe o covil dos Snorkels.</text>
     </string>
     <string id="ecolog_eliminate_lager_1_descr">
-        <text>Destrua o covil dos Snorks em Yantar.</text>
+        <text>Destrua o covil dos Snorkels em Yantar.</text>
     </string>
     <string id="ecolog_eliminate_lager_1_text">
-        <text>Pago pra voce matar os Snorks nos pantanos, atrapalham meus experimentos. Não da pra concentrar.</text>
+        <text>Pago pra voce matar os Snorkels nos pantanos, atrapalham meus experimentos. Nao da pra concentrar.</text>
     </string>
     <string id="ecolog_eliminate_lager_2">
         <text>Destrua o covil de caes selvagens.</text>
@@ -397,7 +397,7 @@
         <text>Limpe o covil de caes selvagens no Territorio Selvagem.</text>
     </string>
     <string id="ecolog_eliminate_lager_2_text">
-        <text>Covil de caes mutantes no Territorio Selvagem, limpe la. Perigosos pras expedições. Não e zoologico, espalham raiva, peste, sei la o que.</text>
+        <text>Covil de caes mutantes no Territorio Selvagem, limpe la. Perigosos pras expedicoes. Nao e zoologico, espalham raiva, peste, sei la o que.</text>
     </string>
     <string id="ecolog_find_artefact_1">
         <text>Traga o artefato Bola de Fogo.</text>
@@ -415,34 +415,34 @@
         <text>Traga o artefato "Gravi" para os cientistas.</text>
     </string>
     <string id="ecolog_find_artefact_2_text">
-        <text>Quase entendemos a gravitação, motores antigravidade, caminho pras estrelas. Preciso do artefato "Gravi", rapido.</text>
+        <text>Quase entendemos a gravitacao, motores antigravidade, caminho pras estrelas. Preciso do artefato "Gravi", rapido.</text>
     </string>
     <string id="ecolog_find_artefact_3">
         <text>Ache o artefato "Agua-viva".</text>
     </string>
     <string id="ecolog_find_artefact_3_descr">
-        <text>Cientistas precisam do artefato "Agua-viva" para pesquisa do espaço-tempo.</text>
+        <text>Cientistas precisam do artefato "Agua-viva" para pesquisa do espaco-tempo.</text>
     </string>
     <string id="ecolog_find_artefact_3_text">
-        <text>Vamos descobrir o misterio do espaço-tempo. Teletransporte real! Vortex comprime o espaço, afeta gravitacionalmente, meus oponentes erram. Resultados incriveis com pesquisa de campo! Traga o artefato "Agua-viva".</text>
+        <text>Vamos descobrir o misterio do espaco-tempo. Teletransporte real! Vortex comprime o espaco, afeta gravitacionalmente, meus oponentes erram. Resultados incriveis com pesquisa de campo! Traga o artefato "Agua-viva".</text>
     </string>
     <string id="ecolog_find_artefact_4">
         <text>Ache o artefato "Luar".</text>
     </string>
     <string id="ecolog_find_artefact_4_descr">
-        <text>Forneça "Luar" aos cientistas em Yantar. Bom artefato...</text>
+        <text>Forneca "Luar" aos cientistas em Yantar. Bom artefato...</text>
     </string>
     <string id="ecolog_find_artefact_4_text">
         <text>Precisamos de materiais pra pesquisa de energetica. Geramos energia com artefatos. Funciona ate o KPD ficar alto. Melhor resultado com o artefato Luar. Traga uma amostra pra experimentos.</text>
     </string>
     <string id="ecolog_find_artefact_5">
-        <text>Ache o artefato Ouriço do Mar.</text>
+        <text>Ache o artefato Ourico.</text>
     </string>
     <string id="ecolog_find_artefact_5_descr">
-        <text>Cientistas precisam do artefato Ouriço do Mar pra melhorar os trajes.</text>
+        <text>Cientistas precisam do artefato Ourico pra melhorar os trajes.</text>
     </string>
     <string id="ecolog_find_artefact_5_text">
-        <text>Nossos trajes protegem da radiação. Segredo e uma loção de um artefato raro. Pra fazer mais trajes, precisamos desse artefato. Voce chama de "Ouriço do Mar".</text>
+        <text>Nossos trajes protegem da radiacao. Segredo e uma locao de um artefato raro. Pra fazer mais trajes, precisamos desse artefato. Voce chama de "Ourico".</text>
     </string>
     <string id="ecolog_find_item_1">
         <text>Traga o traje corporal unico.</text>
@@ -451,7 +451,7 @@
         <text>Traga o traje corporal do laboratorio subterraneo X-16.</text>
     </string>
     <string id="ecolog_find_item_1_text">
-        <text>Contratamos um stalker pra entrar no laboratorio. Traje dele emitia calor, curava feridas. Stalker não voltou. Não tivemos nada a ver com isso! Traje deve estar la. Quero pra pesquisa.</text>
+        <text>Contratamos um stalker pra entrar no laboratorio. Traje dele emitia calor, curava feridas. Stalker nao voltou. Nao tivemos nada a ver com isso! Traje deve estar la. Quero pra pesquisa.</text>
     </string>
     <string id="ecolog_monster_part_1">
         <text>Traga parte do corpo do Snork.</text>
@@ -460,25 +460,25 @@
         <text>Facil pegar um fragmento de Snork por aqui.</text>
     </string>
     <string id="ecolog_monster_part_1_text">
-        <text>Conheci Semenov na universidade, dei aulas de genetica, ele era aluno. Fui chefe cientifico dele. Revelavamos o misterio do genoma. Pra experimentos geneticos, precisamos de celulas frescas do musculo do Snork. Procure nos pantanos. Hipotese que Snorks são nova evolução humana. Preciso de DNA pra confirmar!</text>
+        <text>Conheci Semenov na universidade, dei aulas de genetica, ele era aluno. Fui chefe cientifico dele. Revelavamos o misterio do genoma. Pra experimentos geneticos, precisamos de celulas frescas do musculo do Snork. Procure nos pantanos. Hipotese que Snorkels sao nova evolucao humana. Preciso de DNA pra confirmar!</text>
     </string>
     <string id="ecolog_monster_part_2">
         <text>Traga o olho de um Carnival.</text>
     </string>
     <string id="ecolog_monster_part_2_descr">
-        <text>Melhor ficar longe desses cabeças de ovo! Pego o olho de Carnival pra eles, fazem o que quiserem com os voluntarios.</text>
+        <text>Melhor ficar longe desses cabecas de ovo! Pego o olho de Carnival pra eles, fazem o que quiserem com os voluntarios.</text>
     </string>
     <string id="ecolog_monster_part_2_text">
-        <text>Boa noticia! Missão interessante! Olhos dos Carnivals tem receptores olfativos! Veem e cheiram com os olhos! Transplante do olho pra um voluntario. Mania chegando! Quer ser receptor desse orgão?</text>
+        <text>Boa noticia! Missao interessante! Olhos dos Carnivals tem receptores olfativos! Veem e cheiram com os olhos! Transplante do olho pra um voluntario. Mania chegando! Quer ser receptor desse orgao?</text>
     </string>
     <string id="ecolog_monster_part_3">
-        <text>Traga o rabo de um cão cego.</text>
+        <text>Traga o rabo de um cao cego.</text>
     </string>
     <string id="ecolog_monster_part_3_descr">
         <text>Ciencia! Segundo cerebro em humanos? Coitados dos caes, um sem rabo agora.</text>
     </string>
     <string id="ecolog_monster_part_3_text">
-        <text>Bem-vindo! Experimento importante! Colega Brenter quer cozinhar com a fauna local, proteina mutante no corpo humano. Começar com javalis. Presunto. Perna de javali, entende? Pegue o mais saudavel.</text>
+        <text>Bem-vindo! Experimento importante! Colega Brenter quer cozinhar com a fauna local, proteina mutante no corpo humano. Comecar com javalis. Presunto. Perna de javali, entende? Pegue o mais saudavel.</text>
     </string>
     <string id="ecolog_monster_part_4">
         <text>Traga a perna de um javali.</text>
@@ -487,19 +487,19 @@
         <text>Gourmets aventureiros... Pego o presunto pra eles.</text>
     </string>
     <string id="ecolog_monster_part_4_text">
-        <text>Bom dia! Caes são vertebrados, coluna da cabeça ao rabo. Coluna dos caes cegos começa no rabo, não na cabeça! Teorias ousadas sobre humanos terem algo no sacro... Preciso da cabeça do cão, o cão cego, que achamos ser o rabo.</text>
+        <text>Bom dia! Caes sao vertebrados, coluna da cabeca ao rabo. Coluna dos caes cegos comeca no rabo, nao na cabeca! Teorias ousadas sobre humanos terem algo no sacro... Preciso da cabeca do cao, o cao cego, que achamos ser o rabo.</text>
     </string>
     <string id="ecolog_monster_part_5">
         <text>Traga a mandibula de um Sanguessuga.</text>
     </string>
     <string id="ecolog_monster_part_5_descr">
-        <text>Não ligo pro que fazem com a mandibula do Sanguessuga. Quero saber quanto pagam pela raridade.</text>
+        <text>Nao ligo pro que fazem com a mandibula do Sanguessuga. Quero saber quanto pagam pela raridade.</text>
     </string>
     <string id="ecolog_monster_part_5_text">
-        <text>Stalker, feliz em te ver! Encontrou Sanguessugas? Se não, encontre. Traga a mandibula inferior, com os "talheres". Não posso falar do experimento, afeta sua psique. Esperamos.</text>
+        <text>Stalker, feliz em te ver! Encontrou Sanguessugas? Se nao, encontre. Traga a mandibula inferior, com os "talheres". Nao posso falar do experimento, afeta sua psique. Esperamos.</text>
     </string>
     <string id="eliminate_lager">
-        <text>Eliminação de acampamento.</text>
+        <text>Eliminacao de acampamento.</text>
     </string>
     <string id="find_item">
         <text>Ache o item.</text>
@@ -511,7 +511,7 @@
         <text>Lute contra o ataque dos bandidos ao acampamento dos stalkers em Agroprom.</text>
     </string>
     <string id="freedom_defend_lager_1_text">
-        <text>Grupo de stalkers, moram em Agroprom. Caras normais, entendem a Zona, liberdade, leis não valem, viva certo, sua moral. Pensam em entrar pra nossa. Ajude contra bandidos? Mandamos munição pra voce.</text>
+        <text>Grupo de stalkers, moram em Agroprom. Caras normais, entendem a Zona, liberdade, leis nao valem, viva certo, sua moral. Pensam em entrar pra nossa. Ajude contra bandidos? Mandamos municao pra voce.</text>
     </string>
     <string id="freedom_defend_lager_2">
         <text>Proteja a fronteira.</text>
@@ -529,7 +529,7 @@
         <text>Destrua o acampamento militar perto do Instituto de Pesquisa Agroprom.</text>
     </string>
     <string id="freedom_eliminate_camp_1_text">
-        <text>Militares tomando a Zona aos poucos. Desacelere eles, senão a Zona vira zoologico de pesquisa. Acampamento militar perto de Agroprom. Limpe o lugar, atrasa a tomada da Zona pelo exercito.</text>
+        <text>Militares tomando a Zona aos poucos. Desacelere eles, senao a Zona vira zoologico de pesquisa. Acampamento militar perto de Agroprom. Limpe o lugar, atrasa a tomada da Zona pelo exercito.</text>
     </string>
     <string id="freedom_eliminate_camp_2">
         <text>Destrua o acampamento Merc.</text>
@@ -538,25 +538,25 @@
         <text>Destrua o acampamento Merc perto dos armazens.</text>
     </string>
     <string id="freedom_eliminate_camp_2_text">
-        <text>Acampamento Merc precisa ser destruído. Deixavamos em paz, atiradores bons... mas pediram, entraram no nosso territorio, tentaram subornar meu pessoal. Lição neles. Consegue?</text>
+        <text>Acampamento Merc precisa ser destruido. Deixavamos em paz, atiradores bons... mas pediram, entraram no nosso territorio, tentaram subornar meu pessoal. Licao neles. Consegue?</text>
     </string>
     <string id="freedom_eliminate_camp_3">
         <text>Destrua a unidade Duty.</text>
     </string>
     <string id="freedom_eliminate_camp_3_descr">
-        <text>Destrua a facção Duty em Rostok.</text>
+        <text>Destrua a faccao Duty em Rostok.</text>
     </string>
     <string id="freedom_eliminate_camp_3_text">
-        <text>Caçar? Unidade Duty em Rostok. Ótima chance de pegar de surpresa. Duty manda gente caçar monstros, atiram em quem não gostam. Unidade precisa ser eliminada antes da Duty chegar em Rostok. Pouca gente, uns veteranos e novatos.</text>
+        <text>Cacar? Unidade Duty em Rostok. Otima chance de pegar de surpresa. Duty manda gente cacar monstros, atiram em quem nao gostam. Unidade precisa ser eliminada antes da Duty chegar em Rostok. Pouca gente, uns veteranos e novatos.</text>
     </string>
     <string id="freedom_eliminate_camp_4">
         <text>Destrua o posto da Duty.</text>
     </string>
     <string id="freedom_eliminate_camp_4_descr">
-        <text>Destrua o posto da Duty no Lixão rápido.</text>
+        <text>Destrua o posto da Duty no Lixao rapido.</text>
     </string>
     <string id="freedom_eliminate_camp_4_text">
-        <text>Trabalho urgente. Passagem do Lixão pro Bar precisa ser limpa da Duty... Escondidos la, roubam quem passa. Pacote importante chegando, Duty pode saber do mensageiro, armar emboscada. Eliminar o bloqueio, mesmo que por pouco tempo. Topa?</text>
+        <text>Trabalho urgente. Passagem do Lixao pro Bar precisa ser limpa da Duty... Escondidos la, roubam quem passa. Pacote importante chegando, Duty pode saber do mensageiro, armar emboscada. Eliminar o bloqueio, mesmo que por pouco tempo. Topa?</text>
     </string>
     <string id="freedom_eliminate_camp_5">
         <text>Limpe a vila.</text>
@@ -565,7 +565,7 @@
         <text>Limpe a vila de Sanguessugas e, se der, mate o controlador.</text>
     </string>
     <string id="freedom_eliminate_camp_5_text">
-        <text>Viu as Sanguessugas na vila? Ninguém chega perto, só doido. Dizem que viram coisas la... controlador, só falta essa! Hora de acabar com isso. Não te forço, nem eu ia la. Mas se não tem medo, agradeço muito.</text>
+        <text>Viu as Sanguessugas na vila? Ninguem chega perto, so doido. Dizem que viram coisas la... controlador, so falta essa! Hora de acabar com isso. Nao te forco, nem eu ia la. Mas se nao tem medo, agradeco muito.</text>
     </string>
     <string id="freedom_eliminate_camp_6">
         <text>Destrua javalis e Carnivals.</text>
@@ -574,7 +574,7 @@
         <text>Destrua javalis e Carnivals nos armazens militares.</text>
     </string>
     <string id="freedom_eliminate_camp_6_text">
-        <text>Sniper na entrada da base. Fica na torre de noite... silencio, de repente explosão, gritos, clarão! Droga!... Javalis e Carnivals andando no campo minado. Sei la porque, mas explodem nas minas direto. Missão simples, mate todos. Topa?</text>
+        <text>Sniper na entrada da base. Fica na torre de noite... silencio, de repente explosao, gritos, clarao! Droga!... Javalis e Carnivals andando no campo minado. Sei la porque, mas explodem nas minas direto. Missao simples, mate todos. Topa?</text>
     </string>
     <string id="freedom_eliminate_camp_7">
         <text>Destrua os roedores.</text>
@@ -583,16 +583,16 @@
         <text>Destrua os roedores no Territorio Selvagem.</text>
     </string>
     <string id="freedom_eliminate_camp_7_text">
-        <text>Sem roedores na nossa base, mas vão pra qualquer lugar. Muitos deles aqui, acreditaria não. Dois meses lidamos com eles... hehehe. Descobrimos que vieram do Territorio Selvagem. Medo de voltarem. Precisamos de ajuda pra cuidar deles. Topa?</text>
+        <text>Sem roedores na nossa base, mas vao pra qualquer lugar. Muitos deles aqui, acreditaria nao. Dois meses lidamos com eles... hehehe. Descobrimos que vieram do Territorio Selvagem. Medo de voltarem. Precisamos de ajuda pra cuidar deles. Topa?</text>
     </string>
     <string id="freedom_find_item_1">
-        <text>Roube o rifle de precisão.</text>
+        <text>Roube o rifle de precisao.</text>
     </string>
     <string id="freedom_find_item_1_descr">
         <text>Roube o SVDm 2 modificado do armazem da Duty.</text>
     </string>
     <string id="freedom_find_item_1_text">
-        <text>Missão especial. Difícil... Pegar um Dragunov aprimorado do armazem da Duty. Tem até nome, mas não importa. Mira incrível, sem recuo, acerta um esquilo no olho a 400 metros. Confio em voce!</text>
+        <text>Missao especial. Dificil... Pegar um Dragunov aprimorado do armazem da Duty. Tem ate nome, mas nao importa. Mira incrivel, sem recuo, acerta um esquilo no olho a 400 metros. Confio em voce!</text>
     </string>
     <string id="freedom_find_item_2">
         <text>Pegue o Chaser 13 modificado.</text>
@@ -601,7 +601,7 @@
         <text>Pegue o Chaser 13 modificado dos cientistas.</text>
     </string>
     <string id="freedom_find_item_2_text">
-        <text>Cabeças de ovo melhoraram a espingarda Chaser com um artefato. Poder de destruição de obus. Vai la ver se faz um acordo? Pago tudo!</text>
+        <text>Cabecas de ovo melhoraram a espingarda Chaser com um artefato. Poder de destruicao de obus. Vai la ver se faz um acordo? Pago tudo!</text>
     </string>
     <string id="freedom_find_item_3">
         <text>Traga o colete a prova de balas.</text>
@@ -610,7 +610,7 @@
         <text>Traga o colete a prova de balas novo.</text>
     </string>
     <string id="freedom_find_item_3_text">
-        <text>Soldados usam colete novo. Revestimento interno com pomada curativa, ferimentos pequenos saram rápido. Dez caras foram pra Yantar, seis voltaram, três carregados. Um ficou pra tras. Pega o colete dele, examinamos e fazemos pra gente.</text>
+        <text>Soldados usam colete novo. Revestimento interno com pomada curativa, ferimentos pequenos saram rapido. Dez caras foram pra Yantar, seis voltaram, tres carregados. Um ficou pra tras. Pega o colete dele, examinamos e fazemos pra gente.</text>
     </string>
     <string id="freedom_kill_stalker_1">
         <text>Mate o chefe da Duty.</text>
@@ -619,25 +619,25 @@
         <text>Mate o chefe da Duty o mais selenciosamente possivel.</text>
     </string>
     <string id="freedom_kill_stalker_1_text">
-        <text>Chefe da Duty sumir silenciosamente seria bom. Com a confusão, coloco meus homens na gangue. Depois, qualquer truque... melhor calar a boca. Cuide dele de longe, sem alarde.</text>
+        <text>Chefe da Duty sumir silenciosamente seria bom. Com a confusao, coloco meus homens na gangue. Depois, qualquer truque... melhor calar a boca. Cuide dele de longe, sem alarde.</text>
     </string>
     <string id="freedom_kill_stalker_2">
-        <text>Mate o Capitão Ivantsov.</text>
+        <text>Mate o Capitao Ivantsov.</text>
     </string>
     <string id="freedom_kill_stalker_2_descr">
-        <text>Mate o Capitão Ivantsov, ajudante do lider da Duty.</text>
+        <text>Mate o Capitao Ivantsov, ajudante do lider da Duty.</text>
     </string>
     <string id="freedom_kill_stalker_2_text">
-        <text>Trabalho difícil, aviso logo, mas vale a pena. Ivantsov, ajudante do lider da Duty, merece. Faz trabalhos sujos: punições, ataques... Matou muitos dos nossos! Hora de acabar com ele. Se topar, se arme bem.</text>
+        <text>Trabalho dificil, aviso logo, mas vale a pena. Ivantsov, ajudante do lider da Duty, merece. Faz trabalhos sujos: punicoes, ataques... Matou muitos dos nossos! Hora de acabar com ele. Se topar, se arme bem.</text>
     </string>
     <string id="freedom_kill_stalker_3">
         <text>Mate o Coronel Petrenko.</text>
     </string>
     <string id="freedom_kill_stalker_3_descr">
-        <text>Mate o Coronel Petrenko, fundador da facção Duty.</text>
+        <text>Mate o Coronel Petrenko, fundador da faccao Duty.</text>
     </string>
     <string id="freedom_kill_stalker_3_text">
-        <text>Coronel Petrenko... Conhece ele? Bom se voces se encontrassem. Um dos fundadores da Duty, nosso pior inimigo. Garanta que a conversa acabe rápido... pra ele. Da conta?</text>
+        <text>Coronel Petrenko... Conhece ele? Bom se voces se encontrassem. Um dos fundadores da Duty, nosso pior inimigo. Garanta que a conversa acabe rapido... pra ele. Da conta?</text>
     </string>
     <string id="freedom_kill_stalker_4">
         <text>Mate o stalker neutro.</text>
@@ -646,7 +646,7 @@
         <text>Ache e mate o stalker neutro.</text>
     </string>
     <string id="freedom_kill_stalker_4_text">
-        <text>Tem um cara por perto. Matou um dos nossos. Não perdoamos isso. Topa? Pagamos, relaxa.</text>
+        <text>Tem um cara por perto. Matou um dos nossos. Nao perdoamos isso. Topa? Pagamos, relaxa.</text>
     </string>
     <string id="freedom_kill_stalker_5">
         <text>Mate um comandante da Duty.</text>
@@ -655,7 +655,7 @@
         <text>Mate um comandante da Duty.</text>
     </string>
     <string id="freedom_kill_stalker_5_text">
-        <text>Pago pela cabeça de qualquer lider da Duty! Mate um e volte pra recompensa.</text>
+        <text>Pago pela cabeca de qualquer lider da Duty! Mate um e volte pra recompensa.</text>
     </string>
     <string id="freedom_kill_stalker_6">
         <text>Mate o stalker Espantalho.</text>
@@ -664,7 +664,7 @@
         <text>Elimine o stalker Espantalho.</text>
     </string>
     <string id="freedom_kill_stalker_6_text">
-        <text>Matamos monstros, sobrevivência, não lucro. Mutantes não são muitos, seres vivos, não queremos aniquilação. Alguns não entendem. Stalker Espantalho, vende mutantes empalhados. Avisamos, não adiantou. Ajuda a Mãe Terra?</text>
+        <text>Matamos monstros, sobrevivencia, nao lucro. Mutantes nao sao muitos, seres vivos, nao queremos aniquilacao. Alguns nao entendem. Stalker Espantalho, vende mutantes empalhados. Avisamos, nao adiantou. Ajuda a Mae Terra?</text>
     </string>
     <string id="freedom_kill_stalker_7">
         <text>Mate o stalker Barin.</text>
@@ -673,7 +673,7 @@
         <text>Mate o stalker Barin, chefe da Duty.</text>
     </string>
     <string id="freedom_kill_stalker_7_text">
-        <text>Canalha, bajulador, hipócrita, covarde... stalker Barin. Caráter ótimo, chegou ao topo da Duty. Fornece suprimentos, ataca de vez em quando. Precisamos dele fora, pistas da Duty levam a ele.</text>
+        <text>Canalha, bajulador, hipocrita, covarde... stalker Barin. Carater otimo, chegou ao topo da Duty. Fornece suprimentos, ataca de vez em quando. Precisamos dele fora, pistas da Duty levam a ele.</text>
     </string>
     <string id="freedom_monster_part_1">
         <text>Traga uma perna de javali.</text>
@@ -682,16 +682,16 @@
         <text>Traga uma perna de javali.</text>
     </string>
     <string id="freedom_monster_part_1_text">
-        <text>Jantar pro aniversario do Bob Marley. Traga presunto gostoso. Quanto mais, melhor! Jah não esquece de voce!</text>
+        <text>Jantar pro aniversario do Bob Marley. Traga presunto gostoso. Quanto mais, melhor! Jah nao esquece de voce!</text>
     </string>
     <string id="hunter_eliminate_lager">
         <text>Destrua o covil do Sanguessuga.</text>
     </string>
     <string id="hunter_eliminate_lager_descr">
-        <text>Caçador pede pra limpar o covil do Sanguessuga na vila perto dos armazens militares, da um artefato raro.</text>
+        <text>Cacador pede pra limpar o covil do Sanguessuga na vila perto dos armazens militares, da um artefato raro.</text>
     </string>
     <string id="hunter_eliminate_lager_text">
-        <text>Viu um Sanguessuga? Horrivel, ne? Fui na vila perto dos armazens militares, procurar artefatos. Vi um Sanguessuga preto, cicatrizes, sentado em um cadaver, não me viu. Surtei, corri. Não devia ter corrido, me ouviu, veio atras, uivo em volta, não tava sozinho. Covil la, acho. Limpe la, dou um artefato raro que achei.</text>
+        <text>Viu um Sanguessuga? Horrivel, ne? Fui na vila perto dos armazens militares, procurar artefatos. Vi um Sanguessuga preto, cicatrizes, sentado em um cadaver, nao me viu. Surtei, corri. Nao devia ter corrido, me ouviu, veio atras, uivo em volta, nao tava sozinho. Covil la, acho. Limpe la, dou um artefato raro que achei.</text>
     </string>
     <string id="kill_stalker">
         <text>Mate o stalker.</text>
@@ -721,10 +721,10 @@
         <text>Destrua o stalker da Freedom.</text>
     </string>
     <string id="petrenko_kill_stalker_descr">
-        <text>Stalker, ex-Duty, com informações de Prypiat, passou pra Freedom. Precisa morrer antes de falar.</text>
+        <text>Stalker, ex-Duty, com informacoes de Prypiat, passou pra Freedom. Precisa morrer antes de falar.</text>
     </string>
     <string id="petrenko_kill_stalker_text">
-        <text>Mapas de Prypiat, antigos, anos 90. Marcação de objetos militares: armazens, abrigos. Pouco uso agora, mas se acharmos caminho pra Prypiat, informação valiosa. Oficial passou pra Freedom, sabe da informação. Silenciar ele antes de falar.</text>
+        <text>Mapas de Prypiat, antigos, anos 90. Marcacao de objetos militares: armazens, abrigos. Pouco uso agora, mas se acharmos caminho pra Prypiat, informacao valiosa. Oficial passou pra Freedom, sabe da informacao. Silenciar ele antes de falar.</text>
     </string>
     <string id="return_for_reward">
         <text>Volte para a recompensa.</text>
@@ -742,7 +742,7 @@
         <text>Preso, ouvi bandidos falando de esconderijo secreto com habar. Traje legal la, mutante viu o esconderijo depois. Medo de ir la agora. Faz um favor, traz o traje, pago bem.</text>
     </string>
     <string id="tm_barman_has_no_job">
-        <text>Não tenho nada no momento.</text>
+        <text>Nao tenho nada no momento.</text>
     </string>
     <string id="tm_barman_job_ask">
         <text>Quer conversar sobre o que?</text>
@@ -763,10 +763,10 @@
         <text>Proteja a unidade Duty de ataque de bandidos no Vale Sombrio.</text>
     </string>
     <string id="tm_defend_camp_1_text">
-        <text>Convenci a Duty a limpar o Lixão de bandidos. Expandem territorio, menos problemas pros meus clientes. Duty decidiu cortar o fluxo de bandidos do Vale Sombrio. Mandaram bloqueio, bandidos não gostaram. Ajuda a proteger a entrada do Vale? Pago bem.</text>
+        <text>Convenci a Duty a limpar o Lixao de bandidos. Expandem territorio, menos problemas pros meus clientes. Duty decidiu cortar o fluxo de bandidos do Vale Sombrio. Mandaram bloqueio, bandidos nao gostaram. Ajuda a proteger a entrada do Vale? Pago bem.</text>
     </string>
     <string id="tm_dolg_has_no_job">
-        <text>Não tem trabalhos no momento.</text>
+        <text>Nao tem trabalhos no momento.</text>
     </string>
     <string id="tm_dolg_job_ask">
         <text>Quer discutir o que?</text>
@@ -781,28 +781,28 @@
         <text>Trabalhos atualizados:</text>
     </string>
     <string id="tm_drunk_dolg_has_no_job">
-        <text>Não tem nada no momento.</text>
+        <text>Nao tem nada no momento.</text>
     </string>
     <string id="tm_drunk_dolg_job_ask">
-        <text>Quer conversar sobre qual tarefa?</text>
+        <text>Quer conversar sobre qual missao?</text>
     </string>
     <string id="tm_drunk_dolg_job_complete">
-        <text>Tarefa concluida, recompensa aqui!</text>
+        <text>Missao concluida, recompensa aqui!</text>
     </string>
     <string id="tm_drunk_dolg_job_what">
-        <text>E a missão?</text>
+        <text>E a missao?</text>
     </string>
     <string id="tm_drunk_dolg_list_job">
         <text>Tem alguma coisa:</text>
     </string>
     <string id="tm_ecolog_has_no_job">
-        <text>Desculpe, não temos missões no momento.</text>
+        <text>Desculpe, nao temos missoes no momento.</text>
     </string>
     <string id="tm_ecolog_job_ask">
-        <text>Quer conversar sobre qual missão?</text>
+        <text>Quer conversar sobre qual missao?</text>
     </string>
     <string id="tm_ecolog_job_complete">
-        <text>Ótimo trabalho! Sua recompensa.</text>
+        <text>Otimo trabalho! Sua recompensa.</text>
     </string>
     <string id="tm_ecolog_job_what">
         <text>Estou ouvindo.</text>
@@ -811,22 +811,22 @@
         <text>O que posso oferecer:</text>
     </string>
     <string id="tm_eliminate_camp_1">
-        <text>Destrua o acampamento de bandidos no Lixão.</text>
+        <text>Destrua o acampamento de bandidos no Lixao.</text>
     </string>
     <string id="tm_eliminate_camp_1_descr">
-        <text>Elimine bandidos no Lixão que roubam stalkers voltando da Zona. Comerciante agradece.</text>
+        <text>Elimine bandidos no Lixao que roubam stalkers voltando da Zona. Comerciante agradece.</text>
     </string>
     <string id="tm_eliminate_camp_1_text">
-        <text>Bandidos se reunindo, atrapalhando negociações honestas... Vai pro Lixão, canalhas perto do ferro-velho. Investiga, todos agradecem, recompensa generosa. Topa?</text>
+        <text>Bandidos se reunindo, atrapalhando negociacoes honestas... Vai pro Lixao, canalhas perto do ferro-velho. Investiga, todos agradecem, recompensa generosa. Topa?</text>
     </string>
     <string id="tm_eliminate_camp_2">
         <text>Destrua o acampamento de bandidos no Auto park.</text>
     </string>
     <string id="tm_eliminate_camp_2_descr">
-        <text>Elimine bandidos no Auto park. Novos na Zona, trabalho fácil.</text>
+        <text>Elimine bandidos no Auto park. Novos na Zona, trabalho facil.</text>
     </string>
     <string id="tm_eliminate_camp_2_text">
-        <text>Bandidos no Auto park de novo. Já sabe o trabalho? Vai la! Dá nossos cumprimentos, volta, agradeço. Negócio?</text>
+        <text>Bandidos no Auto park de novo. Ja sabe o trabalho? Vai la! Da nossos cumprimentos, volta, agradeco. Negocio?</text>
     </string>
     <string id="tm_eliminate_camp_3">
         <text>Elimine os bandidos perto do Instituto de Pesquisa Agroprom.</text>
@@ -844,16 +844,16 @@
         <text>Limpe a area de mutantes.</text>
     </string>
     <string id="tm_eliminate_camp_4_text">
-        <text>Trabalho fácil. Turista estrangeiro, pago pros meus camaradas mostrar a Zona. Area que vão mostrar precisa de limpeza de mutantes. Faz isso?</text>
+        <text>Trabalho facil. Turista estrangeiro, pago pros meus camaradas mostrar a Zona. Area que vao mostrar precisa de limpeza de mutantes. Faz isso?</text>
     </string>
     <string id="tm_eliminate_camp_5">
-        <text>Elimine dois bandidos no Lixão.</text>
+        <text>Elimine dois bandidos no Lixao.</text>
     </string>
     <string id="tm_eliminate_camp_5_descr">
         <text>Abra o caminho para um dos melhores lugares da Zona.</text>
     </string>
     <string id="tm_eliminate_camp_5_text">
-        <text>Lugar ótimo da Zona inacessível. No Lixão... lugar lindo, tristeza vai embora, esquece sujeira, dinheiro, sangue. Esqueceu, dois monstros sujos la, ameaçam quem não paga. Livre-se deles, não tenho outro lugar pra turistas.</text>
+        <text>Lugar otimo da Zona inacessivel. No Lixao... lugar lindo, tristeza vai embora, esquece sujeira, dinheiro, sangue. Esqueceu, dois monstros sujos la, ameacam quem nao paga. Livre-se deles, nao tenho outro lugar pra turistas.</text>
     </string>
     <string id="tm_eliminate_camp_6">
         <text>Mate o Sanguessuga no Vale Sombrio.</text>
@@ -862,16 +862,16 @@
         <text>Mate o Sanguessuga no Vale Sombrio.</text>
     </string>
     <string id="tm_eliminate_camp_6_text">
-        <text>Tropas sairam do Vale Sombrio. Monstros saindo de tudo que e lado. Stalkers viram um Sanguessuga la, não tem medo de espaços abertos. Cientistas querem estudar o Sanguessuga. Quero entregar o corpo pra eles. Mata o Sanguessuga, cuido do resto.</text>
+        <text>Tropas sairam do Vale Sombrio. Monstros saindo de tudo que e lado. Stalkers viram um Sanguessuga la, nao tem medo de espacos abertos. Cientistas querem estudar o Sanguessuga. Quero entregar o corpo pra eles. Mata o Sanguessuga, cuido do resto.</text>
     </string>
     <string id="tm_find_artefact_1">
-        <text>Ache o artefato Água-viva.</text>
+        <text>Ache o artefato Agua-viva.</text>
     </string>
     <string id="tm_find_artefact_1_descr">
-        <text>Ache o artefato Água-viva na anomalia Trampolim.</text>
+        <text>Ache o artefato Agua-viva na anomalia Trampolim.</text>
     </string>
     <string id="tm_find_artefact_1_text">
-        <text>Cara da Grande Terra pediu uma Água-viva. Pouco dinheiro, tarefa fácil. Pega la!</text>
+        <text>Cara da Grande Terra pediu uma Agua-viva. Pouco dinheiro, missao facil. Pega la!</text>
     </string>
     <string id="tm_find_artefact_2">
         <text>Ache o artefato Flor de Pedra.</text>
@@ -880,7 +880,7 @@
         <text>Ache o artefato Flor de Pedra na anomalia Trampolim. Pagamento bom.</text>
     </string>
     <string id="tm_find_artefact_2_text">
-        <text>Pedido de Flor de Pedra. Joalheiros pediram, vamos agradar as damas. Pega la, ganha dinheiro e uma garrafa pra beber a saúde delas...</text>
+        <text>Pedido de Flor de Pedra. Joalheiros pediram, vamos agradar as damas. Pega la, ganha dinheiro e uma garrafa pra beber a saude delas...</text>
     </string>
     <string id="tm_find_artefact_3">
         <text>Ache o artefato Estrela da Noite.</text>
@@ -889,16 +889,16 @@
         <text>Ache a Estrela da Noite, artefato raro e caro.</text>
     </string>
     <string id="tm_find_artefact_3_text">
-        <text>Trabalho... meio ruim. Militares, trabalham em proteção nova. Pedido de Estrela da Noite. Artefato raro, protege de balas... Topa? Pago bem!</text>
+        <text>Trabalho... meio ruim. Militares, trabalham em protecao nova. Pedido de Estrela da Noite. Artefato raro, protege de balas... Topa? Pago bem!</text>
     </string>
     <string id="tm_find_artefact_4">
-        <text>Ache o artefato Pedaço de Carne.</text>
+        <text>Ache o artefato Pedaco de Carne.</text>
     </string>
     <string id="tm_find_artefact_4_descr">
-        <text>Ache o artefato Pedaço de Carne, cura feridas.</text>
+        <text>Ache o artefato Pedaco de Carne, cura feridas.</text>
     </string>
     <string id="tm_find_artefact_4_text">
-        <text>Pedido de artefato que cura feridas, Pedaço de Carne! Clinica pedindo. Pega la, ganha dinheiro e ajuda as pessoas.</text>
+        <text>Pedido de artefato que cura feridas, Pedaco de Carne! Clinica pedindo. Pega la, ganha dinheiro e ajuda as pessoas.</text>
     </string>
     <string id="tm_find_item_1">
         <text>Ache a pistola melhorada.</text>
@@ -907,10 +907,10 @@
         <text>Pegue a Fort, mais cartuchos no carregador. Dono era o comandante do posto militar na ponte quebrada.</text>
     </string>
     <string id="tm_find_item_1_text">
-        <text>Moda de armas adulteradas, ninguém quer armas normais, nem novatos! Pedido de metralhadora melhorada. Comandante dos soldados, que pega dinheiro pra passar pela ponte, tem uma "Fort" com carregador gordo. Pega la?</text>
+        <text>Moda de armas adulteradas, ninguem quer armas normais, nem novatos! Pedido de metralhadora melhorada. Comandante dos soldados, que pega dinheiro pra passar pela ponte, tem uma "Fort" com carregador gordo. Pega la?</text>
     </string>
     <string id="tm_freedom_has_no_job">
-        <text>Não tem trabalho agora...</text>
+        <text>Nao tem trabalho agora...</text>
     </string>
     <string id="tm_freedom_job_ask">
         <text>E ai, quer discutir o que?</text>
@@ -928,13 +928,13 @@
         <text>Nada por enquanto.</text>
     </string>
     <string id="tm_hunter_job_ask">
-        <text>Qual missão quer discutir?</text>
+        <text>Qual missao quer discutir?</text>
     </string>
     <string id="tm_hunter_job_complete">
-        <text>Missão feita, recompensa aqui!</text>
+        <text>Missao feita, recompensa aqui!</text>
     </string>
     <string id="tm_hunter_job_what">
-        <text>E a missão?</text>
+        <text>E a missao?</text>
     </string>
     <string id="tm_hunter_list_job">
         <text>Tem isso aqui:</text>
@@ -943,16 +943,16 @@
         <text>Tudo bem. Outra hora.</text>
     </string>
     <string id="tm_job_refuse">
-        <text>Não faço esse trabalho.</text>
+        <text>Nao faco esse trabalho.</text>
     </string>
     <string id="tm_kill_stalker_1">
         <text>Mate o lider dos bandidos.</text>
     </string>
     <string id="tm_kill_stalker_1_descr">
-        <text>Mate o lider dos bandidos que atrapalhou o Comerciante. Não deve estar sozinho... Trabalho difícil, mas pago bem. Procure no Lixão.</text>
+        <text>Mate o lider dos bandidos que atrapalhou o Comerciante. Nao deve estar sozinho... Trabalho dificil, mas pago bem. Procure no Lixao.</text>
     </string>
     <string id="tm_kill_stalker_1_text">
-        <text>Acabe com um lider dos bandidos. Ordenou que interceptassem meu mensageiro, revistaram ele. Não tolero quem mexe com meu pessoal... Se fizer isso, retribuo o favor. Topa?</text>
+        <text>Acabe com um lider dos bandidos. Ordenou que interceptassem meu mensageiro, revistaram ele. Nao tolero quem mexe com meu pessoal... Se fizer isso, retribuo o favor. Topa?</text>
     </string>
     <string id="tm_kill_stalker_2">
         <text>Mate o stalker Comerciante.</text>
@@ -961,25 +961,25 @@
         <text>Mate um stalker... Trabalho ruim, matar colega. Mas pago muito bem, isso importa.</text>
     </string>
     <string id="tm_kill_stalker_2_text">
-        <text>Tenho problema com esse Comerciante. Não coopera, problema dele! Mas não deixo espalhar boatos ruins. Preciso eliminar ele, exemplo pros outros. Que todos saibam quem manda...</text>
+        <text>Tenho problema com esse Comerciante. Nao coopera, problema dele! Mas nao deixo espalhar boatos ruins. Preciso eliminar ele, exemplo pros outros. Que todos saibam quem manda...</text>
     </string>
     <string id="tm_kill_stalker_3">
         <text>Mate o stalker novato.</text>
     </string>
     <string id="tm_kill_stalker_3_descr">
-        <text>Acabe com um stalker novato, talvez não seja tão novato... Quem é ele? Não importa! Trabalho fácil.</text>
+        <text>Acabe com um stalker novato, talvez nao seja tao novato... Quem e ele? Nao importa! Trabalho facil.</text>
     </string>
     <string id="tm_kill_stalker_3_text">
-        <text>Tem um cara por aqui, finge ser novato, mas é estranho... Se sumir de repente, faz um favor. Entende?</text>
+        <text>Tem um cara por aqui, finge ser novato, mas e estranho... Se sumir de repente, faz um favor. Entende?</text>
     </string>
     <string id="tm_kill_stalker_4">
-        <text>Mate o stalker Demônio.</text>
+        <text>Mate o stalker Demonio.</text>
     </string>
     <string id="tm_kill_stalker_4_descr">
-        <text>Elimine um rival do Comerciante Sidorovich, stalker Demônio.</text>
+        <text>Elimine um rival do Comerciante Sidorovich, stalker Demonio.</text>
     </string>
     <string id="tm_kill_stalker_4_text">
-        <text>Demônio, Oleg Gusarov... serviu Forças Especiais. Não me importava enquanto cuidava da vida dele, Loner como outro. Mas ouvi que junta gangue pra tomar o Cordon, controlar contrabando da Zona. Problema grande, resolver rápido. Topa?</text>
+        <text>Demonio, Oleg Gusarov... serviu Forcas Especiais. Nao me importava enquanto cuidava da vida dele, Loner como outro. Mas ouvi que junta gangue pra tomar o Cordon, controlar contrabando da Zona. Problema grande, resolver rapido. Topa?</text>
     </string>
     <string id="tm_kill_stalker_5">
         <text>Mate o Padre Diodor.</text>
@@ -988,28 +988,28 @@
         <text>Matar homem que prega na Zona contra pegar e vender artefatos? Exatamente.</text>
     </string>
     <string id="tm_kill_stalker_5_text">
-        <text>Negócios e religião não se misturam, nunca! Padre Diodor não entende isso. Delira sobre caça de artefatos, diz que negociar leva ao pecado na Zona e no mundo. Prega a destruição dos artefatos! Converteu alguns! Tentei falar com ele, insiste. Acaba com ele, prega lá em cima... entendeu? Dou um artefato legal. Topa?</text>
+        <text>Negocios e religiao nao se misturam, nunca! Padre Diodor nao entende isso. Delira sobre caca de artefatos, diz que negociar leva ao pecado na Zona e no mundo. Prega a destruicao dos artefatos! Converteu alguns! Tentei falar com ele, insiste. Acaba com ele, prega la em cima... entendeu? Dou um artefato legal. Topa?</text>
     </string>
     <string id="tm_kill_stalker_6">
         <text>Mate o "representante de vendas".</text>
     </string>
     <string id="tm_kill_stalker_6_descr">
-        <text>Mate o "representante de vendas". Comerciante cuida da reputação dele.</text>
+        <text>Mate o "representante de vendas". Comerciante cuida da reputacao dele.</text>
     </string>
     <string id="tm_kill_stalker_6_text">
-        <text>Tem um cara que se diz meu representante, usa minha reputação, vende coisas ruins! Canos quebrados, armaduras caindo aos pedaços, comida vencida. Clientes bravos. Preciso de alguém pra conversar com esse "representante", custe o que custar.</text>
+        <text>Tem um cara que se diz meu representante, usa minha reputacao, vende coisas ruins! Canos quebrados, armaduras caindo aos pedacos, comida vencida. Clientes bravos. Preciso de alguem pra conversar com esse "representante", custe o que custar.</text>
     </string>
     <string id="tm_lisiy_has_no_job">
         <text>Nada por enquanto.</text>
     </string>
     <string id="tm_lisiy_job_ask">
-        <text>Qual missão quer discutir?</text>
+        <text>Qual missao quer discutir?</text>
     </string>
     <string id="tm_lisiy_job_complete">
-        <text>Missão feita, recompensa aqui!</text>
+        <text>Missao feita, recompensa aqui!</text>
     </string>
     <string id="tm_lisiy_job_what">
-        <text>E a missão?</text>
+        <text>E a missao?</text>
     </string>
     <string id="tm_lisiy_list_job">
         <text>Tem isso aqui:</text>
@@ -1018,13 +1018,13 @@
         <text>Nada agora.</text>
     </string>
     <string id="tm_mercenary_job_ask">
-        <text>Qual tarefa quer discutir?</text>
+        <text>Qual missao quer discutir?</text>
     </string>
     <string id="tm_mercenary_job_complete">
-        <text>Tarefa feita... recompensa aqui!</text>
+        <text>Missao feita... recompensa aqui!</text>
     </string>
     <string id="tm_mercenary_job_what">
-        <text>E ai, qual a tarefa?</text>
+        <text>E ai, qual a missao?</text>
     </string>
     <string id="tm_mercenary_list_job">
         <text>Tem isso aqui:</text>
@@ -1036,28 +1036,28 @@
         <text>Dente de Sanguessuga da sorte? Vamos ver se traz sorte pro Sanguessuga.</text>
     </string>
     <string id="tm_monster_part_1_text">
-        <text>Superstição que dente de Sanguessuga da sorte. Quem usa no pescoço passa pelas anomalias, artefatos caem na mão. Besteira, mas idiotas acreditam, pagam bem. Traga a mandibula, pago bem.</text>
+        <text>Supersticao que dente de Sanguessuga da sorte. Quem usa no pescoco passa pelas anomalias, artefatos caem na mao. Besteira, mas idiotas acreditam, pagam bem. Traga a mandibula, pago bem.</text>
     </string>
     <string id="tm_monster_part_2">
-        <text>Traga o rabo do pseudocão.</text>
+        <text>Traga o rabo do pseudocao.</text>
     </string>
     <string id="tm_monster_part_2_descr">
-        <text>Traga o rabo do pseudocão.</text>
+        <text>Traga o rabo do pseudocao.</text>
     </string>
     <string id="tm_monster_part_2_text">
-        <text>Inverno chegando. Garotas da Grande Terra usam o que no inverno? Peles. Moda nova, acessórios com rabos de pseudocães. Pele especial! Pedido de rabo. Topa?</text>
+        <text>Inverno chegando. Garotas da Grande Terra usam o que no inverno? Peles. Moda nova, acessorios com rabos de pseudocaes. Pele especial! Pedido de rabo. Topa?</text>
     </string>
     <string id="tm_petrenko_has_no_job">
         <text>Nada por enquanto.</text>
     </string>
     <string id="tm_petrenko_job_ask">
-        <text>Qual missão quer discutir?</text>
+        <text>Qual missao quer discutir?</text>
     </string>
     <string id="tm_petrenko_job_complete">
-        <text>Missão feita, recompensa aqui!</text>
+        <text>Missao feita, recompensa aqui!</text>
     </string>
     <string id="tm_petrenko_job_what">
-        <text>E a missão?</text>
+        <text>E a missao?</text>
     </string>
     <string id="tm_petrenko_list_job">
         <text>Tem isso aqui:</text>
@@ -1066,7 +1066,7 @@
         <text>Vim pelo trabalho.</text>
     </string>
     <string id="tm_seek_job_abandon">
-        <text>Não quero esse trabalho.</text>
+        <text>Nao quero esse trabalho.</text>
     </string>
     <string id="tm_seek_job_no">
         <text>Outra hora.</text>
@@ -1081,19 +1081,19 @@
         <text>Nada por enquanto.</text>
     </string>
     <string id="tm_shustriy_job_ask">
-        <text>Qual missão quer discutir?</text>
+        <text>Qual missao quer discutir?</text>
     </string>
     <string id="tm_shustriy_job_complete">
-        <text>Missão feita, recompensa aqui!</text>
+        <text>Missao feita, recompensa aqui!</text>
     </string>
     <string id="tm_shustriy_job_what">
-        <text>E a missão?</text>
+        <text>E a missao?</text>
     </string>
     <string id="tm_shustriy_list_job">
         <text>Tem isso aqui:</text>
     </string>
     <string id="tm_trader_has_no_job">
-        <text>Não tem trabalho agora.</text>
+        <text>Nao tem trabalho agora.</text>
     </string>
     <string id="tm_trader_job_ask">
         <text>Qual trabalho quer discutir?</text>
@@ -1111,13 +1111,13 @@
         <text>Nada por enquanto.</text>
     </string>
     <string id="tm_wolf_job_ask">
-        <text>Qual missão quer discutir?</text>
+        <text>Qual missao quer discutir?</text>
     </string>
     <string id="tm_wolf_job_complete">
-        <text>Missão feita, recompensa aqui!</text>
+        <text>Missao feita, recompensa aqui!</text>
     </string>
     <string id="tm_wolf_job_what">
-        <text>E a missão?</text>
+        <text>E a missao?</text>
     </string>
     <string id="tm_wolf_list_job">
         <text>Tem isso aqui:</text>
@@ -1126,13 +1126,13 @@
         <text>Nada por enquanto.</text>
     </string>
     <string id="tm_zastava_commander_job_ask">
-        <text>Qual missão quer discutir?</text>
+        <text>Qual missao quer discutir?</text>
     </string>
     <string id="tm_zastava_commander_job_complete">
-        <text>Missão feita, recompensa aqui!</text>
+        <text>Missao feita, recompensa aqui!</text>
     </string>
     <string id="tm_zastava_commander_job_what">
-        <text>E a missão?</text>
+        <text>E a missao?</text>
     </string>
     <string id="tm_zastava_commander_list_job">
         <text>Tem isso aqui:</text>
@@ -1144,25 +1144,25 @@
         <text>Javalis fizeram covil perto do deposito de Wolf e amigo. Wolf pede pra limpar o covil, recompensa generosa.</text>
     </string>
     <string id="wolf_eliminate_lager_1_text">
-        <text>Eu e meu amigo tinhamos deposito aqui perto do estacionamento, mata densa. O que precisavamos. Javalis fizeram covil la, não chegamos no deposito. Ajuda, mata os javalis, agradeço eu e meu amigo.</text>
+        <text>Eu e meu amigo tinhamos deposito aqui perto do estacionamento, mata densa. O que precisavamos. Javalis fizeram covil la, nao chegamos no deposito. Ajuda, mata os javalis, agradeco eu e meu amigo.</text>
     </string>
     <string id="wolf_eliminate_lager_2">
         <text>Destrua os mutantes na fazenda.</text>
     </string>
     <string id="wolf_eliminate_lager_2_descr">
-        <text>Wolf pede pra limpar a fazenda de mutantes, quer montar acampamento de posto avançado la.</text>
+        <text>Wolf pede pra limpar a fazenda de mutantes, quer montar acampamento de posto avancado la.</text>
     </string>
     <string id="wolf_eliminate_lager_2_text">
-        <text>Fronteira da Zona, novatos tem dificuldade. Bandidos são metade do problema, falam russo. Mutantes, difícil. Fizeram covil na fazenda abandonada, tomaram lugar bom pra acampamento. Limpa a fazenda dos mutantes, fico te devendo.</text>
+        <text>Fronteira da Zona, novatos tem dificuldade. Bandidos sao metade do problema, falam russo. Mutantes, dificil. Fizeram covil na fazenda abandonada, tomaram lugar bom pra acampamento. Limpa a fazenda dos mutantes, fico te devendo.</text>
     </string>
     <string id="zastava_commander_eliminate_lager">
-        <text>Limpe o covil dos cães.</text>
+        <text>Limpe o covil dos caes.</text>
     </string>
     <string id="zastava_commander_eliminate_lager_descr">
-        <text>Matilha de cães no posto de controle sul do Bar. Chefe do posto pede pra limpar o covil. Promete recompensa.</text>
+        <text>Matilha de caes no posto de controle sul do Bar. Chefe do posto pede pra limpar o covil. Promete recompensa.</text>
     </string>
     <string id="zastava_commander_eliminate_lager_text">
-        <text>Apesar dos esforços, monstros invadem do Lixão. Viu a matilha de cães ao sul? Mata eles, ganha recompensa.</text>
+        <text>Apesar dos esforcos, monstros invadem do Lixao. Viu a matilha de caes ao sul? Mata eles, ganha recompensa.</text>
     </string>
     <string id="defend_lager">
         <text>Defesa do acampamento.</text>

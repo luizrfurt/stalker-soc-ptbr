@@ -4,7 +4,7 @@
 		<text>Vai la...</text>
 	</string>
 	<string id="bar_arena_man_job_11">
-		<text>Primeira luta, ne? Seu adversario e so mais um pedaço de carne. Esta aqui por dividas, so tem duas opçoes: lutar ou virar comida de anomalia. Vai lutar como um bicho encurralado. Equipamento de hoje... hum... que tal PMms para os dois? Dois pentes devem bastar. Ou voce detona ele ou te entregamos aos cachorros. Sem escolha. Vai la.</text>
+		<text>Primeira luta, ne? Seu adversario e so mais um pedaco de carne. Esta aqui por dividas, so tem duas opcoes: lutar ou virar comida de anomalia. Vai lutar como um bicho encurralado. Equipamento de hoje... hum... que tal PMms para os dois? Dois pentes devem bastar. Ou voce detona ele ou te entregamos aos cachorros. Sem escolha. Vai la.</text>
 	</string>
 	<string id="bar_arena_man_job_111">
 		<text>Estou pronto.</text>
@@ -22,7 +22,7 @@
 		<text>Nao estou pronto.</text>
 	</string>
 	<string id="bar_arena_man_job_13">
-		<text>Voce nao e tao fraco quanto parecia. Agora vai ter uma luta de verdade. Vai enfrentar dois caras, Swede e outro que nao lembro o nome. Coloquei eles juntos de proposito, se odeiam, nao vao trabalhar em equipe, vao atirar um no outro. Hoje e dia de rifle, nao deixe eles chegarem perto, ou vai sobrar pedaços seus. As chances sao 10 pra 1, se vencer, ganha uma grana boa. Vai la!</text>
+		<text>Voce nao e tao fraco quanto parecia. Agora vai ter uma luta de verdade. Vai enfrentar dois caras, Swede e outro que nao lembro o nome. Coloquei eles juntos de proposito, se odeiam, nao vao trabalhar em equipe, vao atirar um no outro. Hoje e dia de rifle, nao deixe eles chegarem perto, ou vai sobrar pedacos seus. As chances sao 10 pra 1, se vencer, ganha uma grana boa. Vai la!</text>
 	</string>
 	<string id="bar_arena_man_job_131">
 		<text>Estou pronto.</text>
@@ -40,7 +40,7 @@
 		<text>Nao estou pronto.</text>
 	</string>
 	<string id="bar_arena_man_job_15">
-		<text>Luta especial hoje. Ate o exercito ouviu falar de voce! Nao se assuste, eles lutam aqui tambem, tem ate um general na plateia. Esses caras sao das Forças Especiais ou OMON. Bem armados e com armadura boa. Nao se preocupe, te ajudo. Vai usar um colete da Freedom, leve, nao te atrapalha. Mostre que stalkers nao sao saco de pancada. Boa sorte!</text>
+		<text>Luta especial hoje. Ate o exercito ouviu falar de voce! Nao se assuste, eles lutam aqui tambem, tem ate um general na plateia. Esses caras sao das Forcas Especiais ou OMON. Bem armados e com armadura boa. Nao se preocupe, te ajudo. Vai usar um colete da Freedom, leve, nao te atrapalha. Mostre que stalkers nao sao saco de pancada. Boa sorte!</text>
 	</string>
 	<string id="bar_arena_man_job_151">
 		<text>Estou pronto.</text>
@@ -94,10 +94,10 @@
 		<text>Aqui esta o pendrive do professor Kruglov.</text>
 	</string>
 	<string id="bar_bar_barman_ecolog_flash_done_21">
-		<text>Bom trabalho. A Duty vai agradecer pela informação. Aqui esta sua recompensa.</text>
+		<text>Bom trabalho. A Duty vai agradecer pela informacao. Aqui esta sua recompensa.</text>
 	</string>
 	<string id="bar_bar_barman_ecolog_flash_done_31">
-		<text>Informação? Do professor Kruglov? Serio? "Sou o professor Kruglov e apago relatorios pela ciencia e humanidade..." Essa e a informação? Merda... A Duty vai adorar.</text>
+		<text>Informacao? Do professor Kruglov? Serio? "Sou o professor Kruglov e apago relatorios pela ciencia e humanidade..." Essa e a informacao? Merda... A Duty vai adorar.</text>
 	</string>
 	<string id="bar_bar_barman_killer_ambush_0">
 		<text>Missao cumprida. Aqui esta o PDA do Tyran.</text>
@@ -142,7 +142,7 @@
 		<text>Algo mais? E estranho a Duty deixar eles impunes.</text>
 	</string>
 	<string id="bar_bar_barmen_jobs_231111">
-		<text>A Duty preza pela reputaçao, por isso precisa de silencio. Mate o lider deles, Lucky, e traga o PDA dele como prova.</text>
+		<text>A Duty preza pela reputacao, por isso precisa de silencio. Mate o lider deles, Lucky, e traga o PDA dele como prova.</text>
 	</string>
 	<string id="bar_bar_barmen_jobs_2311111">
 		<text>Farei isso. Espero nao me arrepender.</text>
@@ -208,7 +208,7 @@
 		<text>Algo mais?</text>
 	</string>
 	<string id="bar_bar_barmen_jobs_32111">
-		<text>A Duty preza pela reputaçao, por isso precisa de silencio. Mate o lider deles, Lucky, e traga o PDA dele como prova.</text>
+		<text>A Duty preza pela reputacao, por isso precisa de silencio. Mate o lider deles, Lucky, e traga o PDA dele como prova.</text>
 	</string>
 	<string id="bar_bar_barmen_jobs_32112">
 		<text>Vou fazer.</text>
@@ -295,7 +295,7 @@
 		<text>Nao, sem trabalho hoje.</text>
 	</string>
 	<string id="bar_bar_barmen_start_1111">
-		<text>Vamos começar. Esta pronto?</text>
+		<text>Vamos comecar. Esta pronto?</text>
 	</string>
 	<string id="bar_bar_barmen_start_1131">
 		<text>Hum... De onde voce veio?</text>
@@ -322,7 +322,7 @@
 		<text>Sim.</text>
 	</string>
 	<string id="bar_bar_barmen_start_13121">
-		<text>OK, Marcado, voce tem o prototipo de proteção, estara seguro das emissoes. Tenho as coordenadas do bunker. Lembre-se, o prototipo nao protege para sempre, chegue ao bunker rapido e desligue o Desintegrador Psiquico. Nao sei o que acontecera depois, mas valera a pena. A estrada para o centro da Zona sera aberta.</text>
+		<text>OK, Marcado, voce tem o prototipo de protecao, estara seguro das emissoes. Tenho as coordenadas do bunker. Lembre-se, o prototipo nao protege para sempre, chegue ao bunker rapido e desligue o Desintegrador Psiquico. Nao sei o que acontecera depois, mas valera a pena. A estrada para o centro da Zona sera aberta.</text>
 	</string>
 	<string id="bar_bar_barmen_start_1313">
 		<text>Pode ir.</text>
@@ -343,13 +343,13 @@
 		<text>Prepare-se, Marcado! A missao nao pode esperar!</text>
 	</string>
 	<string id="bar_bar_barmen_start_151">
-		<text>OK, os documentos do Instituto de Pesquisa Agroprom esclarecem algumas coisas, mas falta informação para o quadro completo. Um laboratorio chamado Lab X-18 e mencionado, e a descrição bate com as vaults subterraneas no Vale Sombrio. Va la e pegue a informação. O laboratorio esta fechado, precisa de duas chaves eletronicas para entrar. Darei uma, a outra pegue com Boar no Vale Sombrio.</text>
+		<text>OK, os documentos do Instituto de Pesquisa Agroprom esclarecem algumas coisas, mas falta informacao para o quadro completo. Um laboratorio chamado Lab X-18 e mencionado, e a descricao bate com as vaults subterraneas no Vale Sombrio. Va la e pegue a informacao. O laboratorio esta fechado, precisa de duas chaves eletronicas para entrar. Darei uma, a outra pegue com Boar no Vale Sombrio.</text>
 	</string>
 	<string id="bar_bar_barmen_start_1511">
 		<text>Pode ir.</text>
 	</string>
 	<string id="bar_bar_barmen_start_15111">
-		<text>Pegue a segunda chave do Lab X-18, entre e recupere os documentos. Use traje de proteção, ou nao chegara ao laboratorio. Vai fazer isso?</text>
+		<text>Pegue a segunda chave do Lab X-18, entre e recupere os documentos. Use traje de protecao, ou nao chegara ao laboratorio. Vai fazer isso?</text>
 	</string>
 	<string id="bar_bar_barmen_start_15112">
 		<text>Vou tentar.</text>
@@ -376,7 +376,7 @@
 		<text>Sim. Aqui estao.</text>
 	</string>
 	<string id="bar_bar_barmen_start_1721">
-		<text>A situação esta mais clara. Como esperado, o Desintegrador Psiquico e obra humana. E um emissor experimental Kaymanov, feito no Lab X-18. Os documentos falam do Lab X-16, onde mandaram componentes. O Lab X-16 fica perto do lago Yantar. Cientistas montaram um laboratorio movel la, talvez ajudem.</text>
+		<text>A situacao esta mais clara. Como esperado, o Desintegrador Psiquico e obra humana. E um emissor experimental Kaymanov, feito no Lab X-18. Os documentos falam do Lab X-16, onde mandaram componentes. O Lab X-16 fica perto do lago Yantar. Cientistas montaram um laboratorio movel la, talvez ajudem.</text>
 	</string>
 	<string id="bar_bar_barmen_start_17211">
 		<text>Pode ir.</text>
@@ -484,7 +484,7 @@
 		<text>Conte, e interessante.</text>
 	</string>
 	<string id="bar_bar_barmen_talk_info_8111">
-		<text>A lenda e sobre o Monolito, que pode ter causado a Zona. Quando a Zona explodiu em 2006, evacuaram as pessoas e o Exercito isolou a area. Panico geral, ninguem entendia nada, a Zona se expandia e os laboratorios nao ajudavam! Muitos morreram. Medo da radiaçao afetar a Europa. Anos depois, apareceram ousados como voce, os stalkers. Passaram pelos cordões do exercito, achando que a Zona os enriqueceria. Aos poucos, trouxeram coisas estranhas, artefatos, virou uma corrida. Cientistas pagavam fortunas por bugigangas.</text>
+		<text>A lenda e sobre o Monolito, que pode ter causado a Zona. Quando a Zona explodiu em 2006, evacuaram as pessoas e o Exercito isolou a area. Panico geral, ninguem entendia nada, a Zona se expandia e os laboratorios nao ajudavam! Muitos morreram. Medo da radiacao afetar a Europa. Anos depois, apareceram ousados como voce, os stalkers. Passaram pelos cordoes do exercito, achando que a Zona os enriqueceria. Aos poucos, trouxeram coisas estranhas, artefatos, virou uma corrida. Cientistas pagavam fortunas por bugigangas.</text>
 	</string>
 	<string id="bar_bar_barmen_talk_info_81111">
 		<text>Continue...</text>
@@ -496,13 +496,13 @@
 		<text>Continue, conte mais.</text>
 	</string>
 	<string id="bar_bar_barmen_talk_info_81111111">
-		<text>Quando a Zona surgiu, muitos ficaram presos la, isolados. A maioria morreu, alguns sobreviveram. Um deles chegou perto da estação e viu uma luz estranha. Sem ter para onde ir, decidiu se aproximar. Viu o telhado quebrado do Sarcofago e a luz saindo dali. Escalou a parede e olhou para dentro. Entre os destroços de metal e concreto derretido, havia uma pedra preta gigante, o Monolito. O stalker se livrou do "encanto" e percebeu que estava perto do Sarcofago, altamente radioativo. Através do medo, sentiu o Monolito chama-lo. O Monolito chamou, ele foi, e viu coisas estranhas e inacreditaveis sobre o Monolito dentro da cabeça dele...</text>
+		<text>Quando a Zona surgiu, muitos ficaram presos la, isolados. A maioria morreu, alguns sobreviveram. Um deles chegou perto da estacao e viu uma luz estranha. Sem ter para onde ir, decidiu se aproximar. Viu o telhado quebrado do Sarcofago e a luz saindo dali. Escalou a parede e olhou para dentro. Entre os destrocos de metal e concreto derretido, havia uma pedra preta gigante, o Monolito. O stalker se livrou do "encanto" e percebeu que estava perto do Sarcofago, altamente radioativo. Atraves do medo, sentiu o Monolito chama-lo. O Monolito chamou, ele foi, e viu coisas estranhas e inacreditaveis sobre o Monolito dentro da cabeca dele...</text>
 	</string>
 	<string id="bar_bar_barmen_talk_info_811111111">
 		<text>Interessante...</text>
 	</string>
 	<string id="bar_bar_barmen_talk_info_811111112">
-		<text>Nao sei o que e verdade, mas o cara fez um desejo que se realizou, enquanto a Zona cresceu 5 quilometros. Parece que a Zona engole mais terra para cada desejo realizado... Mas isso nao impede os corajosos como voce. Eles tentam chegar la com seus desejos no coraçao...</text>
+		<text>Nao sei o que e verdade, mas o cara fez um desejo que se realizou, enquanto a Zona cresceu 5 quilometros. Parece que a Zona engole mais terra para cada desejo realizado... Mas isso nao impede os corajosos como voce. Eles tentam chegar la com seus desejos no coracao...</text>
 	</string>
 	<string id="bar_bar_barmen_talk_info_812">
 		<text>Por agora, outras coisas me interessam.</text>
@@ -553,7 +553,7 @@
 		<text>Veremos.</text>
 	</string>
 	<string id="bar_bar_hunter_start_11">
-		<text>Tenho um problema, cara! Perdi meu rifle de familia no Territorio Selvagem. Queria atirar em Sanguessugas, mas escapei por pouco. Droga! Se pegar ele de volta, te pago. Juntei um dinheiro, te dou tudo, so pegue meu rifle. E de familia, passado de pai para filho... E eu perdi! Ja me acostumei com ele, e como meu braço...</text>
+		<text>Tenho um problema, cara! Perdi meu rifle de familia no Territorio Selvagem. Queria atirar em Sanguessugas, mas escapei por pouco. Droga! Se pegar ele de volta, te pago. Juntei um dinheiro, te dou tudo, so pegue meu rifle. E de familia, passado de pai para filho... E eu perdi! Ja me acostumei com ele, e como meu braco...</text>
 	</string>
 	<string id="bar_bar_hunter_start_21">
 		<text>E ai! Novidades? Achou?!</text>
@@ -565,16 +565,16 @@
 		<text>Wolfhound disse que tem algo para mim.</text>
 	</string>
 	<string id="bar_bar_osvedomitel_reward_1">
-		<text>Claro. Aqui esta um lançador de granadas por ajudar ele com Kruglov, e 1000 em dinheiro. Darei uma informação util de graça.</text>
+		<text>Claro. Aqui esta um lancador de granadas por ajudar ele com Kruglov, e 1000 em dinheiro. Darei uma informacao util de graca.</text>
 	</string>
 	<string id="bar_bar_osvedomitel_reward_2">
 		<text>Obrigado.</text>
 	</string>
 	<string id="bar_bar_osvedomitel_reward_3">
-		<text>Voce ajudou Freedom e fez a escolha certa. Seu destino agora esta ligado ao da Freedom, e a Duty esta de olho em voce. Va para a base militar abandonada e junte-se a Freedom, eles precisam de bons lutadores. Haverá tiroteio entre os grupos, e quem escolher o lado certo nao se arrependera.</text>
+		<text>Voce ajudou Freedom e fez a escolha certa. Seu destino agora esta ligado ao da Freedom, e a Duty esta de olho em voce. Va para a base militar abandonada e junte-se a Freedom, eles precisam de bons lutadores. Havera tiroteio entre os grupos, e quem escolher o lado certo nao se arrependera.</text>
 	</string>
 	<string id="bar_bar_osvedomitel_start_11">
-		<text>Trabalho como vendedor de informação. Vendo informações importantes e compro mapas, documentos e registros de laboratorio. Minha informação e valiosa!</text>
+		<text>Trabalho como vendedor de informacao. Vendo informacoes importantes e compro mapas, documentos e registros de laboratorio. Minha informacao e valiosa!</text>
 	</string>
 	<string id="bar_bar_osvedomitel_start_21">
 		<text>Ola, Marcado. Voce ajudou Freedom e fez a escolha certa. Seu destino agora esta ligado ao da Freedom, e a Duty esta de olho em voce. Sugiro que va para a base militar abandonada e se junte a Freedom, eles precisam de bons lutadores.</text>
@@ -583,7 +583,7 @@
 		<text>Vou pensar.</text>
 	</string>
 	<string id="bar_bar_osvedomitel_start_2111">
-		<text>E ai, Marcado, o que te traz aqui? Quer comprar informação ou vender?</text>
+		<text>E ai, Marcado, o que te traz aqui? Quer comprar informacao ou vender?</text>
 	</string>
 	<string id="bar_bar_osvedomitel_talk_0">
 		<text>Voce esta conectado com Freedom?</text>
@@ -592,7 +592,7 @@
 		<text>Nao posso responder agora. Nao sou membro de nenhum grupo.</text>
 	</string>
 	<string id="bar_bar_osvedomitel_talk_about_freedom_0">
-		<text>Fale sobre a facçao Freedom.</text>
+		<text>Fale sobre a faccao Freedom.</text>
 	</string>
 	<string id="bar_bar_osvedomitel_talk_about_freedom_1">
 		<text>Claro! Freedom e um dos grupos mais antigos da Zona e o unico que se opoe as tropas do governo e aos times de pesquisa. Seus fundadores morreram em um banho de sangue depois que o exercito atacou a Zona, mas a capacidade de controlar a Zona de fora foi destruida. Ha evidencias de que a primeira Zona era um local secreto de testes de armas do exercito. Se verdade, usaram algo poderoso. Freedom tenta impedir o governo de recuperar o controle do local de testes. Deus sabe o que acontecera se testarem armas de novo, entao Freedom resiste a todo custo.</text>
@@ -601,22 +601,22 @@
 		<text>E quanto a Duty?</text>
 	</string>
 	<string id="bar_bar_osvedomitel_talk_about_freedom_3">
-		<text>A Duty e controlada de fora pelo governo. O objetivo deles e limpar o territorio de mutantes e destruir a Freedom, o que estao fazendo agora. Quando a hora certa chegar, eles atacarao a Zona e tomarão o controle.</text>
+		<text>A Duty e controlada de fora pelo governo. O objetivo deles e limpar o territorio de mutantes e destruir a Freedom, o que estao fazendo agora. Quando a hora certa chegar, eles atacarao a Zona e tomarao o controle.</text>
 	</string>
 	<string id="bar_bar_osvedomitel_talk_about_freedom_4">
-		<text>Obrigado pela informação.</text>
+		<text>Obrigado pela informacao.</text>
 	</string>
 	<string id="bar_bar_osvedomitel_trade_info_0">
-		<text>Quero comprar informações.</text>
+		<text>Quero comprar informacoes.</text>
 	</string>
 	<string id="bar_bar_osvedomitel_trade_info_21">
-		<text>Vendo informações sobre o grupo do Strelok por 4000 rublos.</text>
+		<text>Vendo informacoes sobre o grupo do Strelok por 4000 rublos.</text>
 	</string>
 	<string id="bar_bar_osvedomitel_trade_info_211">
 		<text>OK, vou pegar. Aqui estao 4000.</text>
 	</string>
 	<string id="bar_bar_osvedomitel_trade_info_2111">
-		<text>Eles estao no Instituto de Pesquisa Agroprom, em um esconderijo subterraneo. Contem informações sobre os planos do grupo e uma lista de membros. As coordenadas do esconderijo estao anexadas.</text>
+		<text>Eles estao no Instituto de Pesquisa Agroprom, em um esconderijo subterraneo. Contem informacoes sobre os planos do grupo e uma lista de membros. As coordenadas do esconderijo estao anexadas.</text>
 	</string>
 	<string id="bar_bar_osvedomitel_trade_info_212">
 		<text>Nao, mudei de ideia.</text>
@@ -625,7 +625,7 @@
 		<text>Voce decide. Venha ao Bar quando mudar de ideia, estou sempre aqui.</text>
 	</string>
 	<string id="bar_bar_osvedomitel_trade_info_31">
-		<text>Tenho informações sobre um grupo que chegou ao centro da Zona. So 2000 rublos.</text>
+		<text>Tenho informacoes sobre um grupo que chegou ao centro da Zona. So 2000 rublos.</text>
 	</string>
 	<string id="bar_bar_osvedomitel_trade_info_311">
 		<text>OK, vou comprar. Aqui estao 2000.</text>
@@ -640,13 +640,13 @@
 		<text>Voce decide. Venha ao Bar quando mudar de ideia, estou sempre aqui.</text>
 	</string>
 	<string id="bar_bar_osvedomitel_trade_info_41">
-		<text>Tenho informações sobre o segredo do Lago Yantar. So 3500 rublos.</text>
+		<text>Tenho informacoes sobre o segredo do Lago Yantar. So 3500 rublos.</text>
 	</string>
 	<string id="bar_bar_osvedomitel_trade_info_411">
 		<text>OK, vou comprar. Aqui estao 3500.</text>
 	</string>
 	<string id="bar_bar_osvedomitel_trade_info_4111">
-		<text>O segredo do Lago Yantar e semelhante ao do Desintegrador Psiquico, com efeitos parecidos. Algum tipo de emissao zumbifica quem entra em contato. Os stalkers zumbificados atacam todos perto do emissor. Ha informações de que a solução para o enigma do Lago Yantar esta no subsolo. Aqui estao as coordenadas do emissor no Lago Yantar e do Desintegrador Psiquico.</text>
+		<text>O segredo do Lago Yantar e semelhante ao do Desintegrador Psiquico, com efeitos parecidos. Algum tipo de emissao zumbifica quem entra em contato. Os stalkers zumbificados atacam todos perto do emissor. Ha informacoes de que a solucao para o enigma do Lago Yantar esta no subsolo. Aqui estao as coordenadas do emissor no Lago Yantar e do Desintegrador Psiquico.</text>
 	</string>
 	<string id="bar_bar_osvedomitel_trade_info_412">
 		<text>Nao, mudei de ideia.</text>
@@ -655,7 +655,7 @@
 		<text>Voce decide. Venha ao Bar quando mudar de ideia, estou sempre aqui.</text>
 	</string>
 	<string id="bar_bar_osvedomitel_trade_info_999">
-		<text>Nao tenho informações novas agora.</text>
+		<text>Nao tenho informacoes novas agora.</text>
 	</string>
 	<string id="bar_bar_visitors_1_start_11">
 		<text>...ja era hora de alguem acabar com Borov! Se eu soubesse quem foi, pagaria uma bebida.</text>
@@ -700,7 +700,7 @@
 		<text>Novidades?</text>
 	</string>
 	<string id="bar_bar_visitors_1_start_7111">
-		<text>Ouvi que Strelok voltou. Ele tem o equipamento para chegar a Maquina... Ele esta escondido, muitos o perseguem. Alguns sao abertos, outros secretos. Dizem que Duty e Freedom se juntaram a caçada... cada um com seus motivos.</text>
+		<text>Ouvi que Strelok voltou. Ele tem o equipamento para chegar a Maquina... Ele esta escondido, muitos o perseguem. Alguns sao abertos, outros secretos. Dizem que Duty e Freedom se juntaram a cacada... cada um com seus motivos.</text>
 	</string>
 	<string id="bar_bar_visitors_1_start_71111">
 		<text>Strelok esta certo em se esconder.</text>
@@ -712,7 +712,7 @@
 		<text>Pode me dizer algo util para um novato?</text>
 	</string>
 	<string id="bar_bar_visitors_10_start_7111">
-		<text>Util para um novato? Ouça. Ao norte, perto do Desintegrador Psiquico, Freedom montou seu quartel-general em uma base militar antiga. Sao niilistas, anarquistas e criminosos, lutadores da liberdade, guerrilheiros. Sabotam grupos de pesquisa, atacam unidades do exercito e lutam com a Duty. As lutas viraram guerra. Nao se envolva com eles. So aceitam loucos com recompensa pela cabeça. Ha-ha-ha. Acredita nisso?</text>
+		<text>Util para um novato? Ouca. Ao norte, perto do Desintegrador Psiquico, Freedom montou seu quartel-general em uma base militar antiga. Sao niilistas, anarquistas e criminosos, lutadores da liberdade, guerrilheiros. Sabotam grupos de pesquisa, atacam unidades do exercito e lutam com a Duty. As lutas viraram guerra. Nao se envolva com eles. So aceitam loucos com recompensa pela cabeca. Ha-ha-ha. Acredita nisso?</text>
 	</string>
 	<string id="bar_bar_visitors_10_start_71111">
 		<text>Obrigado pelo conselho.</text>
@@ -766,16 +766,16 @@
 		<text>Droga!</text>
 	</string>
 	<string id="bar_bar_visitors_14_start_86">
-		<text>Spotty esta mal, cerebro nao funciona. Fale com ele? Precisamos da programação do Desintegrador.</text>
+		<text>Spotty esta mal, cerebro nao funciona. Fale com ele? Precisamos da programacao do Desintegrador.</text>
 	</string>
 	<string id="bar_bar_visitors_14_start_87">
-		<text>Nao! Nao peça isso. Hunchback morreu por minha causa, Spotty tambem. Eu os deixei, trai, abandonei e fugi! Nao posso olhar Spotty nos olhos!</text>
+		<text>Nao! Nao peca isso. Hunchback morreu por minha causa, Spotty tambem. Eu os deixei, trai, abandonei e fugi! Nao posso olhar Spotty nos olhos!</text>
 	</string>
 	<string id="bar_bar_visitors_14_start_88">
 		<text>Calma. Conte o que aconteceu.</text>
 	</string>
 	<string id="bar_bar_visitors_14_start_89">
-		<text>Nos tres iamos para o Norte. Nao sabiamos quando as emissoes do Desintegrador eram menores, mas Spotty conseguiu a informação... nao sei onde... No meio do setor, o Desintegrador ligou de repente. Spotty desmaiou e caiu na encosta. Entrei em panico e disse para voltarmos. Hunchback disse que tinhamos que tirar Spotty... Eu disse "Voce e idiota, nao quer viver? Acabou para ele, como vamos carrega-lo?" Ele me convenceu e desceu para pegar Spotty... outra onda veio. Quando voltei, estava na base militar... Achei que Hunchback e Spotty tinham ficado la... mas Hunchback o tirou de la e nao conseguiu sair...</text>
+		<text>Nos tres iamos para o Norte. Nao sabiamos quando as emissoes do Desintegrador eram menores, mas Spotty conseguiu a informacao... nao sei onde... No meio do setor, o Desintegrador ligou de repente. Spotty desmaiou e caiu na encosta. Entrei em panico e disse para voltarmos. Hunchback disse que tinhamos que tirar Spotty... Eu disse "Voce e idiota, nao quer viver? Acabou para ele, como vamos carrega-lo?" Ele me convenceu e desceu para pegar Spotty... outra onda veio. Quando voltei, estava na base militar... Achei que Hunchback e Spotty tinham ficado la... mas Hunchback o tirou de la e nao conseguiu sair...</text>
 	</string>
 	<string id="bar_bar_visitors_14_start_90">
 		<text>OK, Baldy, OK. Acalme-se. Obrigado por contar. Eu falo com Spotty.</text>
@@ -805,7 +805,7 @@
 		<text>Territorio Selvagem infestado de sanguessugas! Saem a noite. Dizem que ha algo importante na fabrica, essencial para alguem. Duty enviou homens la, mas todos morreram, gritos ouvidos a quilometros.</text>
 	</string>
 	<string id="bar_bar_visitors_3_start_71111">
-		<text>Obrigado pela informação.</text>
+		<text>Obrigado pela informacao.</text>
 	</string>
 	<string id="bar_bar_visitors_4_start_71">
 		<text>O que quer?</text>
@@ -817,7 +817,7 @@
 		<text>Contorne o Lago Yantar, chegara ao acampamento dos cientistas. Fazem pesquisas la... Chegaram de helicoptero, recebem suprimentos. Bom lugar. Pode negociar com eles, compram artefatos e dao trabalho.</text>
 	</string>
 	<string id="bar_bar_visitors_4_start_71111">
-		<text>Obrigado pela informação.</text>
+		<text>Obrigado pela informacao.</text>
 	</string>
 	<string id="bar_bar_visitors_5_start_71">
 		<text>O que quer?</text>
@@ -826,7 +826,7 @@
 		<text>O que ouviu?</text>
 	</string>
 	<string id="bar_bar_visitors_5_start_7111">
-		<text>Ninguem passa pelo ferro-velho de veiculos por causa do Desintegrador Psiquico. Viram um stalker atravessar a fronteira invisivel, cair, levantar e ir ao centro do ferro-velho. Nao foi visto desde então...</text>
+		<text>Ninguem passa pelo ferro-velho de veiculos por causa do Desintegrador Psiquico. Viram um stalker atravessar a fronteira invisivel, cair, levantar e ir ao centro do ferro-velho. Nao foi visto desde entao...</text>
 	</string>
 	<string id="bar_bar_visitors_5_start_71111">
 		<text>Interessante...</text>
@@ -838,7 +838,7 @@
 		<text>O que ouviu?</text>
 	</string>
 	<string id="bar_bar_visitors_6_start_7111">
-		<text>Stalkers desaparecidos voltam as vezes. Assustador: resmungam e procuram armas perdidas... Um veio a um posto da Duty, multidão olhou. Alguem o reconheceu... olhos vermelhos, machucado... gemia como animal, andava em circulos. Duty o acolheu, mas morreu depois. Algo acontece na Zona, mas o que?</text>
+		<text>Stalkers desaparecidos voltam as vezes. Assustador: resmungam e procuram armas perdidas... Um veio a um posto da Duty, multidao olhou. Alguem o reconheceu... olhos vermelhos, machucado... gemia como animal, andava em circulos. Duty o acolheu, mas morreu depois. Algo acontece na Zona, mas o que?</text>
 	</string>
 	<string id="bar_bar_visitors_6_start_71111">
 		<text>Eu tambem gostaria de saber.</text>
@@ -862,7 +862,7 @@
 		<text>O que ouviu?</text>
 	</string>
 	<string id="bar_bar_visitors_8_start_7111">
-		<text>Comerciantes dizem que ha tesouro de artefatos no centro da Zona, quem passar enriquece. Acho que ha mais. Traders pensam em seus interesses, mas ha rumores. Algo melhor que artefatos la, algo alienigena ou de outra dimensão! Chamam de Maquina de realizar desejos. Ouvi lenda de um stalker que passou. Toda vez que alguem deseja, a Zona cresce, ninguem a faz desaparecer. Acho que quem chega la nao se importa com mais ninguem.</text>
+		<text>Comerciantes dizem que ha tesouro de artefatos no centro da Zona, quem passar enriquece. Acho que ha mais. Comerciantes pensam em seus interesses, mas ha rumores. Algo melhor que artefatos la, algo alienigena ou de outra dimensao! Chamam de Maquina de realizar desejos. Ouvi lenda de um stalker que passou. Toda vez que alguem deseja, a Zona cresce, ninguem a faz desaparecer. Acho que quem chega la nao se importa com mais ninguem.</text>
 	</string>
 	<string id="bar_bar_visitors_8_start_71111">
 		<text>Triste.</text>
@@ -874,10 +874,10 @@
 		<text>O que ouviu?</text>
 	</string>
 	<string id="bar_bar_visitors_9_start_7111">
-		<text>Quem acredita no Monolito e louco. Insistem, mas ninguem sabe o que ha no centro da Zona. Cristal invisivel que caiu dos ceus... ha-ha-ha! Acho que um laboratorio secreto explodiu, stalkers trabalhavam em alguns. Nao da para bombardear a Zona. Radiação espalharia, metade da Europa arrasada. "Alguem" enlouqueceu, matam stalkers normais sem motivo. O que acha? Fanaticos malditos.</text>
+		<text>Quem acredita no Monolito e louco. Insistem, mas ninguem sabe o que ha no centro da Zona. Cristal invisivel que caiu dos ceus... ha-ha-ha! Acho que um laboratorio secreto explodiu, stalkers trabalhavam em alguns. Nao da para bombardear a Zona. Radiacao espalharia, metade da Europa arrasada. "Alguem" enlouqueceu, matam stalkers normais sem motivo. O que acha? Fanaticos malditos.</text>
 	</string>
 	<string id="bar_bar_visitors_9_start_71111">
-		<text>Merece atenção.</text>
+		<text>Merece atencao.</text>
 	</string>
 	<string id="bar_dolg_base_guard_acces_0">
 		<text>Quero me juntar a Duty. O que fazer?</text>
@@ -898,7 +898,7 @@
 		<text>Voce decide. Te vejo.</text>
 	</string>
 	<string id="bar_dolg_base_guard_acces_21">
-		<text>Nao ha lugar para bandidos da Freedom na Zona, devem ser destruidos. Se interessado, peça ao Barkeep para explicar. Estou ocupado.</text>
+		<text>Nao ha lugar para bandidos da Freedom na Zona, devem ser destruidos. Se interessado, peca ao Barkeep para explicar. Estou ocupado.</text>
 	</string>
 	<string id="bar_dolg_base_guard_acces_31">
 		<text>Pague 1000 rublos, recebera um passe. Leve ao administrador da Duty, ele fara testes.</text>
@@ -916,10 +916,10 @@
 		<text>Voce decide. Te vejo.</text>
 	</string>
 	<string id="bar_dolg_base_guard_rules_0">
-		<text>Barkeep disse que sua liderança tem tarefas para mim.</text>
+		<text>Barkeep disse que sua lideranca tem missoes para mim.</text>
 	</string>
 	<string id="bar_dolg_base_guard_rules_1">
-		<text>Sim, ele nos avisou, mas antes de entrar, regras. Ouça, regras simples. Primeira regra: proibido atirar em nosso territorio. Quebre a regra duas vezes, nossa patrulha atira. Fuja, nao aparecera em nosso territorio, nossos guardas garantem. Aja com calma, sem problemas.</text>
+		<text>Sim, ele nos avisou, mas antes de entrar, regras. Ouca, regras simples. Primeira regra: proibido atirar em nosso territorio. Quebre a regra duas vezes, nossa patrulha atira. Fuja, nao aparecera em nosso territorio, nossos guardas garantem. Aja com calma, sem problemas.</text>
 	</string>
 	<string id="bar_dolg_base_guard_rules_2">
 		<text>Entendi. Mais alguma coisa?</text>
@@ -952,7 +952,7 @@
 		<text>Guerra com Freedom? Por que?</text>
 	</string>
 	<string id="bar_dolg_base_guard_talk_3">
-		<text>Nao ha lugar para bandidos da Freedom na Zona, devem ser destruidos. Se interessado, peça ao Barkeep para explicar. Estou ocupado.</text>
+		<text>Nao ha lugar para bandidos da Freedom na Zona, devem ser destruidos. Se interessado, peca ao Barkeep para explicar. Estou ocupado.</text>
 	</string>
 	<string id="bar_dolg_guard_bunker_start_11">
 		<text>Pare! So membros entram! Nao entra no bunker sem passe especial. Se quiser, va ver Coronel Petrenko. Area administrativa do outro lado do patio.</text>
@@ -979,22 +979,22 @@
 		<text>Boa pergunta, Marcado, e ha resposta boa: mate anarquistas da Freedom. Recompensa por cada PDA deles, pode ser promovido. Leve os PDAs a Petrenko, ele da recompensas.</text>
 	</string>
 	<string id="bar_dolg_leader_join_0">
-		<text>Barkeep disse que tem tarefa para mim nos armazens militares...</text>
+		<text>Barkeep disse que tem missao para mim nos armazens militares...</text>
 	</string>
 	<string id="bar_dolg_leader_join_1">
-		<text>Peço que faça algo, pessoalmente, entende? Guerra territorial com Freedom, precisamos de armas mais poderosas. Freedom tem lançadores de granadas Bulldog 6. Roube um, recompenso generosamente. Nao esta em nossa facçao, ganhe confiança da Freedom, pegue um Bulldog 6.</text>
+		<text>Peco que faca algo, pessoalmente, entende? Guerra territorial com Freedom, precisamos de armas mais poderosas. Freedom tem lancadores de granadas Bulldog 6. Roube um, recompenso generosamente. Nao esta em nossa faccao, ganhe confianca da Freedom, pegue um Bulldog 6.</text>
 	</string>
 	<string id="bar_dolg_leader_join_11">
 		<text>Continue.</text>
 	</string>
 	<string id="bar_dolg_leader_join_111">
-		<text>Carrego a localização da base da Freedom. Encontre o Chef. Ele e da Freedom. Sabe onde os RG-6 ficam. Gosta de bebida, leve vodka. E ai?</text>
+		<text>Carrego a localizacao da base da Freedom. Encontre o Chef. Ele e da Freedom. Sabe onde os RG-6 ficam. Gosta de bebida, leve vodka. E ai?</text>
 	</string>
 	<string id="bar_dolg_leader_join_1111">
 		<text>OK, vou roubar um Bulldog 6 da Freedom.</text>
 	</string>
 	<string id="bar_dolg_leader_join_11111">
-		<text>Mais uma coisa. Coronel Skull e seus homens atacaram a base da Freedom sem autorização. Eles que se virem... suicidas. Nao se envolva na luta deles. Pegue o Bulldog 6, nada mais importa.</text>
+		<text>Mais uma coisa. Coronel Skull e seus homens atacaram a base da Freedom sem autorizacao. Eles que se virem... suicidas. Nao se envolva na luta deles. Pegue o Bulldog 6, nada mais importa.</text>
 	</string>
 	<string id="bar_dolg_leader_join_1112">
 		<text>Nao estou pronto para isso.</text>
@@ -1024,10 +1024,10 @@
 		<text>Lutar contra inconformistas, sejam stalkers ou grupos.</text>
 	</string>
 	<string id="bar_dolg_leader_prisyaga_7">
-		<text>Dar minha vida pela justiça e ordem na Terra!</text>
+		<text>Dar minha vida pela justica e ordem na Terra!</text>
 	</string>
 	<string id="bar_dolg_leader_prisyaga_8">
-		<text>Dar minha vida pela justiça e ordem na Terra!</text>
+		<text>Dar minha vida pela justica e ordem na Terra!</text>
 	</string>
 	<string id="bar_dolg_leader_prisyaga_9">
 		<text>Parabens! Voce e membro da Duty.</text>
@@ -1081,7 +1081,7 @@
 		<text>Fale sobre Freedom.</text>
 	</string>
 	<string id="bar_dolg_novice_start_41">
-		<text>Bandidos que nao entendem que a Zona e ulcera na Terra. Querem espalha-la pelo mundo, um pedaço em cada casa. Farao qualquer coisa, mal posso esperar para acabar com isso.</text>
+		<text>Bandidos que nao entendem que a Zona e ulcera na Terra. Querem espalha-la pelo mundo, um pedaco em cada casa. Farao qualquer coisa, mal posso esperar para acabar com isso.</text>
 	</string>
 	<string id="bar_dolg_novice_start_5">
 		<text>Querem derrotar a Zona?</text>
@@ -1111,7 +1111,7 @@
 		<text>Ei cara! Feliz que ainda nao foi comido por mutantes.</text>
 	</string>
 	<string id="bar_dolg_zastava_about_zastava_0">
-		<text>Massacre no posto avançado. O que aconteceu?</text>
+		<text>Massacre no posto avancado. O que aconteceu?</text>
 	</string>
 	<string id="bar_dolg_zastava_about_zastava_1">
 		<text>Ultima onda de mutantes antes da explosao. Fica quieto por tres ou quatro dias, depois outra onda. Se nao fosse por nos, nao haveria Bar, nem Duty; somos a ultima barreira contra esses mutantes loucos. Muitos dos nossos morreram aqui.</text>
@@ -1126,16 +1126,16 @@
 		<text>Primeira vez aqui. Conte sobre este lugar.</text>
 	</string>
 	<string id="bar_dolg_zastava_talk_21">
-		<text>Antes do acidente em 86, area industrial. Como ve, sobrou pouco... No porão do hangar, bar 100 Rads. Administrado pelo comerciante que e barman. Quer negociar, conversar, missao ou noticias, esse e o lugar. Ha a Arena, lute e ganhe dinheiro. Base da Duty perto da Arena. Quer se juntar a Duty, va la, eles dirão com quem falar. Area protegida pela Duty, comporte-se, armas embainhadas. Atirar, patrulha "acalma" rapido.</text>
+		<text>Antes do acidente em 86, area industrial. Como ve, sobrou pouco... No porao do hangar, bar 100 Rads. Administrado pelo comerciante que e barman. Quer negociar, conversar, missao ou noticias, esse e o lugar. Ha a Arena, lute e ganhe dinheiro. Base da Duty perto da Arena. Quer se juntar a Duty, va la, eles dirao com quem falar. Area protegida pela Duty, comporte-se, armas embainhadas. Atirar, patrulha "acalma" rapido.</text>
 	</string>
 	<string id="bar_dolg_zastava_talk_211">
 		<text>Disse que ha um bar aqui. Onde fica?</text>
 	</string>
 	<string id="bar_dolg_zastava_talk_2111">
-		<text>No porão atras do hangar... marco no mapa.</text>
+		<text>No porao atras do hangar... marco no mapa.</text>
 	</string>
 	<string id="bar_dolg_zastava_talk_21111">
-		<text>Obrigado pela informação.</text>
+		<text>Obrigado pela informacao.</text>
 	</string>
 	<string id="bar_dolg_zastava_talk_212">
 		<text>Disse que a base da Duty fica aqui. Como chego la?</text>
@@ -1144,7 +1144,7 @@
 		<text>Perto da Arena. Marquei no mapa.</text>
 	</string>
 	<string id="bar_dolg_zastava_talk_21211">
-		<text>Obrigado pela informação.</text>
+		<text>Obrigado pela informacao.</text>
 	</string>
 	<string id="bar_dolg_zastava_talk_213">
 		<text>Disse que ha uma Arena aqui? Onde fica?</text>
@@ -1153,10 +1153,10 @@
 		<text>Saia do hangar com o telhado quebrado, estara na frente. Marco no mapa.</text>
 	</string>
 	<string id="bar_dolg_zastava_talk_21311">
-		<text>Obrigado pela informação.</text>
+		<text>Obrigado pela informacao.</text>
 	</string>
 	<string id="bar_dolg_zastava_talk_214">
-		<text>Obrigado pela informação.</text>
+		<text>Obrigado pela informacao.</text>
 	</string>
 	<string id="bar_dolg_zavskald_reward_0">
 		<text>Estou aqui a negocios.</text>
@@ -1168,7 +1168,7 @@
 		<text>Derrubei um javali no caminho para ca. Dizem que e valioso.</text>
 	</string>
 	<string id="bar_dolg_zavskald_reward_111">
-		<text>Ouvi que atirou em Borov. Merece dinheiro e arma decente. Faça justiça a sua nova arma!</text>
+		<text>Ouvi que atirou em Borov. Merece dinheiro e arma decente. Faca justica a sua nova arma!</text>
 	</string>
 	<string id="bar_dolg_zavskald_reward_1111">
 		<text>Nao se preocupe com isso.</text>
@@ -1177,7 +1177,7 @@
 		<text>Tive um "bate-papo" com Tyran da Freedom. Ele entendeu o erro e prometeu se comportar. Tenho quase certeza que nao quebra a palavra, mortos nao mentem.</text>
 	</string>
 	<string id="bar_dolg_zavskald_reward_121">
-		<text>Tyran era uma dor de cabeça! Feliz que o eliminou. Aqui sua recompensa, um S14 Thunder, nossa arma de marca.</text>
+		<text>Tyran era uma dor de cabeca! Feliz que o eliminou. Aqui sua recompensa, um S14 Thunder, nossa arma de marca.</text>
 	</string>
 	<string id="bar_dolg_zavskald_reward_1211">
 		<text>Nada mal. Farei mais do mesmo. Ate logo.</text>
@@ -1189,7 +1189,7 @@
 		<text>Uau, parabens! Matar o lider da Freedom e grande conquista. Queria ser tao durao quanto voce.</text>
 	</string>
 	<string id="bar_dolg_zavskald_reward_1311">
-		<text>Faça exercicio, coma legumes e escute sua mae. Obrigado pelo equipamento. Estou indo.</text>
+		<text>Faca exercicio, coma legumes e escute sua mae. Obrigado pelo equipamento. Estou indo.</text>
 	</string>
 	<string id="bar_ecolog_crush_professor_give_info_dp_0">
 		<text>Quero saber algo.</text>
@@ -1201,13 +1201,13 @@
 		<text>Quem sao voces e como vieram parar aqui?</text>
 	</string>
 	<string id="bar_ecolog_crush_professor_give_info_dp_111">
-		<text>Meu nome e Kruglov. Sou professor de biologia, estudo a Zona. Ontem, encontrei um animal de interesse, Antropomorphus Dendromutantus Vulgaris. Encontro e documento novas especies de animais mutantes, suas caracteristicas e peculiaridades. Informação estudada e transferida para o mundo exterior. Parte vai para o Barkeep. Minhas descobertas salvaram vidas de stalkers. Transportava resultados da pesquisa para o laboratorio perto do Lago Yantar, helicoptero atacado.</text>
+		<text>Meu nome e Kruglov. Sou professor de biologia, estudo a Zona. Ontem, encontrei um animal de interesse, Antropomorphus Dendromutantus Vulgaris. Encontro e documento novas especies de animais mutantes, suas caracteristicas e peculiaridades. Informacao estudada e transferida para o mundo exterior. Parte vai para o Barkeep. Minhas descobertas salvaram vidas de stalkers. Transportava resultados da pesquisa para o laboratorio perto do Lago Yantar, helicoptero atacado.</text>
 	</string>
 	<string id="bar_ecolog_crush_professor_give_info_dp_12">
 		<text>Fale sobre a Zona.</text>
 	</string>
 	<string id="bar_ecolog_crush_professor_give_info_dp_121">
-		<text>A Zona e um presente para a humanidade. Existencia normal impossivel devido a radiação e mutantes agressivos. Perigosos, mas de valor cientifico. A Zona e um experimento natural, um tesouro para cientistas! Conhecimento da humanidade aumentado pelo estudo da Zona. Tecnologia, medicina, novas plantas, biotecnologia, curas para doenças incuraveis... tudo! Resolvemos o problema alimentar do planeta. Se pessoas nao interferissem, a ciencia levaria a humanidade a uma nova Era de Ouro!</text>
+		<text>A Zona e um presente para a humanidade. Existencia normal impossivel devido a radiacao e mutantes agressivos. Perigosos, mas de valor cientifico. A Zona e um experimento natural, um tesouro para cientistas! Conhecimento da humanidade aumentado pelo estudo da Zona. Tecnologia, medicina, novas plantas, biotecnologia, curas para doencas incuraveis... tudo! Resolvemos o problema alimentar do planeta. Se pessoas nao interferissem, a ciencia levaria a humanidade a uma nova Era de Ouro!</text>
 	</string>
 	<string id="bar_ecolog_crush_professor_give_info_dp_1211">
 		<text>Duty pensa o contrario, nem Freedom quer ajuda-los.</text>
@@ -1219,13 +1219,13 @@
 		<text>Talvez haja utilidade em estudar a Zona.</text>
 	</string>
 	<string id="bar_ecolog_crush_professor_give_info_dp_12121">
-		<text>Voce entende isso? Maravilhoso, ha quem nao seja de mente estreita. Sempre disse para olhar o conjunto de questões de uma perspectiva mais ampla, distanciar das medidas humanas simples. Mesmo que a Zona tenha prejudicado a humanidade, ainda pode ser util!</text>
+		<text>Voce entende isso? Maravilhoso, ha quem nao seja de mente estreita. Sempre disse para olhar o conjunto de questoes de uma perspectiva mais ampla, distanciar das medidas humanas simples. Mesmo que a Zona tenha prejudicado a humanidade, ainda pode ser util!</text>
 	</string>
 	<string id="bar_ecolog_crush_professor_give_info_dp_13">
-		<text>Por que Mercs procuram essa informação?</text>
+		<text>Por que Mercs procuram essa informacao?</text>
 	</string>
 	<string id="bar_ecolog_crush_professor_give_info_dp_131">
-		<text>Espero que nao ofenda, mas stalkers sao como crianças. Afetados pelas descobertas. Lendas sobre Monolito que realiza desejos. Piada! Crianças brincam com armas de verdade e causam morte. Pessoas infantis se irritam com quem nao compartilha tudo, incluindo informações que nao sao para elas. Nao ha limites no uso da força. Atiram sem pensar e matam quem estuda a Zona. Acreditam que a informação abrira o caminho para o centro da Zona. Tolos, tolos perigosos e ingenuos!</text>
+		<text>Espero que nao ofenda, mas stalkers sao como criancas. Afetados pelas descobertas. Lendas sobre Monolito que realiza desejos. Piada! Criancas brincam com armas de verdade e causam morte. Pessoas infantis se irritam com quem nao compartilha tudo, incluindo informacoes que nao sao para elas. Nao ha limites no uso da forca. Atiram sem pensar e matam quem estuda a Zona. Acreditam que a informacao abrira o caminho para o centro da Zona. Tolos, tolos perigosos e ingenuos!</text>
 	</string>
 	<string id="bar_ecolog_crush_professor_give_info_dp_14">
 		<text>Procuro o Lab X-16. Poderia me dizer onde fica?</text>
@@ -1252,7 +1252,7 @@
 		<text>Vamos nos apressar.</text>
 	</string>
 	<string id="bar_ecolog_crush_professor_start_11">
-		<text>Stalker, imploro! Voltavamos de Yantar, Mercs derrubaram nosso helicoptero. Procuram informações, mas nos matarao. Ajude-me a chegar ao lago, conto tudo sobre o Desintegrador Psiquico. Barkeep pagara bem.</text>
+		<text>Stalker, imploro! Voltavamos de Yantar, Mercs derrubaram nosso helicoptero. Procuram informacoes, mas nos matarao. Ajude-me a chegar ao lago, conto tudo sobre o Desintegrador Psiquico. Barkeep pagara bem.</text>
 	</string>
 	<string id="bar_ecolog_crush_professor_start_111">
 		<text>OK.</text>
@@ -1270,7 +1270,7 @@
 		<text>Apresse-se, temos que sair daqui rapido.</text>
 	</string>
 	<string id="bar_ecolog_crush_professor_start_31">
-		<text>Ufa! Chegamos em segurança? Finalmente! Obrigado pela ajuda. Em divida, mas aceite este pendrive. Resultados da ultima expedição. Barkeep pagaria bem.</text>
+		<text>Ufa! Chegamos em seguranca? Finalmente! Obrigado pela ajuda. Em divida, mas aceite este pendrive. Resultados da ultima expedicao. Barkeep pagaria bem.</text>
 	</string>
 	<string id="bar_ecolog_crush_professor_start_311">
 		<text>Sim, estamos aqui.</text>

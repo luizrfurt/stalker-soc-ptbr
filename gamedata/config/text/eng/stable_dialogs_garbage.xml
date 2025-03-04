@@ -43,13 +43,13 @@
 		<text>Nao tenho o dinheiro.</text>
 	</string>
 	<string id="gar_dolg_blokpost_1111212121">
-		<text>Então, comece a procurar!</text>
+		<text>Entao, comece a procurar!</text>
 	</string>
 	<string id="gar_dolg_blokpost_111122">
 		<text>Nao tenho o dinheiro.</text>
 	</string>
 	<string id="gar_dolg_blokpost_111123">
-		<text>Então, nao passa para o bar.</text>
+		<text>Entao, nao passa para o bar.</text>
 	</string>
 	<string id="gar_dolg_blokpost_1231">
 		<text>Obrigado por ajudar contra os javalis, pegue sua recompensa.</text>
@@ -85,37 +85,37 @@
 		<text>Ok.</text>
 	</string>
 	<string id="gar_dramm_novice_start_2">
-		<text>Limpando o Lixão dos bandidos. Amigos vao emboscar esquadrao de bandidos proximos. Se nao impedirmos, tomam o controle do Lixão, ninguem vai fundo na Zona. Fale com nosso comandante. Ele e seus homens no ferro-velho de maquinarios. Vou para la agora, vamos juntos se quiser.</text>
+		<text>Limpando o Lixao dos bandidos. Amigos vao emboscar esquadrao de bandidos proximos. Se nao impedirmos, tomam o controle do Lixao, ninguem vai fundo na Zona. Fale com nosso comandante. Ele e seus homens no ferro-velho de maquinarios. Vou para la agora, vamos juntos se quiser.</text>
 	</string>
 	<string id="gar_dramm_novice_start_21">
 		<text>Vamos la.</text>
 	</string>
 	<string id="gar_dramm_novice_start_3">
-		<text>Pode me contar algo sobre o Lixão?</text>
+		<text>Pode me contar algo sobre o Lixao?</text>
 	</string>
 	<string id="gar_dramm_novice_start_31">
-		<text>Nao ha muito o que contar, amigo. Lixão e... deposito de lixo. Soldados do Duty guardam estrada norte para o Bar. Evite-os, Duty cheio de tipos maus. A direita, caminhos para o Vale Sombrio, radiação alta la. Um pouco mais perto, Grimpen Mire, pantanos terriveis cheios de anomalias. Facil encontrar artefatos bons la, mas mais facil encontrar problemas. Pelo menos nao tem o Cao de Baskerville no Pantano!</text>
+		<text>Nao ha muito o que contar, amigo. Lixao e... deposito de lixo. Soldados do Duty guardam estrada norte para o Bar. Evite-os, Duty cheio de tipos maus. A direita, caminhos para o Vale Sombrio, radiacao alta la. Um pouco mais perto, Grimpen Mire, pantanos terriveis cheios de anomalias. Facil encontrar artefatos bons la, mas mais facil encontrar problemas. Pelo menos nao tem o Cao de Baskerville no Pantano!</text>
 	</string>
 	<string id="gar_dramm_novice_start_311">
 		<text>Continue.</text>
 	</string>
 	<string id="gar_dramm_novice_start_3111">
-		<text>Na direita, perto dos pantanos, esconderijo secreto. Construção metalica sobre buraco de agua. Minha reserva logo abaixo... Coloquei la ha tempo, me salvou, provavelmente vai precisar mais do que eu. Fique a vontade para usar.</text>
+		<text>Na direita, perto dos pantanos, esconderijo secreto. Construcao metalica sobre buraco de agua. Minha reserva logo abaixo... Coloquei la ha tempo, me salvou, provavelmente vai precisar mais do que eu. Fique a vontade para usar.</text>
 	</string>
 	<string id="gar_dramm_novice_start_31111">
-		<text>Valeu, mano, boa informação.</text>
+		<text>Valeu, mano, boa informacao.</text>
 	</string>
 	<string id="gar_dramm_novice_start_312">
 		<text>Interessante, valeu.</text>
 	</string>
 	<string id="gar_hellcar_start_11">
-		<text>Ei, stalker, chegou na hora certa! Precisamos de ajuda. Bandidos tentando tomar o controle do Lixão. Tiroteio aqui ha meia hora, matamos tres daqueles cachorros. Outros recuaram, mas voltam com reforços a qualquer momento. Poucos homens restantes, mais um ajuda.</text>
+		<text>Ei, stalker, chegou na hora certa! Precisamos de ajuda. Bandidos tentando tomar o controle do Lixao. Tiroteio aqui ha meia hora, matamos tres daqueles cachorros. Outros recuaram, mas voltam com reforcos a qualquer momento. Poucos homens restantes, mais um ajuda.</text>
 	</string>
 	<string id="gar_hellcar_start_111">
 		<text>Continue.</text>
 	</string>
 	<string id="gar_hellcar_start_1111">
-		<text>Preparamos emboscada para eles aqui. Vem do Oeste, do Instituto de Pesquisa Agroprom. Ajude-nos a destruir os reforços deles, nao vai se arrepender!</text>
+		<text>Preparamos emboscada para eles aqui. Vem do Oeste, do Instituto de Pesquisa Agroprom. Ajude-nos a destruir os reforcos deles, nao vai se arrepender!</text>
 	</string>
 	<string id="gar_hellcar_start_11111">
 		<text>Ok, vou ajudar.</text>
@@ -169,7 +169,7 @@
 		<text>O que e esse lugar?</text>
 	</string>
 	<string id="gar_hellcar_start_311141">
-		<text>O Lixão. Estamos em casa aqui. Pilhas de lixo? Nao va la, confie em mim. Cheio de lixo radioativo, medidores Geiger disparam. Unico jeito decente de entrar na Zona, bandidos ativos aqui ultimamente. Medo de ir fundo na Zona, territorio do Duty, como stalkers experientes. Hienas adoram roubar novatos aqui. Ninguem se importa, temos que lutar por nos mesmos.</text>
+		<text>O Lixao. Estamos em casa aqui. Pilhas de lixo? Nao va la, confie em mim. Cheio de lixo radioativo, medidores Geiger disparam. Unico jeito decente de entrar na Zona, bandidos ativos aqui ultimamente. Medo de ir fundo na Zona, territorio do Duty, como stalkers experientes. Hienas adoram roubar novatos aqui. Ninguem se importa, temos que lutar por nos mesmos.</text>
 	</string>
 	<string id="gar_hellcar_start_3111411">
 		<text>Continue.</text>
@@ -178,7 +178,7 @@
 		<text>Em todo lugar, especialmente aqui, aja como humano, nao como animal movido pela ganancia. Esse e meu ponto de vista sobre a vida.</text>
 	</string>
 	<string id="gar_hellcar_start_311141112">
-		<text>Tem algum predio grande no Lixão?</text>
+		<text>Tem algum predio grande no Lixao?</text>
 	</string>
 	<string id="gar_hellcar_start_31114111211">
 		<text>Obrigado.</text>
@@ -187,7 +187,7 @@
 		<text>Obrigado, nao preciso de nada de voce.</text>
 	</string>
 	<string id="gar_hellcar_start_3112">
-		<text>Sei bastante, compartilho informações com voce.</text>
+		<text>Sei bastante, compartilho informacoes com voce.</text>
 	</string>
 	<string id="gar_hellcar_start_41">
 		<text>Missao nao terminou. Acabamos com isso, conversamos depois.</text>
@@ -202,22 +202,22 @@
 		<text>Obrigado pela ajuda, coisas complicadas. O que faz aqui de qualquer jeito?</text>
 	</string>
 	<string id="gar_seriy_start_221">
-		<text>Procurando informações sobre Strelok. Fox falou de voce, por isso vim conversar.</text>
+		<text>Procurando informacoes sobre Strelok. Fox falou de voce, por isso vim conversar.</text>
 	</string>
 	<string id="gar_seriy_start_2211">
-		<text>Ok, me ajudou de graça, vou te contar. Um dos caras, ex "escavador" chamado Mole, espera por mim. Desenterrou estoque de Strelok, nao sei se encontrou algo la. Aqui as coordenadas do nosso ponto de encontro. Diga a ele que fui eu que mandei. Procuram por mim agora, vou desaparecer por um tempo. Aqui uns trocados pela sua ajuda tambem.</text>
+		<text>Ok, me ajudou de graca, vou te contar. Um dos caras, ex "escavador" chamado Mole, espera por mim. Desenterrou estoque de Strelok, nao sei se encontrou algo la. Aqui as coordenadas do nosso ponto de encontro. Diga a ele que fui eu que mandei. Procuram por mim agora, vou desaparecer por um tempo. Aqui uns trocados pela sua ajuda tambem.</text>
 	</string>
 	<string id="gar_seriy_start_2212">
-		<text>Obrigado pela informação.</text>
+		<text>Obrigado pela informacao.</text>
 	</string>
 	<string id="gar_seriy_start_222">
-		<text>Procurando informações sobre Strelok, talvez saiba de algo?</text>
+		<text>Procurando informacoes sobre Strelok, talvez saiba de algo?</text>
 	</string>
 	<string id="gar_seriy_start_2221">
-		<text>Ok, me ajudou de graça, vou te contar. Um dos caras, ex "escavador" chamado Mole, espera por mim. Desenterrou estoque de Strelok, encontrou documentos que explicam coisas. Tinha bandidos atras dele, deixou os documentos, lembrou do lugar. Procuram por mim agora, vou desaparecer por um tempo. Aqui as coordenadas do ponto de encontro com Mole. Diga a ele que fui eu que mandei. Carrego informações no seu PDA. Aqui uns trocados pela sua ajuda tambem.</text>
+		<text>Ok, me ajudou de graca, vou te contar. Um dos caras, ex "escavador" chamado Mole, espera por mim. Desenterrou estoque de Strelok, encontrou documentos que explicam coisas. Tinha bandidos atras dele, deixou os documentos, lembrou do lugar. Procuram por mim agora, vou desaparecer por um tempo. Aqui as coordenadas do ponto de encontro com Mole. Diga a ele que fui eu que mandei. Carrego informacoes no seu PDA. Aqui uns trocados pela sua ajuda tambem.</text>
 	</string>
 	<string id="gar_seriy_start_2222">
-		<text>Obrigado pela informação.</text>
+		<text>Obrigado pela informacao.</text>
 	</string>
 	<string id="gar_seriy_start_33">
 		<text>Ei cara! Coisas complicadas aqui um minuto atras, tenho que dizer. O que faz aqui de qualquer jeito?</text>
@@ -226,30 +226,30 @@
 		<text>Um caminho seguro, stalker. Um caminho seguro por entre as anomalias e direto para os artefatos.</text>
 	</string>
 	<string id="gar_seriy_start_441">
-		<text>O que se encontra no Lixão?</text>
+		<text>O que se encontra no Lixao?</text>
 	</string>
 	<string id="gar_seriy_start_4411">
 		<text>Encontra muita encrenca rapidinho, isso e certo. Mas ja que e explorador, vou te contar o que sei. A leste, floresta pequena. Nada interessante la, cheia de cachorros, cuidado. Linha ferroviaria te leva a um tunel. La, muitas anomalias, talvez algo mais, mas nao sei, nunca procurei bem. Sabe sobre o posto de controle do Duty ao norte. Basicamente isso e tudo que sei deste lugar.</text>
 	</string>
 	<string id="gar_seriy_start_44112">
-		<text>Obrigado pela informação.</text>
+		<text>Obrigado pela informacao.</text>
 	</string>
 	<string id="gar_seryi_about_garbage_0">
-		<text>Escuta cara, o que encontro nesse Lixão?</text>
+		<text>Escuta cara, o que encontro nesse Lixao?</text>
 	</string>
 	<string id="gar_seryi_about_garbage_1">
 		<text>Encontra muita encrenca rapidinho, isso e certo. Mas ja que e explorador, vou te contar o que sei. A leste, floresta pequena. Nada interessante la, cheia de cachorros, cuidado. Linha ferroviaria te leva a um tunel. La, muitas anomalias, talvez algo mais, mas nao sei, nunca procurei bem. Sabe sobre o posto de controle do Duty ao norte. Basicamente isso e tudo que sei deste lugar.</text>
 	</string>
 	<string id="gar_seryi_about_garbage_11">
-		<text>Obrigado pela informação. Fico com isso em mente.</text>
+		<text>Obrigado pela informacao. Fico com isso em mente.</text>
 	</string>
 	<string id="gar_stalker_about_level_0">
 		<text>Pode me contar algo sobre este lugar?</text>
 	</string>
 	<string id="gar_stalker_about_level_1">
-		<text>Bom, ouça. Onde olha, e um grande lixão fedido. Apos o acidente em 1986, trouxeram residuos radioativos, guindastes e maquinas destruidas para ca. Cheio de lixo inutil e anomalias por aqui e ali. Encontra artefatos, mas nao espetaculares, por isso, encontra iniciantes nesse lugar. Muitos iniciantes, muitos bandidos, melhor nao ficar por aqui muito tempo. Mais a Leste, bolsao de radiação, nao pode ir sem proteção. Indo para o Sul, fronteira da Zona. Indo para o Norte, fabrica Rostok e bar dos stalkers. Para o Leste, Vale Sombrio, lugar sombrio e nebuloso. Para o Oeste, Instituto de Pesquisa Agroprom. Marco caminhos seguros no seu mapa.</text>
+		<text>Bom, ouca. Onde olha, e um grande lixao fedido. Apos o acidente em 1986, trouxeram residuos radioativos, guindastes e maquinas destruidas para ca. Cheio de lixo inutil e anomalias por aqui e ali. Encontra artefatos, mas nao espetaculares, por isso, encontra iniciantes nesse lugar. Muitos iniciantes, muitos bandidos, melhor nao ficar por aqui muito tempo. Mais a Leste, bolsao de radiacao, nao pode ir sem protecao. Indo para o Sul, fronteira da Zona. Indo para o Norte, fabrica Rostok e bar dos stalkers. Para o Leste, Vale Sombrio, lugar sombrio e nebuloso. Para o Oeste, Instituto de Pesquisa Agroprom. Marco caminhos seguros no seu mapa.</text>
 	</string>
 	<string id="gar_hellcar_start_3111411121">
-		<text>No centro, grande galpao, geralmente tranquilo la. No pior dos casos, passa a noite la. Se for para o Oeste, direção ao Agroprom, acampamento de bandidos la, de la que aqueles malucos que matamos estavam vindo. Mas tenho a sensação de que ha mais deles por la.</text>
+		<text>No centro, grande galpao, geralmente tranquilo la. No pior dos casos, passa a noite la. Se for para o Oeste, direcao ao Agroprom, acampamento de bandidos la, de la que aqueles malucos que matamos estavam vindo. Mas tenho a sensacao de que ha mais deles por la.</text>
 	</string>
 </string_table>

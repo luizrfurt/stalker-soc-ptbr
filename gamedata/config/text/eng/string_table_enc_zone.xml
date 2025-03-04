@@ -40,7 +40,7 @@
         <text>Lampejo</text>
     </string>
     <string id="af-electra-moonlight">
-        <text>Luz da lua</text>
+        <text>Luar</text>
     </string>
     <string id="af-electra-sparkler">
         <text>Diamante</text>
@@ -118,7 +118,7 @@
         <text>Uma das anomalias mais antigas conhecidas. Um campo gravitacional instavel que esmaga quem entra em seu alcance. Dura cerca de uma semana, com impacto variavel: de arranhoes leves a morte rapida. Facil de ver de dia, com ar tremendo, folhas voando e marcas vermelhas no chao. Detectores a encontram, ou jogue algo pra testa-la. Cria tres artefatos: Agua-viva, Flor de pedra e Estrela da noite.</text>
     </string>
     <string id="enc_zone_anomalies_electra">
-        <text>Uma area de 10 metros cheia de eletricidade estatica. Quando ativada, solta raios pequenos que fritam quase tudo vivo. De dia, tem uma nevoa azul por cima; de noite, use detectores ou jogue metal pra revela-la. Gera tres artefatos: Diamante, Lampejo e Luz da lua.</text>
+        <text>Uma area de 10 metros cheia de eletricidade estatica. Quando ativada, solta raios pequenos que fritam quase tudo vivo. De dia, tem uma nevoa azul por cima; de noite, use detectores ou jogue metal pra revela-la. Gera tres artefatos: Diamante, Lampejo e Luar.</text>
     </string>
     <string id="enc_zone_anomalies_fuzz">
         <text>Planta mutante da Zona. Atira farpas que cortam pele exposta ou mal protegida se voce se aproximar rapido. Fique devagar e ela ignora. Produz tres artefatos, talvez suas sementes: Espinho, Espinho de cristal e Ourico.</text>

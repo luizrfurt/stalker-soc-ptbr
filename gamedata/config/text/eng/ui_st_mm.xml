@@ -43,16 +43,16 @@
 		<text>Chuvoso</text>
 	</string>
 	<string id="renderer_r1">
-		<text>Iluminação estatica</text>
+		<text>Iluminacao estatica</text>
 	</string>
 	<string id="renderer_r2">
-		<text>Iluminação dinamica total</text>
+		<text>Iluminacao dinamica total</text>
 	</string>
 	<string id="renderer_r2a">
-		<text>Iluminação dinamica de objetos</text>
+		<text>Iluminacao dinamica de objetos</text>
 	</string>
 	<string id="st_artefacthunt">
-		<text>Caçada ao artefato</text>
+		<text>Cacada ao artefato</text>
 	</string>
 	<string id="st_deathmatch">
 		<text>Cada um por si</text>
@@ -79,7 +79,7 @@
 		<text>Fabrica "Agroprom"</text>
 	</string>
 	<string id="testers_mp_atp">
-		<text>Estação de veiculos</text>
+		<text>Estacao de veiculos</text>
 	</string>
 	<string id="testers_mp_darkvalley">
 		<text>Vale Sombrio</text>
@@ -97,7 +97,7 @@
 		<text>Piscina</text>
 	</string>
 	<string id="testers_mp_railroad">
-		<text>Estação ferroviaria</text>
+		<text>Estacao ferroviaria</text>
 	</string>
 	<string id="testers_mp_rostok">
 		<text>Fabrica "Rostok"</text>
@@ -109,10 +109,10 @@
 		<text>Frequencia 60Hz</text>
 	</string>
 	<string id="ui_mm_action">
-		<text>Ação</text>
+		<text>Acao</text>
 	</string>
 	<string id="ui_mm_advanced">
-		<text>Avançado</text>
+		<text>Avancado</text>
 	</string>
 	<string id="ui_mm_anisotropic">
 		<text>Filtro anisotropico</text>
@@ -178,16 +178,16 @@
 		<text>Inverter mouse</text>
 	</string>
 	<string id="ui_mm_key">
-		<text>Botão</text>
+		<text>Botao</text>
 	</string>
 	<string id="ui_mm_keyboard_setup">
-		<text>Configuração do teclado</text>
+		<text>Configuracao do teclado</text>
 	</string>
 	<string id="ui_mm_last_save">
 		<text>Ultimo salvamento</text>
 	</string>
 	<string id="ui_mm_light_distance">
-		<text>Distancia da iluminação</text>
+		<text>Distancia da iluminacao</text>
 	</string>
 	<string id="ui_mm_load">
 		<text>Carregar</text>
@@ -208,10 +208,10 @@
 		<text>Frequencia 60Hz</text>
 	</string>
 	<string id="ui_mm_action">
-		<text>Ação</text>
+		<text>Acao</text>
 	</string>
 	<string id="ui_mm_advanced">
-		<text>Avançado</text>
+		<text>Avancado</text>
 	</string>
 	<string id="ui_mm_anisotropic">
 		<text>Filtro anisotropico</text>
@@ -277,7 +277,7 @@
 		<text>Inverter mouse</text>
 	</string>
 	<string id="ui_mm_key">
-		<text>Botão</text>
+		<text>Botao</text>
 	</string>
 	<string id="ui_mm_keyboard_setup">
 		<text>Configurar teclado</text>
@@ -286,7 +286,7 @@
 		<text>Ultimo salvamento</text>
 	</string>
 	<string id="ui_mm_light_distance">
-		<text>Distancia da iluminação</text>
+		<text>Distancia da iluminacao</text>
 	</string>
 	<string id="ui_mm_load">
 		<text>Carregar</text>
@@ -313,7 +313,7 @@
 		<text>Volume da musica</text>
 	</string>
 	<string id="ui_mm_need_restart">
-		<text>As alterações terão efeito apenas após reiniciar o jogo</text>
+		<text>As alteracoes terao efeito apenas apos reiniciar o jogo</text>
 	</string>
 	<string id="ui_mm_newgame">
 		<text>Novo jogo</text>
@@ -325,16 +325,16 @@
 		<text>Lanternas dos NPCs</text>
 	</string>
 	<string id="ui_mm_options">
-		<text>OPÇÕES</text>
+		<text>OPCOES</text>
 	</string>
 	<string id="ui_mm_options_n">
-		<text>Opções</text>
+		<text>Opcoes</text>
 	</string>
 	<string id="ui_mm_particles_distance">
 		<text>Distancia das particulas</text>
 	</string>
 	<string id="ui_mm_quality_presets">
-		<text>Configurações de qualidade</text>
+		<text>Configuracoes de qualidade</text>
 	</string>
 	<string id="ui_mm_quit_game">
 		<text>Sair do jogo</text>
@@ -349,10 +349,10 @@
 		<text>Sair para o Windows</text>
 	</string>
 	<string id="ui_mm_renderer">
-		<text>Renderização</text>
+		<text>Renderizacao</text>
 	</string>
 	<string id="ui_mm_resolution">
-		<text>Resolução</text>
+		<text>Resolucao</text>
 	</string>
 	<string id="ui_mm_return_game">
 		<text>Retornar ao jogo</text>
@@ -394,7 +394,7 @@
 		<text>Detalhe das texturas</text>
 	</string>
 	<string id="ui_mm_tips">
-		<text>Identificação de NPCs</text>
+		<text>Identificacao de NPCs</text>
 	</string>
 	<string id="ui_mm_veteran">
 		<text>Veterano</text>
@@ -403,22 +403,22 @@
 		<text>Video</text>
 	</string>
 	<string id="ui_mm_vis_distance">
-		<text>Distancia de visão</text>
+		<text>Distancia de visao</text>
 	</string>
 	<string id="ui_mm_vsync">
-		<text>Sincronização vertical</text>
+		<text>Sincronizacao vertical</text>
 	</string>
 	<string id="ui_st_last_set">
-		<text>Ultima configuração</text>
+		<text>Ultima configuracao</text>
 	</string>
 	<string id="ui_st_preset1">
-		<text>Predefinição 1</text>
+		<text>Predefinicao 1</text>
 	</string>
 	<string id="ui_st_preset2">
-		<text>Predefinição 2</text>
+		<text>Predefinicao 2</text>
 	</string>
 	<string id="ui_st_preset3">
-		<text>Predefinição 3</text>
+		<text>Predefinicao 3</text>
 	</string>
 	<string id="ui_st_reset">
 		<text>Redefinir</text>
