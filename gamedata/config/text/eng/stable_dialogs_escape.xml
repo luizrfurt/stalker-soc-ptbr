@@ -208,7 +208,7 @@
 		<text>Nao, nao to pronto.</text>
 	</string>
 	<string id="escape_lager_leader_hello_11111121">
-		<text>Que merda. Um cara como voce faria a diferença. Vamos tentar sozinhos...</text>
+		<text>Que merda. Um cara como voce faria a diferenca. Vamos tentar sozinhos...</text>
 	</string>
 	<string id="escape_lager_leader_hello_21">
 		<text>To esperando esses desgracados. Sinto que tao quase aqui.</text>
@@ -298,7 +298,7 @@
 		<text>E ai. Preciso achar o Nimble. Sabe onde ele ta?</text>
 	</string>
 	<string id="escape_lager_volk_talk_1111">
-		<text>Nimble se ferrou. O grupo dele caiu numa emboscada de bandidos ali perto. Mandou SOS. Os parceiros ja eram. Os desgraçados tao no estacionamento velho, do outro lado da estrada.</text>
+		<text>Nimble se ferrou. O grupo dele caiu numa emboscada de bandidos ali perto. Mandou SOS. Os parceiros ja eram. Os desgracados tao no estacionamento velho, do outro lado da estrada.</text>
 	</string>
 	<string id="escape_lager_volk_talk_11111">
 		<text>Nao vai resgatar teu cara? Amigo e isso ai? Ou e muito fraco pra tentar?</text>
@@ -724,7 +724,7 @@
 		<text>Estou acabado, mais do que parece. Preciso de cuidados, voltar pro acampamento. Vou avisar o pessoal que voce me salvou! Obrigado de novo.</text>
 	</string>
 	<string id="tutorial_wounded_give_medkit_2111111">
-		<text>Tudo bem, faça isso. Cuide-se.</text>
+		<text>Tudo bem, faca isso. Cuide-se.</text>
 	</string>
 	<string id="tutorial_wounded_give_medkit_3">
 		<text>Desculpe, amigo. Nao tenho um kit medico.</text>

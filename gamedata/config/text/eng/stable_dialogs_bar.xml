@@ -4,7 +4,7 @@
 		<text>Vai la...</text>
 	</string>
 	<string id="bar_arena_man_job_11">
-		<text>Primeira luta, ne? Seu adversario e so mais um pedaço de carne. Esta aqui por dividas, so tem duas opcoes: lutar ou virar comida de anomalia. Vai lutar como um bicho encurralado. Equipamento de hoje... hum... que tal PMms para os dois? Dois pentes devem bastar. Ou voce detona ele ou te entregamos aos cachorros. Sem escolha. Vai la.</text>
+		<text>Primeira luta, ne? Seu adversario e so mais um pedaco de carne. Esta aqui por dividas, so tem duas opcoes: lutar ou virar comida de anomalia. Vai lutar como um bicho encurralado. Equipamento de hoje... hum... que tal PMms para os dois? Dois pentes devem bastar. Ou voce detona ele ou te entregamos aos cachorros. Sem escolha. Vai la.</text>
 	</string>
 	<string id="bar_arena_man_job_111">
 		<text>Estou pronto.</text>
@@ -22,7 +22,7 @@
 		<text>Nao estou pronto.</text>
 	</string>
 	<string id="bar_arena_man_job_13">
-		<text>Voce nao e tao fraco quanto parecia. Agora vai ter uma luta de verdade. Vai enfrentar dois caras, Swede e outro que nao lembro o nome. Coloquei eles juntos de proposito, se odeiam, nao vao trabalhar em equipe, vao atirar um no outro. Hoje e dia de rifle, nao deixe eles chegarem perto, ou vai sobrar pedaços seus. As chances sao 10 pra 1, se vencer, ganha uma grana boa. Vai la!</text>
+		<text>Voce nao e tao fraco quanto parecia. Agora vai ter uma luta de verdade. Vai enfrentar dois caras, Swede e outro que nao lembro o nome. Coloquei eles juntos de proposito, se odeiam, nao vao trabalhar em equipe, vao atirar um no outro. Hoje e dia de rifle, nao deixe eles chegarem perto, ou vai sobrar pedacos seus. As chances sao 10 pra 1, se vencer, ganha uma grana boa. Vai la!</text>
 	</string>
 	<string id="bar_arena_man_job_131">
 		<text>Estou pronto.</text>
@@ -460,7 +460,7 @@
 		<text>Era um dos homens de Strelok. Dizem que conseguia se mover sem ser notado. Ouvi falar que eliminou o lider do grupo 'Final Day', um bando perigoso. Parece que Ghost trabalha com cientistas. Se quiser encontra-lo, tente procurar no laboratorio movel perto do lago Yantar.</text>
 	</string>
 	<string id="bar_bar_barmen_talk_info_51">
-		<text>Um stalker aposentado. Vive nos pantanos. Vou marcar sua localizaçao no mapa. Ele fazia parte do grupo de Strelok.</text>
+		<text>Um stalker aposentado. Vive nos pantanos. Vou marcar sua localizacao no mapa. Ele fazia parte do grupo de Strelok.</text>
 	</string>
 	<string id="bar_bar_barmen_talk_info_6">
 		<text>O que sabe sobre um stalker chamado Fang?</text>
@@ -472,7 +472,7 @@
 		<text>Fale sobre os laboratorios cientificos moveis.</text>
 	</string>
 	<string id="bar_bar_barmen_talk_info_71">
-		<text>Os cientistas montam esses laboratorios de tempos em tempos. Sao bunkers de metal equipados com tudo o que precisam para sobreviver. Mantemos contato com um deles em Yantar. Os cientistas costumam compartilhar informaçoes interessantes, e ajudamos quando possivel. E uma troca justa.</text>
+		<text>Os cientistas montam esses laboratorios de tempos em tempos. Sao bunkers de metal equipados com tudo o que precisam para sobreviver. Mantemos contato com um deles em Yantar. Os cientistas costumam compartilhar informacoes interessantes, e ajudamos quando possivel. E uma troca justa.</text>
 	</string>
 	<string id="bar_bar_barmen_talk_info_8">
 		<text>O que e o Concessor de Desejos?</text>
@@ -484,19 +484,19 @@
 		<text>Sim, conte-me essa historia.</text>
 	</string>
 	<string id="bar_bar_barmen_talk_info_8111">
-		<text>Dizem que o Monolito pode estar ligado ao surgimento da Zona. Quando tudo aconteceu em 2006, as pessoas foram evacuadas e o Exercito isolou a area. O caos se espalhou, ninguem sabia ao certo o que estava acontecendo. A Zona crescia, e os cientistas pareciam tao confusos quanto qualquer um. Havia medo de que a radiaçao chegasse a Europa. Com o tempo, surgiram os primeiros stalkers, buscando fortuna e descobrindo artefatos estranhos.</text>
+		<text>Dizem que o Monolito pode estar ligado ao surgimento da Zona. Quando tudo aconteceu em 2006, as pessoas foram evacuadas e o Exercito isolou a area. O caos se espalhou, ninguem sabia ao certo o que estava acontecendo. A Zona crescia, e os cientistas pareciam tao confusos quanto qualquer um. Havia medo de que a radiacao chegasse a Europa. Com o tempo, surgiram os primeiros stalkers, buscando fortuna e descobrindo artefatos estranhos.</text>
 	</string>
 	<string id="bar_bar_barmen_talk_info_81111">
 		<text>Continue...</text>
 	</string>
 	<string id="bar_bar_barmen_talk_info_811111">
-		<text>Com o passar dos anos, começaram a surgir historias sobre o que havia no coraçao da Zona, proximo a Usina. Um veterano falou sobre um Monolito capaz de conceder desejos. Muitos acreditaram e arriscaram a vida para encontra-lo. Mas os relatos sobre o primeiro stalker que chegou la foram... perturbadores.</text>
+		<text>Com o passar dos anos, comecaram a surgir historias sobre o que havia no coracao da Zona, proximo a Usina. Um veterano falou sobre um Monolito capaz de conceder desejos. Muitos acreditaram e arriscaram a vida para encontra-lo. Mas os relatos sobre o primeiro stalker que chegou la foram... perturbadores.</text>
 	</string>
 	<string id="bar_bar_barmen_talk_info_8111111">
 		<text>O que aconteceu com ele?</text>
 	</string>
 	<string id="bar_bar_barmen_talk_info_81111111">
-		<text>Quando a Zona surgiu, muitos ficaram presos e morreram. Alguns, no entanto, sobreviveram. Um desses stalkers conseguiu chegar proximo ao Sarcofago e viu uma luz estranha emanando de dentro. Sem outra opçao, decidiu investigar. Subiu as ruinas e encontrou uma enorme pedra negra – o Monolito. Ele lutou contra o impulso de se aproximar, mas algo em sua mente o chamava. E entao, ele viu coisas que ninguem jamais poderia explicar...</text>
+		<text>Quando a Zona surgiu, muitos ficaram presos e morreram. Alguns, no entanto, sobreviveram. Um desses stalkers conseguiu chegar proximo ao Sarcofago e viu uma luz estranha emanando de dentro. Sem outra opcao, decidiu investigar. Subiu as ruinas e encontrou uma enorme pedra negra – o Monolito. Ele lutou contra o impulso de se aproximar, mas algo em sua mente o chamava. E entao, ele viu coisas que ninguem jamais poderia explicar...</text>
 	</string>
 	<string id="bar_bar_barmen_talk_info_811111111">
 		<text>Interessante...</text>
@@ -511,13 +511,13 @@
 		<text>Como quiser. O que mais deseja saber?</text>
 	</string>
 	<string id="bar_bar_drunk_dolg_start_11">
-		<text>Maldiçao... Sim, eu bebi demais! Se eu falhar de novo, eles vao me expulsar da Duty... Mas eu nao... eu nao estou me sentindo muito bem agora...</text>
+		<text>Maldicao... Sim, eu bebi demais! Se eu falhar de novo, eles vao me expulsar da Duty... Mas eu nao... eu nao estou me sentindo muito bem agora...</text>
 	</string>
 	<string id="bar_bar_drunk_dolg_start_111">
 		<text>Sinto muito.</text>
 	</string>
 	<string id="bar_bar_drunk_dolg_start_21">
-		<text>Ei, tem novidades? Pelo seu olhar, acho que voce nao matou aquele desgraçado. A vida e uma droga... Que tal um drink?</text>
+		<text>Ei, tem novidades? Pelo seu olhar, acho que voce nao matou aquele desgracado. A vida e uma droga... Que tal um drink?</text>
 	</string>
 	<string id="bar_bar_drunk_dolg_start_31">
 		<text>Voce me ajudou! Vamos brindar a Duty... eu acho! E... Oh!</text>
@@ -532,7 +532,7 @@
 		<text>Fale.</text>
 	</string>
 	<string id="bar_bar_hunter_quest_start_1">
-		<text>Faço qualquer coisa! Por favor, recupere meu rifle! Perdi onde vivem os Sanguessugas. Aqui estao as coordenadas. Tenha cuidado, essas criaturas sao extremamente perigosas.</text>
+		<text>Faco qualquer coisa! Por favor, recupere meu rifle! Perdi onde vivem os Sanguessugas. Aqui estao as coordenadas. Tenha cuidado, essas criaturas sao extremamente perigosas.</text>
 	</string>
 	<string id="bar_bar_hunter_quest_start_11">
 		<text>Vou tentar pega-lo para voce.</text>
@@ -553,7 +553,7 @@
 		<text>Veremos.</text>
 	</string>
 	<string id="bar_bar_hunter_start_11">
-		<text>Estou com um grande problema! Perdi meu rifle no Territorio Selvagem! Eu ia caçar Sanguessugas, mas quase nao consegui escapar. Se voce encontra-lo, eu pago. Juntei algum dinheiro, e todo seu, so traga meu rifle de volta. E uma herança de familia, passado de pai para filho... E eu fui estupido o suficiente para perde-lo!</text>
+		<text>Estou com um grande problema! Perdi meu rifle no Territorio Selvagem! Eu ia cacar Sanguessugas, mas quase nao consegui escapar. Se voce encontra-lo, eu pago. Juntei algum dinheiro, e todo seu, so traga meu rifle de volta. E uma heranca de familia, passado de pai para filho... E eu fui estupido o suficiente para perde-lo!</text>
 	</string>
 	<string id="bar_bar_hunter_start_21">
 		<text>E ai! Alguma novidade? Encontrou?</text>
@@ -769,7 +769,7 @@
 		<text>Spotty esta debilitado, a mente dele esta confusa. Pode falar com ele? Precisamos da programacao do Desintegrador.</text>
 	</string>
 	<string id="bar_bar_visitors_14_start_87">
-		<text>Nao! Nao me peça isso. Hunchback morreu por minha causa, Spotty tambem. Eu os abandonei, fugi! Nao consigo encarar Spotty!</text>
+		<text>Nao! Nao me peca isso. Hunchback morreu por minha causa, Spotty tambem. Eu os abandonei, fugi! Nao consigo encarar Spotty!</text>
 	</string>
 	<string id="bar_bar_visitors_14_start_88">
 		<text>Calma. Me conte o que aconteceu.</text>
