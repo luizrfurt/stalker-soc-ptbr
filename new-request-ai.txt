@@ -18,6 +18,6 @@ Não traduza quaisquer outro nome de personagem.
 --
 Mutantes: Flesh → Carniceiro, Bloodsucker → Sanguessuga, Snork → Snorkel, Burer → Lancador
 --
-Outros Termos: Task → Missao, Detachment → Unidade, Snipers → Snipers, Father → Padre
+Outros Termos: Task → Missao, Detachment → Unidade, Snipers → Snipers, Father → Padre, Suit e Outfit → Traje
 
 Me de o resultado no mesmo formato que mandei, quebrado por linhas, somente em portugues.
