@@ -14,7 +14,9 @@ Chernobyl NPP → Usina Nuclear de Chernobyl, Agroprom Underground → Agroprom 
 Sarcophagus → Sarcofago, Brain Scorcher → Desintegrador Psiquico, Psi-Brain → Psi-Amp
 --
 Personagens: Marked One → Marca, Wolf → Wolf, Fox → Fox, Guide → Guide, Nimble → Nimble, Fanatic → Fanatic, Ghost → Ghost, Wish Granter → Concessor de Desejos, Vampire → Vampire,
-Sparrow → Sparrow, C-Consciousness → C-Consciencia, Ratcatcher → Ratoroi
+Sparrow → Sparrow, C-Consciousness → C-Consciencia, Ratcatcher → Ratoroi, Wolfhound → Wolfhound, Twig → Twig
+
+Não traduza quaisquer outro nome de personagem.
 --
 Itens: Flash drive → Pendrive, Lockpick → Arrombador, Energy drink → Energetico, Medkit → Kit de primeiros socorros, Bandages → Bandagens
 --
