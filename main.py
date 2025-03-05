@@ -76,7 +76,8 @@ def delete_txt_files(directory):
             print(f"Excluído: {file_path}")
 
 if __name__ == "__main__":
-    directory = "./gamedatadbb/config/text/eng"  # Altere para o diretório correto
+    # Altere para o diretório correto
+    directory = "./release/Stalker Shadow Of Chernobyl — Tradução Pt-Br/gamedata/config/text/eng"
 
     # delete txts
     # delete_txt_files(directory)
