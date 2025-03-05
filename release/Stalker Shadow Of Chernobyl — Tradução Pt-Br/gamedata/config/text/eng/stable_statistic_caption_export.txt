@@ -1,0 +1,58 @@
+2|<text>bandit, skilled</text>
+5|<text>bandit, pro</text>
+8|<text>bandit, tyro</text>
+11|<text>bandit, master</text>
+14|<text>sub bloodsucker</text>
+17|<text>dark bloodsucker</text>
+20|<text>bloodsucker</text>
+23|<text>grown boar</text>
+26|<text>mature boar</text>
+29|<text>young boar</text>
+32|<text>burer</text>
+35|<text>controller</text>
+38|<text>rat hound</text>
+41|<text>albino dog</text>
+44|<text>wild dog</text>
+47|<text>Duty, experienced</text>
+50|<text>Duty, expert</text>
+53|<text>Duty, veteran</text>
+56|<text>scientist, learned</text>
+59|<text>scientist, assistant</text>
+62|<text>forest flesh</text>
+65|<text>swamp flesh</text>
+68|<text>prairie flesh</text>
+71|<text>Freedom, seedy</text>
+74|<text>Freedom, ace</text>
+77|<text>Freedom, war-dog</text>
+80|<text>Merc, trained</text>
+83|<text>Merc, tough</text>
+86|<text>Merc, old hand</text>
+89|<text>soldier, Sergeant</text>
+92|<text>soldier, Captain</text>
+95|<text>soldier, Private</text>
+98|<text>soldier, Lieutenant</text>
+101|<text>Monolithian, experienced</text>
+104|<text>Monolithian, expert</text>
+107|<text>Monolithian, rookie</text>
+110|<text>Monolithian, veteran</text>
+113|<text>stalker, trained</text>
+116|<text>stalker, skilled</text>
+119|<text>stalker, lame</text>
+122|<text>stalker, past master</text>
+125|<text>poltergeist</text>
+128|<text>pseudogiant</text>
+131|<text>mature pseudodog</text>
+134|<text>gray pseudodog</text>
+137|<text>pseudodog</text>
+140|<text>dusky pseudodog</text>
+143|<text>scavenger snork</text>
+146|<text>man-eating snork</text>
+149|<text>snork</text>
+152|<text>rodent</text>
+155|<text>zombie</text>
+158|<text>zombie</text>
+161|<text>zombie</text>
+164|<text>zombified stalker, experienced</text>
+167|<text>zombified stalker, expert</text>
+170|<text>zombified stalker, rookie</text>
+173|<text>zombified stalker, veteran</text>

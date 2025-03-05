@@ -1,0 +1,58 @@
+2|<text>bandido, habilidoso</text>
+5|<text>bandido, profissional</text>
+8|<text>bandido, novato</text>
+11|<text>bandido, mestre</text>
+14|<text>sanguessuga comum</text>
+17|<text>sanguessuga sombria</text>
+20|<text>sanguessuga</text>
+23|<text>javali crescido</text>
+26|<text>javali maduro</text>
+29|<text>javali jovem</text>
+32|<text>lancador</text>
+35|<text>controlador</text>
+38|<text>cao rato</text>
+41|<text>cao albino</text>
+44|<text>cao selvagem</text>
+47|<text>Dever, experiente</text>
+50|<text>Dever, especialista</text>
+53|<text>Dever, veterano</text>
+56|<text>cientista, instruido</text>
+59|<text>cientista, assistente</text>
+62|<text>carniceiro da floresta</text>
+65|<text>carniceiro do pantano</text>
+68|<text>carniceiro da pradaria</text>
+71|<text>Libertaria, decadente</text>
+74|<text>Libertaria, craque</text>
+77|<text>Libertaria, cao de guerra</text>
+80|<text>Merc, treinado</text>
+83|<text>Merc, durao</text>
+86|<text>Merc, veterano</text>
+89|<text>soldado, Sargento</text>
+92|<text>soldado, Capitao</text>
+95|<text>soldado, Soldado</text>
+98|<text>soldado, Tenente</text>
+101|<text>Monolito, experiente</text>
+104|<text>Monolito, especialista</text>
+107|<text>Monolito, novato</text>
+110|<text>Monolito, veterano</text>
+113|<text>stalker, treinado</text>
+116|<text>stalker, habilidoso</text>
+119|<text>stalker, aleijado</text>
+122|<text>stalker, ex-mestre</text>
+125|<text>poltergeist</text>
+128|<text>pseudogigante</text>
+131|<text>pseudocao maduro</text>
+134|<text>pseudocao cinzento</text>
+137|<text>pseudocao</text>
+140|<text>pseudocao escuro</text>
+143|<text>snorkel catador</text>
+146|<text>snorkel canibal</text>
+149|<text>snorkel</text>
+152|<text>roedor</text>
+155|<text>zumbi</text>
+158|<text>zumbi</text>
+161|<text>zumbi</text>
+164|<text>stalker zumbificado, experiente</text>
+167|<text>stalker zumbificado, especialista</text>
+170|<text>stalker zumbificado, novato</text>
+173|<text>stalker zumbificado, veterano</text>

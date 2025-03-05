@@ -2,7 +2,7 @@
 		<text>bandido, habilidoso</text>
 	</string>
 	<string id="bandit_master">
-		<text>bandido, pro</text>
+		<text>bandido, profissional</text>
 	</string>
 	<string id="bandit_novice">
 		<text>bandido, novato</text>
@@ -14,13 +14,13 @@
 		<text>sanguessuga comum</text>
 	</string>
 	<string id="bloodsucker_strong">
-		<text>sanguessuga das trevas</text>
+		<text>sanguessuga sombria</text>
 	</string>
 	<string id="bloodsucker_weak">
 		<text>sanguessuga</text>
 	</string>
 	<string id="boar_normal">
-		<text>javali adulto</text>
+		<text>javali crescido</text>
 	</string>
 	<string id="boar_strong">
 		<text>javali maduro</text>
@@ -29,13 +29,13 @@
 		<text>javali jovem</text>
 	</string>
 	<string id="burer_weak">
-		<text>segurador</text>
+		<text>lancador</text>
 	</string>
 	<string id="controller_weak">
 		<text>controlador</text>
 	</string>
 	<string id="dog_normal">
-		<text>cao de caca</text>
+		<text>cao rato</text>
 	</string>
 	<string id="dog_strong">
 		<text>cao albino</text>
@@ -44,37 +44,37 @@
 		<text>cao selvagem</text>
 	</string>
 	<string id="dolg_experienced">
-		<text>Duty, experiente</text>
+		<text>Dever, experiente</text>
 	</string>
 	<string id="dolg_master">
-		<text>Duty, especialista</text>
+		<text>Dever, especialista</text>
 	</string>
 	<string id="dolg_veteran">
-		<text>Duty, veterano</text>
+		<text>Dever, veterano</text>
 	</string>
 	<string id="ecolog_experienced">
-		<text>cientista, experiente</text>
+		<text>cientista, instruido</text>
 	</string>
 	<string id="ecolog_novice">
 		<text>cientista, assistente</text>
 	</string>
 	<string id="flesh_normal">
-		<text>carnival da floresta</text>
+		<text>carniceiro da floresta</text>
 	</string>
 	<string id="flesh_strong">
-		<text>carnival do pantano</text>
+		<text>carniceiro do pantano</text>
 	</string>
 	<string id="flesh_weak">
-		<text>carnival da pradaria</text>
+		<text>carniceiro da pradaria</text>
 	</string>
 	<string id="freedom_experienced">
-		<text>Freedom, duvidoso</text>
+		<text>Libertaria, decadente</text>
 	</string>
 	<string id="freedom_master">
-		<text>Freedom, craque</text>
+		<text>Libertaria, craque</text>
 	</string>
 	<string id="freedom_veteran">
-		<text>Freedom, cao de guerra</text>
+		<text>Libertaria, cao de guerra</text>
 	</string>
 	<string id="killer_experienced">
 		<text>Merc, treinado</text>
@@ -86,28 +86,28 @@
 		<text>Merc, veterano</text>
 	</string>
 	<string id="military_experienced">
-		<text>soldado, sargento</text>
+		<text>soldado, Sargento</text>
 	</string>
 	<string id="military_master">
-		<text>soldado, capitao</text>
+		<text>soldado, Capitao</text>
 	</string>
 	<string id="military_novice">
-		<text>soldado, recruta</text>
+		<text>soldado, Soldado</text>
 	</string>
 	<string id="military_veteran">
-		<text>soldado, tenente</text>
+		<text>soldado, Tenente</text>
 	</string>
 	<string id="monolith_experienced">
-		<text>Monolith, experiente</text>
+		<text>Monolito, experiente</text>
 	</string>
 	<string id="monolith_master">
-		<text>Monolith, experto</text>
+		<text>Monolito, especialista</text>
 	</string>
 	<string id="monolith_novice">
-		<text>Monolith, novato</text>
+		<text>Monolito, novato</text>
 	</string>
 	<string id="monolith_veteran">
-		<text>Monolith, veterano</text>
+		<text>Monolito, veterano</text>
 	</string>
 	<string id="neutral_experienced">
 		<text>stalker, treinado</text>
@@ -116,7 +116,7 @@
 		<text>stalker, habilidoso</text>
 	</string>
 	<string id="neutral_novice">
-		<text>stalker, manco</text>
+		<text>stalker, aleijado</text>
 	</string>
 	<string id="neutral_veteran">
 		<text>stalker, ex-mestre</text>
@@ -128,7 +128,7 @@
 		<text>pseudogigante</text>
 	</string>
 	<string id="pseudodog_normal">
-		<text>pseudocao adulto</text>
+		<text>pseudocao maduro</text>
 	</string>
 	<string id="pseudodog_strong">
 		<text>pseudocao cinzento</text>
@@ -137,13 +137,13 @@
 		<text>pseudocao</text>
 	</string>
 	<string id="psy_dog">
-		<text>pseudocao estrangulador</text>
+		<text>pseudocao escuro</text>
 	</string>
 	<string id="snork_normal">
 		<text>snorkel catador</text>
 	</string>
 	<string id="snork_strong">
-		<text>snorkel carnivoro</text>
+		<text>snorkel canibal</text>
 	</string>
 	<string id="snork_weak">
 		<text>snorkel</text>
@@ -164,7 +164,7 @@
 		<text>stalker zumbificado, experiente</text>
 	</string>
 	<string id="zombied_master">
-		<text>stalker zumbificado, experto</text>
+		<text>stalker zumbificado, especialista</text>
 	</string>
 	<string id="zombied_novice">
 		<text>stalker zumbificado, novato</text>
