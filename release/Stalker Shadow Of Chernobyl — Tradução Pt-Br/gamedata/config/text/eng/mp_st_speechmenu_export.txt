@@ -1,0 +1,17 @@
+4|<text>Attack!</text>
+7|<text>I'm going for the artifact! Cover me.</text>
+10|<text>Follow me!</text>
+13|<text>Guard the artifact. Don't attack yet!</text>
+16|<text>I'm holding ground</text>
+19|<text>Hold the position!</text>
+22|<text>Go for the artifact! I'll cover you.</text>
+25|<text>Need help</text>
+28|<text>No money, buy some equipment</text>
+31|<text>No</text>
+34|<text>No-one around</text>
+37|<text>Report on the situation!</text>
+40|<text>Fall back!</text>
+43|<text>Roger</text>
+46|<text>Quiet, everyone!</text>
+49|<text>Keep close together</text>
+52|<text>Go for the artifact!</text>
