@@ -1,0 +1,109 @@
+4|<text>limpo</text>
+7|<text>nublado</text>
+10|<text>medio</text>
+13|<text>maximo</text>
+16|<text>mestre</text>
+19|<text>novato</text>
+22|<text>stalker</text>
+25|<text>veterano</text>
+28|<text>alto</text>
+31|<text>baixo</text>
+34|<text>minimo</text>
+37|<text>verificar chave de CD</text>
+40|<text>noite</text>
+43|<text>chuvoso</text>
+46|<text>Iluminacao estatica</text>
+49|<text>Iluminacao dinamica completa</text>
+52|<text>Iluminacao dinamica de objetos</text>
+55|<text>Caca ao artefato</text>
+58|<text>Livre para todos</text>
+61|<text>Experiente</text>
+64|<text>stalker lendario</text>
+67|<text>novato</text>
+70|<text>profissional</text>
+73|<text>Veterano</text>
+76|<text>Jogo em equipe</text>
+79|<text>Fabrica "Agroprom"</text>
+82|<text>Estacao de veiculos</text>
+85|<text>Vale Sombrio</text>
+88|<text>Fabrica "Yantar"</text>
+91|<text>Vila desolada</text>
+94|<text>Armazens militares</text>
+97|<text>Piscina</text>
+100|<text>Estacao ferroviaria</text>
+103|<text>Fabrica "Rostok"</text>
+106|<text>Fabrica abandonada</text>
+109|<text>Frequencia 60Hz</text>
+112|<text>acao</text>
+115|<text>Avancado</text>
+118|<text>Filtragem anisotropica</text>
+121|<text>Aplicar</text>
+124|<text>Voltar</text>
+127|<text>Sangue</text>
+130|<text>Brilho</text>
+133|<text>Cancelar</text>
+136|<text>Contraste</text>
+139|<text>Controles</text>
+142|<text>Creditos</text>
+145|<text>Distancia do alvo da mira</text>
+148|<text>Deletar</text>
+151|<text>Dificuldade</text>
+154|<text>Desconectar</text>
+157|<text>Tem certeza de que deseja desconectar?</text>
+160|<text>Mira dinamica</text>
+163|<text>EAX</text>
+166|<text>Tela cheia</text>
+169|<text>Jogo</text>
+172|<text>Gama</text>
+175|<text>Detalhe de objetos</text>
+178|<text>Inverter mouse</text>
+181|<text>botao</text>
+184|<text>Configuracao do teclado</text>
+187|<text>Ultimo save</text>
+190|<text>Distancia de iluminacao</text>
+193|<text>Carregar</text>
+196|<text>Carregar jogo</text>
+199|<text>Mestre</text>
+202|<text>Volume de SFX</text>
+205|<text>Sensibilidade do mouse</text>
+208|<text>JOGO EM REDE</text>
+211|<text>Jogo em rede</text>
+214|<text>Volume da musica</text>
+217|<text>As alteracoes terao efeito somente apos reiniciar o jogo</text>
+220|<text>Novo jogo</text>
+223|<text>Novato</text>
+226|<text>Lanternas de NPCs</text>
+229|<text>OPCOES</text>
+232|<text>Opcoes</text>
+235|<text>Distancia de particulas</text>
+238|<text>Configuracoes de qualidade</text>
+241|<text>Sair do jogo</text>
+244|<text>Tem certeza de que deseja sair do jogo?</text>
+247|<text>Tem certeza de que deseja sair para o Windows?</text>
+250|<text>Sair para o Windows</text>
+253|<text>Renderizar</text>
+256|<text>Resolucao</text>
+259|<text>Retornar ao jogo</text>
+262|<text>Salvar</text>
+265|<text>Salvar jogo</text>
+268|<text>Mostrar mira</text>
+271|<text>Mostrar arma</text>
+274|<text>Basico</text>
+277|<text>Som</text>
+280|<text>Qualidade do som</text>
+283|<text>Stalker</text>
+286|<text>Qualidade das sombras</text>
+289|<text>Antisserrilhamento</text>
+292|<text>IA usa lanternas</text>
+295|<text>Detalhe das texturas</text>
+298|<text>Identificacao de NPCs</text>
+301|<text>Veterano</text>
+304|<text>Video</text>
+307|<text>Distancia de visao</text>
+310|<text>Sincronizacao vertical</text>
+313|<text>Ultima predefinicao</text>
+316|<text>Predefinicao 1</text>
+319|<text>Predefinicao 2</text>
+322|<text>Predefinicao 3</text>
+325|<text>Redefinir</text>
+328|<text>Vender tudo</text>

@@ -1,0 +1,20 @@
+4|<text>Voce esta muito exausto para andar</text>
+7|<text>Voce esta muito carregado para continuar</text>
+10|<text>Alguem esta segurando a porta.</text>
+13|<text>Mapa global</text>
+16|<text>A arma travou. Voce precisa recarregar.</text>
+19|<text>Abrir a caixa ($$ACTION_USE$$)</text>
+22|<text>Mapa local</text>
+25|<text>jogo salvo</text>
+28|<text>Bloqueado</text>
+31|<text>Abrir a porta ($$ACTION_USE$$)</text>
+34|<text>Pressione ($$ACTION_USE$$) para fechar a porta</text>
+37|<text>A porta esta trancada por um codigo</text>
+40|<text>Pressione ($$ACTION_USE$$) para decodificar a porta</text>
+43|<text>Decodificacao em progresso</text>
+46|<text>A porta esta trancada</text>
+49|<text>Pressione ($$ACTION_USE$$) para abrir a porta</text>
+52|<text>Pressione ($$ACTION_USE$$) para fechar o portao</text>
+55|<text>O portao esta bloqueado</text>
+58|<text>Pressione ($$ACTION_USE$$) para abrir o portao</text>
+61|<text>FACA UM DESEJO SECRETO ($$ACTION_USE$$)</text>

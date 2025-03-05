@@ -1,0 +1,134 @@
+4|<text>The artifact was destroyed.</text>
+7|<text>The artifact spawned. Bring it to the base to score a point.</text>
+10|<text>Artifacts</text>
+13|<text>Artifacts</text>
+16|<text>Autoselect</text>
+19|<text>Back</text>
+22|<text>Ban</text>
+25|<text>by anomaly</text>
+28|<text>Cancel</text>
+31|<text>Change map</text>
+34|<text>Change weather</text>
+37|<text>Chat</text>
+40|<text>connected</text>
+43|<text>deaths</text>
+46|<text>Description</text>
+49|<text>disconnected</text>
+52|<text>Enter text for the vote</text>
+55|<text>has entered the game</text>
+58|<text>(First person view)</text>
+61|<text>frags</text>
+64|<text>Frags</text>
+67|<text>(Free-camera)</text>
+70|<text>(Third person view)</text>
+73|<text>with</text>
+76|<text>GO!</text>
+79|<text>dropped%s Artifact</text>
+82|<text>took%s Artifact</text>
+85|<text>Mercs</text>
+88|<text>is now</text>
+91|<text>has joined</text>
+94|<text>Drop</text>
+97|<text>(Free-locked)</text>
+100|<text>Map description</text>
+103|<text>Match started!</text>
+106|<text>Modes</text>
+109|<text>name</text>
+112|<text>Next</text>
+115|<text>Haven't voted</text>
+118|<text>ping</text>
+121|<text>Player %s won the match!</text>
+124|<text>Players</text>
+127|<text>Press Fire to switch to Spectator mode</text>
+130|<text>Press Jump to buy an instant respawn</text>
+133|<text>Press Jump to select a skin</text>
+136|<text>Press Jump to select teams</text>
+139|<text>Press Jump to spawn</text>
+142|<text>Press Jump to start</text>
+145|<text>Press ($$ACTION_BUY_MENU$$) to access the buy menu</text>
+148|<text>You have %d$. You can respawn for %d$. Click Yes to pay.</text>
+151|<text>Ready...</text>
+154|<text>Restart</text>
+157|<text>Quick restart</text>
+160|<text>scored a point</text>
+163|<text>Select player to ban by voting</text>
+166|<text>Select voting category</text>
+169|<text>Select player to kick out by voting</text>
+172|<text>Select player to kick out by voting</text>
+175|<text>Select map to vote for</text>
+178|<text>Skin selection</text>
+181|<text>Spectator</text>
+184|<text>SPECTATORS</text>
+187|<text>status</text>
+190|<text>has switched to</text>
+193|<text>Freedom</text>
+196|<text>Team selection</text>
+199|<text>Team %s WON!</text>
+202|<text>Text</text>
+205|<text>Time until respawn</text>
+208|<text>Time until start:</text>
+211|<text>Time remaining: %d:%d; Agreed %.2f</text>
+214|<text>No</text>
+217|<text>Yes</text>
+220|<text>voted</text>
+223|<text>against</text>
+226|<text>for</text>
+229|<text>Voting cancelled by the server!</text>
+232|<text>Voting '%s' was started by %s.</text>
+235|<text>Voting has started!</text>
+238|<text>Clear</text>
+241|<text>Cloudy</text>
+244|<text>Night</text>
+247|<text>Rainy</text>
+250|<text>Backstabbed!!!</text>
+253|<text>Headshot!!!</text>
+256|<text>Your rank is now</text>
+259|<text>Description</text>
+262|<text>Freedom</text>
+265|<text>Mercs</text>
+268|<text>Artifact</text>
+271|<text>It's you</text>
+274|<text>Ally</text>
+277|<text>Freedom's base</text>
+280|<text>Mercs' base</text>
+283|<text>No</text>
+286|<text>Yes</text>
+289|<text>min</text>
+292|<text>sec</text>
+295|<text>Map Rotation</text>
+298|<text>Voting</text>
+301|<text>Enabled</text>
+304|<text>Disabled</text>
+307|<text>Spectator Modes:</text>
+310|<text>Server Name:</text>
+313|<text>Version:</text>
+316|<text>- Free Fly</text>
+319|<text>- First Person</text>
+322|<text>- Third Person</text>
+325|<text>- Free Look</text>
+328|<text>- Team Only</text>
+331|<text>Frag Limit</text>
+334|<text>Time Limit</text>
+337|<text>- Indicators</text>
+340|<text>- Time</text>
+343|<text>Invinsibility:</text>
+346|<text>Anomalies</text>
+349|<text>Anomalies period</text>
+352|<text>Infinite</text>
+355|<text>Forced Respawn</text>
+358|<text>Warm Up</text>
+361|<text>Auto Team Balance</text>
+364|<text>Auto Team Swap</text>
+367|<text>Friendly Indicators</text>
+370|<text>Friendly Names</text>
+373|<text>Frienly Fire</text>
+376|<text>Artifacts:</text>
+379|<text>-  Count</text>
+382|<text>-  Stay Time</text>
+385|<text>-  Respawn Time</text>
+388|<text>Respawn</text>
+391|<text>Artifact captured</text>
+394|<text>Any time</text>
+397|<text>Shielded Bases</text>
+400|<text>Players returned to bases</text>
+403|<text>No sprint with artifact</text>

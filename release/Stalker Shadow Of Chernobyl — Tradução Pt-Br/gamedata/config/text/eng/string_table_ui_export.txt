@@ -1,0 +1,20 @@
+4|<text>You're too exhausted to walk</text>
+7|<text>You're too heavily loaded to continue</text>
+10|<text>Someone is holding the door.</text>
+13|<text>Global map</text>
+16|<text>The weapon has jammed.You need to reload.</text>
+19|<text>Search the box ($$ACTION_USE$$)</text>
+22|<text>Local map</text>
+25|<text>game saved</text>
+28|<text>Blocked</text>
+31|<text>Open the door ($$ACTION_USE$$)</text>
+34|<text>Press ($$ACTION_USE$$) to close the door</text>
+37|<text>The door is locked by a code</text>
+40|<text>Press ($$ACTION_USE$$) to decode the door</text>
+43|<text>Decoding in progress</text>
+46|<text>The door is locked</text>
+49|<text>Press ($$ACTION_USE$$) to open the door</text>
+52|<text>Press ($$ACTION_USE$$) to close the gate</text>
+55|<text>The gate is blocked</text>
+58|<text>Press ($$ACTION_USE$$) to open the gate</text>
+61|<text>MAKE A SECRET WISH ($$ACTION_USE$$)</text>

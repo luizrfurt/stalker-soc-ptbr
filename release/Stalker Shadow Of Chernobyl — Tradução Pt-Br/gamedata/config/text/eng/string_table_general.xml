@@ -1,34 +1,34 @@
 <?xml version="1.0" encoding="windows-1251" ?>
 <string_table>
 	<string id="actor">
-		<text>Loner</text>
+		<text>Errante</text>
 	</string>
 	<string id="actor_dolg">
-		<text>Duty</text>
+		<text>Dever</text>
 	</string>
 	<string id="actor_freedom">
-		<text>Freedom</text>
+		<text>Libertaria</text>
 	</string>
 	<string id="arena_enemy">
 		<text>Merc</text>
 	</string>
 	<string id="bad">
-		<text>Ruim</text>
+		<text>ruim</text>
 	</string>
 	<string id="bandit">
 		<text>Bandido</text>
 	</string>
 	<string id="dolg">
-		<text>Duty</text>
+		<text>Dever</text>
 	</string>
 	<string id="ecolog">
 		<text>Ecologista</text>
 	</string>
 	<string id="enemy">
-		<text>Inimigo</text>
+		<text>inimigo</text>
 	</string>
 	<string id="excellent">
-		<text>Excelente</text>
+		<text>excelente</text>
 	</string>
 	<string id="exo_outfit_name_m1">
 		<text>Exoesqueleto PNB-4UZ</text>
@@ -37,19 +37,19 @@
 		<text>Experiente</text>
 	</string>
 	<string id="Found_PDA">
-		<text>PDA Encontrado</text>
+		<text>PDA encontrado</text>
 	</string>
 	<string id="freedom">
-		<text>Freedom</text>
+		<text>Libertaria</text>
 	</string>
 	<string id="friendly">
-		<text>Amigo</text>
+		<text>amigo</text>
 	</string>
 	<string id="good">
-		<text>Bom</text>
+		<text>bom</text>
 	</string>
 	<string id="indifferent">
-		<text>Neutro</text>
+		<text>neutro</text>
 	</string>
 	<string id="killer">
 		<text>Merc</text>
@@ -73,7 +73,7 @@
 		<text>Territorio Selvagem</text>
 	</string>
 	<string id="l07_military">
-		<text>Armazens Militares</text>
+		<text>Armazens militares</text>
 	</string>
 	<string id="l08_yantar">
 		<text>Yantar</text>
@@ -82,7 +82,7 @@
 		<text>Floresta Vermelha</text>
 	</string>
 	<string id="l11_pripyat">
-		<text>Pripyat</text>
+		<text>Prypiat</text>
 	</string>
 	<string id="l12_stancia">
 		<text>Usina Nuclear de Chernobyl</text>
@@ -91,58 +91,58 @@
 		<text>Usina Nuclear de Chernobyl</text>
 	</string>
 	<string id="master">
-		<text>Especialista</text>
+		<text>especialista</text>
 	</string>
 	<string id="military">
 		<text>Militar</text>
 	</string>
 	<string id="monolith">
-		<text>Monolith</text>
+		<text>Monolito</text>
 	</string>
 	<string id="neutral">
-		<text>Neutro</text>
+		<text>neutro</text>
 	</string>
 	<string id="novice">
 		<text>Novato</text>
 	</string>
 	<string id="st_no_active_task">
-		<text>Sem missao ativa</text>
+		<text>Nenhuma missao ativa</text>
 	</string>
 	<string id="st_time_till_surge">
 		<text>Tempo ate a explosao</text>
 	</string>
 	<string id="stalker">
-		<text>Loner</text>
+		<text>Errante</text>
 	</string>
 	<string id="terrible">
-		<text>Terrivel</text>
+		<text>terrivel</text>
 	</string>
 	<string id="trader">
 		<text>Comerciante</text>
 	</string>
 	<string id="ui_st_community">
-		<text>Grupo</text>
+		<text>grupo</text>
 	</string>
 	<string id="ui_st_price">
 		<text>Preco</text>
 	</string>
 	<string id="ui_st_rank">
-		<text>Ranking</text>
+		<text>posicao</text>
 	</string>
 	<string id="ui_st_relation">
-		<text>Atitude</text>
+		<text>atitude</text>
 	</string>
 	<string id="ui_st_reputation">
-		<text>Reputacao</text>
+		<text>reputacao</text>
 	</string>
 	<string id="very_bad">
 		<text>Muito ruim</text>
 	</string>
 	<string id="very_good">
-		<text>Muito bom</text>
+		<text>muito bom</text>
 	</string>
 	<string id="veteran">
-		<text>Veterano</text>
+		<text>veterano</text>
 	</string>
 	<string id="zombied">
 		<text>Zumbificado</text>
@@ -166,22 +166,22 @@
 		<text>Salvamento automatico</text>
 	</string>
 	<string id="st_game_over">
-		<text>Fim de jogo</text>
+		<text>Fim de jogo.</text>
 	</string>
 	<string id="st_item_used">
-		<text>Item usado</text>
+		<text>Usado</text>
 	</string>
 	<string id="st_not_enough_money">
 		<text>Dinheiro insuficiente</text>
 	</string>
 	<string id="st_not_enough_money_npc">
-		<text>O NPC nao tem dinheiro suficiente</text>
+		<text>o NPC nao tem dinheiro suficiente</text>
 	</string>
 	<string id="ui_st_opponent_items">
-		<text>Itens para comprar</text>
+		<text>Itens a comprar</text>
 	</string>
 	<string id="st_search_treasure">
-		<text>Procurar no esconderijo ($$ACTION_USE$$)</text>
+		<text>Revistar o esconderijo ($$ACTION_USE$$)</text>
 	</string>
 	<string id="inventory_item_use">
 		<text>Pegar item ($$ACTION_USE$$)</text>
@@ -205,28 +205,28 @@
 		<text>Resistencia</text>
 	</string>
 	<string id="ui_inv_bleeding">
-		<text>Sangrando</text>
+		<text>Sangramento</text>
 	</string>
 	<string id="st_mp_say_to_all">
-		<text>Dizer a todos</text>
+		<text>Para todos</text>
 	</string>
 	<string id="st_mp_say_to_team">
-		<text>Dizer a equipe</text>
+		<text>Para a equipe</text>
 	</string>
 	<string id="st_knife">
 		<text>Faca</text>
 	</string>
 	<string id="st_mp_disabled_voting">
-		<text>Votacao desabilitada neste servidor</text>
+		<text>A votacao nao esta disponivel neste servidor.</text>
 	</string>
 	<string id="st_mp_no_current_voting">
-		<text>Sem votacoes ativas</text>
+		<text>Nenhuma votacao ativa.</text>
 	</string>
 	<string id="st_mp_ready">
-		<text>Pronto</text>
+		<text>pronto</text>
 	</string>
 	<string id="st_mp_voting_succeed">
-		<text>Votacao realizada com sucesso!</text>
+		<text>Votacao bem-sucedida!</text>
 	</string>
 	<string id="st_mp_voting_failed">
 		<text>Votacao falhou!</text>
@@ -235,13 +235,13 @@
 		<text>Agroprom Subsolo</text>
 	</string>
 	<string id="l04u_labx18">
-		<text>Laboratorio X-18</text>
+		<text>Lab X-18</text>
 	</string>
 	<string id="l08u_brainlab">
-		<text>Laboratorio X-16</text>
+		<text>Lab X-16</text>
 	</string>
 	<string id="l10u_bunker">
-		<text>Laboratorio X-10</text>
+		<text>Lab X-10</text>
 	</string>
 	<string id="l12u_sarcofag">
 		<text>Sarcofago</text>

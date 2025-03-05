@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="windows-1251" ?>
 <string_table>
 	<string id="actor_btn_hint">
-		<text>Centralizar personagem</text>
+		<text>Centralizar no ator</text>
 	</string>
 	<string id="add_spot_btn_hint">
 		<text>Adicionar novo marcador</text>
@@ -13,10 +13,10 @@
 		<text>Enciclopedia</text>
 	</string>
 	<string id="global_map_btn_hint">
-		<text>Ir para o mapa da Zona</text>
+		<text>Para o mapa da Zona</text>
 	</string>
 	<string id="level_changer_invitation">
-		<text>Avancar para o proximo nivel?</text>
+		<text>Mover para o proximo nivel?</text>
 	</string>
 	<string id="Name">
 		<text>Nome</text>
@@ -37,28 +37,28 @@
 		<text>Contatos</text>
 	</string>
 	<string id="pda_btn_contacts_hint">
-		<text>Ver lista de contatos stalker</text>
+		<text>Mostrar lista de contatos de stalker</text>
 	</string>
 	<string id="pda_btn_diary">
 		<text>Diario</text>
 	</string>
 	<string id="pda_btn_diary_hint">
-		<text>Exibir diario do jogador</text>
+		<text>Mostrar diario do jogador</text>
 	</string>
 	<string id="pda_btn_encyclopedia">
 		<text>Enciclopedia</text>
 	</string>
 	<string id="pda_btn_encyclopedia_hint">
-		<text>Ver enciclopedia da Zona</text>
+		<text>Mostrar a enciclopedia da Zona</text>
 	</string>
 	<string id="pda_btn_failed">
-		<text>Fracassadas</text>
+		<text>Falhas</text>
 	</string>
 	<string id="pda_btn_failed_hint">
-		<text>Mostrar missoes falhadas</text>
+		<text>Mostrar missoes falhas</text>
 	</string>
 	<string id="pda_btn_info">
-		<text>Informacoes</text>
+		<text>Informacao</text>
 	</string>
 	<string id="pda_btn_journal">
 		<text>Registro</text>
@@ -70,34 +70,34 @@
 		<text>Mapa</text>
 	</string>
 	<string id="pda_btn_map_hint">
-		<text>Ver mapa da Zona</text>
+		<text>Mostrar mapa da Zona</text>
 	</string>
 	<string id="pda_btn_news">
 		<text>Historico de mensagens</text>
 	</string>
 	<string id="pda_btn_news_hint">
-		<text>Ver historico de mensagens</text>
+		<text>Mostrar historico de mensagens</text>
 	</string>
 	<string id="pda_btn_off_hint">
 		<text>Desligar</text>
 	</string>
 	<string id="pda_btn_own">
-		<text>Meus</text>
+		<text>Meus proprios</text>
 	</string>
 	<string id="pda_btn_own_hint">
-		<text>Ver meus marcadores no mapa</text>
+		<text>Mostrar meus marcadores no mapa</text>
 	</string>
 	<string id="pda_btn_quests">
 		<text>Missoes</text>
 	</string>
 	<string id="pda_btn_quests_hint">
-		<text>Ver informacoes das missoes</text>
+		<text>Mostrar informacoes da missao</text>
 	</string>
 	<string id="pda_btn_ranking">
 		<text>Ranking</text>
 	</string>
 	<string id="pda_btn_ranking_hint">
-		<text>Ver ranking dos top stalkers</text>
+		<text>Mostrar rankings dos melhores stalkers</text>
 	</string>
 	<string id="pda_btn_reputation">
 		<text>Reputacao</text>
@@ -106,49 +106,49 @@
 		<text>Estatisticas</text>
 	</string>
 	<string id="pda_btn_statistics_hint">
-		<text>Ver estatisticas de progresso</text>
+		<text>Mostrar estatisticas de progresso</text>
 	</string>
 	<string id="pda_edit_user_task_btn_hint">
-		<text>Alterar descricao</text>
+		<text>Editar descricao</text>
 	</string>
 	<string id="pda_remove_btn_hint">
-		<text>Remover marcador</text>
+		<text>Deletar marcador</text>
 	</string>
 	<string id="pda_show_descr_btn_hint">
-		<text>Ir para o local</text>
+		<text>Ir</text>
 	</string>
 	<string id="pda_show_location_btn_hint">
-		<text>Ver marcadores no mapa</text>
+		<text>Mostrar marcadores no mapa</text>
 	</string>
 	<string id="pda_show_pointer_btn_hint">
 		<text>Ativar marcador</text>
 	</string>
 	<string id="pda_switch_description_btn_hint">
-		<text>Alternar entre mapa e texto</text>
+		<text>Alternar mapa/texto</text>
 	</string>
 	<string id="Rank">
-		<text>Rank</text>
+		<text>Posicao</text>
 	</string>
 	<string id="remove_spot_btn_hint">
-		<text>Remover marcador</text>
+		<text>Deletar marcador</text>
 	</string>
 	<string id="st_detail_list_for_artefacts">
-		<text>Artefatos coletados</text>
+		<text>Artefatos ganhos</text>
 	</string>
 	<string id="st_detail_list_for_community_relations">
 		<text>Relacoes com faccoes</text>
 	</string>
 	<string id="st_detail_list_for_monsterkills">
-		<text>Mutantes derrotados</text>
+		<text>Mutantes mortos</text>
 	</string>
 	<string id="st_detail_list_for_quests">
 		<text>Missoes concluidas</text>
 	</string>
 	<string id="st_detail_list_for_stalkerkills">
-		<text>Stalkers eliminados</text>
+		<text>Stalkers mortos</text>
 	</string>
 	<string id="st_map_actor">
-		<text>Este sou eu</text>
+		<text>Este e voce</text>
 	</string>
 	<string id="st_news">
 		<text>Noticias</text>
@@ -157,10 +157,10 @@
 		<text>Artefatos</text>
 	</string>
 	<string id="st_pda_detail_info">
-		<text>Informacoes detalhadas</text>
+		<text>Informacao detalhada</text>
 	</string>
 	<string id="st_pda_monster_kills">
-		<text>Mutantes derrotados</text>
+		<text>Mutantes mortos</text>
 	</string>
 	<string id="st_pda_player_statistic">
 		<text>Estatisticas do jogador</text>
@@ -169,7 +169,7 @@
 		<text>Missoes concluidas</text>
 	</string>
 	<string id="st_pda_stalker_kills">
-		<text>Stalkers eliminados</text>
+		<text>Stalkers mortos</text>
 	</string>
 	<string id="st_pda_statistic_reputation">
 		<text>Reputacao:</text>
@@ -178,7 +178,7 @@
 		<text>Estatisticas</text>
 	</string>
 	<string id="st_pda_task_detail_information">
-		<text>Informacoes detalhadas da missao</text>
+		<text>Informacao detalhada da missao</text>
 	</string>
 	<string id="st_pda_top20">
 		<text>Top 20 stalkers</text>
@@ -190,18 +190,18 @@
 		<text>Mensagem</text>
 	</string>
 	<string id="svoboda_outfit_description_m1">
-		<text>Malha de arame metalico integrada ao traje para protecao contra campos eletricos e magneticos. O conjunto tambem inclui um instrumento para visao noturna.</text>
+		<text>Malha de fio de metal e integrada ao traje para protecao contra campos eletricos e magneticos. O conjunto tambem inclui um instrumento para visao noturna.</text>
 	</string>
 	<string id="Tasks">
 		<text>Missoes</text>
 	</string>
 	<string id="Time">
-		<text>Tempo</text>
+		<text>Hora</text>
 	</string>
 	<string id="zoom_in_btn_hint">
-		<text>Ampliar</text>
+		<text>Aumentar zoom</text>
 	</string>
 	<string id="zoom_out_btn_hint">
-		<text>Reduzir</text>
+		<text>Diminuir zoom</text>
 	</string>
 </string_table>

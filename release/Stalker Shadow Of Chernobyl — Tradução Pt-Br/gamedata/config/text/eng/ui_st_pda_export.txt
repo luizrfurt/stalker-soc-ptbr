@@ -1,0 +1,68 @@
+4|<text>Center on actor</text>
+7|<text>Add new marker</text>
+10|<text>Contacts</text>
+13|<text>Encyclopedia</text>
+16|<text>To map of the Zone</text>
+19|<text>Move to next level?</text>
+22|<text>Name</text>
+25|<text>Completed</text>
+28|<text>Show completed tasks</text>
+31|<text>Active</text>
+34|<text>Show active tasks</text>
+37|<text>Contacts</text>
+40|<text>Show stalker contact list</text>
+43|<text>Diary</text>
+46|<text>Show player's diary</text>
+49|<text>Encyclopedia</text>
+52|<text>Show the Zone encyclopedia</text>
+55|<text>Failed</text>
+58|<text>Show failed tasks</text>
+61|<text>Information</text>
+64|<text>Log</text>
+67|<text>Show player's entries</text>
+70|<text>Map</text>
+73|<text>Show map of the Zone</text>
+76|<text>Message history</text>
+79|<text>Show message history</text>
+82|<text>Turn off</text>
+85|<text>My own</text>
+88|<text>Show my markers on the map</text>
+91|<text>Tasks</text>
+94|<text>Show quest information</text>
+97|<text>Ranking</text>
+100|<text>Show top stalker rankings</text>
+103|<text>Reputation</text>
+106|<text>Statistics</text>
+109|<text>Show progress statistics</text>
+112|<text>Edit description</text>
+115|<text>Delete marker</text>
+118|<text>Go</text>
+121|<text>Show markers on the map</text>
+124|<text>Activate marker</text>
+127|<text>Toggle map/text</text>
+130|<text>Rank</text>
+133|<text>Delete marker</text>
+136|<text>Won artifacts</text>
+139|<text>Relations with factions</text>
+142|<text>Killed mutants</text>
+145|<text>Completed quests</text>
+148|<text>Killed stalkers</text>
+151|<text>This is you</text>
+154|<text>News</text>
+157|<text>Artifacts</text>
+160|<text>Detailed information</text>
+163|<text>Killed mutants</text>
+166|<text>Player stats</text>
+169|<text>Completed quests</text>
+172|<text>Killed stalkers</text>
+175|<text>Reputation:</text>
+178|<text>Statistics</text>
+181|<text>Detailed task information</text>
+184|<text>Top 20 stalkers</text>
+187|<text>Total</text>
+190|<text>Message</text>
+193|<text>Metal wire mesh is integrated into the suit for protection from electric and magnetic fields. The set also includes an instrument for night vision.</text>
+196|<text>Tasks</text>
+199|<text>Time</text>
+202|<text>Zoom in</text>
+205|<text>Zoom out</text>

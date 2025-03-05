@@ -1,0 +1,34 @@
+4|<text>Wild Territory - Rostok</text>
+7|<text>Open the door ($$ACTION_USE$$)</text>
+10|<text>Talk ($$ACTION_USE$$)</text>
+13|<text>Search body ($$ACTION_USE$$) \n Drag body (SHIFT+$$ACTION_USE$$)</text>
+16|<text>Search body ($$ACTION_USE$$)</text>
+19|<text>Task complete:</text>
+22|<text>Task failed:</text>
+25|<text>Quick, I need a medkit! I'm dying here!</text>
+28|<text>Item received:</text>
+31|<text>Money received:</text>
+34|<text>New journal entry.</text>
+37|<text>New encyclopedia article.</text>
+40|<text>New task:</text>
+43|<text>Item lost:</text>
+46|<text>Money lost:</text>
+49|<text>Task updated:</text>
+52|<text>Move object ($$ACTION_USE$$)</text>
+55|<text>Combination lock ($$ACTION_USE$$)</text>
+58|<text>To Chernobyl NPP</text>
+61|<text>To Agroprom</text>
+64|<text>To the catacombs</text>
+67|<text>To Rostok</text>
+70|<text>To the Dark Valley</text>
+73|<text>To the Cordon</text>
+76|<text>To the Garbage</text>
+79|<text>To the warehouses</text>
+82|<text>To Pripyat</text>
+85|<text>To the Brain Scorcher</text>
+88|<text>To the Wild Territory</text>
+91|<text>To Yantar</text>
+94|<text>Protection shutdown</text>
+97|<text>Critical psi-emission level. Leave the dangerous zone immediately.</text>
+100|<text>Hazardous radiation level. Protection required to pass.</text>
+103|<text>Found information:</text>

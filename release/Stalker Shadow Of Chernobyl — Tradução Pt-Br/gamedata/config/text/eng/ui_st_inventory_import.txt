@@ -1,0 +1,88 @@
+4|<text>ativar artefato</text>
+7|<text>anexar lancador de granadas ao rifle</text>
+10|<text>anexar mira telescopica a pistola</text>
+13|<text>anexar mira telescopica ao rifle</text>
+16|<text>anexar silenciador a pistola</text>
+19|<text>anexar silenciador ao rifle</text>
+22|<text>preco</text>
+25|<text>condicao</text>
+28|<text>desmontar lancador de granadas</text>
+31|<text>desmontar mira telescopica</text>
+34|<text>desmontar silenciador</text>
+37|<text>vestir o traje</text>
+40|<text>soltar</text>
+43|<text>soltar tudo</text>
+46|<text>comer</text>
+49|<text>anexar ao cinto</text>
+52|<text>mover para mochila</text>
+55|<text>mover para slot</text>
+58|<text>vender item</text>
+61|<text>tirar o traje</text>
+64|<text>descarregar</text>
+67|<text>usar</text>
+70|<text>peso</text>
+73|<text>Precisao</text>
+76|<text>Mochila</text>
+79|<text>Cinto</text>
+82|<text>Cancelar</text>
+85|<text>Limpar</text>
+88|<text>Dano</text>
+91|<text>Descricao</text>
+94|<text>Retirar</text>
+97|<text>Equipamento</text>
+100|<text>Sair</text>
+103|<text>Comprar granadas para o lancador (E)</text>
+106|<text>Manuseio</text>
+109|<text>Pesado</text>
+112|<text>Lista de itens</text>
+115|<text>Dinheiro</text>
+118|<text>OK</text>
+121|<text>Queimadura</text>
+124|<text>Queimadura quimica</text>
+127|<text>Explosao</text>
+130|<text>Capacete a prova de balas</text>
+133|<text>Parametros</text>
+136|<text>Radiacao</text>
+139|<text>Choque eletrico</text>
+142|<text>Impacto</text>
+145|<text>Telepatia</text>
+148|<text>Ruptura</text>
+151|<text>Trajes</text>
+154|<text>Traje</text>
+157|<text>Pistolas</text>
+160|<text>Primaria</text>
+163|<text>Taxa de disparo</text>
+166|<text>Descansar</text>
+169|<text>Rifles de assalto</text>
+172|<text>Loja</text>
+175|<text>Espingardas</text>
+178|<text>Sniper</text>
+181|<text>Hora</text>
+184|<text>Dinheiro total</text>
+187|<text>Peso</text>
+190|<text>Comprar municao basica para pistola (Q)</text>
+193|<text>Comprar municao para rifle (W)</text>
+196|<text>Comprar lancador de granadas para rifle (D)</text>
+199|<text>Granadas</text>
+202|<text>Comprar mira optica para rifle (S)</text>
+205|<text>Comprar silenciador para pistola (A)</text>
+208|<text>Comprar silenciador para rifle (F)</text>
+211|<text>Comprar conjunto anterior</text>
+214|<text>Vender todos os itens da mochila (X)</text>
+217|<text>Conjunto comprado salvo como</text>
+220|<text>Predefinicao 1 (F1)</text>
+223|<text>Predefinicao 2 (F2)</text>
+226|<text>Predefinicao 3 (F3)</text>
+229|<text>Ultimos itens (F4)</text>
+232|<text>Itens padrao (F5)</text>
+235|<text>Itens padrao</text>
+238|<text>Redefinir itens (C)</text>
+241|<text>Nao e possivel comprar item</text>
+244|<text>Restricao de posicao</text>
+247|<text>Dinheiro insuficiente</text>
+250|<text>Restricoes de quantidade</text>
+253|<text>agora e</text>
+256|<text>requerido</text>
+259|<text>Voce ja tem</text>
+262|<text>Servicos online para S.T.A.L.K.E.R. nao estao disponiveis.</text>
+265|<text>Nao foi possivel conectar ao servidor mestre</text>

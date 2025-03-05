@@ -1,0 +1,68 @@
+4|<text>Centralizar no ator</text>
+7|<text>Adicionar novo marcador</text>
+10|<text>Contatos</text>
+13|<text>Enciclopedia</text>
+16|<text>Para o mapa da Zona</text>
+19|<text>Mover para o proximo nivel?</text>
+22|<text>Nome</text>
+25|<text>Concluidas</text>
+28|<text>Mostrar missoes concluidas</text>
+31|<text>Ativas</text>
+34|<text>Mostrar missoes ativas</text>
+37|<text>Contatos</text>
+40|<text>Mostrar lista de contatos de stalker</text>
+43|<text>Diario</text>
+46|<text>Mostrar diario do jogador</text>
+49|<text>Enciclopedia</text>
+52|<text>Mostrar a enciclopedia da Zona</text>
+55|<text>Falhas</text>
+58|<text>Mostrar missoes falhas</text>
+61|<text>Informacao</text>
+64|<text>Registro</text>
+67|<text>Mostrar entradas do jogador</text>
+70|<text>Mapa</text>
+73|<text>Mostrar mapa da Zona</text>
+76|<text>Historico de mensagens</text>
+79|<text>Mostrar historico de mensagens</text>
+82|<text>Desligar</text>
+85|<text>Meus proprios</text>
+88|<text>Mostrar meus marcadores no mapa</text>
+91|<text>Missoes</text>
+94|<text>Mostrar informacoes da missao</text>
+97|<text>Ranking</text>
+100|<text>Mostrar rankings dos melhores stalkers</text>
+103|<text>Reputacao</text>
+106|<text>Estatisticas</text>
+109|<text>Mostrar estatisticas de progresso</text>
+112|<text>Editar descricao</text>
+115|<text>Deletar marcador</text>
+118|<text>Ir</text>
+121|<text>Mostrar marcadores no mapa</text>
+124|<text>Ativar marcador</text>
+127|<text>Alternar mapa/texto</text>
+130|<text>Posicao</text>
+133|<text>Deletar marcador</text>
+136|<text>Artefatos ganhos</text>
+139|<text>Relacoes com faccoes</text>
+142|<text>Mutantes mortos</text>
+145|<text>Missoes concluidas</text>
+148|<text>Stalkers mortos</text>
+151|<text>Este e voce</text>
+154|<text>Noticias</text>
+157|<text>Artefatos</text>
+160|<text>Informacao detalhada</text>
+163|<text>Mutantes mortos</text>
+166|<text>Estatisticas do jogador</text>
+169|<text>Missoes concluidas</text>
+172|<text>Stalkers mortos</text>
+175|<text>Reputacao:</text>
+178|<text>Estatisticas</text>
+181|<text>Informacao detalhada da missao</text>
+184|<text>Top 20 stalkers</text>
+187|<text>Total</text>
+190|<text>Mensagem</text>
+193|<text>Malha de fio de metal e integrada ao traje para protecao contra campos eletricos e magneticos. O conjunto tambem inclui um instrumento para visao noturna.</text>
+196|<text>Missoes</text>
+199|<text>Hora</text>
+202|<text>Aumentar zoom</text>
+205|<text>Diminuir zoom</text>

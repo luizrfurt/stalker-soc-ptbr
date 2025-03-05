@@ -1,0 +1,77 @@
+4|<text>Dinheiro</text>
+7|<text>Bonus do PDA</text>
+10|<text>Beber</text>
+13|<text>IP direto</text>
+16|<text>Padrao</text>
+19|<text>Densidade da grama</text>
+22|<text>Sombra do sol</text>
+25|<text>Sombra da grama</text>
+28|<text>Render 2</text>
+31|<text># /detalhes</text>
+34|<text>Cancelar</text>
+37|<text>Nao</text>
+40|<text>OK</text>
+43|<text>Sim</text>
+46|<text>Voce nao pode executar Render 2 no seu PC</text>
+49|<text>Erro de conexao: Host invalido</text>
+52|<text>Erro de conexao: Senha invalida</text>
+55|<text>Erro de conexao: conexao rejeitada pelo servidor</text>
+58|<text>Erro de conexao: sessao esta cheia</text>
+61|<text>Dias</text>
+64|<text>Erro</text>
+67|<text>O arquivo com este nome ja existe. Deseja sobrescreve-lo?</text>
+70|<text>O nome do arquivo esta vazio</text>
+73|<text>h.</text>
+76|<text>Sair</text>
+79|<text>min.</text>
+82|<text>meses</text>
+85|<text>Parametros</text>
+88|<text>seg.</text>
+91|<text>Selecione pelo menos um mapa</text>
+94|<text>Pegar tudo</text>
+97|<text>Restante</text>
+100|<text>Negociar</text>
+103|<text>A votacao esta desativada</text>
+106|<text>Deseja realmente sair do jogo?</text>
+109|<text>Itens a vender</text>
+112|<text>pressione ($$ACTION_JUMP$$) para sair para o menu principal</text>
+115|<text>Nivel</text>
+118|<text>Abrindo fluxo</text>
+121|<text>Carregando CFORM</text>
+124|<text>Pre-buscando objetos</text>
+127|<text>Criando novo jogo</text>
+130|<text>SERVIDOR: Carregando simulador alife</text>
+133|<text>SERVIDOR: Conectando</text>
+136|<text>Carregando jogo salvo</text>
+139|<text>Validando chave de CD</text>
+142|<text>Carregando objetos de IA</text>
+145|<text>CLIENTE: Conectando a</text>
+148|<text>CLIENTE: Gerando</text>
+151|<text>Carregando texturas</text>
+154|<text>CLIENTE: Sincronizando</text>
+157|<text>SERVIDOR: Iniciando</text>
+160|<text>Carregando shaders</text>
+163|<text>Carregando geometria</text>
+166|<text>Carregando spatial-DB</text>
+169|<text>Carregando detalhes</text>
+172|<text>Carregando setores e portais</text>
+175|<text>Erro de conexao: Versao diferente.</text>
+178|<text>Erro de conexao: Chave de CD invalida.</text>
+181|<text>Erro de conexao: Chave de CD ja em uso.</text>
+184|<text>Erro de conexao: Sua chave de CD esta desativada. Entre em contato com o servico de atendimento ao cliente.</text>
+187|<text>Novo patch disponivel.\n Versao: %s\n Localizacao: %s\nDeseja baixa-lo agora?</text>
+190|<text>Nenhum novo patch disponivel agora</text>
+193|<text>Deseja realmente deletar o arquivo?</text>
+196|<text>Pausar</text>
+199|<text>Parafuso</text>
+202|<text>Itens</text>
+205|<text>Video</text>
+208|<text>Som</text>
+211|<text>Jogo</text>
+214|<text>Controles</text>
+217|<text>Tentando conectar ao servidor mestre</text>
+220|<text>Apenas uma votacao ativa permitida</text>
+223|<text>Patch baixado com sucesso. Deseja instala-lo?</text>
+226|<text>Nao foi possivel baixar o patch.</text>
+229|<text>Carregar o jogo causara perda de dados nao salvos. Prosseguir?</text>
+232|<text>Versao do jogo salvo incompativel ou jogo salvo corrompido</text>

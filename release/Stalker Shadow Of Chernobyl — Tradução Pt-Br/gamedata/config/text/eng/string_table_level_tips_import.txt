@@ -1,0 +1,34 @@
+4|<text>Territorio Selvagem - Rostok</text>
+7|<text>Abrir a porta ($$ACTION_USE$$)</text>
+10|<text>Conversar ($$ACTION_USE$$)</text>
+13|<text>Revistar corpo ($$ACTION_USE$$) \n Arrastar corpo (SHIFT+$$ACTION_USE$$)</text>
+16|<text>Revistar corpo ($$ACTION_USE$$)</text>
+19|<text>Missao concluida:</text>
+22|<text>Missao falhou:</text>
+25|<text>Rapido, preciso de um kit medico! Estou morrendo aqui!</text>
+28|<text>Item recebido:</text>
+31|<text>Dinheiro recebido:</text>
+34|<text>Nova entrada no diario.</text>
+37|<text>Novo artigo da enciclopedia.</text>
+40|<text>Nova missao:</text>
+43|<text>Item perdido:</text>
+46|<text>Dinheiro perdido:</text>
+49|<text>Missao atualizada:</text>
+52|<text>Mover objeto ($$ACTION_USE$$)</text>
+55|<text>Fechadura de combinacao ($$ACTION_USE$$)</text>
+58|<text>Para Usina Nuclear de Chernobyl</text>
+61|<text>Para Agroprom</text>
+64|<text>Para as catacumbas</text>
+67|<text>Para Rostok</text>
+70|<text>Para o Vale Sombrio</text>
+73|<text>Para o Cordon</text>
+76|<text>Para o Lixao</text>
+79|<text>Para os armazens</text>
+82|<text>Para Prypiat</text>
+85|<text>Para o Desintegrador Psiquico</text>
+88|<text>Para o Territorio Selvagem</text>
+91|<text>Para Yantar</text>
+94|<text>Desligamento da protecao</text>
+97|<text>Nivel critico de emissao psi. Saia da zona perigosa imediatamente.</text>
+100|<text>Nivel de radiacao perigoso. Protecao necessaria para passar.</text>
+103|<text>Informacao encontrada:</text>

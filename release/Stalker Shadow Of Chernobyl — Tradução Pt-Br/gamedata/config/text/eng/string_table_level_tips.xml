@@ -19,7 +19,7 @@
 		<text>Missao concluida:</text>
 	</string>
 	<string id="general_fail_task">
-		<text>Missao fracassada:</text>
+		<text>Missao falhou:</text>
 	</string>
 	<string id="general_help">
 		<text>Rapido, preciso de um kit medico! Estou morrendo aqui!</text>
@@ -34,7 +34,7 @@
 		<text>Nova entrada no diario.</text>
 	</string>
 	<string id="general_new_encyclopedy">
-		<text>Novo artigo na enciclopedia.</text>
+		<text>Novo artigo da enciclopedia.</text>
 	</string>
 	<string id="general_new_task">
 		<text>Nova missao:</text>
@@ -52,16 +52,16 @@
 		<text>Mover objeto ($$ACTION_USE$$)</text>
 	</string>
 	<string id="st_codelock">
-		<text>Fechadura numerica ($$ACTION_USE$$)</text>
+		<text>Fechadura de combinacao ($$ACTION_USE$$)</text>
 	</string>
 	<string id="to_aes">
 		<text>Para Usina Nuclear de Chernobyl</text>
 	</string>
 	<string id="to_agroprom">
-		<text>Para o Instituto de Pesquisa Agroprom</text>
+		<text>Para Agroprom</text>
 	</string>
 	<string id="to_agroprom_underground">
-		<text>Para o Agroprom Subsolo</text>
+		<text>Para as catacumbas</text>
 	</string>
 	<string id="to_bar">
 		<text>Para Rostok</text>
@@ -76,10 +76,10 @@
 		<text>Para o Lixao</text>
 	</string>
 	<string id="to_military">
-		<text>Para o Armazens militares</text>
+		<text>Para os armazens</text>
 	</string>
 	<string id="to_pripyat">
-		<text>Para Pripyat</text>
+		<text>Para Prypiat</text>
 	</string>
 	<string id="to_radar">
 		<text>Para o Desintegrador Psiquico</text>
@@ -91,13 +91,13 @@
 		<text>Para Yantar</text>
 	</string>
 	<string id="st_helmet_countdown">
-		<text>Desativacao da protecao</text>
+		<text>Desligamento da protecao</text>
 	</string>
 	<string id="st_psy_danger">
-		<text>Nivel critico de emissao psiquica. Deixe a area perigosa imediatamente.</text>
+		<text>Nivel critico de emissao psi. Saia da zona perigosa imediatamente.</text>
 	</string>
 	<string id="st_radiation_danger">
-		<text>Nivel perigoso de radiacao. Protecao necessaria para prosseguir.</text>
+		<text>Nivel de radiacao perigoso. Protecao necessaria para passar.</text>
 	</string>
 	<string id="st_found_new_pda">
 		<text>Informacao encontrada:</text>

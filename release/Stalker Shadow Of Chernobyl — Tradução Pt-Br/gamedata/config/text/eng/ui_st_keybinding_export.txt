@@ -1,0 +1,68 @@
+4|<text>Active tasks in PDA</text>
+7|<text>Low crouch</text>
+10|<text>Artifact</text>
+13|<text>Back</text>
+16|<text>Binoculars</text>
+19|<text>Buy menu</text>
+22|<text>Chat</text>
+25|<text>Team chat</text>
+28|<text>Console</text>
+31|<text>PDA contacts</text>
+34|<text>Crouch</text>
+37|<text>Always crouch</text>
+40|<text>Down</text>
+43|<text>Drop</text>
+46|<text>Fire</text>
+49|<text>Next firing mode</text>
+52|<text>Previous firing mode</text>
+55|<text>Forward</text>
+58|<text>Grenade launcher</text>
+61|<text>General</text>
+64|<text>Direction</text>
+67|<text>Inventory</text>
+70|<text>Movement</text>
+73|<text>Multiplayer</text>
+76|<text>Weapon</text>
+79|<text>Inventory</text>
+82|<text>Jump</text>
+85|<text>Left</text>
+88|<text>Lean left</text>
+91|<text>Strafe left</text>
+94|<text>PDA map</text>
+97|<text>Weapon in next slot</text>
+100|<text>Night vision</text>
+103|<text>Pause</text>
+106|<text>PDA</text>
+109|<text>Weapon in previous slot</text>
+112|<text>Exit</text>
+115|<text>Reload</text>
+118|<text>Repair</text>
+121|<text>Right</text>
+124|<text>Lean right</text>
+127|<text>Strafe right</text>
+130|<text>Points</text>
+133|<text>Screenshot</text>
+136|<text>Skin Menu</text>
+139|<text>Sprint</text>
+142|<text>Team Menu</text>
+145|<text>Flashlight</text>
+148|<text>Turn on</text>
+151|<text>Up</text>
+154|<text>Use</text>
+157|<text>Quick bandage</text>
+160|<text>Quick medkit</text>
+163|<text>Begin voting</text>
+166|<text>Vote</text>
+169|<text>Vote "Yes"</text>
+172|<text>Vote "No"</text>
+175|<text>Weapon 1</text>
+178|<text>Weapon 2</text>
+181|<text>Weapon 3</text>
+184|<text>Weapon 4</text>
+187|<text>Weapon 5</text>
+190|<text>Weapon 6</text>
+193|<text>Change ammo type</text>
+196|<text>Prev weapon of this type</text>
+199|<text>Zoom</text>
+202|<text>Voice messages (1)</text>
+205|<text>Voice messages (2)</text>

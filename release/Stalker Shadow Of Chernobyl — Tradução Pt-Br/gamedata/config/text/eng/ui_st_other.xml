@@ -4,7 +4,7 @@
 		<text>Dinheiro</text>
 	</string>
 	<string id="mm_mp_pda_hunt">
-		<text>Bonus PDA</text>
+		<text>Bonus do PDA</text>
 	</string>
 	<string id="st_drink">
 		<text>Beber</text>
@@ -28,7 +28,7 @@
 		<text>Render 2</text>
 	</string>
 	<string id="ui_pda_details">
-		<text># / Detalhes</text>
+		<text># /detalhes</text>
 	</string>
 	<string id="ui_st_btn_cancel">
 		<text>Cancelar</text>
@@ -43,7 +43,7 @@
 		<text>Sim</text>
 	</string>
 	<string id="ui_st_cant_run_r2">
-		<text>Voce nao pode rodar o Render 2 no seu PC</text>
+		<text>Voce nao pode executar Render 2 no seu PC</text>
 	</string>
 	<string id="ui_st_conn_invalid_host">
 		<text>Erro de conexao: Host invalido</text>
@@ -52,10 +52,10 @@
 		<text>Erro de conexao: Senha invalida</text>
 	</string>
 	<string id="ui_st_conn_rejected_server">
-		<text>Erro de conexao: Conexao rejeitada pelo servidor</text>
+		<text>Erro de conexao: conexao rejeitada pelo servidor</text>
 	</string>
 	<string id="ui_st_conn_sess_full">
-		<text>Erro de conexao: Sessao cheia</text>
+		<text>Erro de conexao: sessao esta cheia</text>
 	</string>
 	<string id="ui_st_days">
 		<text>Dias</text>
@@ -64,13 +64,13 @@
 		<text>Erro</text>
 	</string>
 	<string id="ui_st_file_exist_owerwrite_q">
-		<text>O arquivo com este nome ja existe. Voce quer sobrescreve-lo?</text>
+		<text>O arquivo com este nome ja existe. Deseja sobrescreve-lo?</text>
 	</string>
 	<string id="ui_st_file_name_is_empty">
 		<text>O nome do arquivo esta vazio</text>
 	</string>
 	<string id="ui_st_hours">
-		<text>hr.</text>
+		<text>h.</text>
 	</string>
 	<string id="ui_st_leave">
 		<text>Sair</text>
@@ -94,49 +94,49 @@
 		<text>Pegar tudo</text>
 	</string>
 	<string id="ui_st_time_remains">
-		<text>Tempo restante</text>
+		<text>Restante</text>
 	</string>
 	<string id="ui_st_trade">
 		<text>Negociar</text>
 	</string>
 	<string id="ui_st_voting_disabled">
-		<text>Votacao desabilitada</text>
+		<text>A votacao esta desativada</text>
 	</string>
 	<string id="ui_st_want_to_leave_game_q">
-		<text>Voce tem certeza que quer sair do jogo?</text>
+		<text>Deseja realmente sair do jogo?</text>
 	</string>
 	<string id="ui_st_your_items">
-		<text>Itens para vender</text>
+		<text>Itens a vender</text>
 	</string>
 	<string id="st_game_over_press_jump">
-		<text>Pressione ($$ACTION_JUMP$$) para voltar ao menu principal</text>
+		<text>pressione ($$ACTION_JUMP$$) para sair para o menu principal</text>
 	</string>
 	<string id="st_level">
 		<text>Nivel</text>
 	</string>
 	<string id="st_opening_stream">
-		<text>Abrindo stream</text>
+		<text>Abrindo fluxo</text>
 	</string>
 	<string id="st_loading_cform">
 		<text>Carregando CFORM</text>
 	</string>
 	<string id="st_prefetching_objects">
-		<text>Precarregando objetos</text>
+		<text>Pre-buscando objetos</text>
 	</string>
 	<string id="st_creating_new_game">
 		<text>Criando novo jogo</text>
 	</string>
 	<string id="st_loading_alife_simulator">
-		<text>SERVER: Carregando simulador alife</text>
+		<text>SERVIDOR: Carregando simulador alife</text>
 	</string>
 	<string id="st_server_connecting">
-		<text>SERVER: Conectando</text>
+		<text>SERVIDOR: Conectando</text>
 	</string>
 	<string id="st_loading_saved_game">
 		<text>Carregando jogo salvo</text>
 	</string>
 	<string id="st_validating_cdkey">
-		<text>Validando CD Key</text>
+		<text>Validando chave de CD</text>
 	</string>
 	<string id="st_loading_ai_objects">
 		<text>Carregando objetos de IA</text>
@@ -154,7 +154,7 @@
 		<text>CLIENTE: Sincronizando</text>
 	</string>
 	<string id="st_server_starting">
-		<text>SERVER: Iniciando</text>
+		<text>SERVIDOR: Iniciando</text>
 	</string>
 	<string id="st_loading_shaders">
 		<text>Carregando shaders</text>
@@ -163,7 +163,7 @@
 		<text>Carregando geometria</text>
 	</string>
 	<string id="st_loading_spatial_db">
-		<text>Carregando banco de dados espacial</text>
+		<text>Carregando spatial-DB</text>
 	</string>
 	<string id="st_loading_details">
 		<text>Carregando detalhes</text>
@@ -175,25 +175,25 @@
 		<text>Erro de conexao: Versao diferente.</text>
 	</string>
 	<string id="ui_st_conn_cdkey_invalid">
-		<text>Erro de conexao: CD-Key invalido.</text>
+		<text>Erro de conexao: Chave de CD invalida.</text>
 	</string>
 	<string id="ui_st_conn_cdkey_in_use">
-		<text>Erro de conexao: CD-Key ja em uso.</text>
+		<text>Erro de conexao: Chave de CD ja em uso.</text>
 	</string>
 	<string id="ui_st_conn_cdkey_disabled">
-		<text>Erro de conexao: Seu CD-Key esta desabilitado. Contate o suporte.</text>
+		<text>Erro de conexao: Sua chave de CD esta desativada. Entre em contato com o servico de atendimento ao cliente.</text>
 	</string>
 	<string id="ui_st_conn_new_patch">
-		<text>Novo patch disponivel.\n Versao: %s\n Localizacao: %s\nVoce quer baixar agora?</text>
+		<text>Novo patch disponivel.\n Versao: %s\n Localizacao: %s\nDeseja baixa-lo agora?</text>
 	</string>
 	<string id="ui_st_conn_no_new_patch">
-		<text>Sem novos patches disponiveis no momento</text>
+		<text>Nenhum novo patch disponivel agora</text>
 	</string>
 	<string id="ui_mm_delete_existing_file_q">
-		<text>Voce tem certeza que quer deletar o arquivo?</text>
+		<text>Deseja realmente deletar o arquivo?</text>
 	</string>
 	<string id="st_game_paused">
-		<text>Pausa</text>
+		<text>Pausar</text>
 	</string>
 	<string id="st_bolt">
 		<text>Parafuso</text>
@@ -214,21 +214,21 @@
 		<text>Controles</text>
 	</string>
 	<string id="ui_st_connecting_to_masterserver">
-		<text>Tentando conectar ao servidor principal</text>
+		<text>Tentando conectar ao servidor mestre</text>
 	</string>
 	<string id="mp_only_one_voting">
-		<text>Somente uma votacao ativa e permitida</text>
+		<text>Apenas uma votacao ativa permitida</text>
 	</string>
 	<string id="ui_st_patch_download_success">
-		<text>Patch baixado com sucesso. Voce deseja instala-lo?</text>
+		<text>Patch baixado com sucesso. Deseja instala-lo?</text>
 	</string>
 	<string id="ui_st_patch_download_error">
-		<text>Falha ao baixar o patch.</text>
+		<text>Nao foi possivel baixar o patch.</text>
 	</string>
 	<string id="ui_st_load_game_confirm">
-		<text>Carregar o jogo ira perder os dados nao salvos. Continuar?</text>
+		<text>Carregar o jogo causara perda de dados nao salvos. Prosseguir?</text>
 	</string>
-	<string id="ui_st_invalid_saved_game">
-		<text>Versao incompativel do jogo salvo ou arquivo corrompido</text>
+        	<string id="ui_st_invalid_saved_game">
+		<text>Versao do jogo salvo incompativel ou jogo salvo corrompido</text>
 	</string>
 </string_table>

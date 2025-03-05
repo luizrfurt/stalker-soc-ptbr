@@ -1,0 +1,77 @@
+4|<text>Money</text>
+7|<text>PDA bonus</text>
+10|<text>drink</text>
+13|<text>Direct IP</text>
+16|<text>Default</text>
+19|<text>Grass density</text>
+22|<text>Sun shadow</text>
+25|<text>Grass shadow</text>
+28|<text>Render 2</text>
+31|<text># /details</text>
+34|<text>Cancel</text>
+37|<text>No</text>
+40|<text>OK</text>
+43|<text>Yes</text>
+46|<text>You can't run Render 2 on your PC</text>
+49|<text>Connection error: Invalid host</text>
+52|<text>Connection error: Invalid password</text>
+55|<text>Connection error: connection rejected by server</text>
+58|<text>Connection error: session is full</text>
+61|<text>Days</text>
+64|<text>Error</text>
+67|<text>The file with this name already exists. Do you want to overwrite it?</text>
+70|<text>The file name is empty</text>
+73|<text>hr.</text>
+76|<text>Leave</text>
+79|<text>mins</text>
+82|<text>months</text>
+85|<text>Parameters</text>
+88|<text>sec.</text>
+91|<text>Please select at least one map</text>
+94|<text>Take all</text>
+97|<text>Remaining</text>
+100|<text>Trade</text>
+103|<text>Voting is disabled</text>
+106|<text>Do you really want to leave the game?</text>
+109|<text>Your items</text>
+112|<text>press ($$ACTION_JUMP$$) to exit to main menu</text>
+115|<text>Level</text>
+118|<text>Opening stream</text>
+121|<text>Loading CFORM</text>
+124|<text>Prefetching objects</text>
+127|<text>Creating new game</text>
+130|<text>SERVER: Loading alife simulator</text>
+133|<text>SERVER: Connecting</text>
+136|<text>Loading saved game</text>
+139|<text>Validating CD Key</text>
+142|<text>Loading AI objects</text>
+145|<text>CLIENT: Connecting to</text>
+148|<text>CLIENT: Spawning</text>
+151|<text>Loading textures</text>
+154|<text>CLIENT: Synchronizing</text>
+157|<text>SERVER: Starting</text>
+160|<text>Loading shaders</text>
+163|<text>Loading geometry</text>
+166|<text>Loading spatial-DB</text>
+169|<text>Loading details</text>
+172|<text>Loading sectors & portals</text>
+175|<text>Connection error: Different version.</text>
+178|<text>Connection error: Invalid CD-Key.</text>
+181|<text>Connection error: CD-Key already in use.</text>
+184|<text>Connection error: Your CD-Key is disabled. Contact customer's service.</text>
+187|<text>New patch is available.\n Version: %s\n Location: %s\nDo you want to download it now?</text>
+190|<text>No new patches available now</text>
+193|<text>You really want to delete file?</text>
+196|<text>Pause</text>
+199|<text>Bolt</text>
+202|<text>Items</text>
+205|<text>Video</text>
+208|<text>Sound</text>
+211|<text>Game</text>
+214|<text>Controls</text>
+217|<text>Trying to connect to master server</text>
+220|<text>Only one active voting allowed</text>
+223|<text>Patch was successfully downloaded. Do you want to install it?</text>
+226|<text>Unable to download the patch.</text>
+229|<text>Loading game will cause losing non-saved data. Proceed?</text>
+232|<text>Saved game version mismatch or saved game is corrupted</text>

@@ -1,0 +1,68 @@
+4|<text>Missoes ativas no PDA</text>
+7|<text>Agachar baixo</text>
+10|<text>Artefato</text>
+13|<text>Voltar</text>
+16|<text>Binoculos</text>
+19|<text>Menu de compra</text>
+22|<text>Bate-papo</text>
+25|<text>Bate-papo da equipe</text>
+28|<text>Console</text>
+31|<text>Contatos do PDA</text>
+34|<text>Agachar</text>
+37|<text>Sempre agachar</text>
+40|<text>Para baixo</text>
+43|<text>Soltar</text>
+46|<text>Atirar</text>
+49|<text>Proximo modo de disparo</text>
+52|<text>Modo de disparo anterior</text>
+55|<text>Para frente</text>
+58|<text>Lancador de granadas</text>
+61|<text>Geral</text>
+64|<text>Direcao</text>
+67|<text>Inventario</text>
+70|<text>Movimento</text>
+73|<text>Multijogador</text>
+76|<text>Arma</text>
+79|<text>Inventario</text>
+82|<text>Pular</text>
+85|<text>Esquerda</text>
+88|<text>Inclinar para a esquerda</text>
+91|<text>Mover para a esquerda</text>
+94|<text>Mapa do PDA</text>
+97|<text>Arma no proximo slot</text>
+100|<text>Visao noturna</text>
+103|<text>Pausar</text>
+106|<text>PDA</text>
+109|<text>Arma no slot anterior</text>
+112|<text>Sair</text>
+115|<text>Recarregar</text>
+118|<text>Reparar</text>
+121|<text>Direita</text>
+124|<text>Inclinar para a direita</text>
+127|<text>Mover para a direita</text>
+130|<text>Pontos</text>
+133|<text>Captura de tela</text>
+136|<text>Menu de Skins</text>
+139|<text>Correr</text>
+142|<text>Menu da Equipe</text>
+145|<text>Lanterna</text>
+148|<text>Ligar</text>
+151|<text>Para cima</text>
+154|<text>Usar</text>
+157|<text>Bandagem rapida</text>
+160|<text>Kit medico rapido</text>
+163|<text>Iniciar votacao</text>
+166|<text>Votar</text>
+169|<text>Votar "Sim"</text>
+172|<text>Votar "Nao"</text>
+175|<text>Arma 1</text>
+178|<text>Arma 2</text>
+181|<text>Arma 3</text>
+184|<text>Arma 4</text>
+187|<text>Arma 5</text>
+190|<text>Arma 6</text>
+193|<text>Mudar tipo de municao</text>
+196|<text>Arma anterior deste tipo</text>
+199|<text>Zoom</text>
+202|<text>Mensagens de voz (1)</text>
+205|<text>Mensagens de voz (2)</text>

@@ -1,0 +1,88 @@
+4|<text>activate artifact</text>
+7|<text>attach grenade launcher to rifle</text>
+10|<text>attach scope to pistol</text>
+13|<text>attach scope to rifle</text>
+16|<text>attach silencer to pistol</text>
+19|<text>attach silencer to rifle</text>
+22|<text>price</text>
+25|<text>condition</text>
+28|<text>dismount grenade launcher</text>
+31|<text>dismount scope</text>
+34|<text>dismount silencer</text>
+37|<text>put on the suit</text>
+40|<text>drop</text>
+43|<text>drop everything</text>
+46|<text>eat</text>
+49|<text>attach to belt</text>
+52|<text>move to backpack</text>
+55|<text>move to slot</text>
+58|<text>sell item</text>
+61|<text>take off the suit</text>
+64|<text>unload</text>
+67|<text>use</text>
+70|<text>weight</text>
+73|<text>Accuracy</text>
+76|<text>Backpack</text>
+79|<text>Belt</text>
+82|<text>Cancel</text>
+85|<text>Clear</text>
+88|<text>Damage</text>
+91|<text>Description</text>
+94|<text>Take out</text>
+97|<text>Equipment</text>
+100|<text>Exit</text>
+103|<text>Buy grenades for the launcher (E)</text>
+106|<text>Handling</text>
+109|<text>Heavy</text>
+112|<text>List of items</text>
+115|<text>Money</text>
+118|<text>OK</text>
+121|<text>Burn</text>
+124|<text>Chemical burn</text>
+127|<text>Explosion</text>
+130|<text>Bulletproof cap</text>
+133|<text>Parameters</text>
+136|<text>Radiation</text>
+139|<text>Electric shock</text>
+142|<text>Impact</text>
+145|<text>Telepathy</text>
+148|<text>Rupture</text>
+151|<text>Suits</text>
+154|<text>Suit</text>
+157|<text>Pistols</text>
+160|<text>Primary</text>
+163|<text>Rate of fire</text>
+166|<text>Rest</text>
+169|<text>Assault rifles</text>
+172|<text>Shop</text>
+175|<text>Shotguns</text>
+178|<text>Sniper</text>
+181|<text>Time</text>
+184|<text>Total money</text>
+187|<text>Weight</text>
+190|<text>Buy basic ammo for pistol (Q)</text>
+193|<text>Buy ammo for rifle (W)</text>
+196|<text>Buy grenade launcher for rifle (D)</text>
+199|<text>Grenades</text>
+202|<text>Buy optic scope for rifle (S)</text>
+205|<text>Buy silencer for pistol (A)</text>
+208|<text>Buy silencer for rifle (F)</text>
+211|<text>Buy previous set</text>
+214|<text>Sell all items from backpack (X)</text>
+217|<text>Purchased set saved as</text>
+220|<text>Preset 1 (F1)</text>
+223|<text>Preset 2 (F2)</text>
+226|<text>Preset 3 (F3)</text>
+229|<text>Last items (F4)</text>
+232|<text>Default items (F5)</text>
+235|<text>Default items</text>
+238|<text>Reset items (C)</text>
+241|<text>Can't buy item</text>
+244|<text>Rank restriction</text>
+247|<text>Insufficient money</text>
+250|<text>Amount restrictions</text>
+253|<text>is now</text>
+256|<text>required</text>
+259|<text>You already have</text>
+262|<text>Online Services for S.T.A.L.K.E.R. are not available.</text>
+265|<text>Unable to connect to master server</text>

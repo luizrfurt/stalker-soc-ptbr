@@ -1,73 +1,73 @@
 <?xml version="1.0" encoding="windows-1251" ?>
 <string_table>
 	<string id="Clear">
-		<text>Limpo</text>
+		<text>limpo</text>
 	</string>
 	<string id="Cloudy">
-		<text>Nublado</text>
+		<text>nublado</text>
 	</string>
 	<string id="Default">
-		<text>Medio</text>
+		<text>medio</text>
 	</string>
 	<string id="Extreme">
-		<text>Maximo</text>
+		<text>maximo</text>
 	</string>
 	<string id="gd_master">
-		<text>Mestre</text>
+		<text>mestre</text>
 	</string>
 	<string id="gd_novice">
-		<text>Novato</text>
+		<text>novato</text>
 	</string>
 	<string id="gd_stalker">
-		<text>Stalker</text>
+		<text>stalker</text>
 	</string>
 	<string id="gd_veteran">
-		<text>Veterano</text>
+		<text>veterano</text>
 	</string>
 	<string id="High">
-		<text>Alto</text>
+		<text>alto</text>
 	</string>
 	<string id="Low">
-		<text>Baixo</text>
+		<text>baixo</text>
 	</string>
 	<string id="Minimum">
-		<text>Minimo</text>
+		<text>minimo</text>
 	</string>
 	<string id="mm_mp_check_cdkey">
-		<text>Verificar CD-Key</text>
+		<text>verificar chave de CD</text>
 	</string>
 	<string id="Nigth">
-		<text>Noite</text>
+		<text>noite</text>
 	</string>
 	<string id="Rain">
-		<text>Chuvoso</text>
+		<text>chuvoso</text>
 	</string>
 	<string id="renderer_r1">
 		<text>Iluminacao estatica</text>
 	</string>
 	<string id="renderer_r2">
-		<text>Iluminacao dinamica total</text>
+		<text>Iluminacao dinamica completa</text>
 	</string>
 	<string id="renderer_r2a">
 		<text>Iluminacao dinamica de objetos</text>
 	</string>
 	<string id="st_artefacthunt">
-		<text>Cacada ao artefato</text>
+		<text>Caca ao artefato</text>
 	</string>
 	<string id="st_deathmatch">
-		<text>Cada um por si</text>
+		<text>Livre para todos</text>
 	</string>
 	<string id="st_rank_experienced">
 		<text>Experiente</text>
 	</string>
 	<string id="st_rank_legend">
-		<text>Stalker lendario</text>
+		<text>stalker lendario</text>
 	</string>
 	<string id="st_rank_novice">
-		<text>Novato</text>
+		<text>novato</text>
 	</string>
 	<string id="st_rank_professional">
-		<text>Profissional</text>
+		<text>profissional</text>
 	</string>
 	<string id="st_rank_veteran">
 		<text>Veterano</text>
@@ -88,7 +88,7 @@
 		<text>Fabrica "Yantar"</text>
 	</string>
 	<string id="testers_mp_lost_village">
-		<text>Aldeia abandonada</text>
+		<text>Vila desolada</text>
 	</string>
 	<string id="testers_mp_military_1">
 		<text>Armazens militares</text>
@@ -109,13 +109,13 @@
 		<text>Frequencia 60Hz</text>
 	</string>
 	<string id="ui_mm_action">
-		<text>Acao</text>
+		<text>acao</text>
 	</string>
 	<string id="ui_mm_advanced">
 		<text>Avancado</text>
 	</string>
 	<string id="ui_mm_anisotropic">
-		<text>Filtro anisotropico</text>
+		<text>Filtragem anisotropica</text>
 	</string>
 	<string id="ui_mm_apply">
 		<text>Aplicar</text>
@@ -154,7 +154,7 @@
 		<text>Desconectar</text>
 	</string>
 	<string id="ui_mm_disconnect_message">
-		<text>Tem certeza que deseja desconectar?</text>
+		<text>Tem certeza de que deseja desconectar?</text>
 	</string>
 	<string id="ui_mm_dyn_crosshair">
 		<text>Mira dinamica</text>
@@ -169,124 +169,25 @@
 		<text>Jogo</text>
 	</string>
 	<string id="ui_mm_gamma">
-		<text>Gamma</text>
+		<text>Gama</text>
 	</string>
 	<string id="ui_mm_geometry_lod">
-		<text>Detalhe dos objetos</text>
+		<text>Detalhe de objetos</text>
 	</string>
 	<string id="ui_mm_invert_mouse">
 		<text>Inverter mouse</text>
 	</string>
 	<string id="ui_mm_key">
-		<text>Botao</text>
+		<text>botao</text>
 	</string>
 	<string id="ui_mm_keyboard_setup">
 		<text>Configuracao do teclado</text>
 	</string>
 	<string id="ui_mm_last_save">
-		<text>Ultimo salvamento</text>
+		<text>Ultimo save</text>
 	</string>
 	<string id="ui_mm_light_distance">
-		<text>Distancia da iluminacao</text>
-	</string>
-	<string id="ui_mm_load">
-		<text>Carregar</text>
-	</string>
-	<string id="ui_mm_load_game">
-		<text>Carregar jogo</text>
-	</string>
-	<string id="ui_mm_master">
-		<text>Mestre</text>
-	</string>
-	<string id="testers_mp_rostok">
-		<text>Fabrica "Rostok"</text>
-	</string>
-	<string id="testers_mp_workshop">
-		<text>Fabrica abandonada</text>
-	</string>
-	<string id="ui_mm_60_hz">
-		<text>Frequencia 60Hz</text>
-	</string>
-	<string id="ui_mm_action">
-		<text>Acao</text>
-	</string>
-	<string id="ui_mm_advanced">
-		<text>Avancado</text>
-	</string>
-	<string id="ui_mm_anisotropic">
-		<text>Filtro anisotropico</text>
-	</string>
-	<string id="ui_mm_apply">
-		<text>Aplicar</text>
-	</string>
-	<string id="ui_mm_back">
-		<text>Voltar</text>
-	</string>
-	<string id="ui_mm_blood">
-		<text>Sangue</text>
-	</string>
-	<string id="ui_mm_brightness">
-		<text>Brilho</text>
-	</string>
-	<string id="ui_mm_cancel">
-		<text>Cancelar</text>
-	</string>
-	<string id="ui_mm_contrast">
-		<text>Contraste</text>
-	</string>
-	<string id="ui_mm_controls">
-		<text>Controles</text>
-	</string>
-	<string id="ui_mm_credits">
-		<text>Creditos</text>
-	</string>
-	<string id="ui_mm_crosshair_distance">
-		<text>Distancia do alvo da mira</text>
-	</string>
-	<string id="ui_mm_delete">
-		<text>Excluir</text>
-	</string>
-	<string id="ui_mm_difficulty">
-		<text>Dificuldade</text>
-	</string>
-	<string id="ui_mm_disconnect">
-		<text>Desconectar</text>
-	</string>
-	<string id="ui_mm_disconnect_message">
-		<text>Tem certeza que deseja desconectar?</text>
-	</string>
-	<string id="ui_mm_dyn_crosshair">
-		<text>Mira dinamica</text>
-	</string>
-	<string id="ui_mm_eax">
-		<text>EAX</text>
-	</string>
-	<string id="ui_mm_fullscreen">
-		<text>Tela cheia</text>
-	</string>
-	<string id="ui_mm_gameplay">
-		<text>Jogo</text>
-	</string>
-	<string id="ui_mm_gamma">
-		<text>Gamma</text>
-	</string>
-	<string id="ui_mm_geometry_lod">
-		<text>Detalhe dos objetos</text>
-	</string>
-	<string id="ui_mm_invert_mouse">
-		<text>Inverter mouse</text>
-	</string>
-	<string id="ui_mm_key">
-		<text>Botao</text>
-	</string>
-	<string id="ui_mm_keyboard_setup">
-		<text>Configurar teclado</text>
-	</string>
-	<string id="ui_mm_last_save">
-		<text>Ultimo salvamento</text>
-	</string>
-	<string id="ui_mm_light_distance">
-		<text>Distancia da iluminacao</text>
+		<text>Distancia de iluminacao</text>
 	</string>
 	<string id="ui_mm_load">
 		<text>Carregar</text>
@@ -298,7 +199,7 @@
 		<text>Mestre</text>
 	</string>
 	<string id="ui_mm_master_volume">
-		<text>Volume SFX</text>
+		<text>Volume de SFX</text>
 	</string>
 	<string id="ui_mm_mouse_sense">
 		<text>Sensibilidade do mouse</text>
@@ -313,7 +214,7 @@
 		<text>Volume da musica</text>
 	</string>
 	<string id="ui_mm_need_restart">
-		<text>As alteracoes terao efeito apenas apos reiniciar o jogo</text>
+		<text>As alteracoes terao efeito somente apos reiniciar o jogo</text>
 	</string>
 	<string id="ui_mm_newgame">
 		<text>Novo jogo</text>
@@ -322,7 +223,7 @@
 		<text>Novato</text>
 	</string>
 	<string id="ui_mm_npc_torch">
-		<text>Lanternas dos NPCs</text>
+		<text>Lanternas de NPCs</text>
 	</string>
 	<string id="ui_mm_options">
 		<text>OPCOES</text>
@@ -331,7 +232,7 @@
 		<text>Opcoes</text>
 	</string>
 	<string id="ui_mm_particles_distance">
-		<text>Distancia das particulas</text>
+		<text>Distancia de particulas</text>
 	</string>
 	<string id="ui_mm_quality_presets">
 		<text>Configuracoes de qualidade</text>
@@ -340,16 +241,16 @@
 		<text>Sair do jogo</text>
 	</string>
 	<string id="ui_mm_quit_game_message">
-		<text>Tem certeza que deseja sair do jogo?</text>
+		<text>Tem certeza de que deseja sair do jogo?</text>
 	</string>
 	<string id="ui_mm_quit_windows_message">
-		<text>Tem certeza que deseja sair para o Windows?</text>
+		<text>Tem certeza de que deseja sair para o Windows?</text>
 	</string>
 	<string id="ui_mm_quit2windows">
 		<text>Sair para o Windows</text>
 	</string>
 	<string id="ui_mm_renderer">
-		<text>Renderizacao</text>
+		<text>Renderizar</text>
 	</string>
 	<string id="ui_mm_resolution">
 		<text>Resolucao</text>
@@ -364,10 +265,10 @@
 		<text>Salvar jogo</text>
 	</string>
 	<string id="ui_mm_show_crosshair">
-		<text>Exibir mira</text>
+		<text>Mostrar mira</text>
 	</string>
 	<string id="ui_mm_show_weapon">
-		<text>Exibir arma</text>
+		<text>Mostrar arma</text>
 	</string>
 	<string id="ui_mm_simply">
 		<text>Basico</text>
@@ -409,7 +310,7 @@
 		<text>Sincronizacao vertical</text>
 	</string>
 	<string id="ui_st_last_set">
-		<text>Ultima configuracao</text>
+		<text>Ultima predefinicao</text>
 	</string>
 	<string id="ui_st_preset1">
 		<text>Predefinicao 1</text>

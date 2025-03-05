@@ -1,0 +1,79 @@
+4|<text>GAME TYPE</text>
+7|<text>ICONS</text>
+10|<text>MAP</text>
+13|<text>Allow voting</text>
+16|<text>Anomaly time (min)</text>
+19|<text>Artifact capture</text>
+22|<text>Artifact delay (sec)</text>
+25|<text>Number of artifacts</text>
+28|<text>Artifact life (min)</text>
+31|<text>Auto team-balancing</text>
+34|<text>Auto team-swap</text>
+37|<text>AVAILABLE MAPS</text>
+40|<text>Cancel</text>
+43|<text>CD-Key</text>
+46|<text>Client</text>
+49|<text>Create</text>
+52|<text>Invulnerability</text>
+55|<text>Invulnerability indicator</text>
+58|<text>Deaths</text>
+61|<text>Dedicated</text>
+64|<text>Empty</text>
+67|<text>Filters</text>
+70|<text>Forced respawn (s)</text>
+73|<text>Frag limit</text>
+76|<text>Frags</text>
+79|<text>Freeze time</text>
+82|<text>Friendly damage</text>
+85|<text>Friendly indicators</text>
+88|<text>Friendly names</text>
+91|<text>Full</text>
+94|<text>Mode</text>
+97|<text>IP/host:port</text>
+100|<text>Internet</text>
+103|<text>Join</text>
+106|<text>LAN</text>
+109|<text>Listen</text>
+112|<text>Map list</text>
+115|<text>Max players</text>
+118|<text>Network connection</text>
+121|<text>No anomalies</text>
+124|<text>Options</text>
+127|<text>Password</text>
+130|<text>Player name:</text>
+133|<text>Players</text>
+136|<text>Public server</text>
+139|<text>Quick refresh</text>
+142|<text>Change coefficient</text>
+145|<text>Refresh all</text>
+148|<text>Reinforcements (s)</text>
+151|<text>Respawn options</text>
+154|<text>SELECTED MAPS</text>
+157|<text>Server</text>
+160|<text>Server list</text>
+163|<text>Server properties</text>
+166|<text>Server info</text>
+169|<text>Server</text>
+172|<text>Server name</text>
+175|<text>Server settings</text>
+178|<text>Spectator</text>
+181|<text>First person</text>
+184|<text>Free camera</text>
+187|<text>Free-locked</text>
+190|<text>Third person</text>
+193|<text>Spectator settings</text>
+196|<text>Team only</text>
+199|<text>Starting weather</text>
+202|<text>Time limit (min)</text>
+205|<text>Warmup (sec)</text>
+208|<text>Weather options</text>
+211|<text>No friendly fire</text>
+214|<text>No password</text>
+217|<text>No PunkBuster</text>
+220|<text>Use password</text>
+223|<text>Vote FOR-[$$ACTION_VOTE_YES$$]\nVote AGAINST-[$$ACTION_VOTE_NO$$]\nResults-[$$ACTION_VOTE$$]</text>
+226|<text>PING</text>
+229|<text>PLAYERS</text>
+232|<text>SERVER NAME</text>
+235|<text>Version</text>
+238|<text>Filter:</text>
