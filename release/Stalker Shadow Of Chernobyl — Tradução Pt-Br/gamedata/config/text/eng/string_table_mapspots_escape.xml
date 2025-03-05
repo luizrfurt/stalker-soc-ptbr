@@ -1,0 +1,48 @@
+	<string id="blokpost_case">
+		<text>Maleta com documentos</text>
+	</string>
+	<string id="esc_fox">
+		<text>Fox ferido</text>
+	</string>
+	<string id="esc_mill">
+		<text>Moinho abandonado. O irmao ferido foi visto por aqui pela ultima vez</text>
+	</string>
+	<string id="escape_trader">
+		<text>Comerciante</text>
+	</string>
+	<string id="factory_bandits">
+		<text>Bandidos na fabrica</text>
+	</string>
+	<string id="killers_team">
+		<text>Um grupo desconhecido de Mercs</text>
+	</string>
+	<string id="novice_leader">
+		<text>Lider do acampamento de novatos</text>
+	</string>
+	<string id="soldiers_bridge">
+		<text>Ponto de controle militar na ponte destruida. Os soldados sao conhecidos por aceitar suborno para deixar as pessoas passarem</text>
+	</string>
+	<string id="tutorial_artefact">
+		<text>Artefato</text>
+	</string>
+	<string id="tutorial_bandits">
+		<text>Bandidos que pararam nosso explorador</text>
+	</string>
+	<string id="tutorial_secret">
+		<text>Esconderijo de um Stalker morto</text>
+	</string>
+	<string id="tutorial_secret_place1">
+		<text>Esconderijo de um Stalker morto</text>
+	</string>
+	<string id="tutorial_secret_shustryi">
+		<text>Esconderijo de Nimble</text>
+	</string>
+	<string id="tutorial_wounded">
+		<text>Nimble, um prisioneiro</text>
+	</string>
+	<string id="volk">
+		<text>Wolf, o lider do acampamento de novatos</text>
+	</string>
+	<string id="wolfs_rangers">
+		<text>Exploradores de Wolf</text>
+	</string>

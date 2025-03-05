@@ -1,0 +1,75 @@
+	<string id="yan_find_ghost">
+		<text>Pegar os documentos de Ghost</text>
+	</string>
+	<string id="yan_find_ghost_task">
+		<text>Pegar os documentos</text>
+	</string>
+	<string id="yan_find_vasilyev_task">
+		<text>Entrar no laboratorio</text>
+	</string>
+	<string id="yan_find_labX16">
+		<text>Entrar no Lab X-16</text>
+	</string>
+	<string id="yan_find_scientist">
+		<text>Fazer as mediccoes de radiacao</text>
+	</string>
+	<string id="yan_find_vasilyev">
+		<text>Revisar o corpo de Vasilyev</text>
+	</string>
+	<string id="yan_kill_brain">
+		<text>Desligar a emissoes psi</text>
+	</string>
+	<string id="yan_kill_brain_task">
+		<text>Desconectar o mecanismo</text>
+	</string>
+	<string id="yan_kill_brain_task_2">
+		<text>Sair do laboratorio</text>
+	</string>
+	<string id="yan_provodnik_about_doctor">
+		<text>Falar com Guide</text>
+	</string>
+	<string id="yan_provodnik_task">
+		<text>Encontrar Guide</text>
+	</string>
+	<string id="yan_psi_zone_find">
+		<text>Escoltar Kruglov ate o local de mediccao</text>
+	</string>
+	<string id="yan_psi_zone_find_semenov">
+		<text>Escoltar Semenov ate o local de mediccao</text>
+	</string>
+	<string id="yan_return_to_bunker">
+		<text>Levar os resultados para Sakharov</text>
+	</string>
+	<string id="yan_scientist_return">
+		<text>Falar com Sakharov</text>
+	</string>
+	<string id="yan_scientist_return_task">
+		<text>Falar com Sakharov</text>
+	</string>
+	<string id="yan_secret_tonnel">
+		<text>Sair pelo tunel secreto</text>
+	</string>
+	<string id="yan_switcher_off_1">
+		<text>Desligar o 1º modulo de controle</text>
+	</string>
+	<string id="yan_switcher_off_2">
+		<text>Desligar o 2º modulo de controle</text>
+	</string>
+	<string id="yan_switcher_off_3">
+		<text>Desligar o 3º modulo de controle</text>
+	</string>
+	<string id="yan_talk_to_kruglov">
+		<text>Falar com Kruglov</text>
+	</string>
+	<string id="yan_talk_to_semenov">
+		<text>Falar com Semenov</text>
+	</string>
+	<string id="yan_vasilyev_pda">
+		<text>PDA de Vasilyev</text>
+	</string>
+	<string id="yan_zombie_zone">
+		<text>Localizacao estimada do Lab X-16</text>
+	</string>
+	<string id="yan_zombie_zone_task">
+		<text>Encontrar o Lab X-16</text>
+	</string>

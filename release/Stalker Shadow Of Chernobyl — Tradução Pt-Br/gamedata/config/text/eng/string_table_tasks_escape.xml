@@ -1,0 +1,150 @@
+	<string id="esc_bandits_on_factory">
+		<text>Elimine os bandidos na fabrica</text>
+	</string>
+	<string id="esc_bandits_on_factory_0">
+		<text>Acabe com os bandidos que se esconderam na fabrica.</text>
+	</string>
+	<string id="esc_bandits_on_factory_1">
+		<text>Acabe com todos os bandidos na fabrica</text>
+	</string>
+	<string id="esc_bandits_on_factory_2">
+		<text>Fale com o comerciante</text>
+	</string>
+	<string id="esc_bandits_on_factory_3">
+		<text>Fale com o Wolf</text>
+	</string>
+	<string id="esc_blockpost_case_to_trader">
+		<text>Roube a caixa do posto militar</text>
+	</string>
+	<string id="esc_blockpost_case_to_trader_0">
+		<text>Roube a caixa com documentos importantes do posto militar.</text>
+	</string>
+	<string id="esc_blockpost_case_to_trader_1">
+		<text>Roube a caixa do posto militar</text>
+	</string>
+	<string id="esc_blockpost_case_to_trader_2">
+		<text>Leve a caixa ao comerciante</text>
+	</string>
+	<string id="esc_defend_lager">
+		<text>Proteja o acampamento dos novatos dos Mercs</text>
+	</string>
+	<string id="esc_defend_lager_from_killers_0">
+		<text>Proteja o acampamento dos novatos dos Mercs.</text>
+	</string>
+	<string id="esc_defend_lager_from_killers_1">
+		<text>Destrua os Mercs.</text>
+	</string>
+	<string id="esc_defend_lager_from_killers_2">
+		<text>Fale com o comandante dos novatos</text>
+	</string>
+	<string id="esc_dinamit_to_volk">
+		<text>Elimine os bandidos no estacionamento</text>
+	</string>
+	<string id="esc_dinamit_to_volk_0">
+		<text>Elimine os bandidos no estacionamento e reporte ao Wolf.</text>
+	</string>
+	<string id="esc_dinamit_to_volk_1">
+		<text>Encontre-se com os exploradores de Wolf</text>
+	</string>
+	<string id="esc_dinamit_to_volk_2">
+		<text>Elimine todos os bandidos</text>
+	</string>
+	<string id="esc_dinamit_to_volk_3">
+		<text>Fale com o Wolf</text>
+	</string>
+	<string id="esc_help_wounded_from_raid">
+		<text>Descubra algo sobre o Strelok com o Fox</text>
+	</string>
+	<string id="esc_help_wounded_from_raid_0">
+		<text>Ajude o Stalker ferido</text>
+	</string>
+	<string id="esc_help_wounded_from_raid_1">
+		<text>Ajude o Fox</text>
+	</string>
+	<string id="esc_help_wounded_from_raid_2">
+		<text>Obtenha informacoes sobre o Strelok</text>
+	</string>
+	<string id="esc_wounded_to_trader_gift">
+		<text>Entregue o pacote ao comerciante.</text>
+	</string>
+	<string id="esc_wounded_to_trader_gift_0">
+		<text>Entregue o pacote ao comerciante. Ele podera te ajudar.</text>
+	</string>
+	<string id="garbage_meet_stalker">
+		<text>Encontre-se com o Seriy.</text>
+	</string>
+	<string id="garbage_meet_stalker_0">
+		<text>Encontre-se com o Seriy no Lixao.</text>
+	</string>
+	<string id="meet_with_doctor">
+		<text>Encontre-se com o Doutor.</text>
+	</string>
+	<string id="meet_with_doctor_1">
+		<text>Encontre-se com o Doutor.</text>
+	</string>
+	<string id="meet_with_doctor_2">
+		<text>Encontre-se com o Doutor no esconderijo do Strelok</text>
+	</string>
+	<string id="storyline_escape_eliminate_gunslinger">
+		<text>Elimine o Strelok</text>
+	</string>
+	<string id="storyline_escape_find_gunslinger">
+		<text>Encontre o Strelok</text>
+	</string>
+	<string id="tutorial_find_artefact">
+		<text>Encontre um artefato</text>
+	</string>
+	<string id="tutorial_find_artefact_0">
+		<text>Encontre seu primeiro artefato.</text>
+	</string>
+	<string id="tutorial_find_artefact_1">
+		<text>Encontre um artefato</text>
+	</string>
+	<string id="tutorial_find_artefact_2">
+		<text>Leve o artefato ao comerciante.</text>
+	</string>
+	<string id="tutorial_help_wounded">
+		<text>Descubra informacoes do explorador</text>
+	</string>
+	<string id="tutorial_help_wounded_0">
+		<text>Leve as informacoes ao comerciante</text>
+	</string>
+	<string id="tutorial_help_wounded_1">
+		<text>Fale com o Wolf</text>
+	</string>
+	<string id="tutorial_help_wounded_2">
+		<text>Obtenha o Pendrive do Nimble</text>
+	</string>
+	<string id="tutorial_help_wounded_3">
+		<text>Leve o Pendrive ao comerciante</text>
+	</string>
+	<string id="esc_trader_job">
+		<text>Trabalhe para o comerciante</text>
+	</string>
+	<string id="esc_trader_job_text">
+		<text>Pegue a missao especial do comerciante</text>
+	</string>
+	<string id="bar_barman_job">
+		<text>Trabalhe para o Barkeep</text>
+	</string>
+	<string id="bar_barman_job_text">
+		<text>Peca uma missao ao Barkeep</text>
+	</string>
+	<string id="yan_scientist_job">
+		<text>Ajudar os cientistas</text>
+	</string>
+	<string id="yan_scientist_job_text">
+		<text>Ofereca ajuda aos cientistas</text>
+	</string>
+	<string id="find_railroad_passage">
+		<text>Va para o aterro ferroviario</text>
+	</string>
+	<string id="find_railroad_passage_1">
+		<text>Encontre-se com o jornaleiro</text>
+	</string>
+	<string id="find_railroad_passage_2">
+		<text>Traverse o aterro ferroviario</text>
+	</string>
+	<string id="find_railroad_passage_text">
+		<text>Antes de se aprofundar na Zona, e necessario atravessar o antigo aterro ferroviario. O unico caminho seguro la e vigiado pelos militares. No entanto, ha um pequeno tunel a esquerda, geralmente os novatos o utilizam. La voce sera aguardado por um dos meus devedores.</text>
+	</string>

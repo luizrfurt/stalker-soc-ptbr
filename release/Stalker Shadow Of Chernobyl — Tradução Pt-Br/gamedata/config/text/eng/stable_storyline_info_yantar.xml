@@ -1,0 +1,48 @@
+	<string id="descr_yan_find_ghost_task">
+		<text>Vasiliev: "...essas sao as coordenadas da entrada para o Lab X-16. A entrada esta localizada no subsolo do edificio central; a finalidade do edificio e desconhecida. Acredito que seja usado para manutencao tecnica dos emissores subterraneos: de acordo com a documentacao de N***, o objetivo desse projeto era o desenvolvimento em escala real de armas psicotronicas com efeitos em grande area sobre...\n\n ...todos os documentos necessarios estao em nossa posse e sabemos como desligar o emissor. Estamos indo para dentro do lab com Ghost. Zumbis estao surgindo de todos os lados...\n\n ...tudo esta indo pro saco, Ghost ficou completamente maluco e esta delirando. Parece que ele sucumbiu as emissoes. Eu abandonei tudo e comecei a voltar pelos tunel...\n\n ...estou nos pantanos, onde esta o bunker? Droga, droga, droga!!! Eu nao consigo encontrar o meu ponto! Aquele covarde Sakharov nao esta respondendo!!! O que esta acontecendo??? ...zumbis estao por toda parte e minha municao esta acabando..."</text>
+	</string>
+	<string id="descr_yan_find_lab">
+		<text>Sakharov: "Tudo que voce precisa fazer e encontrar o corpo de Vasiliev e obter informacoes precisas sobre a localizacao do laboratorio. Depois, entre no laboratorio e encontre Ghost. Ghost sabia como desligar os emissores e como sair de la depois."</text>
+	</string>
+	<string id="descr_yan_find_scientist">
+		<text>Sakharov: "Se voce puder fazer as medicoes junto com nosso associado, eu vou te dar um prototipo calibrado que vai te permitir entrar no laboratorio."</text>
+	</string>
+	<string id="descr_yan_find_scientist_semenov">
+		<text>Sakharov: "Se voce puder fazer as medicoes junto com nosso associado, eu vou te dar um prototipo calibrado que vai te permitir entrar no laboratorio."</text>
+	</string>
+	<string id="descr_yan_kill_brain">
+		<text>Sakharov: "Bom trabalho, Marcado, voce conseguiu chegar ao laboratorio depois de tudo. E extremamente importante para nos estudarmos o mecanismo no laboratorio. Tente desativa-lo para que possamos investigalo.\n\n ...escute, o prototipo nao sera capaz de te proteger contra a radiacao severa. Eu ja pensei nisso antes, entao existe um temporizador em nossa armadura que vai comecar a contar quando voce for exposto a alta radiacao. Quando o tempo acabar, o prototipo vai parar de te proteger. Tenha o maximo de cuidado e nao se esqueca do temporizador."</text>
+	</string>
+	<string id="descr_yan_kill_brain_2">
+		<text>O dispositivo esta desligado. Agora voce so precisa sair de la vivo.</text>
+	</string>
+	<string id="descr_yan_provodnik_task">
+		<text>Ghost: "Entrada #257\n >>Guide, estou enviando um homem para te encontrar, temos informacoes importantes para o Doutor, ajude-o.\n >>Guide: "Bom. Mas, Ghost, nao repita o que aconteceu da ultima vez. Voce mesmo vem, eu estava querendo conversar com voce a um tempo. Estarei esperando no lugar de sempre, no acampamento perto da ponte. Nao se perca e nao deixe as patrulhas do exercito te pegarem."</text>
+	</string>
+	<string id="descr_yan_scientist_return_task">
+		<text>Sakharov: "O que aconteceu??? Ele esta morto??? Pegue as medicoes e volte imediatamente!!!"</text>
+	</string>
+	<string id="journal_after_find_ghost">
+		<text>Estou chocado! Ghost e a mesma pessoa da foto no arquivo anexo a missao para matar Strelok. Estou completamente confuso. Deve ter ocorrido algum engano. Mas quem cometeu o erro? Ainda nao tenho resposta. Nos registros de Ghost, aprendi o nome do "conhecido comum" deles - o quarto homem do grupo de Strelok - Doutor. Ele tem ajudado o grupo por muito tempo, desempenhando o papel de "quartel-general" deles. Ele pode ser encontrado por meio de um stalker chamado Guide, que frequenta o Cordon. Muito bem, Guide, espero que voce nao morra de repente... antes de nos encontrarmos. No corpo de Ghost, tambem encontrei documentos sobre o mecanismo "Psi-Amp". Toda a vizinhanca estava sob a influencia dessa porcaria - zombificando todos que entravam no alcance. Descobri que existe outro mecanismo no Lab X-19, e esse provavelmente e o Desintegrador Psiquico. Tambem aprendi que esses mecanismos nem sempre estao operando com sua forca total. Existem periodos em que sua potencia e reduzida para esfriar o aparelho.</text>
+	</string>
+	<string id="journal_after_find_ghost_name">
+		<text>Mais uma peca do quebra-cabeca</text>
+	</string>
+	<string id="journal_after_kill_brain">
+		<text>Depois de desligar aquele horrivel "cerebro na garrafa", eu desmaiei. A pressao dos ultimos dias deve ter cobrado seu preco. Enquanto eu estava inconsciente, tive um sonho...Uma fotografia. Um homem grisalho a segura nas maos e um enorme cachorro esta aos seus pes. O homem olha para o horizonte, mas ao redor dele so existe pantano; a paisagem nao tem nada a ver com a da foto. Na neblina, vejo a silhueta de alguem se afastando. O homem fala consigo mesmo: "Se e tao importante, por que voce nao me contou o que esse lugar e e de onde voce pegou a foto"... depois... do lado, vejo um jovem sorridente em cima do limiar da cabana, que diz alegremente: "Se soubesse onde eu estava e o que vi la!" Ele estende o braco segurando um dispositivo maravilhoso que ilumina toda a cabana. O cachorro comeca a rosnar e se espreme num canto; o homem grisalho murmura: "Algum dia esses jogos vao te trazer problemas." ...lampejo... o mesmo jovem, com o rosto coberto de sangue, tropeca na porta da cabana e cai... Um relampago brilha no ceu, uma chuva forte cai...lampejo... A cama da cabana com o jovem coberto de curativos. Ele esta inconsciente; o homem grisalho murmura: "Aguenta firme, filho". Algumas coisas pessoais estao empilhadas num canto e entre elas esta aquela foto estranha...lampejo... A foto esta nas maos do homem grisalho. O jovem, agora com cicatrizes no rosto, esta prestes a sair. O homem grisalho pergunta: "Para onde voce vai agora?". A resposta sombria segue: "Para o Norte"...lampejo... depois eu acordei.</text>
+	</string>
+	<string id="journal_after_kill_brain_name">
+		<text>O segundo sonho</text>
+	</string>
+	<string id="journal_before_vasilyev_pda">
+		<text>Entao, aqui estou, a apenas um passo de um dos homens de Strelok. Ghost desceu para o Lab X-16 subterraneo com um dos cientistas. Existe um "porem" - nao e provavel que eu o encontre vivo. O cientista estava voltando sozinho e foi morto quando se aproximava do acampamento. Os cientistas me deram algum tipo de dispositivo para me proteger dessas emissoes obscuras. Espero que funcione. Eles querem que eu entre e desligue o emissor - assim poderao estuda-lo no local. Que Deus me ajude.</text>
+	</string>
+	<string id="journal_before_vasilyev_pda_name">
+		<text>Um passo de Ghost</text>
+	</string>
+	<string id="storyline_ghost_info">
+		<text>Entrada #257\n >>Guide, estou enviando alguem para te encontrar. Temos informacoes importantes para o Doutor, ajude-o\n >>> Bom. Mas, Ghost, nao repita o que aconteceu da ultima vez. Voce mesmo vem, eu estava querendo conversar com voce a um tempo. Estarei esperando no lugar de sempre, no acampamento perto da ponte. Nao se perca e nao deixe as patrulhas do exercito te pegarem."\n\n Entrada #384\n No ultimo momento, Vasiliev ficou com medo e, em vez de desligar o console inferior, ele apenas fugiu quando a porta se abriu. Eu nao deveria ter confiado nele - Strelok estava certo em nao confiar nesses cachorros mentirosos. Minha unica chance e chegar na porta antes do controlador...</text>
+	</string>
+	<string id="storyline_vasilyev_info">
+		<text>...essas sao as coordenadas da entrada para o Lab X-16. A entrada esta localizada no subsolo do edificio central; a finalidade do edificio e desconhecida. Acredito que seja usado para manutencao tecnica dos emissores subterraneos: de acordo com a documentacao de N***, o objetivo desse projeto era o desenvolvimento em escala real de armas psicotronicas com efeitos em grande area sobre...\n\n ...todos os documentos necessarios estao em nossa posse e sabemos como desligar o emissor. Estamos indo para dentro do lab com Ghost. Zumbis estao surgindo de todos os lados...\n\n ...tudo esta indo pro saco, Ghost ficou completamente maluco e esta delirando. Parece que ele sucumbiu as emissoes. Eu abandonei tudo e comecei a voltar pelos tunel...\n\n ...estou nos pantanos, onde esta o bunker? Droga, droga, droga!!! Eu nao consigo encontrar o meu ponto! Aquele covarde Sakharov nao esta respondendo!!! O que esta acontecendo??? ...zumbis estao por toda parte e minha municao esta acabando...</text>
+	</string>

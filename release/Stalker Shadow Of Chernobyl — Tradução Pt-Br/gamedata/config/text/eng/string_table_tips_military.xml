@@ -1,0 +1,36 @@
+	<string id="mil_actor_blockpost">
+		<text>Voce esta se aproximando da Barreira. Nao pense em fazer bagunca. Mas estaremos mais do que felizes em aceitar qualquer ajuda.</text>
+	</string>
+	<string id="mil_after_sniper_dead">
+		<text>Marcado, venha aqui para sua parte e mais instrucoes.</text>
+	</string>
+	<string id="mil_fblockpost_warning">
+		<text>Marcado, volte para sua posicao.</text>
+	</string>
+	<string id="mil_info_freedom_radio">
+		<text>Se voce passar a noite toda na Torre na vila, algo certamente vai acontecer...</text>
+	</string>
+	<string id="mil_info_max_mines">
+		<text>Nao se esqueca das minas! Um erro e voce esta frito...</text>
+	</string>
+	<string id="mil_info_max_village">
+		<text>Tenha cuidado, Marcado. Parece que ha uma nova anomalia na vila. O desgracado e rapido e invisivel!</text>
+	</string>
+	<string id="mil_info_to_all">
+		<text>Atencao a todos que desejam derreter seus cerebro: o caminho para a Floresta Vermelha esta protegido por uma unidade da Monolith e, como provavelmente sabem, esses caras atiram primeiro e nao fazem perguntas depois. Boa sorte.</text>
+	</string>
+	<string id="mil_max_attack_signal">
+		<text>Avancem! Vamos exterminar esses desgracados!</text>
+	</string>
+	<string id="mil_mission_complete">
+		<text>Nosso trabalho aqui esta feito. Retirem-se para a fazenda. Vamos resolver o pagamento la.</text>
+	</string>
+	<string id="mil_scull_attack_signal">
+		<text>Avante, pessoal! O caminho esta livre!</text>
+	</string>
+	<string id="mil_scull_info">
+		<text>Marcado, elimine esses snipers!</text>
+	</string>
+	<string id="mil_sniper_to_player_warning">
+		<text>Tenha cuidado, Marcado, ou vai acabar levando uma bala...</text>
+	</string>

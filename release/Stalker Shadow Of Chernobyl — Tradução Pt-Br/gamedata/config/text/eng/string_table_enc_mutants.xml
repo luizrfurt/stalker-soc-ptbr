@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+    <string id="Blind">
+        <text>Cao cego</text>
+    </string>
+    <string id="Bloodsucker">
+        <text>Sanguessuga</text>
+    </string>
+    <string id="Boar">
+        <text>Javali</text>
+    </string>
+    <string id="Crow">
+        <text>Corvo</text>
+    </string>
+    <string id="enc_mutant_blind_general">
+        <text>Muitas geracoes de caes nasceram e morreram desde o desastre. Cada uma foi mais marcada pela Zona que a anterior. A mutacao rapida trouxe grandes ganhos em sentidos antes secundarios, muitas vezes sacrificando os principais. O maior cambio foi perder a visao, enquanto o olfato se tornou incrivelmente agucado. Filhotes cegos provaram ser tao aptos na Zona quanto os normais, ou ate melhores. Assim, os caes comuns logo sumiram, dando lugar a uma nova raca: os caes cegos. Esses animais sentem e desviam por instinto de anomalias, radiacao e outros perigos ocultos da Zona. Como lobos selvagens, seus ancestrais, cacam em grupos. Um bando grande pode ser uma ameaca mortal, mesmo para um stalker experiente e bem equipado.</text>
+    </string>
+    <string id="enc_mutant_bloodsucker_general">
+        <text>Stalkers veteranos falam de uma criatura quase mitica: um humanoide alto e curvado, com tentaculos no lugar da boca. Dizem que ela usa esses tentaculos para agarrar o pescoco da presa, imobiliza-la e sugar todo o sangue, deixando apenas uma casca seca e sem vida. O mais assustador no Sanguessuga e sua habilidade de ficar invisivel. Muitos stalkers mortos ou desaparecidos podem ter sido vitimas de seu ataque silencioso. Quem sobreviveu jura ter visto pantanos e tuneis assombrados por essa versao da Zona do Conde Dracula, com historias de gelar o sangue.</text>
+    </string>
+    <string id="enc_mutant_boar_general">
+        <text>Um mutante enorme, com ate 1,5 metro de altura nos ombros. O javali da Zona e muito mais agressivo e resistente que seus parentes de fora da area contaminada. Radiacao e anomalias mudaram seu corpo: o pelo sumiu em partes, enquanto em outras e longo e ericado. Suas patas viraram garras fortes e cortantes, os olhos perderam cor, e a cabeca calva mostra manchas e rugas profundas. Ele aguenta bem a radiacao, ficando mais tempo em lugares toxicos. Ataca correndo contra a presa, tentando derruba-la para depois rasga-la em pedacos.</text>
+    </string>
+    <string id="enc_mutant_crow_general">
+        <text>A unica ave que sobreviveu na Zona, resistindo a radiacao alta e desviando de anomalias com facilidade. Enquanto pilotos militares usam aparelhos complexos para escapar de turbulencias gravitacionais, o corvo parece confiar apenas nos proprios sentidos - um enigma que intriga biologos. Ha teorias sobre um cerebro altamente evoluido, mas ninguem sabe ao certo como ele faz isso.</text>
+    </string>
+    <string id="enc_mutant_flesh_general">
+        <text>Desde o desastre, ate o porco domestico sofreu mudancas brutais na Zona. Seus genes de metabolismo foram os mais atingidos. Chamados de Carnival pelos stalkers, esses porcos mutantes sao provas vivas da destruicao retorcida da natureza aqui. Ganharam escamas e placas duras como armadura. A regeneracao deles e rapida, e o sistema nervoso ficou mais complexo. Como porcos normais, sao onivoros e podem atacar um stalker se estiverem famintos.</text>
+    </string>
+    <string id="enc_mutant_poltergeist_general">
+        <text>Para alguns, sao seres sobrenaturais. Essas criaturas invisiveis rondam as partes mais escuras da Zona, quase sempre em predios velhos e desertos. Ninguem sabe de onde vieram, mas boatos dizem que sao almas de stalkers mortos por rajadas de radiacao. Aparecem e somem como fantasmas, dai o nome poltergeist. Relatos variam: risadas estranhas, gritos de arrepiar ou bolas de fogo surgindo do nada. Tudo o que se sabe vem de historias confusas, dificeis de acreditar.</text>
+    </string>
+    <string id="enc_mutant_pseudodog_general">
+        <text>Apesar do nome, os pseudocaes vieram direto dos lobos. Os que viviam nas florestas durante o desastre deram origem a um dos mutantes mais letais da Zona. Sao tao diferentes de caes mutantes quanto lobos sao de cachorros domesticos. Defendem seu territorio com furia, atacando qualquer um que ouse entrar. Reflexos rapidos, agilidade impressionante e dentes afiados como laminas fazem dele um adversario temido, mesmo por mutantes maiores ou stalkers armados.</text>
+    </string>
+    <string id="enc_mutant_pseudogiant_general">
+        <text>O pseudogigante parece um abdomen gigante em forma de gota, com membros enormes que servem como bracos e pernas. Usa eles pra se mover e agarrar presas. Um adulto pode pesar duas toneladas e ter 2 metros de altura. Apesar da aparencia desajeitada, e rapido quando quer. Seus musculos sao brutais, os ossos duros como ferro. O cerebro fica num cranio grosso, de ate 10 centimetros, e a medula controla muito do corpo. Ele tambem cria ondas de choque que ferem tudo ao redor.</text>
+    </string>
+    <string id="enc_mutant_snork_general">
+        <text>Essas criaturas parecem ter sido humanas um dia, mas e duro imaginar o que as transformou em algo tao grotesco. Snorkels sao bestas insanas, vivendo como animais selvagens da Zona. Andam de quatro, pulando longe, sempre farejando o chao atras de presas. Cacam com cautela, armando emboscadas. Com reflexos rapidos e musculos fortes, imobilizam a vitima num salto preciso e a destroem em segundos. Restos de uniformes militares em seus corpos sugerem que sao o que sobrou de stalkers desaparecidos.</text>
+    </string>
+    <string id="enc_mutant_tushkano">
+        <text>Nao sao jerboas de verdade, mas parecem com eles. Ninguem sabe de que roedor vieram, mas eram animais de grupo. Com ate 40cm de altura, sao rapidos, agressivos e famintos. Vivem em poroes de ruinas, comendo de plantas a stalkers descuidados. As vezes, um bando ataca mutantes grandes, despedacando eles antes que fujam.</text>
+    </string>
+    <string id="enc_mutant_zombie_general">
+        <text>O Desintegrador Psiquico arranca a mente da vitima, deixando um corpo vazio. Esses zumbis vagam pela Zona, guiados por instintos basicos, sem armas ou roupas. Sao lentos, quase cadaveres ambulantes, obcecados por comida e sono. Engolem qualquer coisa, ficando cheios de radiacao e veneno. Perambulam sem rumo ou ficam caidos em ruinas. Mas, se sentem um humano por perto, atacam na hora. Stalkers espertos ja aprenderam a ficar longe.</text>
+    </string>
+    <string id="Flesh">
+        <text>Carnival</text>
+    </string>
+    <string id="General">
+        <text>Dados gerais</text>
+    </string>
+    <string id="mutant_boar_leg">
+        <text>Pata de javali</text>
+    </string>
+    <string id="mutant_boar_leg_description">
+        <text>Pernas de javali servem pra fazer remedios, como um soro contra radiacao.</text>
+    </string>
+    <string id="mutant_dog_tail">
+        <text>Rabo de cao</text>
+    </string>
+    <string id="mutant_dog_tail_description">
+        <text>A pele dos caes mutantes resiste bem a eletricidade e quimicos, chamando a atencao de cientistas ha tempos. O rabo, quase sem gordura, e perfeito pra estudos em laboratorio.</text>
+    </string>
+    <string id="mutant_flesh_eye">
+        <text>Olho de Carnival</text>
+    </string>
+    <string id="mutant_flesh_eye_description">
+        <text>O olho inchado do Carnival ganhou poderes estranhos, como regenerar a lente. Ninguem sabe como, mas isso pode mudar a medicina. Venda olhos de Carnival pra cientistas ajudarem na pesquisa.</text>
+    </string>
+    <string id="mutant_krovosos_jaw">
+        <text>Tentaculos de Sanguessuga</text>
+    </string>
+    <string id="mutant_krovosos_jaw_description">
+        <text>Os tentaculos do Sanguessuga tem uma glandula que dissolve pele e impede o sangue de coagular. Estudar isso pode trazer grandes avancos na medicina.</text>
+    </string>
+    <string id="mutant_psevdodog_tail">
+        <text>Rabo de pseudocao</text>
+    </string>
+    <string id="mutant_psevdodog_tail_description">
+        <text>A pele dos pseudocaes resiste a eletricidade e quimicos, atraindo cientistas ha anos. O rabo, sem quase gordura, e ideal pra testes em laboratorio.</text>
+    </string>
+    <string id="mutant_snork_leg">
+        <text>Pe de snorkel</text>
+    </string>
+    <string id="mutant_snork_leg_description">
+        <text>Os pes do snorkel tem muitos tendoes elasticos, o que explica seus pulos longos e poderosos.</text>
+    </string>
+    <string id="Mutants">
+        <text>Animais e mutantes</text>
+    </string>
+    <string id="Poltergeist">
+        <text>Poltergeist</text>
+    </string>
+    <string id="Pseudodog">
+        <text>Pseudocao</text>
+    </string>
+    <string id="Pseudogiant">
+        <text>Pseudogigante</text>
+    </string>
+    <string id="Snork">
+        <text>Snorkel</text>
+    </string>
+    <string id="Tushkano">
+        <text>Roedor</text>
+    </string>
+    <string id="Zombie">
+        <text>Zumbi</text>
+    </string>
+    <string id="Controller">
+        <text>Controlador</text>
+    </string>
+    <string id="enc_mutant_controller_general">
+        <text>Um mutante raro, visto perto do coracao da Zona. Parece um humanoide com uma cabeca grande demais. Tem sentidos afiados e pode controlar criaturas mais simples. Os adultos conseguem dominar mentes humanas. E um inimigo mortal, temido ate pelos stalkers mais calejados.</text>
+    </string>
+</string_table>

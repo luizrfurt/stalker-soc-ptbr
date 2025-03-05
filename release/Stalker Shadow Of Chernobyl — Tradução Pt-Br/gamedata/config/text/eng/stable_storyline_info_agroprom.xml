@@ -1,0 +1,48 @@
+	<string id="agr_find_ghost_descr">
+		<text>Descobri que um dos homens de Strelok se chama Ghost. Pelo menos agora tenho uma pista. Se eu encontrar Ghost, talvez consiga chegar ate Strelok.</text>
+	</string>
+	<string id="agr_journal_cache">
+		<text>Parece que o esconderijo me deu uma nova direcao. Encontrei um pendrive com o que parece ser um diario do grupo de Strelok. Apesar de poucas entradas, percebi que o grupo tinha dois outros membros: Ghost e Fang. O diario tambem mencionava um "amigo em comum", mas nao sei se ele fazia parte do grupo. Ele definitivamente os ajudou. De acordo com Ghost, Fang morreu numa emboscada. Entao finalmente tenho algo solido: o nome de alguem que conhece Strelok - Ghost. Quanto a Strelok, pode estar em algum lugar ao norte da Zona.</text>
+	</string>
+	<string id="agr_journal_krot">
+		<text>Encontrar o Mole valeu a pena. O esconderijo do grupo realmente existe e fica no subsolo do Instituto. Vou ter que ir la. Nao sei o que vou encontrar, mas espero que esse lugar me ajude a desvendar meu proprio misterio...</text>
+	</string>
+	<string id="agr_krot_secret_info">
+		<text>Siga a escada em espiral ate a sala com as colunas. Atravesse em direcao a saida e entre em uma sala grande com canos no teto. Desca ate a segunda saida, entre no tunel e vire a esquerda. No final, havera uma curva para a direita. Siga reto para a saida da pequena sala e vire a direita. Procure um buraco na parede esquerda, perto das palavras "Nao entre - voce vai morrer". Esse e o caminho para o esconderijo de Strelok.</text>
+	</string>
+	<string id="agr_krot_secret_info_name">
+		<text>Esconderijo de Strelok</text>
+	</string>
+	<string id="agr_military_case">
+		<text>Relatorio de investigacao.\n Para uso oficial apenas.\n Para o Coronel V.M. Kruchelnikov, chefe do projeto "TRUTH".\n De Capitao D.F. Maksimenko, comandante do grupo "Search-2".\n\n Memorando.\n Nossa equipe, composta por 3 investigadores e uma esquadra das Forcas Especiais da SBU, realizou buscas no Agroprom, o antigo Instituto de Pesquisa de Agricultura em solo contaminado, entre 12.05.2012 e 25.05.2012. A maioria dos equipamentos e documentos estava desaparecida, mas as poucas evidencias encontradas nos levaram a seguinte conclusao: entre 2005 e 2008, o Instituto nao conduziu pesquisas em seus campos oficiais. Todos os resultados enviados ao Ministerio da Agricultura eram falsificados. Ao mesmo tempo, a administracao do Instituto, especificamente Petr Danilovich Strizh, continuou recebendo financiamento do governo e repassando equipamentos e materiais para um laboratorio chamado X-18, usando notas fiscais falsificadas. Esse nome parece ser um codinome, pois nao ha registro desse laboratorio em nossos bancos de dados. \n\n Pelas analises dos documentos, esse laboratorio esta localizado a cerca de uma hora do Instituto. Provavelmente e uma instalacao clandestina, entao recomendo envolver nosso departamento de analise. O campo de pesquisa do X-18 nao esta claro, mas os documentos mencionam o infame professor Chubko e um misterioso "Grupo". Acredito que chegamos ao ponto onde nosso departamento de analise tera muito trabalho a fazer.\n\n Em anexo, um arquivo com as notas fiscais dos materiais enviados e um extrato da correspondencia entre Strizh e Chubko.\n\n Capitao D.F. Maksimenko 26.05.2012\n\n Para o professor V.M. Chubko. De P.D. Strizh, Chefe do Instituto de Pesquisa Agroprom, Doutor em Ciencias Agricolas.\n\n Prezado Vadim Mikhailovich,\n\n Como combinado, estou enviando a proxima remessa de materiais e equipamentos para sua instalacao experimental, para ajudar em suas pesquisas tao essenciais para a agricultura. Consegui financiar os experimentos descrevendo-os como estudos piloto nos campos do Instituto. O Ministerio nao tera nenhum problema com isso. Como estao os experimentos? Ainda estou impressionado com o que vi da ultima vez.\n\n Atenciosamente,\n P.D. Strizh\n\n DAS\n\n Para P.D. Strizh\n\n Por favor, aceite meus agradecimentos, Petr Danilovich. Recebemos tudo. Minha equipe esta muito impressionada com o espectrometro a laser - sem sua ajuda, levariamos anos para conseguir esse modelo. Claro que o Ministerio da Agricultura ficara feliz em receber NOSSOS resultados... voce realmente fez um velho rir com isso! Os experimentos estao progredindo bem, e o que voce viu antes e insignificante comparado com nossos avancos recentes. Voce deveria visitar mais vezes - sempre fico feliz em recebe-lo, e a "instalacao experimental" esta a apenas uma hora de distancia. \n\n Quase esqueci, tenho novidades: na proxima segunda-feira discutirei sua candidatura com o Grupo. Acredito que vao me apoiar.\n\n Atenciosamente,\n Professor V.M. Chubko\n\n Para o professor V.M. Chubko\n De P.D. Strizh, Chefe do Instituto de Pesquisa Agroprom, Doutor em Ciencias Agricolas\n\n Prezado Vadim Mikhailovich,\n\n Obrigado pela confianca. Estou honrado e farei o possivel para nao decepcionar. Acho que e o sonho de todo cientista participar de um experimento assim, e ficarei absolutamente encantado em ser aceito no Grupo.\n\n Atenciosamente,\n P.D. Strizh\n\n P.S. Consegui dois osciloscopios japoneses de ultima geracao no Ministerio. Enviarei assim que possivel.</text>
+	</string>
+	<string id="agr_military_case_name">
+		<text>Relatorio de investigacao</text>
+	</string>
+	<string id="agr_nii_security_plan">
+		<text>O grafico mostra a disposicao das patrulhas, sentinelas e torres de guarda. O QG fica no terceiro andar do Instituto. E la que os documentos sao guardados. Durante o dia, a area esta cheia de patrulhas. A noite ha menos delas, e os guardas sao trocados as 23h. Poucas pessoas ficam no predio principal nesse horario. Se quiser invadir a base, use as catacumbas. O portao nao e opcao.</text>
+	</string>
+	<string id="agr_nii_security_plan_name">
+		<text>Plano de seguranca do Instituto de Pesquisa Agroprom</text>
+	</string>
+	<string id="agr_rats_n_soldiers_text">
+		<text>O exercito esta furioso com os ratos que saem dos coletores. Como punicao, enviam os soldados para lidar com eles.</text>
+	</string>
+	<string id="agr_task_case">
+		<text>Comerciante: "Assim que pegar a maleta do Instituto, leve-a para o Barkeep. Ele administra o 100 Rads, o bar dos Stalkers. Fica nas ruinas da antiga fabrica Rostok."</text>
+	</string>
+	<string id="article_agr_krot_sos">
+		<text>SOS! O exercito esta matando um Stalker! Se alguem me ouve, preciso de ajuda!</text>
+	</string>
+	<string id="article_agr_krot_sos_name">
+		<text>Resgatando o Mole</text>
+	</string>
+	<string id="article_agr_krot_sos1">
+		<text>Mole: "Alguem me ajude, vou ser morto!"</text>
+	</string>
+	<string id="st_operation_agroprom">
+		<text>Operacao Agroprom</text>
+	</string>
+	<string id="storyline_gunslinger_flash_info">
+		<text>Recebido de Ghost: \n \n Strelok, tenho umas noticias ruins. Fang morreu. Estavam esperando por nos na vila perto dos armazens, e eu acho que estavam esperando ha um bom tempo. Tres deles. Parecem neutros comuns. Fang percebeu eles de alguma forma. Voce sabe bem que ele tem um bom faro. Derrubamos dois deles - claramente bandidos - mas o terceiro acabou sendo mais esperto que os outros. Estava sentado com Vintar a uns 100 metros de distancia. Enfim, nao tem mais Fang. Da proxima vez, vamos para o centro juntos, so nos dois. E tem mais uma coisa: esses dois tinham nossas descricoes. Eu nao consigo entender quem poderia querer nos matar, embora na verdade tem muita gente que tem algo contra nos. Deixei o terceiro fugir - acho que era um dos mercs. Tinha uma grande cicatriz no rosto. Olhos castanhos. Vou tentar encontra-lo. \n Eh isso. Fique de olho e boa sorte. \n Ghost \n \n para Ghost \n\n "Oi amigo. \n Deixando umas informacoes, nao vou tentar me conectar, percebi alguem me seguindo. \n Cara, eu fui pro Norte... Aquele lugar onde estavamos... Vou tentar passar por aqui sozinho... Desculpa, mas nao deu tempo de esperar por voce... Vou te explicar depois. \n E aquele louco que matou o Fang vai se arrepender de ter nascido... Vou estracalha-lo... Voce descobre quem ele e, e eu volto logo - vamos resolver isso com ele. \n Nos vamos nos encontrar no lugar do nosso amigo em comum - sabe quem e onde. \n Boa sorte. \n Strelok \n \n Para Strelok \n\n "Oi. Cheguei. Voce nao estava la. Voce nao devia ter ido para o centro sozinho. Mas sem problemas. Eu sei onde e com quem te encontrar. \n Ghost</text>
+	</string>

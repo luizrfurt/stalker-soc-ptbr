@@ -1,0 +1,60 @@
+	<string id="mil_cap_hint">
+		<text>Fale com o comandante do posto de controle da barreira</text>
+	</string>
+	<string id="mil_courier_hint1">
+		<text>Siga o X-9</text>
+	</string>
+	<string id="mil_courier_hint2">
+		<text>Aguarde o X-9 chamar o agente</text>
+	</string>
+	<string id="mil_courier_hint3">
+		<text>Elimine o X-9</text>
+	</string>
+	<string id="mil_courier_hint4">
+		<text>Elimine o informante</text>
+	</string>
+	<string id="mil_crazy_hint">
+		<text>Pegue o pendrive do Stalker louco</text>
+	</string>
+	<string id="mil_dolg_khutor">
+		<text>Fazenda da Duty</text>
+	</string>
+	<string id="mil_freedom_sniper">
+		<text>Elimine o sniper</text>
+	</string>
+	<string id="mil_hunters_hint1">
+		<text>Fale com Murk</text>
+	</string>
+	<string id="mil_hunters_hint2">
+		<text>Volte para Skinflint</text>
+	</string>
+	<string id="mil_kill_dolg_hint">
+		<text>Destrua o grupo da Duty</text>
+	</string>
+	<string id="mil_kill_lukash_hint">
+		<text>Elimine Lukash</text>
+	</string>
+	<string id="mil_miser_hint">
+		<text>Skinflint</text>
+	</string>
+	<string id="mil_report_to_max_hint">
+		<text>Reporte para Max</text>
+	</string>
+	<string id="mil_return_to_lukash_hint">
+		<text>Reporte para Lukash</text>
+	</string>
+	<string id="mil_return_to_max_hint">
+		<text>Entregue o pendrive para Max</text>
+	</string>
+	<string id="mil_rg6_hint1">
+		<text>Encontre o cozinheiro na base da Freedom</text>
+	</string>
+	<string id="mil_rg6_hint2">
+		<text>Fale com Chef</text>
+	</string>
+	<string id="mil_rg6_hint3">
+		<text>Pegue o Bulldog 6 no esconderijo na vila</text>
+	</string>
+	<string id="mil_watertower_hint">
+		<text>Torre de agua</text>
+	</string>

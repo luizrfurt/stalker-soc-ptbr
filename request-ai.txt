@@ -1,0 +1,28 @@
+Regras de Tradução do XML para Português do Brasil
+Contexto: S.T.A.L.K.E.R.: Shadow of Chernobyl
+1. Regras Gerais
+    Não traduzir: Stalker, Stalkers, stalker, stalkers.
+    Remover acentos: Substituir todas as vogais acentuadas por suas respectivas versões sem acento (á → a, é → e, í → i, õ → o, ú → u, etc.).
+    Substituir "ç" por "c" e "Ç" por "C".
+2. Traduções Específicas
+Facções: Loner → Loner, Duty → Duty, Trader → Comerciante, Freedom → Freedom, Merc → Merc, Monolith (facção) → Monolith, Monolith (objeto ou entidade) → Monolito,
+Spetsnaz → Forcas Especiais
+--
+Lugares: Cordon → Cordon, The Garbage / Garbage → Lixao, Agroprom Research Institute → Instituto de Pesquisa Agroprom, The Dark Valley / Dark Valley → Vale Sombrio, Bar → Bar,
+Wild Territory → Territorio Selvagem, Dead City → Cidade Morta, Army warehouses → Armazens militares, Yantar → Yantar, Red Forest → Floresta Vermelha, Pripyat → Prypiat,
+Chernobyl NPP → Usina Nuclear de Chernobyl, Agroprom Underground → Agroprom Subsolo, Lab X-19 → Lab X-19, Lab X-18 → Lab X-18, Lab X-16 → Lab X-16, Lab X-10 → Lab X-10,
+Sarcophagus → Sarcofago, Brain Scorcher → Desintegrador Psiquico, Psi-Brain → Psi-Amp
+--
+Personagens: Marked One → Marca, Wolf → Wolf, Fox → Fox, Guide → Guide, Nimble → Nimble, Fanatic → Fanatic, Ghost → Ghost, Wish Granter → Concessor de Desejos, Vampire → Vampire,
+Sparrow → Sparrow, C-Consciousness → C-Consciencia, Ratcatcher → Ratoroi
+--
+Itens: Flash drive → Pendrive, Lockpick → Arrombador, Energy drink → Energetico, Medkit → Kit de primeiros socorros, Bandages → Bandagens
+--
+Mutantes: Flesh → Carnival, Bloodsucker → Sanguessuga, Rat hound → Cao de caca, Controller → Controlador, Snork → Snorkel
+--
+Artefatos e Anomalias: Mica → Migalha, Smile → Limo, Slug → Lesma, Mama’s Beads → Contas da mamae, Flash → Lampejo, Sparkler → Diamante, Fruit Punch → Ponche de frutas,
+Burnt Fuzz → Fuzz queimado, Jelly / Jellyfish → Agua-viva, Whirligig → Redemoinho, Moonlight → Luar, Sea Urchin → Ourico do mar
+--
+Outros Termos: Task → Missao, Detachment → Unidade, Snipers → Snipers
+
+Me de o resultado no mesmo formato que mandei, quebrado por linhas, somente em portugues.

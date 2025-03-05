@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="bandit_outfit_description">
+		<text>Roupa tradicional de bandido - jaqueta de couro com elementos de kevlar. Oferece protecao insuficiente para as severas condicoes da Zona.</text>
+	</string>
+	<string id="bandit_outfit_description_m">
+		<text>Armadura simples e fraca de bandido com placas de malha costuradas no forro. Qualquer um pode fazer isso, mas nem todos terao paciencia suficiente.</text>
+	</string>
+	<string id="bandit_outfit_name">
+		<text>Jaqueta de bandido</text>
+	</string>
+	<string id="bandit_outfit_name_m">
+		<text>Jaqueta de malha</text>
+	</string>
+	<string id="dolg_outfit_description">
+		<text>Produzido por um instituto de pesquisa de defesa de Kiev e encomendado pela faccao Duty. E simples e confiavel como o modelo PSZ-9, mas com novos materiais, oferece boa protecao contra varios impactos, incluindo danos de armas de fogo. O colete ainda precisa de ajustes, pois nao tem sistema de protecao respiratoria.</text>
+	</string>
+	<string id="dolg_outfit_description_m1">
+		<text>Traje de armadura Duty com protecao aprimorada contra mordidas e cortes.</text>
+	</string>
+	<string id="dolg_outfit_name">
+		<text>Armadura PSZ-9d Duty</text>
+	</string>
+	<string id="dolg_outfit_name_m1">
+		<text>Hunter PSZ-9d</text>
+	</string>
+	<string id="dolg_scientific_outfit_description">
+		<text>Um excelente traje de protecao para a Zona. Stalkers o apreciam por combinar otima protecao contra anomalias e balas. Inclui o traje PSZ-9d, sistema de respiracao de ciclo fechado e supressao de campo anomalo. Oferece protecao de qualidade contra balas e estilhacos.</text>
+	</string>
+	<string id="dolg_scientific_outfit_name">
+		<text>Protecao universal PSZ-9Md</text>
+	</string>
+	<string id="ecolog_outfit_description">
+		<text>Traje de protecao quimica SSP-99, projetado para a Zona. Usado por expedicoes cientificas e eco-stalkers. Possui sistema de filtragem de ar e ar-condicionado, e e resistente ao calor, eletricidade, radiacao e anomalias biologicas. Resistente a ambientes quimicos agressivos, mas nao oferece protecao contra balas ou estilhacos.</text>
+	</string>
+	<string id="ecolog_outfit_name">
+		<text>SSP-99 Ecologista</text>
+	</string>
+	<string id="exo_outfit_description">
+		<text>Prototipo de exoesqueleto militar. Nunca entrou em producao em serie devido ao custo e defeitos de design. Produzido em pequenas quantidades fora da Ucrania, e de terceira geracao, com melhorias na mobilidade e armadura reforcada. Oferece excelente protecao contra balas e estilhacos, mas pouca protecao contra anomalias.</text>
+	</string>
+	<string id="exo_outfit_description_m1">
+		<text>Dispositivo de visao noturna atualizado, com filtragem digital do sinal enviado.</text>
+	</string>
+	<string id="exo_outfit_name">
+		<text>Exoesqueleto</text>
+	</string>
+	<string id="killer_outfit_description">
+		<text>Traje de Stalker da faccao Merc. Baseado no design de forcas especiais ocidentais, tem estabilidade aprimorada durante o movimento fisico das placas. Suas propriedades de protecao sao ligeiramente melhores que as do modelo PSZ-7 militar.</text>
+	</string>
+	<string id="killer_outfit_description_m1">
+		<text>Malha de corrente costurada no forro do casaco, aumentando a protecao contra ataques de armas de fogo e mordidas de monstros. Inclui um PNV no conjunto.</text>
+	</string>
+	<string id="killer_outfit_name">
+		<text>Traje Merc</text>
+	</string>
+	<string id="killer_outfit_name_m1">
+		<text>Traje reforcado</text>
+	</string>
+	<string id="military_outfit_description">
+		<text>Traje militar balistico Skat-9M projetado para operacoes de assalto em areas de atividade anomala. Inclui o traje PSZ-12p, traje de compensacao integrado e capacete Sphere-12M. Oferece protecao perfeita contra balas e estilhacos sem comprometer a mobilidade, com protecao equilibrada contra anomalias.</text>
+	</string>
+	<string id="military_outfit_name">
+		<text>Traje militar blindado</text>
+	</string>
+	<string id="monolit_outfit_description">
+		<text>Traje de Stalker da faccao Monolith. Desconhece-se o produtor. Tem protecao um pouco inferior ao colete balistico PSZ-9a. Sua estrutura lembra o traje popular entre stalkers neutros, que combina colete a prova de balas e traje de protecao contra radiacao. Oferece boa protecao contra disparos, mas baixa protecao contra anomalias devido a falta de sistema de filtragem de ar.</text>
+	</string>
+	<string id="monolit_outfit_name">
+		<text>Traje Monolith</text>
+	</string>
+	<string id="novice_outfit_description_m">
+		<text>Retiraram este casaco de um dos stalkers que morreu na anomalia "ponche de frutas". Depois de muito tempo na anomalia, o casaco desenvolveu a habilidade de acelerar o metabolismo.</text>
+	</string>
+	<string id="novice_outfit_name_m">
+		<text>Traje Anonimo</text>
+	</string>
+	<string id="outfit_soldier_description">
+		<text>Jaqueta grossa comum, uma das muitas. Oferece um pouco mais de protecao contra balas e estilhacos, mas nao protege contra anomalias ou outros efeitos.</text>
+	</string>
+	<string id="outfit_soldier_name">
+		<text>Jaqueta de couro</text>
+	</string>
+	<string id="protection_outfit_description">
+		<text>Traje modificado SSP-99 de alta qualidade, oferecendo protecao aumentada contra balas e estilhacos. Foi projetado para guardas que trabalham com expedicoes cientificas. Oferece boa protecao contra radiacao, anomalias biologicas e ambientes quimicos agressivos.</text>
+	</string>
+	<string id="protection_outfit_name">
+		<text>Traje SSP-99M</text>
+	</string>
+	<string id="scientific_outfit_description">
+		<text>Traje produzido por um instituto de pesquisa de defesa de Kiev, uma otima alternativa aos trajes feitos a mao por stalkers. Combina colete balistico, sistema de respiracao de ciclo fechado e supressao de campo anomalo. Escolha de materiais ideal, embora caro.</text>
+	</string>
+	<string id="scientific_outfit_name">
+		<text>Traje SEVA</text>
+	</string>
+	<string id="specnaz_outfit_description_m1">
+		<text>O tecido do traje e saturado com uma locao que acelera a cicatrizacao de feridas.</text>
+	</string>
+	<string id="specnaz_outfit_name_m1">
+		<text>Beril curativo</text>
+	</string>
+	<string id="specops_outfit_description">
+		<text>Traje de Forcas Especiais Berill-5M modificado para a Zona. Inclui colete balistico PSZ-9a com revestimento de berilio e capacete Sphere-08. Projetado para operacoes em areas com alta radiacao. Tem baixa protecao contra anomalias.</text>
+	</string>
+	<string id="specops_outfit_name">
+		<text>Traje blindado Berill-5M</text>
+	</string>
+	<string id="stalker_outfit_description">
+		<text>Traje Stalker feito por "artesaos locais". Combinacao de colete balistico leve e traje de tecido borrachado. Reforcado com placas de kevlar, oferece boa protecao contra tiros fracos, mas nao e adequado para incursoes profundas na Zona.</text>
+	</string>
+	<string id="stalker_outfit_description_m1">
+		<text>Rumores dizem que o stalker fantasma nunca carrega kit de primeiros socorros. Tudo cicatriza nele como se fosse um cachorro. Dizem que ele possui um traje incomum que obteve em uma anomalia.</text>
+	</string>
+	<string id="stalker_outfit_description_m2">
+		<text>O antigo dono deste traje era um verdadeiro turista, fazendo viagens extremas na beira da resistencia humana. Ele sabia como distribuir o peso e escolher bem os itens. Os bolsos do casaco e a mochila ajudam a carregar peso elevado.</text>
+	</string>
+	<string id="stalker_outfit_name">
+		<text>Traje Stalker</text>
+	</string>
+	<string id="stalker_outfit_name_m1">
+		<text>Traje Fantasma</text>
+	</string>
+	<string id="stalker_outfit_name_m2">
+		<text>Traje de Turista</text>
+	</string>
+	<string id="svoboda_heavy_outfit_description">
+		<text>Traje reforcado de Stalker criado pelos armeiros da faccao Freedom. Consiste em um colete balistico medio revestido com elementos de zirconio, oferecendo boa protecao contra balas de fuzil e estilhacos de media e longa distancia. O traje e formado por duas camadas: couro tratado e tecido com fios de asbesto. Proporciona boa protecao contra radiacao e anomalias de baixa intensidade.</text>
+	</string>
+	<string id="svoboda_heavy_outfit_name">
+		<text>Traje Guardiao da Liberdade</text>
+	</string>
+	<string id="svoboda_light_outfit_description">
+		<text>Traje leve de Stalker desenvolvido pelos armeiros da faccao Freedom. Possui um colete balistico leve com placas de kevlar reforcadas, capaz de proteger contra armas de baixo poder. O tecido foi tratado com uma mistura especial que melhora sua resistencia a atividades anomalias.</text>
+	</string>
+	<string id="svoboda_light_outfit_name">
+		<text>Traje Vento da Liberdade</text>
+	</string>
+	<string id="mp_exo_outfit_description">
+		<text>O exoesqueleto oferece excelente protecao contra tiros e estilhacos, mas limita a mobilidade. E vulneravel a balas de armaduras pesadas.</text>
+	</string>
+	<string id="mp_exo_outfit_name">
+		<text>Exoesqueleto PNB-4UZ</text>
+	</string>
+	<string id="mp_military_outfit_description">
+		<text>O traje balistico militar foi desenvolvido para operacoes de assalto. Proporciona excelente protecao contra tiros e estilhacos sem comprometer a mobilidade do soldado. Vulneravel a balas de armadura pesada.</text>
+	</string>
+	<string id="mp_military_outfit_name">
+		<text>Traje balistico militar</text>
+	</string>
+	<string id="mp_scientific_outfit_description">
+		<text>Este traje foi projetado para pesquisas na Zona. Possui um sistema respiratorio com ciclo fechado e tecnologia integrada para neutralizar os efeitos das anomalias, proporcionando protecao eficaz contra elas. No entanto, sua protecao fisica e fraca, tornando-o vulneravel. Inclui um compartimento para armazenar artefatos.</text>
+	</string>
+	<string id="mp_scientific_outfit_name">
+		<text>Traje cientifico</text>
+	</string>
+</string_table>

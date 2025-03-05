@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="game type">
+		<text>TIPO DE JOGO</text>
+	</string>
+	<string id="icon">
+		<text>ICONE</text>
+	</string>
+	<string id="map">
+		<text>MAPA</text>
+	</string>
+	<string id="mm_mp_allowvoting">
+		<text>Permitir votacao</text>
+	</string>
+	<string id="mm_mp_anomalytime">
+		<text>Tempo de anomalia (min)</text>
+	</string>
+	<string id="mm_mp_artefactcapture">
+		<text>Captura de artefato</text>
+	</string>
+	<string id="mm_mp_artefdelay">
+		<text>Atraso de artefato (seg)</text>
+	</string>
+	<string id="mm_mp_artefnum">
+		<text>Numero de artefatos</text>
+	</string>
+	<string id="mm_mp_artefstay">
+		<text>Duracao do artefato (min)</text>
+	</string>
+	<string id="mm_mp_autoteambalance">
+		<text>Balanceamento automatico de times</text>
+	</string>
+	<string id="mm_mp_autoteamswap">
+		<text>Troca automatica de times</text>
+	</string>
+	<string id="mm_mp_avail_maps">
+		<text>MAPAS DISPONIVEIS</text>
+	</string>
+	<string id="mm_mp_cancel">
+		<text>Cancelar</text>
+	</string>
+	<string id="mm_mp_cd_key">
+		<text>CD-Key</text>
+	</string>
+	<string id="mm_mp_client">
+		<text>Cliente</text>
+	</string>
+	<string id="mm_mp_create">
+		<text>Criar</text>
+	</string>
+	<string id="mm_mp_damageblock">
+		<text>Invulnerabilidade</text>
+	</string>
+	<string id="mm_mp_damageblockindicator">
+		<text>Indicador de invulnerabilidade</text>
+	</string>
+	<string id="mm_mp_deaths">
+		<text>Mortes</text>
+	</string>
+	<string id="mm_mp_dedicated">
+		<text>Servidor dedicado</text>
+	</string>
+	<string id="mm_mp_empty">
+		<text>Vazio</text>
+	</string>
+	<string id="mm_mp_filters">
+		<text>Filtros</text>
+	</string>
+	<string id="mm_mp_forcerespawn">
+		<text>Reaparecimento forcado (s)</text>
+	</string>
+	<string id="mm_mp_fraglimit">
+		<text>Limite de frags</text>
+	</string>
+	<string id="mm_mp_frags">
+		<text>Frags</text>
+	</string>
+	<string id="mm_mp_freezetime">
+		<text>Tempo de congelamento</text>
+	</string>
+	<string id="mm_mp_friendlyfire">
+		<text>Dano amigo</text>
+	</string>
+	<string id="mm_mp_friendlyindicators">
+		<text>Indicadores amigaveis</text>
+	</string>
+	<string id="mm_mp_friendlynames">
+		<text>Nomes amigaveis</text>
+	</string>
+	<string id="mm_mp_full">
+		<text>Cheio</text>
+	</string>
+	<string id="mm_mp_gamemode">
+		<text>Modo de jogo</text>
+	</string>
+	<string id="mm_mp_host_port">
+		<text>IP/host:porta</text>
+	</string>
+	<string id="mm_mp_internet">
+		<text>Internet</text>
+	</string>
+	<string id="mm_mp_join">
+		<text>Entrar</text>
+	</string>
+	<string id="mm_mp_lan">
+		<text>LAN</text>
+	</string>
+	<string id="mm_mp_listenservers">
+		<text>Ouvir servidores</text>
+	</string>
+	<string id="mm_mp_mapratation">
+		<text>Lista de mapas</text>
+	</string>
+	<string id="mm_mp_maxplayers">
+		<text>Maximo de jogadores</text>
+	</string>
+	<string id="mm_mp_network_connection">
+		<text>Conexao de rede</text>
+	</string>
+	<string id="mm_mp_noanomalies">
+		<text>Sem anomalias</text>
+	</string>
+	<string id="mm_mp_options">
+		<text>Opcoes</text>
+	</string>
+	<string id="mm_mp_password">
+		<text>Senha</text>
+	</string>
+	<string id="mm_mp_player_name">
+		<text>Nome do jogador:</text>
+	</string>
+	<string id="mm_mp_players">
+		<text>Jogadores</text>
+	</string>
+	<string id="mm_mp_publicserver">
+		<text>Servidor publico</text>
+	</string>
+	<string id="mm_mp_quickrefresh">
+		<text>Atualizacao rapida</text>
+	</string>
+	<string id="mm_mp_rateofchange">
+		<text>Coeficiente de mudanca</text>
+	</string>
+	<string id="mm_mp_refresh">
+		<text>Atualizar tudo</text>
+	</string>
+	<string id="mm_mp_reinforcement">
+		<text>Reforcos (s)</text>
+	</string>
+	<string id="mm_mp_respawnoptions">
+		<text>Opcoes de respawn</text>
+	</string>
+	<string id="mm_mp_sel_maps">
+		<text>MAPAS SELECIONADOS</text>
+	</string>
+	<string id="mm_mp_server">
+		<text>SERVIDOR</text>
+	</string>
+	<string id="mm_mp_server_list">
+		<text>LISTA DE SERVIDORES</text>
+	</string>
+	<string id="mm_mp_server_prop">
+		<text>PROPRIEDADES DO SERVIDOR</text>
+	</string>
+	<string id="mm_mp_serverinfo">
+		<text>INFO. DO SERVIDOR</text>
+	</string>
+	<string id="mm_mp_serverlist">
+		<text>SERVIDORES</text>
+	</string>
+	<string id="mm_mp_servername">
+		<text>NOME DO SERVIDOR</text>
+	</string>
+	<string id="mm_mp_serversettings">
+		<text>CONFIGURACOES DO SERVIDOR</text>
+	</string>
+	<string id="mm_mp_spectator">
+		<text>ESPECTADOR</text>
+	</string>
+	<string id="mm_mp_spectator_firsteye">
+		<text>PRIMEIRA PESSOA</text>
+	</string>
+	<string id="mm_mp_spectator_freefly">
+		<text>CAMERA LIVRE</text>
+	</string>
+	<string id="mm_mp_spectator_freelook">
+		<text>VISAO LIVRE</text>
+	</string>
+	<string id="mm_mp_spectator_lookat">
+		<text>TERCEIRA PESSOA</text>
+	</string>
+	<string id="mm_mp_spectator_options">
+		<text>CONFIGURACOES DO ESPECTADOR</text>
+	</string>
+	<string id="mm_mp_spectator_teamonly">
+		<text>APENAS TIME</text>
+	</string>
+	<string id="mm_mp_startweather">
+		<text>CLIMA INICIAL</text>
+	</string>
+	<string id="mm_mp_timelimit">
+		<text>LIMITE DE TEMPO (min)</text>
+	</string>
+	<string id="mm_mp_warmuptime">
+		<text>AQUECIMENTO (seg)</text>
+	</string>
+	<string id="mm_mp_weatheroptions">
+		<text>OPCOES DE CLIMA</text>
+	</string>
+	<string id="mm_mp_withoutfriendlyfire">
+		<text>SEM DANO AMIGAVEL</text>
+	</string>
+	<string id="mm_mp_withoutpassword">
+		<text>SEM SENHA</text>
+	</string>
+	<string id="mm_mp_withoutpunkbuster">
+		<text>SEM PUNKBUSTER</text>
+	</string>
+	<string id="mm_mp_withpassword">
+		<text>USAR SENHA</text>
+	</string>
+	<string id="mp_vote_hint">
+		<text>VOTAR A FAVOR-[$$ACTION_VOTE_YES$$]\nVOTAR CONTRA-[$$ACTION_VOTE_NO$$]\nRESULTADOS-[$$ACTION_VOTE$$]</text>
+	</string>
+	<string id="ping">
+		<text>PING</text>
+	</string>
+	<string id="players">
+		<text>JOGADORES</text>
+	</string>
+	<string id="server name">
+		<text>NOME DO SERVIDOR</text>
+	</string>
+	<string id="version">
+		<text>VERSAO</text>
+	</string>
+	<string id="st_mp_gsfilter">
+		<text>FILTRO:</text>
+	</string>
+</string_table>
