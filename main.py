@@ -1,5 +1,6 @@
 import os
 import xml.etree.ElementTree as ET
+import shutil
 
 def process_xml_files(directory):
     for filename in os.listdir(directory):
@@ -38,8 +39,10 @@ def update_xml_from_import(directory):
             xml_path = os.path.join(directory, xml_filename)
             import_path = os.path.join(directory, filename)
             
-            if os.path.exists(xml_path):
-                apply_import_changes(xml_path, import_path)
+            # Verifica se o arquivo import não está vazio
+            if os.path.exists(import_path) and os.path.getsize(import_path) > 0:
+                if os.path.exists(xml_path):
+                    apply_import_changes(xml_path, import_path)
 
 def apply_import_changes(xml_path, import_path):
     # Lê as mudanças a partir do arquivo import.txt
@@ -75,15 +78,52 @@ def delete_txt_files(directory):
             os.remove(file_path)
             print(f"Excluído: {file_path}")
 
+def copy_xml_from_import(source_dir, target_dir):
+    # Create target directory if it doesn't exist
+    if not os.path.exists(target_dir):
+        os.makedirs(target_dir)
+    
+    # Iterate through files in source directory
+    for filename in os.listdir(source_dir):
+        # Check if file is a text file with "_import" in the name
+        if filename.endswith('.txt') and '_import' in filename:
+            import_path = os.path.join(source_dir, filename)
+            
+            # Check if file exists and is not empty
+            if os.path.exists(import_path) and os.path.getsize(import_path) > 0:
+                # Construct corresponding XML filename
+                xml_filename = filename.replace('_import.txt', '.xml')
+                source_xml_path = os.path.join(source_dir, xml_filename)
+                
+                # Check if corresponding XML exists
+                if os.path.exists(source_xml_path):
+                    # Construct target path
+                    target_xml_path = os.path.join(target_dir, xml_filename)
+                    
+                    try:
+                        # Copy XML to target directory, replacing if it exists
+                        shutil.copy2(source_xml_path, target_xml_path)
+                        print(f"Copied: {xml_filename} to {target_dir}")
+                    except Exception as e:
+                        print(f"Error copying {xml_filename}: {str(e)}")
+                else:
+                    print(f"XML not found for: {filename}")
+            else:
+                print(f"Skipping empty or non-existent file: {filename}")
+
 if __name__ == "__main__":
     # Altere para o diretório correto
-    directory = "./release/Stalker Shadow Of Chernobyl — Tradução Pt-Br/gamedata/config/text/eng"
+    source_directory = "./release/Stalker Shadow Of Chernobyl — Tradução Pt-Br/gamedata/config/text/eng"
+    target_directory = "C:/Program Files (x86)/Steam/steamapps/common/STALKER Shadow of Chernobyl/gamedata/config/text/eng"
 
     # delete txts
-    # delete_txt_files(directory)
+    # delete_txt_files(source_directory)
 
     # process xmls
-    process_xml_files(directory)
+    # process_xml_files(source_directory)
 
     # update xmls
-    # update_xml_from_import(directory)
+    update_xml_from_import(source_directory)
+
+    # copy xmls
+    copy_xml_from_import(source_directory, target_directory)
