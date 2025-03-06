@@ -412,7 +412,7 @@
 		<text>Arma</text>
 	</string>
 	<string id="wp_desert_eagle">
-		<text>Pipa negra</text>
+		<text>Black kite</text>
 	</string>
 	<string id="wpn_hpsa">
 		<text>HPSS-1m</text>
@@ -532,10 +532,10 @@
 		<text>RPG-7u</text>
 	</string>
 	<string id="wpn-sig_m1">
-		<text>SIP de invasao</text>
+		<text>Storming SIP</text>
 	</string>
 	<string id="wpn-sig_m2">
-		<text>SGI de sniper</text>
+		<text>Sniper SGI</text>
 	</string>
 	<string id="wpn-sig220">
 		<text>SIP-t M200</text>
@@ -565,7 +565,7 @@
 		<text>Rifle de assalto especial VLA</text>
 	</string>
 	<string id="wpn-val_m1">
-		<text>VLA de sniper</text>
+		<text>Sniper VLA</text>
 	</string>
 	<string id="wpn-vintorez">
 		<text>Vintar BC</text>

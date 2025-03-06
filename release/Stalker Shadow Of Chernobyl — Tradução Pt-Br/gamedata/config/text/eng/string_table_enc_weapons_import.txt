@@ -135,7 +135,7 @@
 406|<text>GD-05</text>
 409|<text>Granada RGD-5</text>
 412|<text>Arma</text>
-415|<text>Pipa negra</text>
+415|<text>Black kite</text>
 418|<text>HPSS-1m</text>
 421|<text>UDP Compacto</text>
 424|<text>Obokan</text>
@@ -175,8 +175,8 @@
 526|<text>Bulldog 6</text>
 529|<text>Bulldog-6 m209</text>
 532|<text>RPG-7u</text>
-535|<text>SIP de invasao</text>
-538|<text>SGI de sniper</text>
+535|<text>Storming SIP</text>
+538|<text>Sniper SGI</text>
 541|<text>SIP-t M200</text>
 544|<text>SGI 5k</text>
 547|<text>SPSA14</text>
@@ -186,7 +186,7 @@
 559|<text>SVUmk2</text>
 562|<text>TOS 34</text>
 565|<text>Rifle de assalto especial VLA</text>
-568|<text>VLA de sniper</text>
+568|<text>Sniper VLA</text>
 571|<text>Vintar BC</text>
 574|<text>Walker P9m</text>
 577|<text>Walker 9x18</text>
