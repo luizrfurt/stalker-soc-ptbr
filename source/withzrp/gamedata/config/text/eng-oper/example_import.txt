@@ -1,0 +1,1 @@
+4|<text>Esse e um exemplo.</text>

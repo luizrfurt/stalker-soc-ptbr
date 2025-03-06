@@ -1,0 +1,13 @@
+===#### Instruções de instalação ####===
+1. Baixe o arquivo .zip
+2. Extraia no seu local de preferência.
+3. Copie a pasta "gamedata" para a raiz do seu jogo.
+- Se for solicitado para substituir os arquivos locais, aceite.
+4. Lembre se editar o arquivo "fsgame.ltx", permitindo o uso de "game_data":
+- $game_data$ = true| true| $fs_root$| gamedata\
+
+===#### Instruções de desinstalação ####===
+1. Acesse a raiz do seu jogo.
+2. Acesse o caminho "gamedata\config\text\eng-orig".
+2. Copie todos os arquivos dentro dela.
+3. Cole substituindo os arquivos existentes na pasta "gamedata\config\text\eng"
