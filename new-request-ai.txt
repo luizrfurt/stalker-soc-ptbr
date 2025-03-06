@@ -3,19 +3,21 @@ Contexto: S.T.A.L.K.E.R.: Shadow of Chernobyl
 1. Regras Gerais
     Não traduzir: Stalker, Stalkers, stalker, stalkers.
 2. Traduções Específicas
-Facções: Loner → Errante, Duty → Dever, Trader → Comerciante, Freedom → Liberdade, Merc → Merc, Monolith → Monolito, Spetsnaz → Forcas Especiais
+Facções: Loner -> Errante, Duty -> Dever, Trader -> Comerciante, Freedom -> Liberdade, Merc -> Merc, Monolith -> Monolito, Spetsnaz -> Forcas Especiais
 --
-Lugares: Cordon → Cordon, The Garbage / Garbage → Lixao, Agroprom Research Institute → Instituto de Pesquisa Agroprom, The Dark Valley / Dark Valley → Vale Sombrio, Bar → Bar,
-Wild Territory → Territorio Selvagem, Dead City → Cidade Morta, Army warehouses → Armazens militares, Yantar → Yantar, Red Forest → Floresta Vermelha, Pripyat → Prypiat,
-Chernobyl NPP → Usina Nuclear de Chernobyl, Agroprom Underground → Agroprom Subsolo, Lab X-19 → Lab X-19, Lab X-18 → Lab X-18, Lab X-16 → Lab X-16, Lab X-10 → Lab X-10,
-Sarcophagus → Sarcofago, Brain Scorcher → Desintegrador Psiquico, Psi-Brain → Psi-Amp, C-Consciousness → C-Consciencia, Wish Granter → Concessor de Desejos
+Lugares: Cordon -> Cordon, The Garbage / Garbage -> Lixao, Agroprom Research Institute -> Instituto de Pesquisa Agroprom, The Dark Valley / Dark Valley -> Vale Sombrio, Bar -> Bar,
+Wild Territory -> Territorio Selvagem, Dead City -> Cidade Morta, Army warehouses -> Armazens militares, Yantar -> Yantar, Red Forest -> Floresta Vermelha, Pripyat -> Prypiat,
+Chernobyl NPP -> Usina Nuclear de Chernobyl, Agroprom Underground -> Agroprom Subsolo, Lab X-19 -> Lab X-19, Lab X-18 -> Lab X-18, Lab X-16 -> Lab X-16, Lab X-10 -> Lab X-10,
+Sarcophagus -> Sarcofago, Brain Scorcher -> Desintegrador Psiquico, Psi-Brain -> Psi-Amp, C-Consciousness -> C-Consciencia, Wish Granter -> Concessor de Desejos
 --
-Personagens: Marked One → Marca
+Personagens: Marked One -> Marca
 
 Não traduza quaisquer outro nome de personagem.
 --
-Mutantes: Flesh → Carniceiro, Bloodsucker → Sanguessuga, Snork → Snorkel, Burer → Lancador, Pseudodog → Pseudocao, Burer → Lancador
+Mutantes: Flesh -> Carniceiro, Bloodsucker -> Sanguessuga, Snork -> Snorkel, Burer -> Lancador, Pseudodog -> Pseudocao, Burer -> Lancador
 --
-Outros Termos: Task → Missao, Detachment → Unidade, Snipers → Snipers, Father → Padre, Suit e Outfit → Traje, Dog → Cao, off-road → fora da estrada
+Anomalias e Artefatos: Whirligig -> Redemoinho, Flash -> Relampago, Moonlight -> Luar, Urchin / Sea Urchin -> Ourico
+-
+Outros Termos: Task -> Missao, Detachment -> Unidade, Snipers -> Snipers, Father -> Padre, Suit e Outfit -> Traje, Dog -> Cao, off-road -> fora da estrada
 
 Me de o resultado no mesmo formato que mandei, quebrado por linhas, somente em portugues.
