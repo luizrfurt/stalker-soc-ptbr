@@ -1,124 +1,124 @@
 <?xml version="1.0" encoding="windows-1251" ?>
 <string_table>
 	<string id="Antirad">
-		<text>Medicamentos para reduzir os efeitos da radiacao</text>
+		<text>Medicamentos antirradiacao</text>
 	</string>
 	<string id="Arm-heavy">
-		<text>Equipamento de protecao pesado para stalker</text>
+		<text>Equipamento pesado de stalker</text>
 	</string>
 	<string id="Arm-light">
-		<text>Equipamento de protecao leve para stalker</text>
+		<text>Equipamento leve de stalker</text>
 	</string>
 	<string id="Arm-medium">
-		<text>Equipamento de protecao medio para stalker</text>
+		<text>Equipamento medio de stalker</text>
 	</string>
 	<string id="bandage">
-		<text>Curativos para curar ferimentos</text>
+		<text>Bandagens</text>
 	</string>
 	<string id="Binocul">
-		<text>Binoculares para observacao a longa distancia</text>
+		<text>Binoculos</text>
 	</string>
 	<string id="Bread">
 		<text>Pao</text>
 	</string>
 	<string id="cit_deadcity_maps_desc">
-		<text>Mapa detalhado da Cidade Morta, incluindo a localizacao dos Mercs</text>
+		<text>Um mapa detalhado da Cidade Morta, incluindo as posicoes dos Mercs</text>
 	</string>
 	<string id="cit_deadcity_maps_name">
 		<text>Mapa da Cidade Morta</text>
 	</string>
 	<string id="cit_doctors_key_desc">
-		<text>Chave do medico para acessar um esconderijo secreto em Pripyat</text>
+		<text>Chave do doutor para um esconderijo secreto em Prypiat</text>
 	</string>
 	<string id="cit_doctors_key_short_desc">
-		<text>Chave do medico</text>
+		<text>Chave do doutor</text>
 	</string>
 	<string id="Conserva">
-		<text>Comida enlatada</text>
+		<text>Delicia do turista</text>
 	</string>
 	<string id="Detect1">
 		<text>Detector de anomalias (DA-2)</text>
 	</string>
 	<string id="Devic">
-		<text>Instrumentos e equipamentos diversos</text>
+		<text>Instrumentos e dispositivos</text>
 	</string>
 	<string id="device-PDA">
-		<text>PDA - Assistente digital pessoal</text>
+		<text>PDA</text>
 	</string>
 	<string id="device-torch">
 		<text>Lanterna</text>
 	</string>
 	<string id="enc_equipment_armors_arm-heavy">
-		<text>Traje de protecao. Peso: 18kg. Protege contra Agua-viva, Fuz queimado, diversas anomalias e danos fisicos. Inclui placas biometalicas no torso e costas. Vem com capacete plastico reforcado e dois cilindros de oxigenio. Nota: O traje se desgasta com o tempo e pode se tornar inutilizavel.</text>
+		<text>Traje protetor. Peso: 18kg. Detalhes: Protege o corpo de Gelatina, Penugem Queimada, a maioria das anomalias e danos fisicos. O torso e as costas sao protegidos por placas bio-metalicas embutidas. O traje e equipado com um capacete de plastico reforcado e hermetico e duas garrafas de oxigenio. Observacao: Durante periodos prolongados de uso, o traje rasga e gradualmente se deteriora alem do uso.</text>
 	</string>
 	<string id="enc_equipment_armors_arm-light">
-		<text>Traje de protecao. Peso: 8kg. Protege contra anomalias fracas e danos fisicos. Inclui mascara de oxigenio. Nota: O traje se desgasta com o tempo e pode se tornar inutilizavel.</text>
+		<text>Traje protetor. Peso: 8 kg. Detalhes: Protege o corpo de anomalias fracas e danos fisicos. Equipado com uma mascara de oxigenio. Observacao: Durante periodos prolongados de uso, o traje rasga e gradualmente se deteriora alem do uso.</text>
 	</string>
 	<string id="enc_equipment_armors_arm-medium">
-		<text>Traje de protecao. Peso: 12kg. Protege contra Agua-viva, Fuz queimado, muitas anomalias e danos fisicos. Inclui capacete hermetico e cilindro de oxigenio. Nota: O traje se desgasta com o tempo e pode se tornar inutilizavel.</text>
+		<text>Traje protetor. Peso: 12 kg. Detalhes: Protege o usuario de Gelatina, Penugem Queimada, muitas anomalias e danos fisicos. Equipado com um capacete hermetico e uma garrafa de oxigenio. Observacao: Durante periodos prolongados de uso, o traje rasga e gradualmente se deteriora alem do uso.</text>
 	</string>
 	<string id="enc_equipment_armors_sci2">
-		<text>Traje S.C.A.P.E. vermelho com capacete hermetico. Peso: 11kg. Protege contra fogo, acido, gas toxico, anomalias, Fuz queimado e danos fisicos. Inclui dois cilindros de oxigenio. Nota: O traje se desgasta com o tempo e pode se tornar inutilizavel.</text>
+		<text>Um traje S.C.A.P.E vermelho com um capacete hermetico. Peso: 11kg. Descricao: Protege o corpo de fogo, acido, gas toxico, varias anomalias, Penugem Queimada e danos fisicos. Equipado com duas garrafas de oxigenio. Observacao: Durante periodos prolongados de uso, o traje rasga e gradualmente se deteriora alem do uso.</text>
 	</string>
 	<string id="enc_equipment_devic_binocul1">
-		<text>Binoculares militares de campo</text>
+		<text>Binoculos de campo militar</text>
 	</string>
 	<string id="enc_equipment_devic_detect1">
-		<text>Dispositivo para detectar anomalias e distorcoes. Alerta sonoro ao detectar uma anomalia. Deve ser preso ao cinto e ligado para funcionar corretamente.</text>
+		<text>Um dispositivo para detectar campos de anomalia e disturbios. Notifica sua presenca com um som. Precisa ser preso ao cinto e ligado para operar corretamente.</text>
 	</string>
 	<string id="enc_equipment_devic_device-PDA1">
-		<text>PDA - Assistente digital pessoal essencial na Zona.</text>
+		<text>Assistente digital pessoal - indispensavel na Zona.</text>
 	</string>
 	<string id="enc_equipment_devic_device-torch1">
-		<text>Lanterna potente, ideal para areas com pouca iluminacao.</text>
+		<text>Uma lanterna poderosa. Muito util em areas com iluminacao insuficiente.</text>
 	</string>
 	<string id="enc_equipment_devic_device-torch1_m1">
-		<text>Lanterna potente. Tempo de recarga reduzido devido a um transformador modernizado.</text>
+		<text>Uma lanterna poderosa. O tempo de recarga da bateria foi reduzido gracas a um transformador modernizado.</text>
 	</string>
 	<string id="enc_equipment_energydrink">
-		<text>Bebida energetica com cafeina, taurina e vitaminas. Ideal para recuperar energias rapidamente!</text>
+		<text>Esta e uma excelente bebida energetica composta de cafeina, taurina e uma mistura de vitaminas rejuvenescedoras. Perfeito quando voce esta muito cansado para seguir em frente!</text>
 	</string>
 	<string id="enc_equipment_food_bread1">
-		<text>Pao nao contaminado. Aparentemente e seguro, apesar de nao se saber quem o assou na Zona.</text>
+		<text>E dificil dizer quem consegue assar esses paes na Zona, mas o pao nao esta contaminado e e perfeitamente comestivel. Bem, pelo menos nenhum dos stalkers reclamou disso.</text>
 	</string>
 	<string id="enc_equipment_food_conserva1">
-		<text>Comida enlatada de um armazem militar saqueado. O prazo de validade ainda nao expirou.</text>
+		<text>Comida enlatada de um armazem militar invadido por stalkers. O periodo de validade ainda nao expirou.</text>
 	</string>
 	<string id="enc_equipment_food_kolbasa1">
-		<text>Salsicha diet feita de frango e soja. Comum como refeicao principal dos stalkers devido a falta de outras opcoes.</text>
+		<text>Feita de uma mistura de frango e soja, a salsicha "diet" e frequentemente, por falta de outras opcoes, o cafe da manha, almoco e jantar de um stalker em um so.</text>
 	</string>
 	<string id="enc_equipment_food_vodka1">
-		<text>Vodka fabricada pela GSC. Reduz os efeitos da radiacao, mas deve ser consumida com moderacao.</text>
+		<text>Vodka feita pela empresa GSC. Desce facilmente e reduz significativamente os efeitos da radiacao, mas por razoes obvias deve ser apreciada com moderacao.</text>
 	</string>
 	<string id="enc_equipment_medi_antirad1">
 		<text>Reduz os efeitos da radiacao.</text>
 	</string>
 	<string id="enc_equipment_medi_bandage1">
-		<text>Curativos para estancar sangramentos.</text>
+		<text>Bandagens. Ajudam a estancar o sangramento.</text>
 	</string>
 	<string id="enc_equipment_medi_medkit1">
-		<text>Kit medico multiuso para tratar diversos tipos de ferimentos, como cortes, queimaduras, envenenamentos, entre outros.</text>
+		<text>Um kit medico multifuncional. Usado para tratar lesoes de varios tipos e gravidades - feridas, queimaduras, envenenamentos, etc.</text>
 	</string>
 	<string id="enc_equipment_medi_medkit2">
-		<text>Kit medico especializado para tratar danos fisicos e perda de sangue. Inclui coagulante sanguineo, antibioticos, imunologicos e analgesicos.</text>
+		<text>Um conjunto medico especializado para combater danos fisicos e perda de sangue. Inclui um componente para coagulacao sanguinea, antibioticos, estimulantes imunologicos e analgesicos.</text>
 	</string>
 	<string id="enc_equipment_medi_medkit3">
-		<text>Kit medico projetado para a Zona. Inclui materiais para curar feridas e eliminar radionucleotideos do corpo. Previne doencas por radiacao e reduz a dose acumulada de radiacao.</text>
+		<text>Conjunto medico, projetado especialmente para trabalho na Zona. O conjunto inclui meios de curar feridas, bem como meios de eliminar radionucleideos do corpo. Impede o desenvolvimento de doencas por ondas de radio e diminui a dose de radiacao acumulada.</text>
 	</string>
 	<string id="energy_drink_name">
 		<text>Bebida energetica</text>
 	</string>
 	<string id="energy_drink_short_name">
-		<text>Energetico</text>
+		<text>Bebida energetica</text>
 	</string>
 	<string id="Equipment">
-		<text>Equipamentos e alimentos</text>
+		<text>Equipamento e comida</text>
 	</string>
 	<string id="Food">
-		<text>Alimentos</text>
+		<text>Comida</text>
 	</string>
 	<string id="Kolbasa">
-		<text>Salsicha diet</text>
+		<text>Salsicha dietetica</text>
 	</string>
 	<string id="Medi">
 		<text>Medicamentos</text>
@@ -127,22 +127,22 @@
 		<text>Kit medico</text>
 	</string>
 	<string id="Medkit_army">
-		<text>Kit de primeiros socorros militar</text>
+		<text>Kit de primeiros socorros do exercito</text>
 	</string>
 	<string id="Medkit_scientific">
 		<text>Kit de primeiros socorros cientifico</text>
 	</string>
 	<string id="Sci2">
-		<text>Equipamento Cientifico EXP-4</text>
+		<text>EXP-4 cientifico</text>
 	</string>
 	<string id="Vodka">
-		<text>Vodka dos Cossacos</text>
+		<text>Vodka Cossacos</text>
 	</string>
 	<string id="st_detector">
 		<text>Detector de anomalias</text>
 	</string>
 	<string id="st_detector_descr">
-		<text>Utilizado para detectar zonas anormais e focos de contaminacao radioativa.</text>
+		<text>Destinado a deteccao de zonas anomala, bem como focos de poluicao radioativa.</text>
 	</string>
 	<string id="st_grenade_gd5">
 		<text>Granada de fumaca</text>

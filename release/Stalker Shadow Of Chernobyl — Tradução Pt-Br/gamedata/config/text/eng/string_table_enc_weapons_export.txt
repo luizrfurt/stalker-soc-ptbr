@@ -1,0 +1,193 @@
+4|<text>Ammunition</text>
+7|<text>.45ACP rounds</text>
+10|<text>.45ACP</text>
+13|<text>.45ACP Hydro-Shock rounds</text>
+16|<text>.45Hydro</text>
+19|<text>12x70 shot rounds</text>
+22|<text>12x70 shot</text>
+25|<text>12x76 dart rounds</text>
+28|<text>12x76 dart</text>
+31|<text>12x76 slug rounds</text>
+34|<text>12x76 slug</text>
+37|<text>5.45x39 mm BP rounds</text>
+40|<text>5.45x39 BP</text>
+43|<text>5.45x39 mm rounds</text>
+46|<text>5.45x39</text>
+49|<text>5.56x45 mm AP rounds</text>
+52|<text>5.56 AP</text>
+55|<text>5.56x45 mm SS109 rounds</text>
+58|<text>5.56 SS</text>
+61|<text>7.62x54 mm 7N1 rounds</text>
+64|<text>7,62 7N1</text>
+67|<text>7.62x54R 7N14 rounds</text>
+70|<text>7.62 7N14</text>
+73|<text>7.62x54 mm BP rounds</text>
+76|<text>7.62 BP</text>
+79|<text>9x18 mm rounds</text>
+82|<text>9x18</text>
+85|<text>9x18 mm +P+ rounds</text>
+88|<text>9x18 +P+</text>
+91|<text>9x19mm FMJ</text>
+94|<text>9x19 FMJ</text>
+97|<text>9x19mm PB1s rounds</text>
+100|<text>9x19 PB1s</text>
+103|<text>9x39 mm SP-6 rounds</text>
+106|<text>9x39 SP-6</text>
+109|<text>9x39 mm PAB-9 rounds</text>
+112|<text>9x39 PAB9</text>
+115|<text>9x39 mm SP-5 rounds</text>
+118|<text>9x39 SP-5</text>
+121|<text>Gauss rounds</text>
+124|<text>Gauss</text>
+127|<text>M209 grenade</text>
+130|<text>M209</text>
+133|<text>OG-7V grenade</text>
+136|<text>OG-7V</text>
+139|<text>VOG-25 grenade</text>
+142|<text>VOG-25</text>
+145|<text>VOG-25R grenade</text>
+148|<text>VOG-25R</text>
+151|<text>A standard round for the Kora-919 and the SIP-t M200 pistols. It has a standard core and a full-jacketed bullet.</text>
+154|<text>An Hydro-Shock round with improved characteristics for the Kora-919 and the SIP-t M200 pistols. It has a hollow-point bullet with a good stopping effect.</text>
+157|<text>A standard 12 calibre round filled with 6 mm shot. It has an enormous killing power at a close range. It is designed for the BM 17, the Chaser 13 and the SPSA14 shotguns. It is most effective at ranges under 30 meters.</text>
+160|<text>A finned bullet. It can stabilize in flight, which increases its accuracy. It is designed for the TOS 34, the BM 17, Chaser 13 and the SPSA14 shotguns. It has an armor-piercing effect and an increased range. It is effective at a range of up to 150 meters.</text>
+163|<text>A round with a heavy naked bullet. It is usually used for big game hunting, but can be used for other purposes. Its heavy bullet does not pierce but actually forces itself through bulletproof vests. It is designed for the TOS 34, the BM 17, the Chaser 13 and the SPSA14 shotguns. It is effective at a range of up to 100 meters.</text>
+166|<text>An armor-piercing round for the Akm 74/2, the Akm 74/2U and the ON-94 assault rifles. It has an improved armor-piercing effect, but a decreased stopping effect.</text>
+169|<text>A standard round for the Akm 74/2, the Akm 74/2U and the Obokan assault rifles. It has a standard core and a full-jacketed bullet.</text>
+172|<text>A round with an armor-piercing bullet for the IL 86, the TRs 301, the SGI 5k, the GP 37 and the FT 200M assault rifles.</text>
+175|<text>A standard NATO round widely-known under its Belgian SS109 index. It is used with the IL 86, the TRs 301, the SGI 5k, the GP 37 and the FT 200M assault rifles.</text>
+178|<text>A cheap modification of the sniper round for the SVDm 2, SVUmk2 sniper rifles.</text>
+181|<text>A sniper round for the SVDm 2 and the SVUmk2 sniper rifles. It has an improved accuracy and range.</text>
+184|<text>A round with an armor-piercing bullet for the SVDm 2 and the SVUmk2 sniper rifles.</text>
+187|<text>A standard round for the PMm, PB1s, Fort-12Mk2 pistols. It has a standard core and a full-jacketed bullet. It has a weak armor-piercing effect.</text>
+190|<text>A round with improved ballistic characteristics for the PMm, the PB1s and the Fort-12Mk2 pistols. Due to the high initial velocity of its bullet, it is much more effective then a standard round. It has a better armor-piercing effect.</text>
+193|<text>A standard round for the Walker P9m pistol and the Viper 5 submachine gun. It has a full-jacketed bullet with a weak armor-piercing effect.</text>
+196|<text>An improved round for the Walker P9m and the Viper 5 submachine gun. A high-powered round with a hollow-point bullet and an armor-piercing core.</text>
+199|<text>An armor-piercing round for the Tunder S14 and the VLA assault rifles and for the Vintar special sniper rifle. It has a subsonic bullet which due to its special design can penetrate most bulletproof vests at a range of up to 400 meters.</text>
+202|<text>A round for the Tunder S14 and the VLA assault rifles and the Vintar special sniper rifle. The later and cheaper modification of the armor-piercing round. It has a subsonic bullet which due to its special design can penetrate most bulletproof vests at a range of up to 300 meters.</text>
+205|<text>A sniper round for the Tunder S14 and the VLA assault rifles and the Vintar special sniper rifle. It has a subsonic bullet which due to its heavy weight and special design can penetrate most bulletproof vests at a range of up to 400 meters.</text>
+208|<text>Energy cells prepared with lethal elements in a Gauss rifle magazine. The energy source is an encapsulated piece of the Flash artifact.</text>
+211|<text>A grenade for the ?203 grenade launcher (for the TRs 301, GP 37, SGI 5k, IL 86 rifles) and the integrated grenade launcher of the FT 200M.</text>
+214|<text>A highly-explosive grenade for the RPG-7u. It is equally effective against troops and light armored vehicles.</text>
+217|<text>A grenade for the GP-25 Kostyer grenade launcher, the integrated grenade launcher of the Tunder, and the Bulldog 6 revolver grenade launcher.</text>
+220|<text>A grenade for the GP-25 Kostyer grenade launcher, the integrated grenade launcher of the Tunder S14 and the Bulldog 6 revolver grenade launcher. Prior explosion the grenade leaps up about one meter increasing its killing effect.</text>
+223|<text>A defensive hand grenade with a large radius of splinter damage. It is recommended to throw it only from behind cover.</text>
+226|<text>A smoke grenade. Dedicated to create a smoke screen. Lasts for 10 seconds.</text>
+229|<text>An offensive hand grenade with a small radius of splinter damage.</text>
+232|<text>The weapon of the elite troops in the Russian army. It was designed as a replacement for the outdated Akm 74/2. Not only the Obokan’s internal mechanisms but also its receiver and its barrel are movable, which decreases the recoil and increases accuracy.\n Ammunition:\n standard 5.45x39 mm,\n armor-piercing 5.45x39 mm BP.</text>
+235|<text>Machine gun supplied with a modified optic sight for carrying out sniper fire. The optics embedded into the body of the weapon has a higher resolution than the standard model.</text>
+238|<text>Given machine gun has an integral granade launcher to go under the barrell, which makes this an even more universal weapon.</text>
+241|<text>A grenade launcher for the Akm 74/2 and Akm 74/2U.\n Ammunition: VOG-25 grenade,\n and VOG-25R grenade.</text>
+244|<text>A grenade launcher for the SGI 5k, the TRs 301, the GP 37 and the IL 86.\n Ammunition: M209 grenades.</text>
+247|<text>A widely used Soviet scope. The scope can be mounted on a weapon using a dovetail mount used by the Warsaw Pact countries.</text>
+250|<text>A 4-x scope produced in the NATO countries. It can be attached to a standard NATO mount, also called the Picatinni rail.</text>
+253|<text>An effective silencer made by Zone gunsmiths. The kit includes a set of adapters for weapons of any calibre.</text>
+256|<text>Assault rifle with a folding butt, 1974 model, uses 5.45x39 mm ammunition. It is a simple and reliable weapon, but the cheapness of its production affected its ergonomy and accuracy. In the Zone, it is the main weapon of the military stalkers and of many solo fighters.\n Ammunition:\n standard 5.45x39 mm,\n armor-piercing 5.45x39 mm BP.</text>
+259|<text>The modified closing system increases the speed of shooting.</text>
+262|<text>The weight and size of the Akm 74/2U are similar to those of a submachine gun, but its operation mode and the ammunition it uses place it into the class of the assault rifles. Its advantages are its small dimensions very useful when fighting inside a building or in a thick forest and a relatively high piercing capabilities. Its main disadvantages are a limited accuracy range and quick overheating when firing bursts.\n Ammunition:\n standard 5.45x39 mm,\n armor-piercing 5.45x39 mm BP.</text>
+265|<text>Enhanced machine gun. Comes with a non-replaceable muffler.</text>
+268|<text>Adopted by the American army and police, as well as many military and police units all over the world. It is also very popular among the criminals for its high-powered round and its high-capacity magazine.\n Ammunition:\n standard 9x19 mm FMJ,\n improved 9x19 mm PB1s.</text>
+271|<text>A sawn-off BM 17 rifle. It is lighter and more compact then the original two-barrel rifle, but it is effective only at a close range. One of the weapons most commonly used by beginners.\n Ammunition:\n 12x70 shot,\n 12x76 slug,\n 12x76 dart.</text>
+274|<text>Weapon of hired assassins. Good old reliable kora, comes with a non-replaceable muffler.</text>
+277|<text>A nice gun, which was presented in all the conflicts of the 20th century with honor and entered the new century with confidence. Its small-size magazine is partially compensated by the use of a high-powered round.\n Ammunition:\n standard .45 ACP,\n improved .45 ACP Hydro-Shock.</text>
+280|<text>A real gun for real heroes. It is big, heavy and very destructive. It is not very popular in the Zone due to its price and size. After all, you don't go hunting for elephants every day!\n Ammunition:\n standard .45 ACP,\n improved .45 ACP Hydro-Shock.</text>
+283|<text>A gun that is already powerful, reworked to fit rifle bullets. Truly a killing machine for close-range combat.</text>
+286|<text>An assault rifle combined with a grenade launcher. It is equipped with an electronic fire control module and a 40-mm grenade launcher.\n Ammunition:\n standard 5.56x45 mm SS109,\n armor-piercing 5.56x45 mm AP.</text>
+289|<text>A police pistol of Ukrainian production, replaced the PMm. In comparison with the other pistols, it has improved accuracy, ergonomics and a larger magazine, but it is less reliable.\n Ammunition:\n standard 9x18 mm,\n improved 9x18 mm +P+.</text>
+292|<text>Experimental prototype of the Fort gun</text>
+295|<text>A German assault rifle. It is a first-grade specimen of the modern weaponry: it is light, reliable, and ergonomic.\n Ammunition:\n standard 5.56x45 mm SS109,\n armor-piercing 5.56x45 mm AP.</text>
+298|<text>A super-accurate weapon made by the scientists in the Zone. It is almost noiseless, because instead of gunpowder, it uses the artifact's energy for firing rather than steam gases. In spite of the Gauss gun’s tremendous firepower, the recoil is insignificant. The accuracy and the killing power of this gun exceed those of all other small arms.\n Ammunition: 2-mm Gauss rounds.</text>
+301|<text>An assault rifle combined with a grenade launcher. It is a very good type of assault rifle for the Zone conditions: it is compact, reliable, but universal and powerful. The Tunder S14 is one of the favorite rifles of the military stalkers.\n Ammunition:\n standard 9x39 mm PAB-9,\n armor-piercing 9x39 mm SP-6,\n sniper 9x39 mm SP-5,\n VOG-25 and VOG-25R grenades for the grenade launcher.</text>
+304|<text>The given barrell is the excellent work of one of the stalkers-craftsmen who managed to work the rifle to by able to fit the more widespread 5.45 mm bullet.</text>
+307|<text>This pistol deserves to be considered as one of the best pistols of the 20th century. It is reliable, powerful and has a good grouping of shots. The magazine can hold 13 rounds.\n Ammunition:\n standard 9x19 mm FMJ,\n improved 9x19 mm PB1s.</text>
+310|<text>Hunting knife</text>
+313|<text>After the British army replaced this rifle with the German-made GP 37, it appeared in large quantities first on the black market and then in the Zone. The IL 86’s main advantages are a standard 4-x scope and the high accuracy of the first shot. In burst mode, its accuracy decreases greatly, and the main mechanisms of the rifle are not reliable enough.\n Ammunition:\n standard 5.56x45 mm SS109,\n armor-piercing 5.56x45 mm AP.</text>
+316|<text>With a few modifications the effect of the throwing up of the barrell was diminished</text>
+319|<text>Weapon comes with an integrated muffler. Many parts are replaced with lighter analogues, which makes the weapon significantly lighter.</text>
+322|<text>A light rifle with an effective fire range of up to 300 meters. Due its to exceptionally easy triggering, high ergonomics and low weight, the weapon is highly accurate, though it is too sensitive to dirt and is not always suitable for use under difficult field conditions.\n Ammunition:\n standard 5.56x45 mm SS109,\n armor-piercing 5.56x45 mm AP.</text>
+325|<text>Modification of storming weaponry for firing single shots. It was assumed that it was going to be used as a cheap analog to the sniper rifle.</text>
+328|<text>One of the best weapons in the submachine gun class. During the last decades of the 20th century it was adopted by the army and police special forces units in many countries. When it was gradually replaced with more up-to-date models, it appeared on the black market, and then in the Zone.\n Ammunition:\n standard 9x19 mm FMJ,\n improved 9x19 mm PB1s.</text>
+331|<text>Light, compact, and now redone to fit a more wide-spread caliber, this machine gun is a true find for beginning shooters.</text>
+334|<text>A variation on a basic model. A non-replaceable muffler is added.</text>
+337|<text>A pistol with an integrated silencer, it was used by Soviet special forces. It is now outdated, but in skilful hands, still very effective.\n Ammunition:\n standard 9x18 mm,\n improved 9x18 mm +P+.</text>
+340|<text>The most widespread pistol in the Zone. It is a legacy of the Soviet era. It is relatively reliable and cheap, has low magazine capacity, low power and an unsatisfactory grouping of shots. It is the main weapon of a beginning stalker.\n Ammunition:\n standard 9x18 mm,\n improved 9x18 mm +P+.</text>
+343|<text>A revolver-type grenade launcher. Sometimes, it is just indispensable, particularly when targeting large numbers of mutants, attacking well-guarded stationary objects or fighting especially tough creatures.\n Ammunition: VOG-25 grenade,\n and VOG-25R grenade.</text>
+346|<text>A variation of the revolving granade launcher. The given model is made especially for use of granades of the western model.</text>
+349|<text>A grenade launcher developed in the 1960s. Such grenade launchers are stored in large quantities in army depots, from where they are transferred to the Zone. Such weapon is rare for stalkers: its huge dimensions and heavy weight make it unpopular, though it is indispensable for some missions.\n Ammunition: OG-7V.</text>
+352|<text>The weapon was made for warfare in the city. To lessen the weight, some parts were removed or replaced. As a result, there is no way to attach neither a sight nor a granade launcher under the barrell. But at least it weighs almost half of what it did before.</text>
+355|<text>Modified for sniper fire. Furnished with a non-removeable optical sight of heightened focus.</text>
+358|<text>A model developed back in 1975 but still popular all around the world. Its magazine has low capacity, but its mechanism is absolutely reliable. Its second advantage is the use of the high-powered Kora round.\n Ammunition:\n standard .45 ACP,\n improved .45 ACP Hydro-Shock.</text>
+361|<text>A relatively new assault rifle for the 5.56x45 mm SS109 round. This weapon is very popular due to its accuracy, soft recoil, and high reliability.\n Ammunition:\n standard 5.56x45 mm SS109,\n armor-piercing 5.56x45 mm AP.</text>
+364|<text>The SPSA14 smooth-bore rifle was developed in the late 1970th. This weapon is very reliable and flexibly used. It is however relatively big, expensive and its mechanism is too complex. Probably, this is the best close range gun in the Zone.\n Ammunition:\n 12x70 shot,\n 12x76 slug,\n 12x76 dart.</text>
+367|<text>UNIQUE WEAPON. This shotgun model has a rifled bore which greatly increases its accuracy when firing darts or slugs. However, using shot is more difficult.\n Ammunition:\n 12x70 shot,\n 12x76 slug,\n 12x76 dart.</text>
+370|<text>This rifle was widely used in all operations of the Soviet and Russian armies since 1960. It proved itself to be an exceptionally reliable and handy weapon. In the Zone it is preferred by the experienced stalkers of the Duty faction which hunt mutants.\n Ammunition:\n standard 7.62x54 mm 7N1,\n armor-piercing 7.62x54 mm BP,\n sniper 7.62x54 mm 7N14.</text>
+373|<text>Improved optics, and thanks to the change the resolution of the image is increased. The balance in the weapon is increased, and as a result the recoil is decreased.</text>
+376|<text>A more up-to-date version of the sniper rifle. A compact bullpup model. It is excellent for long trips in the Zone.\n Ammunition:\n standard 7.62x54 mm 7N1,\n armor-piercing 7.62x54 mm BP,\n sniper 7.62x54 mm 7N14.</text>
+379|<text>This hunting rifle is popular but there’s nothing noteworthy about it.\n Ammunition:\n 12x70 shot,\n 12x76 slug,\n 12x76 dart.</text>
+382|<text>A reliable weapon. As a quality compact close-range weapon, it is very popular among the Zone veterans.\n Ammunition:\n standard .45 ACP,\n improved .45 ACP Hydro-Shock.</text>
+385|<text>This weapon is based on the Vintar noiseless sniper rifle, but it has a folding butt, can fire bursts and has a larger magazine. It was originally designed for special forces operating in conditions demanding noiseless and flameless fire.\n Ammunition:\n standard 9x39 mm PAB-9,\n armor-piercing 9x39 mm SP-6,\n sniper 9x39 mm SP-5.</text>
+388|<text>Differs from the basic model in its ability to add an optical sight PSO-1.</text>
+391|<text>A special sniper rifle designed for noiseless and flameless sniper fire and equipped with an integrated silencer. It can pierce any bulletproof vest at a range of 400 meters. It is a weapon highly valued by stalkers of any level.\n Ammunition:\n standard 9x39 mm PAB-9,\n armor-piercing 9x39 mm SP-6,\n sniper 9x39 mm SP-5.</text>
+394|<text>An excellent pistol. Highly reliable with a high capacity magazine and a good fire accuracy, especially in the case of the model designed for the 9 mm FMJ round.\n Ammunition:\n standard 9x19 mm FMJ,\n improved 9x19 mm PB1s.</text>
+397|<text>Modification of the gun for ability to use bullets of the 9x18mm calibre.</text>
+400|<text>An smooth-bore pump-action rifle made for use in the most hostile environment. It is very reliable. All its details are covered with anticorrosive coating.\n Ammunition:\n 12x70 shot,\n 12x76 slug,\n 12x76 dart.</text>
+403|<text>F1 grenade</text>
+406|<text>GD-05</text>
+409|<text>RGD-5 grenade</text>
+412|<text>Weapon</text>
+415|<text>Black kite</text>
+418|<text>HPSS-1m</text>
+421|<text>UDP Compact</text>
+424|<text>Obokan</text>
+427|<text>Sniper Obokan</text>
+430|<text>Storming Obokan</text>
+433|<text>GP-25 Kostyer</text>
+436|<text>M203</text>
+439|<text>PSO-1 scope</text>
+442|<text>SUSAT scope</text>
+445|<text>Silencer</text>
+448|<text>Akm 74/2</text>
+451|<text>Fast-shooting Akm 74/2</text>
+454|<text>Akm 74/2U</text>
+457|<text>Akm 74/2U special</text>
+460|<text>Martha</text>
+463|<text>Sawn-off dbl-barrel</text>
+466|<text>Noiseless kora</text>
+469|<text>Kora-919</text>
+472|<text>Big Ben</text>
+475|<text>FT 200M</text>
+478|<text>Fort-12Mk2</text>
+481|<text>Fort-15</text>
+484|<text>GP 37</text>
+487|<text>Gauss gun</text>
+490|<text>Tunder S14</text>
+493|<text>"Tunder" 5.45</text>
+496|<text>IL 86</text>
+499|<text>Balance IL 86</text>
+502|<text>Lightened IL 86</text>
+505|<text>TRs 301</text>
+508|<text>Sniper TRs 301</text>
+511|<text>Viper 5</text>
+514|<text>Viper 5 9x18</text>
+517|<text>Noiseless Viper</text>
+520|<text>Noiseless pistol (PB1s)</text>
+523|<text>PMm</text>
+526|<text>Bulldog 6</text>
+529|<text>Bulldog-6 m209</text>
+532|<text>RPG-7u</text>
+535|<text>Storming SIP</text>
+538|<text>Sniper SGI</text>
+541|<text>SIP-t M200</text>
+544|<text>SGI 5k</text>
+547|<text>SPSA14</text>
+550|<text>Threaded SPSA-14</text>
+553|<text>Sniper rifle (SVDm 2)</text>
+556|<text>"Farshooter" SVDm 2</text>
+559|<text>SVUmk2</text>
+562|<text>TOS 34</text>
+565|<text>VLA special assault rifle</text>
+568|<text>Sniper VLA</text>
+571|<text>Vintar BC</text>
+574|<text>Walker P9m</text>
+577|<text>Walker 9x18</text>
+580|<text>Chaser 13</text>

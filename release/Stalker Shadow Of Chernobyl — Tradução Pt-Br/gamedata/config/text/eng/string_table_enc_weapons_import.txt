@@ -1,0 +1,193 @@
+4|<text>Municao</text>
+7|<text>Munições .45ACP</text>
+10|<text>.45ACP</text>
+13|<text>Munições .45ACP Hydro-Shock</text>
+16|<text>.45Hydro</text>
+19|<text>Munições de tiro 12x70</text>
+22|<text>Tiro 12x70</text>
+25|<text>Munições de dardo 12x76</text>
+28|<text>Dardo 12x76</text>
+31|<text>Munições de bala 12x76</text>
+34|<text>Bala 12x76</text>
+37|<text>Munições 5,45x39 mm BP</text>
+40|<text>5,45x39 BP</text>
+43|<text>Munições 5,45x39 mm</text>
+46|<text>5,45x39</text>
+49|<text>Munições 5,56x45 mm AP</text>
+52|<text>5,56 AP</text>
+55|<text>Munições 5,56x45 mm SS109</text>
+58|<text>5,56 SS</text>
+61|<text>Munições 7,62x54 mm 7N1</text>
+64|<text>7,62 7N1</text>
+67|<text>Munições 7,62x54R 7N14</text>
+70|<text>7,62 7N14</text>
+73|<text>Munições 7,62x54 mm BP</text>
+76|<text>7,62 BP</text>
+79|<text>Munições 9x18 mm</text>
+82|<text>9x18</text>
+85|<text>Munições 9x18 mm +P+</text>
+88|<text>9x18 +P+</text>
+91|<text>9x19mm FMJ</text>
+94|<text>9x19 FMJ</text>
+97|<text>Munições 9x19mm PB1s</text>
+100|<text>9x19 PB1s</text>
+103|<text>Munições 9x39 mm SP-6</text>
+106|<text>9x39 SP-6</text>
+109|<text>Munições 9x39 mm PAB-9</text>
+112|<text>9x39 PAB9</text>
+115|<text>Munições 9x39 mm SP-5</text>
+118|<text>9x39 SP-5</text>
+121|<text>Munições Gauss</text>
+124|<text>Gauss</text>
+127|<text>Granada M209</text>
+130|<text>M209</text>
+133|<text>Granada OG-7V</text>
+136|<text>OG-7V</text>
+139|<text>Granada VOG-25</text>
+142|<text>VOG-25</text>
+145|<text>Granada VOG-25R</text>
+148|<text>VOG-25R</text>
+151|<text>Uma municao padrao para as pistolas Kora-919 e SIP-t M200. Possui um nucleo padrao e uma bala totalmente revestida.</text>
+154|<text>Uma municao Hydro-Shock com caracteristicas aprimoradas para as pistolas Kora-919 e SIP-t M200. Possui uma bala de ponta oca com bom efeito de parada.</text>
+157|<text>Uma municao padrao de calibre 12 preenchida com tiro de 6 mm. Possui um enorme poder de morte a curta distancia. E projetada para as espingardas BM 17, Chaser 13 e SPSA14. E mais eficaz em alcances abaixo de 30 metros.</text>
+160|<text>Uma bala com aletas. Pode estabilizar no voo, o que aumenta sua precisao. E projetada para as espingardas TOS 34, BM 17, Chaser 13 e SPSA14. Possui um efeito perfurante e um alcance aumentado. E eficaz em um alcance de ate 150 metros.</text>
+163|<text>Uma municao com uma bala pesada nua. Geralmente e usada para caca de cacas grandes, mas pode ser usada para outros propositos. Sua bala pesada nao perfura, mas realmente se forcada atraves de coletes a prova de balas. E projetada para as espingardas TOS 34, BM 17, Chaser 13 e SPSA14. E eficaz em um alcance de ate 100 metros.</text>
+166|<text>Uma municao perfurante para os rifles de assalto Akm 74/2, Akm 74/2U e ON-94. Possui um efeito perfurante aprimorado, mas um efeito de parada diminuiu.</text>
+169|<text>Uma municao padrao para os rifles de assalto Akm 74/2, Akm 74/2U e Obokan. Possui um nucleo padrao e uma bala totalmente revestida.</text>
+172|<text>Uma municao com uma bala perfurante para os rifles de assalto IL 86, TRs 301, SGI 5k, GP 37 e FT 200M.</text>
+175|<text>Uma municao padrao da OTAN amplamente conhecida sob seu indice belga SS109. E usada com os rifles de assalto IL 86, TRs 301, SGI 5k, GP 37 e FT 200M.</text>
+178|<text>Uma modificacao barata da municao de sniper para os rifles de sniper SVDm 2, SVUmk2.</text>
+181|<text>Uma municao de sniper para os rifles de sniper SVDm 2 e SVUmk2. Possui precisao e alcance aprimorados.</text>
+184|<text>Uma municao com uma bala perfurante para os rifles de sniper SVDm 2 e SVUmk2.</text>
+187|<text>Uma municao padrao para as pistolas PMm, PB1s, Fort-12Mk2. Possui um nucleo padrao e uma bala totalmente revestida. Possui um efeito perfurante fraco.</text>
+190|<text>Uma municao com caracteristicas balisticas aprimoradas para as pistolas PMm, PB1s e Fort-12Mk2. Devido a alta velocidade inicial de sua bala, e muito mais eficaz do que uma municao padrao. Possui um efeito perfurante melhor.</text>
+193|<text>Uma municao padrao para a pistola Walker P9m e a submetralhadora Viper 5. Possui uma bala totalmente revestida com um efeito perfurante fraco.</text>
+196|<text>Uma municao aprimorada para a Walker P9m e a submetralhadora Viper 5. Uma municao de alta potencia com uma bala de ponta oca e um nucleo perfurante.</text>
+199|<text>Uma municao perfurante para os rifles de assalto Tunder S14 e VLA e para o rifle de sniper especial Vintar. Possui uma bala subsonica que, devido ao seu design especial, pode penetrar na maioria dos coletes a prova de balas em um alcance de ate 400 metros.</text>
+202|<text>Uma municao para os rifles de assalto Tunder S14 e VLA e o rifle de sniper especial Vintar. A modificacao posterior e mais barata da municao perfurante. Possui uma bala subsonica que, devido ao seu design especial, pode penetrar na maioria dos coletes a prova de balas em um alcance de ate 300 metros.</text>
+205|<text>Uma municao de sniper para os rifles de assalto Tunder S14 e VLA e o rifle de sniper especial Vintar. Possui uma bala subsonica que, devido ao seu peso pesado e design especial, pode penetrar na maioria dos coletes a prova de balas em um alcance de ate 400 metros.</text>
+208|<text>Celulas de energia preparadas com elementos letais em um carregador de rifle Gauss. A fonte de energia e um pedaco encapsulado do artefato Flash.</text>
+211|<text>Uma granada para o lancador de granadas ?203 (para os rifles TRs 301, GP 37, SGI 5k, IL 86) e o lancador de granadas integrado do FT 200M.</text>
+214|<text>Uma granada altamente explosiva para o RPG-7u. E igualmente eficaz contra tropas e veiculos blindados leves.</text>
+217|<text>Uma granada para o lancador de granadas GP-25 Kostyer, o lancador de granadas integrado do Tunder e o lancador de granadas revolver Bulldog 6.</text>
+220|<text>Uma granada para o lancador de granadas GP-25 Kostyer, o lancador de granadas integrado do Tunder S14 e o lancador de granadas revolver Bulldog 6. Antes da explosao, a granada salta cerca de um metro, aumentando seu efeito mortal.</text>
+223|<text>Uma granada de mao defensiva com um grande raio de dano por estilhaços. Recomenda-se joga-la apenas de tras da cobertura.</text>
+226|<text>Uma granada de fumaca. Dedicada a criar uma cortina de fumaca. Dura 10 segundos.</text>
+229|<text>Uma granada de mao ofensiva com um pequeno raio de dano por estilhaços.</text>
+232|<text>A arma das tropas de elite do exercito russo. Foi projetada como um substituto para o Akm 74/2 desatualizado. Nao apenas os mecanismos internos do Obokan, mas tambem seu receptor e seu cano sao moveis, o que diminui o recuo e aumenta a precisao.\n Municao:\n padrao 5,45x39 mm,\n perfurante 5,45x39 mm BP.</text>
+235|<text>Metralhadora fornecida com uma mira otica modificada para realizar disparos de sniper. A otica embutida no corpo da arma tem uma resolucao maior do que o modelo padrao.</text>
+238|<text>Esta metralhadora possui um lancador de granadas integral para ir sob o cano, o que a torna uma arma ainda mais universal.</text>
+241|<text>Um lancador de granadas para o Akm 74/2 e Akm 74/2U.\n Municao: granada VOG-25,\n e granada VOG-25R.</text>
+244|<text>Um lancador de granadas para o SGI 5k, TRs 301, GP 37 e IL 86.\n Municao: granadas M209.</text>
+247|<text>Uma mira sovietica amplamente utilizada. A mira pode ser montada em uma arma usando uma montagem de cauda de andorinha usada pelos paises do Pacto de Varsovia.</text>
+250|<text>Uma mira 4x produzida nos paises da OTAN. Pode ser anexada a uma montagem padrao da OTAN, tambem chamada de trilho Picatinni.</text>
+253|<text>Um silenciador eficaz feito por armeiros da Zona. O kit inclui um conjunto de adaptadores para armas de qualquer calibre.</text>
+256|<text>Rifle de assalto com coronha dobrável, modelo 1974, usa municao de 5,45x39 mm. E uma arma simples e confiavel, mas a barateza de sua producao afetou sua ergonomia e precisao. Na Zona, e a principal arma dos stalkers militares e de muitos combatentes individuais.\n Municao:\n padrao 5,45x39 mm,\n perfurante 5,45x39 mm BP.</text>
+259|<text>O sistema de fechamento modificado aumenta a velocidade de tiro.</text>
+262|<text>O peso e o tamanho do Akm 74/2U sao semelhantes aos de uma submetralhadora, mas seu modo de operacao e a municao que usa o colocam na classe dos rifles de assalto. Suas vantagens sao suas pequenas dimensoes muito uteis ao lutar dentro de um edificio ou em uma floresta densa e capacidades de perfuracao relativamente altas. Suas principais desvantagens sao um alcance de precisao limitado e superaquecimento rapido ao disparar rajadas.\n Municao:\n padrao 5,45x39 mm,\n perfurante 5,45x39 mm BP.</text>
+265|<text>Metralhadora aprimorada. Vem com um abafador nao substituivel.</text>
+268|<text>Adotada pelo exercito e policia americanos, bem como por muitas unidades militares e policiais em todo o mundo. Tambem e muito popular entre os criminosos por sua municao de alta potencia e seu carregador de alta capacidade.\n Municao:\n padrao 9x19 mm FMJ,\n aprimorada 9x19 mm PB1s.</text>
+271|<text>Uma espingarda BM 17 serrada. E mais leve e compacta do que a espingarda original de dois canos, mas e eficaz apenas a curta distancia. Uma das armas mais comumente usadas por iniciantes.\n Municao:\n tiro 12x70,\n bala 12x76,\n dardo 12x76.</text>
+274|<text>Arma de assassinos contratados. Boa e velha kora confiavel, vem com um abafador nao substituivel.</text>
+277|<text>Uma arma legal, que foi apresentada em todos os conflitos do seculo 20 com honra e entrou no novo seculo com confianca. Seu carregador de pequeno porte e parcialmente compensado pelo uso de uma municao de alta potencia.\n Municao:\n padrao .45 ACP,\n aprimorada .45 ACP Hydro-Shock.</text>
+280|<text>Uma arma de verdade para herois de verdade. E grande, pesada e muito destrutiva. Nao e muito popular na Zona devido ao seu preco e tamanho. Afinal, voce nao sai para cacar elefantes todos os dias!\n Municao:\n padrao .45 ACP,\n aprimorada .45 ACP Hydro-Shock.</text>
+283|<text>Uma arma que ja e poderosa, retrabalhada para caber balas de rifle. Verdadeiramente uma maquina de matar para combate a curta distancia.</text>
+286|<text>Um rifle de assalto combinado com um lancador de granadas. E equipado com um modulo eletronico de controle de fogo e um lancador de granadas de 40 mm.\n Municao:\n padrao 5,56x45 mm SS109,\n perfurante 5,56x45 mm AP.</text>
+289|<text>Uma pistola policial de producao ucraniana, substituiu a PMm. Em comparacao com as outras pistolas, possui precisao, ergonomia e carregador maiores, mas e menos confiavel.\n Municao:\n padrao 9x18 mm,\n aprimorada 9x18 mm +P+.</text>
+292|<text>Prototipo experimental da arma Fort</text>
+295|<text>Um rifle de assalto alemao. E um exemplar de primeira classe do armamento moderno: e leve, confiavel e ergonomico.\n Municao:\n padrao 5,56x45 mm SS109,\n perfurante 5,56x45 mm AP.</text>
+298|<text>Uma arma super precisa feita pelos cientistas na Zona. E quase silenciosa, porque em vez de polvora, usa a energia do artefato para disparar em vez de gases de vapor. Apesar do tremendo poder de fogo da arma Gauss, o recuo e insignificante. A precisao e o poder de morte desta arma excedem os de todas as outras armas pequenas.\n Municao: municoes Gauss de 2 mm.</text>
+301|<text>Um rifle de assalto combinado com um lancador de granadas. E um tipo muito bom de rifle de assalto para as condicoes da Zona: e compacto, confiavel, mas universal e poderoso. O Tunder S14 e um dos rifles favoritos dos stalkers militares.\n Municao:\n padrao 9x39 mm PAB-9,\n perfurante 9x39 mm SP-6,\n sniper 9x39 mm SP-5,\n granadas VOG-25 e VOG-25R para o lancador de granadas.</text>
+304|<text>O cano fornecido e o excelente trabalho de um dos stalkers-artesaos que conseguiu trabalhar o rifle para poder caber a bala de 5,45 mm mais difundida.</text>
+307|<text>Esta pistola merece ser considerada uma das melhores pistolas do seculo 20. E confiavel, poderosa e tem um bom agrupamento de tiros. O carregador pode conter 13 municoes.\n Municao:\n padrao 9x19 mm FMJ,\n aprimorada 9x19 mm PB1s.</text>
+310|<text>Faca de caca</text>
+313|<text>Depois que o exercito britanico substituiu este rifle pelo GP 37 de fabricacao alema, ele apareceu em grandes quantidades primeiro no mercado negro e depois na Zona. As principais vantagens do IL 86 sao uma mira 4x padrao e a alta precisao do primeiro tiro. No modo de rajada, sua precisao diminui muito e os principais mecanismos do rifle nao sao confiaveis o suficiente.\n Municao:\n padrao 5,56x45 mm SS109,\n perfurante 5,56x45 mm AP.</text>
+316|<text>Com algumas modificacoes, o efeito do levantamento do cano foi diminuido</text>
+319|<text>A arma vem com um abafador integrado. Muitas pecas sao substituidas por analogos mais leves, o que torna a arma significativamente mais leve.</text>
+322|<text>Um rifle leve com um alcance de fogo eficaz de ate 300 metros. Devido ao seu acionamento excepcionalmente facil, alta ergonomia e baixo peso, a arma e altamente precisa, embora seja muito sensivel a sujeira e nem sempre seja adequada para uso em condicoes de campo dificeis.\n Municao:\n padrao 5,56x45 mm SS109,\n perfurante 5,56x45 mm AP.</text>
+325|<text>Modificacao de armamento de invasao para disparar tiros unicos. Supunha-se que seria usado como um analogo barato do rifle de sniper.</text>
+328|<text>Uma das melhores armas da classe de submetralhadoras. Durante as ultimas decadas do seculo 20, foi adotada pelas unidades de forcas especiais do exercito e da policia em muitos paises. Quando foi gradualmente substituida por modelos mais atualizados, apareceu no mercado negro e depois na Zona.\n Municao:\n padrao 9x19 mm FMJ,\n aprimorada 9x19 mm PB1s.</text>
+331|<text>Leve, compacta e agora refeita para caber um calibre mais difundido, esta metralhadora e um verdadeiro achado para atiradores iniciantes.</text>
+334|<text>Uma variacao em um modelo basico. Um abafador nao substituivel e adicionado.</text>
+337|<text>Uma pistola com um silenciador integrado, era usada pelas forcas especiais sovieticas. Agora esta desatualizada, mas em maos habilidosas, ainda muito eficaz.\n Municao:\n padrao 9x18 mm,\n aprimorada 9x18 mm +P+.</text>
+340|<text>A pistola mais difundida na Zona. E um legado da era sovietica. E relativamente confiavel e barata, tem baixa capacidade de carregador, baixa potencia e um agrupamento de tiros insatisfatorio. E a principal arma de um stalker iniciante.\n Municao:\n padrao 9x18 mm,\n aprimorada 9x18 mm +P+.</text>
+343|<text>Um lancador de granadas do tipo revolver. As vezes, e simplesmente indispensavel, principalmente ao atingir grandes numeros de mutantes, atacar objetos estacionarios bem guardados ou lutar contra criaturas especialmente resistentes.\n Municao: granada VOG-25,\n e granada VOG-25R.</text>
+346|<text>Uma variacao do lancador de granadas giratorio. O modelo fornecido e feito especialmente para uso de granadas do modelo ocidental.</text>
+349|<text>Um lancador de granadas desenvolvido na decada de 1960. Esses lancadores de granadas sao armazenados em grandes quantidades em depositos do exercito, de onde sao transferidos para a Zona. Essa arma e rara para stalkers: suas enormes dimensoes e peso pesado a tornam impopular, embora seja indispensavel para algumas missoes.\n Municao: OG-7V.</text>
+352|<text>A arma foi feita para guerra na cidade. Para diminuir o peso, algumas pecas foram removidas ou substituidas. Como resultado, nao ha como anexar nem uma mira nem um lancador de granadas sob o cano. Mas pelo menos pesa quase metade do que pesava antes.</text>
+355|<text>Modificado para tiro de sniper. Fornecido com uma mira otica nao removivel de foco aumentado.</text>
+358|<text>Um modelo desenvolvido em 1975, mas ainda popular em todo o mundo. Seu carregador tem baixa capacidade, mas seu mecanismo e absolutamente confiavel. Sua segunda vantagem e o uso da municao Kora de alta potencia.\n Municao:\n padrao .45 ACP,\n aprimorada .45 ACP Hydro-Shock.</text>
+361|<text>Um rifle de assalto relativamente novo para a municao 5,56x45 mm SS109. Esta arma e muito popular devido a sua precisao, recuo suave e alta confiabilidade.\n Municao:\n padrao 5,56x45 mm SS109,\n perfurante 5,56x45 mm AP.</text>
+364|<text>O rifle de cano liso SPSA14 foi desenvolvido no final da decada de 1970. Esta arma e muito confiavel e usada de forma flexivel. No entanto, e relativamente grande, cara e seu mecanismo e muito complexo. Provavelmente, esta e a melhor arma de curto alcance na Zona.\n Municao:\n tiro 12x70,\n bala 12x76,\n dardo 12x76.</text>
+367|<text>ARMA UNICA. Este modelo de espingarda tem um cano raiado que aumenta muito sua precisao ao disparar dardos ou balas. No entanto, usar tiro e mais dificil.\n Municao:\n tiro 12x70,\n bala 12x76,\n dardo 12x76.</text>
+370|<text>Este rifle foi amplamente utilizado em todas as operacoes dos exercitos sovietico e russo desde 1960. Provou ser uma arma excepcionalmente confiavel e pratica. Na Zona, e preferido pelos stalkers experientes da faccao Dever que cacam mutantes.\n Municao:\n padrao 7,62x54 mm 7N1,\n perfurante 7,62x54 mm BP,\n sniper 7,62x54 mm 7N14.</text>
+373|<text>Otica aprimorada e, gracas a mudanca, a resolucao da imagem e aumentada. O equilibrio da arma e aumentado e, como resultado, o recuo e diminuido.</text>
+376|<text>Uma versao mais atualizada do rifle de sniper. Um modelo bullpup compacto. E excelente para longas viagens na Zona.\n Municao:\n padrao 7,62x54 mm 7N1,\n perfurante 7,62x54 mm BP,\n sniper 7,62x54 mm 7N14.</text>
+379|<text>Este rifle de caca e popular, mas nao ha nada notavel sobre ele.\n Municao:\n tiro 12x70,\n bala 12x76,\n dardo 12x76.</text>
+382|<text>Uma arma confiavel. Como uma arma compacta de curto alcance de qualidade, e muito popular entre os veteranos da Zona.\n Municao:\n padrao .45 ACP,\n aprimorada .45 ACP Hydro-Shock.</text>
+385|<text>Esta arma e baseada no rifle de sniper silencioso Vintar, mas tem uma coronha dobrável, pode disparar rajadas e tem um carregador maior. Foi originalmente projetada para forcas especiais que operam em condicoes que exigem fogo silencioso e sem chamas.\n Municao:\n padrao 9x39 mm PAB-9,\n perfurante 9x39 mm SP-6,\n sniper 9x39 mm SP-5.</text>
+388|<text>Difere do modelo basico em sua capacidade de adicionar uma mira otica PSO-1.</text>
+391|<text>Um rifle de sniper especial projetado para fogo de sniper silencioso e sem chamas e equipado com um silenciador integrado. Pode perfurar qualquer colete a prova de balas em um alcance de 400 metros. E uma arma altamente valorizada por stalkers de qualquer nivel.\n Municao:\n padrao 9x39 mm PAB-9,\n perfurante 9x39 mm SP-6,\n sniper 9x39 mm SP-5.</text>
+394|<text>Uma pistola excelente. Altamente confiavel com um carregador de alta capacidade e uma boa precisao de fogo, especialmente no caso do modelo projetado para a municao 9 mm FMJ.\n Municao:\n padrao 9x19 mm FMJ,\n aprimorada 9x19 mm PB1s.</text>
+397|<text>Modificacao da arma para capacidade de usar balas do calibre 9x18mm.</text>
+400|<text>Um rifle de acao de bombeamento de cano liso feito para uso no ambiente mais hostil. E muito confiavel. Todos os seus detalhes sao cobertos com revestimento anticorrosivo.\n Municao:\n tiro 12x70,\n bala 12x76,\n dardo 12x76.</text>
+403|<text>Granada F1</text>
+406|<text>GD-05</text>
+409|<text>Granada RGD-5</text>
+412|<text>Arma</text>
+415|<text>Pipa negra</text>
+418|<text>HPSS-1m</text>
+421|<text>UDP Compacto</text>
+424|<text>Obokan</text>
+427|<text>Obokan de sniper</text>
+430|<text>Obokan de invasao</text>
+433|<text>GP-25 Kostyer</text>
+436|<text>M203</text>
+439|<text>Mira PSO-1</text>
+442|<text>Mira SUSAT</text>
+445|<text>Silenciador</text>
+448|<text>Akm 74/2</text>
+451|<text>Akm 74/2 de tiro rapido</text>
+454|<text>Akm 74/2U</text>
+457|<text>Akm 74/2U especial</text>
+460|<text>Martha</text>
+463|<text>Cano duplo serrado</text>
+466|<text>Kora silenciosa</text>
+469|<text>Kora-919</text>
+472|<text>Big Ben</text>
+475|<text>FT 200M</text>
+478|<text>Fort-12Mk2</text>
+481|<text>Fort-15</text>
+484|<text>GP 37</text>
+487|<text>Arma Gauss</text>
+490|<text>Tunder S14</text>
+493|<text>"Tunder" 5.45</text>
+496|<text>IL 86</text>
+499|<text>IL 86 balanceado</text>
+502|<text>IL 86 leve</text>
+505|<text>TRs 301</text>
+508|<text>TRs 301 de sniper</text>
+511|<text>Viper 5</text>
+514|<text>Viper 5 9x18</text>
+517|<text>Viper silenciosa</text>
+520|<text>Pistola silenciosa (PB1s)</text>
+523|<text>PMm</text>
+526|<text>Bulldog 6</text>
+529|<text>Bulldog-6 m209</text>
+532|<text>RPG-7u</text>
+535|<text>SIP de invasao</text>
+538|<text>SGI de sniper</text>
+541|<text>SIP-t M200</text>
+544|<text>SGI 5k</text>
+547|<text>SPSA14</text>
+550|<text>SPSA-14 rosqueada</text>
+553|<text>Rifle de sniper (SVDm 2)</text>
+556|<text>SVDm 2 "Atirador de Longa Distancia"</text>
+559|<text>SVUmk2</text>
+562|<text>TOS 34</text>
+565|<text>Rifle de assalto especial VLA</text>
+568|<text>VLA de sniper</text>
+571|<text>Vintar BC</text>
+574|<text>Walker P9m</text>
+577|<text>Walker 9x18</text>
+580|<text>Chaser 13</text>

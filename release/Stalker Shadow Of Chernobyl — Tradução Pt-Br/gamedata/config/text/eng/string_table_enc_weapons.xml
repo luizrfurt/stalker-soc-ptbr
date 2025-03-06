@@ -4,121 +4,121 @@
 		<text>Municao</text>
 	</string>
 	<string id="ammo-11.43x23-fmj">
-		<text>Municao .45ACP</text>
+		<text>Munições .45ACP</text>
 	</string>
 	<string id="ammo-11.43x23-fmj_s">
 		<text>.45ACP</text>
 	</string>
 	<string id="ammo-11.43x23-hydro">
-		<text>Municao .45ACP Hydro-Shock</text>
+		<text>Munições .45ACP Hydro-Shock</text>
 	</string>
 	<string id="ammo-11.43x23-hydro_s">
-		<text>.45 Hydro</text>
+		<text>.45Hydro</text>
 	</string>
 	<string id="ammo-12x70-buck">
-		<text>Municao 12x70 Chumbo Grosso</text>
+		<text>Munições de tiro 12x70</text>
 	</string>
 	<string id="ammo-12x70-buck_s">
-		<text>12x70 Chumbo</text>
+		<text>Tiro 12x70</text>
 	</string>
 	<string id="ammo-12x76-dart">
-		<text>Municao 12x76 Flechette</text>
+		<text>Munições de dardo 12x76</text>
 	</string>
 	<string id="ammo-12x76-dart_s">
-		<text>12x76 Flechette</text>
+		<text>Dardo 12x76</text>
 	</string>
 	<string id="ammo-12x76-zhekan">
-		<text>Municao 12x76 Balote</text>
+		<text>Munições de bala 12x76</text>
 	</string>
 	<string id="ammo-12x76-zhekan_s">
-		<text>12x76 Balote</text>
+		<text>Bala 12x76</text>
 	</string>
 	<string id="ammo-5.45x39-ap">
-		<text>Municao 5.45x39 mm BP Perfurante</text>
+		<text>Munições 5,45x39 mm BP</text>
 	</string>
 	<string id="ammo-5.45x39-ap_s">
-		<text>5.45x39 BP</text>
+		<text>5,45x39 BP</text>
 	</string>
 	<string id="ammo-5.45x39-fmj">
-		<text>Municao 5.45x39 mm</text>
+		<text>Munições 5,45x39 mm</text>
 	</string>
 	<string id="ammo-5.45x39-fmj_s">
-		<text>5.45x39</text>
+		<text>5,45x39</text>
 	</string>
 	<string id="ammo-5.56x45-ap">
-		<text>Municao 5.56x45 mm AP Perfurante</text>
+		<text>Munições 5,56x45 mm AP</text>
 	</string>
 	<string id="ammo-5.56x45-ap_s">
-		<text>5.56 AP</text>
+		<text>5,56 AP</text>
 	</string>
 	<string id="ammo-5.56x45-ss190">
-		<text>Municao 5.56x45 mm SS109</text>
+		<text>Munições 5,56x45 mm SS109</text>
 	</string>
 	<string id="ammo-5.56x45-ss190_s">
-		<text>5.56 SS</text>
+		<text>5,56 SS</text>
 	</string>
 	<string id="ammo-7.62x54-7h1">
-		<text>Municao 7.62x54 mm 7N1 Sniper</text>
+		<text>Munições 7,62x54 mm 7N1</text>
 	</string>
 	<string id="ammo-7.62x54-7h1_s">
-		<text>7.62 7N1</text>
+		<text>7,62 7N1</text>
 	</string>
 	<string id="ammo-7.62x54-7h14">
-		<text>Municao 7.62x54R 7N14 Sniper Perfurante</text>
+		<text>Munições 7,62x54R 7N14</text>
 	</string>
 	<string id="ammo-7.62x54-7h14_s">
-		<text>7.62 7N14</text>
+		<text>7,62 7N14</text>
 	</string>
 	<string id="ammo-7.62x54-ap">
-		<text>Municao 7.62x54 mm BP Perfurante</text>
+		<text>Munições 7,62x54 mm BP</text>
 	</string>
 	<string id="ammo-7.62x54-ap_s">
-		<text>7.62 BP</text>
+		<text>7,62 BP</text>
 	</string>
 	<string id="ammo-9x18-fmj">
-		<text>Municao 9x18 mm</text>
+		<text>Munições 9x18 mm</text>
 	</string>
 	<string id="ammo-9x18-fmj_s">
 		<text>9x18</text>
 	</string>
 	<string id="ammo-9x18-pmm">
-		<text>Municao 9x18 mm +P+ Aumentada</text>
+		<text>Munições 9x18 mm +P+</text>
 	</string>
 	<string id="ammo-9x18-pmm_s">
 		<text>9x18 +P+</text>
 	</string>
 	<string id="ammo-9x19-fmj">
-		<text>Municao 9x19mm FMJ</text>
+		<text>9x19mm FMJ</text>
 	</string>
 	<string id="ammo-9x19-fmj_s">
 		<text>9x19 FMJ</text>
 	</string>
 	<string id="ammo-9x19-pbp">
-		<text>Municao 9x19mm PB1s Perfurante</text>
+		<text>Munições 9x19mm PB1s</text>
 	</string>
 	<string id="ammo-9x19-pbp_s">
 		<text>9x19 PB1s</text>
 	</string>
 	<string id="ammo-9x39-ap">
-		<text>Municao 9x39 mm SP-6 Perfurante</text>
+		<text>Munições 9x39 mm SP-6</text>
 	</string>
 	<string id="ammo-9x39-ap_s">
 		<text>9x39 SP-6</text>
 	</string>
 	<string id="ammo-9x39-pab9">
-		<text>Municao 9x39 mm PAB-9 Perfurante</text>
+		<text>Munições 9x39 mm PAB-9</text>
 	</string>
 	<string id="ammo-9x39-pab9_s">
 		<text>9x39 PAB9</text>
 	</string>
 	<string id="ammo-9x39-sp5">
-		<text>Municao 9x39 mm SP-5</text>
+		<text>Munições 9x39 mm SP-5</text>
 	</string>
 	<string id="ammo-9x39-sp5_s">
 		<text>9x39 SP-5</text>
 	</string>
 	<string id="ammo-gauss">
-		<text>Municao Gauss</text>
+		<text>Munições Gauss</text>
 	</string>
 	<string id="ammo-gauss_s">
 		<text>Gauss</text>
@@ -148,435 +148,435 @@
 		<text>VOG-25R</text>
 	</string>
 	<string id="enc_weapons1_ammo_ammo-11.43x23-fmj">
-		<text>Municao padrao para pistolas Kora-919 e SIP-t M200. Nucleo padrao, bala totalmente revestida.</text>
+		<text>Uma municao padrao para as pistolas Kora-919 e SIP-t M200. Possui um nucleo padrao e uma bala totalmente revestida.</text>
 	</string>
 	<string id="enc_weapons1_ammo_ammo-11.43x23-hydro">
-		<text>Municao Hydro-Shock melhorada para pistolas Kora-919 e SIP-t M200. Bala de ponta oca, bom poder de parada.</text>
+		<text>Uma municao Hydro-Shock com caracteristicas aprimoradas para as pistolas Kora-919 e SIP-t M200. Possui uma bala de ponta oca com bom efeito de parada.</text>
 	</string>
 	<string id="enc_weapons1_ammo_ammo-12x70-buck">
-		<text>Municao padrao calibre 12 com projeteis de 6 mm. Alto poder de destruicao a curta distancia. Para espingardas BM 17, Chaser 13 e SPSA14. Eficaz ate 30 metros.</text>
+		<text>Uma municao padrao de calibre 12 preenchida com tiro de 6 mm. Possui um enorme poder de morte a curta distancia. E projetada para as espingardas BM 17, Chaser 13 e SPSA14. E mais eficaz em alcances abaixo de 30 metros.</text>
 	</string>
 	<string id="enc_weapons1_ammo_ammo-12x76-dart">
-		<text>Bala com aletas, estabiliza no voo, aumenta precisao. Para espingardas TOS 34, BM 17, Chaser 13 e SPSA14. Perfura armadura, maior alcance. Eficaz ate 150 metros.</text>
+		<text>Uma bala com aletas. Pode estabilizar no voo, o que aumenta sua precisao. E projetada para as espingardas TOS 34, BM 17, Chaser 13 e SPSA14. Possui um efeito perfurante e um alcance aumentado. E eficaz em um alcance de ate 150 metros.</text>
 	</string>
 	<string id="enc_weapons1_ammo_ammo-12x76-zhekan">
-		<text>Municao com bala pesada nua. Para caca grande, util para outros fins. Bala pesada nao perfura, forca passagem por coletes. Para espingardas TOS 34, BM 17, Chaser 13 e SPSA14. Eficaz ate 100 metros.</text>
+		<text>Uma municao com uma bala pesada nua. Geralmente e usada para caca de cacas grandes, mas pode ser usada para outros propositos. Sua bala pesada nao perfura, mas realmente se forcada atraves de coletes a prova de balas. E projetada para as espingardas TOS 34, BM 17, Chaser 13 e SPSA14. E eficaz em um alcance de ate 100 metros.</text>
 	</string>
 	<string id="enc_weapons1_ammo_ammo-5.45x39-ap">
-		<text>Municao perfurante para fuzis Akm 74/2, Akm 74/2U e ON-94. Perfura armadura, menos poder de parada.</text>
+		<text>Uma municao perfurante para os rifles de assalto Akm 74/2, Akm 74/2U e ON-94. Possui um efeito perfurante aprimorado, mas um efeito de parada diminuiu.</text>
 	</string>
 	<string id="enc_weapons1_ammo_ammo-5.45x39-fmj">
-		<text>Municao padrao para fuzis Akm 74/2, Akm 74/2U e Obokan. Nucleo padrao, bala totalmente revestida.</text>
+		<text>Uma municao padrao para os rifles de assalto Akm 74/2, Akm 74/2U e Obokan. Possui um nucleo padrao e uma bala totalmente revestida.</text>
 	</string>
 	<string id="enc_weapons1_ammo_ammo-5.56x45-ap">
-		<text>Municao com bala perfurante para fuzis IL 86, TRs 301, SGI 5k, GP 37 e FT 200M.</text>
+		<text>Uma municao com uma bala perfurante para os rifles de assalto IL 86, TRs 301, SGI 5k, GP 37 e FT 200M.</text>
 	</string>
 	<string id="enc_weapons1_ammo_ammo-5.56x45-ss190">
-		<text>Municao padrao OTAN, SS109. Para fuzis IL 86, TRs 301, SGI 5k, GP 37 e FT 200M.</text>
+		<text>Uma municao padrao da OTAN amplamente conhecida sob seu indice belga SS109. E usada com os rifles de assalto IL 86, TRs 301, SGI 5k, GP 37 e FT 200M.</text>
 	</string>
 	<string id="enc_weapons1_ammo_ammo-7.62x54-7h1">
-		<text>Modificacao barata de municao de sniper para fuzis SVDm 2, SVUmk2.</text>
+		<text>Uma modificacao barata da municao de sniper para os rifles de sniper SVDm 2, SVUmk2.</text>
 	</string>
 	<string id="enc_weapons1_ammo_ammo-7.62x54-7h14">
-		<text>Municao de sniper para fuzis SVDm 2 e SVUmk2. Precisao e alcance melhorados.</text>
+		<text>Uma municao de sniper para os rifles de sniper SVDm 2 e SVUmk2. Possui precisao e alcance aprimorados.</text>
 	</string>
 	<string id="enc_weapons1_ammo_ammo-7.62x54-ap">
-		<text>Municao com bala perfurante para fuzis SVDm 2 e SVUmk2.</text>
+		<text>Uma municao com uma bala perfurante para os rifles de sniper SVDm 2 e SVUmk2.</text>
 	</string>
 	<string id="enc_weapons1_ammo_ammo-9x18-fmj">
-		<text>Municao padrao para pistolas PMm, PB1s, Fort-12Mk2. Nucleo padrao, bala totalmente revestida. Fraco poder de perfuracao.</text>
+		<text>Uma municao padrao para as pistolas PMm, PB1s, Fort-12Mk2. Possui um nucleo padrao e uma bala totalmente revestida. Possui um efeito perfurante fraco.</text>
 	</string>
 	<string id="enc_weapons1_ammo_ammo-9x18-pmm">
-		<text>Municao com balistica melhorada para pistolas PMm, PB1s e Fort-12Mk2. Alta velocidade, mais eficaz que municao padrao. Melhor perfuracao.</text>
+		<text>Uma municao com caracteristicas balisticas aprimoradas para as pistolas PMm, PB1s e Fort-12Mk2. Devido a alta velocidade inicial de sua bala, e muito mais eficaz do que uma municao padrao. Possui um efeito perfurante melhor.</text>
 	</string>
 	<string id="enc_weapons1_ammo_ammo-9x19-fmj">
-		<text>Municao padrao para pistola Walker P9m e submetralhadora Viper 5. Bala totalmente revestida, fraco poder de perfuracao.</text>
+		<text>Uma municao padrao para a pistola Walker P9m e a submetralhadora Viper 5. Possui uma bala totalmente revestida com um efeito perfurante fraco.</text>
 	</string>
 	<string id="enc_weapons1_ammo_ammo-9x19-pbp">
-		<text>Municao aprimorada para pistola Walker P9m e submetralhadora Viper 5. Alta potencia, bala de ponta oca, nucleo perfurante.</text>
+		<text>Uma municao aprimorada para a Walker P9m e a submetralhadora Viper 5. Uma municao de alta potencia com uma bala de ponta oca e um nucleo perfurante.</text>
 	</string>
 	<string id="enc_weapons1_ammo_ammo-9x39-ap">
-		<text>Municao perfurante para fuzis Tunder S14, VLA e fuzil sniper Vintar. Bala subsonica, penetra coletes ate 400 metros.</text>
+		<text>Uma municao perfurante para os rifles de assalto Tunder S14 e VLA e para o rifle de sniper especial Vintar. Possui uma bala subsonica que, devido ao seu design especial, pode penetrar na maioria dos coletes a prova de balas em um alcance de ate 400 metros.</text>
 	</string>
 	<string id="enc_weapons1_ammo_ammo-9x39-pab9">
-		<text>Municao para fuzis Tunder S14, VLA e fuzil sniper Vintar. Versao barata da perfurante. Bala subsonica, penetra coletes ate 300 metros.</text>
+		<text>Uma municao para os rifles de assalto Tunder S14 e VLA e o rifle de sniper especial Vintar. A modificacao posterior e mais barata da municao perfurante. Possui uma bala subsonica que, devido ao seu design especial, pode penetrar na maioria dos coletes a prova de balas em um alcance de ate 300 metros.</text>
 	</string>
 	<string id="enc_weapons1_ammo_ammo-9x39-sp5">
-		<text>Municao de sniper para fuzis Tunder S14, VLA e fuzil sniper Vintar. Bala subsonica, peso e design especiais, penetra coletes ate 400 metros.</text>
+		<text>Uma municao de sniper para os rifles de assalto Tunder S14 e VLA e o rifle de sniper especial Vintar. Possui uma bala subsonica que, devido ao seu peso pesado e design especial, pode penetrar na maioria dos coletes a prova de balas em um alcance de ate 400 metros.</text>
 	</string>
 	<string id="enc_weapons1_ammo_ammo-gauss">
-		<text>Celulas de energia com elementos letais para rifle Gauss. Energia de artefato Lampejo encapsulado.</text>
+		<text>Celulas de energia preparadas com elementos letais em um carregador de rifle Gauss. A fonte de energia e um pedaco encapsulado do artefato Flash.</text>
 	</string>
 	<string id="enc_weapons1_ammo_ammo-m209">
-		<text>Granada para lancador ?203 (fuzis TRs 301, GP 37, SGI 5k, IL 86) e lancador integrado FT 200M.</text>
+		<text>Uma granada para o lancador de granadas ?203 (para os rifles TRs 301, GP 37, SGI 5k, IL 86) e o lancador de granadas integrado do FT 200M.</text>
 	</string>
 	<string id="enc_weapons1_ammo_ammo-og-7b">
-		<text>Granada explosiva para RPG-7u. Eficaz contra tropas e veiculos leves.</text>
+		<text>Uma granada altamente explosiva para o RPG-7u. E igualmente eficaz contra tropas e veiculos blindados leves.</text>
 	</string>
 	<string id="enc_weapons1_ammo_ammo-vog-25">
-		<text>Granada para lancador GP-25 Kostyer, lancador integrado Tunder e lancador Bulldog 6.</text>
+		<text>Uma granada para o lancador de granadas GP-25 Kostyer, o lancador de granadas integrado do Tunder e o lancador de granadas revolver Bulldog 6.</text>
 	</string>
 	<string id="enc_weapons1_ammo_ammo-vog-25p">
-		<text>Granada para lancador GP-25 Kostyer, lancador integrado Tunder S14 e lancador Bulldog 6. Pula antes da explosao, maior destruicao.</text>
+		<text>Uma granada para o lancador de granadas GP-25 Kostyer, o lancador de granadas integrado do Tunder S14 e o lancador de granadas revolver Bulldog 6. Antes da explosao, a granada salta cerca de um metro, aumentando seu efeito mortal.</text>
 	</string>
 	<string id="enc_weapons1_grenade-f1">
-		<text>Granada de mao defensiva, grande raio de estilhacos. Jogar so de tras de cobertura.</text>
+		<text>Uma granada de mao defensiva com um grande raio de dano por estilhaços. Recomenda-se joga-la apenas de tras da cobertura.</text>
 	</string>
 	<string id="enc_weapons1_grenade-gd05">
-		<text>Granada de fumaca, cria tela de fumaca. Dura 10 segundos.</text>
+		<text>Uma granada de fumaca. Dedicada a criar uma cortina de fumaca. Dura 10 segundos.</text>
 	</string>
 	<string id="enc_weapons1_grenade-rgd5">
-		<text>Granada de mao ofensiva, pequeno raio de estilhacos.</text>
+		<text>Uma granada de mao ofensiva com um pequeno raio de dano por estilhaços.</text>
 	</string>
 	<string id="enc_weapons1_wpn-abakan">
-		<text>Arma de elite do exercito russo. Substitui Akm 74/2. Mecanismos internos, receptor e cano moveis, menos recuo e mais precisao.\n Municao:\n padrao 5.45x39 mm,\n perfurante 5.45x39 mm BP.</text>
+		<text>A arma das tropas de elite do exercito russo. Foi projetada como um substituto para o Akm 74/2 desatualizado. Nao apenas os mecanismos internos do Obokan, mas tambem seu receptor e seu cano sao moveis, o que diminui o recuo e aumenta a precisao.\n Municao:\n padrao 5,45x39 mm,\n perfurante 5,45x39 mm BP.</text>
 	</string>
 	<string id="enc_weapons1_wpn-abakan_m1">
-		<text>Metralhadora com mira optica modificada para disparos de sniper. Optica embutida, maior resolucao que padrao.</text>
+		<text>Metralhadora fornecida com uma mira otica modificada para realizar disparos de sniper. A otica embutida no corpo da arma tem uma resolucao maior do que o modelo padrao.</text>
 	</string>
 	<string id="enc_weapons1_wpn-abakan_m2">
-		<text>Metralhadora com lancador de granadas integrado, arma mais universal.</text>
+		<text>Esta metralhadora possui um lancador de granadas integral para ir sob o cano, o que a torna uma arma ainda mais universal.</text>
 	</string>
 	<string id="enc_weapons1_wpn-addon-grenade-launcher">
-		<text>Lancador de granadas para Akm 74/2 e Akm 74/2U.\n Municao: granada VOG-25,\n granada VOG-25R.</text>
+		<text>Um lancador de granadas para o Akm 74/2 e Akm 74/2U.\n Municao: granada VOG-25,\n e granada VOG-25R.</text>
 	</string>
 	<string id="enc_weapons1_wpn-addon-grenade-launcher-m203">
-		<text>Lancador de granadas para SGI 5k, TRs 301, GP 37 e IL 86.\n Municao: granadas M209.</text>
+		<text>Um lancador de granadas para o SGI 5k, TRs 301, GP 37 e IL 86.\n Municao: granadas M209.</text>
 	</string>
 	<string id="enc_weapons1_wpn-addon-scope">
-		<text>Mira sovietica usada. Monta em armas com base de ranhura do Pacto de Varsovia.</text>
+		<text>Uma mira sovietica amplamente utilizada. A mira pode ser montada em uma arma usando uma montagem de cauda de andorinha usada pelos paises do Pacto de Varsovia.</text>
 	</string>
 	<string id="enc_weapons1_wpn-addon-scope-susat">
-		<text>Mira 4x da OTAN. Monta em base padrao OTAN, trilho Picatinni.</text>
+		<text>Uma mira 4x produzida nos paises da OTAN. Pode ser anexada a uma montagem padrao da OTAN, tambem chamada de trilho Picatinni.</text>
 	</string>
 	<string id="enc_weapons1_wpn-addon-silencer">
-		<text>Silenciador eficaz da Zona. Kit com adaptadores para qualquer calibre.</text>
+		<text>Um silenciador eficaz feito por armeiros da Zona. O kit inclui um conjunto de adaptadores para armas de qualquer calibre.</text>
 	</string>
 	<string id="enc_weapons1_wpn-ak74">
-		<text>Fuzil de assalto dobravel, modelo 1974, usa 5.45x39 mm. Simples, confiavel, producao barata afeta ergonomia e precisao. Arma de stalkers militares e solo.\n Municao:\n padrao 5.45x39 mm,\n perfurante 5.45x39 mm BP.</text>
+		<text>Rifle de assalto com coronha dobrável, modelo 1974, usa municao de 5,45x39 mm. E uma arma simples e confiavel, mas a barateza de sua producao afetou sua ergonomia e precisao. Na Zona, e a principal arma dos stalkers militares e de muitos combatentes individuais.\n Municao:\n padrao 5,45x39 mm,\n perfurante 5,45x39 mm BP.</text>
 	</string>
 	<string id="enc_weapons1_wpn-ak74_m1">
-		<text>Sistema de fechamento modificado aumenta velocidade de disparo.</text>
+		<text>O sistema de fechamento modificado aumenta a velocidade de tiro.</text>
 	</string>
 	<string id="enc_weapons1_wpn-ak74u">
-		<text>Peso e tamanho de submetralhadora, mas fuzil de assalto. Pequeno, bom para predios e florestas, perfuracao alta. Alcance limitado, superaquece rapido em rajadas.\n Municao:\n padrao 5.45x39 mm,\n perfurante 5.45x39 mm BP.</text>
+		<text>O peso e o tamanho do Akm 74/2U sao semelhantes aos de uma submetralhadora, mas seu modo de operacao e a municao que usa o colocam na classe dos rifles de assalto. Suas vantagens sao suas pequenas dimensoes muito uteis ao lutar dentro de um edificio ou em uma floresta densa e capacidades de perfuracao relativamente altas. Suas principais desvantagens sao um alcance de precisao limitado e superaquecimento rapido ao disparar rajadas.\n Municao:\n padrao 5,45x39 mm,\n perfurante 5,45x39 mm BP.</text>
 	</string>
 	<string id="enc_weapons1_wpn-ak74u_m1">
-		<text>Metralhadora aprimorada. Com silenciador fixo.</text>
+		<text>Metralhadora aprimorada. Vem com um abafador nao substituivel.</text>
 	</string>
 	<string id="enc_weapons1_wpn-beretta">
-		<text>Usada por exercito, policia e criminosos. Cartucho potente, carregador grande.\n Municao:\n padrao 9x19 mm FMJ,\n aprimorada 9x19 mm PB1s.</text>
+		<text>Adotada pelo exercito e policia americanos, bem como por muitas unidades militares e policiais em todo o mundo. Tambem e muito popular entre os criminosos por sua municao de alta potencia e seu carregador de alta capacidade.\n Municao:\n padrao 9x19 mm FMJ,\n aprimorada 9x19 mm PB1s.</text>
 	</string>
 	<string id="enc_weapons1_wpn-bm16">
-		<text>BM 17 com cano serrado. Leve, compacta, eficaz a curta distancia. Arma de novatos.\n Municao:\n 12x70 cartucho,\n 12x76 projetil,\n 12x76 dardo.</text>
+		<text>Uma espingarda BM 17 serrada. E mais leve e compacta do que a espingarda original de dois canos, mas e eficaz apenas a curta distancia. Uma das armas mais comumente usadas por iniciantes.\n Municao:\n tiro 12x70,\n bala 12x76,\n dardo 12x76.</text>
 	</string>
 	<string id="enc_weapons1_wpn-colt_m1">
-		<text>Arma de assassinos. Kora com silenciador fixo.</text>
+		<text>Arma de assassinos contratados. Boa e velha kora confiavel, vem com um abafador nao substituivel.</text>
 	</string>
 	<string id="enc_weapons1_wpn-colt1911">
-		<text>Boa arma, presente em conflitos do seculo 20. Carregador pequeno, cartucho potente.\n Municao:\n padrao .45 ACP,\n aprimorada .45 ACP Hydro-Shock.</text>
+		<text>Uma arma legal, que foi apresentada em todos os conflitos do seculo 20 com honra e entrou no novo seculo com confianca. Seu carregador de pequeno porte e parcialmente compensado pelo uso de uma municao de alta potencia.\n Municao:\n padrao .45 ACP,\n aprimorada .45 ACP Hydro-Shock.</text>
 	</string>
 	<string id="enc_weapons1_wpn-desert-eagle">
-		<text>Arma grande, pesada, destrutiva. Nao popular na Zona, cara e grande. Nao caca elefantes todo dia!\n Municao:\n padrao .45 ACP,\n aprimorada .45 ACP Hydro-Shock.</text>
+		<text>Uma arma de verdade para herois de verdade. E grande, pesada e muito destrutiva. Nao e muito popular na Zona devido ao seu preco e tamanho. Afinal, voce nao sai para cacar elefantes todos os dias!\n Municao:\n padrao .45 ACP,\n aprimorada .45 ACP Hydro-Shock.</text>
 	</string>
 	<string id="enc_weapons1_wpn-eagle_m1">
-		<text>Arma poderosa, modificada para balas de rifle. Matadora para curta distancia.</text>
+		<text>Uma arma que ja e poderosa, retrabalhada para caber balas de rifle. Verdadeiramente uma maquina de matar para combate a curta distancia.</text>
 	</string>
 	<string id="enc_weapons1_wpn-fn2000">
-		<text>Fuzil de assalto com lancador de granadas. Modulo eletronico de controle de fogo, lancador 40 mm.\n Municao:\n padrao 5.56x45 mm SS109,\n perfurante 5.56x45 mm AP.</text>
+		<text>Um rifle de assalto combinado com um lancador de granadas. E equipado com um modulo eletronico de controle de fogo e um lancador de granadas de 40 mm.\n Municao:\n padrao 5,56x45 mm SS109,\n perfurante 5,56x45 mm AP.</text>
 	</string>
 	<string id="enc_weapons1_wpn-fort">
-		<text>Pistola policial ucraniana, substitui PMm. Precisao, ergonomia e carregador maiores, menos confiavel.\n Municao:\n padrao 9x18 mm,\n melhorada 9x18 mm +P+.</text>
+		<text>Uma pistola policial de producao ucraniana, substituiu a PMm. Em comparacao com as outras pistolas, possui precisao, ergonomia e carregador maiores, mas e menos confiavel.\n Municao:\n padrao 9x18 mm,\n aprimorada 9x18 mm +P+.</text>
 	</string>
 	<string id="enc_weapons1_wpn-fort_m1">
-		<text>Prototipo experimental da pistola Fort.</text>
+		<text>Prototipo experimental da arma Fort</text>
 	</string>
 	<string id="enc_weapons1_wpn-g36">
-		<text>Fuzil de assalto alemao. Leve, confiavel, ergonomico.\n Municao:\n padrao 5.56x45 mm SS109,\n perfurante 5.56x45 mm AP.</text>
+		<text>Um rifle de assalto alemao. E um exemplar de primeira classe do armamento moderno: e leve, confiavel e ergonomico.\n Municao:\n padrao 5,56x45 mm SS109,\n perfurante 5,56x45 mm AP.</text>
 	</string>
 	<string id="enc_weapons1_wpn-gauss">
-		<text>Arma super precisa feita por cientistas na Zona. Quase sem som, usa energia de artefato em vez de polvora. Forca de fogo tremenda, recuo insignificante. Precisao e poder superiores a outras armas.\n Municao: projeteis Gauss de 2 mm.</text>
+		<text>Uma arma super precisa feita pelos cientistas na Zona. E quase silenciosa, porque em vez de polvora, usa a energia do artefato para disparar em vez de gases de vapor. Apesar do tremendo poder de fogo da arma Gauss, o recuo e insignificante. A precisao e o poder de morte desta arma excedem os de todas as outras armas pequenas.\n Municao: municoes Gauss de 2 mm.</text>
 	</string>
 	<string id="enc_weapons1_wpn-groza">
-		<text>Fuzil de assalto com lancador de granadas. Bom para a Zona: compacto, confiavel, universal e poderoso. Favorito dos stalkers militares.\n Municao:\n padrao 9x39 mm PAB-9,\n perfurante 9x39 mm SP-6,\n sniper 9x39 mm SP-5,\n granadas VOG-25 e VOG-25R para lancador.</text>
+		<text>Um rifle de assalto combinado com um lancador de granadas. E um tipo muito bom de rifle de assalto para as condicoes da Zona: e compacto, confiavel, mas universal e poderoso. O Tunder S14 e um dos rifles favoritos dos stalkers militares.\n Municao:\n padrao 9x39 mm PAB-9,\n perfurante 9x39 mm SP-6,\n sniper 9x39 mm SP-5,\n granadas VOG-25 e VOG-25R para o lancador de granadas.</text>
 	</string>
 	<string id="enc_weapons1_wpn-groza_m1">
-		<text>Cano modificado por stalker artesao para usar bala 5.45 mm, mais comum.</text>
+		<text>O cano fornecido e o excelente trabalho de um dos stalkers-artesaos que conseguiu trabalhar o rifle para poder caber a bala de 5,45 mm mais difundida.</text>
 	</string>
 	<string id="enc_weapons1_wpn-hpsa">
-		<text>Uma das melhores pistolas do seculo 20. Confiavel, poderosa, boa agrupamento. Carregador com 13 tiros.\n Municao:\n padrao 9x19 mm FMJ,\n melhorada 9x19 mm PB1s.</text>
+		<text>Esta pistola merece ser considerada uma das melhores pistolas do seculo 20. E confiavel, poderosa e tem um bom agrupamento de tiros. O carregador pode conter 13 municoes.\n Municao:\n padrao 9x19 mm FMJ,\n aprimorada 9x19 mm PB1s.</text>
 	</string>
 	<string id="enc_weapons1_wpn-knife">
-		<text>Faca de caca.</text>
+		<text>Faca de caca</text>
 	</string>
 	<string id="enc_weapons1_wpn-l85">
-		<text>Exercito britanico trocou por GP 37, apareceu na Zona. Vantagens: mira 4x padrao, alta precisao no primeiro tiro. Precisao cai em rajadas, mecanismos nao confiaveis.\n Municao:\n padrao 5.56x45 mm SS109,\n perfurante 5.56x45 mm AP.</text>
+		<text>Depois que o exercito britanico substituiu este rifle pelo GP 37 de fabricacao alema, ele apareceu em grandes quantidades primeiro no mercado negro e depois na Zona. As principais vantagens do IL 86 sao uma mira 4x padrao e a alta precisao do primeiro tiro. No modo de rajada, sua precisao diminui muito e os principais mecanismos do rifle nao sao confiaveis o suficiente.\n Municao:\n padrao 5,56x45 mm SS109,\n perfurante 5,56x45 mm AP.</text>
 	</string>
 	<string id="enc_weapons1_wpn-l85_m1">
-		<text>Modificacoes diminuem efeito de levantar o cano.</text>
+		<text>Com algumas modificacoes, o efeito do levantamento do cano foi diminuido</text>
 	</string>
 	<string id="enc_weapons1_wpn-l85_m2">
-		<text>Com silenciador integrado. Pecas mais leves, arma mais leve.</text>
+		<text>A arma vem com um abafador integrado. Muitas pecas sao substituidas por analogos mais leves, o que torna a arma significativamente mais leve.</text>
 	</string>
 	<string id="enc_weapons1_wpn-lr300">
-		<text>Fuzil leve, alcance efetivo ate 300 metros. Disparo facil, ergonomica, leve, precisa. Sensivel a sujeira, nao ideal para campo dificil.\n Municao:\n padrao 5.56x45 mm SS109,\n perfurante 5.56x45 mm AP.</text>
+		<text>Um rifle leve com um alcance de fogo eficaz de ate 300 metros. Devido ao seu acionamento excepcionalmente facil, alta ergonomia e baixo peso, a arma e altamente precisa, embora seja muito sensivel a sujeira e nem sempre seja adequada para uso em condicoes de campo dificeis.\n Municao:\n padrao 5,56x45 mm SS109,\n perfurante 5,56x45 mm AP.</text>
 	</string>
 	<string id="enc_weapons1_wpn-lr300_m1">
-		<text>Modificacao para tiros unicos. Usar como sniper barato.</text>
+		<text>Modificacao de armamento de invasao para disparar tiros unicos. Supunha-se que seria usado como um analogo barato do rifle de sniper.</text>
 	</string>
 	<string id="enc_weapons1_wpn-mp5">
-		<text>Uma das melhores submetralhadoras. Usada por Forcas Especiais. Substituida por modelos modernos, apareceu na Zona.\n Municao:\n padrao 9x19 mm FMJ,\n melhorada 9x19 mm PB1s.</text>
+		<text>Uma das melhores armas da classe de submetralhadoras. Durante as ultimas decadas do seculo 20, foi adotada pelas unidades de forcas especiais do exercito e da policia em muitos paises. Quando foi gradualmente substituida por modelos mais atualizados, apareceu no mercado negro e depois na Zona.\n Municao:\n padrao 9x19 mm FMJ,\n aprimorada 9x19 mm PB1s.</text>
 	</string>
 	<string id="enc_weapons1_wpn-mp5_m1">
-		<text>Leve, compacta, usa calibre comum. Boa para novatos.</text>
+		<text>Leve, compacta e agora refeita para caber um calibre mais difundido, esta metralhadora e um verdadeiro achado para atiradores iniciantes.</text>
 	</string>
 	<string id="enc_weapons1_wpn-mp5_m2">
-		<text>Variacao do modelo basico. Com silenciador fixo.</text>
+		<text>Uma variacao em um modelo basico. Um abafador nao substituivel e adicionado.</text>
 	</string>
 	<string id="enc_weapons1_wpn-pb">
-		<text>Pistola com silenciador integrado, usada por Forcas Especiais sovieticas. Desatualizada, eficaz em maos habilidosas.\n Municao:\n padrao 9x18 mm,\n melhorada 9x18 mm +P+.</text>
+		<text>Uma pistola com um silenciador integrado, era usada pelas forcas especiais sovieticas. Agora esta desatualizada, mas em maos habilidosas, ainda muito eficaz.\n Municao:\n padrao 9x18 mm,\n aprimorada 9x18 mm +P+.</text>
 	</string>
 	<string id="enc_weapons1_wpn-pm">
-		<text>Pistola mais comum na Zona. Legado sovietico. Confiavel, barata, carregador pequeno, pouca potencia, agrupamento ruim. Arma de novatos.\n Municao:\n padrao 9x18 mm,\n melhorada 9x18 mm +P+.</text>
+		<text>A pistola mais difundida na Zona. E um legado da era sovietica. E relativamente confiavel e barata, tem baixa capacidade de carregador, baixa potencia e um agrupamento de tiros insatisfatorio. E a principal arma de um stalker iniciante.\n Municao:\n padrao 9x18 mm,\n aprimorada 9x18 mm +P+.</text>
 	</string>
 	<string id="enc_weapons1_wpn-rg-6">
-		<text>Lancador de granadas tipo revolver. Indispensavel contra mutantes, objetos protegidos, criaturas fortes.\n Municao: granada VOG-25,\n granada VOG-25R.</text>
+		<text>Um lancador de granadas do tipo revolver. As vezes, e simplesmente indispensavel, principalmente ao atingir grandes numeros de mutantes, atacar objetos estacionarios bem guardados ou lutar contra criaturas especialmente resistentes.\n Municao: granada VOG-25,\n e granada VOG-25R.</text>
 	</string>
 	<string id="enc_weapons1_wpn-rg6_m1">
-		<text>Variacao do lancador rotativo. Feito para granadas ocidentais.</text>
+		<text>Uma variacao do lancador de granadas giratorio. O modelo fornecido e feito especialmente para uso de granadas do modelo ocidental.</text>
 	</string>
 	<string id="enc_weapons1_wpn-rpg7">
-		<text>Lancador de granadas da decada de 1960. Armazenados em depositos militares, vao para a Zona. Raro para Stalkers: grande e pesado, indispensavel em missoes.\n Municao: OG-7V.</text>
+		<text>Um lancador de granadas desenvolvido na decada de 1960. Esses lancadores de granadas sao armazenados em grandes quantidades em depositos do exercito, de onde sao transferidos para a Zona. Essa arma e rara para stalkers: suas enormes dimensoes e peso pesado a tornam impopular, embora seja indispensavel para algumas missoes.\n Municao: OG-7V.</text>
 	</string>
 	<string id="enc_weapons1_wpn-sig_m1">
-		<text>Feita para guerra urbana. Pecas removidas, mais leve. Sem mira ou lancador de granadas. Pesa metade.</text>
+		<text>A arma foi feita para guerra na cidade. Para diminuir o peso, algumas pecas foram removidas ou substituidas. Como resultado, nao ha como anexar nem uma mira nem um lancador de granadas sob o cano. Mas pelo menos pesa quase metade do que pesava antes.</text>
 	</string>
 	<string id="enc_weapons1_wpn-sig_m2">
-		<text>Modificada para tiro de precisao. Com mira otica fixa de foco aprimorado.</text>
+		<text>Modificado para tiro de sniper. Fornecido com uma mira otica nao removivel de foco aumentado.</text>
 	</string>
 	<string id="enc_weapons1_wpn-sig220">
-		<text>Modelo de 1975, popular. Carregador pequeno, mecanismo confiavel. Usa municao Kora potente.\n Municao:\n padrao .45 ACP,\n melhorada .45 ACP Hydro-Shock.</text>
+		<text>Um modelo desenvolvido em 1975, mas ainda popular em todo o mundo. Seu carregador tem baixa capacidade, mas seu mecanismo e absolutamente confiavel. Sua segunda vantagem e o uso da municao Kora de alta potencia.\n Municao:\n padrao .45 ACP,\n aprimorada .45 ACP Hydro-Shock.</text>
 	</string>
 	<string id="enc_weapons1_wpn-sig550">
-		<text>Fuzil de assalto novo para cartucho 5.56x45 mm SS109. Popular por precisao, recuo suave, confiabilidade.\n Municao:\n padrao 5.56x45 mm SS109,\n perfurante 5.56x45 mm AP.</text>
+		<text>Um rifle de assalto relativamente novo para a municao 5,56x45 mm SS109. Esta arma e muito popular devido a sua precisao, recuo suave e alta confiabilidade.\n Municao:\n padrao 5,56x45 mm SS109,\n perfurante 5,56x45 mm AP.</text>
 	</string>
 	<string id="enc_weapons1_wpn-spas12">
-		<text>Rifle de cano liso SPSA14 da decada de 1970. Confiavel, flexivel, grande, cara, complexa. Melhor arma para curto alcance na Zona.\n Municao:\n 12x70 tiro,\n 12x76 bala,\n 12x76 dardo.</text>
+		<text>O rifle de cano liso SPSA14 foi desenvolvido no final da decada de 1970. Esta arma e muito confiavel e usada de forma flexivel. No entanto, e relativamente grande, cara e seu mecanismo e muito complexo. Provavelmente, esta e a melhor arma de curto alcance na Zona.\n Municao:\n tiro 12x70,\n bala 12x76,\n dardo 12x76.</text>
 	</string>
 	<string id="enc_weapons1_wpn-spas12_m1">
-		<text>ARMA UNICA. Cano raiado, aumenta precisao com dardos ou balas. Dificil usar tiros.\n Municao:\n 12x70 tiro,\n 12x76 bala,\n 12x76 dardo.</text>
+		<text>ARMA UNICA. Este modelo de espingarda tem um cano raiado que aumenta muito sua precisao ao disparar dardos ou balas. No entanto, usar tiro e mais dificil.\n Municao:\n tiro 12x70,\n bala 12x76,\n dardo 12x76.</text>
 	</string>
 	<string id="enc_weapons1_wpn-svd">
-		<text>Usado em operacoes sovieticas e russas desde 1960. Confiavel e pratico. Preferido por Stalkers Duty experientes para cacar mutantes.\n Municao:\n padrao 7.62x54 mm 7N1,\n perfurante 7.62x54 mm BP,\n sniper 7.62x54 mm 7N14.</text>
+		<text>Este rifle foi amplamente utilizado em todas as operacoes dos exercitos sovietico e russo desde 1960. Provou ser uma arma excepcionalmente confiavel e pratica. Na Zona, e preferido pelos stalkers experientes da faccao Dever que cacam mutantes.\n Municao:\n padrao 7,62x54 mm 7N1,\n perfurante 7,62x54 mm BP,\n sniper 7,62x54 mm 7N14.</text>
 	</string>
 	<string id="enc_weapons1_wpn-svd_m1">
-		<text>Optica aprimorada, maior resolucao. Equilibrio melhorado, recuo menor.</text>
+		<text>Otica aprimorada e, gracas a mudanca, a resolucao da imagem e aumentada. O equilibrio da arma e aumentado e, como resultado, o recuo e diminuido.</text>
 	</string>
 	<string id="enc_weapons1_wpn-svu">
-		<text>Versao atualizada do rifle de precisao. Modelo bullpup compacto. Bom para viagens longas na Zona.\n Municao:\n padrao 7.62x54 mm 7N1,\n perfurante 7.62x54 mm BP,\n sniper 7.62x54 mm 7N14.</text>
+		<text>Uma versao mais atualizada do rifle de sniper. Um modelo bullpup compacto. E excelente para longas viagens na Zona.\n Municao:\n padrao 7,62x54 mm 7N1,\n perfurante 7,62x54 mm BP,\n sniper 7,62x54 mm 7N14.</text>
 	</string>
 	<string id="enc_weapons1_wpn-toz34">
-		<text>Rifle de caca popular, sem nada notavel.\n Municao:\n 12x70 tiro,\n 12x76 bala,\n 12x76 dardo.</text>
+		<text>Este rifle de caca e popular, mas nao ha nada notavel sobre ele.\n Municao:\n tiro 12x70,\n bala 12x76,\n dardo 12x76.</text>
 	</string>
 	<string id="enc_weapons1_wpn-usp">
-		<text>Arma confiavel. Compacta, curto alcance, popular entre veteranos da Zona.\n Municao:\n padrao .45 ACP,\n melhorada .45 ACP Hydro-Shock.</text>
+		<text>Uma arma confiavel. Como uma arma compacta de curto alcance de qualidade, e muito popular entre os veteranos da Zona.\n Municao:\n padrao .45 ACP,\n aprimorada .45 ACP Hydro-Shock.</text>
 	</string>
 	<string id="enc_weapons1_wpn-val">
-		<text>Baseada no rifle Vintar, coronha dobravel, rajadas, carregador maior. Para forcas especiais, disparos silenciosos e sem chama.\n Municao:\n padrao 9x39 mm PAB-9,\n perfurante 9x39 mm SP-6,\n sniper 9x39 mm SP-5.</text>
+		<text>Esta arma e baseada no rifle de sniper silencioso Vintar, mas tem uma coronha dobrável, pode disparar rajadas e tem um carregador maior. Foi originalmente projetada para forcas especiais que operam em condicoes que exigem fogo silencioso e sem chamas.\n Municao:\n padrao 9x39 mm PAB-9,\n perfurante 9x39 mm SP-6,\n sniper 9x39 mm SP-5.</text>
 	</string>
 	<string id="enc_weapons1_wpn-val_m1">
-		<text>Modelo basico com mira optica PSO-1.</text>
+		<text>Difere do modelo basico em sua capacidade de adicionar uma mira otica PSO-1.</text>
 	</string>
 	<string id="enc_weapons1_wpn-vintorez">
-		<text>Rifle de precisao para disparos silenciosos e sem chama, silenciador integrado. Perfura coletes a 400 metros. Valorizada por Stalkers.\n Municao:\n padrao 9x39 mm PAB-9,\n perfurante 9x39 mm SP-6,\n sniper 9x39 mm SP-5.</text>
+		<text>Um rifle de sniper especial projetado para fogo de sniper silencioso e sem chamas e equipado com um silenciador integrado. Pode perfurar qualquer colete a prova de balas em um alcance de 400 metros. E uma arma altamente valorizada por stalkers de qualquer nivel.\n Municao:\n padrao 9x39 mm PAB-9,\n perfurante 9x39 mm SP-6,\n sniper 9x39 mm SP-5.</text>
 	</string>
 	<string id="enc_weapons1_wpn-walther">
-		<text>Excelente pistola. Confiavel, carregador grande, boa precisao, modelo para 9 mm FMJ.\n Municao:\n padrao 9x19 mm FMJ,\n melhorada 9x19 mm PB1s.</text>
+		<text>Uma pistola excelente. Altamente confiavel com um carregador de alta capacidade e uma boa precisao de fogo, especialmente no caso do modelo projetado para a municao 9 mm FMJ.\n Municao:\n padrao 9x19 mm FMJ,\n aprimorada 9x19 mm PB1s.</text>
 	</string>
 	<string id="enc_weapons1_wpn-walther_m1">
-		<text>Modificacao para usar balas 9x18mm.</text>
+		<text>Modificacao da arma para capacidade de usar balas do calibre 9x18mm.</text>
 	</string>
 	<string id="enc_weapons1_wpn-wincheaster1300">
-		<text>Espingarda pump, para ambiente hostil. Confiavel, revestimento anticorrosivo.\n Municao:\n 12x70 tiro,\n 12x76 bala,\n 12x76 dardo.</text>
+		<text>Um rifle de acao de bombeamento de cano liso feito para uso no ambiente mais hostil. E muito confiavel. Todos os seus detalhes sao cobertos com revestimento anticorrosivo.\n Municao:\n tiro 12x70,\n bala 12x76,\n dardo 12x76.</text>
 	</string>
 	<string id="grenade-f1">
-		<text>Granada F1.</text>
+		<text>Granada F1</text>
 	</string>
 	<string id="grenade-gd05">
-		<text>GD-05.</text>
+		<text>GD-05</text>
 	</string>
 	<string id="grenade-rgd5">
-		<text>Granada RGD-5.</text>
+		<text>Granada RGD-5</text>
 	</string>
 	<string id="Weapons1">
-		<text>Arma.</text>
+		<text>Arma</text>
 	</string>
 	<string id="wp_desert_eagle">
-		<text>Black kite.</text>
+		<text>Pipa negra</text>
 	</string>
 	<string id="wpn_hpsa">
-		<text>HPSS-1m.</text>
+		<text>HPSS-1m</text>
 	</string>
 	<string id="wpn_usp">
-		<text>UDP Compact.</text>
+		<text>UDP Compacto</text>
 	</string>
 	<string id="wpn-abakan">
-		<text>Obokan.</text>
+		<text>Obokan</text>
 	</string>
 	<string id="wpn-abakan_m1">
-		<text>Sniper Obokan.</text>
+		<text>Obokan de sniper</text>
 	</string>
 	<string id="wpn-abakan_m2">
-		<text>Obokan de ataque.</text>
+		<text>Obokan de invasao</text>
 	</string>
 	<string id="wpn-addon-grenade-launcher">
-		<text>GP-25 Kostyer.</text>
+		<text>GP-25 Kostyer</text>
 	</string>
 	<string id="wpn-addon-grenade-launcher-m203">
-		<text>M203.</text>
+		<text>M203</text>
 	</string>
 	<string id="wpn-addon-scope">
-		<text>Mirino PSO-1.</text>
+		<text>Mira PSO-1</text>
 	</string>
 	<string id="wpn-addon-scope-susat">
-		<text>Mirino SUSAT.</text>
+		<text>Mira SUSAT</text>
 	</string>
 	<string id="wpn-addon-silencer">
-		<text>Silenciador.</text>
+		<text>Silenciador</text>
 	</string>
 	<string id="wpn-ak74">
-		<text>Akm 74/2.</text>
+		<text>Akm 74/2</text>
 	</string>
 	<string id="wpn-ak74_m1">
-		<text>Akm 74/2 de tiro rapido.</text>
+		<text>Akm 74/2 de tiro rapido</text>
 	</string>
 	<string id="wpn-ak74u">
-		<text>Akm 74/2U.</text>
+		<text>Akm 74/2U</text>
 	</string>
 	<string id="wpn-ak74u_m1">
-		<text>Akm 74/2U especial.</text>
+		<text>Akm 74/2U especial</text>
 	</string>
 	<string id="wpn-beretta">
-		<text>Martha.</text>
+		<text>Martha</text>
 	</string>
 	<string id="wpn-bm16">
-		<text>Espingarda de cano duplo serrado.</text>
+		<text>Cano duplo serrado</text>
 	</string>
 	<string id="wpn-colt_m1">
-		<text>Kora silenciada.</text>
+		<text>Kora silenciosa</text>
 	</string>
 	<string id="wpn-colt1911">
-		<text>Kora-919.</text>
+		<text>Kora-919</text>
 	</string>
 	<string id="wpn-eagle_m1">
-		<text>Big Ben.</text>
+		<text>Big Ben</text>
 	</string>
 	<string id="wpn-fn2000">
-		<text>FT 200M.</text>
+		<text>FT 200M</text>
 	</string>
 	<string id="wpn-fort">
-		<text>Fort-12Mk2.</text>
+		<text>Fort-12Mk2</text>
 	</string>
 	<string id="wpn-fort_m">
-		<text>Fort-15.</text>
+		<text>Fort-15</text>
 	</string>
 	<string id="wpn-g36">
-		<text>GP 37.</text>
+		<text>GP 37</text>
 	</string>
 	<string id="wpn-gauss">
-		<text>Arma Gauss.</text>
+		<text>Arma Gauss</text>
 	</string>
 	<string id="wpn-groza">
-		<text>Tunder S14.</text>
+		<text>Tunder S14</text>
 	</string>
 	<string id="wpn-groza_m1">
-		<text>"Tunder" 5.45.</text>
+		<text>"Tunder" 5.45</text>
 	</string>
 	<string id="wpn-l85">
-		<text>IL 86.</text>
+		<text>IL 86</text>
 	</string>
 	<string id="wpn-l85_m1">
-		<text>Balanced IL 86.</text>
+		<text>IL 86 balanceado</text>
 	</string>
 	<string id="wpn-l85_m2">
-		<text>IL 86 Leve.</text>
+		<text>IL 86 leve</text>
 	</string>
 	<string id="wpn-lr300">
-		<text>TRs 301.</text>
+		<text>TRs 301</text>
 	</string>
 	<string id="wpn-lr300_m1">
-		<text>Sniper TRs 301.</text>
+		<text>TRs 301 de sniper</text>
 	</string>
 	<string id="wpn-mp5">
-		<text>Viper 5.</text>
+		<text>Viper 5</text>
 	</string>
 	<string id="wpn-mp5_m1">
-		<text>Viper 5 9x18.</text>
+		<text>Viper 5 9x18</text>
 	</string>
 	<string id="wpn-mp5_m2">
-		<text>Viper Silenciada.</text>
+		<text>Viper silenciosa</text>
 	</string>
 	<string id="wpn-pb">
-		<text>Pistola Silenciada (PB1s).</text>
+		<text>Pistola silenciosa (PB1s)</text>
 	</string>
 	<string id="wpn-pm">
-		<text>PMm.</text>
+		<text>PMm</text>
 	</string>
 	<string id="wpn-rg-6">
-		<text>Bulldog 6.</text>
+		<text>Bulldog 6</text>
 	</string>
 	<string id="wpn-rg6_m1">
-		<text>Bulldog-6 m209.</text>
+		<text>Bulldog-6 m209</text>
 	</string>
 	<string id="wpn-rpg7">
-		<text>RPG-7u.</text>
+		<text>RPG-7u</text>
 	</string>
 	<string id="wpn-sig_m1">
-		<text>Storming SIP.</text>
+		<text>SIP de invasao</text>
 	</string>
 	<string id="wpn-sig_m2">
-		<text>Sniper SGI.</text>
+		<text>SGI de sniper</text>
 	</string>
 	<string id="wpn-sig220">
-		<text>SIP-t M200.</text>
+		<text>SIP-t M200</text>
 	</string>
 	<string id="wpn-sig550">
-		<text>SGI 5k.</text>
+		<text>SGI 5k</text>
 	</string>
 	<string id="wpn-spas12">
-		<text>SPSA14.</text>
+		<text>SPSA14</text>
 	</string>
 	<string id="wpn-spas12_m1">
-		<text>Threaded SPSA-14.</text>
+		<text>SPSA-14 rosqueada</text>
 	</string>
 	<string id="wpn-svd">
-		<text>Fuzil de Sniper (SVDm 2).</text>
+		<text>Rifle de sniper (SVDm 2)</text>
 	</string>
 	<string id="wpn-svd_m1">
-		<text>"Farshooter" SVDm 2.</text>
+		<text>SVDm 2 "Atirador de Longa Distancia"</text>
 	</string>
 	<string id="wpn-svu">
-		<text>SVUmk2.</text>
+		<text>SVUmk2</text>
 	</string>
 	<string id="wpn-toz34">
-		<text>TOS 34.</text>
+		<text>TOS 34</text>
 	</string>
 	<string id="wpn-val">
-		<text>Fuzil de Assalto Especial VLA.</text>
+		<text>Rifle de assalto especial VLA</text>
 	</string>
 	<string id="wpn-val_m1">
-		<text>Sniper VLA.</text>
+		<text>VLA de sniper</text>
 	</string>
 	<string id="wpn-vintorez">
-		<text>Vintar BC.</text>
+		<text>Vintar BC</text>
 	</string>
 	<string id="wpn-walther">
-		<text>Walker P9m.</text>
+		<text>Walker P9m</text>
 	</string>
 	<string id="wpn-walther_m1">
-		<text>Walker 9x18.</text>
+		<text>Walker 9x18</text>
 	</string>
 	<string id="wpn-wincheaster1300">
-		<text>Chaser 13.</text>
+		<text>Chaser 13</text>
 	</string>
 </string_table>

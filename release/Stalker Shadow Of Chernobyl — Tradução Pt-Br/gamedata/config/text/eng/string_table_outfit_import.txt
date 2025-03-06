@@ -1,0 +1,51 @@
+4|<text>Traje tradicional de um bandido - uma jaqueta de couro com elementos de kevlar. Fornece protecao altamente insuficiente para as condicoes severas da Zona.</text>
+7|<text>Armadura corporal de bandido fraca comum com placas de malha costuradas em seu revestimento. Quase todos podem fazer isso, mas nem todos terao paciencia suficiente.</text>
+10|<text>Jaqueta de bandido</text>
+13|<text>Jaqueta de malha</text>
+16|<text>Produzido por um dos institutos de pesquisa de defesa de Kiev e encomendado pela faccao Dever. E tao simples e confiavel quanto o modelo PSZ-9 padrao, mas devido aos novos materiais, fornece boa protecao contra varios impactos nocivos, incluindo danos por armas de fogo. O colete ainda precisa de algum trabalho porque nao possui sistema de protecao respiratoria.</text>
+19|<text>Traje de armadura do Dever com parametros aprimorados de protecao contra mordidas e cortes.</text>
+22|<text>Armadura do Dever PSZ-9d</text>
+25|<text>Cacador PSZ-9d</text>
+28|<text>Um maravilhoso traje de protecao para a Zona. Stalkers apreciam porque combina excelentes qualidades a prova de anomalias e a prova de balas. Inclui o traje PSZ-9d, um sistema de respiracao de ciclo fechado e um sistema integrado de supressao de campo anomalo. Fornece protecao de qualidade contra balas e estilhaços.</text>
+31|<text>Protecao Universal PSZ-9Md</text>
+34|<text>Um traje de protecao quimica SSP-99 especialmente projetado para as condicoes da Zona. E usado por expedicoes cientificas e pelos eco-stalkers que cooperam com elas. Possui um sistema integrado de filtragem de ar e ar-condicionado. E resistente ao calor e eletricidade, fornece boa protecao contra radiacao e anomalias biologicas. E resistente a ambientes quimicamente agressivos. Nao e projetado para combate, portanto, nao fornece protecao contra balas ou estilhaços.</text>
+37|<text>Ecologista SSP-99</text>
+40|<text>Um prototipo de exoesqueleto militar. Nunca entrou em producao em serie, devido ao custo extremo e algumas falhas de design. No entanto, e produzido em pequenos lotes em pequenas fabricas ilegais fora da Ucrania. Este e um exoesqueleto de terceira geracao. Os defeitos de design que costumavam diminuir sua mobilidade foram eliminados e a armadura foi reforcada. Fornece excelente protecao contra balas e estilhaços. Possui um baixo nivel de protecao contra anomalias.</text>
+43|<text>O dispositivo basico para visao noturna e substituido por um modelo mais moderno com filtragem digital do sinal enviado.</text>
+46|<text>Exoesqueleto</text>
+49|<text>Traje de stalker da faccao Merc. Seu design e baseado no traje usado pelas forcas especiais dos exercitos ocidentais. Devido a um tratamento especial do tecido, a armadura possui uma estabilidade reforcada durante o movimento fisico de suas placas. Suas propriedades protetoras sao ligeiramente melhores do que as dos trajes a prova de balas militares PSZ-7.</text>
+52|<text>Ha malha de corrente costurada no forro do casaco, o que aumenta o nivel de protecao contra ataques de armas de fogo e mordidas de monstros. Um PNV tambem esta incluido no conjunto.</text>
+55|<text>Traje Merc</text>
+58|<text>Traje reforcado</text>
+61|<text>Este traje militar a prova de balas Skat-9M e projetado para operacoes de assalto em areas de atividade anomala. Inclui um traje militar pesado a prova de balas PSZ-12p, um traje de compensacao integrado e um capacete Sphere-12M. Fornece protecao perfeita contra balas e estilhaços e nao diminui a mobilidade do soldado. Possui um sistema equilibrado de protecao contra anomalias.</text>
+64|<text>Traje blindado militar</text>
+67|<text>Traje de stalker da faccao Monolito. O produtor e desconhecido. Suas propriedades protetoras sao ligeiramente piores do que as do colete militar a prova de balas PSZ-9a. Sua estrutura e semelhante ao traje popular entre os stalkers neutros, que combina um colete a prova de balas e um traje de protecao contra radiacao. Fornece boa protecao contra tiros. Seu nivel de protecao contra anomalias e baixo devido a ausencia de um sistema de filtragem de ar.</text>
+70|<text>Traje Monolito</text>
+73|<text>Eles tiraram este casaco do corpo de um dos stalkers que morreram na anomalia "ponche de frutas". Tendo ficado muito tempo na anomalia, o casaco obteve a capacidade de acelerar o metabolismo.</text>
+76|<text>Anomalia Skinner</text>
+79|<text>Uma jaqueta grossa comum, uma das muitas. Aumenta ligeiramente a protecao contra balas e estilhaços. Nao protege contra anomalias e outros efeitos.</text>
+82|<text>Jaqueta de couro</text>
+85|<text>Traje SSP-99 modificado de alta qualidade. Fornece protecao corporal aumentada contra danos de balas e estilhaços. E projetado para os guardas que trabalham com expedicoes cientificas. Fornece boa protecao contra radiacao e anomalias biologicas. E resistente a ambientes quimicamente agressivos e outros efeitos perigosos para o corpo.</text>
+88|<text>Traje SSP-99M</text>
+91|<text>Este traje foi produzido por um dos institutos de pesquisa de defesa de Kiev e representa uma excelente alternativa aos trajes feitos a mao por stalkers. E uma excelente combinacao de um colete a prova de balas, um sistema de respiracao de ciclo fechado e um sistema integrado de supressao de campo anomalo. Devido a escolha perfeita dos materiais, e uma boa escolha. A unica desvantagem e o seu preco.</text>
+94|<text>Traje SEVA</text>
+97|<text>O tecido do traje e saturado com uma locao estreptozoidal, que acelera a cicatrizacao de feridas.</text>
+100|<text>Beril curativo</text>
+103|<text>Um traje de forcas especiais Berill-5M modificado para o ambiente da Zona. Inclui um colete militar a prova de balas PSZ-9a com revestimento de berilio e um capacete Sphere-08. E projetado para operacoes de assalto em areas com alta radiacao de fundo. Seu nivel de protecao contra anomalias e baixo.</text>
+106|<text>Traje blindado Berill-5M</text>
+109|<text>Traje de stalker fabricado por "artesaos populares". E uma combinacao eficaz de um colete militar leve a prova de balas e de um traje de tecido emborrachado. E reforcado com placas de kevlar inseridas e fornece boa protecao contra tiros fracos. No geral, e altamente ineficiente para realizar incursoes profundas e operacoes serias nos nos da Zona.</text>
+112|<text>Corre o boato de que o stalker fantasma nunca carrega um kit de primeiros socorros com ele. Tudo cicatriza nele como em um cao. Dizem que ele tem um traje incomum que conseguiu em uma anomalia.</text>
+115|<text>O antigo dono desta coisa era um verdadeiro turista e, ao que parece, frequentemente fazia caminhadas muito dificeis, no limite da resistencia humana. Ele sabia como distribuir corretamente o peso que carregava e quais coisas priorizar. Os bolsos do casaco e a escolha educada da mochila permitem que seu dono carregue um peso pesado.</text>
+118|<text>Traje de stalker</text>
+121|<text>Traje Fantasma</text>
+124|<text>Traje de Turista</text>
+127|<text>Traje de stalker reforcado produzido pelos armeiros da faccao Libertaria. E composto por um colete militar medio a prova de balas revestido com elementos de zirconio de reforco que fornecem boa protecao contra balas de rifle e estilhaços de medio e longo alcance. O material do traje consiste em duas camadas: couro especialmente tratado e tecido com fio de asbestos. O traje fornece boa protecao contra radiacao e varias anomalias fracas.</text>
+130|<text>Traje Guardiao da Libertaria</text>
+133|<text>Traje de stalker leve produzido pelos armeiros da faccao Libertaria. Consiste em um colete militar leve a prova de balas com placas de kevlar de reforco. Pode proteger de armas fracas. O tecido do traje e tratado com uma mistura especial que aumenta a resistencia a atividade anomala.</text>
+136|<text>Traje Vento da Libertaria</text>
+139|<text>O exoesqueleto protege maravilhosamente de tiros de balas e estilhaços, no entanto, diminui a mobilidade. E vulneravel a balas de armadura.</text>
+142|<text>Exoesqueleto PNB-4UZ</text>
+145|<text>O traje militar a prova de balas e criado para realizar operacoes de invasao. Fornece uma excelente fonte de protecao contra tiros de balas e estilhaços sem diminuir a mobilidade do soldado. Vulneravel a balas de armadura.</text>
+148|<text>Traje militar a prova de balas.</text>
+151|<text>Este traje corporal em particular e projetado para realizar pesquisas na Zona. Possui um sistema de respiracao com ciclo fechado, bem como um sistema integrado para anular a atividade de campos anomalos, gracas ao qual protege maravilhosamente de anomalias. Muito vulneravel devido a fraca protecao. Possui um recipiente embutido para transportar artefatos.</text>
+154|<text>Traje corporal cientifico</text>

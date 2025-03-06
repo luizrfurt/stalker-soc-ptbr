@@ -1,0 +1,49 @@
+4|<text>Medicamentos antirradiacao</text>
+7|<text>Equipamento pesado de stalker</text>
+10|<text>Equipamento leve de stalker</text>
+13|<text>Equipamento medio de stalker</text>
+16|<text>Bandagens</text>
+19|<text>Binoculos</text>
+22|<text>Pao</text>
+25|<text>Um mapa detalhado da Cidade Morta, incluindo as posicoes dos Mercs</text>
+28|<text>Mapa da Cidade Morta</text>
+31|<text>Chave do doutor para um esconderijo secreto em Prypiat</text>
+34|<text>Chave do doutor</text>
+37|<text>Delicia do turista</text>
+40|<text>Detector de anomalias (DA-2)</text>
+43|<text>Instrumentos e dispositivos</text>
+46|<text>PDA</text>
+49|<text>Lanterna</text>
+52|<text>Traje protetor. Peso: 18kg. Detalhes: Protege o corpo de Gelatina, Penugem Queimada, a maioria das anomalias e danos fisicos. O torso e as costas sao protegidos por placas bio-metalicas embutidas. O traje e equipado com um capacete de plastico reforcado e hermetico e duas garrafas de oxigenio. Observacao: Durante periodos prolongados de uso, o traje rasga e gradualmente se deteriora alem do uso.</text>
+55|<text>Traje protetor. Peso: 8 kg. Detalhes: Protege o corpo de anomalias fracas e danos fisicos. Equipado com uma mascara de oxigenio. Observacao: Durante periodos prolongados de uso, o traje rasga e gradualmente se deteriora alem do uso.</text>
+58|<text>Traje protetor. Peso: 12 kg. Detalhes: Protege o usuario de Gelatina, Penugem Queimada, muitas anomalias e danos fisicos. Equipado com um capacete hermetico e uma garrafa de oxigenio. Observacao: Durante periodos prolongados de uso, o traje rasga e gradualmente se deteriora alem do uso.</text>
+61|<text>Um traje S.C.A.P.E vermelho com um capacete hermetico. Peso: 11kg. Descricao: Protege o corpo de fogo, acido, gas toxico, varias anomalias, Penugem Queimada e danos fisicos. Equipado com duas garrafas de oxigenio. Observacao: Durante periodos prolongados de uso, o traje rasga e gradualmente se deteriora alem do uso.</text>
+64|<text>Binoculos de campo militar</text>
+67|<text>Um dispositivo para detectar campos de anomalia e disturbios. Notifica sua presenca com um som. Precisa ser preso ao cinto e ligado para operar corretamente.</text>
+70|<text>Assistente digital pessoal - indispensavel na Zona.</text>
+73|<text>Uma lanterna poderosa. Muito util em areas com iluminacao insuficiente.</text>
+76|<text>Uma lanterna poderosa. O tempo de recarga da bateria foi reduzido gracas a um transformador modernizado.</text>
+79|<text>Esta e uma excelente bebida energetica composta de cafeina, taurina e uma mistura de vitaminas rejuvenescedoras. Perfeito quando voce esta muito cansado para seguir em frente!</text>
+82|<text>E dificil dizer quem consegue assar esses paes na Zona, mas o pao nao esta contaminado e e perfeitamente comestivel. Bem, pelo menos nenhum dos stalkers reclamou disso.</text>
+85|<text>Comida enlatada de um armazem militar invadido por stalkers. O periodo de validade ainda nao expirou.</text>
+88|<text>Feita de uma mistura de frango e soja, a salsicha "diet" e frequentemente, por falta de outras opcoes, o cafe da manha, almoco e jantar de um stalker em um so.</text>
+91|<text>Vodka feita pela empresa GSC. Desce facilmente e reduz significativamente os efeitos da radiacao, mas por razoes obvias deve ser apreciada com moderacao.</text>
+94|<text>Reduz os efeitos da radiacao.</text>
+97|<text>Bandagens. Ajudam a estancar o sangramento.</text>
+100|<text>Um kit medico multifuncional. Usado para tratar lesoes de varios tipos e gravidades - feridas, queimaduras, envenenamentos, etc.</text>
+103|<text>Um conjunto medico especializado para combater danos fisicos e perda de sangue. Inclui um componente para coagulacao sanguinea, antibioticos, estimulantes imunologicos e analgesicos.</text>
+106|<text>Conjunto medico, projetado especialmente para trabalho na Zona. O conjunto inclui meios de curar feridas, bem como meios de eliminar radionucleideos do corpo. Impede o desenvolvimento de doencas por ondas de radio e diminui a dose de radiacao acumulada.</text>
+109|<text>Bebida energetica</text>
+112|<text>Bebida energetica</text>
+115|<text>Equipamento e comida</text>
+118|<text>Comida</text>
+121|<text>Salsicha dietetica</text>
+124|<text>Medicamentos</text>
+127|<text>Kit medico</text>
+130|<text>Kit de primeiros socorros do exercito</text>
+133|<text>Kit de primeiros socorros cientifico</text>
+136|<text>EXP-4 cientifico</text>
+139|<text>Vodka Cossacos</text>
+142|<text>Detector de anomalias</text>
+145|<text>Destinado a deteccao de zonas anomala, bem como focos de poluicao radioativa.</text>
+148|<text>Granada de fumaca</text>
