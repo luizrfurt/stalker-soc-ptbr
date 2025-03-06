@@ -16,6 +16,6 @@ Não traduza quaisquer outro nome de personagem.
 --
 Mutantes: Flesh → Carniceiro, Bloodsucker → Sanguessuga, Snork → Snorkel, Burer → Lancador, Pseudodog → Pseudocao, Burer → Lancador
 --
-Outros Termos: Task → Missao, Detachment → Unidade, Snipers → Snipers, Father → Padre, Suit e Outfit → Traje, Dog → Cao
+Outros Termos: Task → Missao, Detachment → Unidade, Snipers → Snipers, Father → Padre, Suit e Outfit → Traje, Dog → Cao, off-road → fora da estrada
 
 Me de o resultado no mesmo formato que mandei, quebrado por linhas, somente em portugues.
