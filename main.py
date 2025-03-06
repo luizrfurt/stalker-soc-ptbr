@@ -1,6 +1,7 @@
 import os
 import xml.etree.ElementTree as ET
 import shutil
+from unicodedata import normalize
 
 def process_xml_files(directory):
     for filename in os.listdir(directory):
@@ -143,13 +144,13 @@ if __name__ == "__main__":
     # delete_txt_files(source_directory)
 
     # process xmls
-    process_xml_files(source_directory)
+    # process_xml_files(source_directory)
 
     # Nova etapa: remover acentos e cedilha dos arquivos _import.txt
-    # remove_accents_and_cedila(source_directory)
+    # remove_accents_and_cedilla(source_directory)
 
     # update xmls
-    # update_xml_from_import(source_directory)
+    update_xml_from_import(source_directory)
 
     # copy xmls
-    # copy_xml_from_import(source_directory, target_directory)
+    copy_xml_from_import(source_directory, target_directory)
