@@ -14,7 +14,7 @@ Personagens: Marked One → Marca
 
 Não traduza quaisquer outro nome de personagem.
 --
-Mutantes: Flesh → Carniceiro, Bloodsucker → Sanguessuga, Snork → Snorkel, Burer → Lancador
+Mutantes: Flesh → Carniceiro, Bloodsucker → Sanguessuga, Snork → Snorkel, Burer → Lancador, Pseudodog → Pseudocao
 --
 Outros Termos: Task → Missao, Detachment → Unidade, Snipers → Snipers, Father → Padre, Suit e Outfit → Traje
 
