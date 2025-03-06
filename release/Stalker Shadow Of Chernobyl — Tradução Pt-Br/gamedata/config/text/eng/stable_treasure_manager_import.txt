@@ -1,0 +1,431 @@
+4|<text>Por enquanto, nosso esconderijo secreto esta no tunel. E um bom lugar - poucos sabem sobre ele, e as anomalias impedirao que outros entrem.</text>
+7|<text>Esconderijo secreto de Seriy</text>
+10|<text>Escondi no toco perto do tunel. Tem um bom buraco la.</text>
+13|<text>Toco com buraco</text>
+16|<text>Enterrei algumas coisas boas sob a cruz perto do arbusto.</text>
+19|<text>A marca esta sob a cruz</text>
+22|<text>Deixei a mochila cair sob a arvore caida.</text>
+25|<text>Mochila sob a arvore</text>
+28|<text>Enfiei a mochila no cano da fabrica. Ninguem vai encontrar.</text>
+31|<text>Mochila de um limpador de chamines</text>
+34|<text>Escondi o bau no telhado da fabrica - assim ninguem vai encontrar. O problema e que vai enferrujar na chuva.</text>
+37|<text>Bau no telhado</text>
+40|<text>Eles estavam atirando. Tive que deixar a mochila cair sob o vagao de trem atras do assento. Pelo menos eu escapei. Eu volto e pego.</text>
+43|<text>Mochila do bebado</text>
+46|<text>Escondi sob a cruz, atras das cisternas. Cave um pouco, so nao se deixe levar.</text>
+49|<text>Perto das tres cisternas</text>
+52|<text>Coloquei a mochila no topo da fabrica, assim ninguem vai ver. O problema e que nao me lembro exatamente o que tem dentro.</text>
+55|<text>A mochila esta na vigia</text>
+58|<text>Escondi minhas coisas em um bau dentro da fabrica</text>
+61|<text>Bau radioativo</text>
+64|<text>No bau sob a escada tem um esconderijo secreto.</text>
+67|<text>Bau na escadaria</text>
+70|<text>Escondi no bau, ninguem vai verificar mesmo.</text>
+73|<text>Bau da fabrica</text>
+76|<text>Deixei a sacola cair pela janela. Pego depois.</text>
+79|<text>A sacola esta na viga de suporte</text>
+82|<text>Kolyan e eu demos um bom passeio em Agroprom. Encontramos um monte de lixo, mas conseguimos esconder algumas coisas. Colocamos o bau na lixeira.</text>
+85|<text>Lixeira</text>
+88|<text>Encontrei um cofre sob uma arvore caida. Vou esconder tudo la por enquanto.</text>
+91|<text>Cofre sob a arvore</text>
+94|<text>Joguei as coisas no cano, pego depois. Tive que fazer isso, senao obviamente as teria levado comigo. So espero que nao molhem.</text>
+97|<text>Coisas no cano</text>
+100|<text>As mercadorias estao no cano velho, teremos que avisar os caras. Eu nao vou subir la.</text>
+103|<text>Cano radioativo</text>
+106|<text>Fugi da base, que se dane eles! Desviei do fogo dos stalkers. Escondi minhas coisas em uma pilha em um cano. Vou ficar por aqui ate eles irem embora, entao pego.</text>
+109|<text>A pilha</text>
+112|<text>Tem um cofre meio enterrado sob o arbusto - e onde eu escondo tudo.</text>
+115|<text>Cofre sob o arbusto</text>
+118|<text>Descobriram o bau sob a viga de suporte. Alguem estava arrastando-o por todo o caminho do Instituto de Pesquisa Cientifica. Vamos esperar o vento passar e depois pegar.</text>
+121|<text>Caixa de arquivo</text>
+124|<text>Escondi minhas coisas em uma capsula de ferro</text>
+127|<text>Sob a porta alcapao</text>
+130|<text>Tem um cofre meio enterrado sob o arbusto - e onde eu escondo tudo.</text>
+133|<text>Sob o arbusto perto da parede</text>
+136|<text>Bom bau para coletar lixo extra</text>
+139|<text>Bau do instituto</text>
+142|<text>Escondi no cofre, mas entao os soldados chegaram e agora nao consigo pegar as mercadorias.</text>
+145|<text>Agrocofre</text>
+148|<text>Joguei meu lixo no cano - pego depois.</text>
+151|<text>A carroceria do caminhao</text>
+154|<text>Pegue as coisas do tronco podre</text>
+157|<text>Tronco podre</text>
+160|<text>Bom bau para coletar lixo extra. O inventario de equipamentos do instituto ja esteve la.</text>
+163|<text>Bau de Zavhoz</text>
+166|<text>Bom bau para pequenas coisas. Eu guardava minhas ferramentas de metalurgia em um bau como esse em casa.</text>
+169|<text>Inventario de metalurgia</text>
+172|<text>Os bandidos escondem algo sob o cano, preciso verificar. Esta claro em nossa conversa que eles guardam seus suprimentos la.</text>
+175|<text>Fundo comunitario dos bandidos</text>
+178|<text>Escondi a mochila atras de placas de concreto, carregando leve. Vou passar fome, mas pelo menos vivo.</text>
+181|<text>A mochila esta em uma rua lateral</text>
+184|<text>O bau esta atras de um "barril" enferrujado no subsolo, tudo esta dentro dele. Nao tem como eu voltar la. E um milagre que eu tenha derrotado a sanguessuga. Ainda nao me lembro como.</text>
+187|<text>Bau da sanguessuga</text>
+190|<text>Tem algumas coisas boas atras da porta. Eu respondo pelas mercadorias em estoque!</text>
+193|<text>Coisas boas do stalker</text>
+196|<text>Desenterrei algumas coisas boas aqui. Um local inteligente para meu esconderijo secreto. Nao tem como voce encontrar em um barril amarelo.</text>
+199|<text>Buraco de toupeira</text>
+202|<text>Escondi a mochila perto da base do Dever. Pego depois.</text>
+205|<text>Mochila escondida</text>
+208|<text>Uma grande matilha de caes veio atras de mim. Se eu nao tivesse deixado minha mochila, nao teria chegado ao portao.</text>
+211|<text>A mochila que foi deixada para tras</text>
+214|<text>Tudo o que sobrou eles enterraram sob a cruz</text>
+217|<text>Esconderijo secreto sob a cruz</text>
+220|<text>Deixei minha mochila cair aqui - sera mais facil assim</text>
+223|<text>Mochila</text>
+226|<text>A municao do posto de seguranca do Dever e armazenada em um bunker, mas ninguem esta de olho no bau</text>
+229|<text>Suprimentos no bunker</text>
+232|<text>Eu vi um membro do Dever enfiar algo no cano perto do portao</text>
+235|<text>Esconderijo secreto</text>
+238|<text>Tudo isso pertencia a ele, pode muito bem ficar aqui por enquanto</text>
+241|<text>Esconderijo secreto sob a cruz</text>
+244|<text>Vou para o bar, deixei a mochila no hangar</text>
+247|<text>Mochila</text>
+250|<text>Dizem que ha algo valioso escondido no territorio do Dever na central telefonica.</text>
+253|<text>Central telefonica com um esconderijo secreto</text>
+256|<text>Enfiei o bau no topo da torre em frente ao Dever - ninguem vai notar</text>
+259|<text>Esconderijo secreto na torre</text>
+262|<text>Escondi no cano sob a escada</text>
+265|<text>Esconderijo secreto</text>
+268|<text>Escondi as mercadorias nao muito longe do bar, atras das anomalias - ninguem vai entrar la. E mesmo que chegassem la, nao saberiam como abrir. Mas e tudo muito simples - basta puxar um pouco a porta para cima, e tudo se abrira.</text>
+271|<text>Esconderijo secreto de Arny</text>
+274|<text>Enterrei as mercadorias nao muito longe do bar</text>
+277|<text>Esconderijo secreto</text>
+280|<text>Perto do bar, em um bau</text>
+283|<text>Bau</text>
+286|<text>Escondi o bau em uma rua lateral perto do bar</text>
+289|<text>Bau pequeno</text>
+292|<text>Enterrei sob a cruz atras dos pinheiros</text>
+295|<text>Esconderijo secreto</text>
+298|<text>Sob a cruz, nao muito longe da passagem para o Territorio Sombrio</text>
+301|<text>Esconderijo secreto</text>
+304|<text>Escondi o bau com o antirrad em um cano perto da Arena</text>
+307|<text>Bau pequeno</text>
+310|<text>Escondi minhas porcarias em um cano sob a torre</text>
+313|<text>Esconderijo secreto</text>
+316|<text>Ha um esconderijo secreto sob a cruz</text>
+319|<text>Esconderijo secreto</text>
+322|<text>Escondi suprimentos do exercito em um vagao de trem durante o reagrupamento. Para nao esquecer.</text>
+325|<text>Vagao de trem acima da ponte</text>
+328|<text>Eu vi um stalker descer sob uma anomalia perto do tunel do trem na floresta. Parecia que ele tinha algumas coisas muito boas.</text>
+331|<text>Coisas pertencentes aquele que pereceu na anomalia</text>
+334|<text>Escondi o habar perto do acampamento dos bandidos sob a cruz</text>
+337|<text>A cruz perto do acampamento dos bandidos</text>
+340|<text>O bau roubado pelos bandidos foi encontrado no porao do predio central. Precisa preparar um destacamento e pega-lo.</text>
+343|<text>Armazem dos bandidos</text>
+346|<text>Quando meus camaradas e eu estavamos lutando contra os caes de uniforme, enterrei algumas mercadorias sob a ponte. Deixe-os la por enquanto.</text>
+349|<text>Sob a cruz</text>
+352|<text>Enfiei a mochila no porao. Eu volto depois - nao posso pega-la agora.</text>
+355|<text>Abrigo no porao</text>
+358|<text>Encontrei um cofre meio enterrado na fazenda. Vou guardar as mercadorias la por enquanto.</text>
+361|<text>Cofre na fazenda</text>
+364|<text>Um passarinho me contou que alguem esta escondendo algo no vagao de trem na ponte. Precisarei verificar na volta. Eu me pergunto quem...</text>
+367|<text>Conteiner no vagao de trem</text>
+370|<text>Escondi as mercadorias bem embaixo do telhado da casinha perto da ponte.</text>
+373|<text>Mercadorias do atirador</text>
+376|<text>Escondi minhas porcarias em um dos baus nao muito longe da ponte. E isso, estou desistindo e saindo da Zona. Adeus, irmaos! Nunca esquecerei a patria.</text>
+379|<text>Coisas perto da ponte</text>
+382|<text>Um dos stalkers foi sufocado perto do acampamento dos novatos. Verifique suas mercadorias.</text>
+385|<text>A mochila esta perto da vila</text>
+388|<text>Descobri com Lihoi que o esconderijo secreto esta no porao. Ele estava falando demais, entao o calamos para sempre.</text>
+391|<text>Porao na vila</text>
+394|<text>Encontrei um otimo esconderijo no porao. Vou esperar ate que alguem coloque algo la.</text>
+397|<text>Um bom lugar</text>
+400|<text>Descobri com Vorpal que ha um esconderijo secreto no porao. Nossos homens estavam realizando uma expedicao de reconhecimento na area. Vamos verificar.</text>
+403|<text>Esconderijo secreto de Vorpal</text>
+406|<text>Eles viram que o comandante tem um bau complicado em seu escritorio, e ha uma tonelada de mercadorias valiosas la.</text>
+409|<text>Os objetos de valor do comandante</text>
+412|<text>Algum stalker morreu nao muito longe do acampamento dos novatos. Devemos ver o que ele estava carregando. Quem os deixa entrar aqui mesmo?</text>
+415|<text>Perto de uma estrada rural</text>
+418|<text>As mercadorias estao escondidas no porao dos bandidos. Eles nao estavam la antes, entao vamos esperar o momento certo para pega-los todos.</text>
+421|<text>Porao dos ladroes</text>
+424|<text>Descobri o inventario no cano, nao muito longe da fazenda. Assim que o cerco acabar, com certeza voltarei.</text>
+427|<text>Cano de gas</text>
+430|<text>Joguei minha mochila nao muito longe do posto, devo pega-la o mais rapido possivel, antes que o comandante nos transfira para um novo local.</text>
+433|<text>Coisas escondidas</text>
+436|<text>Deixei o bau na torre por enquanto. Pegarei quando puder.</text>
+439|<text>Torre no posto de controle</text>
+442|<text>Eu vi um bandido esconder suas mercadorias em um bau no hangar. Como posso rouba-lo silenciosamente?</text>
+445|<text>Armazenamento dos bandidos</text>
+448|<text>Vasya e eu fomos verificar as coisas e de repente uma bala o atingiu. E eu nao tive nada a ver com isso. E a maldita bala. Escondi as coisas em um cano.</text>
+451|<text>Guindaste velho</text>
+454|<text>Grizzly morreu com todas as suas coisas no Lixao, no tunel do trem atras do diesel. Que pena do Grizzly.</text>
+457|<text>Coisas de Grizzly</text>
+460|<text>Guardei as mercadorias em um cano no lixao.</text>
+463|<text>Cano na pilha Norte</text>
+466|<text>As coisas estao no lixao, em um dos canos. Se voce nao souber exatamente onde estao, nao as encontrara.</text>
+469|<text>Dinheiro extra na sucata</text>
+472|<text>Escondi as coisas em um cano de metal ao lado das duas cisternas. Eu deveria pegar, mas nao tenho tempo.</text>
+475|<text>Forno de ferro ao lado da cisterna.</text>
+478|<text>Ha algumas coisas uteis escondidas entre o lixo radioativo, onde poucos andam por perto.</text>
+481|<text>Cano na pilha Leste</text>
+484|<text>A mochila de alguem esta jogada no vale, com anomalias por toda parte. Como voce poderia chegar la?</text>
+487|<text>Mochila de ninguem</text>
+490|<text>Acabei com o traidor no pantano... nos o enterramos la tambem e deixamos suas mercadorias sob a cruz. Tinhamos coisas mais importantes para nos preocupar.</text>
+493|<text>Os pertences do assassinado</text>
+496|<text>Ha um esconderijo secreto nas sombras - um bom lugar para esconde-lo.</text>
+499|<text>Toco podre</text>
+502|<text>Ha um tronco na floresta com um buraco dentro. No buraco ha um tesouro - e hora de pega-lo.</text>
+505|<text>Tronco na floresta</text>
+508|<text>Petrenko queria transmitir a palavra de que ha informacoes sobre o esconderijo secreto da faccao Strelok no Lixao. Aqui no vale tem que ter um bueiro, ele explicou como tem um truque para abri-lo. Assim que tudo se acalmar, temos que ir la verificar.</text>
+511|<text>Armazenamento da faccao Strelok</text>
+514|<text>Escondi no carro, o Longo disse que era um bom lugar.</text>
+517|<text>Esconderijo secreto no carro</text>
+520|<text>Coloquei a mochila no onibus - parece imperceptivel</text>
+523|<text>Mochila do stalker no onibus</text>
+526|<text>Coloquei os suprimentos no bau, e o bau na casa velha na esquina. Ainda nao consigo entender para que serve essa estrutura.</text>
+529|<text>Suprimentos variados</text>
+532|<text>Ha um cofre parcialmente enterrado em uma pilha de lixo. Tudo esta no cofre. E melhor nao esquecer o que estava nele.</text>
+535|<text>Cofre na pilha Sul.</text>
+538|<text>Coloquei as mercadorias na pilha de lixo no cano</text>
+541|<text>Armazenamento no ferro-velho.</text>
+544|<text>O chefe das comunicacoes de radio nos transmitiu uma mensagem: retirada. Encontrei um bau, joguei o que tinha comigo e me retirei de maos vazias.</text>
+547|<text>Suprimentos no bau</text>
+550|<text>Enfiei o habar no cano no lixao. Nao vai ficar la por muito tempo.</text>
+553|<text>Cano perto do onibus</text>
+556|<text>E facil esconder a mochila nas ruinas. Espero que nao seja dificil pega-la, se os bandidos nao atrapalharem.</text>
+559|<text>Mochila nas ruinas</text>
+562|<text>Enquanto os membros do Dever estavam atirando, escondi o habar no vagao de trem. De alguma forma, tenho que entrar para pega-lo. E para agradecer ao Dever.</text>
+565|<text>Bau no posto de controle militar fortemente armado</text>
+568|<text>Dizem que o Fraco morreu no Lixao - preciso passar para verificar as mercadorias. Caso contrario, havera muitos interessados chegando.</text>
+571|<text>Mochila do Fraco</text>
+574|<text>Por enquanto, vou esconder as mercadorias no buraco. Talvez nao as encontrem.</text>
+577|<text>Sacola de corda no buraco</text>
+580|<text>Uma anomalia pegou alguem na escada rolante - a mochila esta a vista, mas dificil de alcancar.</text>
+583|<text>Sob a concha</text>
+586|<text>Mal consegui passar sob as vigas, mas pelo menos a mochila esta bem escondida - ninguem vai tentar subir aqui.</text>
+589|<text>O dinheiro extra esta sob os blocos de concreto</text>
+592|<text>Escondi as mercadorias no tronco - nao acho que alguem as encontrara.</text>
+595|<text>Esconderijo secreto no tronco</text>
+598|<text>Escondi o lixo no forno.</text>
+601|<text>Esconderijo secreto no forno</text>
+604|<text>Escondi o lixo no escritorio do KAMAZ</text>
+607|<text>Esconderijo secreto no KAMAZ</text>
+610|<text>Enterrei algumas coisas boas sob a cruz perto da vila.</text>
+613|<text>Tesouro sob a cruz</text>
+616|<text>Joguei minhas coisas no cano, pego depois.</text>
+619|<text>Esconderijo secreto no cano</text>
+622|<text>Esconderijo secreto no bau dentro da torre de agua</text>
+625|<text>Tesouro na torre</text>
+628|<text>Enfiei minha mochila no forno, sera util depois.</text>
+631|<text>Esconderijo secreto no forno</text>
+634|<text>Escondi as mercadorias no carro na vila abandonada.</text>
+637|<text>Auto-esconderijo</text>
+640|<text>Deixei a mochila nas ruinas de radiacao. Tinha medo de mostrar meu rosto la.</text>
+643|<text>Segredo perigoso</text>
+646|<text>Enterrei as mercadorias sob a cruz em um lugar escondido.</text>
+649|<text>Esconderijo do stalker</text>
+652|<text>Escondi a mochila com o equipamento em um local aconchegante.</text>
+655|<text>Mochila com equipamento</text>
+658|<text>Escondi minhas porcarias no carro em uma colina</text>
+661|<text>Esconderijo secreto em uma colina</text>
+664|<text>Um helicoptero caiu bem perto da base militar abandonada, e o bau esta bem ali, sob o helicoptero. Um problema - ha anomalias e radiacao por toda parte.</text>
+667|<text>Bau do helicoptero</text>
+670|<text>Enterrei as mercadorias na colina, sob a cruz</text>
+673|<text>Segredo na lapide</text>
+676|<text>Ha um esconderijo secreto no toco - um bom lugar</text>
+679|<text>Toco secreto</text>
+682|<text>Deixei a mochila na cabine do guindaste. Pego depois</text>
+685|<text>Esconderijo secreto do trabalhador de alta altitude</text>
+688|<text>Tudo esta no bau, em um vagao de trem nao muito longe da base. Foi assim que planejamos, agora tudo o que temos que fazer e esperar.</text>
+691|<text>O esconderijo secreto combinado</text>
+694|<text>Enfiei as mercadorias no tronco. Nao acho que vao encontrar nada.</text>
+697|<text>Tesouro no tronco</text>
+700|<text>Enfiei as mercadorias em um cano na margem de um lago</text>
+703|<text>Cano com mercadorias</text>
+706|<text>Escondi minhas coisas em uma capsula de ferro</text>
+709|<text>Esconderijo secreto do stalker</text>
+712|<text>Enfiei as mercadorias em um tronco, nao acho que vao encontra-las</text>
+715|<text>Mercadorias no tronco</text>
+718|<text>Bom bau para armazenar lixo extra</text>
+721|<text>Bom bau de suprimentos</text>
+724|<text>Escondi a mochila com as mercadorias no tunel</text>
+727|<text>Mochila no tunel</text>
+730|<text>Bom bau para armazenar lixo extra</text>
+733|<text>Bau com mercadorias</text>
+736|<text>Enfiei as mercadorias em um tronco, nao acho que vao encontra-las</text>
+739|<text>Esconderijo secreto no tronco</text>
+742|<text>Joguei as mercadorias no bau - pego depois</text>
+745|<text>Esconderijo secreto temporario</text>
+748|<text>Escondi as coisas no bueiro. Elas serao uteis um dia.</text>
+751|<text>Esconderijo secreto de aco</text>
+754|<text>Joguei as mercadorias no bau - pego depois</text>
+757|<text>Bau com mercadorias</text>
+760|<text>Escondi as mercadorias no carro bem debaixo do nariz dos membros da Liberdade, nao tive tempo de procurar um lugar melhor</text>
+763|<text>Esconderijo secreto no carro</text>
+766|<text>Dizem que um stalker famoso bateu as botas aqui, e ninguem pegou suas mercadorias ainda</text>
+769|<text>Coisas do stalker morto</text>
+772|<text>Dizem que ha um bau na garagem com uma tonelada de mercadorias</text>
+775|<text>Tesouro na garagem</text>
+778|<text>Dizem que ha um bau no jardim de infancia com uma tonelada de mercadorias dentro</text>
+781|<text>Esconderijo secreto antigo</text>
+784|<text>Eles enterraram Fang em Prypiat sob um monumento. Deixaram todas as suas mercadorias com ele - nao e certo tirar dos mortos.</text>
+787|<text>Mercadorias de Fang</text>
+790|<text>A ultima coisa que sabiam sobre ele e que ele foi o unico sobrevivente apos o Desintegrador Psiquico. Ele deixou todos os suprimentos em um supermercado antigo e seguiu em frente. Tudo nao saiu como planejado, e ele foi o melhor lider da Liberdade em toda a nossa historia.</text>
+793|<text>Suprimentos do lider da Liberdade</text>
+796|<text>A cruz esta a caminho do Desintegrador Psiquico, nao fui mais longe, escondi tudo la embaixo.</text>
+799|<text>Tesouro de Murk</text>
+802|<text>Algum stalker morreu aqui, e suas mercadorias ainda estao por ai, ninguem consegue alcanca-las</text>
+805|<text>Mercadorias do stalker morto</text>
+808|<text>Dizem que ha um cofre meio enterrado na floresta e ha um monte de mercadorias dentro</text>
+811|<text>Mercadorias no cofre</text>
+814|<text>Eles foram avisados para nao voar sobre o Desintegrador Psiquico, e veja o que aconteceu. Eles pousaram no meio da floresta, e e improvavel que alguem tenha sobrevivido. Deveriamos pegar as coisas que estavam com eles.</text>
+817|<text>Pacote para o Dever</text>
+820|<text>Dizem que os suprimentos da faccao, que estavam tentando chegar ao centro da Zona, ainda estao sob a radiacao do Desintegrador Psiquico. Nenhum deles retornou, e os suprimentos permaneceram la esperando que alguem os pegasse.</text>
+823|<text>Suprimentos do grupo imprudente</text>
+826|<text>Dizem que o lider de alguma faccao anterior morreu aqui, e havia uma quantidade valiosa de mercadorias com ele</text>
+829|<text>Mercadorias do lider da faccao anterior</text>
+832|<text>Escondi a mochila atras da placa de ferro</text>
+835|<text>Mochila escondida</text>
+838|<text>Escondi as mercadorias sob a cruz</text>
+841|<text>Esconderijo secreto sob a cruz</text>
+844|<text>Escondi algo no bau sob a casinha. Nao devo esquecer.</text>
+847|<text>Bau sob a pequena casa</text>
+850|<text>Eu estava prestes a enfiar a mochila sob os degraus, quando aqueles idiotas apareceram. Cara, como vou pega-la de volta?</text>
+853|<text>Mochila do stalker</text>
+856|<text>Ha um cofre meio enterrado no canto atras da arvore. E onde todo o meu lixo ficara por enquanto.</text>
+859|<text>Esconderijo secreto atras da arvore</text>
+862|<text>Eles esconderam tudo em um bau na garagem que tomaram durante a chuva.</text>
+865|<text>Esconderijo secreto na garagem</text>
+868|<text>Escondi algumas coisas no bau atras da cabine</text>
+871|<text>Bau escondido</text>
+874|<text>Enfiei a mochila em um buraco. Parece imperceptivel de cima.</text>
+877|<text>Mochila no esconderijo secreto</text>
+880|<text>Escondi o pequeno bau em um local seguro</text>
+883|<text>Bau em um local seguro</text>
+886|<text>Minha mochila esta bem embaixo do telhado. Esta la para um dia chuvoso.</text>
+889|<text>Esconderijo secreto do stalker</text>
+892|<text>Dizem que ha um cofre naquela casinha e que ha algo dentro</text>
+895|<text>Cofre na casa</text>
+898|<text>Escondi na casa em um cano. Cuidado, tudo esta fora de controle la</text>
+901|<text>Esconderijo secreto no cano</text>
+904|<text>Pegue o que conversamos no bau. Geralmente ninguem olha la dentro</text>
+907|<text>Bau escondido</text>
+910|<text>Escondi sob a cruz em uma rua lateral</text>
+913|<text>Esconderijo secreto sob a cruz</text>
+916|<text>Eles esconderam os suprimentos extras sob o concreto no canteiro de obras</text>
+919|<text>Esconderijo secreto sob o concreto</text>
+922|<text>Caso precisemos fugir rapidamente, colocaremos o habar no bau no canteiro de obras.</text>
+925|<text>Esconderijo secreto do Sortudo</text>
+928|<text>Escondi em uma das ruas laterais no canteiro de obras</text>
+931|<text>Nychka</text>
+934|<text>Enfiei tudo em algum cano - pego depois</text>
+937|<text>Esconderijo secreto no cano</text>
+940|<text>Escondi o remedio em um bau nao muito longe do canteiro de obras</text>
+943|<text>Bau com remedios</text>
+946|<text>Arrastei o bau para a cabine do guindaste</text>
+949|<text>Bau no guindaste</text>
+952|<text>Escondi minhas mercadorias em um bueiro no canto.</text>
+955|<text>Esconderijo secreto no bueiro</text>
+958|<text>Fui atras do artefato e entrei em uma anomalia. Mal conseguia andar e deixei a mochila cair no canto.</text>
+961|<text>A mochila caida</text>
+964|<text>Enfiei o bau bem embaixo do telhado perto da torre para que ninguem notasse.</text>
+967|<text>Pequeno bau sob o telhado</text>
+970|<text>Escondemos o que encontramos no cano nao muito longe do canteiro de obras.</text>
+973|<text>Esconderijo secreto no cano</text>
+976|<text>Enfiei todas as mercadorias no tronco. Nao acho que vao encontra-las.</text>
+979|<text>Esconderijo secreto</text>
+982|<text>Deixei a mochila cair perto do guindaste</text>
+985|<text>Mochila</text>
+988|<text>Escondi um pouco de mercadorias sob a cruz perto da montanha</text>
+991|<text>Esconderijo secreto sob a cruz</text>
+994|<text>Enfiei as mercadorias no tronco. Nao acho que vao encontra-las.</text>
+997|<text>Esconderijo secreto no tronco</text>
+1000|<text>Enfiei a mochila sob a ponte. Deixe-a la por enquanto.</text>
+1003|<text>Mochila sob a ponte</text>
+1006|<text>Coloquei o bau no carro perto do pantano</text>
+1009|<text>Carro com o esconderijo secreto</text>
+1012|<text>Ha um esconderijo secreto em um toco - bom lugar para ele</text>
+1015|<text>Esconderijo secreto em um toco</text>
+1018|<text>Encontrei um otimo bau na fazenda. Vou guardar os suprimentos la por enquanto.</text>
+1021|<text>Bau com suprimentos</text>
+1024|<text>Joguei minhas coisas no cano. Pego depois.</text>
+1027|<text>Esconderijo secreto no cano</text>
+1030|<text>Escondi a mochila sob um pinheiro</text>
+1033|<text>Esconderijo secreto sob o pinheiro</text>
+1036|<text>O novato acabou roubando o bau dos bandidos. Ele colocou no Niva que virou de lado. Ele diz que, pela aparencia, e um bau do governo. Teremos que armar nossos caras e pega-lo.</text>
+1039|<text>Bau do governo</text>
+1042|<text>Ha roubos por toda parte. Eles estao roubando ate mesmo dos seus proprios... mas nunca encontrarao meu bau</text>
+1045|<text>Bau</text>
+1048|<text>Escondi minhas coisas no bueiro. Talvez sejam uteis algum dia.</text>
+1051|<text>Esconderijo secreto no bueiro</text>
+1054|<text>Joguei a mochila sob uma arvore. Caso contrario, nao teria escapado dos bandidos.</text>
+1057|<text>Mochila do stalker</text>
+1060|<text>Coloquei meu lixo em um cano, pego depois</text>
+1063|<text>Esconderijo secreto</text>
+1066|<text>Tudo o que roubei de Borov escondi em um cofre sob o pinheiro. Agora tenho que esperar ate que eles terminem de enlouquecer.</text>
+1069|<text>Cofre escondido</text>
+1072|<text>O quartel-general temporario esta no vagao de trem, assim como o bau com os suprimentos</text>
+1075|<text>Armazem no vagao de trem</text>
+1078|<text>Mal consegui entrar no cano sob a estrada. Agora terei um lugar para esconder minha mochila</text>
+1081|<text>Lugar secreto no cano</text>
+1084|<text>Joguei as mercadorias no bau - pego depois</text>
+1087|<text>Bau com mercadorias</text>
+1090|<text>Estou escondendo as mercadorias atras do cano - e dificil de alcancar, mas pelo menos eles nao vao fugir com elas</text>
+1093|<text>Esconderijo secreto atras do cano</text>
+1096|<text>Encontrei alguns cartuchos na sala de eletricidade</text>
+1099|<text>Esconderijo secreto na sala de eletricidade</text>
+1102|<text>Deixamos tudo o que encontramos no bau, pegaremos quando estivermos voltando</text>
+1105|<text>Esconderijo secreto no bau</text>
+1108|<text>Escondi a mochila do novato, e ele nunca a encontrou</text>
+1111|<text>Mochila escondida</text>
+1114|<text>O bau foi deixado na van - precisa ser pego</text>
+1117|<text>Bau esquecido</text>
+1120|<text>Encontrei um cofre no posto de gasolina e escondi minhas mercadorias nele. Parece que ninguem nunca vai la.</text>
+1123|<text>Cofre no posto de gasolina</text>
+1126|<text>Arrastei o bau para a cisterna</text>
+1129|<text>Bau</text>
+1132|<text>Escondi os suprimentos no cofre no posto de gasolina.</text>
+1135|<text>Cofre no posto de gasolina</text>
+1138|<text>Ha um bau no carro no acampamento dos bandidos. Precisamos entrar furtivamente no carro e verificar - sinto que ha algo la dentro</text>
+1141|<text>Bau no carro</text>
+1144|<text>Coloquei o bau no esconderijo secreto - e um lugar confiavel</text>
+1147|<text>Bau no esconderijo secreto</text>
+1150|<text>Deixei a mochila em um predio abandonado. Bom, nao ha ninguem por perto.</text>
+1153|<text>A mochila deixada para tras</text>
+1156|<text>Vamos armazenar as mercadorias em um cofre em um lugar discreto. Se os soldados nao vierem hoje, virao amanha. Eles nao vao procurar por muito tempo, entao as coisas mais valiosas serao deixadas para mim.</text>
+1159|<text>Esconderijo secreto de Borov</text>
+1162|<text>Escondi a mochila perto do predio</text>
+1165|<text>Mochila em um lugar secreto</text>
+1168|<text>Enfiei as mercadorias em um bau discreto. Pego depois</text>
+1171|<text>Bau discreto</text>
+1174|<text>Escondi a mochila sob o carro, ninguem se preocupara em procurar la</text>
+1177|<text>Mochila escondida</text>
+1180|<text>Escondi as mercadorias no carro bem debaixo do nariz dos bandidos, nao tive tempo de procurar um lugar melhor</text>
+1183|<text>Esconderijo secreto no carro</text>
+1186|<text>Corre o boato de que havia um stalker que entrou no laboratorio e escondeu suas mercadorias nas tomadas eletricas no poco do elevador. Quando chegou a hora de pegar, ele nao conseguiu.</text>
+1189|<text>Mercadorias nas tomadas eletricas</text>
+1192|<text>Corre o boato de que havia um stalker que penetrou neste laboratorio e morreu na area onde estavam realizando os experimentos, com todas as suas mercadorias.</text>
+1195|<text>Mochila do explorador</text>
+1198|<text>Smoked colocou tudo em um cofre no laboratorio subterraneo. Nao e um lugar ruim - ninguem tem as chaves do laboratorio. O unico problema e que ha pedras que comecam a voar por toda parte de repente. Dizem que alguem morreu assim.</text>
+1201|<text>Esconderijo secreto de Smoked</text>
+1204|<text>Tive que deixar a mochila</text>
+1207|<text>A mochila deixada para tras</text>
+1210|<text>A cruz esta em uma colina, e a mochila esta embaixo dela</text>
+1213|<text>Esconderijo secreto sob a cruz</text>
+1216|<text>Dizem que ha um cofre meio enterrado em uma pequena ilha no pantano. Precisa obter informacoes sobre isso</text>
+1219|<text>Cofre antigo</text>
+1222|<text>Enfiei as mercadorias em um cano perto do acampamento</text>
+1225|<text>Cano com mercadorias</text>
+1228|<text>Escondi as mercadorias atras das garagens</text>
+1231|<text>Mochila atras das garagens</text>
+1234|<text>Escondi a mochila em uma cabine, bem atras da sucata de ferro</text>
+1237|<text>Mochila com o saque</text>
+1240|<text>Coloquei o bau no onibus - parece imperceptivel</text>
+1243|<text>Esconderijo secreto no onibus</text>
+1246|<text>As mercadorias estao escondidas no carro nao muito longe do territorio. A radiacao nao e muito alta.</text>
+1249|<text>O saque esta no carro</text>
+1252|<text>Dizem que ha mercadorias de alguem la, mas eles nao conseguem alcanca-las por causa da radiacao.</text>
+1255|<text>Mochila antiga</text>
+1258|<text>Dizem que aqui ha um esconderijo secreto de algum grupo. Eu so me pergunto como eles chegaram aqui com a radiacao?</text>
+1261|<text>Esconderijo secreto de um grupo</text>
+1264|<text>Outro stalker voluntario morreu porque outro prototipo nao o protegeu da radiacao. Ele so chegou ao meio do territorio e ficou la. Saharov quer fazer medicoes mais precisas, mas eu nao vou, senao acabarei ficando la tambem, nao muito longe do territorio.</text>
+1267|<text>Mochila do testador</text>
+1270|<text>Dizem que ha habar de alguem, mas nao ha como chegar la por causa da radiacao.</text>
+1273|<text>Esconderijo secreto antigo</text>
+1276|<text>Preciso fugir. Saharov e Kruglov sao psicopatas totais - eles querem que eu va com algum stalker para o centro da radiacao. Que se danem, assim que eu reunir todos os suprimentos no bueiro, vou fugir.</text>
+1279|<text>Esconderijo secreto do cientista</text>
+1282|<text>Enfiei as mercadorias em um tronco, nao acho que vao encontra-las.</text>
+1285|<text>Tesouro em um tronco</text>
+1288|<text>Dizem que ha um cofre de alguem aqui, mas nao ha como chegar la por causa da radiacao.</text>
+1291|<text>Bau com mercadorias</text>
+1294|<text>Informacoes sobre esconderijo</text>

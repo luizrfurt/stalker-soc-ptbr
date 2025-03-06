@@ -1,0 +1,431 @@
+4|<text>For now our secret stash is in the tunnel. That's a good place - few know about it, and the anomalies will keep others from getting in.</text>
+7|<text>Seriy's secret stash</text>
+10|<text>I hid it in the stump by the tunnel. There's a good hole there.</text>
+13|<text>Stump with hole</text>
+16|<text>I buried some goodies under the cross by the bush.</text>
+19|<text>The mark is under the cross</text>
+22|<text>Dropped the backpack under the fallen tree.</text>
+25|<text>Backpack under tree</text>
+28|<text>Stuck the backpack into the pipe by the factory. Nobody will find it.</text>
+31|<text>Backpack of a chimney sweeper</text>
+34|<text>Stashed the chest on the roof of the factory - that way nobody will find it. Problem is, it will rust under the rain.</text>
+37|<text>Chest on the roof</text>
+40|<text>They were shooting. Had to drop the backpack under the train car behind the seat. At least I got away. I'll go back and get it.</text>
+43|<text>Drunkard's backpack</text>
+46|<text>Hid it under the cross, behind the cisterns. Dig a little, just don't get carried away.</text>
+49|<text>By the three cisterns</text>
+52|<text>I put the backpack towards the top at the factory, that way nobody will see it. Problem is, I don't exactly remember what's in it.</text>
+55|<text>Backpack is in the porthole</text>
+58|<text>I hid my things in a chest inside the factory</text>
+61|<text>Radioactive chest</text>
+64|<text>In the chest under the stairs there's a secret stash.</text>
+67|<text>Chest in the stairwell</text>
+70|<text>I hid it in the chest, nobody will check anyway.</text>
+73|<text>Factory chest</text>
+76|<text>Dropped the bag out the window. Will pick it up later.</text>
+79|<text>The bag is on the support beam</text>
+82|<text>Kolyan and I had a nice walk at the Agroprom. We found a bunch of junk, but managed to hide a few things. We put the chest in the trash bin.</text>
+85|<text>Trash bin</text>
+88|<text>I found a safe under a fallen tree. Going to hide everything there for now.</text>
+91|<text>Safe under the tree</text>
+94|<text>I threw the things into the pipe, will get them later. I had to, otherwise I would have obviously taken them along. Just hope they don't get wet.</text>
+97|<text>Things in the pipe</text>
+100|<text>The goods are in the old pipe, we'll have to tell the guys that. I'm not climbing in there.</text>
+103|<text>Radioactive pipe</text>
+106|<text>Ran away from the base, to hell with them! Dodged the stalkers' fire. Hid my stuff in a pile in a pipe.  I'll hang out here until they leave, then I'll pick it up.</text>
+109|<text>The pile</text>
+112|<text>There is a half buried safe under the bush - that's where I hide everything.</text>
+115|<text>Safe under the bush</text>
+118|<text>They discovered the chest under the support beam. Someone was dragging it along all the way from Scientific Research Institute. Let's wait for the windflier and then pick it up.</text>
+121|<text>Archive box</text>
+124|<text>Hid my stuff in an iron capsule</text>
+127|<text>Under the trap door</text>
+130|<text>There is a half buried safe under the bush - that's where I hide everything.</text>
+133|<text>Under the bush by the wall</text>
+136|<text>Good chest for collecting extra junk</text>
+139|<text>Chest from the institute</text>
+142|<text>Hid it in the safe, but then the soldiers came and now I can't get the goods.</text>
+145|<text>Agrosafe</text>
+148|<text>Threw my junk in the pipe - will get it later.</text>
+151|<text>The body of the truck</text>
+154|<text>Take the things from the rotted log</text>
+157|<text>Rotted log</text>
+160|<text>Good chest for collecting extra junk. The institute's equipment inventory was once there.</text>
+163|<text>Zavhoz chest</text>
+166|<text>Good chest for small things. I kept my metalworking instruments in a chest like that at home.</text>
+169|<text>Metalworking inventory</text>
+172|<text>The bandits hide something under the pipe, need to check it out. It's clear from our conversation that they keep their supplies there.</text>
+175|<text>Bandits' communal "fund"</text>
+178|<text>Hid the backpack behind slabs of concrete, packing light. I'll be hungry but at least alive.</text>
+181|<text>Backpack is in a side-street</text>
+184|<text>Chest is behind a rusted "barrel" in the underground, everything is in it. There's no way I'm going back there. It's a miracle that I busted the bloodsucker. Still don't remember how.</text>
+187|<text>Bloodsucker's chest</text>
+190|<text>There are some goodies behind the door. I'm answering for the goods in store!</text>
+193|<text>Stalker's goodies</text>
+196|<text>I dug up some goodies here. A clever spot for my secret stash. There's no way you'd find it on a yellow barrel.</text>
+199|<text>Mole hole</text>
+202|<text>I hid the backpack by the Duty base. Will pick it up later</text>
+205|<text>Hidden backpack</text>
+208|<text>A large pack of dogs went after me. If I didn't leave my backpack I wouldn't have made it to the gate</text>
+211|<text>The backpack that was left behind</text>
+214|<text>Everything that was left they buried under the cross</text>
+217|<text>Secret stash under the cross</text>
+220|<text>Dropped my backpack here - it'll be easier that way</text>
+223|<text>Backpack</text>
+226|<text>Ammo of the Duty's security checkpoint is stored in a bunker, but nobody's keeping an eye on the chest</text>
+229|<text>Supplies in the bunker</text>
+232|<text>I saw how a dutyer stuck something in the pipe by the gate</text>
+235|<text>Secret stash</text>
+238|<text>All of this belonged to him, might as well stay here for the time being</text>
+241|<text>Secret stash under the cross</text>
+244|<text>I'm going to the bar, left the backpack in the hangar</text>
+247|<text>Backpack</text>
+250|<text>They say that there's something valuable hidden on the Duty's territory in the switchboard.</text>
+253|<text>Swithboard with a secret stash</text>
+256|<text>I stuck the chest in top of the tower in front of the Duty - no one will notice it</text>
+259|<text>Secret stash on the tower</text>
+262|<text>Hid it in the pipe under the stairs</text>
+265|<text>Secret stash</text>
+268|<text>Hid the goods not far from the bar, behind the anomalies - nobody will get in there. And even if they got there they wouldn't know how to open it. But it's all very simple - just pull up slightly at the door, and everything will open.</text>
+271|<text>Arny's secret stash</text>
+274|<text>Buried the goods not far from the bar</text>
+277|<text>Secret stash</text>
+280|<text>By the bar, in a chest</text>
+283|<text>Chest</text>
+286|<text>Hid the chest on a side-street by the bar</text>
+289|<text>Small chest</text>
+292|<text>Buried it under the cross behind the pine trees</text>
+295|<text>Secret stash</text>
+298|<text>Under the cross, not far from the passage into the Dark Territory</text>
+301|<text>Secret stash</text>
+304|<text>Hid the chest with the antirad in a pipe by the Arena</text>
+307|<text>Small chest</text>
+310|<text>Hid my crap in a pipe under the tower</text>
+313|<text>Secret stash</text>
+316|<text>There's a secret stash under the cross</text>
+319|<text>Secret stash</text>
+322|<text>I hid army supplies in a train car during regrouping. Not to forget.</text>
+325|<text>Train car above the bridge</text>
+328|<text>I saw a stalker go down under an anomaly by the train tunnel in the woods. Seemed like he had some pretty good stuff.</text>
+331|<text>Things belonging to the one who perished in the anomaly</text>
+334|<text>I hid the habar by the bandits' camp under the cross</text>
+337|<text>The cross by the bandits' camp</text>
+340|<text>The chest stolen by the bandits has been found in the cellar of the central building. Need to prepare a detachment and get it.</text>
+343|<text>Bandits' warehouse</text>
+346|<text>When my comrades and I were fighting off the dogs in uniform, I buried some goods under the bridge. Let them stay there for now.</text>
+349|<text>Under the cross</text>
+352|<text>I stuck the backpack in the cellar. I'll be back later - can't get to it right now.</text>
+355|<text>Shelter in the cellar</text>
+358|<text>I found a half-buried safe on the farm. I'll keep the goods there for now.</text>
+361|<text>Safe on the farm</text>
+364|<text>A little bird told me that somebody's hiding something in the train car on the bridge. Will need to check it out on the way back. I wonder who...</text>
+367|<text>Container in the train car</text>
+370|<text>Hid the goods right under the roof of the little house by the bridge.</text>
+373|<text>Goods of the shooter</text>
+376|<text>Hid my crap in one of the chests not far from the bridge. That's it, I'm calling it quits and leaving the Zone. Farewell, brothers! I'll never forget the motherland.</text>
+379|<text>Things by the bridge</text>
+382|<text>One of the stalkers choked by the newbies' camp. Check out his goods.</text>
+385|<text>The backpack is near the village</text>
+388|<text>Found out from Lihoi that the secret stash is in the cellar. He was talking too much so we shut him up for good.</text>
+391|<text>Cellar in the village</text>
+394|<text>Found a great hiding place in the cellar. I'll wait until someone puts something there.</text>
+397|<text>A good place</text>
+400|<text>Found out from Vorpal that there's a secret stash in the cellar. Our men were carrying out a scouting expedition in the area. Let's check it out.</text>
+403|<text>Vorpal's secret stash</text>
+406|<text>They saw that the commander has a tricky chest in his office, and there's a ton of valuable goods there.</text>
+409|<text>The valuables of the commander</text>
+412|<text>Some stalker croaked not far from the camp of the newbies. We should see what he was carrying. Who lets them in here anyway?</text>
+415|<text>By a country road</text>
+418|<text>The goodies are hidden in the bandits' cellar. They weren't there before so let's wait for the right time to take them all. </text>
+421|<text>The robbers' cellar</text>
+424|<text>Discovered the inventory in the pipe, not far from the farm. Once the stockade is over, I'll definitely come back.</text>
+427|<text>Gas pipe</text>
+430|<text>Threw my backpack off not far from the post, should pick it up as soon as possible, before the commander transfers us to a new location.</text>
+433|<text>Hidden things</text>
+436|<text>I left the chest at the tower for now. Will pick it up when I can.</text>
+439|<text>Tower at the check-point</text>
+442|<text>I saw how a bandit hid his goods in a chest in the hangar. How can I quietly steal it?</text>
+445|<text>Bandits' storage</text>
+448|<text>Vasya and I went to check things out and suddenly a bullet hit him. And I had nothing to do with it. It's the damn bullet. I hid the stuff away in a pipe.</text>
+451|<text>Old crane</text>
+454|<text>Grizzly croaked with all of his stuff at the Garbage, in the train tunnel behind the diesel. Pity about Grizzly.</text>
+457|<text>Grizzly's things</text>
+460|<text>Stowed the goodies away in a pipe at the garbage.</text>
+463|<text>Pipe on the North pile</text>
+466|<text>The things are in the garbage, in one of the pipes. If you don't know exactly where they are, you won't find them.</text>
+469|<text>Extra cash in the scrap metal</text>
+472|<text>I hid the stuff in a metal pipe next to the two cisterns. I should pick it up, but don't have the time.</text>
+475|<text>Iron furnace next to the cistern.</text>
+478|<text>There are some useful things hidden among the radioactive waste, where few hang around.</text>
+481|<text>Pipe on the East pile</text>
+484|<text>Someone's backpack is lying around in the valley, with anomalies all around. How could you get to it?</text>
+487|<text>Nobody's backpack</text>
+490|<text>Finished off the traitor in the swamp... we buried him there too and left his goodies under the cross. Had more important things to worry about.</text>
+493|<text>The belongings of the murdered one</text>
+496|<text>There's a secret stash in the shadows - a good place to hide it.</text>
+499|<text>Rotted stump</text>
+502|<text>There's a log in the forest with a hold inside. In the hole there's treasure - it's time to get it.</text>
+505|<text>Log in the forest</text>
+508|<text>Petrenko wanted to pass on the word that there's information about the secret stash of the Strelok faction at the Garbage. Here in the valley floor there has to be a manhole, he explained how there's a trick to opening it. As soon as everything calms down, we gotta go there check it out.</text>
+511|<text>Storage of the Strelok faction</text>
+514|<text>Hid it in the car, the Long One said it was a good place.</text>
+517|<text>Secret stash in the car</text>
+520|<text>Put the backpack in the bus - seems unnoticeable</text>
+523|<text>Stalker's backpack in the bus</text>
+526|<text>I put the supplies in the chest, and the chest into the old house around the corner. Still can't understand what that structure is for.</text>
+529|<text>Assorted supplies</text>
+532|<text>There is a safe partially buried in a pile of trash. Everything's in the safe. Better not forget what was in it.</text>
+535|<text>Safe in the South pile.</text>
+538|<text>Put the goodies on the pile of trash in the pipe</text>
+541|<text>Storage in the scrap metal yard.</text>
+544|<text>The head of radio communications passed along a message to us: retreat. I found a chest, threw in what I had on me, and retreated empty-handed.</text>
+547|<text>Supplies in the chest</text>
+550|<text>I stuck the habar into the pipe at the garbage. It won't stay there for long.</text>
+553|<text>Pipe by the bus</text>
+556|<text>It's easy to hide the backpack in the ruins. I hope it won't be hard to pick it up, if the bandits don't get in the way.</text>
+559|<text>Backpack in the ruins</text>
+562|<text>While the dutyers were shooting, I hid the habar in the train car. Somehow I have to get in to pick it up. And to thank the Duty.</text>
+565|<text>Chest at the heavily armed military checkpoint</text>
+568|<text>They say that Weakling choked at the Garbage - need to drop by to check out the goods. Otherwise there'll be many interested parties coming in.</text>
+571|<text>Backpack of Weakling</text>
+574|<text>For now I'll hide the goods in the pothole. Maybe they won't find them.</text>
+577|<text>String bag in the pothole</text>
+580|<text>An anomaly got someone by the escalator - the backpack is in view, but hard to get to.</text>
+583|<text>Under the dipper</text>
+586|<text>Barely made it under the beams, but at least the backpack's well hidden - nobody will try to climb in here.</text>
+589|<text>The extra cash is under the concrete blocks</text>
+592|<text>Hid the goods in the log - don't think anyone will find them.</text>
+595|<text>Secret stash in the log</text>
+598|<text>Hid the junk in the furnace.</text>
+601|<text>Secret stash in the furnace</text>
+604|<text>Hid the junk in the office of KAMAZ</text>
+607|<text>Secret stash in KAMAZ</text>
+610|<text>Buried some goodies under the cross by the village.</text>
+613|<text>Treasure under the cross</text>
+616|<text>Threw my things into the pipe, will pick them up later.</text>
+619|<text>Secret stash in the pipe</text>
+622|<text>Secret stash in the chest inside the water tower</text>
+625|<text>Treasure in the tower</text>
+628|<text>Stuck my backpack into the furnace, it'll come in handy later.</text>
+631|<text>Furnace secret stash</text>
+634|<text>Hid the goodies in the car in the abandoned village.</text>
+637|<text>Auto-secret stash</text>
+640|<text>Left the backpack in the radiation ruins. Was afraid to show my face there.</text>
+643|<text>Dangerous secret</text>
+646|<text>Buried the goodies under the cross in a hidden place.</text>
+649|<text>Stalker's stash</text>
+652|<text>Hid away the backpack with the equipment in a cozy spot.</text>
+655|<text>Backpack with equipment</text>
+658|<text>Hid my crap in the car on a hill</text>
+661|<text>Secret stash on a hill</text>
+664|<text>A helicopter fell right by the abandoned military base, and the chest is right there, under the helicopter. One problem - there are anomalies and radiation all over the place.</text>
+667|<text>Chest from the helicopter</text>
+670|<text>Buried the goodies on the hill, under the cross</text>
+673|<text>Secret in the tombstone</text>
+676|<text>There's a secret stash in the stump - a good place</text>
+679|<text>Secret stump</text>
+682|<text>Left the backpack in the cabin of the crane. Will pick it up later</text>
+685|<text>Secret stash of the high altitude worker</text>
+688|<text>Everything is in the chest, in a train car not far from the base. That's how we planned it, now all we have to do is wait.</text>
+691|<text>The agreed-upon secret stash</text>
+694|<text>Stuck the goods into the log. Don't think they'll find anything.</text>
+697|<text>Treasure in the log</text>
+700|<text>Stuck the goodies into a pipe of the shore of a lake</text>
+703|<text>Pipe with goods</text>
+706|<text>Hid my things in an iron capsule</text>
+709|<text>Secret stash of the stalker</text>
+712|<text>Stuck the goods into a log, don't think they'll find them</text>
+715|<text>Goodies in the log</text>
+718|<text>Good chest for storing extra junk</text>
+721|<text>Good supply chest</text>
+724|<text>Hid away the backpack with the goods in the tunnel</text>
+727|<text>Backpack in the tunnel</text>
+730|<text>Good chest for storing extra junk</text>
+733|<text>Chest with goods</text>
+736|<text>Stuck the goods into a log, don't think they'll find them</text>
+739|<text>Secret stash in the log</text>
+742|<text>Threw the goods into the chest - will get them later</text>
+745|<text>Temporary secret stash</text>
+748|<text>Hid the things in the manhole. They'll come in handy one day.</text>
+751|<text>Steel secret stash</text>
+754|<text>Threw the goods into the chest - will get them later</text>
+757|<text>Chest with goodies</text>
+760|<text>Hid the goodies in the car right under the Freedom noses, didn't have any time to look for a better place</text>
+763|<text>Secret stash in the car</text>
+766|<text>They say that some famous stalker kicked the bucket here, and nobody's picked up his goods yet</text>
+769|<text>Things of the dead stalker</text>
+772|<text>They say that there's a chest in the garage with a whole ton of goodies</text>
+775|<text>Treasure in the garage</text>
+778|<text>They say there's a chest in the kindergarten with a whole ton of goodies in it</text>
+781|<text>Old secret stash</text>
+784|<text>They buried Fang in Pripyat under a monument. They left all of his goodies with him - it's not right to take away from the dead.</text>
+787|<text>Fang's goodies</text>
+790|<text>The last that they knew about him is that he was the sole survivor after the scorcher. He left all the supplies in some old supermarket, and moved on out. Everything went not the way it was planned, and that was the best leader of Freedom in all of our history.</text>
+793|<text>Supplies of the leader of Freedom</text>
+796|<text>The cross is on the way to the scorcher, didn't go any further, hid everything there under it.</text>
+799|<text>Murk's treasure</text>
+802|<text>Some stalker perished here, and his goodies are still lying around, nobody can get to them</text>
+805|<text>Goodies of the dead stalker</text>
+808|<text>They say that there's a half-buried safe in the forest and there's a bunch of goodies inside</text>
+811|<text>Goodies in the safe</text>
+814|<text>They told them not to fly over the Scorcher, and look what happend. They landed in the middle of the forest, and it's unlikely that anyone survived. We were supposed to get the stuff that was with them.</text>
+817|<text>Package for Duty</text>
+820|<text>They say that the supplies of the faction, who were trying to get to the center of the Zone, are still under the radiation of the Scorcher. None of them returned, and the supplies remained there waiting for someone to pick them up.</text>
+823|<text>Supplies of the reckless group</text>
+826|<text>They say that the leader of some former faction croaked here, and there was a valuable amount of goodies with him</text>
+829|<text>Goodies of the leader of former faction</text>
+832|<text>Hid the backpack behind the iron plate</text>
+835|<text>Hidden backpack</text>
+838|<text>Stashed the goodies under the cross</text>
+841|<text>Secret stash under the cross</text>
+844|<text>Hid a little something in the chest under the little house. Shouldn't forget about it.</text>
+847|<text>Chest under the small house</text>
+850|<text>I was about to stick the backpack under the steps, when those jerks appeared. Man, how will I get it back?</text>
+853|<text>Stalker's backpack</text>
+856|<text>There's a half buried safe in the corner behind the tree. That's where all my junk will be for now.</text>
+859|<text>Secret stash behind the tree</text>
+862|<text>They hid everything in a chest in the garage that they took over during the rain.</text>
+865|<text>Secret stash in the garage</text>
+868|<text>Hid some things in the chest behind the booth</text>
+871|<text>Hidden chest</text>
+874|<text>Stuck the backpack in a hole. Seems unnoticeable from above.</text>
+877|<text>Backpack in the secret stash</text>
+880|<text>Hid the small chest in a safe spot</text>
+883|<text>Chest in a safe spot</text>
+886|<text>My backpack is up right under the roof. It's there for a rainy day.</text>
+889|<text>Secret stash of the stalker</text>
+892|<text>They say there's a safe in that little house, and that there's something in it</text>
+895|<text>Safe in the house</text>
+898|<text>Hid it in the house in a pipe. Careful, everything's out of whack there</text>
+901|<text>Secret stash in the pipe</text>
+904|<text>Take what we talked about from the chest. Usually nobody looks in there</text>
+907|<text>Hidden chest</text>
+910|<text>Hid it under the cross on a side street</text>
+913|<text>Secret stash under the cross</text>
+916|<text>They hid the extra supplies under the concrete at the construction site</text>
+919|<text>Secret stash under the concrete</text>
+922|<text>In case we need to take off quickly, we'll put the habar into the chest at the construction site.</text>
+925|<text>Secret stash of the Lucky One</text>
+928|<text>Hid it in one of the side streets at the construction site</text>
+931|<text>Nychka</text>
+934|<text>Stuck everything into some pipe - will pick it up later</text>
+937|<text>Secret stash in the pipe</text>
+940|<text>Hid the medicine in a chest not far from the construction site</text>
+943|<text>Chest with medicine</text>
+946|<text>Dragged the chest into the cabin of the crane</text>
+949|<text>Chest in the crane</text>
+952|<text>Hid my goods in a manhole in the corner.</text>
+955|<text>Secret stash in the manhole</text>
+958|<text>Went after the artifact and got into an anomaly. I was barely able to walk and dropped the backpack in the corner.</text>
+961|<text>The dropped backpack</text>
+964|<text>Stuck the chest right under the roof by the tower so that nobody would notice.</text>
+967|<text>Small chest under the roof</text>
+970|<text>We hid what we found in the pipe not far from the construction site.</text>
+973|<text>Secret stash in the pipe</text>
+976|<text>Stuck all the goods into the log. Don't think they'll find it.</text>
+979|<text>Secret stash</text>
+982|<text>Dropped the backpack off by the crane</text>
+985|<text>Backpack</text>
+988|<text>Hid the bit of goodies under the cross by the mountain</text>
+991|<text>Secret stash under the cross</text>
+994|<text>Stuck the goods into the log. Don't think they'll find it.</text>
+997|<text>Secret stash in the log</text>
+1000|<text>Stuck the backpack under the bridge. Let it stay there for now.</text>
+1003|<text>Backpack under the bridge</text>
+1006|<text>Put the chest into the car by the swamp</text>
+1009|<text>Car with the secret stash</text>
+1012|<text>There's a secret stash in a stump - good place for it</text>
+1015|<text>Secret stash in a stump</text>
+1018|<text>Found a great chest on the farm. I'll keep the supplies there for now.</text>
+1021|<text>Chest with supplies</text>
+1024|<text>Threw my things into the pipe. Will pick them up later.</text>
+1027|<text>Secret stash in the pipe</text>
+1030|<text>Hid the backpack under a pine tree</text>
+1033|<text>Secret stash under the pine tree</text>
+1036|<text>The newbie ended up stealing the chest from the bandits. He put it into the Niva which turned up side down. He says that by the looks of it, it's a government chest. We'll have to arm our guys and take it.</text>
+1039|<text>Government chest</text>
+1042|<text>There are robberies everywhere. They're even stealing even from their own... but they'll never find my chest</text>
+1045|<text>Chest</text>
+1048|<text>Hid my things in the manhole. Maybe they'll come in handy some day.</text>
+1051|<text>Secret stash in the manhole</text>
+1054|<text>Threw the backpack under a tree. Otherwise, I wouldn't have escaped the bandits.</text>
+1057|<text>Stalker's backpack</text>
+1060|<text>Put my junk into a pipe, will pick it up later</text>
+1063|<text>Secret stash</text>
+1066|<text>Everything I stole from Borov I hid away in a safe under the pine tree. Now I have to wait it out while they finish freaking out.</text>
+1069|<text>Hidden safe</text>
+1072|<text>The temporary headquarters are in the train car, as is the chest with the supplies</text>
+1075|<text>Warehouse in the train car</text>
+1078|<text>Barely made it into the pipe under the road. Now I'll have a place to hide me backpack</text>
+1081|<text>Secret place in the pipe</text>
+1084|<text>Threw the goods into the chest - will get them later</text>
+1087|<text>Chest with goods</text>
+1090|<text>I'm hiding the goodies behind the pipe - it's hard to get to, but at least they won't take off with it</text>
+1093|<text>Secret stash behind the pipe</text>
+1096|<text>Found some cartriges in the electricity room</text>
+1099|<text>Secret stash in the electricity room</text>
+1102|<text>We left everything that we found in the chest, we'll pick it up when we're returning</text>
+1105|<text>Secret stash in the chest</text>
+1108|<text>Hid the backpack of the newbie, and he never found it</text>
+1111|<text>Hidden backpack</text>
+1114|<text>The chest was left in the van - needs to be picked up</text>
+1117|<text>Forgotten chest</text>
+1120|<text>Found a safe at the gas station and hid my goods in it. Seems like nobody ever goes there.</text>
+1123|<text>Safe at the gas station</text>
+1126|<text>Dragged the chest on the cistern</text>
+1129|<text>Chest</text>
+1132|<text>Hid the supplies in the safe at the gas station.</text>
+1135|<text>Safe at the gas station</text>
+1138|<text>There's some chest in the car at the bandits' camp. We need to sneak into the car and check it out - I feel there's something in there</text>
+1141|<text>Chest in the car</text>
+1144|<text>Put the chest into the secret stash - it's a reliable place</text>
+1147|<text>Chest in the secret stash</text>
+1150|<text>Left the backpack in an abandoned building. Good, nobody's around.</text>
+1153|<text>The left-behind backpack</text>
+1156|<text>We'll store the goods in a safe in a nondescript place. If the soldiers don't come today, then they'll come tomorrow. They won't look around for very long so the most valuable stuff will be left for me.</text>
+1159|<text>Borov's secret stash</text>
+1162|<text>Stashed away the backpack by the building</text>
+1165|<text>Backpack in a secret place</text>
+1168|<text>Stuck the goodies in a nondescript chest. Will get them later</text>
+1171|<text>Nondescript chest</text>
+1174|<text>Hid the backpack under the car, nobody will bother looking there</text>
+1177|<text>Hidden backpack</text>
+1180|<text>Hid the goodies in the car right under the bandits' noses, didn't have any time to look for a better place</text>
+1183|<text>Secret stash in the car</text>
+1186|<text>Rumor has is that there was a stalker who got into the lab and hid his goodies in the electrical outlets in the elevator shaft. When it came time to pick it up, he couldn't.</text>
+1189|<text>Goodies in the electrical outlets</text>
+1192|<text>Rumor has it that there was a stalker who penetrated into this lab and he knocked off in the area where they were carrying out the experiments, with all of his goods.</text>
+1195|<text>Scout's backpack</text>
+1198|<text>Smoked put everything into a safe in the underground laboratory. Not a bad place - nobody has the keys to the lab. Only problem is, there are rocks that start flying all over the place allof a sudden. They say someone got killed like that.</text>
+1201|<text>Secret stash of Smoked</text>
+1204|<text>Had to leave the backpack</text>
+1207|<text>The left-behind backpack</text>
+1210|<text>The cross is on a hill, and the backpack is under it</text>
+1213|<text>Secret stash under the cross</text>
+1216|<text>They say there's a half-buried safe on a small island in the swamp. Need to get informed about it</text>
+1219|<text>Old safe</text>
+1222|<text>Stuck the goods into a pipe by the camp</text>
+1225|<text>Pipe with goods</text>
+1228|<text>Stashed away the goodies behind the garages</text>
+1231|<text>Backpack behind the garages</text>
+1234|<text>Hid away the bacpack in a booth, right behind the iron scrap</text>
+1237|<text>Backpack with the loot</text>
+1240|<text>Put the chest into the bus - seems to be unnoticeable</text>
+1243|<text>Secret stash in the bus</text>
+1246|<text>The goodies are hidden in the car not far from the territory. The radiation is not very high.</text>
+1249|<text>The loot is in the car</text>
+1252|<text>They say there's somebody's goodies there, but they can't get to it because of the radiation.</text>
+1255|<text>Old backpack</text>
+1258|<text>They say that here there's a secret stash of some grouping. I only wonder how they got here with the radiation?</text>
+1261|<text>Secret stash of a grouping</text>
+1264|<text>Another volunteer stalker croaked because another prototype didn't protect him from the radiation. He only made it to the middle of the territory, and stayed there. Saharov wants to take more precise measurements, but I won't go, else I'll end up staying there myself, not far from the territory.</text>
+1267|<text>Backpack of the tester</text>
+1270|<text>They say that there is somebody's habar, but there's no way to get there because of the radiation.</text>
+1273|<text>Old secret stash</text>
+1276|<text>Gotta take off. Saharov and Kruglov are total psychos - they want me to go with some stalker into the center of radiation. Screw them, as soon as I gather all the supplies in the manhole, I'm taking off.</text>
+1279|<text>Secret stash of the scientist</text>
+1282|<text>Stuck the goods in a log, don't think they'll find it.</text>
+1285|<text>Treasure in a log</text>
+1288|<text>They say that there's somebody's safe here, but there's no way to get to it because of the radiation.</text>
+1291|<text>Chest with goods</text>
+1294|<text>Information about stash</text>
