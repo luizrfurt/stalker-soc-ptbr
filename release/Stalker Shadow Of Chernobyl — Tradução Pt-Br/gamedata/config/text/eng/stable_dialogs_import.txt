@@ -1,0 +1,12 @@
+4|<text>Te vejo por ai!</text>
+7|<text>Voce esta bem?</text>
+10|<text>Estou ferido, droga, voce nao ve? Preciso de um kit medico ou pelo menos de uma bandagem.</text>
+13|<text>Aqui, pegue este kit medico.</text>
+16|<text>Valeu, mano, nao vou esquecer.</text>
+19|<text>Aqui, pegue esta bandagem.</text>
+22|<text>Desculpe, nao tenho nenhuma.</text>
+25|<text>Entao, como voce anda pela Zona? E se voce for infectado ou algo assim? Voce nem vai conseguir se curar!</text>
+28|<text>Desculpe, cara. Mas se eu te der o meu, nao vou ter nenhum para mim.</text>
+31|<text>E problema seu, mas nao te faz bem nenhum.</text>
+34|<text>Ei!</text>
+37|<text>Me ajuda ai, pode ser?</text>

@@ -1,0 +1,12 @@
+4|<text>See you!</text>
+7|<text>Are you alright?</text>
+10|<text>I'm hurt damn it, don't you see that? I need a medkit or at least a bandage.</text>
+13|<text>Here, take this medkit.</text>
+16|<text>Thanks bro', I won't forget it.</text>
+19|<text>Here, take this bandage.</text>
+22|<text>Sorry, I don't have any.</text>
+25|<text>So how do you go around the Zone then? What if you're infected or something? You won't even be able to heal yourself!</text>
+28|<text>Sorry man. But if I give you mine I won't have any left for myself.</text>
+31|<text>It's your business, but it doesn't do you any good.</text>
+34|<text>Hey!</text>
+37|<text>Help me out, would you?</text>
