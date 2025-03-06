@@ -22,6 +22,7 @@ Mutantes: Flesh -> Carniceiro, Bloodsucker -> Sanguessuga, Snork -> Snorkel, Bur
 --
 Anomalias e Artefatos: Whirligig -> Redemoinho, Flash -> Relampago, Moonlight -> Luar, Urchin / Sea Urchin -> Ourico, Vortex -> Vortice
 -
-Outros Termos: Task -> Missao, Detachment -> Unidade, Snipers -> Snipers, Father -> Padre, Suit e Outfit -> Traje, Dog -> Cao, off-road -> fora da estrada, Flash drive -> Pendrive
+Outros Termos: Task -> Missao, Detachment -> Unidade, Snipers -> Snipers, Father -> Padre, Suit e Outfit -> Traje, Dog -> Cao, off-road -> fora da estrada, Flash drive -> Pendrive,
+Dutyer -> Deverista, Dutyers -> Deveristas, Ex-Dutyer -> Ex-Deverista, Freedomers -> Liberais
 
 Me de o resultado no mesmo formato que mandei, quebrado por linhas, somente em portugues.
