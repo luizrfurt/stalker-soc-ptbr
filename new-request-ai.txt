@@ -2,8 +2,6 @@ Regras de Tradução do XML para Português do Brasil
 Contexto: S.T.A.L.K.E.R.: Shadow of Chernobyl
 1. Regras Gerais
     Não traduzir: Stalker, Stalkers, stalker, stalkers.
-    Remover acentos: Substituir todas as vogais acentuadas por suas respectivas versões sem acento (á → a, é → e, í → i, õ → o, ú → u, etc.).
-    Substituir "ç" por "c" e "Ç" por "C".
 2. Traduções Específicas
 Facções: Loner → Errante, Duty → Dever, Trader → Comerciante, Freedom → Libertaria, Merc → Merc, Monolith → Monolito, Spetsnaz → Forcas Especiais
 --

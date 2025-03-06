@@ -111,6 +111,29 @@ def copy_xml_from_import(source_dir, target_dir):
             else:
                 print(f"Skipping empty or non-existent file: {filename}")
 
+def remove_accents_and_cedilla(directory):
+    """Remove acentos e substitui 'ç' por 'c' em todos os arquivos _import.txt."""
+    for filename in os.listdir(directory):
+        if filename.endswith("_import.txt"):
+            import_path = os.path.join(directory, filename)
+            
+            # Verifica se o arquivo existe e não está vazio
+            if os.path.exists(import_path) and os.path.getsize(import_path) > 0:
+                # Lê o conteúdo do arquivo
+                with open(import_path, "r", encoding="utf-8") as file:
+                    content = file.read()
+                
+                # Remove acentos e substitui 'ç' por 'c'
+                new_content = normalize('NFKD', content).encode('ASCII', 'ignore').decode('ASCII')
+                new_content = new_content.replace('ç', 'c').replace('Ç', 'C')
+                
+                # Escreve o conteúdo modificado de volta no arquivo
+                with open(import_path, "w", encoding="utf-8") as file:
+                    file.write(new_content)
+                print(f"Caracteres processados em: {filename}")
+            else:
+                print(f"Arquivo vazio ou inexistente, pulando: {filename}")
+
 if __name__ == "__main__":
     # Altere para o diretório correto
     source_directory = "./release/Stalker Shadow Of Chernobyl — Tradução Pt-Br/gamedata/config/text/eng"
@@ -120,10 +143,13 @@ if __name__ == "__main__":
     # delete_txt_files(source_directory)
 
     # process xmls
-    # process_xml_files(source_directory)
+    process_xml_files(source_directory)
+
+    # Nova etapa: remover acentos e cedilha dos arquivos _import.txt
+    # remove_accents_and_cedila(source_directory)
 
     # update xmls
-    update_xml_from_import(source_directory)
+    # update_xml_from_import(source_directory)
 
     # copy xmls
-    copy_xml_from_import(source_directory, target_directory)
+    # copy_xml_from_import(source_directory, target_directory)
