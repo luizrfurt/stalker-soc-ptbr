@@ -122,8 +122,8 @@
 367|<text>Neutralize o bandido</text>
 370|<text>Neutralize o bandido Poquer.</text>
 373|<text>Apelido do sujeito - Poquer. Um dos lideres de bandidos mais crueis, porco e estuprador... Evidentemente sua cabeca nao esta boa: dizem que ele contraiu uma doenca rara na Zona. Agora ele sofre lapsos de memoria bastante frequentes e, quando recupera a consciencia, nao consegue se lembrar de quem e onde esta. No entanto, ele esta sempre armado e muito agressivo. Localizacao presumivel: Vale Sombrio. Pronto para a tarefa?</text>
-376|<text>Encontre a arma do Dutyer.</text>
-379|<text>O Dutyer esta pedindo que voce encontre sua arma, ele a perdeu em algum lugar no Vale Sombrio durante outra expedicao de reconhecimento.</text>
+376|<text>Encontre a arma do deverista.</text>
+379|<text>O deverista esta pedindo que voce encontre sua arma, ele a perdeu em algum lugar no Vale Sombrio durante outra expedicao de reconhecimento.</text>
 382|<text>Nao deveria ter enlouquecido assim. Como a zona mexe com sua cabeca. Pensei que tinha bons nervos, nunca tive medo de nada, e aqui esta isso. Esse uivo nos ouvidos. Tudo estava indo como de costume. Houve uma expedicao de reconhecimento ao Vale Sombrio, descemos na trincheira com Krivoi para cobrir o resto do grupo, e entao, uma vez que ouvi o uivo, fui tomado pelo medo. Droga, nem me lembro como cheguei a coordenada. Quando voltei para a base, Voronin quase me acertou em cheio: ele tinha acabado de me dar um canhao aprimorado, por bom servico, por assim dizer. E aqui... eu entrei em panico e sai tao rapido que deixei o canhao la. Voce poderia traze-lo de volta para mim, senao para onde vou agora sem uma arma decente.</text>
 385|<text>Limpe o covil dos snorks</text>
 388|<text>Destrua o covil dos snorks em Yantar.</text>
@@ -238,7 +238,7 @@
 715|<text>Nao nos interessa o fato de que dreadnoughts ambulantes possam vagar pela Zona: stalkers em exoesqueletos armados ate os dentes. O trabalho se torna ainda mais perigoso e dificil com isso. Quanto menos deles houver, melhor para nos. Mate um deles e receba sua recompensa.</text>
 718|<text>Obtenha uma parte do corpo de um monstro.</text>
 721|<text>Destrua o stalker da Liberdade.</text>
-724|<text>Um stalker, um ex-dutyer, que tinha muitas informacoes importantes sobre objetos em Prypiat, recentemente mudou para o lado da Liberdade. Ele precisa ser morto antes que diga demais.</text>
+724|<text>Um stalker, um ex-deverista, que tinha muitas informacoes importantes sobre objetos em Prypiat, recentemente mudou para o lado da Liberdade. Ele precisa ser morto antes que diga demais.</text>
 727|<text>Escute aqui. Temos mapas de Prypiat - nao os atuais, mas os antigos, feitos no inicio dos anos 90. A coisa mais importante neles e a marcacao de todos os objetos militares: armazens subterraneos, abrigos antiaereos. Agora ha pouco uso disso, e claro, mas se encontrarmos uma estrada para Prypiat, essa informacao se tornara inestimavel. No entanto, aqui esta o problema. Um dos oficiais passou para o lado da Liberdade e ele sabia sobre essas informacoes. Resumindo, ele precisa ser silenciado antes que diga demais.</text>
 730|<text>Volte para a recompensa.</text>
 733|<text>Traga ao cliente o que foi prometido.</text>
@@ -252,7 +252,7 @@
 757|<text>Olha o que temos agora:</text>
 760|<text>Cubra o destacamento do Dever do ataque dos bandidos no Vale Sombrio</text>
 763|<text>Cubra o destacamento do Dever do ataque dos bandidos no Vale Sombrio</text>
-766|<text>Finalmente consegui colocar na cabeca dura dos dutyers que ja passou da hora de limpar o Lixao dos bandidos. O Dever ampliara seu territorio e nao prejudicara meus clientes regulares com tanta frequencia. Bem, aqui esta o acordo - a lideranca do Dever decidiu, para comecar, cortar o fluxo de bandidos do Vale Sombrio. Entao eles enviaram um destacamento de bloqueio e descobriram que os bandidos nao gostaram disso. Quem diria! Entao, o que eu estou me perguntando e, voce poderia ajuda-los a garantir a entrada do Vale? Eu lhe agradecerei generosamente.</text>
+766|<text>Finalmente consegui colocar na cabeca dura dos deveristas que ja passou da hora de limpar o Lixao dos bandidos. O Dever ampliara seu territorio e nao prejudicara meus clientes regulares com tanta frequencia. Bem, aqui esta o acordo - a lideranca do Dever decidiu, para comecar, cortar o fluxo de bandidos do Vale Sombrio. Entao eles enviaram um destacamento de bloqueio e descobriram que os bandidos nao gostaram disso. Quem diria! Entao, o que eu estou me perguntando e, voce poderia ajuda-los a garantir a entrada do Vale? Eu lhe agradecerei generosamente.</text>
 769|<text>Nao ha trabalhos disponiveis no momento.</text>
 772|<text>Sobre o que voce quer discutir?</text>
 775|<text>Bom garoto! Trabalho bem feito.</text>
