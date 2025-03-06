@@ -8,6 +8,6 @@
 
 ===#### Instruções de desinstalação ####===
 1. Acesse a raiz do seu jogo.
-2. Acesse "gamedata\config\text"
-2. Exclua a pasta "eng"
-3. Renomeie a pasta "_eng" para "eng" (voltando o idioma ingles padrão).
+2. Acesse o caminho "gamedata\config\text\eng-orig".
+2. Copie todos os arquivos dentro dela.
+3. Cole substituindo os arquivos existentes na pasta "gamedata\config\text\eng"
