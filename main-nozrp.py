@@ -165,7 +165,7 @@ def create_release_zip():
     # Caminhos para os arquivos e pastas que você deseja incluir no zip
     base_dir = "./"  # Raiz do projeto
     release_dir = os.path.join(base_dir, "release")
-    source_dir = os.path.join(base_dir, "source")
+    source_dir = os.path.join(base_dir, "source/nozrp")
     
     leia_me_path = os.path.join(source_dir, "Leia-me!.txt")
     gamedata_dir = os.path.join(source_dir, "gamedata")
@@ -175,11 +175,13 @@ def create_release_zip():
         os.makedirs(release_dir)
     
     # Conta os arquivos já existentes na pasta release
-    existing_files = [f for f in os.listdir(release_dir) if os.path.isfile(os.path.join(release_dir, f))]
+    existing_files = [f for f in os.listdir(release_dir) 
+                  if os.path.isfile(os.path.join(release_dir, f)) 
+                  and f.startswith("stalker-soc-traducao-pt-br-nozrp-v")]
     next_version = len(existing_files) + 1  # Número da próxima versão
 
     # Caminho para o arquivo zip a ser criado, com a versão dinâmica no nome
-    zip_file_path = os.path.join(release_dir, f"stalker-soc-traducao-pt-br-v{next_version}.zip")
+    zip_file_path = os.path.join(release_dir, f"stalker-soc-traducao-pt-br-nozrp-v{next_version}.zip")
 
     # Cria o arquivo zip e adiciona os arquivos e diretórios desejados
     with zipfile.ZipFile(zip_file_path, 'w', zipfile.ZIP_DEFLATED) as zipf:
@@ -202,7 +204,7 @@ def create_release_zip():
 
 if __name__ == "__main__":
     # Altere para o diretório correto
-    # source_directory = "./source/gamedata/config/text/eng"
+    # source_directory = "./source/nozrp/gamedata/config/text/eng"
     # target_directory = "C:/Program Files (x86)/Steam/steamapps/common/STALKER Shadow of Chernobyl/gamedata/config/text/eng"
 
     # 1. exclui os arquivos _export.txt e _import.txt
@@ -227,9 +229,9 @@ if __name__ == "__main__":
 
     # 6. move os arquivos de texto de uma pasta para outra
     # move txts
-    # target_directory = "./source/gamedata/config/text/eng-oper"
+    # target_directory = "./source/nozrp/gamedata/config/text/eng-oper"
     # move_txt_files(source_directory, target_directory)
 
     # 7. cria um arquivo zip com os arquivos necessários para a release
     # create release zip
-    # create_release_zip()
+    create_release_zip()
