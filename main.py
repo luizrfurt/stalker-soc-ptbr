@@ -165,7 +165,7 @@ def create_release_zip():
     # Caminhos para os arquivos e pastas que você deseja incluir no zip
     base_dir = "./"  # Raiz do projeto
     release_dir = os.path.join(base_dir, "release")
-    source_dir = os.path.join(base_dir, "source", "stalker-soc-traducao-pt-br")
+    source_dir = os.path.join(base_dir, "source")
     
     leia_me_path = os.path.join(source_dir, "Leia-me!.txt")
     gamedata_dir = os.path.join(source_dir, "gamedata")
@@ -202,7 +202,7 @@ def create_release_zip():
 
 if __name__ == "__main__":
     # Altere para o diretório correto
-    # source_directory = "./source/stalker-soc-traducao-pt-br/gamedata/config/text/eng"
+    # source_directory = "./source/gamedata/config/text/eng"
     # target_directory = "C:/Program Files (x86)/Steam/steamapps/common/STALKER Shadow of Chernobyl/gamedata/config/text/eng"
 
     # 1. exclui os arquivos _export.txt e _import.txt
@@ -214,7 +214,7 @@ if __name__ == "__main__":
     # process_xml_files(source_directory)
 
     # 3. remove acentos e cedilha dos arquivos _import.txt
-    # Nova etapa: remover acentos e cedilha dos arquivos _import.txt
+    # remove accents and cedilla
     # remove_accents_and_cedilla(source_directory)
 
     # 4. atualiza os xmls com as mudanças dos arquivos _import.txt
@@ -227,7 +227,7 @@ if __name__ == "__main__":
 
     # 6. move os arquivos de texto de uma pasta para outra
     # move txts
-    # target_directory = "./source/stalker-soc-traducao-pt-br/gamedata/config/text/eng-oper"
+    # target_directory = "./source/gamedata/config/text/eng-oper"
     # move_txt_files(source_directory, target_directory)
 
     # 7. cria um arquivo zip com os arquivos necessários para a release
