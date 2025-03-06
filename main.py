@@ -162,7 +162,7 @@ def move_txt_files(source_dir, target_dir):
 
 if __name__ == "__main__":
     # Altere para o diretório correto
-    # source_directory = "./source/Stalker SoC - Tradução Pt-Br/gamedata/config/text/eng"
+    # source_directory = "./source/stalker-soc-traducao-pt-br/gamedata/config/text/eng"
     # target_directory = "C:/Program Files (x86)/Steam/steamapps/common/STALKER Shadow of Chernobyl/gamedata/config/text/eng"
 
     # 1. exclui os arquivos _export.txt e _import.txt
@@ -187,5 +187,5 @@ if __name__ == "__main__":
 
     # 6. move os arquivos de texto de uma pasta para outra
     # move txts
-    # target_directory = "./source/Stalker SoC - Tradução Pt-Br/gamedata/config/text/eng-oper"
+    # target_directory = "./source/stalker-soc-traducao-pt-br/gamedata/config/text/eng-oper"
     # move_txt_files(source_directory, target_directory)
