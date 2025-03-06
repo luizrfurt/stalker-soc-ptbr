@@ -1,0 +1,111 @@
+4|<text>Mica</text>
+7|<text>Gosma</text>
+10|<text>Lesma</text>
+13|<text>Sangue de Pedra</text>
+16|<text>Cristal</text>
+19|<text>Flor de Pedra</text>
+22|<text>Goticulas</text>
+25|<text>Bateria</text>
+28|<text>Concha</text>
+31|<text>Contas da Mama</text>
+34|<text>Pelicula</text>
+37|<text>Mola</text>
+40|<text>Relampago</text>
+43|<text>Luar</text>
+46|<text>Faisca</text>
+49|<text>Bola de Fogo</text>
+52|<text>Kolobok</text>
+55|<text>Peixe Dourado</text>
+58|<text>Gravi</text>
+61|<text>Agua-Viva</text>
+64|<text>Pedaco de Carne</text>
+67|<text>Estrela da Noite</text>
+70|<text>Espinho de Cristal</text>
+73|<text>Ourico</text>
+76|<text>Espinho</text>
+79|<text>Alma</text>
+82|<text>Torcido</text>
+85|<text>Agroprom</text>
+88|<text>Ponche de Frutas</text>
+91|<text>Anomalias</text>
+94|<text>Artefatos</text>
+97|<text>Trampolim</text>
+100|<text>Bar</text>
+103|<text>Vale Sombrio</text>
+106|<text>Apagado</text>
+109|<text>Eletro</text>
+112|<text>Variacao do Chaser. Um pequeno fragmento do artefato "Gravi" foi construido no cano, posicionado de forma a aumentar a velocidade do voo da bala.</text>
+115|<text>Uma anomalia de natureza desconhecida. Em contato, inflige ferimentos semelhantes aos efeitos de um acido forte. Forma tres tipos de artefatos: Gosma, Lesma e Mica.</text>
+118|<text>Uma das primeiras anomalias ja registradas - um campo gravitacional instavel que inflige dano de choque a qualquer pessoa dentro de seu raio. Permanece ativo por uma semana em media. A quantidade de dano infligido muda durante sua vida util, variando de hematomas leves, passando por ferimentos graves, ate morte instantanea. Facil de detectar a luz do dia. Acompanhado por flutuacao do ar acima da anomalia, folhas dancantes e manchas distintas de cor carmesim no chao. Detectado por todos os tipos de detectores, o Trampolim tambem pode ser revelado jogando objetos nele. Forma tres tipos de artefatos: Agua-Viva, Flor de Pedra e Estrela da Noite.</text>
+121|<text>Uma formacao anomala, com aproximadamente 10 metros de diametro, acumulando grandes quantidades de eletricidade estatica. Quando acionada, a anomalia explode em dezenas de relampagos em miniatura, causando choque eletrico quase sempre letal para todos os seres vivos. Reconhecivel pela nevoa azulada pairando sobre ela a luz do dia. A noite, o Eletro pode ser revelado usando qualquer tipo de detector ou jogando objetos de metal na anomalia. Forma tres tipos de artefatos: Faisca, Relampago e Luar.</text>
+124|<text>Um dos exemplos da Zona de vegetacao mutante. Reage a seres vivos que se aproximam rapidamente, liberando uma nuvem de projeteis que ferem gravemente a pele descoberta ou levemente protegida em contato. Nao reage a alvos que se movem lentamente. Forma tres tipos de artefatos (possivelmente suas sementes): Espinho, Espinho de Cristal e Ourico.</text>
+127|<text>Uma anomalia de natureza presumivelmente gravitacional. Quando acionada, o tremendo poder do Vortex arrasta tudo dentro do raio de 10-15 metros em direcao ao centro. Vitimas arrastadas para o nucleo nao tem chance de sobrevivencia: seus corpos sao rapidamente comprimidos em um nodulo apertado, apenas para serem explodidos em uma poderosa descarga de energia um momento depois. A anomalia permanece estacionaria durante toda a sua vida util (uma semana em media). Facilmente reconhecivel a luz do dia pela flutuacao do ar acima, folhas dancantes, fragmentos de corpos desmembrados espalhados e uma mancha escura distinta no centro. Altamente perigoso a noite, pois so pode ser revelado por meio de um detector ou jogando objetos de metal nele. Forma tres tipos de artefatos: Torcido, Gravi e Peixe Dourado.</text>
+130|<text>Uma anomalia inofensiva, negando temporariamente a gravidade normal. Manifesta-se como uma area - geralmente varios metros de diametro - onde a forca gravitacional da Terra e muito reduzida. Forma o artefato Pelicula.</text>
+133|<text>A anomalia agarra suas vitimas no ar e as gira em uma velocidade vertiginosa. A natureza exata do Redemoinho permanece desconhecida. A anomalia pode ser reconhecida por um leve redemoinho de po acima e por fragmentos de corpos espalhados nas proximidades. Vitimas capturadas em sua borda externa - longe o suficiente da zona de efeito maximo no centro - podem escapar do Redemoinho com ferimentos relativamente leves. Forma tres tipos de artefatos: Sangue de Pedra, Pedaco de Carne e Alma.</text>
+136|<text>Uma area de radiacao aumentada - acima de 50 mR/h. Permanecer em uma zona de radiacao por periodos mais longos nao e recomendado.</text>
+139|<text>Um verdadeiro milagre de uma anomalia: uma area de varios metros de diametro onde o fluxo de tempo e significativamente mais lento que o normal. Parece nao ter efeito negativo na saude humana. No entanto, a Maquina do Tempo pode ser muito dificil de sair. Curiosamente, remover as Contas da Mama - um artefato geralmente encontrado no centro da anomalia - faz com que a Maquina do Tempo desapareca.</text>
+142|<text>Enquanto inativa, a anomalia se manifesta como uma nuvem de ar quente quase invisivel. Quando acionada por um objeto ou um ser vivo, ela instantaneamente aquece a temperaturas letais que se aproximam de 1500K. A noite, pode ser revelada por detectores poderosos ou jogando objetos de metal na area de acionamento. Forma tres tipos de artefatos: Goticulas, Bola de Fogo e Cristal.</text>
+145|<text>A anomalia Ponche de Frutas e capaz de criar tal artefato na mais rara e extrema colecao de condicoes fisicas. O resultado e um objeto semitransparente e duro. Um artefato raro e caro.</text>
+148|<text>E certo que este artefato e criado pela anomalia chamada "Ponche de Frutas". Quando carregado no melhor, os ferimentos sangram menos, embora o corpo de seu dono se torne mais vulneravel a varias queimaduras.</text>
+151|<text>Formado pela anomalia "Ponche de Frutas". As qualidades negativas deste artefato sao compensadas pelo fato de que ele aumenta a qualidade de coagulacao do sangue. Nao e frequente encontrar tal artefato, e eles pagam bem por ele tambem.</text>
+154|<text>Voce pode encontrar este artefato perto da anomalia Redemoinho. E um objeto avermelhado bastante feio feito de restos polimerizados de plantas, solo e ossos prensados e curiosamente dobrados. Bastante difundido e nao muito eficaz.</text>
+157|<text>E criado quando metais pesados caem na anomalia Queimador. Este artefato elimina a radiacao maravilhosamente. E altamente valorizado pelos stalkers e dificil de encontrar.</text>
+160|<text>Nascido na anomalia Trampolim. Este artefato e encontrado em apenas algumas areas da Zona. Os pedacos de compostos metalicos criam um belo jogo de luz. E muito calmante estudar este artefato a noite junto a fogueira.</text>
+163|<text>Formado na anomalia Queimador em altas temperaturas. Do exterior parece um composto de sombra semelhante a lagrimas com uma superficie brilhante, coberta de rachaduras.</text>
+166|<text>A origem deste objeto esta envolta em misterio cientifico. E claro que e feito em parte por elementos dieletricos, mas a ciencia nao conhece as condicoes fisicas em que e formado.</text>
+169|<text>Ao usar este artefato, a desnaturalizacao de proteinas acontece mais lentamente. Em outras palavras, a carne e capaz de suportar temperaturas mais altas e queima menos. Em si, e uma coisa cara e rara.</text>
+172|<text>Artefato maravilhoso. Mantenha-o seguro - e bom porque so tem qualidades positivas. Os cientistas nao conseguem descobrir como criar tal artefato em condicoes de laboratorio.</text>
+175|<text>Este artefato e tao raro que muitos pesquisadores nem conseguem imaginar que tal substancia possa existir em um ambiente natural. Emite componentes quimicos acidos.</text>
+178|<text>De acordo com a opiniao de alguns pesquisadores-teoricos, este artefato e um hibrido entre Baterias e Concha.</text>
+181|<text>Eletro as vezes da a luz a este artefato. Os stalkers o usam prontamente por causa de suas boas qualidades. Um preco nao ruim e uma boa aparencia externa tornam este artefato atraente para colecionadores.</text>
+184|<text>Caso degenerado da atividade da anomalia Eletro. Parece que uma forma redonda tao maravilhosa e criada quando a anomalia e submetida a influencias termicas. Artefato caro.</text>
+187|<text>Encontrado perto do tipo de anomalia Eletro. Artefato bastante difundido e barato. Mas ainda e valorizado entre os pesquisadores da Zona por suas qualidades.</text>
+190|<text>Cristaliza na anomalia Queimador. Luta bem contra a radioatividade, embora a taxa aumentada de troca de energia desgaste os musculos do aparelho em movimento. Nao sera capaz de correr por muito tempo. Artefato emite calor.</text>
+193|<text>Quando voce segura este misterio da Zona em suas maos, voce sente como sua pele se torna mais dura e menos sensivel. Voce ainda pode atirar atraves dela com uma bala, mas e muito mais dificil de cortar atraves dela.</text>
+196|<text>Um artefato formado na anomalia Vortex. E ativado pelo calor do corpo. Decida o que e pior: radiacao ou ferimentos de faca, e escolha o menor dos dois males. Em qualquer caso, voce pode vender o artefato para um bom lucro.</text>
+199|<text>Pode encontra-lo perto de anomalias como "Vortex" ou nas maos de outro stalker. Ao usa-lo, uma certa quantidade de radiacao e armazenada no corpo enquanto o resto e espalhado na direcao radial para longe do corpo. Um bom preco.</text>
+202|<text>E formado no Trampolim. Forma um campo protetor fraco cujo efeito colateral e uma leve radiacao. O artefato e difundido e nao muito valioso.</text>
+205|<text>Fabricado pela anomalia Redemoinho. Causa aumento do crescimento celular. Por outro lado, as celulas recem-formadas sao muito mais receptivas aos efeitos do uranio fisico. O artefato nao aparece com muita frequencia, mas e dificil chama-lo de raro.</text>
+208|<text>Este artefato maravilhoso e formado pela anomalia Trampolim. O uso do artefato exige a neutralizacao da radiacao mortal. Caro e raro, este artefato e extremamente interessante para expedicoes cientificas e outras atividades de pesquisa na Zona.</text>
+211|<text>Cristaliza na anomalia Penugem Queimada. Naturalmente remove a radiacao do organismo. Isto e, atraves das orelhas junto com uma certa quantidade de sangue. A perda de sangue tambem e possivel atraves de aberturas excessivas. Difundido e bastante eficaz, o que e a causa do preco estavel no mercado de artefatos.</text>
+214|<text>A anomalia Penugem Queimada muito raramente da origem a este artefato. A pressao sanguinea aumenta, o corpo se livra de uma grande quantidade de globulos vermelhos. Mas junto com eles a radiacao armazenada tambem deixa o corpo. Em seu trabalho fundamental intitulado "Ionizacao e polarizacao dos componentes de artefatos raros", Saharov observou que o conteudo desta formacao tem uma estabilidade critica, e nao e realista criar tal artefato em condicoes de laboratorio nos proximos dez anos.</text>
+217|<text>O resultado da interacao entre a anomalia Penugem Queimada e o corpo de um stalker descuidado. O artefato Espinho cutuca o corpo de seu dono, nao importa o que aconteca. Mas tambem ajuda a limpar o corpo de radionuclideos. Bastante difundido e barato.</text>
+220|<text>Artefato muito raramente encontrado, localizado perto da anomalia Redemoinho. Apenas alguns conseguem encontrar este artefato, e poucos o viram. Tem uma forma agradavel e um preco igualmente agradavel.</text>
+223|<text>Localizado na anomalia chamada "Vortex". Quando toca o corpo, dissemina a direcao da radiacao, protegendo de arranhoes ou ferimentos causados por armas. Este artefato nao e dificil de encontrar, por isso nao pagam muito por ele.</text>
+226|<text>Uma area estranha e altamente contaminada. Se voce se aventurar mais fundo nela, vera um lago raso, cheio de equipamentos abandonados e outros detritos de ponta a ponta. Voce tambem pode conferir o Instituto abandonado e a fabrica, embora os militares tenham andado muito por la recentemente.</text>
+229|<text>A faccao Dever montou acampamento na borda da planicie e sempre recebe stalkers que precisam de descanso. Um oasis no deserto, por assim dizer - um lugar completamente desprovido de anomalias e mutantes. Nao deixe de conferir o bar 100 Rads nos cofres - e um ponto de encontro para stalkers de toda a Zona. O bar e administrado pelo comerciante local, entao, se voce estiver interessado em vender ou comprar mercadorias alem da fofoca local - esse e o lugar para ir. Ao norte do bar fica a base militar, com o Lixao ao sul.</text>
+232|<text>Sempre sombrio, sempre nebuloso e sempre chuvoso. Stalkers que se aventuram no Vale Sombrio provavelmente encontrarao artefatos valiosos, morte instantanea ou ambos. Um lugar frequentado por alguns dos veteranos mais experientes, embora voce tambem possa encontrar alguns bandidos comuns. Supostamente ha um laboratorio subterraneo por la em algum lugar, entao pode valer a pena procurar uma entrada escondida ao longo do caminho. No entanto, ninguem voltou de la vivo e ninguem pode dizer com certeza quais surpresas desagradaveis o aguardam la.</text>
+235|<text>Pense nisso como a antecamara da Zona - e um bom lugar para os novatos se situarem. Voce encontrara um comerciante nos cofres no fundo da vila, ao lado do posto avancado do exercito. Nao perca a chance de conversar com ele. Voce seria aconselhado a ficar longe do proprio posto avancado, no entanto. Voce nao quer que os soldados o vejam - a maioria deles atira primeiro e nao se preocupa em fazer perguntas depois. No entanto, como sempre, ha alguns que podem ser subornados, desde que os chefes nao estejam olhando. Atacar os soldados nao e recomendado, a menos que representem uma ameaca direta.</text>
+238|<text>Um vasto cemiterio de maquinas. Logo apos o primeiro acidente, montes de lixo radioativo foram despejados la. Principalmente ruinas de predios antigos infestados de mutantes. Muito parecido com os arredores da Zona, o lugar esta cheio de stalkers novatos, com um bandido ocasional vagando por perto, sempre a procura de brindes. Alguns artefatos podem ser encontrados aqui, mas a maioria deles simplesmente nao vale o esforco. Voce estara melhor em outro lugar. Seguindo para o norte, voce chegara ao Territorio Selvagem, a oeste fica a entrada para o Vale Sombrio, com a estrada para o Instituto de Pesquisa Agroprom a leste.</text>
+241|<text>Uma base militar deserta ao lado de um povoado dilapidado e um pequeno pantano. A vila e um lugar assustador literalmente cheio de mutantes - as sanguessugas sozinhas sao legiao. Stalkers fazem o possivel para se manterem afastados dela, mesmo que isso signifique percorrer quilometros extras ao seu redor. Os anarquistas da faccao Liberdade se estabeleceram na base militar. A estrada que liga a base a Zona e guardada pelo Desintegrador Psiquico, que bloqueia o caminho para Prypiat e a Usina Nuclear de Chernobyl.</text>
+244|<text>Esta costumava ser uma cidade construida para engenheiros que trabalhavam na Usina Nuclear de Chernobyl. Um lugar bastante grande antes, agora e uma cidade fantasma com mutantes e zumbis como os unicos residentes. Parece nao haver como entrar la: o Desintegrador Psiquico esta bloqueando o caminho.</text>
+247|<text>Um lugar terrivel. Facil de desaparecer sem deixar rastros la, nao importa o quao sortudo voce tenha sido na vida ate agora. Quem se aproxima do Desintegrador Psiquico imediatamente enlouquece, se transforma em um zumbi e comeca a perseguir a Zona incessantemente. Uma casca humana e tudo o que resta. Ninguem jamais voltou com a mente sa.</text>
+250|<text>O Territorio Selvagem costumava ser o local de uma fabrica de manufatura bastante grande, atualmente em ruinas. Muitos stalkers encontraram a morte la: o lugar esta cheio de todos os tipos de monstros. As feras estao literalmente fluindo para la de toda a Zona. Dizem que algo de grande importancia esta escondido neste local, entao sempre ha muitos aventureiros dispostos a tentar a sorte.</text>
+253|<text>O local da usina nuclear mundialmente famosa. Este e o coracao da Zona. Se voce acredita nas lendas, este tambem e o local do Monolito - uma coisa misteriosa capaz de conceder qualquer desejo.</text>
+256|<text>O lendario lago no setor de mesmo nome secou ha muito tempo, deixando um pantano raso em seu lugar. O lugar e morbido e encharcado de morte. Grandes perigos aguardam qualquer alma aventureira tola o suficiente para se aproximar dele. Quem se atreve a ir longe demais enlouquece. Drones zumbis estao vagando por todo o setor, esperando por novas vitimas. Se voce caminhar ao redor do lago e passar pelos zumbis, chegara ao acampamento dos cientistas, onde os intelectuais trazidos por helicopteros estao fazendo algumas pesquisas. Voce pode conversar com eles; eles compram artefatos e podem ate envia-lo em uma missao.</text>
+259|<text>A zona contaminada brilhava com a mais intensa das luzes, quase insuportavel para o olho humano. Voce podia praticamente ver as nuvens no ceu se transformando em vapor. Apos um momento de silencio mortal, veio um trovao estrondoso, e entao a terra tremeu. As pessoas cairam no chao, apertando os olhos e cobrindo os ouvidos. Aqueles que ainda podiam ficar de pe correram para salvar suas vidas. Parecia que todo o combustivel nuclear enterrado sob o Sarcofago havia explodido repentinamente. No dia seguinte, o exercito isolou a nova Zona. Os satelites ajudaram a estabelecer que o epicentro da explosao nao estava realmente nas proximidades dos reatores da Usina Nuclear, mas cerca de meio quilometro de distancia. Acredita-se que o pessoal da estacao morreu imediatamente, embora muitas pessoas ainda permanecessem dentro da area isolada. A operacao de resgate logo se mostrou um esforco inutil, ja que todas as pessoas e maquinas enviadas para as profundezas da area morreriam ou apresentariam mau funcionamento imediatamente. Pouco tempo depois do desastre, o diametro da Zona aumentou alguns quilometros. A maioria das tropas do governo que guardavam a linha de fronteira e as equipes de pesquisa estacionadas la pereceram instantaneamente. Em panico, as pessoas fugiram. Os moradores de cidades e vilas proximas foram evacuados as pressas. Um enorme perigo esta pairando sobre o mundo e so podemos adivinhar qual sera seu impacto total.</text>
+262|<text>Dois anos se passaram desde o desastre na zona contaminada ao redor da Usina Nuclear de Chernobyl. Numero de mortos disparando, inumeras pessoas desaparecidas, gado morto, predios em decomposicao, florestas mutiladas... Ate hoje os cientistas nao tem explicacao sobre o que exatamente aconteceu em Chernobyl. Enquanto isso, algumas anomalias inconcebiveis foram descobertas na area, e a Zona continua se expandindo. Expedicoes raras encontram especies mutantes de animais exibindo habilidades inacreditaveis.</text>
+265|<text>Seguindo os rastros daqueles aventureiros temerarios que se autodenominam stalkers, expedicoes de pesquisa estao mais uma vez embarcando em um estudo aprofundado da Zona. No entanto, o perimetro guardado pelo exercito tem outros habitantes perigosos agora - de cacadores furtivos comuns a pior escoria de bandidos. A maioria dos stalkers vaga pela Zona em busca de anomalias e dos chamados artefatos pelos quais obtem um bom lucro.</text>
+268|<text>O exercito, incluindo forcas especiais lideradas por destacamentos de stalkers paramilitares, lancou uma incursao macica nas profundezas da Zona. Seu objetivo era romper a Usina Nuclear de Chernobyl e eliminar a causa dos campos anomalos ou pelo menos obter informacoes de primeira mao sobre o estado atual das coisas. Este esforco, envolvendo mais de mil pessoas e maquinaria pesada, foi um fracasso total. Grupos isolados de sobreviventes foram forcados a se estabelecer dentro da Zona com poucas esperancas de resgate.</text>
+271|<text>Posto avancado</text>
+274|<text>Penugem Queimada</text>
+277|<text>Lixao</text>
+280|<text>Vortice</text>
+283|<text>Elevador</text>
+286|<text>Locais</text>
+289|<text>Redemoinho</text>
+292|<text>Base militar</text>
+295|<text>Prypiat</text>
+298|<text>Desintegrador Psiquico</text>
+301|<text>Fonte de radioatividade</text>
+304|<text>Territorio Selvagem</text>
+307|<text>Usina Nuclear de Chernobyl</text>
+310|<text>12 de abril de 2008, 14h33</text>
+313|<text>Ano 2010</text>
+316|<text>Ano 2011</text>
+319|<text>Incursao do exercito na Zona. 2011</text>
+322|<text>Maquina do Tempo</text>
+325|<text>Yantar</text>
+328|<text>Queimador</text>
+331|<text>A Zona</text>
+334|<text>Historia da Zona</text>

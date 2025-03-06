@@ -1,81 +1,81 @@
 <?xml version="1.0" encoding="windows-1251" ?>
 <string_table>
 	<string id="Army">
-		<text>Army</text>
+		<text>Exercito</text>
 	</string>
 	<string id="Bandits">
-		<text>Bandits</text>
+		<text>Bandidos</text>
 	</string>
 	<string id="Duty">
-		<text>Duty faction</text>
+		<text>Faccao Dever</text>
 	</string>
 	<string id="enc_social_military_army">
-		<text>Regular army soldiers. They guard all roads into the Zone, patrol its perimeter, kill mutants and hunt down looters. \nSpetsnaz - elite army troops, usually dispatched to the Zone to conduct rescue operations and other special missions.</text>
+		<text>Soldados regulares do exercito. Eles guardam todas as estradas para a Zona, patrulham seu perimetro, matam mutantes e cacam saqueadores. \nForcas Especiais - tropas de elite do exercito, geralmente enviadas para a Zona para realizar operacoes de resgate e outras missoes especiais.</text>
 	</string>
 	<string id="enc_social_military_milstalkers">
-		<text>Soldiers who underwent special training following their service in the Zone or stalkers who voluntarily signed a contract with the Army. Usually equipped with various support gear and well-armed. Used mainly to study the causes and effects of the catastrophe and to map out the Zone. They can work on their own or in small detachments of up to five people. Military stalkers do not allow normal stalkers to approach and open fire on sight.</text>
+		<text>Soldados que passaram por treinamento especial apos seu servico na Zona ou stalkers que assinaram voluntariamente um contrato com o Exercito. Geralmente equipados com varios equipamentos de apoio e bem armados. Usados principalmente para estudar as causas e efeitos da catastrofe e para mapear a Zona. Eles podem trabalhar sozinhos ou em pequenas unidades de ate cinco pessoas. Stalkers militares nao permitem que stalkers normais se aproximem e abrem fogo a vista.</text>
 	</string>
 	<string id="enc_social_scientists_mobile-groups">
-		<text>Erased</text>
+		<text>Apagado</text>
 	</string>
 	<string id="enc_social_scientists_mobile-labs">
-		<text>A mobile lab resembles a small, armored bunker with tiny windows of tainted glass. The lab is capable of withstanding a lot of damage and with its reliable life-support systems it can work autonomously for several months. The bunker is delivered into the Zone by a transport helicopter. The lab staff never allow visitors past the external air-lock chamber, so no stalker has ever been inside one.</text>
+		<text>Um laboratorio movel se assemelha a um pequeno bunker blindado com pequenas janelas de vidro contaminado. O laboratorio e capaz de suportar muitos danos e, com seus sistemas de suporte de vida confiaveis, pode funcionar autonomamente por varios meses. O bunker e entregue na Zona por um helicoptero de transporte. A equipe do laboratorio nunca permite visitantes alem da camara de bloqueio de ar externa, entao nenhum stalker jamais esteve dentro de um.</text>
 	</string>
 	<string id="enc_social_stalker-clans_bandits">
-		<text>Members of the criminal underworld who came to the Zone for different reasons: to make money by selling artifacts, hide from the law or trade in weapons. The Zone is full of bandits, ranging from common thugs to serious criminals, most of whom are members of one gang or another. Although the Zone gangs frequently fight among themselves, the criminal element still poses a serious problem for normal stalkers.</text>
+		<text>Membros do submundo do crime que vieram para a Zona por diferentes motivos: ganhar dinheiro vendendo artefatos, esconder-se da lei ou negociar armas. A Zona 1  esta cheia de bandidos, desde bandidos comuns a criminosos serios, a maioria dos quais sao membros de uma gangue ou outra. Embora as gangues da Zona frequentemente lutem entre si, o elemento criminoso ainda representa um problema serio para os stalkers normais.</text>
 	</string>
 	<string id="enc_social_stalker-clans_duty">
-		<text>A paramilitary group known for its discipline, whose members live according to a strict code. Duty members are the only group to refuse to trade unique items from the Zone with the outside world. According to rumors, all artifacts found by the group are passed on to scientists. Its members consider protecting the outside world from the Zone's dangers their primary objective. Most of the group's operations concern destroying monsters, hence Duty raids often save normal stalkers from serious trouble. The faction has long been at war with Freedom.</text>
+		<text>Um grupo paramilitar conhecido por sua disciplina, cujos membros vivem de acordo com um codigo estrito. Os membros do Dever sao o unico grupo que se recusa a negociar itens exclusivos da Zona com o mundo exterior. Segundo rumores, todos os artefatos encontrados pelo grupo sao repassados aos cientistas. Seus membros consideram a protecao do mundo exterior dos perigos da Zona seu principal objetivo. A maioria das operacoes do grupo diz respeito a destruicao de monstros, portanto, as incursoes do Dever frequentemente salvam os stalkers normais de problemas serios. A faccao esta em guerra com a Liberdade ha muito tempo.</text>
 	</string>
 	<string id="enc_social_stalker-clans_freedom">
-		<text>Anarchists and daredevils who declare themselves fighters for a free access to the Zone and consequently find themselves in constant conflict with the army, military stalkers and the Duty faction. These so-called freedom warriors believe in sharing all information about the Zone with the rest of the world and challenge the state's monopoly over the Zone's secrets and wonders.</text>
+		<text>Anarquistas e aventureiros que se declaram lutadores pelo livre acesso a Zona e, consequentemente, se encontram em conflito constante com o exercito, stalkers militares e a faccao Dever. Esses chamados guerreiros da liberdade acreditam em compartilhar todas as informacoes sobre a Zona com o resto do mundo e desafiam o monopolio do estado sobre os segredos e maravilhas da Zona.</text>
 	</string>
 	<string id="enc_social_stalker-clans_killers">
-		<text>The most clandestine and secretive faction in the Zone; some don't even believe in its existence. There are those who regularly use the Mercs' services as they are true pros, able to quickly deal with any stalker and even annihilate a small group of opponents. Their services do not come cheap - the Mercs demand a king's ransom for their services in money or artifacts. The location of their base remains a secret, suggesting that it is deep inside the Zone.</text>
+		<text>A faccao mais clandestina e secreta da Zona; alguns nem acreditam em sua existencia. Ha aqueles que usam regularmente os servicos dos Mercs, pois sao verdadeiros profissionais, capazes de lidar rapidamente com qualquer stalker e ate aniquilar um pequeno grupo de oponentes. Seus servicos nao sao baratos - os Mercs exigem um resgate real por seus servicos em dinheiro ou artefatos. A localizacao de sua base permanece um segredo, sugerindo que esta no fundo da Zona.</text>
 	</string>
 	<string id="enc_social_stalker-clans_loners">
-		<text>Stalkers exploring the Zone on their own. Most stalkers work this way since being a member of a group takes precious time, and part of the loot. Then there are some who simply prefer solitude and independence.</text>
+		<text>Stalkers explorando a Zona por conta propria. A maioria dos stalkers trabalha dessa forma, ja que ser membro de um grupo leva um tempo precioso e parte do saque. Depois, ha alguns que simplesmente preferem a solidao e a independencia.</text>
 	</string>
 	<string id="enc_social_stalker-clans_monolith">
-		<text>This group displays many features of a religious sect. Its members believe in the existence of a complex alien crystal, the Monolith, located somewhere in the center of the Zone. Most stalkers treat Monolith adepts with contempt and consider them as lunatics. From its inception the group strives to block all progress towards the center of the Zone, protecting the Monolith from other stalkers. Rumor has it that the group has a large base deep in the Zone, but its exact location is know only to the members.</text>
+		<text>Este grupo exibe muitas caracteristicas de uma seita religiosa. Seus membros acreditam na existencia de um cristal alienigena complexo, o Monolito, localizado em algum lugar no centro da Zona. A maioria dos stalkers trata os adeptos do Monolito com desprezo e os considera lunaticos. Desde a sua criacao, o grupo se esforca para bloquear todo o progresso em direcao ao centro da Zona, protegendo o Monolito de outros stalkers. Corre o rumor de que o grupo tem uma grande base no fundo da Zona, mas sua localizacao exata e conhecida apenas pelos membros.</text>
 	</string>
 	<string id="enc_social_stalker-clans_zomstalkers">
-		<text>Poor souls subjected to prolonged exposure in Yantar and a few other heavily radiated sectors. Careless stalkers gone mad and turned into walking corpses. Many such corpses wander the Zone, some wander as far as the perimeter. They are beyond help because the destructive process is irreversible. Zombified stalkers are still able to use their weapons, but they are quite dumb and can be heard mumbling meaningless, fragmented sentences to themselves. They gradually lose all their skills and turn into zombies. They are usually very aggressive and can present a serious threat in large numbers.</text>
+		<text>Almas pobres sujeitas a exposicao prolongada em Yantar e alguns outros setores altamente irradiados. Stalkers descuidados enlouqueceram e se transformaram em cadaveres ambulantes. Muitos desses cadaveres vagam pela Zona, alguns vagam ate o perimetro. Eles estao alem da ajuda porque o processo destrutivo e irreversivel. Stalkers zumbificados ainda sao capazes de usar suas armas, mas sao bastante burros e podem ser ouvidos murmurando frases fragmentadas e sem sentido para si mesmos. Eles gradualmente perdem todas as suas habilidades e se transformam em zumbis. Eles geralmente sao muito agressivos e podem representar uma ameaca seria em grande numero.</text>
 	</string>
 	<string id="Freedom">
-		<text>Freedom faction</text>
+		<text>Faccao Liberdade</text>
 	</string>
 	<string id="Killers">
 		<text>Mercs</text>
 	</string>
 	<string id="Loners">
-		<text>Lone stalkers</text>
+		<text>Stalkers Errantes</text>
 	</string>
 	<string id="Military">
-		<text>Militarized units</text>
+		<text>Unidades militarizadas</text>
 	</string>
 	<string id="Milstalkers">
-		<text>Military stalkers</text>
+		<text>Stalkers militares</text>
 	</string>
 	<string id="Mobile-groups">
-		<text>Research groups</text>
+		<text>Grupos de pesquisa</text>
 	</string>
 	<string id="Mobile-labs">
-		<text>Mobile science lab</text>
+		<text>Laboratorio cientifico movel</text>
 	</string>
 	<string id="Monolith">
-		<text>Monolith faction</text>
+		<text>Faccao Monolito</text>
 	</string>
 	<string id="Scientists">
-		<text>Scientists</text>
+		<text>Cientistas</text>
 	</string>
 	<string id="Social">
-		<text>Factions</text>
+		<text>Faccoes</text>
 	</string>
 	<string id="Stalker-clans">
-		<text>Stalker clans</text>
+		<text>Clas de Stalkers</text>
 	</string>
 	<string id="Zomstalkers">
-		<text>Zombified stalkers</text>
+		<text>Stalkers zumbificados</text>
 	</string>
 </string_table>
