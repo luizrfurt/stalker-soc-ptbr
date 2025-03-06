@@ -2,6 +2,7 @@ import os
 import xml.etree.ElementTree as ET
 import shutil
 from unicodedata import normalize
+import zipfile
 
 def process_xml_files(directory):
     for filename in os.listdir(directory):
@@ -160,6 +161,41 @@ def move_txt_files(source_dir, target_dir):
             except Exception as e:
                 print(f"Erro ao mover {filename}: {str(e)}")
 
+def create_release_zip():
+    # Caminhos para os arquivos e pastas que você deseja incluir no zip
+    base_dir = "./"  # Raiz do projeto
+    release_dir = os.path.join(base_dir, "release")
+    source_dir = os.path.join(base_dir, "source", "stalker-soc-traducao-pt-br")
+    
+    leia_me_path = os.path.join(source_dir, "Leia-me!.txt")
+    gamedata_dir = os.path.join(source_dir, "gamedata")
+    
+    # Cria o diretório release, se não existir
+    if not os.path.exists(release_dir):
+        os.makedirs(release_dir)
+
+    # Caminho para o arquivo zip a ser criado
+    zip_file_path = os.path.join(release_dir, "stalker-soc-traducao-pt-br.zip")
+
+    # Cria o arquivo zip e adiciona os arquivos e diretórios desejados
+    with zipfile.ZipFile(zip_file_path, 'w', zipfile.ZIP_DEFLATED) as zipf:
+        # Adiciona o arquivo Leia-me!.txt ao zip (diretamente na raiz do zip)
+        zipf.write(leia_me_path, "Leia-me!.txt")
+        
+        # Adiciona a pasta gamedata ao zip (diretamente na raiz do zip), excluindo a pasta 'eng-oper'
+        for root, dirs, files in os.walk(gamedata_dir):
+            # Exclui a pasta 'eng-oper'
+            dirs[:] = [d for d in dirs if d != 'eng-oper']
+            
+            for file in files:
+                file_path = os.path.join(root, file)
+                # Para que o arquivo dentro do zip seja relativo a 'gamedata'
+                rel_file_path = os.path.relpath(file_path, gamedata_dir)
+                # O arquivo será adicionado com a estrutura dentro de gamedata
+                zipf.write(file_path, os.path.join("gamedata", rel_file_path))
+    
+    print(f"Arquivo zip {zip_file_path} criado com sucesso!")
+
 if __name__ == "__main__":
     # Altere para o diretório correto
     # source_directory = "./source/stalker-soc-traducao-pt-br/gamedata/config/text/eng"
@@ -189,3 +225,7 @@ if __name__ == "__main__":
     # move txts
     # target_directory = "./source/stalker-soc-traducao-pt-br/gamedata/config/text/eng-oper"
     # move_txt_files(source_directory, target_directory)
+
+    # 7. cria um arquivo zip com os arquivos necessários para a release
+    # create release zip
+    # create_release_zip()
