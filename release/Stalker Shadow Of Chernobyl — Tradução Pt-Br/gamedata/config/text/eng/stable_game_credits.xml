@@ -4,28 +4,28 @@
 		<text>GSC:</text>
 	</string>
 	<string id="st_producer">
-		<text>Producer</text>
+		<text>Produtor</text>
 	</string>
 	<string id="st_gsc">
-		<text>Sergiy “-GSC-” Grygorovych</text>
+		<text>Sergiy -GSC- Grygorovych</text>
 	</string>
 	<string id="st_project_lead">
-		<text>Project Lead</text>
+		<text>Lider de Projeto</text>
 	</string>
 	<string id="st_bolshakov">
 		<text>Anton Bolshakov</text>
 	</string>
 	<string id="st_lead_designer">
-		<text>Lead Designer</text>
+		<text>Designer Lider</text>
 	</string>
 	<string id="st_prokhorov">
-		<text>Andrew “Prof” Prokhorov</text>
+		<text>Andrew Prof Prokhorov</text>
 	</string>
 	<string id="st_yuriy_negrobov">
 		<text>Yuriy Negrobov</text>
 	</string>
 	<string id="st_lead_programmers">
-		<text>Lead Programmers</text>
+		<text>Programadores Lideres</text>
 	</string>
 	<string id="st_shyshkovtsov">
 		<text>Oles Shyshkovtsov</text>
@@ -40,16 +40,16 @@
 		<text>Andrew Kolomiets</text>
 	</string>
 	<string id="st_art_department">
-		<text>ART DEPARTMENT</text>
+		<text>DEPARTAMENTO DE ARTE</text>
 	</string>
 	<string id="st_level_design">
-		<text>Level</text>
+		<text>Nivel</text>
 	</string>
 	<string id="st_level_design2">
 		<text>Design</text>
 	</string>
 	<string id="st_tkachenko">
-		<text>Andrew “Rainbow”</text>
+		<text>Andrew Rainbow</text>
 	</string>
 	<string id="st_tkachenko2">
 		<text>Tkachenko</text>
@@ -79,7 +79,7 @@
 		<text>Zaitsev</text>
 	</string>
 	<string id="st_pavlenko">
-		<text>Alexander “SU-27”</text>
+		<text>Alexander SU-27</text>
 	</string>
 	<string id="st_pavlenko2">
 		<text>Pavlenko</text>
@@ -103,25 +103,25 @@
 		<text>Suprun</text>
 	</string>
 	<string id="st_karmalskiy">
-		<text>Sergiy “Karma”</text>
+		<text>Sergiy Karma</text>
 	</string>
 	<string id="st_karmalskiy2">
 		<text>Karmalskiy</text>
 	</string>
 	<string id="st_petrovskiy">
-		<text>Yuriy “Jip”</text>
+		<text>Yuriy Jip</text>
 	</string>
 	<string id="st_petrovskiy2">
 		<text>Petrovskiy</text>
 	</string>
 	<string id="st_shelekhov">
-		<text>Maxim “ghouL”</text>
+		<text>Maxim ghouL</text>
 	</string>
 	<string id="st_shelekhov2">
 		<text>Shelekhov</text>
 	</string>
 	<string id="st_pshenichniy">
-		<text>Alexander “LEX”</text>
+		<text>Alexander LEX</text>
 	</string>
 	<string id="st_pshenichniy2">
 		<text>Pshenichniy</text>
@@ -133,19 +133,19 @@
 		<text>Grabovskiy</text>
 	</string>
 	<string id="st_karpenko">
-		<text>Eugene “Frodo”</text>
+		<text>Eugene Frodo</text>
 	</string>
 	<string id="st_karpenko2">
 		<text>Karpenko</text>
 	</string>
 	<string id="st_animation">
-		<text>Animation</text>
+		<text>Animacao</text>
 	</string>
 	<string id="st_lead_animator">
-		<text>Lead Animator</text>
+		<text>Animador Lider</text>
 	</string>
 	<string id="st_animators">
-		<text>Animators</text>
+		<text>Animadores</text>
 	</string>
 	<string id="st_vladimir_korunchak">
 		<text>Vladimir</text>
@@ -172,13 +172,13 @@
 		<text>Volchanova</text>
 	</string>
 	<string id="st_character_models">
-		<text>Character Models</text>
+		<text>Modelos de Personagens</text>
 	</string>
 	<string id="st_character_models2">
-		<text>Models</text>
+		<text>Modelos</text>
 	</string>
 	<string id="st_goncharenko">
-		<text>Slava “Glory”</text>
+		<text>Slava Glory</text>
 	</string>
 	<string id="st_goncharenko2">
 		<text>Goncharenko</text>
@@ -190,7 +190,7 @@
 		<text>Konovalchuk</text>
 	</string>
 	<string id="st_textures">
-		<text>Textures</text>
+		<text>Texturas</text>
 	</string>
 	<string id="st_podorvaniy">
 		<text>Anatoliy</text>
@@ -205,7 +205,7 @@
 		<text>Kovach</text>
 	</string>
 	<string id="st_art">
-		<text>Art</text>
+		<text>Arte</text>
 	</string>
 	<string id="st_lukash">
 		<text>Victor</text>
@@ -220,10 +220,10 @@
 		<text>Khivrenko</text>
 	</string>
 	<string id="st_ui_art">
-		<text>UI</text>
+		<text>IU</text>
 	</string>
 	<string id="st_ui_art2">
-		<text>Art</text>
+		<text>Arte</text>
 	</string>
 	<string id="st_nesin">
 		<text>Roman</text>
@@ -244,73 +244,73 @@
 		<text>Kotov</text>
 	</string>
 	<string id="st_programming_department">
-		<text>PROGRAMMING</text>
+		<text>DEPARTAMENTO DE PROGRAMACAO</text>
 	</string>
 	<string id="st_programming_department2">
-		<text>DEPARTMENT</text>
+		<text>DEPARTAMENTO</text>
 	</string>
 	<string id="st_programming_department_full">
-		<text>PROGRAMMING DEPARTMENT</text>
+		<text>DEPARTAMENTO DE PROGRAMACAO</text>
 	</string>
 	<string id="st_engine">
-		<text>Engine</text>
+		<text>Motor</text>
 	</string>
 	<string id="st_shyshkovtsov_render">
 		<text>Oles Shyshkovtsov</text>
 	</string>
 	<string id="st_shyshkovtsov_render2">
-		<text>- Render</text>
+		<text>- Renderizacao</text>
 	</string>
 	<string id="st_maksymchuk_editors">
 		<text>Alexander Maksymchuk</text>
 	</string>
 	<string id="st_maksymchuk_editors2">
-		<text>- Editors</text>
+		<text>- Editores</text>
 	</string>
 	<string id="st_iassenev_ai">
 		<text>Dmitriy Iassenev</text>
 	</string>
 	<string id="st_iassenev_ai2">
-		<text>- AI/Alife</text>
+		<text>- IA/Vida-A</text>
 	</string>
 	<string id="st_kolomiets_gameplay">
 		<text>Andrew Kolomiets</text>
 	</string>
 	<string id="st_kolomiets_gameplay2">
-		<text>- Gameplay</text>
+		<text>- Jogabilidade</text>
 	</string>
 	<string id="st_maximov">
 		<text>Vitaly Maximov</text>
 	</string>
 	<string id="st_maximov2">
-		<text>- Network</text>
+		<text>- Rede</text>
 	</string>
 	<string id="st_slipchenko">
 		<text>Konstantin Slipchenko</text>
 	</string>
 	<string id="st_slipchenko2">
-		<text>- Physics</text>
+		<text>- Fisica</text>
 	</string>
 	<string id="st_gemeitsev">
 		<text>Sergiy Gemeitsev</text>
 	</string>
 	<string id="st_gemeitsev2">
-		<text>- Monsters' AI</text>
+		<text>- IA dos Monstros</text>
 	</string>
 	<string id="st_ivantsov_optimization">
 		<text>Serguei Ivantsov</text>
 	</string>
 	<string id="st_ivantsov_optimization2">
-		<text>- Optimization</text>
+		<text>- Otimizacao</text>
 	</string>
 	<string id="st_dobronravin">
 		<text>Yuriy Dobronravin</text>
 	</string>
 	<string id="st_dobronravin2">
-		<text>- Gameplay, UI</text>
+		<text>- Jogabilidade, IU</text>
 	</string>
 	<string id="st_gameplay_tools">
-		<text>Gameplay Tools and Scripts</text>
+		<text>Ferramentas e Scripts de Jogabilidade</text>
 	</string>
 	<string id="st_didenko">
 		<text>Ruslan</text>
@@ -355,10 +355,10 @@
 		<text>Tunduk</text>
 	</string>
 	<string id="st_additional_programming">
-		<text>Additional Programming</text>
+		<text>Programacao Adicional</text>
 	</string>
 	<string id="st_additional_programming2">
-		<text>Programming</text>
+		<text>Programacao</text>
 	</string>
 	<string id="st_nikolaev">
 		<text>Andrew</text>
@@ -385,10 +385,10 @@
 		<text>Marchenko</text>
 	</string>
 	<string id="st_gamedesign_department">
-		<text>GAMEDESIGN</text>
+		<text>DEPARTAMENTO DE DESIGN DE JOGO</text>
 	</string>
 	<string id="st_gamedesign_department2">
-		<text>DEPARTMENT</text>
+		<text>DEPARTAMENTO</text>
 	</string>
 	<string id="st_sityanov">
 		<text>Alexey</text>
@@ -397,13 +397,13 @@
 		<text>Sityanov</text>
 	</string>
 	<string id="st_aristov">
-		<text>Vyacheslav “must_die”</text>
+		<text>Vyacheslav must_die</text>
 	</string>
 	<string id="st_aristov2">
 		<text>Aristov</text>
 	</string>
 	<string id="st_veretiannikov">
-		<text>Ivan „E1“</text>
+		<text>Ivan E1</text>
 	</string>
 	<string id="st_veretiannikov2">
 		<text>Veretiannikov</text>
@@ -439,7 +439,7 @@
 		<text>Kuzmin</text>
 	</string>
 	<string id="st_lekhno">
-		<text>Dmitriy „Krondor“</text>
+		<text>Dmitriy Krondor</text>
 	</string>
 	<string id="st_lekhno2">
 		<text>Lekhno</text>
@@ -457,19 +457,19 @@
 		<text>Shyshkin</text>
 	</string>
 	<string id="st_sound_producer">
-		<text>Sound Producer</text>
+		<text>Produtor de Som</text>
 	</string>
 	<string id="st_kuzmenko">
 		<text>Dmitry Kuzmenko</text>
 	</string>
 	<string id="st_original_music">
-		<text>Original Music</text>
+		<text>Musica Original</text>
 	</string>
 	<string id="st_mooze">
 		<text>MoozE</text>
 	</string>
 	<string id="st_additional_music">
-		<text>Additional Music</text>
+		<text>Musica Adicional</text>
 	</string>
 	<string id="st_firelake">
 		<text>FireLake</text>
@@ -481,16 +481,16 @@
 		<text>Addaraya</text>
 	</string>
 	<string id="st_localization_department">
-		<text>LOCALIZATION DEPARTMENT</text>
+		<text>DEPARTAMENTO DE LOCALIZACAO</text>
 	</string>
 	<string id="st_kuchma">
-		<text>Eugene ‘Smile’ Kuchma</text>
+		<text>Eugene Smile Kuchma</text>
 	</string>
 	<string id="st_litvinenko">
 		<text>Vladimir Litvinenko</text>
 	</string>
 	<string id="st_qa_department">
-		<text>QA DEPARTMENT</text>
+		<text>DEPARTAMENTO DE QA</text>
 	</string>
 	<string id="st_dyukov">
 		<text>Petr</text>
@@ -523,25 +523,25 @@
 		<text>Naprasniy</text>
 	</string>
 	<string id="st_pr_department">
-		<text>PR DEPARTMENT</text>
+		<text>DEPARTAMENTO DE RP</text>
 	</string>
 	<string id="st_yavorsky">
-		<text>Oleg ‘Yava’ Yavorsky</text>
+		<text>Oleg Yava Yavorsky</text>
 	</string>
 	<string id="st_yeltyshev">
-		<text>Valentin ‘Atem’ Yeltyshev</text>
+		<text>Valentin Atem Yeltyshev</text>
 	</string>
 	<string id="st_ananyev">
-		<text>Denis ‘Blackbird’ Ananyev</text>
+		<text>Denis Blackbird Ananyev</text>
 	</string>
 	<string id="st_besarab">
-		<text>Yury ‘Gagarin’ Besarab</text>
+		<text>Yury Gagarin Besarab</text>
 	</string>
 	<string id="st_terlyuk">
 		<text>Sergey Terlyuk</text>
 	</string>
 	<string id="st_sales_department">
-		<text>SALES DEPARTMENT</text>
+		<text>DEPARTAMENTO DE VENDAS</text>
 	</string>
 	<string id="st_grushko">
 		<text>Sergiy Grushko</text>
@@ -551,7 +551,7 @@
 	</string>
 
 	<string id="st_russian_voice">
-		<text>Voice Actors (Russian)</text>
+		<text>Dubladores (Russo)</text>
 	</string>
 	<string id="st_vilkov">
 		<text>Aleksandr </text>
@@ -633,13 +633,13 @@
 		<text>QA</text>
 	</string>
 	<string id="st_directorqa">
-		<text>Director, Quality Assurance</text>
+		<text>Diretora, Garantia de Qualidade</text>
 	</string>
 	<string id="st_vallejo">
 		<text>Monica Vallejo</text>
 	</string>
 	<string id="st_qamanagers">
-		<text>QA Managers</text>
+		<text>Gerentes de QA</text>
 	</string>
 	<string id="st_waibel">
 		<text>Mario Waibel</text>
@@ -648,20 +648,20 @@
 		<text>Michael Motoda</text>
 	</string>
 	<string id="st_test_supervisor">
-		<text>Test Supervisor</text>
+		<text>Supervisor de Teste</text>
 	</string>
 	<string id="st_sapienza">
 		<text>David Sapienza</text>
 	</string>
 	<string id="st_test_lead">
-		<text>Test Leads</text>
+		<text>Lideres de Teste</text>
 	</string>
 	<string id="st_wong">
 		<text>Warren Wong</text>
 	</string>
 
 	<string id="st_testers">
-		<text>Testers</text>
+		<text>Testadores</text>
 	</string>
 	<string id="st_blais">
 		<text>Adam</text>
@@ -694,7 +694,7 @@
 		<text>Letwinch</text>
 	</string>
 	<string id="st_wiemer">
-		<text>Dustin  </text>
+		<text>Dustin </text>
 	</string>
 	<string id="st_wiemer2">
 		<text>Wiemer </text>
@@ -784,19 +784,19 @@
 		<text>O'Donnell</text>
 	</string>
 	<string id="st_escobar">
-		<text>Rudy  </text>
+		<text>Rudy </text>
 	</string>
 	<string id="st_escobar2">
 		<text>Escobar</text>
 	</string>
 	<string id="st_johnson">
-		<text>Ryan  </text>
+		<text>Ryan </text>
 	</string>
 	<string id="st_johnson2">
 		<text>Johnson</text>
 	</string>
 	<string id="st_allman">
-		<text>Scott  </text>
+		<text>Scott </text>
 	</string>
 	<string id="st_allman2">
 		<text>Allman</text>
@@ -826,7 +826,7 @@
 		<text>Thurman</text>
 	</string>
 	<string id="st_fong">
-		<text>Trevor  </text>
+		<text>Trevor </text>
 	</string>
 	<string id="st_fong2">
 		<text>Fong </text>
@@ -845,7 +845,7 @@
 	</string>
 
 	<string id="st_pc_specialist">
-		<text>PC Specialist</text>
+		<text>Especialista em PC</text>
 	</string>
 	<string id="st_gonzalez">
 		<text>Ruben Gonzalez</text>
@@ -868,13 +868,13 @@
 
 
 	<string id="st_pcsupervisor">
-		<text>PC Supervisor</text>
+		<text>Supervisor de PC</text>
 	</string>
 	<string id="st_krenz">
 		<text>Jim Krenz</text>
 	</string>
 	<string id="st_qatechnicians">
-		<text>QA Technicians</text>
+		<text>Tecnicos de QA</text>
 	</string>
 	<string id="st_jones">
 		<text>Richard Jones</text>
@@ -887,7 +887,7 @@
 	</string>
 
 	<string id="st_mastering_lab_supervisor">
-		<text>Mastering Lab Supervisor</text>
+		<text>Supervisor do Laboratorio de Masterizacao</text>
 	</string>
 	<string id="st_dunnet">
 		<text>Anthony</text>
@@ -896,7 +896,7 @@
 		<text>Dunnet</text>
 	</string>
 	<string id="st_mastering_lab_technicians">
-		<text>Mastering Lab Technicians</text>
+		<text>Tecnicos do Laboratorio de Masterizacao</text>
 	</string>
 	<string id="st_peters">
 		<text>Glen</text>
@@ -923,7 +923,7 @@
 		<text>Fell</text>
 	</string>
 	<string id="st_remastering_project_manager">
-		<text>Remastering Project Manager</text>
+		<text>Gerente de Projeto de Remasterizacao</text>
 	</string>
 	<string id="st_batarse">
 		<text>Charles</text>
@@ -933,20 +933,20 @@
 	</string>
 
 	<string id="st_database_administrator">
-		<text>Database Administrator</text>
+		<text>Administrador de Banco de Dados</text>
 	</string>
 	<string id="st_gill">
 		<text>Jonathan Gill</text>
 	</string>
 	<string id="st_database_applications_engineer">
-		<text>Database Applications Engineer</text>
+		<text>Engenheiro de Aplicacoes de Banco de Dados</text>
 	</string>
 	<string id="st_kincaid">
 		<text>Brian Kincaid</text>
 	</string>
 
 	<string id="st_game_evaluation_team">
-		<text>Game Evaluation Team</text>
+		<text>Equipe de Avaliacao de Jogos</text>
 	</string>
 	<string id="st_frazier">
 		<text>Scott</text>
@@ -973,7 +973,7 @@
 		<text>Emerson</text>
 	</string>
 	<string id="st_human_factors_design_specialist">
-		<text>Human Factors Design Specialist</text>
+		<text>Especialista em Design de Fatores Humanos</text>
 	</string>
 	<string id="st_kowalewski">
 		<text>Ray</text>
@@ -989,134 +989,134 @@
 	</string>
 
 	<string id="st_qa_operations_coordinator">
-		<text>QA Operations Coordinator</text>
+		<text>Coordenador de Operacoes de QA</text>
 	</string>
 	<string id="st_nelson">
 		<text>Steve Nelson</text>
 	</string>
 	<string id="st_hr_generalist">
-		<text>HR Generalist</text>
+		<text>Generalista de RH</text>
 	</string>
 	<string id="st_waldman">
 		<text>Eve Waldman</text>
 	</string>
 
 	<string id="st_qa_special_thanks">
-		<text>QA Special Thanks</text>
+		<text>Agradecimentos Especiais de QA</text>
 	</string>
 	<string id="st_wagman">
 		<text>Mark Wagman</text>
 	</string>
 
 	<string id="st_headquarters">
-		<text>HEADQUARTERS</text>
+		<text>SEDE</text>
 	</string>
 	<string id="st_executive_staff">
-		<text>EXECUTIVE STAFF</text>
+		<text>EQUIPE EXECUTIVA</text>
 	</string>
 	<string id="st_executive_vice_president">
-		<text>Executive Vice President</text>
+		<text>Vice-Presidente Executivo</text>
 	</string>
 	<string id="st_worldwide_studios">
-		<text>Worldwide Studios</text>
+		<text>Estudios Mundiais</text>
 	</string>
 	<string id="st_sorenson">
 		<text>Jack Sorenson</text>
 	</string>
 	<string id="st_worldwide_publishing">
-		<text>Worldwide Publishing</text>
+		<text>Publicacao Mundial</text>
 	</string>
 	<string id="st_flock">
 		<text>Kelly Flock</text>
 	</string>
 
 	<string id="st_product_development">
-		<text>PRODUCT DEVELOPMENT</text>
+		<text>DESENVOLVIMENTO DE PRODUTOS</text>
 	</string>
 	<string id="st_senior_vice_president">
-		<text>Senior Vice President,</text>
+		<text>Vice-Presidente Senior,</text>
 	</string>
 	<string id="st_product_development_s">
-		<text>Product Development</text>
+		<text>Desenvolvimento de Produtos</text>
 	</string>
 	<string id="st_dauterman">
 		<text>Steve Dauterman</text>
 	</string>
 
 	<string id="st_executive_producer">
-		<text>Executive Producer</text>
+		<text>Produtor Executivo</text>
 	</string>
 	<string id="st_sharpe">
 		<text>Dean Sharpe</text>
 	</string>
 	<string id="st_associate_producer">
-		<text>Associate Producer</text>
+		<text>Produtor Associado</text>
 	</string>
 	<string id="st_icenbice">
 		<text>Evan Icenbice</text>
 	</string>
 	<string id="st_senior_global_localization_manager">
-		<text>Senior Global Localization Manager</text>
+		<text>Gerente Senior de Localizacao Global</text>
 	</string>
 	<string id="st_small">
 		<text>Amy Small</text>
 	</string>
 	<string id="st_european_localization_director">
-		<text>European Localization Director</text>
+		<text>Diretor de Localizacao Europeia</text>
 	</string>
 	<string id="st_dieck">
 		<text>Susanne Dieck</text>
 	</string>
 	<string id="st_european_localization_engineer">
-		<text>European Localization Engineer</text>
+		<text>Engenheiro de Localizacao Europeia</text>
 	</string>
 	<string id="st_kurtz">
 		<text>Bernd Kurtz</text>
 	</string>
 	<string id="st_localization_technician">
-		<text>Localization Technician</text>
+		<text>Tecnico de Localizacao</text>
 	</string>
 	<string id="st_herbertz">
 		<text>Andreas Herbertz</text>
 	</string>
 
 	<string id="st_global_brand_management">
-		<text>GLOBAL BRAND MANAGEMENT</text>
+		<text>GERENCIAMENTO DE MARCA GLOBAL</text>
 	</string>
 	<string id="st_aniello">
 		<text>Bob Aniello</text>
 	</string>
 
 	<string id="st_director_global_brand">
-		<text>Director, Global Brand</text>
+		<text>Diretor, Marca Global</text>
 	</string>
 	<string id="st_carraway">
 		<text>Brad Carraway</text>
 	</string>
 	<string id="st_brand_manager">
-		<text>Brand Manager</text>
+		<text>Gerente de Marca</text>
 	</string>
 	<string id="st_robinson">
 		<text>Monica Robinson</text>
 	</string>
 	<string id="st_vice_president">
-		<text>Vice President,</text>
+		<text>Vice-Presidente,</text>
 	</string>
 	<string id="st_corporate_communications">
-		<text>Corporate Communications</text>
+		<text>Comunicacoes Corporativas</text>
 	</string>
 	<string id="st_pieri">
 		<text>Liz Pieri</text>
 	</string>
 	<string id="st_global_pr_manager">
-		<text>Global PR Manager</text>
+		<text>Gerente de RP Global</text>
 	</string>
 	<string id="st_cunis">
 		<text>Guy Cunis</text>
 	</string>
 
 	<string id="st_media_relations_manager">
-		<text>Media Relations Manager</text>
+		<text>Gerente de Relacoes com a Midia</text>
 	</string>
 	<string id="st_cassel">
 		<text>Rob Cassel</text>
@@ -1125,14 +1125,14 @@
 		<text>Vanessa Vanasin</text>
 	</string>
 	<string id="st_media_relations_coordinator">
-		<text>Media Relations Coordinator</text>
+		<text>Coordenador de Relacoes com a Midia</text>
 	</string>
 	<string id="st_mitchell">
 		<text>Craig Mitchell</text>
 	</string>
 
 	<string id="st_legal">
-		<text>Legal</text>
+		<text>Juridico</text>
 	</string>
 	<string id="st_carrillo">
 		<text>Brandy</text>
@@ -1160,71 +1160,71 @@
 	</string>
 
 	<string id="st_creative_services">
-		<text>CREATIVE SERVICES</text>
+		<text>SERVICOS CRIATIVOS</text>
 	</string>
 	<string id="st_director_creative_services">
-		<text>Director - Creative Services</text>
+		<text>Diretor - Servicos Criativos</text>
 	</string>
 	<string id="st_liebeskind">
 		<text>Howard Liebeskind</text>
 	</string>
 	<string id="st_creative_services_manager">
-		<text>Creative Services Manager</text>
+		<text>Gerente de Servicos Criativos</text>
 	</string>
 	<string id="st_somdal">
 		<text>Kirk Somdal</text>
 	</string>
 
 	<string id="st_video_production_manager">
-		<text>Video Production Manager</text>
+		<text>Gerente de Producao de Video</text>
 	</string>
 	<string id="st_folino">
 		<text>Christopher Folino</text>
 	</string>
 	<string id="st_video_production_coordinator">
-		<text>Video Production Coordinator</text>
+		<text>Coordenador de Producao de Video</text>
 	</string>
 	<string id="st_rivas">
 		<text>Melissa Rivas</text>
 	</string>
 
 	<string id="st_thq_international">
-		<text>THQ INTERNATIONAL</text>
+		<text>THQ INTERNACIONAL</text>
 	</string>
 	<string id="st_svp_european_publishing">
-		<text>SVP European Publishing</text>
+		<text>Vice-Presidente Senior de Publicacao Europeia</text>
 	</string>
 	<string id="st_curran">
 		<text>Ian Curran</text>
 	</string>
 	<string id="st_director_global_brand_management">
-		<text>Director, Global Brand Management</text>
+		<text>Diretor, Gerenciamento de Marca Global</text>
 	</string>
 	<string id="st_pattison">
 		<text>Michael Pattison</text>
 	</string>
 
 	<string id="st_senior_global_brand_manager">
-		<text>Senior Global Brand Manager</text>
+		<text>Gerente Senior de Marca Global</text>
 	</string>
 	<string id="st_torode">
 		<text>Mickey Torode</text>
 	</string>
 	<string id="st_global_brand_manager">
-		<text>Global Brand Manager</text>
+		<text>Gerente de Marca Global</text>
 	</string>
 	<string id="st_claudia_kuehl">
 		<text>Claudia Kuehl</text>
 	</string>
 	<string id="st_assistant_global_brand_manager">
-		<text>Assistant Global Brand Manager</text>
+		<text>Gerente Assistente de Marca Global</text>
 	</string>
 	<string id="st_newall">
 		<text>Anthony Newall</text>
 	</string>
 
 	<string id="st_online_manager">
-		<text>Online Manager</text>
+		<text>Gerente Online</text>
 	</string>
 
 	<string id="st_huw_beynon">
@@ -1232,7 +1232,7 @@
 	</string>
 
 	<string id="st_uk_product_manager">
-		<text>UK Product Manager</text>
+		<text>Gerente de Produto do Reino Unido</text>
 	</string>
 
 
@@ -1241,7 +1241,7 @@
 	</string>
 
 	<string id="st_uk_pr_manager">
-		<text>UK PR Manager</text>
+		<text>Gerente de RP do Reino Unido</text>
 	</string>
 
 	<string id="st_helen_jones">
@@ -1249,7 +1249,7 @@
 	</string>
 
 	<string id="st_export_marketing_manager">
-		<text>Export Marketing Manager</text>
+		<text>Gerente de Marketing de Exportacao</text>
 	</string>
 	<string id="st_shepherd">
 		<text>Gayle Shepherd</text>
@@ -1258,98 +1258,98 @@
 		<text>Luke Keighran</text>
 	</string>
 	<string id="st_product_manager_germany">
-		<text>Product Manager, Germany</text>
+		<text>Gerente de Produto, Alemanha</text>
 	</string>
 	<string id="st_skrok">
 		<text>Melanie Skrok</text>
 	</string>
 	<string id="st_head_of_pr_germany">
-		<text>Head of PR, Germany</text>
+		<text>Chefe de RP, Alemanha</text>
 	</string>
 	<string id="st_reckenthaler">
 		<text>Georg Reckenthaler</text>
 	</string>
 
 	<string id="st_marketing_manager_nordic">
-		<text>Marketing Manager, Nordic</text>
+		<text>Gerente de Marketing, Nordico</text>
 	</string>
 	<string id="st_viby">
 		<text>Henrik Viby</text>
 	</string>
 	<string id="st_pr_manager_nordic">
-		<text>PR Manager, Nordic</text>
+		<text>Gerente de RP, Nordico</text>
 	</string>
 	<string id="st_jakobsen">
 		<text>Peter Jakobsen</text>
 	</string>
 	<string id="st_senior_product_manager_france">
-		<text>Senior Product Manager, France</text>
+		<text>Gerente Senior de Produto, Franca</text>
 	</string>
 	<string id="st_goldstein">
 		<text>Jeremy Goldstein</text>
 	</string>
 	<string id="st_pr_manager_france">
-		<text>PR Manager, France</text>
+		<text>Gerente de RP, Franca</text>
 	</string>
 	<string id="st_benzadon">
 		<text>Jerome Benzadon</text>
 	</string>
 
 	<string id="st_product_manager_spain">
-		<text>Product Manager, Spain</text>
+		<text>Gerente de Produto, Espanha</text>
 	</string>
 	<string id="st_manu">
 		<text>Javier Manu</text>
 	</string>
 	<string id="st_pr_manager_spain">
-		<text>PR Manager, Spain</text>
+		<text>Gerente de RP, Espanha</text>
 	</string>
 	<string id="st_vazquez">
 		<text>Jorge Nicolas Vazquez</text>
 	</string>
 	<string id="st_marketing_and_pr_manager_benelux">
-		<text>Marketing and PR Manager, Benelux</text>
+		<text>Gerente de Marketing e RP, Benelux</text>
 	</string>
 	<string id="st_wolff">
 		<text>Robin Wolff</text>
 	</string>
 
 	<string id="st_product_manager_asia_pacific">
-		<text>Product Manager, Asia Pacific</text>
+		<text>Gerente de Produto, Asia-Pacifico</text>
 	</string>
 	<string id="st_chris_wright">
 		<text>Chris Wright</text>
 	</string>
 	<string id="st_pr_promotions_coordinator">
-		<text>PR and Promotions Co-ordinator,</text>
+		<text>Coordenador de RP e Promocoes,</text>
 	</string>
 	<string id="st_asia_pacific">
-		<text>Asia Pacific</text>
+		<text>Asia-Pacifico</text>
 	</string>
 	<string id="st_taylor">
 		<text>Drew Taylor</text>
 	</string>
 	<string id="st_korea_product_manager">
-		<text>Korea Product Manager</text>
+		<text>Gerente de Produto da Coreia</text>
 	</string>
 	<string id="st_jung">
 		<text>James Jung</text>
 	</string>
 	<string id="st_japan_product_manager">
-		<text>Japan Product Manager</text>
+		<text>Gerente de Produto do Japao</text>
 	</string>
 	<string id="st_takahiro_morita">
 		<text>Takahiro Morita</text>
 	</string>
 
 	<string id="st_international_art_director">
-		<text>International Art Director</text>
+		<text>Diretor de Arte Internacional</text>
 	</string>
 	<string id="st_enzmann">
 		<text>Till Enzmann</text>
 	</string>
 	<string id="st_dtp_operator">
-		<text>DTP Operator (ICS)</text>
+		<text>Operador de DTP (ICS)</text>
 	</string>
 	<string id="st_johnen">
 		<text>Anja</text>
@@ -1395,16 +1395,16 @@
 	</string>
 
 	<string id="st_cd_centre">
-		<text>CD PROJEKT LOCALISATION CENTRE</text>
+		<text>CENTRO DE LOCALIZACAO CD PROJEKT</text>
 	</string>
 	<string id="st_pm">
-		<text>Project Manager</text>
+		<text>Gerente de Projeto</text>
 	</string>
 	<string id="st_grzywaczewski">
 		<text>Pawel Grzywaczewski</text>
 	</string>
 	<string id="st_lead_testers">
-		<text>Lead Testers</text>
+		<text>Testadores Lideres</text>
 	</string>
 	<string id="st_watroba">
 		<text>Lukasz Watroba</text>
@@ -1421,7 +1421,7 @@
 
 
 	<string id="st_cd_testers">
-		<text>Testers</text>
+		<text>Testadores</text>
 	</string>
 	<string id="st_piotrowski">
 		<text>Jan</text>
@@ -1604,7 +1604,7 @@
 		<text>Chotnicki</text>
 	</string>
 	<string id="st_thanks_cd_projekt">
-		<text>Special thanks from CD Projekt to:</text>
+		<text>Agradecimentos especiais da CD Projekt para:</text>
 	</string>
 	<string id="st_graj">
 		<text>Maciej Graj</text>
@@ -1620,16 +1620,16 @@
 	</string>
 
 	<string id="st_additional_writing">
-		<text>Additional Writing</text>
+		<text>Escrita Adicional</text>
 	</string>
 	<string id="st_adams">
 		<text>Ernest Adams</text>
 	</string>
 	<string id="st_linguistic_testing_performed">
-		<text>Linguistic Testing performed</text>
+		<text>Teste Linguistico realizado</text>
 	</string>
 	<string id="st_by_babel_media">
-		<text>by Babel Media Ltd.</text>
+		<text>pela Babel Media Ltd.</text>
 	</string>
 	<string id="st_cleve">
 		<text>Norbert Cleve</text>
@@ -1644,19 +1644,19 @@
 		<text>Bruno Diez</text>
 	</string>
 	<string id="st_sound_designed">
-		<text>Sound designed</text>
+		<text>Som projetado</text>
 	</string>
 	<string id="st_by_bob">
-		<text>by Bob and Barn Ltd.</text>
+		<text>pela Bob and Barn Ltd.</text>
 	</string>
 	<string id="st_english_audio_recorded">
-		<text>English Audio recorded</text>
+		<text>Audio em Ingles gravado</text>
 	</string>
 	<string id="st_by_voiceworks_productions">
-		<text>by VoiceWorks Productions</text>
+		<text>pela VoiceWorks Productions</text>
 	</string>
 	<string id="st_sound_supervisors">
-		<text>Sound Supervisors</text>
+		<text>Supervisores de Som</text>
 	</string>
 	<string id="st_barnabas">
 		<text>Andrew Barnabas</text>
@@ -1665,7 +1665,7 @@
 		<text>Paul Arnold</text>
 	</string>
 	<string id="st_sound_designers">
-		<text>Sound Designers</text>
+		<text>Designers de Som</text>
 	</string>
 	<string id="st_brock">
 		<text>Andrew Brock</text>
@@ -1675,7 +1675,7 @@
 	</string>
 
 	<string id="st_weapons_recorded">
-		<text>Weapons recorded at:</text>
+		<text>Armas gravadas em:</text>
 	</string>
 	<string id="st_crawford_private_range">
 		<text>Crawford Private Range, Roundrock, Texas </text>
@@ -1691,7 +1691,7 @@
 	</string>
 
 	<string id="st_gun">
-		<text>Gun Wranglers:</text>
+		<text>Manipuladores de Armas:</text>
 	</string>
 	<string id="st_crawford">
 		<text>Clark Crawford</text>
@@ -1700,7 +1700,7 @@
 		<text>Aaron Marco</text>
 	</string>
 	<string id="st_ou">
-		<text>Steve Ou, for Spreadfire Arms</text>
+		<text>Steve Ou, para Spreadfire Arms</text>
 	</string>
 	<string id="st_steve_stevens">
 		<text>Steve Stevens</text>
@@ -1709,34 +1709,34 @@
 		<text>Gary Meeker</text>
 	</string>
 	<string id="st_recording_post">
-		<text>Recording and Post Production by Andrew Brock </text>
+		<text>Gravacao e Pos-Producao por Andrew Brock </text>
 	</string>
 	<string id="creature">
-		<text>Creature Vocal Performances by Paul Arnold and Andrew Brock</text>
+		<text>Performances Vocais de Criaturas por Paul Arnold e Andrew Brock</text>
 	</string>
 	<string id="foley">
-		<text>Foley Artists - Andrew Barnabas and Dave Sullivan</text>
+		<text>Artistas de Foley - Andrew Barnabas e Dave Sullivan</text>
 	</string>
 
 	<!-- PLASTIC WAX    -->
 
 	<string id="st_wax">
-		<text>PLASTIC WAX:</text>
+		<text>CERA PLASTICA:</text>
 	</string>
 	<string id="st_director">
-		<text>Director</text>
+		<text>Diretor</text>
 	</string>
 	<string id="st_maddams">
 		<text>Nathan Maddams</text>
 	</string>
 	<string id="st_wax_executive_producer">
-		<text>Executive Producer</text>
+		<text>Produtor Executivo</text>
 	</string>
 	<string id="st_pittorino">
 		<text>Tony Pittorino</text>
 	</string>
 	<string id="st_producers">
-		<text>Producers</text>
+		<text>Produtores</text>
 	</string>
 	<string id="st_kreibig">
 		<text>Tim Kreibig</text>
@@ -1748,19 +1748,19 @@
 		<text>Rodney Whitham</text>
 	</string>
 	<string id="st_production_manager">
-		<text>Production Manager</text>
+		<text>Gerente de Producao</text>
 	</string>
 	<string id="st_simmons">
 		<text>Kirsty Simmons</text>
 	</string>
 	<string id="st_modeling_lead">
-		<text>Modeling Lead</text>
+		<text>Lider de Modelagem</text>
 	</string>
 	<string id="st_guy_robinson">
 		<text>Guy Robinson</text>
 	</string>
 	<string id="st_modeling">
-		<text>Modeling</text>
+		<text>Modelagem</text>
 	</string>
 	<string id="st_mahoney">
 		<text>Damien</text>
@@ -1799,13 +1799,13 @@
 		<text>Pritchard</text>
 	</string>
 	<string id="st_texture_lead">
-		<text>Texture And Matte Painting Lead</text>
+		<text>Lider de Textura e Pintura Matte</text>
 	</string>
 	<string id="st_pedlow">
 		<text>Kris Pedlow</text>
 	</string>
 	<string id="st_texture_artist">
-		<text>Texture Artist</text>
+		<text>Artista de Textura</text>
 	</string>
 	<string id="st_tyrone_maddams">
 		<text>Tyrone Maddams</text>
@@ -1817,13 +1817,13 @@
 		<text>Sina Azad</text>
 	</string>
 	<string id="st_animation_mocap">
-		<text>Animation, Mocap</text>
+		<text>Animacao, Mocap</text>
 	</string>
 	<string id="st_maniscalco">
 		<text>Samuel Maniscalco</text>
 	</string>
 	<string id="st_animation_lead">
-		<text>Animation Lead</text>
+		<text>Lider de Animacao</text>
 	</string>
 	<string id="st_simper">
 		<text>Damien </text>
@@ -1832,7 +1832,7 @@
 		<text> Simper</text>
 	</string>
 	<string id="st_wax_animation">
-		<text>Animation</text>
+		<text>Animacao</text>
 	</string>
 	<string id="st_chris_wilson">
 		<text>Chris</text>
@@ -1859,25 +1859,25 @@
 		<text> Willis</text>
 	</string>
 	<string id="st_lighting_rendering_lead">
-		<text>Lighting Rendering Lead</text>
+		<text>Lider de Renderizacao de Iluminacao</text>
 	</string>
 	<string id="st_brown">
 		<text>David Brown</text>
 	</string>
 	<string id="st_lighting_rendering">
-		<text>Lighting Rendering</text>
+		<text>Renderizacao de Iluminacao</text>
 	</string>
 	<string id="st_douglass">
 		<text>Ian Douglass</text>
 	</string>
 	<string id="st_compositing_lead">
-		<text>Compositing Lead</text>
+		<text>Lider de Composicao</text>
 	</string>
 	<string id="st_roberts">
 		<text>Ron Roberts</text>
 	</string>
 	<string id="st_compositing">
-		<text>Compositing</text>
+		<text>Composicao</text>
 	</string>
 	<string id="st_adam_jones">
 		<text>Adam Jones</text>
@@ -1919,10 +1919,10 @@
 		<text>Cloth FX</text>
 	</string>
 	<string id="st_eye_candy_animation">
-		<text>Eye Candy Animation</text>
+		<text>Animacao Eye Candy</text>
 	</string>
 	<string id="st_sound_design_and_compositing">
-		<text>Sound Design And Compositing</text>
+		<text>Design de Som e Composicao</text>
 	</string>
 	<string id="st_spoard">
 		<text>Stuart Spoard</text>
@@ -1932,7 +1932,7 @@
 	<!-- SPECIAL THANKS -->
 
 	<string id="st_special_thanks">
-		<text>Special thanks:</text>
+		<text>Agradecimentos especiais:</text>
 	</string>
 	<string id="st_thanks_avdeev">
 		<text>Vladimir Avdeev</text>
@@ -1955,28 +1955,28 @@
 		<text>Alexander Novikov, Igor Gramotkin</text>
 	</string>
 	<string id="st_thanks_chernobyl2">
-		<text>and the rest of Chernobyl Power Plant staff</text>
+		<text>e o restante da equipe da Usina de Chernobyl</text>
 	</string>
 	<string id="st_thanks_chernobyl3">">
-		<text>and administration for their support</text>
+		<text>e administracao pelo seu apoio</text>
 	</string>
 	<string id="st_thanks_administration">
-		<text>Chernobyl Exclusion Zone Administration</text>
+		<text>Administracao da Zona de Exclusao de Chernobyl</text>
 	</string>
 	<string id="st_thanks_administration2">
-		<text>for allowing us to do our crazy explorations</text>
+		<text>por nos permitir fazer nossas exploracoes malucas</text>
 	</string>
 	<string id="st_thanks_chernobylinterinform">
-		<text>Rimma Kiselitsa  , Marina Polyakova</text>
+		<text>Rimma Kiselitsa , Marina Polyakova</text>
 	</string>
 	<string id="st_thanks_chernobylinterinform2">
-		<text>and the rest of Chernobylinterinform agency staff</text>
+		<text>e o restante da equipe da agencia Chernobylinterinform</text>
 	</string>
 	<string id="st_thanks_chernobylinterinform3">
-		<text>for taking good care of us and feeding us</text>
+		<text>por cuidar bem de nos e nos alimentar</text>
 	</string>
 	<string id="st_thanks_chernobylinterinform4">
-		<text>with ample info and nourishing lunches</text>
+		<text>com muita informacao e almocos nutritivos</text>
 	</string>
 	<string id="st_line_horiz">
 		<text>________________</text>
@@ -1985,43 +1985,43 @@
 		<text>|</text>
 	</string>
 	<string id="st_thanks_naumov">
-		<text>Alexander Naumov for his great</text>
+		<text>Alexander Naumov por sua grande</text>
 	</string>
 	<string id="st_thanks_naumov2">
-		<text>informational input and his noble mission</text>
+		<text>contribuicao informativa e sua nobre missao</text>
 	</string>
 	<string id="st_thanks_merregnon">
 		<text>Thomas Boecker, Markus Holler</text>
 	</string>
 	<string id="st_thanks_merregnon2">
-		<text>and the rest of Merregnon® Studios</text>
+		<text>e o restante da Merregnon Studios</text>
 	</string>
 	<string id="st_thanks_merregnon3">
 		<text>(http://merregnon-studios.com/)</text>
 	</string>
 	<string id="st_thanks_merregnon4">
-		<text>for their efforts on creating</text>
+		<text>por seus esforcos na criacao</text>
 	</string>
 	<string id="st_thanks_merregnon5">
-		<text>some great orchestral music for us</text>
+		<text>de otimas musicas orquestrais para nos</text>
 	</string>
 	<string id="st_thanks_firelake">
-		<text>FIRELAKE band (www.firelake.kiev.ua)</text>
+		<text>banda FIRELAKE (www.firelake.kiev.ua)</text>
 	</string>
 	<string id="st_thanks_firelake2">
-		<text>and their friends Addaraya</text>
+		<text>e seus amigos Addaraya</text>
 	</string>
 	<string id="st_thanks_firelake3">
-		<text>for the rocking sound-tracks</text>
+		<text>pelas trilhas sonoras de rock</text>
 	</string>
 	<string id="st_thanks_fanbase">
-		<text>-= FAN-BASE! =-</text>
+		<text>-= BASE DE FAS! =-</text>
 	</string>
 	<string id="st_thanks_fanbase2">
-		<text>We thank heartily Waquar “HeadHunter” Tariq,</text>
+		<text>Agradecemos de coracao Waquar HeadHunter Tariq,</text>
 	</string>
 	<string id="st_thanks_fanbase3">
-		<text>Alexey “Don Reba” Badalov, Emile aka Redrick,</text>
+		<text>Alexey Don Reba Badalov, Emile aka Redrick,</text>
 	</string>
 	<string id="st_thanks_fanbase4">
 		<text>Peter Sjoberg, Pixel, Michi, nasa800, LPKorn3324,</text>
@@ -2033,7 +2033,7 @@
 		<text>Siro/Dennis, Nicklas Ridewing, Otto Bahmann </text>
 	</string>
 	<string id="st_thanks_fanbase7">
-		<text>and Mike Bretschneider, cractus01, Marcel Kleffmann,</text>
+		<text>e Mike Bretschneider, cractus01, Marcel Kleffmann,</text>
 	</string>
 	<string id="st_thanks_fanbase8">
 		<text>Nikolay Dashevsky, Abe, Anton Brovko, Mario, fen1x,</text>
@@ -2058,7 +2058,7 @@
 		<text>Yan Oleshkovskiy aka Mad Dog, Samael aka Arimanov, RVCool,</text>
 	</string>
 	<string id="st_thanks_fanbase15">
-		<text>Lestat, Sergey Pivin, Gall, Critic, Dmitriy “DoN Rumata” Kozlov,</text>
+		<text>Lestat, Sergey Pivin, Gall, Critic, Dmitriy DoN Rumata Kozlov,</text>
 	</string>
 	<string id="st_thanks_fanbase16">
 		<text>Kondratiev S.A., Dmitriy Kalinin, Max Tarasov, Andrey Rogozin aka Raga,</text>
@@ -2078,72 +2078,72 @@
 	</string>
 
 	<string id="st_thanks_fanbase21">
-		<text>Alan Nogueira da Gama and so many more of you </text>
+		<text>Alan Nogueira da Gama e muitos mais de voces </text>
 	</string>
 	<string id="st_thanks_fanbase22">
-		<text>around the globe who passionately supported</text>
+		<text>ao redor do mundo que apoiaram apaixonadamente</text>
 	</string>
 	<string id="st_thanks_fanbase23">
-		<text>S.T.A.L.K.E.R. through all these years</text>
+		<text>S.T.A.L.K.E.R. durante todos esses anos</text>
 	</string>
 	<string id="st_thanks_all">
-		<text>From the entire team THANKS to all of you who</text>
+		<text>De toda a equipe, OBRIGADO a todos voces que</text>
 	</string>
 	<string id="st_thanks_all2">
-		<text>ever helped us make S.T.A.L.K.E.R. happen</text>
+		<text>ja nos ajudaram a fazer S.T.A.L.K.E.R. acontecer</text>
 	</string>
 	<string id="st_thanks_all3">
-		<text>and encouraged us no matter what!</text>
+		<text>e nos encorajaram, nao importa o que!</text>
 	</string>
 	<string id="st_thanks_all4">
-		<text>Your good efforts will not be forgotten!</text>
+		<text>Seus bons esforcos nao serao esquecidos!</text>
 	</string>
 
 
 	<string id="st_thanks_license1">
-		<text>We would like to say our big thanks to open-source projects:</text>
+		<text>Gostariamos de agradecer aos projetos de codigo aberto:</text>
 	</string>
 
 	<string id="st_thanks_license2">
-		<text>ode.org for physics engine (Open Dynamic Engine, ODE)</text>
+		<text>ode.org pelo motor de fisica (Open Dynamic Engine, ODE)</text>
 	</string>
 	<string id="st_thanks_license3">
-		<text>lua.org for scripting language (Lua)</text>
+		<text>lua.org pela linguagem de script (Lua)</text>
 	</string>
 	<string id="st_thanks_license4">
-		<text>luajit.luaforge.net for just-in-time Lua compiler (LuaJIT)</text>
+		<text>luajit.luaforge.net pelo compilador Lua just-in-time (LuaJIT)</text>
 	</string>
 	<string id="st_thanks_license5">
-		<text>www.rasterbar.com/products/luabind.html for Lua binding library (Luabind)</text>
+		<text>www.rasterbar.com/produtos/luabind.html pela biblioteca de ligacao Lua (Luabind)</text>
 	</string>
 	<string id="st_thanks_license6">
-		<text>xiph.org for video (Theora) and audio (Vorbis) codecs</text>
+		<text>xiph.org para codecs de video (Theora) e audio (Vorbis)</text>
 	</string>
 	<string id="st_thanks_license7">
-		<text>jrsoftware.org for installer (Inno Setup)</text>
+		<text>jrsoftware.org para instalador (Inno Setup)</text>
 	</string>
 	<string id="st_thanks_license8">
-		<text>openal.org for audio library (OpenAL)</text>
+		<text>openal.org para biblioteca de audio (OpenAL)</text>
 	</string>
 	<string id="st_thanks_license9">
-		<text>boost.org for template library (Boost)</text>
+		<text>boost.org para biblioteca de modelos (Boost)</text>
 	</string>
 	<string id="st_thanks_license10">
-		<text>sourceforge.net/projects/loki-lib for template library (Loki)</text>
+		<text>sourceforge.net/projetos/loki-lib para biblioteca de modelos (Loki)</text>
 	</string>
 	<string id="st_thanks_license11">
 		<text>Don Clugston (codeproject.com/cpp/FastDelegate.asp http://www.codeproject.com/cpp/FastDelegate.asp)</text>
 	</string>
 	<string id="st_thanks_license12">
-		<text>for his fastdelegate library (fastdelegate)</text>
+		<text>para sua biblioteca fastdelegate (fastdelegate)</text>
 	</string>
 
 	<string id="st_thanks_license13">
-		<text>intelle-soft.com for free bug catching library BugTrap</text>
+		<text>intelle-soft.com para biblioteca gratuita de captura de bugs BugTrap</text>
 	</string>
 
 	<string id="st_thanks_license14">
-		<text>Also thanks to the companies who helped with game's optimization:</text>
+		<text>Tambem agradecemos as empresas que ajudaram na otimizacao do jogo:</text>
 	</string>
 
 	<string id="st_thanks_license15">
