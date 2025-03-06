@@ -23,8 +23,8 @@
 70|<text>Strelok???</text>
 73|<text>Sim, voce e Strelok! Quem mais voce seria? Eu sou Doutor, voce nao me reconhece? O que aconteceu com voce, amigo? Voce nao parece bem. Nos entramos na Zona juntos por 2 anos. Voce realmente nao se lembra de mim?</text>
 76|<text>Nao, eu nao me lembro.</text>
-79|<text>Voce nao se lembra??? Strelok, o que...? Voce nao esta brincando, esta? Cara... E os caras, nossos caras? Fang, Fantasma? Voce se lembra deles, nao lembra?</text>
-82|<text>Nao me lembro de Fang, e Fantasma esta morto - encontrei o corpo dele em Yantar.</text>
+79|<text>Voce nao se lembra??? Strelok, o que...? Voce nao esta brincando, esta? Cara... E os caras, nossos caras? Presa, Fantasma? Voce se lembra deles, nao lembra?</text>
+82|<text>Nao me lembro de Presa, e Fantasma esta morto - encontrei o corpo dele em Yantar.</text>
 85|<text>Fantasma!!?!?! Morto??!!! Droga, como isso pode acontecer?! Eles... eles eram os melhores. O que aconteceu com voce?</text>
 88|<text>Nao sei o que aconteceu, nao me lembro.</text>
 91|<text>Espere, preciso me acalmar. Isso e uma noticia de merda, cara. Acho que esta tudo ligado a sua ultima viagem a Zona. Quando nos vimos pela ultima vez, voce me deixou a chave do esconderijo em Prypiat e o mapa de como encontra-lo. Consegui guarda-lo - escondi dos Mercs. Aqui, pegue, esconda bem. Talvez voce encontre algo la. Voce estava dizendo que havia algum truque com o Monolito. Mas eu nao entendi do que se tratava, e voce tambem nao.</text>

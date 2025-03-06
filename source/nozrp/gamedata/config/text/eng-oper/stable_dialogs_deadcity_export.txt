@@ -23,8 +23,8 @@
 70|<text>Strelok???</text>
 73|<text>Yeah, you're Strelok! Who else would you be? I'm Doc, don't you recognize me? What happened to you, friend? You don't look well. We went into the Zone together for 2 years. You really don't remember me?</text>
 76|<text>No, I don't.</text>
-79|<text>You don't??? Strelok, what the...? You're not joking around, are you? Man... What about the guys, our guys? Fang, Ghost? You remember them, don't you?</text>
-82|<text>I don't remember Fang, and Ghost is dead - I found his body in Yantar.</text>
+79|<text>You don't??? Strelok, what the...? You're not joking around, are you? Man... What about the guys, our guys? Presa, Ghost? You remember them, don't you?</text>
+82|<text>I don't remember Presa, and Ghost is dead - I found his body in Yantar.</text>
 85|<text>Ghost!!?!?! Dead??!!! Dammit, how could that happen?! They... they were the best. What happened to you?</text>
 88|<text>I don't know what happened, I don't remember.</text>
 91|<text>Wait, I need to calm down. That's some shitty news man. I think it's all linked with your last trip into the Zone. When we saw each other the last time, you left me the key from the stash at Pripyat and the map of how to find it. I've managed to keep it - hid it from the Mercs. Here, take it, hide it well. Perhaps you'll find somthing there. You were saying that there's some trick with the Monolith. But I don't understand what it was about, and you didn't either.</text>

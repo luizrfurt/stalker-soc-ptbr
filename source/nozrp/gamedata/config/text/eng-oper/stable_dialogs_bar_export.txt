@@ -152,7 +152,7 @@
 457|<text>What do you know about a stalker they call Ghost?</text>
 460|<text>He's one of Strelok's men. They say he can sneak in anywhere without being noticed. I heard that he took out the leader of some crazy group... what was the name? Ah, 'Final Day', that's the one. They were pretty wild those boys... Oh, by the way, I heard that Ghost is doing some job for the scientists, so if you're looking for him try by Lake Yantar at the mobile lab.</text>
 463|<text>He's an old stalker in retirement. He lives in the marshes, I'll mark it on the map for you. He used to be in Strelok's group back in the day.</text>
-466|<text>What do you know about a stalker called Fang?</text>
+466|<text>What do you know about a stalker called Presa?</text>
 469|<text>There was a man that went by that name, spoke with a lisp... He was a bit weird, that's for sure - talked to himself and stuff...but he seemed like an okay guy. I haven't seen him at the Bar for ages.</text>
 472|<text>Tell me about the mobile science labs.</text>
 475|<text>Scientists set them up from time to time. Isolated metal bunkers with everything you need to live. We're in contact with one of these labs in Yantar. Scientists are good guys - they tell us a lot of interesting things and we help them out when we can... An exchange of sorts...</text>
@@ -208,7 +208,7 @@
 625|<text>Up to you. Come to the bar when you decide otherwise - I'm always here.</text>
 628|<text>Right now, I have some information about a group that made it to the center of the Zone. I'm practically giving it away - only 2000 roubles.</text>
 631|<text>OK, I'll buy it. Here's 2000.</text>
-634|<text>Strelok, Ghost and Fang went to the center of the Zone. What they found there, no one knows, but Strelok went missing while Ghost and Fang came back distraught.The latest news on Ghost is that he went to the mobile lab by Lake Yantar. Coordinates of the scientists' camp are attached.</text>
+634|<text>Strelok, Ghost and Presa went to the center of the Zone. What they found there, no one knows, but Strelok went missing while Ghost and Presa came back distraught.The latest news on Ghost is that he went to the mobile lab by Lake Yantar. Coordinates of the scientists' camp are attached.</text>
 637|<text>No, I changed my mind.</text>
 640|<text>Up to you. Come to the bar when you decide otherwise - I'm always here.</text>
 643|<text>I've got some information about the secret of Lake Yantar. The price is just 3500 roubles - any less and I'd be paying you!</text>

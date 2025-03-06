@@ -152,7 +152,7 @@
 457|<text>O que voce sabe sobre um stalker chamado Fantasma?</text>
 460|<text>Ele e um dos homens de Strelok. Dizem que ele pode entrar em qualquer lugar sem ser notado. Ouvi dizer que ele eliminou o lider de um grupo maluco... qual era o nome? Ah, 'Ultimo Dia', isso mesmo. Eles eram bem selvagens aqueles caras... Ah, a proposito, ouvi dizer que Fantasma esta fazendo um trabalho para os cientistas, entao, se voce estiver procurando por ele, tente perto do Lago Yantar, no laboratorio movel.</text>
 463|<text>Ele e um velho stalker aposentado. Ele mora nos pantanos, vou marcar no mapa para voce. Ele costumava fazer parte do grupo de Strelok antigamente.</text>
-466|<text>O que voce sabe sobre um stalker chamado Fang?</text>
+466|<text>O que voce sabe sobre um stalker chamado Presa?</text>
 469|<text>Havia um homem com esse nome, falava com a lingua presa... Ele era um pouco estranho, com certeza - falava sozinho e tal... mas parecia um cara legal. Nao o vejo no Bar ha tempos.</text>
 472|<text>Fale-me sobre os laboratorios cientificos moveis.</text>
 475|<text>Os cientistas os montam de vez em quando. Bunkers de metal isolados com tudo o que voce precisa para viver. Estamos em contato com um desses laboratorios em Yantar. Os cientistas sao caras legais - eles nos contam muitas coisas interessantes e nos os ajudamos quando podemos... Uma troca, digamos...</text>
@@ -208,7 +208,7 @@
 625|<text>Voce decide. Venha ao bar quando decidir o contrario - estou sempre aqui.</text>
 628|<text>Agora, tenho algumas informacoes sobre um grupo que chegou ao centro da Zona. Estou praticamente dando de graca - apenas 2000 rublos.</text>
 631|<text>OK, vou comprar. Aqui estao 2000.</text>
-634|<text>Strelok, Fantasma e Fang foram para o centro da Zona. O que eles encontraram la, ninguem sabe, mas Strelok desapareceu enquanto Fantasma e Fang voltaram perturbados. As ultimas noticias sobre Fantasma sao que ele foi para o laboratorio movel perto do Lago Yantar. As coordenadas do acampamento dos cientistas estao anexadas.</text>
+634|<text>Strelok, Fantasma e Presa foram para o centro da Zona. O que eles encontraram la, ninguem sabe, mas Strelok desapareceu enquanto Fantasma e Presa voltaram perturbados. As ultimas noticias sobre Fantasma sao que ele foi para o laboratorio movel perto do Lago Yantar. As coordenadas do acampamento dos cientistas estao anexadas.</text>
 637|<text>Nao, mudei de ideia.</text>
 640|<text>Voce decide. Venha ao bar quando decidir o contrario - estou sempre aqui.</text>
 643|<text>Tenho algumas informacoes sobre o segredo do Lago Yantar. O preco e de apenas 3500 rublos - qualquer valor menor e eu estaria te pagando!</text>

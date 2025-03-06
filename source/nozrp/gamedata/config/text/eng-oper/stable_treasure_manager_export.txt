@@ -258,8 +258,8 @@
 775|<text>Treasure in the garage</text>
 778|<text>They say there's a chest in the kindergarten with a whole ton of goodies in it</text>
 781|<text>Old secret stash</text>
-784|<text>They buried Fang in Pripyat under a monument. They left all of his goodies with him - it's not right to take away from the dead.</text>
-787|<text>Fang's goodies</text>
+784|<text>They buried Presa in Pripyat under a monument. They left all of his goodies with him - it's not right to take away from the dead.</text>
+787|<text>Presa's goodies</text>
 790|<text>The last that they knew about him is that he was the sole survivor after the scorcher. He left all the supplies in some old supermarket, and moved on out. Everything went not the way it was planned, and that was the best leader of Freedom in all of our history.</text>
 793|<text>Supplies of the leader of Freedom</text>
 796|<text>The cross is on the way to the scorcher, didn't go any further, hid everything there under it.</text>

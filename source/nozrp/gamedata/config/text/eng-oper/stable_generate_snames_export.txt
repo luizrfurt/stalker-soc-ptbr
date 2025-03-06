@@ -1445,7 +1445,7 @@
 4334|<text>Jiggers</text>
 4337|<text>Grudge</text>
 4340|<text>Head</text>
-4343|<text>Fang</text>
+4343|<text>Presa</text>
 4346|<text>Claw</text>
 4349|<text>Bone</text>
 4352|<text>Fist</text>
