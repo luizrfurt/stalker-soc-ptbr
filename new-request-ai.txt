@@ -3,7 +3,7 @@ Contexto: S.T.A.L.K.E.R.: Shadow of Chernobyl
 1. Regras Gerais
     Não traduzir: Stalker, Stalkers, stalker, stalkers.
 2. Traduções Específicas
-Facções: Loner → Errante, Duty → Dever, Trader → Comerciante, Freedom → Libertaria, Merc → Merc, Monolith → Monolito, Spetsnaz → Forcas Especiais
+Facções: Loner → Errante, Duty → Dever, Trader → Comerciante, Freedom → Liberdade, Merc → Merc, Monolith → Monolito, Spetsnaz → Forcas Especiais
 --
 Lugares: Cordon → Cordon, The Garbage / Garbage → Lixao, Agroprom Research Institute → Instituto de Pesquisa Agroprom, The Dark Valley / Dark Valley → Vale Sombrio, Bar → Bar,
 Wild Territory → Territorio Selvagem, Dead City → Cidade Morta, Army warehouses → Armazens militares, Yantar → Yantar, Red Forest → Floresta Vermelha, Pripyat → Prypiat,
