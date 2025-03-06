@@ -1,0 +1,13 @@
+2|<text>Tatu 1</text>
+5|<text>Tatu 2</text>
+8|<text>Tatu 3</text>
+11|<text>Grifo</text>
+14|<text>Korshun</text>
+17|<text>Kvartet</text>
+20|<text>Lun</text>
+23|<text>Peneireiro</text>
+26|<text>Falcao-peregrino</text>
+29|<text>Entrada do Sarcofago</text>
+32|<text>Falcao</text>
+35|<text>Coruja</text>
+38|<text>Gaviao</text>

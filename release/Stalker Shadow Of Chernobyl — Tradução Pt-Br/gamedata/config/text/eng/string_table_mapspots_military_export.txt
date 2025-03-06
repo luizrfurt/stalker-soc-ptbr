@@ -1,0 +1,20 @@
+2|<text>Talk to Barrier checkpoint commander</text>
+5|<text>Follow the snitch</text>
+8|<text>Wait for the snitch to call the agent</text>
+11|<text>Kill the snitch</text>
+14|<text>Kill the informer</text>
+17|<text>Take the crazy stalker's flash drive from him</text>
+20|<text>Duty farmstead</text>
+23|<text>Kill the sniper</text>
+26|<text>Talk to Murk</text>
+29|<text>Go back to Skinflint</text>
+32|<text>Destroy the Duty squad</text>
+35|<text>Kill Lukash</text>
+38|<text>Skinflint</text>
+41|<text>Report to Max</text>
+44|<text>Report to Lukash</text>
+47|<text>Give the flash drive to Max</text>
+50|<text>Find the cook in the Freedom base</text>
+53|<text>Talk to Chef</text>
+56|<text>Take the Bulldog 6 from the stash in the village</text>
+59|<text>Water tower</text>

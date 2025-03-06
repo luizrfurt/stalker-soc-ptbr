@@ -1,0 +1,16 @@
+2|<text>Briefcase with docs</text>
+5|<text>Wounded Fox.</text>
+8|<text>Abandoned mill. The wounded brother was last seen somewhere around here.</text>
+11|<text>Trader.</text>
+14|<text>Bandits at the factory.</text>
+17|<text>An unknown group of Mercs.</text>
+20|<text>Rookie camp leader.</text>
+23|<text>Military checkpoint at the destroyed bridge. The soldiers are known to take bribes to let people go through.</text>
+26|<text>Artifact.</text>
+29|<text>Bandits who have stopped our scout.</text>
+32|<text>Dead stalker's stash.</text>
+35|<text>Dead stalker's stash.</text>
+38|<text>Nimble's stash.</text>
+41|<text>Nimble, a prisoner.</text>
+44|<text>Wolf, the leader of the rookie camp.</text>
+47|<text>Wolf's scouts.</text>

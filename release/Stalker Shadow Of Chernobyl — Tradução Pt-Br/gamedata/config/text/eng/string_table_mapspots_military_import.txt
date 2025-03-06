@@ -1,0 +1,20 @@
+2|<text>Fale com o comandante do posto de controle da Barreira</text>
+5|<text>Siga o dedo-duro</text>
+8|<text>Espere o dedo-duro chamar o agente</text>
+11|<text>Mate o dedo-duro</text>
+14|<text>Mate o informante</text>
+17|<text>Pegue o pendrive do stalker louco dele</text>
+20|<text>Fazenda do Dever</text>
+23|<text>Mate o sniper</text>
+26|<text>Fale com Sombra</text>
+29|<text>Volte para Avarento</text>
+32|<text>Destrua o esquadrao do Dever</text>
+35|<text>Mate Lukash</text>
+38|<text>Avarento</text>
+41|<text>Reporte-se a Max</text>
+44|<text>Reporte-se a Lukash</text>
+47|<text>De o pendrive para Max</text>
+50|<text>Encontre o cozinheiro na base da Liberdade</text>
+53|<text>Fale com Chef</text>
+56|<text>Pegue o Bulldog 6 do esconderijo na vila</text>
+59|<text>Torre de agua</text>

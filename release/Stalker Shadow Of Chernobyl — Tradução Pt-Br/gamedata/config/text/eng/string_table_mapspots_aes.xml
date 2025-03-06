@@ -1,14 +1,14 @@
 	<string id="aes_btr1">
-		<text>Armadillo 1</text>
+		<text>Tatu 1</text>
 	</string>
 	<string id="aes_btr2">
-		<text>Armadillo 2</text>
+		<text>Tatu 2</text>
 	</string>
 	<string id="aes_btr3">
-		<text>Armadillo 3</text>
+		<text>Tatu 3</text>
 	</string>
 	<string id="aes_grif">
-		<text>Grif</text>
+		<text>Grifo</text>
 	</string>
 	<string id="aes_korshun">
 		<text>Korshun</text>
@@ -20,20 +20,20 @@
 		<text>Lun</text>
 	</string>
 	<string id="aes_pustelga">
-		<text>Pustelga</text>
+		<text>Peneireiro</text>
 	</string>
 	<string id="aes_sapsan">
-		<text>Sapsan</text>
+		<text>Falcao-peregrino</text>
 	</string>
 	<string id="aes_sarcofag_hint">
-		<text>Sarcophagus entrance</text>
+		<text>Entrada do Sarcofago</text>
 	</string>
 	<string id="aes_sokol">
-		<text>Sokol</text>
+		<text>Falcao</text>
 	</string>
 	<string id="aes_sova">
-		<text>Sova</text>
+		<text>Coruja</text>
 	</string>
 	<string id="aes_yastreb">
-		<text>Yastreb</text>
+		<text>Gaviao</text>
 	</string>

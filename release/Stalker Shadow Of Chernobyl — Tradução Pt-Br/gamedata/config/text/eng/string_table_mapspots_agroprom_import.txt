@@ -1,0 +1,13 @@
+2|<text>Arsenal do capitao</text>
+5|<text>Entrada das catacumbas</text>
+8|<text>Fabrica</text>
+11|<text>Encontre o esconderijo secreto de Strelok nas catacumbas</text>
+14|<text>De os documentos para o Bartender</text>
+17|<text>Salvar Toupeira</text>
+20|<text>Salvar os stalkers</text>
+23|<text>Encontrar Toupeira</text>
+26|<text>Instituto de Pesquisa Agroprom. Base militar</text>
+29|<text>Lugar seguro</text>
+32|<text>Roube os documentos</text>
+35|<text>Obtenha informacoes sobre o esconderijo de Toupeira</text>
+38|<text>Zaporozhets</text>

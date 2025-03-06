@@ -1,0 +1,13 @@
+2|<text>Armadillo 1</text>
+5|<text>Armadillo 2</text>
+8|<text>Armadillo 3</text>
+11|<text>Grif</text>
+14|<text>Korshun</text>
+17|<text>Kvartet</text>
+20|<text>Lun</text>
+23|<text>Pustelga</text>
+26|<text>Sapsan</text>
+29|<text>Sarcophagus entrance</text>
+32|<text>Sokol</text>
+35|<text>Sova</text>
+38|<text>Yastreb</text>

@@ -1,0 +1,18 @@
+2|<text>Borov</text>
+5|<text>Tunnel</text>
+8|<text>Lab entrance</text>
+11|<text>Pipe</text>
+14|<text>Documents from the Lab</text>
+17|<text>Barkeep</text>
+20|<text>Bullet</text>
+23|<text>Prisoner</text>
+26|<text>South Gate</text>
+29|<text>Trader</text>
+32|<text>Captive Duty member</text>
+35|<text>Wounded stalker</text>
+38|<text>Bandit camp</text>
+41|<text>Farm.\nBuy Gauss.</text>
+44|<text>Old factory</text>
+47|<text>Sewer pipe</text>
+50|<text>Abandoned pig farm</text>
+53|<text>Gates</text>

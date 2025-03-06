@@ -1,0 +1,7 @@
+2|<text>Arena.</text>
+5|<text>Bar 100 Rads.</text>
+8|<text>Base da faccao Dever</text>
+11|<text>Galgo e seus assassinos perto do helicoptero</text>
+14|<text>Professor Kruglov</text>
+17|<text>Emboscada pela fabrica</text>
+20|<text>Galgo.</text>

@@ -1,0 +1,16 @@
+2|<text>Hangar abandonado.</text>
+5|<text>Acampamento de bandidos na saida de Agroprom.</text>
+8|<text>Base de bandidos na estrada para Agroprom.</text>
+11|<text>Ataque de bandidos liderado pelo chefe.</text>
+14|<text>Horda de javalis.</text>
+17|<text>Ferro velho de veiculos.</text>
+20|<text>Floresta infestada de caes</text>
+23|<text>Posto de controle do Dever na estrada para o Bar.</text>
+26|<text>Um grupo de stalkers neutros pedindo ajuda.</text>
+29|<text>Um novato assustado e cansado.</text>
+32|<text>O esconderijo secreto do novato.</text>
+35|<text>Grupo de Seriy.</text>
+38|<text>O Pantano de Grimpen.</text>
+41|<text>Pilhas de lixo com anomalias e artefatos.</text>
+44|<text>Tunel ferroviario.</text>
+47|<text>Sinal de SOS. Provavelmente um stalker ferido.</text>

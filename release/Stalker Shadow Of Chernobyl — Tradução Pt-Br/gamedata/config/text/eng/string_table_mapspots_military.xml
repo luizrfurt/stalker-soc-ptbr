@@ -1,60 +1,60 @@
 	<string id="mil_cap_hint">
-		<text>Talk to Barrier checkpoint commander</text>
+		<text>Fale com o comandante do posto de controle da Barreira</text>
 	</string>
 	<string id="mil_courier_hint1">
-		<text>Follow the snitch</text>
+		<text>Siga o dedo-duro</text>
 	</string>
 	<string id="mil_courier_hint2">
-		<text>Wait for the snitch to call the agent</text>
+		<text>Espere o dedo-duro chamar o agente</text>
 	</string>
 	<string id="mil_courier_hint3">
-		<text>Kill the snitch</text>
+		<text>Mate o dedo-duro</text>
 	</string>
 	<string id="mil_courier_hint4">
-		<text>Kill the informer</text>
+		<text>Mate o informante</text>
 	</string>
 	<string id="mil_crazy_hint">
-		<text>Take the crazy stalker's flash drive from him</text>
+		<text>Pegue o pendrive do stalker louco dele</text>
 	</string>
 	<string id="mil_dolg_khutor">
-		<text>Duty farmstead</text>
+		<text>Fazenda do Dever</text>
 	</string>
 	<string id="mil_freedom_sniper">
-		<text>Kill the sniper</text>
+		<text>Mate o sniper</text>
 	</string>
 	<string id="mil_hunters_hint1">
-		<text>Talk to Murk</text>
+		<text>Fale com Sombra</text>
 	</string>
 	<string id="mil_hunters_hint2">
-		<text>Go back to Skinflint</text>
+		<text>Volte para Avarento</text>
 	</string>
 	<string id="mil_kill_dolg_hint">
-		<text>Destroy the Duty squad</text>
+		<text>Destrua o esquadrao do Dever</text>
 	</string>
 	<string id="mil_kill_lukash_hint">
-		<text>Kill Lukash</text>
+		<text>Mate Lukash</text>
 	</string>
 	<string id="mil_miser_hint">
-		<text>Skinflint</text>
+		<text>Avarento</text>
 	</string>
 	<string id="mil_report_to_max_hint">
-		<text>Report to Max</text>
+		<text>Reporte-se a Max</text>
 	</string>
 	<string id="mil_return_to_lukash_hint">
-		<text>Report to Lukash</text>
+		<text>Reporte-se a Lukash</text>
 	</string>
 	<string id="mil_return_to_max_hint">
-		<text>Give the flash drive to Max</text>
+		<text>De o pendrive para Max</text>
 	</string>
 	<string id="mil_rg6_hint1">
-		<text>Find the cook in the Freedom base</text>
+		<text>Encontre o cozinheiro na base da Liberdade</text>
 	</string>
 	<string id="mil_rg6_hint2">
-		<text>Talk to Chef</text>
+		<text>Fale com Chef</text>
 	</string>
 	<string id="mil_rg6_hint3">
-		<text>Take the Bulldog 6 from the stash in the village</text>
+		<text>Pegue o Bulldog 6 do esconderijo na vila</text>
 	</string>
 	<string id="mil_watertower_hint">
-		<text>Water tower</text>
+		<text>Torre de agua</text>
 	</string>

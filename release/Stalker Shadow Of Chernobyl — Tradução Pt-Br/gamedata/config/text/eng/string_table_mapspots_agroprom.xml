@@ -1,38 +1,38 @@
 	<string id="agr_captains_chamber_hint">
-		<text>Captain's armory</text>
+		<text>Arsenal do capitao</text>
 	</string>
 	<string id="agr_collector_entrance_hint">
-		<text>Catacomb entrance</text>
+		<text>Entrada das catacumbas</text>
 	</string>
 	<string id="agr_factory_hint">
-		<text>Factory</text>
+		<text>Fabrica</text>
 	</string>
 	<string id="agr_find_gunslinger_cache_hint">
-		<text>Find Strelok's secret stash in the catacombs</text>
+		<text>Encontre o esconderijo secreto de Strelok nas catacumbas</text>
 	</string>
 	<string id="agr_give_case_to_barman_hint">
-		<text>Give the documents to the Barkeep</text>
+		<text>De os documentos para o Bartender</text>
 	</string>
 	<string id="agr_help_krot_hint">
-		<text>Save Mole</text>
+		<text>Salvar Toupeira</text>
 	</string>
 	<string id="agr_help_stalkers_hint">
-		<text>Save the stalkers</text>
+		<text>Salvar os stalkers</text>
 	</string>
 	<string id="agr_meet_krot_hint">
-		<text>Meet Mole</text>
+		<text>Encontrar Toupeira</text>
 	</string>
 	<string id="agr_nii_hint">
-		<text>Agroprom Research Institute. Military base</text>
+		<text>Instituto de Pesquisa Agroprom. Base militar</text>
 	</string>
 	<string id="agr_swamp_hint">
-		<text>Safe place</text>
+		<text>Lugar seguro</text>
 	</string>
 	<string id="agr_take_case_hint">
-		<text>Steal the documents</text>
+		<text>Roube os documentos</text>
 	</string>
 	<string id="agr_take_krots_info_hint">
-		<text>Get information about the stash from Mole</text>
+		<text>Obtenha informacoes sobre o esconderijo de Toupeira</text>
 	</string>
 	<string id="agr_zaz_hint">
 		<text>Zaporozhets</text>

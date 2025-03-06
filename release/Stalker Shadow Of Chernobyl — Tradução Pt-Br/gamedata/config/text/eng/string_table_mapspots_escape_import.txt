@@ -1,0 +1,16 @@
+2|<text>Pasta com documentos</text>
+5|<text>Raposo ferido.</text>
+8|<text>Moinho abandonado. O irmao ferido foi visto pela ultima vez por aqui.</text>
+11|<text>Comerciante.</text>
+14|<text>Bandidos na fabrica.</text>
+17|<text>Um grupo desconhecido de Mercs.</text>
+20|<text>Lider do acampamento de novatos.</text>
+23|<text>Posto de controle militar na ponte destruida. Os soldados sao conhecidos por aceitar subornos para deixar as pessoas passarem.</text>
+26|<text>Artefato.</text>
+29|<text>Bandidos que pararam nosso batedor.</text>
+32|<text>Esconderijo de stalker morto.</text>
+35|<text>Esconderijo de stalker morto.</text>
+38|<text>Esconderijo de Esperto.</text>
+41|<text>Esperto, um prisioneiro.</text>
+44|<text>Lobo, o lider do acampamento de novatos.</text>
+47|<text>Batedores de Lobo.</text>
