@@ -11,8 +11,14 @@ def process_xml_files(directory):
             import_path = os.path.join(directory, filename.replace(".xml", "_import.txt"))
             
             extracted_lines = extract_text_lines(xml_path)
-            write_to_file(export_path, extracted_lines)
-            write_to_file(import_path, "")  # Inicialmente, o import será igual ao export
+            
+            # Cria o arquivo _export.txt somente se não existir
+            if not os.path.exists(export_path):
+                write_to_file(export_path, extracted_lines)
+            
+            # Cria o arquivo _import.txt vazio somente se não existir
+            if not os.path.exists(import_path):
+                write_to_file(import_path, "")
 
 def extract_text_lines(xml_path):
     extracted_lines = []
@@ -140,17 +146,22 @@ if __name__ == "__main__":
     source_directory = "./release/Stalker Shadow Of Chernobyl — Tradução Pt-Br/gamedata/config/text/eng"
     target_directory = "C:/Program Files (x86)/Steam/steamapps/common/STALKER Shadow of Chernobyl/gamedata/config/text/eng"
 
+    # 1. exclui os arquivos _export.txt e _import.txt
     # delete txts
     # delete_txt_files(source_directory)
 
+    # 2. cria os arquivos _export.txt e _import.txt e copia das tags <text> dos xmls
     # process xmls
     # process_xml_files(source_directory)
 
+    # 3. remove acentos e cedilha dos arquivos _import.txt
     # Nova etapa: remover acentos e cedilha dos arquivos _import.txt
     # remove_accents_and_cedilla(source_directory)
 
+    # 4. atualiza os xmls com as mudanças dos arquivos _import.txt
     # update xmls
-    update_xml_from_import(source_directory)
+    # update_xml_from_import(source_directory)
 
+    # 5. copia os xmls do diretório de origem para o diretório de destino
     # copy xmls
-    copy_xml_from_import(source_directory, target_directory)
+    # copy_xml_from_import(source_directory, target_directory)
