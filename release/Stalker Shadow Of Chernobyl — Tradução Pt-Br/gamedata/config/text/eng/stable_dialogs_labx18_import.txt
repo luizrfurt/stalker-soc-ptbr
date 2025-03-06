@@ -1,0 +1,37 @@
+4|<text>Estou em uma missao.</text>
+7|<text>Hmm. Que tipo de missao? Voce esta procurando algo? Ou ja encontrou? Ouvi dizer que ha muitas coisas boas aqui...</text>
+10|<text>Desculpe, nao posso te dizer e nao tenho tempo de qualquer maneira.</text>
+13|<text>Espere, nao corra ainda. Voce tera oportunidades suficientes para isso... O que voce encontrou? Eu mesmo nao estou vagando por aqui a toa, sabe.</text>
+16|<text>O que eu encontrei e problema meu.</text>
+19|<text>Encontrei alguns documentos do X18. O Bartender prometeu me pagar bem por eles.</text>
+22|<text>Nao, nao encontrei nada.</text>
+25|<text>Eu nem sei como vim parar aqui. Adoraria sair daqui o mais rapido possivel.</text>
+28|<text>Voce nao encontrou nada de valioso aqui, encontrou? Dizem que ha algumas informacoes sobre experimentos cientificos. Eles valem um bom dinheiro...</text>
+31|<text>Nao, nao encontrei.</text>
+34|<text>E mesmo?.. E se voce pensar bem sobre isso? Voce esta escondendo algo de mim?</text>
+37|<text>Nao.</text>
+40|<text>Que tipo de pergunta e essa?</text>
+43|<text>Voce esta me ameacando?</text>
+46|<text>Que se dane toda essa informacao. Mal estou conseguindo sobreviver aqui dentro.</text>
+49|<text>Tudo bem entao, va em frente. Se voce encontrar algo - eu estarei por perto...</text>
+52|<text>Escuta, camarada, eu passei por fogo, anomalias e monstros nesta Zona fedida e, como voce pode ver, ainda estou vivo! Entao nao me diga o que posso ou nao dizer. Eu vim aqui pelos documentos e nao vou sair sem eles. Se eles estiverem com voce, aconselho voce a entrega-los ou descansar em paz neste buraco! Entendeu?</text>
+55|<text>Entendi.</text>
+58|<text>Se voce estiver mentindo para mim, voce esta em apuros. Se voce esta pensando em me enganar, voce esta em apuros, e se voce tentar me empurrar alguma porcaria, voce esta em apuros. Na verdade, voce esta tao afundado na merda que tera que nadar muito para se manter a tona! Agora, deixe-me tentar mais uma vez para os idiotas na assistencia: voce encontrou os documentos?</text>
+61|<text>Tudo bem, e da proxima vez, cuidado com a boca. Pode ir agora. Caso encontre algo, estarei por perto...</text>
+64|<text>Esta conversa acabou. Saia da minha frente.</text>
+67|<text>Eu nao tenho nenhum documento.</text>
+70|<text>Muito melhor, camarada. Agora me de toda a informacao que voce tem, cada pedacinho ate o ultimo pedaco de papel. E nem pense em fazer nada engracado porque essa piada seria a sua ultima...</text>
+73|<text>Estou te dizendo, pare! Eu nao estou vagando por este buraco de rato a toa. Pare de brincar e me diga o que voce encontrou. Nos poderiamos ate dividir...</text>
+76|<text>Nao vou compartilhar nada.</text>
+79|<text>Uh-huh, vaza agora... Tenho um ultimo conselho para voce - cuidado onde pisa, stalker, voce vai precisar!</text>
+82|<text>Voce esta me ameacando?</text>
+85|<text>OK, OK, calma... Assim que eu fico curioso, voce pega sua arma! Sem mais perguntas. Apenas tenha cuidado, so isso.</text>
+88|<text>Documentos, hein... So para voce saber, foi exatamente para isso que eu vim aqui. E agora voce vai entrega-los e seguir seu caminho. Entendido?</text>
+91|<text>Vou oferecer algo</text>
+94|<text>Olha, cara, pare de ferrar com meu cerebro. Vamos fazer um acordo. Vou te dar uma boa quantia de dinheiro - voce nao vai se arrepender.</text>
+97|<text>Escuta, minha vida depende desses documentos. Vamos ver o que voce tem - acho que podemos chegar a um acordo...</text>
+100|<text>Esta tao escuro aqui, nao consigo ver droga nenhuma. Lancadores por toda parte... Por que eu concordei em fazer isso?! E voce, como veio parar aqui?</text>
+103|<text>Continue andando, stalker.</text>
+106|<text>Odeio quando alguem interrompe quando eu falo. Enfim, vim aqui por alguns documentos importantes. Se voce encontrou algo, diga ou voce estara em apuros. Se voce nao encontrou nada, suma daqui e pare de me fazer perder tempo.</text>
+109|<text>Odeio quando alguem interrompe quando eu falo. Me de esses documentos se voce nao quiser se separar da sua vida.</text>
+112|<text>Vou me lembrar disso.</text>

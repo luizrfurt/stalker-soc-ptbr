@@ -1,0 +1,443 @@
+4|<text>Go on...</text>
+7|<text>So, your first fight? Your opponent is a piece of meat just like you. He's here because of debts and he only has two options: to come out and fight or to land himself in the nearest anomaly. He's gonna fight like a cornered animal. Equipment for today... lemme think... OK! Why don't you two use PMm's...two clips each should be plenty. Either you kick his arse or we feed you to the dogs - not much of a choice. Go on now.</text>
+10|<text>I'm ready.</text>
+13|<text>I'm not ready.</text>
+16|<text>Your last fight didn't mean shit. You're still the same piece of meat you were before and no self-respecting person will bet a single mag on you. If you wanna earn some proper cash you're gonna have to make a few more appearances in the arena. Your new opponent also got through the first round and his fight was a lot harder than yours. I don't like him, to be honest - he kills too quickly and the crowd doesn't like that. So, go and show us what you can do! The stakes will increase after this fight - all you gotta do is stay alive. Move it!</text>
+19|<text>I'm ready.</text>
+22|<text>I'm not ready.</text>
+25|<text>Well, well... You're not as much of a pussy as you first seemed. Now it's time to test you out in a real fight. You're up against two guys. The first one's called Swede and I don't remember the second one's name. They were paired up intentionally as they hate each other's guts so don't worry about them working as a team - they're more likely to shoot each other. Today is rifle day so don't let them get too close or we'll have to pick you up piece by piece. The odds are 10:1 so if you win you'll make a fair amount. Off you go!</text>
+28|<text>I'm ready.</text>
+31|<text>I'm not ready.</text>
+34|<text>Well, now I can safely say that you're a fighter, a real fighter. Now it's time for a team fight. You get to fight with two rookies - two brothers - on your side. They haven't fought yet but they're brothers, so I had to put them into a team fight. I wouldn't expect any real help from them if I were you. You're fighting an experienced team, they're contenders for the final this season. A dangerous lot. They use different weapons but one has an automatic shotgun - be very careful with him. Good luck, pal... you're gonna need it.</text>
+37|<text>I'm ready.</text>
+40|<text>I'm not ready.</text>
+43|<text>You've got a special fight today. Even the army has heard about you! Don't be surprised, they fight here too - there's even a general in the crowd. These guys are from the Spetsnaz or from OMON. They're well armed and their armor is good as you'd expect. Don't worry though, I ain't gonna leave you out in the rain, either. You'll get a vest used by Freedom - it's light so it won't slow you down. Go on, show them that stalkers ain't no whipping boys. Good luck!</text>
+46|<text>I'm ready.</text>
+49|<text>I'm not ready.</text>
+52|<text>Time for you to show what you can do. Duty captured a group of bandits that had been causing problems for stalkers near Rostok. Duty took 'em at night so most of the bandits were taken alive. They were all gonna be executed anyway so I convinced Duty to give them a chance. If any of them survive, they'll go in the can outside the Zone, which is better than dying here. They're not well-armed - just a few pistols and sawn-offs - but there's six of them so watch yourself. Go on now!</text>
+55|<text>I'm ready.</text>
+58|<text>I'm not ready.</text>
+61|<text>Well, you're almost in the final. Now you'll be fighting a real stalker. He's alone but he's got an FT 200M and he's inside an exoskeleton. Catch one burst and you're toast. There will be a surprise that I can't tell you about too... Here's my advice: be prepared, it's gonna be tough. The winner makes it through to the final. Fight to the death, go!</text>
+64|<text>I'm ready.</text>
+67|<text>I'm not ready.</text>
+70|<text>Congratulations, you're in the final! One more to go and this one is to the death, every man for himself. There will be 4 other stalkers in the arena: all real pros in exoskeletons with GP-37s but it's a fair deal this time - you'll get exactly what they have. The only thing is, you don't get medkits or bandages in a fight to the death. Ready? Go prove you're the best, GO!</text>
+73|<text>I'm ready.</text>
+76|<text>I'm not ready.</text>
+79|<text>Yo! I've got a new fight for you.</text>
+82|<text>Go have a drink or something. The Arena ain't ready yet.</text>
+85|<text>You've already become a pro!!!</text>
+88|<text>You won! Here's your reward.</text>
+91|<text>You're not experienced enough for this fight.</text>
+94|<text>Here is the flash drive professor Kruglov gave me.</text>
+97|<text>Good boy. I think Duty will be very grateful for this info. Here is your reward.</text>
+100|<text>Well, well. Information? Straight from professor Kruglov? You taking the piss or what? "I am professor Kruglov and I am deleting reports about our research for the sake of science and humanity..." And this is the info you were supposed to get!? Well, shit...I'm sure Duty will be "happy" about this.</text>
+103|<text>I accomplished my mission. Here is Tyran's PDA.</text>
+106|<text>Wow, Marked One. Great job! What can I say? You made me happy, man. I wasn't sure you'd manage, to be honest...but you're alive and they're not!</text>
+109|<text>What about my reward?</text>
+112|<text>Here. Your reward as promised.</text>
+115|<text>Here is Lucky's PDA. I did what you asked.</text>
+118|<text>Nice, Marked One. Great job! What can I say? You made me happy, man. I wasn't sure you'd manage, to be honest...but you're alive and they're not!</text>
+121|<text>What about the reward?</text>
+124|<text>You're a hero, man, a real hero. Here, that should make you happy.</text>
+127|<text>You got any special jobs?</text>
+130|<text>No, I ain't got nothing today.</text>
+133|<text>Cut to the chase. What do I have to do?</text>
+136|<text>No, I ain't got nothing today.</text>
+139|<text>I've got a serious mission. A group of veteran killers has showed up in the Wild Territory again. Some Duty people came to me and asked me to deal with these veterans. Duty has solid proof that they are responsible for the deaths of solo stalkers. The problem is that these veterans and Duty have some old agreement and Duty can't break it but these guys are really pushing it. Basically, Duty wants 'em taken out, nice and quiet. It ain't gonna be easy but the job is worth a lot of dough.</text>
+142|<text>Anything else? Seems strange that Duty is letting them get away with it.</text>
+145|<text>Duty values its reputation, which is why they need this thing done quietly. All you gotta do is kill their leader Lucky and bring me his PDA as proof.</text>
+148|<text>I'll do it. I hope I don't regret taking this on though.</text>
+151|<text>Good decision, man. There ain't nothing to regret about.</text>
+154|<text>No, I'm not up for it.</text>
+157|<text>Up to you but remember that this is a good opportunity to earn Duty's gratitude.</text>
+160|<text>Cut to the chase. What do I gotta do?</text>
+163|<text>Your mission is to kill Tyran, the leader of the Mercs. His crew made it into the Wild Territory and set up a base at the construction site. Be careful, some of their fighters have set up ambushes on the way to the site. Bring me Tyran's PDA and the reward is yours.</text>
+166|<text>I'll do it. I hope I don't regret taking this on though.</text>
+169|<text>Good decision, man. There ain't nothing to regret about.</text>
+172|<text>No, I'm not up for it.</text>
+175|<text>As you wish.</text>
+178|<text>No, I ain't got anything today.</text>
+181|<text>Your mission is to kill Tyran, the leader of the Mercs. His crew made it into the Wild Territory and set up a base at the construction site. Be careful, some of their fighters have set up ambushes on the way to the site. Bring me Tyran's PDA and the reward is yours.</text>
+184|<text>I'll do it. I hope I don't regret taking this on though.</text>
+187|<text>Good decision, man. There ain't nothing to regret about.</text>
+190|<text>No, I'm not up for it.</text>
+193|<text>As you wish.</text>
+196|<text>No, I ain't got anything today.</text>
+199|<text>Don't get carried away, Marked One. You are looking for more work but you haven't even dealt with the veterans yet...</text>
+202|<text>No, nothing today.</text>
+205|<text>I've got a serious mission. A group of veteran killers has showed up in the Wild Territory again. Some Duty people came to me and asked me to deal with these veterans. Duty has solid proof that they are responsible for the deaths of solo stalkers. The problem is that these veterans and Duty have some old agreement and Duty can't break it but these guys are really pushing it. Basically, Duty wants 'em taken out, nice and quiet. It ain't gonna be easy but the job is worth a lot of dough.</text>
+208|<text>Anything else?</text>
+211|<text>Duty values its reputation, which is why they need this thing done quietly. All you gotta do is kill their leader Lucky and bring me his PDA as proof.</text>
+214|<text>I'll do it.</text>
+217|<text>Good decision, man. There ain't nothing to regret about it.</text>
+220|<text>No, I'm not up for it.</text>
+223|<text>Up to you but remember that this is a good opportunity to earn Duty's gratitude.</text>
+226|<text>default text</text>
+229|<text>Your mission is to kill Tyran, the leader of the Mercs. His crew made it into the Wild Territory and set up a base at the construction site. Be careful, some of their fighters have set up ambushes on the way to the site. Bring me Tyran's PDA and the reward is yours.</text>
+232|<text>I'll do it.</text>
+235|<text>Good decision, man. There ain't nothing to regret about it.</text>
+238|<text>No, I'm not up for it.</text>
+241|<text>As you wish.</text>
+244|<text>No, nothing today.</text>
+247|<text>No, nothing today.</text>
+250|<text>No, nothing today.</text>
+253|<text>No, I ain't got anything today.</text>
+256|<text>Not yet, next time.</text>
+259|<text>I got a job for a pro.</text>
+262|<text>Cut to the chase. What do I gotta do?</text>
+265|<text>Your mission is to kill Tyran, the leader of the Mercs. His crew made it into the Wild Territory and set up a base at the construction site. Be careful, some of their fighters have set up ambushes on the way to the site. Bring me Tyran's PDA and the reward is yours.</text>
+268|<text>I'll do it. I hope I don't regret taking this on though.</text>
+271|<text>Good decision, man. There ain't nothing to regret about it.</text>
+274|<text>No, I'm not up for it.</text>
+277|<text>As you wish.</text>
+280|<text>No, not interested right now.</text>
+283|<text>No, I don't have anything today.</text>
+286|<text>No, I don't have anything today.</text>
+289|<text>No, I don't have anything today.</text>
+292|<text>No, I don't have anything today.</text>
+295|<text>No, I don't have anything today.</text>
+298|<text>Let's start. You ready?</text>
+301|<text>Hmm... Where did you come from?</text>
+304|<text>So, Marked One, you got the documents from X16?</text>
+307|<text>Yeah. Here.</text>
+310|<text>No.</text>
+313|<text>Damn it! Here I am, busting my arse while you're off wandering in the woods! Go get those damn documents or we won't make any progress!</text>
+316|<text>OK.</text>
+319|<text>Well, Marked One, now we just need to deal with the Scorcher and open the way North! You ready to go now?</text>
+322|<text>Yes.</text>
+325|<text>OK, Marked One, you’ve got the protective prototype so you’ll be safe from the emissions. I have the bunker coordinates. Don’t forget that the prototype won’t protect you forever, so you need to get to the bunker ASAP and turn off the Scorcher. I don’t know what will happen after that but I am sure it will be worth it. The only thing we can be sure of is that the road to the Zone’s center will be open.</text>
+328|<text>Go on.</text>
+331|<text>All we need to do is get to the antennas and disable them. Got it?</text>
+334|<text>Got it.</text>
+337|<text>Oh yeah, one last thing! The leader of Duty, I marked him on the map, needs a volunteer to carry out some sort of assignment at the military warehouses. If you're interested, you can drop by. I'll talk with the guards, they'll let you in.</text>
+340|<text>No, I'm not ready yet.</text>
+343|<text>Get ready, Marked One! This task can't wait!</text>
+346|<text>OK, the documents you brought from the Institute make some things a little clearer but we’re still missing the info we need to get a full picture. A lab designated X18 is mentioned and its description matches the abandoned underground vaults in the Dark Valley. Looks like you’ll have to go there and get the info we need. The lab is closed and you’ll need two electronic keys to get inside. I’ll give you one but you’ll have to get the other one from Boar in the Dark Valley.</text>
+349|<text>Go on.</text>
+352|<text>All you have to do is acquire the second key to Lab X18, get inside and retrieve the second batch of documents. Don’t forget to get yourself a protective suit or you won’t have a chance in hell of getting to the lab. So, will you do it?</text>
+355|<text>I'll try.</text>
+358|<text>Great! I'll be waiting.</text>
+361|<text>No, I don't want to do it yet.</text>
+364|<text>Up to you but remember: this is the only way that can help us open the road to the North.</text>
+367|<text>What do you want, Marked One?</text>
+370|<text>Hey, Marked One! Times change but you don't still grumpy and aloof. Here, take a seat, have a drink - might make you nicer...</text>
+373|<text>So, Marked One, you brought the documents from X18?</text>
+376|<text>Yeah. Here.</text>
+379|<text>Good, the situation is becoming clearer. As I expected this Brain Scorcher is man-made. It’s a Kaymanov experimental emitter and its components were made exactly in X18. These documents refer to lab X16 where they sent some components. According to this, X16 is located in the production complex area by Lake Yantar. The scientists have set up a mobile lab around there so maybe they can help.</text>
+382|<text>Go on.</text>
+385|<text>It ain’t simple. You need to get to the scientists and find out where X16 is so you can get the missing documents. So, you up for it?</text>
+388|<text>Yeah.</text>
+391|<text>Great! I'll be waiting.</text>
+394|<text>No, I'm not ready yet.</text>
+397|<text>Well get ready real quick Marked One! This sort of business can't wait.</text>
+400|<text>No.</text>
+403|<text>What are you wasting time for? Go get those damn documents or we won't make any progress!</text>
+406|<text>What do you want, Marked One?</text>
+409|<text>Hey, Marked One! Times change but you don't still grumpy and aloof. Here, take a seat, have a drink - might make you nicer...</text>
+412|<text>Hey, Marked One! Have you brought the documents from the Institute?</text>
+415|<text>No, I haven't got the docs from the Institute yet.</text>
+418|<text>That ain't good, Marked One, ain't good at all... You understand how much we need 'em, don'tcha? We need 'em bad, believe me. The Brain Scorcher is right under our noses but we don't even know what it is! Go get the documents right now - we'll talk after that.</text>
+421|<text>I think I understand.</text>
+424|<text>Here are the documents from the Institute.</text>
+427|<text>Great work, Marked One! We have the documents at last. I need to have a look at them now and maybe I’ll work out how to get North. While I do that, if you have problems with money, you can fight at the Arena. The owner of the Arena is Arni, I've uploaded his coordinates.</text>
+430|<text>OK.</text>
+433|<text>Now listen up!</text>
+436|<text>What do you want, Marked One?</text>
+439|<text>Hey, Marked One! Times change but you don't still grumpy and aloof. Here, take a seat, have a drink - might make you nicer...</text>
+442|<text>I want to know something.</text>
+445|<text>What is it?</text>
+448|<text>Thank you.</text>
+451|<text>What do you know about Strelok?</text>
+454|<text>An experienced stalker as far as I know. He used to "work" through the northern exits from the Zone. He was hardly ever seen here but there are rumours that he took his group right into the center of the Zone.</text>
+457|<text>What do you know about a stalker they call Ghost?</text>
+460|<text>He's one of Strelok's men. They say he can sneak in anywhere without being noticed. I heard that he took out the leader of some crazy group... what was the name? Ah, 'Final Day', that's the one. They were pretty wild those boys... Oh, by the way, I heard that Ghost is doing some job for the scientists, so if you're looking for him try by Lake Yantar at the mobile lab.</text>
+463|<text>He's an old stalker in retirement. He lives in the marshes, I'll mark it on the map for you. He used to be in Strelok's group back in the day.</text>
+466|<text>What do you know about a stalker called Fang?</text>
+469|<text>There was a man that went by that name, spoke with a lisp... He was a bit weird, that's for sure - talked to himself and stuff...but he seemed like an okay guy. I haven't seen him at the Bar for ages.</text>
+472|<text>Tell me about the mobile science labs.</text>
+475|<text>Scientists set them up from time to time. Isolated metal bunkers with everything you need to live. We're in contact with one of these labs in Yantar. Scientists are good guys - they tell us a lot of interesting things and we help them out when we can... An exchange of sorts...</text>
+478|<text>What is the wish granter?</text>
+481|<text>Oh! That's an interesting question... I wish I knew the answer. I can tell you the legend about the Granter if you want but you make up your own mind how much truth there's in it. Wanna hear it?</text>
+484|<text>Well, that's very interesting.</text>
+487|<text>This legend is about the Monolith, which may be what caused the Zone to appear. When the Zone exploded in 2006, they evacuated people living near it and the Zone itself was cordoned off by the Army. Everyone was panicking, nobody knew what was going on, the Zone was expanding and the field labs couldn't do anything! Loads of people died there. Everyone was afraid of the radiation which could affect half of Europe. After a few years had passed, some reckless guys like you appeared. They called themselves stalkers. They started to sneak past army cordons believing that there are things in the Zone that would make them rich. Bit by bit, they brought out weird things, artifacts and which eventually turned out a race for them. Scientists went after them like crazy. They paid fantastic money for just one trinket back then, not like now.</text>
+490|<text>Go on...</text>
+493|<text>After a while, the first tales and legends about what's deep inside the Zone by the tumbledown nuclear power plant started to circulate. It was also then that one of the veterans told us the story of Monolith that allegedly grants your wishes. You should have seen the hysteria: experienced, level-headed men started trying to break through to the center - everyone wanted something from the Monolith. We got some morbid details about the first stalker who made it through to the Monolith...</text>
+496|<text>Go on... tell me more.</text>
+499|<text>When the Zone had just appeared many people were trapped inside and cut off from the outside world. Most of them died pretty quickly but there were a few lucky survivors who tried to do something about it. One of these survivors found himself by the station and noticed some strange light inside. With no way back he decided to try to get closer. He saw the broken roof of the sarcophagus and the light coming out through it. He climbed up the wall and looked inside. Among the debris of metal and molten concrete there lay a massive black rock. It was the Monolith. The stalker managed to shake off the "spell" and realised that he had climbed very close to the sarcophagus, which was highly radioactive. He was scared to death but through the fear he could sense the Monolith calling to him. The Monolith called to him and he came to see strange, unbelievable things about the Monolith inside his head...</text>
+502|<text>Cool...</text>
+505|<text>I don't know what's true in this story and what's not but the point is the guy made a wish which came true, while the Zone grew by 5 kilometers. It seems the Zone gobbles up more land for every wish that is granted... But that ain't gonna stop hotshots like you. They keep trying to break through with their precious little wishes in their hearts...</text>
+508|<text>I am more interested in other things at the moment.</text>
+511|<text>It's your business, man. What exactly do you want to know?</text>
+514|<text>Hic... damn it! Yes, I'm drunk, I'm drunk! They wanna...they... wanna kick me out of Duty if I fail this task too...you know? But I'm not...hic...not feeling too...hic...good at the moment...you know...</text>
+517|<text>I feel for you.</text>
+520|<text>What's up? Any news? You haven't whacked the little piece of shit, I can see it in your eyes. Life sucks... Listen, at least have a drink with me, will you, friend?</text>
+523|<text>Maaan...hic...you... you... you helped me! Let's drink to Duty... I guess! And...Oh!</text>
+526|<text>I found it. Here is your rifle.</text>
+529|<text>Wow?! You found my rifle?! I'm lost for words, man! Thank you so much! THANK YOU! I'm so grateful! You really helped me out there, you really did. Goddamn. Here take this - it ain't much but it's all I got. I won't forget your help and I hope to repay you in time. Listen, I'll tell you something. There's a weird boarded-up house near that place you found my rifle. Nobody knows what's really inside it but you can see through the windows that there are anomalies there, lots of them. There might be artifacts in there too... I don't know how to get there though.</text>
+532|<text>Go on.</text>
+535|<text>I'll give you anything! Just return my rifle, I beg you. I lost it by that place where those damn bloodsuckers live. Here are the coordinates. Be careful though. Bloodsuckers aren't the friendly kind.</text>
+538|<text>OK, I'll try to get your rifle.</text>
+541|<text>I won't cheat you.</text>
+544|<text>It's in your interest.</text>
+547|<text>No. I've got more important things to do.</text>
+550|<text>Up to you... but I hope you change your mind.</text>
+553|<text>We'll see.</text>
+556|<text>I've got a big problem man! I... I lost my family rifle in the Wild Territory. I wanted to shoot some bloodsuckers but I barely got away. Damn! Listen, bro'... if you get it back I'll pay you. I've made a little cash here and I'll give you all of it, just get my rifle back. It's a family rifle, you know, passed down from father to son... And I lost it! I've grown used to it, it's like an extension of my arm now...</text>
+559|<text>Hey! Any news? Did you find it?!</text>
+562|<text>Thanks bro'! I'll never forget that you helped me!</text>
+565|<text>Wolfhound said you've got something for me.</text>
+568|<text>Sure. Here is a grenade launcher for helping him with Kruglov, and 1000 cash on top. I'll give you some useful info for free to sweeten the deal too.</text>
+571|<text>Thank you.</text>
+574|<text>Here's what I got to say. You helped Freedom and made the right choice. Your fate is now tied with that of Freedom, and Duty has you in its sights. I'd say you oughtta go to the abandoned military base and join the ranks of Freedom - they need good fighters. There will be shootouts between the groups soon and whoever chooses the right side won't regret it.</text>
+577|<text>I work as a dealer of information. I sell important info and buy charts, documents and lab records. My information is valuable and very useful to the one who possesses it!</text>
+580|<text>Hello, Marked One. You helped Freedom and made the right choice. Your fate is now tied with that of Freedom and Duty has you in its sights. I'd suggest you go to the abandoned military base and join Freedom - they need good fighters.</text>
+583|<text>I'll think about it.</text>
+586|<text>So Marked One, what brings you here? Wanna buy some info or are you selling today?</text>
+589|<text>So you're connected with Freedom then?</text>
+592|<text>I can't answer that question right now. All I can say is that I am not a member of any group.</text>
+595|<text>Tell me about the Freedom faction.</text>
+598|<text>Sure, no problem! Freedom is one of the oldest groups in the Zone and the only one that openly opposes government troops and research teams. Its founders are dead - they were killed during a big bloodbath after the army dropped a large assault force in the Zone but the ability to control the Zone from outside was destroyed at the same time. There is some evidence to suggest that the first Zone was used as a secret army weapons' testing site . If that's true, they must have used some powerful shit.Anyway, what was I saying...? Oh yeah, Freedom is the only group that is trying to stop the government from gaining control over the testing site again. God knows what will happen if they start testing their shit again, so Freedom is trying to hold out at all costs.</text>
+601|<text>What about Duty?</text>
+604|<text>Duty is basically controlled from the outside by the government. Their current objective is to clear the territory of mutants and destroy Freedom, which is what they are doing at the moment. When the time is right, they will drop a large assault force in the Zone and take control of the area.</text>
+607|<text>Thanks for the information</text>
+610|<text>I want to buy some information.</text>
+613|<text>Right now, I can sell you information about Strelok's group virtually for nothing - 4000 roubles.</text>
+616|<text>OK, I'll take it. Here's 4000.</text>
+619|<text>It's located by the Agroprom Research Institute, there's a stash in the underground. It probably contains information about the group's plans and a list of group members. The coordinates of the stash are attached.</text>
+622|<text>No, I changed my mind.</text>
+625|<text>Up to you. Come to the bar when you decide otherwise - I'm always here.</text>
+628|<text>Right now, I have some information about a group that made it to the center of the Zone. I'm practically giving it away - only 2000 roubles.</text>
+631|<text>OK, I'll buy it. Here's 2000.</text>
+634|<text>Strelok, Ghost and Fang went to the center of the Zone. What they found there, no one knows, but Strelok went missing while Ghost and Fang came back distraught.The latest news on Ghost is that he went to the mobile lab by Lake Yantar. Coordinates of the scientists' camp are attached.</text>
+637|<text>No, I changed my mind.</text>
+640|<text>Up to you. Come to the bar when you decide otherwise - I'm always here.</text>
+643|<text>I've got some information about the secret of Lake Yantar. The price is just 3500 roubles - any less and I'd be paying you!</text>
+646|<text>Okay, I'll buy. Take 3500.</text>
+649|<text>The secret of Lake Yantar is similar to the secret of the Brain Scorcher and their effects are similar in many ways. Some kind of emission zombifies all who come in contact with it. The zombified stalkers move around the center of some emitter, attacking everyone. There is information to suggest that the solution to the riddle of Lake Yantar is below ground. Here are the coordinates of the emitter at Lake Yantar and those of the Brain Scorcher.</text>
+652|<text>No, I changed my mind.</text>
+655|<text>Up to you. Come to the bar when you decide otherwise - I'm always here.</text>
+658|<text>I don't have any new information at the moment.</text>
+661|<text>...it's about time someone whacked Borov! If I knew who it was, I'd buy him a drink.</text>
+664|<text>Yeah, it was about time.</text>
+667|<text>...someone really pissed off Freedom: I heard one of their groups was destroyed in the Wild Territory...I wonder who did it?</text>
+670|<text>Yeah, I wish I knew...</text>
+673|<text>...finally someone had the balls to clear out the bloodsuckers in the Wild Territory... What was Duty doing all this time?</text>
+676|<text>What was Duty doing? They were doing Freedom, what else?</text>
+679|<text>...I heard someone whacked the leader of Freedom. They're in for some tough times I think. Duty is gonna really put a squeeze on 'em...</text>
+682|<text>Let's hope so.</text>
+685|<text>So you wiped out those veterans? Well done, friend! Six stalkers went missing in that area recently...we all suspected those mad veterans. It's a good thing that they've been dealt with.</text>
+688|<text>Yeah, many people wanted those veterans to "leave".</text>
+691|<text>You turned off the emissions at Yantar? Wow...you're a lucky nut, damn it, I'm glad that someone finally managed to deal with that thing! You can't imagine how many of our boys died there... but now the scientists will work out what it was. We might even be able to deal with the Scorcher now...</text>
+694|<text>I want to believe that the Scorcher can be switched off.</text>
+697|<text>What do you want? Don't you see, I'm trying to relax here...</text>
+700|<text>What's new?</text>
+703|<text>I hear Strelok came back. He's got all the equipment you need to get to the Machine... He's hiding now though 'cause a lot of people are after him. Some are open about it while others are trying to keep their interest a in secret. Rumour has it even Duty and Freedom have joined the hunt... each with their own agenda.</text>
+706|<text>Looks like Strelok is right to hide.</text>
+709|<text>What do you want?</text>
+712|<text>Can you tell me anything that would be useful to a rookie?</text>
+715|<text>Useful to a rookie? Well, listen up. To the North, not far from the Brain Scorcher, Freedom have set up their HQ in an old military base. They're notorious nihilists, anarchists and criminals - freedom fighters, freaking guerrillas all of them. All they do is sabotage research groups, attack army units and constantly skirmish with Duty. These skirmishes are now spilling over into a small-scale war for survival. Let me give you some advice: never get involved with them. They'll only accept you if you're totally crazy and there's a reward on your head. Ha-ha-ha. Can you believe that?</text>
+718|<text>Thanks for your advice.</text>
+721|<text>What do you want?</text>
+724|<text>Can you tell me anything that would be useful to a rookie?</text>
+727|<text>Well, there used to be this group led by Strelok. There were all sorts of legends about it going around the Zone...good and bad, but few people really knew the truth. The truth is that they wanted to deal with the Zone, find out what created it. That's why military stalkers were after them but they didn't know where to look. The government didn't want normal stalkers to know things they shouldn't have known. One day Strelok found something really important and made a move towards the center of the Zone with some of his boys. Half of the group died on the way but the rest made it through... What happened to them there - no one knows. Looks like they've copped it. The other group members were caught and killed off... I don't think there are any of them left now. Sad story, eh?</text>
+730|<text>Yeah... looks like someone really doesn't want the Zone to be understood...</text>
+733|<text>What do you want?</text>
+736|<text>Can you tell me anything that would be useful to a rookie?</text>
+739|<text>Mercs are kinda like Freedom, only worse. At least Freedom have some ideals, but these dogs, they'll do anything for money. Someone really needs to kill 'em all before they drag something really dangerous out of the Zone into the normal world! They're based in the Dead City and there's a sniper in every tall building, understand? They're not keen on strangers.</text>
+742|<text>I see. Looks like you have to be careful in the Dead City.</text>
+745|<text>What do you want?</text>
+748|<text>Can you tell me anything that would be useful to a rookie?</text>
+751|<text>If you haven't been in the Arena, I'd recommend it - it's a good way to make money and show everyone what you can do. Not everyone has the balls to fight the next monster and that's a pity! Man, as soon as I save up enough cash for decent armor, I'm there.</text>
+754|<text>What do you want?</text>
+757|<text>Are you Baldy? I need to talk to you.</text>
+760|<text>Suppose I am. What do you want?</text>
+763|<text>Spotty got saved from the Red Forest, but Hunchback is dead.</text>
+766|<text>Dammit!</text>
+769|<text>Spotty is in bad shape, his brain doesn't work anymore. Maybe you can talk to him? We need to find out the Scorcher's schedule.</text>
+772|<text>No! Don't ask me to do this. Hunchback is dead 'cause of me and what happened to Spotty is my fault too. I left them, betrayed them, deserted them and ran away! I can't look Spotty in the eyes after what I did!</text>
+775|<text>C'mon, chill man. Tell me what happened.</text>
+778|<text>The three of us were getting ready to try to get through to the North. We didn't know when the Scorcher emissions were lower but Spotty managed to get the info somewhere...I don't know where... We were half-way through the sector, when the Scorcher suddenly switched on again. Spotty passed out straight away and fell down the hillside. I panicked and said that we should leave everything and go back. Hunchback managed to pull himself together and said that we had to get Spotty out... I said "You're an idiot, don't you wanna live? It's over for him, how are we gonna carry him all the way back?" Just as he managed to convince me and started to climb down to get Spotty... another wave came. By the time I came to my senses I was by the military base... I thought Hunchback and Spotty stayed there... but Hunchback got him out and didn't make it himself... he got him out...</text>
+781|<text>OK, Baldy, OK. Calm down, man. Thanks for telling me what happened. I'll talk to Spotty myself.</text>
+784|<text>Sorry. I'm not in the mood for talking... I'd rather just have another drink.</text>
+787|<text>What do you want?</text>
+790|<text>What's new?</text>
+793|<text>There was a guy... He had a lisp and walked with a stoop so he got the name Hunchback. He was a bit crazy...talked to himself and to animals... but apart from that, he was alright. He disappeared a long time ago in the center with Strelok... they say Strelok is back now.</text>
+796|<text>I wonder where he is now.</text>
+799|<text>What do you want?</text>
+802|<text>What's new?</text>
+805|<text>The Wild Territory is infested with bloodsuckers now! They come out at night. I heard there's something really important at the factory that's nearby, something essential to someone. Duty sent some guys in there recently but they all died and their screams were heard kilometers away.</text>
+808|<text>Thanks for the information.</text>
+811|<text>What do you want?</text>
+814|<text>What did you hear?</text>
+817|<text>If you go around Lake Yantar you'll come to the scientists' camp - they're do research of some sort there... They were dropped in by helicopter and they get regular supplies too. They've got a nice spot there really... You can deal with them too - they buy artifacts and might even give you a job to do.</text>
+820|<text>Thanks for the information.</text>
+823|<text>What do you want?</text>
+826|<text>What did you hear?</text>
+829|<text>Nobody has managed to get through the vehicle scrapyard because of the Brain Scorcher. Some people did see a stalker go through the invisible border, fall over, then get up in a couple of minutes and head straight for the center of the scrapyards. He ain't been seen since...</text>
+832|<text>Interesting...</text>
+835|<text>What do you want?</text>
+838|<text>What did you hear?</text>
+841|<text>Missing stalkers come back from time to time. It's a scary sight, I tell you: they mumble something and reach for their weapons, which they lost somewhere... One came to a Duty outpost some time ago and a crowd gathered to look at him. Someone even recognized him... He was scary...red eyes, all bloodshot and bruised...couldn't say a word, just moaned like an animal and went around in circles. Duty took him in, but he died after a couple of days anyway. Something happens to people in the Zone, but what is it?</text>
+844|<text>I'd like to know too.</text>
+847|<text>What do you want?</text>
+850|<text>What did you hear?</text>
+853|<text>There are a lot of zombies around Lake Yantar. They wander around and attack any human they see. If you're spotted you might wanna run for your life - there are too many of them former stalkers around there... They died at the lake and that's all that's left of 'em.</text>
+856|<text>Yeah, I wouldn't want to join them.</text>
+859|<text>What do you want?</text>
+862|<text>What did you hear?</text>
+865|<text>Traders say that there's a real treasure trove of artifacts in the center of the Zone, so anyone who makes it through will make enough money for two lifetimes. Personally, I think there's more to this. Obviously the traders think about their own interests, but there are strange rumours going around. Apparently, there's something better than artifacts there - something that ain't from this world, something alien or from another dimension altogether! They call it the Wish-granting machine. I heard a legend about a stalker who made it through. Only every time someone makes a wish the Zone grows and nobody who gets there uses his wish to make it disappear. I guess when you get to the Machine you don't give a shit about anyone else.</text>
+868|<text>That's sad.</text>
+871|<text>What do you want?</text>
+874|<text>What did you hear?</text>
+877|<text>Everyone who believes in the Monolith is completely nuts. They keep banging on about it but nobody actually knows what's in the center of the Zone. An invisible crystal that fell from the skies...ha-ha-ha! I reckon one of the secret labs blew up - I mean some stalkers used to work in a few of them. But, obviously, you can't bomb the Zone. Not only will the radiation spread all over the world, half of Europe would be flattened by the Zone's reaction. "Someone" has gone totally mad lately - I heard they're killing normal stalkers for no reason at all. How do you like that? Damn fanatics.</text>
+880|<text>I think it deserves some attention.</text>
+883|<text>I want to join Duty. What do I need to do?</text>
+886|<text>Pay 1000 roubles. You'll get a pass. Take that to Voronin in the bunker and he'll arrange a test for you.</text>
+889|<text>OK, here's the money.</text>
+892|<text>Right, here is your pass. Go see Petrenko, the administrator. I've marked it on your map.</text>
+895|<text>No, I changed my mind.</text>
+898|<text>Your choice, man. See you.</text>
+901|<text>Because there is no place for those Freedom bandits in the Zone - they must be destroyed. If you're interested, go ask the Barkeep to explain everything. I'm busy.</text>
+904|<text>Pay 1000 rubles and you'll get a pass. Take that to the Duty administrator and he'll arrange tests for you.</text>
+907|<text>OK, here's the money.</text>
+910|<text>Right, here is your pass. Go see Petrenko, the administrator. I've marked it on your map.</text>
+913|<text>No, I changed my mind.</text>
+916|<text>Your choice, man. See you.</text>
+919|<text>Barkeep told me that your leadership has some sort of assignment for me.</text>
+922|<text>Yes, he let us know about you, but before we let you in I want to brief you on our rules. So listen, our rules are simple. First rule - it's forbidden to shoot on our territory. If you break the rule twice, our patrol will open fire on you. Even if you make a run for it, you won't appear on our territory again - our guards will make sure of that. If you act calmly, you won't have any problems.</text>
+925|<text>Got it. Anything else?</text>
+928|<text>Yes, that's enough. You can pass.</text>
+931|<text>Got it. Anything else?</text>
+934|<text>That's about it. If you want to try to join Duty, feel free. We need good men but I'm warning you: before being accepted, you'll have to do a few dangerous jobs. We don't need pussies so everyone is tested.</text>
+937|<text>Halt! Outsiders aren't allowed in the Duty base!</text>
+940|<text>What are you standing there for? Keep moving.</text>
+943|<text>Go on, bro. Remember: Duty's mission is to cleanse.</text>
+946|<text>Why don't you let outsiders in?</text>
+949|<text>Where did you naive boys come from? There's a war going on, right? We’re fighting Freedom bandits! We have regular skirmishes with their fighters in the Wild Territory.</text>
+952|<text>A war with Freedom? Why?</text>
+955|<text>Because there is no place for those Freedom bandits in the Zone - they must be destroyed. If you're interested, go ask the Barkeep to explain everything. I'm busy.</text>
+958|<text>Halt! Only members can go in there! We can't let you inside the bunker without a special pass. If you want to get one go see Colonel Petrenko. He's in the administration area across the yard.</text>
+961|<text>What are you standing there for? Keep moving.</text>
+964|<text>Go on. Remember: Duty's mission is to cleanse.</text>
+967|<text>What do you want?</text>
+970|<text>I'm listening.</text>
+973|<text>Hello, friend.</text>
+976|<text>What can I do for Duty?</text>
+979|<text>That's a good question, Marked One and there's an equally good answer to it - kill Freedom anarchists. You'll get a reward for every PDA of theirs you bring and you might get promoted too. Take all the PDAs you get to Petrenko - he gives out the rewards.</text>
+982|<text>Barkeep told me that you have some assignment for me at the military warehouses...</text>
+985|<text>I want to ask you to do one thing, personally for me, you see? We're in the midst of territorial warefare with the Freedom faction and we need some weapons more powerful than what we have. Freedom has some excellent Bulldog 6 granade launchers. If you could penetrate their territory and steal at least one such granade launcher, I would generously reward you. Since you aren't in our faction, you can quickly gain the trust of Freedom and, if you're lucky, get a hold of the Bulldog 6.</text>
+988|<text>Go on.</text>
+991|<text>I'll upload the location of the Freedom base for you. You'll need to find the Chef. He's a member of Freedom. He knows where the RG-6s are kept. And he likes his booze so bring a lot of vodka with you. So, what do you say?</text>
+994|<text>OK, I'll try to steal an Bulldog 6 from Freedom.</text>
+997|<text>Oh, and one more thing. Colonel Skull and his boys disobeyed my order and decided to attack the Freedom base without authorization. Well, they can reap what they sow... suicidal bastards. Don't get involved in their fight. Just try to get me the Bulldog 6 - nothing else matters.</text>
+1000|<text>I'm not ready for such exploits just yet.</text>
+1003|<text>Up to you.</text>
+1006|<text>I am ready to swear the oath.</text>
+1009|<text>Good man! Repeat after me: "I, a stalker known as the Marked One, swear to defend the goals and ideals of Duty."</text>
+1012|<text>I, a stalker known as the Marked One, swear to defend the goals and ideals of Duty.</text>
+1015|<text>To protect the Earth from the dangers of the Zone, to seek out and destroy anything it spawns within and beyond its borders.</text>
+1018|<text>To protect the Earth from the dangers of the Zone, to seek out and destroy anything it spawns within and beyond its borders.</text>
+1021|<text>To fight any nonconformists, be they individual stalkers or groups.</text>
+1024|<text>To fight any nonconformists, be they individual stalkers or groups.</text>
+1027|<text>And to give my life in the name of justice and order on Earth!</text>
+1030|<text>And to give my life in the name of justice and order on Earth!</text>
+1033|<text>Congratulations! You are now a full member of Duty.</text>
+1036|<text>I completed the mission. I brought the Bulldog 6.</text>
+1039|<text>Good work, stalker. This is exactly what we need. Well, Marked One, you carried out my request, and in return you can take this suit. I think you'll like it.</text>
+1042|<text>I'm listening.</text>
+1045|<text>What brings you here, brother?</text>
+1048|<text>You brought the Bulldog 6?</text>
+1051|<text>Yes, here is the Bulldog 6.</text>
+1054|<text>Good work, stalker. This is exactly what we need. Well, Marked One, you carried out my request, and in return you can take this suit. I think you'll like it.</text>
+1057|<text>What brought you to me, brother?</text>
+1060|<text>The war with Freedom is coming to an end, Marked One. You played your part in fighting for the cause and now I want to finish this war. I want you to kill the Freedom leader.</text>
+1063|<text>What brings you here, brother? You killed the leader of those Freedom anarchists and their group has crumbled. The war is not over but its outcome is certain. Your achievements are great and they will not be forgotten.</text>
+1066|<text>Hello, stalker. Join Duty! We need good fighters! I only joined recently and look at the cool uniform they gave me!</text>
+1069|<text>Hello, Marked One. I'm glad you're with us. Duty is really going to need good fighters soon.</text>
+1072|<text>Hey, fellow stalker.</text>
+1075|<text>Tell me about Duty.</text>
+1078|<text>We've been here since the beginning. The first group was made up of the surviving members of special units sent into the Zone to find out what caused it to appear. We found ourselves in pretty dire circumstances. After half of the unit died horribly, those who survived swore that they wouldn't leave here until they understood what is going on in the Zone..  until they defeat it.</text>
+1081|<text>Tell me about Freedom.</text>
+1084|<text>They're thugs who don't understand that the Zone is an ulcer on Earth's body. They want to spread it all over the world, a piece in every household. They'll do anything to achieve that goal and I can't wait to put an end to it.</text>
+1087|<text>You want to defeat the Zone?</text>
+1090|<text>Yes and we manage to a large degree. During the cleaning operations, whole swarms of mutants on the way to the Zone's center are destroyed.</text>
+1093|<text>Thank you.</text>
+1096|<text>I'm listening.</text>
+1099|<text>How can I help?</text>
+1102|<text>Hello brother! What brings you to me?</text>
+1105|<text>What do you want?</text>
+1108|<text>Go on, keep moving. What are you staring at?</text>
+1111|<text>Hey man! I'm glad you haven't been eaten by mutants yet.</text>
+1114|<text>There was a massacre by the outpost. What happened?</text>
+1117|<text>That's the last wave of mutants that came before the blowout. It's quiet for three or four days and then there's another wave. If not for us, there'd be no Bar, there'd be no Duty; we're the last barrier in the way of these crazy mutants. A lot of our boys met their end here.</text>
+1120|<text>I'd like to know something.</text>
+1123|<text>What do you want to know?</text>
+1126|<text>It's my first time here. Could you tell me a little about this place?</text>
+1129|<text>Before the accident in '86 this was an industrial area. As you can see, there ain't much left of it now... In the basement by the hangar you'll find the 100 Rads bar. The place is run by the local trader who doubles up as a barman. If you want to trade, talk, get a mission or find out the latest news, that's the place to go. There's also the Arena where you can fight and make some cash. Duty's base is not far from the Arena. If you want to join Duty go straight over there - they'll tell you who to speak to. Oh, by the way, all of this area is protected by Duty so behave and keep your weapons holstered. If you start shooting, the patrol will "calm you down" pretty quickly.</text>
+1132|<text>You said there's a bar here. Can you tell me where exactly it is?</text>
+1135|<text>In the basement behind the hangar...I'll mark it on your map.</text>
+1138|<text>Thanks for the information.</text>
+1141|<text>You said the Duty base is here. How do I get to it?</text>
+1144|<text>It's not far from the Arena. I've marked it on the map for you.</text>
+1147|<text>Thanks for the information.</text>
+1150|<text>You said there's an Arena here? Where exactly is it?</text>
+1153|<text>Go out of the hangar with the broken roof and you'll end up right in front of it. I'll mark it on your map.</text>
+1156|<text>Thanks for the information.</text>
+1159|<text>Thanks for the information.</text>
+1162|<text>I'm here on business.</text>
+1165|<text>I take it you want something from me.</text>
+1168|<text>I shot down a pig on my way here. They say it's a valuable one.</text>
+1171|<text>I heard you shot Borov. You deserve to get some cash and a decent gun for that. Do your new weapon justice!</text>
+1174|<text>Don't you worry about that.</text>
+1177|<text>I had a little "chat" with Tyran of Freedom. Basically, he understood his mistake and promised to behave in the future. I'm pretty sure he won't be breaking his word - the dead don't lie.</text>
+1180|<text>Tyran was a real pain in the ass for us! I'm glad you terminated him. Here is your reward - an S14 Thunder, our trademark weapon.</text>
+1183|<text>Not bad. I'm off to do more of the same. See you.</text>
+1186|<text>Didn't Voronin tell you anything?</text>
+1189|<text>Wow, congratulations! It's quite an achievement to kill Freedom's leader. Man, I wish I was as tough as you.</text>
+1192|<text>Get plenty of exercise, eat your veggies, and listen to your mother. Thanks for the new equipment. I'm off.</text>
+1195|<text>I'd like to know something.</text>
+1198|<text>What do you want to know?</text>
+1201|<text>Who are you and how did you end up here?</text>
+1204|<text>My name is Kruglov. I am a professor of biology, I study the Zone. Yesterday, for example, I found an animal of particular interest - Antropomorphus Dendromutantus Vulgaris. I mostly find and document new species of mutant animals, their traits and distinctive features. The information is then thoroughly studied and transferred to the outside world. Some of it, of course, goes to the Barkeep. My discoveries have helped to save the lives of many stalkers. I was just transporting the results of my latest research to the laboratory near Lake Yantar when the helicopter came under fire.</text>
+1207|<text>Tell me about the Zone.</text>
+1210|<text>The Zone is a wonderful gift to humanity. Of course normal existence here is not possible due to the high radiation levels, and aggressive mutants. All of these things are obviously extremely dangerous but they are also things of great scientific value. The Zone is almost a natural experiment, a treasure for scientists! The extent to which humanity's knowledge could be increased through the study of the Zone is unfathomable. Technology, medicine, new plants- medical and edible, biotechnology, cures for incurable diseases...anything! Perhaps we can solve the food problem for the entire planet. If people didn't interfere, science could lead humanity into a new Golden Era!</text>
+1213|<text>Duty thinks otherwise and even Freedom doesn't seem to want to help you.</text>
+1216|<text>You're simply incapable of grasping the whole picture. Your "here and now" problems are far more important to you than the future of humanity!</text>
+1219|<text>Maybe there is some use in studying the Zone.</text>
+1222|<text>So you understand that too? It's wonderful to discover that there are those among you who are not narrow-minded practical people. I've always said it's important to look at the whole set of issues from a broader perspective, to distance ourselves from the simple human measures. Even if the Zone has done harm to humanity, it can still be of great use to us!</text>
+1225|<text>Why are Mercs looking for this information?</text>
+1228|<text>I hope this doesn't offend you, but many stalkers are like children. They are seriously affected by things they find out. Just think of all these legends about a Monolith that grants wishes. What a joke! The problem is that these children play their games with real weapons and cause death. Childish people are often annoyed about the fact that someone doesn't share everything with them, including information that is not meant for them. There are no limits in the use of force. They shoot without thinking and kill those who study the Zone. They believe that this information will allow them to open the way to the center of the Zone. They're fools, dangerous and naive fools!</text>
+1231|<text>I am looking for Lab X16. Could you tell me where it is?</text>
+1234|<text>Lab X16? Hmm... Sakharov mentioned something of the sort in passing but I do not recall exactly what he said. Perhaps it's best to ask him yourself... He's currently in the mobile lab by Lake Yantar.</text>
+1237|<text>Unfortunately I have to go. Good luck.</text>
+1240|<text>Marked One, stop them or they'll kill us!</text>
+1243|<text>Sit tight. We'll deal with them.</text>
+1246|<text>OK.</text>
+1249|<text>Let's move. We'll try to break through...</text>
+1252|<text>Let's hurry up.</text>
+1255|<text>Stalker, I'm begging you! We were returning from Yantar when the Mercs shot down our helicopter. I heard that they are looking for information but I know they'll kill us. Help me get to the lake and I'll tell you everything I know about what you call the Brain Scorcher. The Barkeep will pay you well.</text>
+1258|<text>OK.</text>
+1261|<text>Thank you, stalker. I am not much of a fighter but I know the way so I'll lead and you cover us.</text>
+1264|<text>No. Try to get out of here yourself.</text>
+1267|<text>No. I am sure you don't mean that. I'll never make it out of here alone. If you change your mind, I'll be here...if I live.</text>
+1270|<text>Hurry, we have to get out of here quickly.</text>
+1273|<text>Phew! Have we really made it to safety? At last! Thank you so much for your help. I am in your debt but for now please accept this flash drive. It contains the results of my latest expedition. I am sure the Barkeep would pay well for it.</text>
+1276|<text>Yes, we're here.</text>
+1279|<text>Marked One, if you visit our mobile laboratory, we will give you a scientific suit.</text>
+1282|<text>We'll see.</text>
+1285|<text>Hello, stalker. Allow me to express my gratitude on behalf of global science!</text>
+1288|<text>Marked One, stop them or they'll kill us!</text>
+1291|<text>Sit tight. We'll deal with them.</text>
+1294|<text>OK.</text>
+1297|<text>Let's move. We'll try to break through...</text>
+1300|<text>Let's go.</text>
+1303|<text>Marked One, stop them or they'll kill us!</text>
+1306|<text>Sit tight. We'll deal with them.</text>
+1309|<text>OK, I'll wait here.</text>
+1312|<text>Let's move. We'll try to break through...</text>
+1315|<text>OK, let's hurry.</text>
+1318|<text>Be careful with the Burner, Marked One. My suit will protect me but you'd best avoid it.</text>
+1321|<text>Thanks for your advice.</text>
+1324|<text>Hurry, Marked One. Now is not the time to talk.</text>
+1327|<text>Stalker, talk to professor Kruglov, help him get out.</text>
+1330|<text>It's over. They killed Kruglov!</text>

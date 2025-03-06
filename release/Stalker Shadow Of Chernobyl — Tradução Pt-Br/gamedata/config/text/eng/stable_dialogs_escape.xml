@@ -1,750 +1,750 @@
 <?xml version="1.0" encoding="windows-1251" ?>
 <string_table>
 	<string id="esc_bridge_soldiers_start_11">
-		<text>This area is off limits, stalker.</text>
+		<text>Esta area e proibida, stalker.</text>
 	</string>
 	<string id="esc_bridge_soldiers_start_12">
-		<text>But I need to go there.</text>
+		<text>Mas eu preciso ir la.</text>
 	</string>
 	<string id="esc_bridge_soldiers_start_13">
-		<text>Tough luck. Unless you REALLY need to go, then the price is 500.</text>
+		<text>Que azar. A menos que voce REALMENTE precise ir, entao o preco e 500.</text>
 	</string>
 	<string id="esc_bridge_soldiers_start_14">
-		<text>Here you are.</text>
+		<text>Aqui esta.</text>
 	</string>
 	<string id="esc_bridge_soldiers_start_15">
-		<text>Now listen up. We'll pretend for a moment it's nothing but mosquitoes and butterflies around here. What happens beyond this point is your own damn business.</text>
+		<text>Agora escute. Vamos fingir por um momento que nao ha nada alem de mosquitos e borboletas por aqui. O que acontece alem deste ponto e problema seu.</text>
 	</string>
 	<string id="esc_bridge_soldiers_start_21">
-		<text>Alright, keep moving! Get your ass outta here, before we change our mind.</text>
+		<text>Tudo bem, continue andando! Tire sua bunda daqui, antes que mudemos de ideia.</text>
 	</string>
 	<string id="esc_bridge_soldiers_start_24">
-		<text>I don't have that kind of money.</text>
+		<text>Eu nao tenho esse tipo de dinheiro.</text>
 	</string>
 	<string id="esc_bridge_soldiers_start_25">
-		<text>Then go back where you came from and get it. And don't you try and sneak past us, you hear? Trust me, it's not worth dying for.</text>
+		<text>Entao volte de onde voce veio e pegue. E nao tente passar sorrateiramente por nos, ouviu? Confie em mim, nao vale a pena morrer por isso.</text>
 	</string>
 	<string id="esc_lager_no_talk_11">
-		<text>Get out of here, Marked One. Walk away or crawl away, the choice is yours.</text>
+		<text>Saia daqui, Marca. Va embora ou rasteje, a escolha e sua.</text>
 	</string>
 	<string id="esc_lager_no_talk_111">
-		<text>What's got into you?</text>
+		<text>O que deu em voce?</text>
 	</string>
 	<string id="esc_lager_no_talk_21">
-		<text>Hi there. Whatcha need?</text>
+		<text>Ola. O que voce precisa?</text>
 	</string>
 	<string id="esc_lager_no_talk_31">
-		<text>Our boss here wanted to see you. But that doesn't make you a welcome guest. Keep moving.</text>
+		<text>Nosso chefe aqui queria te ver. Mas isso nao faz de voce um convidado bem-vindo. Continue andando.</text>
 	</string>
 	<string id="esc_provodnik_start_11">
-		<text>Hello, brother.</text>
+		<text>Ola, irmao.</text>
 	</string>
 	<string id="esc_provodnik_start_12">
-		<text>Guide, I need to see Doctor.</text>
+		<text>Guia, preciso ver o Doutor.</text>
 	</string>
 	<string id="esc_provodnik_start_13">
-		<text>Well, look at that. How do you know about Doctor?</text>
+		<text>Olha so. Como voce sabe sobre o Doutor?</text>
 	</string>
 	<string id="esc_provodnik_start_14">
-		<text>Ghost sent me. Help me get in touch with Doctor. It's urgent.</text>
+		<text>Fantasma me mandou. Ajude-me a entrar em contato com o Doutor. E urgente.</text>
 	</string>
 	<string id="esc_provodnik_start_15">
-		<text>Well, why didn't you say so! Doctor is in Strelok's hiding place. If you are who you say you are, you probably know where it is.</text>
+		<text>Bem, por que voce nao disse isso antes! O Doutor esta no esconderijo de Strelok. Se voce e quem diz ser, provavelmente sabe onde fica.</text>
 	</string>
 	<string id="esc_provodnik_start_16">
-		<text>Thank you.</text>
+		<text>Obrigado.</text>
 	</string>
 	<string id="esc_provodnik_start_21">
-		<text>Hello, brother.</text>
+		<text>Ola, irmao.</text>
 	</string>
 	<string id="esc_stalker_talk_level_0">
-		<text>Could you tell me more about this place?</text>
+		<text>Voce poderia me contar mais sobre este lugar?</text>
 	</string>
 	<string id="esc_stalker_talk_level_1">
-		<text>This is the road to the Zone. If I were you, I wouldn't get too close to the army outpost or let those soldiers see you - they've got orders to shoot on sight. Further up North there's a broken bridge, but they've set up an outpost there too. Open areas are crawling with wild dogs, so it's not a safe place for rookies. Oh, and a pack of mutants shows up every now and then.</text>
+		<text>Esta e a estrada para a Zona. Se eu fosse voce, nao me aproximaria muito do posto avancado do exercito nem deixaria aqueles soldados te verem - eles tem ordens para atirar a vista. Mais ao norte ha uma ponte quebrada, mas eles montaram um posto avancado la tambem. As areas abertas estao cheias de caes selvagens, entao nao e um lugar seguro para novatos. Ah, e uma matilha de mutantes aparece de vez em quando.</text>
 	</string>
 	<string id="esc_stalker_talk_level_10">
-		<text>What about the soldiers at the bridge? I've got to get past them somehow.</text>
+		<text>E os soldados na ponte? Eu tenho que passar por eles de alguma forma.</text>
 	</string>
 	<string id="esc_stalker_talk_level_11">
-		<text>Alright, you've got two options. If Kuznetsov is on duty, keep in mind that he is quite fond of money. Good chance he'll let you through for a bribe. But if you're low on cash or if it's someone else's shift, there is a different way. Go on the left side of the bridge, along the railway. Just make sure they don't see you! You'll come across a small tunnel that goes through the embankment. And another thing: you might also land a date with some zombies down there.</text>
+		<text>Tudo bem, voce tem duas opcoes. Se Kuznetsov estiver de plantao, lembre-se de que ele gosta muito de dinheiro. Boas chances de ele te deixar passar por um suborno. Mas se voce estiver sem dinheiro ou se for o turno de outra pessoa, ha uma maneira diferente. Va para o lado esquerdo da ponte, ao longo da ferrovia. Apenas certifique-se de que eles nao te vejam! Voce encontrara um pequeno tunel que passa pelo aterro. E outra coisa: voce tambem pode ter um encontro com alguns zumbis la embaixo.</text>
 	</string>
 	<string id="esc_stalker_talk_level_2">
-		<text>What's further up North beyond the army outpost?</text>
+		<text>O que ha mais ao norte, alem do posto avancado do exercito?</text>
 	</string>
 	<string id="esc_stalker_talk_level_21">
-		<text>The Garbage, that’s what. Now there's a depressing place. So much contaminated shit in some spots that swimming would be easier than walking.</text>
+		<text>O Lixao, isso sim. Um lugar deprimente. Tanta merda contaminada em alguns pontos que nadar seria mais facil do que andar.</text>
 	</string>
 	<string id="escape_factory_assault_start_31">
-		<text>Hello. Wolf has already sent word of you. You got any questions?</text>
+		<text>Ola. Lobo ja mandou noticias suas. Voce tem alguma pergunta?</text>
 	</string>
 	<string id="escape_factory_assault_start_311">
-		<text>Yes. How many bandits in the camp?</text>
+		<text>Sim. Quantos bandidos no acampamento?</text>
 	</string>
 	<string id="escape_factory_assault_start_3111">
-		<text>Seven or eight people. Two by the gate, two more in the building to the right near the fire, and another two in the one to the left - that's where they're keeping Nimble. Someone usually hangs around the yard as well. That's  about it. Shall we say a prayer and go?</text>
+		<text>Sete ou oito pessoas. Dois no portao, mais dois no predio a direita perto da fogueira, e outros dois no da esquerda - e onde eles estao mantendo Esperto. Alguem geralmente fica rondando o patio tambem. E mais ou menos isso. Devemos fazer uma oracao e ir?</text>
 	</string>
 	<string id="escape_factory_assault_start_31111">
-		<text>Let's go. Round up your men.</text>
+		<text>Vamos. Reuna seus homens.</text>
 	</string>
 	<string id="escape_factory_assault_start_31112">
-		<text>No. We'd make too much noise. I'll go on my own.</text>
+		<text>Nao. Fariamos muito barulho. Eu vou sozinho.</text>
 	</string>
 	<string id="escape_factory_assault_start_311121">
-		<text>Well, do as you please. Shout if something is up... To hell with you, Rambo wannabe!</text>
+		<text>Bem, faca como quiser. Grite se algo acontecer... Que se dane voce, aspirante a Rambo!</text>
 	</string>
 	<string id="escape_factory_assault_start_41">
-		<text>We went hunting and hunt we did. I bet Wolf will be pleased.</text>
+		<text>Nos fomos cacar e cacamos. Aposto que Lobo ficara satisfeito.</text>
 	</string>
 	<string id="escape_factory_assault_start_51">
-		<text>There's more of 'em! Find the bastards and take them down!</text>
+		<text>Ha mais deles! Encontre os bastardos e derrube-os!</text>
 	</string>
 	<string id="escape_factory_assault_start_61">
-		<text>Whoa, man! Now that was something! You wiped them out and left nothing for us. I'd never believe it if I hadn't seen it with my own eyes! That blew me away, man...</text>
+		<text>Uau, cara! Isso foi algo! Voce os eliminou e nao deixou nada para nos. Eu nunca acreditaria se nao tivesse visto com meus proprios olhos! Isso me impressionou, cara...</text>
 	</string>
 	<string id="escape_factory_assault_start_71">
-		<text>So, where are the piles of enemies you killed? You talk the talk, but you don't walk the walk. Get lost!</text>
+		<text>Entao, onde estao as pilhas de inimigos que voce matou? Voce fala muito, mas nao faz nada. Suma daqui!</text>
 	</string>
 	<string id="escape_fox_hello_dialog_2">
-		<text>Sorry, brother, but could go somewhere else? I'm here to meet someone...</text>
+		<text>Desculpe, irmao, mas voce poderia ir para outro lugar? Estou aqui para encontrar alguem...</text>
 	</string>
 	<string id="escape_fox_hello_dialog_21">
-		<text>I've got a couple of questions.</text>
+		<text>Eu tenho algumas perguntas.</text>
 	</string>
 	<string id="escape_fox_hello_dialog_211">
-		<text>OK, ask away.</text>
+		<text>OK, pergunte.</text>
 	</string>
 	<string id="escape_fox_hello_dialog_2111">
-		<text>What can you tell me about the Zone?</text>
+		<text>O que voce pode me dizer sobre a Zona?</text>
 	</string>
 	<string id="escape_fox_hello_dialog_21111">
-		<text>That's all you wanna know? Take a week off and then come back to see me. Look, my time ain't cheap and I'm kinda busy right now. Here are the basics and then you're on your own. About three kilometers North of here, you'll find the Garbage. That's the place they used to dump all the radioactive waste from the station. High radiation levels, anomalies all over the place, so there are loads of artifacts to be found there... but not very valuable. Just beware of the gangs and don't cross the Duty patrols. West of the Garbage is the former Agroprom Research Institute. Little in terms of artifacts there so you can skip it. And to the East, there's the Dark Valley. Who knows... That's a pretty weird place. It seems quiet enough, apart from a bunch of gangsters roaming around. But I got a feeling there's more to it than meets the eye. Oh, and there's the Rostok factory right beyond the Garbage. That's stalker territory. You'll find lots of clued-up folks there, they'll tell you the rest.</text>
+		<text>E so isso que voce quer saber? Tire uma semana de folga e volte a me ver. Olha, meu tempo nao e barato e estou meio ocupado agora. Aqui estao os conceitos basicos e depois voce se vira sozinho. Cerca de tres quilometros ao norte daqui, voce encontrara o Lixao. E o lugar onde costumavam despejar todo o lixo radioativo da estacao. Altos niveis de radiacao, anomalias por toda parte, entao ha muitos artefatos para serem encontrados la... mas nao muito valiosos. Apenas tome cuidado com as gangues e nao cruze os patrulheiros do Dever. A oeste do Lixao fica o antigo Instituto de Pesquisa Agroprom. Pouco em termos de artefatos la, entao voce pode pular. E a leste, fica o Vale Sombrio. Quem sabe... E um lugar bem estranho. Parece bastante tranquilo, alem de um bando de gangsters vagando por ai. Mas tenho a sensacao de que ha mais do que se ve. Ah, e ha a fabrica Rostok logo alem do Lixao. E territorio de stalker. Voce encontrara muitas pessoas experientes la, elas te dirao o resto.</text>
 	</string>
 	<string id="escape_fox_hello_dialog_2113">
-		<text>I've changed my mind. Thanks.</text>
+		<text>Mudei de ideia. Obrigado.</text>
 	</string>
 	<string id="escape_fox_hello_dialog_3">
-		<text>Thanks. OK, now I'm listening very carefully.</text>
+		<text>Obrigado. OK, agora estou ouvindo com muita atencao.</text>
 	</string>
 	<string id="escape_fox_hello_dialog_31">
-		<text>Trader told me you might know something about Strelok.</text>
+		<text>O Comerciante me disse que voce poderia saber algo sobre Strelok.</text>
 	</string>
 	<string id="escape_fox_hello_dialog_311">
-		<text>Why is everyone taking such a keen interest in him lately? OK, I can't say I know him personally. We did "communicate" though: my guys took some shots at him once. No one got hurt - it was clear his party had been waiting for someone else, so we parted in peace. Cussed each other out across a ravine and went on our separate ways. Seriy, my brother, is now in the hangar at the Garbage - I'll dish you his coordinates so you two can have a chat. He knows more about Strelok. Be careful at the exit, a small gang has settled down in those parts. By the way, I got a few monsters chasing me and it doesn't look like they've given up yet. You mind helping me deal with them? It's a walk in the park really.</text>
+		<text>Por que todo mundo esta demonstrando tanto interesse nele ultimamente? OK, nao posso dizer que o conheco pessoalmente. Nos "nos comunicamos", no entanto: meus caras atiraram nele uma vez. Ninguem se machucou - estava claro que o grupo dele estava esperando por outra pessoa, entao nos separamos em paz. Nos xingamos atraves de uma ravina e seguimos nossos caminhos separados. Seriy, meu irmao, esta agora no hangar no Lixao - vou te dar as coordenadas dele para que voces dois possam conversar. Ele sabe mais sobre Strelok. Tenha cuidado na saida, uma pequena gangue se instalou nessas partes. A proposito, tenho alguns monstros me perseguindo e nao parece que eles desistiram ainda. Voce se importa de me ajudar a lidar com eles? E moleza, na verdade.</text>
 	</string>
 	<string id="escape_fox_hello_dialog_3111">
-		<text>Thanks for the info, I appreciate it.</text>
+		<text>Obrigado pela informacao, eu agradeco.</text>
 	</string>
 	<string id="escape_fox_hello_dialog_5">
-		<text>A medkit! Gimme a medkit!</text>
+		<text>Um kit medico! Me da um kit medico!</text>
 	</string>
 	<string id="escape_fox_hello_dialog_55">
-		<text>Here you are.</text>
+		<text>Aqui esta.</text>
 	</string>
 	<string id="escape_fox_hello_dialog_56">
-		<text>Don't have one. Sorry.</text>
+		<text>Nao tenho nenhum. Desculpe.</text>
 	</string>
 	<string id="escape_fox_hello_dialog_61">
-		<text>Hey, man, you saved me twice, and that's not something I forget. Take this... that's all I got!</text>
+		<text>Ei, cara, voce me salvou duas vezes, e isso nao e algo que eu esqueco. Pegue isso... e tudo que eu tenho!</text>
 	</string>
 	<string id="escape_fox_hello_dialog_611">
-		<text>Thank you.</text>
+		<text>Obrigado.</text>
 	</string>
 	<string id="escape_lager_guard_start_dialog_121">
-		<text>Our boss here wanted to see you. But that doesn't make you a welcomed guest. Keep moving.</text>
+		<text>Nosso chefe aqui queria te ver. Mas isso nao faz de voce um convidado bem-vindo. Continue andando.</text>
 	</string>
 	<string id="escape_lager_guard_start_dialog_2">
-		<text>Wait, Marked One! No one at the camp is gonna to talk to you right now.</text>
+		<text>Espere, Marca! Ninguem no acampamento vai falar com voce agora.</text>
 	</string>
 	<string id="escape_lager_guard_start_dialog_21">
-		<text>Why?</text>
+		<text>Por que?</text>
 	</string>
 	<string id="escape_lager_guard_start_dialog_212">
-		<text>What kind of idiot would chat with a former passenger of the "death truck"? First, you gotta prove you're OK to deal with.</text>
+		<text>Que tipo de idiota conversaria com um ex-passageiro do "caminhao da morte"? Primeiro, voce tem que provar que e confiavel.</text>
 	</string>
 	<string id="escape_lager_guard_start_dialog_2121">
-		<text>What "death truck?" What are you talking about?</text>
+		<text>Que "caminhao da morte?" Do que voce esta falando?</text>
 	</string>
 	<string id="escape_lager_guard_start_dialog_21211">
-		<text>Ah, hell only knows what it really is. But whatever it is, it's bad, about as bad as it gets...  Why am I talking to you about this anyway! Maybe I'm just superstitious, but you, Marked One, should really take a hike before something happens to you.</text>
+		<text>Ah, so o inferno sabe o que realmente e. Mas seja la o que for, e ruim, tao ruim quanto pode ser... Por que estou falando com voce sobre isso, afinal! Talvez eu seja apenas supersticioso, mas voce, Marca, deveria realmente ir embora antes que algo aconteca com voce.</text>
 	</string>
 	<string id="escape_lager_guard_start_dialog_2122">
-		<text>What can I do to make people believe me?</text>
+		<text>O que posso fazer para que as pessoas acreditem em mim?</text>
 	</string>
 	<string id="escape_lager_guard_start_dialog_21221">
-		<text>Pass Trader's test while we watch. If you're alright - if you're not trigger-happy and you use your head - then we'll definitely find some common ground. Don't you worry.</text>
+		<text>Passe no teste do Comerciante enquanto observamos. Se voce estiver bem - se voce nao for um gatilho facil e usar sua cabeca - entao definitivamente encontraremos um terreno comum. Nao se preocupe.</text>
 	</string>
 	<string id="escape_lager_guard_start_dialog_22">
-		<text>Alright, so be it.</text>
+		<text>Tudo bem, que assim seja.</text>
 	</string>
 	<string id="escape_lager_guard_start_dialog_3">
-		<text>Hello, Marked One. What do you want?</text>
+		<text>Ola, Marca. O que voce quer?</text>
 	</string>
 	<string id="escape_lager_leader_hello_11">
-		<text>Listen up, Marked One, you will come in handy! We could really use some help.</text>
+		<text>Escuta, Marca, voce sera util! Nos realmente poderiamos usar alguma ajuda.</text>
 	</string>
 	<string id="escape_lager_leader_hello_111">
-		<text>Go on.</text>
+		<text>Continue.</text>
 	</string>
 	<string id="escape_lager_leader_hello_1111">
-		<text>I'm Fanatic, and I'm filling in for the leader since Wolf left. A few Mercs came by here yesterday... and they were some tough bastards, let me tell you. They come here and start making serious demands - "You've got one day to clear this camp out. It's gonna be our new base." Tonight they're coming back, and as you can imagine, they won't be in the mood for a chat.</text>
+		<text>Eu sou Fanatico, e estou substituindo o lider desde que Lobo saiu. Alguns Mercs passaram por aqui ontem... e eles eram uns bastardos duroes, deixe-me te dizer. Eles vem aqui e comecam a fazer exigencias serias - "Voces tem um dia para limpar este acampamento. Sera nossa nova base." Hoje a noite eles estao voltando e, como voce pode imaginar, eles nao estarao com humor para conversar.</text>
 	</string>
 	<string id="escape_lager_leader_hello_11111">
-		<text>So, what are you going to do?</text>
+		<text>Entao, o que voces vao fazer?</text>
 	</string>
 	<string id="escape_lager_leader_hello_111111">
-		<text>We're gonna set up an ambush 'cause a direct attack would probably be the end of us. They've got the fighting gear and everything, plus they're trained in tactics like you can't even imagine. And all we've got here are little boys. So, we've decided to just sit tight in these houses and make it look like we're gone. Then when the right moment comes, we attack. Fighters like you are just the thing we could use right now. And we'd make sure to thank you properly after it's all over. You know we're good for it! So, what do you say, will you help us out?</text>
+		<text>Vamos montar uma emboscada porque um ataque direto provavelmente seria o nosso fim. Eles tem o equipamento de combate e tudo mais, alem de serem treinados em taticas que voce nem imagina. E tudo o que temos aqui sao garotinhos. Entao, decidimos apenas ficar quietos nessas casas e fingir que fomos embora. Entao, quando chegar a hora certa, atacamos. Lutadores como voce sao exatamente o que poderiamos usar agora. E nos fariamos questao de te agradecer adequadamente depois que tudo acabasse. Voce sabe que cumprimos o que prometemos! Entao, o que voce diz, voce vai nos ajudar?</text>
 	</string>
 	<string id="escape_lager_leader_hello_1111111">
-		<text>I will.</text>
+		<text>Eu vou.</text>
 	</string>
 	<string id="escape_lager_leader_hello_11111111">
-		<text>Let's spend the rest of the time preparing for the fight. Here's the plan: I'll put the most hopeless rookies in houses and basements and tell them not to make a move - otherwise they might just slaughter our own troops. You and me and a couple other decent shots will take the best positions to have an eye on the area around the fire. As soon as they come close to the fire, we let the bullets fly from everywhere! They'll be coming from the bridge... and I don't think we'll have to wait long. So, find yourself a hiding place with a view, then wait for my command. Take a look around, but remember that your odds aren't as good in the open. It's your call.</text>
+		<text>Vamos passar o resto do tempo nos preparando para a luta. Aqui esta o plano: vou colocar os novatos mais desesperados em casas e poroes e dizer-lhes para nao se mexerem - caso contrario, eles podem simplesmente massacrar nossas proprias tropas. Voce, eu e mais alguns bons atiradores vamos ocupar as melhores posicoes para ficar de olho na area ao redor da fogueira. Assim que eles se aproximarem da fogueira, soltamos as balas de todos os lados! Eles virao da ponte... e nao acho que teremos que esperar muito. Entao, encontre um esconderijo com vista e espere pelo meu comando. De uma olhada ao redor, mas lembre-se de que suas chances nao sao tao boas em campo aberto. A escolha e sua.</text>
 	</string>
 	<string id="escape_lager_leader_hello_111111111">
 		<text>OK.</text>
 	</string>
 	<string id="escape_lager_leader_hello_1111112">
-		<text>No, I'm not ready yet.</text>
+		<text>Nao, ainda nao estou pronto.</text>
 	</string>
 	<string id="escape_lager_leader_hello_11111121">
-		<text>That's a shame. We could really use a fighter like you. I guess we'll have to do it on our own...</text>
+		<text>Que pena. Nos realmente poderiamos usar um lutador como voce. Acho que teremos que fazer isso sozinhos...</text>
 	</string>
 	<string id="escape_lager_leader_hello_21">
-		<text>Waiting for these boy scouts. I got a feeling they're just around the corner.</text>
+		<text>Esperando por esses escoteiros. Tenho a sensacao de que eles estao logo ali.</text>
 	</string>
 	<string id="escape_lager_leader_hello_31">
-		<text>You're a real killer, Marked One! I wouldn't want to stand in your way. Ever!</text>
+		<text>Voce e um verdadeiro assassino, Marca! Eu nao gostaria de ficar no seu caminho. Nunca!</text>
 	</string>
 	<string id="escape_lager_leader_hello_311">
-		<text>Yup, something like that.</text>
+		<text>Sim, algo assim.</text>
 	</string>
 	<string id="escape_lager_leader_hello_3111">
-		<text>Here, I hope you won't forget about us. And by the way... a million thanks for the help. We saved the young ones, Marked One.</text>
+		<text>Aqui, espero que voce nao se esqueca de nos. E a proposito... um milhao de agradecimentos pela ajuda. Salvamos os jovens, Marca.</text>
 	</string>
 	<string id="escape_lager_leader_hello_41">
-		<text>Hey, Marked One, great to see you!</text>
+		<text>Ei, Marca, que bom te ver!</text>
 	</string>
 	<string id="escape_lager_leader_hello_411">
-		<text>Hello to you, too.</text>
+		<text>Ola para voce tambem.</text>
 	</string>
 	<string id="escape_lager_leader_hello_412">
-		<text>By the way, where did Wolf go?</text>
+		<text>A proposito, para onde Lobo foi?</text>
 	</string>
 	<string id="escape_lager_leader_hello_4121">
-		<text>Oh, he got a message from a stalker who was passing by. He packed his things, grabbed a box of dynamite and went deep in the Zone. I'm still getting back in shape after the wounds I got at the Cordon so he asked me to look after the kids.</text>
+		<text>Ah, ele recebeu uma mensagem de um stalker que estava passando. Ele arrumou suas coisas, pegou uma caixa de dinamite e foi para o fundo da Zona. Ainda estou me recuperando dos ferimentos que sofri no Cordon, entao ele me pediu para cuidar das criancas.</text>
 	</string>
 	<string id="escape_lager_volk_info_0">
-		<text>I've got questions.</text>
+		<text>Eu tenho perguntas.</text>
 	</string>
 	<string id="escape_lager_volk_info_1">
-		<text>Go ahead, I'll try to help.</text>
+		<text>Va em frente, vou tentar ajudar.</text>
 	</string>
 	<string id="escape_lager_volk_info_10">
-		<text>Thank you.</text>
+		<text>Obrigado.</text>
 	</string>
 	<string id="escape_lager_volk_info_2">
-		<text>What do you know about the Zone?</text>
+		<text>O que voce sabe sobre a Zona?</text>
 	</string>
 	<string id="escape_lager_volk_info_21">
-		<text>I know many things. Be more specific.</text>
+		<text>Eu sei muitas coisas. Seja mais especifico.</text>
 	</string>
 	<string id="escape_lager_volk_info_211">
-		<text>What's in the center of the Zone?</text>
+		<text>O que ha no centro da Zona?</text>
 	</string>
 	<string id="escape_lager_volk_info_2111">
-		<text>Ahem, that's a question alright... I've been looking for the answer for two years! I still haven't found a way to the center, at least not one I could take and come back alive. My friends and I tried to break through a couple of times. I barely made it back, but my friends - well, some did, some didn't...  You'll ask why we went there at all. We were chasing our dreams, trying to make them come true.</text>
+		<text>Ahem, essa e uma pergunta e tanto... Estou procurando a resposta ha dois anos! Ainda nao encontrei um caminho para o centro, pelo menos nao um que eu pudesse pegar e voltar vivo. Meus amigos e eu tentamos romper algumas vezes. Eu mal voltei, mas meus amigos - bem, alguns voltaram, outros nao... Voce vai perguntar por que fomos la, afinal. Estavamos perseguindo nossos sonhos, tentando torna-los realidade.</text>
 	</string>
 	<string id="escape_lager_volk_info_21111">
-		<text>Can dreams come true?</text>
+		<text>Sonhos podem se tornar realidade?</text>
 	</string>
 	<string id="escape_lager_volk_info_211111">
-		<text>There is this beautiful story about a Wish-Granting Machine. They say there is a spot in the center of the Zone where any desires can come true, no matter how bizarre. But you know what? I know for a fact there's lots of ways to kick the bucket in the center of the Zone, and I don't believe in the Wish-Granting Machine anymore. Don't take that risk. I wouldn't.</text>
+		<text>Ha esta bela historia sobre uma Maquina de Realizar Desejos. Dizem que ha um ponto no centro da Zona onde qualquer desejo pode se tornar realidade, nao importa o quao bizarro. Mas sabe de uma coisa? Eu sei com certeza que ha muitas maneiras de chutar o balde no centro da Zona, e nao acredito mais na Maquina de Realizar Desejos. Nao corra esse risco. Eu nao correria.</text>
 	</string>
 	<string id="escape_lager_volk_info_212">
-		<text>How did the Zone come to be?</text>
+		<text>Como a Zona surgiu?</text>
 	</string>
 	<string id="escape_lager_volk_info_2121">
-		<text>There was another explosion here in 2006. That's how it came about. I know that's not a real answer. Very few know the whole truth, if anyone at all.</text>
+		<text>Houve outra explosao aqui em 2006. Foi assim que surgiu. Eu sei que essa nao e uma resposta real. Poucos sabem a verdade completa, se e que alguem sabe.</text>
 	</string>
 	<string id="escape_lager_volk_info_213">
-		<text>What brought you to the Zone?</text>
+		<text>O que te trouxe para a Zona?</text>
 	</string>
 	<string id="escape_lager_volk_info_2131">
-		<text>I used to work in a mine before they closed it down. I had no money and nothing to look forward to. Then I heard some rumors about the fabulous riches hidden inside the Zone. I had some experience under my belt, so I thought "What the hell?". Can't say I've become rich, but some cash came my way, that's for sure. This is a typical story; most of us got here the same way.</text>
+		<text>Eu costumava trabalhar em uma mina antes de fecharem. Eu nao tinha dinheiro e nada para esperar. Entao ouvi alguns rumores sobre as riquezas fabulosas escondidas dentro da Zona. Eu tinha alguma experiencia, entao pensei "Que se dane?". Nao posso dizer que fiquei rico, mas algum dinheiro apareceu, com certeza. Esta e uma historia tipica; a maioria de nos chegou aqui da mesma forma.</text>
 	</string>
 	<string id="escape_lager_volk_info_214">
-		<text>What's the most dangerous thing in the Zone?</text>
+		<text>Qual e a coisa mais perigosa na Zona?</text>
 	</string>
 	<string id="escape_lager_volk_info_2141">
-		<text>Hard to say. There are so many dangers and surprises, you just can't run into all of them. There's more than enough for one person anyway. I got one toe bitten off, my hair is falling out from the radiation, and half my leg got fried in a Scorcher... Things there are real bad. Another time I happened to come face to face with a bloodsucker - there's a meeting I'd like to forget. So, we can talk all you like, but until you''ll never kow until you experience it on your own. The only advice I can give is beware - everywhere and always.</text>
+		<text>Dificil dizer. Ha tantos perigos e surpresas que voce simplesmente nao pode encontrar todos eles. Ha mais do que o suficiente para uma pessoa, de qualquer forma. Eu tive um dedo do pe mordido, meu cabelo esta caindo por causa da radiacao e metade da minha perna foi frita em um Desintegrador Psiquico... As coisas la sao realmente ruins. Outra vez, aconteceu de eu ficar cara a cara com um sanguessuga - ha um encontro que eu gostaria de esquecer. Entao, podemos conversar o quanto quiser, mas voce nunca sabera ate experimentar por conta propria. O unico conselho que posso dar e cuidado - em todos os lugares e sempre.</text>
 	</string>
 	<string id="escape_lager_volk_info_3">
-		<text>Have you heard about a guy called Strelok?</text>
+		<text>Voce ouviu falar de um cara chamado Strelok?</text>
 	</string>
 	<string id="escape_lager_volk_info_31">
-		<text>I seem to remember he's one of the tough ones. Never actually met the man. Well, I haven't come close to the center in a while and all we get here is rookies. You should find someone who hangs out deep in the Zone and have a chat with him.</text>
+		<text>Parece que me lembro que ele e um dos duroes. Nunca conheci o homem pessoalmente. Bem, eu nao chego perto do centro ha um tempo e tudo o que recebemos aqui sao novatos. Voce deveria encontrar alguem que frequenta as profundezas da Zona e conversar com ele.</text>
 	</string>
 	<string id="escape_lager_volk_info_4">
-		<text>What do you know about "death trucks?"</text>
+		<text>O que voce sabe sobre "caminhoes da morte?"</text>
 	</string>
 	<string id="escape_lager_volk_info_41">
-		<text>I know nothing and that's fine by me, thank you!  Sorry, I know about your situation. Too much mysticism about it. You spend a month in these parts and you can't help but become superstitious about life. Dead people in the trunk, dead people behind the wheel... Who are they, where did they come from and why? I can only hope they didn't rise up from the grave.</text>
+		<text>Eu nao sei de nada e esta tudo bem para mim, obrigado! Desculpe, eu sei sobre sua situacao. Misticismo demais sobre isso. Voce passa um mes nessas partes e nao pode deixar de se tornar supersticioso sobre a vida. Pessoas mortas no porta-malas, pessoas mortas ao volante... Quem sao elas, de onde vieram e por que? So posso esperar que eles nao tenham se levantado da sepultura.</text>
 	</string>
 	<string id="escape_lager_volk_talk_11">
-		<text>Hi. Why are you here?</text>
+		<text>Oi. Por que voce esta aqui?</text>
 	</string>
 	<string id="escape_lager_volk_talk_111">
-		<text>Hi. I need to see Nimble. Would you know where I could find him?</text>
+		<text>Oi. Preciso ver Esperto. Voce saberia onde posso encontra-lo?</text>
 	</string>
 	<string id="escape_lager_volk_talk_1111">
-		<text>Nimble got a raw deal. His group was attacked by some bandits a little ways from here. All he could do was send me an SOS message. It looked like his pals went under. My guys told me these bastards are now at the old car park, the one across the road.</text>
+		<text>Esperto se deu mal. O grupo dele foi atacado por alguns bandidos um pouco longe daqui. Tudo o que ele podia fazer era me mandar uma mensagem de SOS. Parecia que seus amigos cairam. Meus caras me disseram que esses bastardos estao agora no antigo estacionamento, aquele do outro lado da rua.</text>
 	</string>
 	<string id="escape_lager_volk_talk_11111">
-		<text>You don't rescue your own people from prison? Not what I would call friendly. Or is it that you're just too weak to do it?</text>
+		<text>Voce nao resgata seu proprio pessoal da prisao? Nao e o que eu chamaria de amigavel. Ou e que voce e simplesmente fraco demais para fazer isso?</text>
 	</string>
 	<string id="escape_lager_volk_talk_111111">
-		<text>I'd bop you one, but what's the use? It's not that simple. I got too few people, and even those I got are mostly rookies. I can't take that risk. If we lose this camp, things will get even worse for all the stalkers out there. And what about yourself? If you aren't too scared, I won't let my pride make me say no to a helping hand. So, will you help me deal with these thugs?</text>
+		<text>Eu te daria um soco, mas qual e o sentido? Nao e tao simples. Eu tenho poucas pessoas, e mesmo aqueles que tenho sao principalmente novatos. Nao posso correr esse risco. Se perdermos este acampamento, as coisas vao piorar ainda mais para todos os stalkers por ai. E quanto a voce? Se voce nao estiver com muito medo, nao deixarei meu orgulho me fazer dizer nao a uma mao amiga. Entao, voce vai me ajudar a lidar com esses bandidos?</text>
 	</string>
 	<string id="escape_lager_volk_talk_1111111">
-		<text>Think I could do it alone?</text>
+		<text>Acha que eu poderia fazer isso sozinho?</text>
 	</string>
 	<string id="escape_lager_volk_talk_11111111">
-		<text>Nah, you stand no chance on your own. My scouts are good soldiers and right now they're right behind those freaks. Together you can make a run for it. What do you think? You got the guts?</text>
+		<text>Nao, voce nao tem chance sozinho. Meus batedores sao bons soldados e agora estao logo atras daqueles aberracoes. Juntos, voces podem fugir. O que voce acha? Voce tem coragem?</text>
 	</string>
 	<string id="escape_lager_volk_talk_111111111">
-		<text>I'll try.</text>
+		<text>Eu vou tentar.</text>
 	</string>
 	<string id="escape_lager_volk_talk_1111111111">
-		<text>Way to go! Alright, I gave you the guys' coordinates. I'll let them know about you right now.</text>
+		<text>Boa! Tudo bem, eu te dei as coordenadas dos caras. Vou avisa-los sobre voce agora mesmo.</text>
 	</string>
 	<string id="escape_lager_volk_talk_111111112">
-		<text>I got the guts, but I won't go.</text>
+		<text>Eu tenho coragem, mas nao vou.</text>
 	</string>
 	<string id="escape_lager_volk_talk_111111121">
-		<text>Yeah, like hell you do. Fine, get lost!</text>
+		<text>E, que se dane voce. Tudo bem, suma daqui!</text>
 	</string>
 	<string id="escape_lager_volk_talk_21">
-		<text>So, how is it going?</text>
+		<text>Entao, como esta indo?</text>
 	</string>
 	<string id="escape_lager_volk_talk_211">
-		<text>Your guys and I made it a-ok at the car park.</text>
+		<text>Seus caras e eu nos demos bem no estacionamento.</text>
 	</string>
 	<string id="escape_lager_volk_talk_2111">
-		<text>That's awesome, man! Here, take this. That's my personal reward for you.</text>
+		<text>Isso e incrivel, cara! Aqui, pegue isto. Essa e minha recompensa pessoal para voce.</text>
 	</string>
 	<string id="escape_lager_volk_talk_212">
-		<text>We went over the car park with a fine-toothed comb. It's all clear now.</text>
+		<text>Nos vasculhamos o estacionamento com um pente fino. Esta tudo limpo agora.</text>
 	</string>
 	<string id="escape_lager_volk_talk_2121">
-		<text>Wow! My men tell me you gave them a real beating! Here, take this money... Just a memento, not counting our huge gratitude. Plus, I got something else for you here...</text>
+		<text>Uau! Meus homens me disseram que voce deu uma surra neles! Aqui, pegue este dinheiro... Apenas uma lembranca, sem contar nossa enorme gratidao. Alem disso, tenho outra coisa para voce aqui...</text>
 	</string>
 	<string id="escape_lager_volk_talk_21211">
-		<text>Hey.</text>
+		<text>Ei.</text>
 	</string>
 	<string id="escape_lager_volk_talk_213">
-		<text>I'm working on it.</text>
+		<text>Estou trabalhando nisso.</text>
 	</string>
 	<string id="escape_lager_volk_talk_2131">
-		<text>Keep me posted, ok?</text>
+		<text>Mantenha-me informado, ok?</text>
 	</string>
 	<string id="escape_lager_volk_talk_31">
-		<text>I can't waste time on idle chit-chat. Take a hike.</text>
+		<text>Nao posso perder tempo com conversa fiada. Va embora.</text>
 	</string>
 	<string id="escape_lager_volk_talk_311">
-		<text>I got that, I'm not stupid.</text>
+		<text>Entendi, nao sou estupido.</text>
 	</string>
 	<string id="escape_lager_volk_talk_41">
-		<text>Hello, Marked One. What's the occasion?</text>
+		<text>Ola, Marca. Qual e a ocasiao?</text>
 	</string>
 	<string id="escape_lager_volk_talk_51">
-		<text>Tell me something new, stalker.</text>
+		<text>Me diga algo novo, stalker.</text>
 	</string>
 	<string id="escape_lager_volk_talk_511">
-		<text>What can I tell you. There were bandits at the car park, so we did some cleaning up. That's about it.</text>
+		<text>O que posso te dizer? Havia bandidos no estacionamento, entao fizemos uma limpeza. E so isso.</text>
 	</string>
 	<string id="escape_lager_volk_talk_5111">
-		<text>You aren't the bragging kind, are you! Look, since you've dealt with these thugs, I can't just let you go like that...</text>
+		<text>Voce nao e do tipo que se gaba, ne! Olha, ja que voce lidou com esses bandidos, nao posso simplesmente te deixar ir assim...</text>
 	</string>
 	<string id="escape_shustryi_start_11">
-		<text>Thanks, brother! You did us a great service! I don't even know how to thank you...</text>
+		<text>Obrigado, irmao! Voce nos prestou um grande servico! Eu nem sei como te agradecer...</text>
 	</string>
 	<string id="escape_shustryi_start_111">
-		<text>Listen, I need that flash drive you were taking to the trader. Do you have it?</text>
+		<text>Escuta, preciso daquele pendrive que voce estava levando para o comerciante. Voce tem ele?</text>
 	</string>
 	<string id="escape_shustryi_start_1111">
-		<text>Yeah, I got it... Those morons can't even do a proper search. Well, what the heck, take it! After all, you saved my life. It was well hidden, but these thugs can't frisk for shit.</text>
+		<text>Sim, eu tenho... Aqueles idiotas nem conseguem fazer uma busca decente. Bem, que se dane, pegue! Afinal, voce salvou minha vida. Estava bem escondido, mas esses bandidos nao sabem revistar merda nenhuma.</text>
 	</string>
 	<string id="escape_shustryi_start_11111">
-		<text>Thanks. Where did you keep it anyway? Who knows, might come in handy.</text>
+		<text>Obrigado. Onde voce guardou, afinal? Quem sabe, pode ser util.</text>
 	</string>
 	<string id="escape_shustryi_start_111111">
-		<text>I didn't keep it down THERE so don't worry. I've worked for Trader for a long time so I can store information safely! By the way, I told the thugs a nice little story about a cache full of artifacts and they ordered one guy to go there. The cache exists, but it's only got one artifact. I can give you its coordinates if you want.</text>
+		<text>Eu nao guardei LA EMBAIXO, entao nao se preocupe. Eu trabalho para o Comerciante ha muito tempo, entao posso armazenar informacoes com seguranca! A proposito, contei aos bandidos uma historinha sobre um esconderijo cheio de artefatos e eles ordenaram que um cara fosse la. O esconderijo existe, mas so tem um artefato. Posso te dar as coordenadas se quiser.</text>
 	</string>
 	<string id="escape_shustryi_start_21">
-		<text>Have a safe trip, stalker!</text>
+		<text>Tenha uma viagem segura, stalker!</text>
 	</string>
 	<string id="escape_shustryi_start_311">
-		<text>Sure, thanks.</text>
+		<text>Claro, obrigado.</text>
 	</string>
 	<string id="escape_shustryi_start_3111">
-		<text>But don't forget: there's lots of wild animals there. Besides, the gangster they sent is armed with more than a scoop and a shovel, so be careful. Thanks, man.</text>
+		<text>Mas nao se esqueca: ha muitos animais selvagens la. Alem disso, o gangster que eles mandaram esta armado com mais do que uma pa e uma picareta, entao tenha cuidado. Obrigado, cara.</text>
 	</string>
 	<string id="escape_shustryi_start_31111">
-		<text>Thanks to you, too.</text>
+		<text>Obrigado voce tambem.</text>
 	</string>
 	<string id="escape_shustryi_start_311111">
-		<text>Sure, no problem. Good luck!</text>
+		<text>Claro, sem problema. Boa sorte!</text>
 	</string>
 	<string id="escape_trader_done_blockpost_box_0">
-		<text>Mission complete. Here's the box from the army outpost.</text>
+		<text>Missao completa. Aqui esta a caixa do posto avancado do exercito.</text>
 	</string>
 	<string id="escape_trader_done_blockpost_box_2">
-		<text>Good! You were a great help. But, of course a "thank you" won't buy you a piece of bread. Here's three... wait, two thousand pieces of eight and we're square!  By the way, the soldiers will certainly notice something missing, so things are going to heat up. You better get going, and the faster, the better.</text>
+		<text>Bom! Voce foi de grande ajuda. Mas, claro, um "obrigado" nao compra um pedaco de pao. Aqui estao tres... espere, dois mil pecas de oito e estamos quites! A proposito, os soldados certamente notarao que algo esta faltando, entao as coisas vao esquentar. E melhor voce ir embora, e quanto mais rapido, melhor.</text>
 	</string>
 	<string id="escape_trader_jobs_0">
-		<text>Got any special missions for me?</text>
+		<text>Tem alguma missao especial para mim?</text>
 	</string>
 	<string id="escape_trader_jobs_1">
-		<text>Nope, not a thing.</text>
+		<text>Nao, nada.</text>
 	</string>
 	<string id="escape_trader_jobs_12">
-		<text>What special missions? You haven't even finished the last one!</text>
+		<text>Que missoes especiais? Voce nem terminou a ultima!</text>
 	</string>
 	<string id="escape_trader_jobs_5">
-		<text>Well, here's the deal... A box containing the reports made by an expedition that went deep North into the Zone has been taken to the army outpost. By day, it's guarded as if it was filled with pure plutonium, but for some reason at night they only leave two guards.</text>
+		<text>Bem, aqui esta o negocio... Uma caixa contendo os relatorios feitos por uma expedicao que foi para o extremo norte da Zona foi levada para o posto avancado do exercito. Durante o dia, e guardada como se estivesse cheia de plutonio puro, mas por algum motivo a noite eles deixam apenas dois guardas.</text>
 	</string>
 	<string id="escape_trader_jobs_51">
-		<text>Go on.</text>
+		<text>Continue.</text>
 	</string>
 	<string id="escape_trader_jobs_511">
-		<text>Sneak into the outpost quietly and "recover" the box. Do that and I'll pay you anything...within reason. Will you do it?</text>
+		<text>Entre sorrateiramente no posto avancado e "recupere" a caixa. Faca isso e eu te pago qualquer coisa... dentro do razoavel. Voce fara isso?</text>
 	</string>
 	<string id="escape_trader_jobs_5111">
-		<text>I'll try.</text>
+		<text>Eu vou tentar.</text>
 	</string>
 	<string id="escape_trader_jobs_51111">
-		<text>I'll get the cash ready - you haven't let me down once. Just one other thing... keep it low profile. If the military gets pissed off we're all in for a lot of trouble.</text>
+		<text>Vou preparar o dinheiro - voce nunca me decepcionou. So mais uma coisa... mantenha um perfil baixo. Se os militares ficarem irritados, todos nos teremos muitos problemas.</text>
 	</string>
 	<string id="escape_trader_jobs_52">
-		<text>No, I can't take it on yet.</text>
+		<text>Nao, nao posso aceitar ainda.</text>
 	</string>
 	<string id="escape_trader_jobs_521">
-		<text>C'mon man, it's not as bad as it sounds. A bunch of drunk recruits green as grass with a single NCO...Well, OK, but I was really counting on you, Marked One...</text>
+		<text>Vamos la, cara, nao e tao ruim quanto parece. Um bando de recrutas bebados e verdes como grama com um unico oficial nao comissionado... Bem, OK, mas eu estava realmente contando com voce, Marca...</text>
 	</string>
 	<string id="escape_trader_jobs_6">
-		<text>Listen, Marked One... I've done some thinking, and here's what I'd like to offer... Generally speaking, what you really need is to find Strelok. Right?</text>
+		<text>Escuta, Marca... Eu pensei um pouco, e aqui esta o que eu gostaria de oferecer... De modo geral, o que voce realmente precisa e encontrar Strelok. Certo?</text>
 	</string>
 	<string id="escape_trader_jobs_61">
-		<text>Let's assume I do.</text>
+		<text>Vamos supor que sim.</text>
 	</string>
 	<string id="escape_trader_jobs_611">
-		<text>Anyway, here's the thing about Strelok. There's a stalker that goes by this name. They say he's found a path to the northern reaches of the Zone. And that is a virgin area, a real goldmine for artifacts... Yeah... Anyway, I can help you find him... However... As you can imagine, it won't be a free ride. You'll have to work it off... But in the long run we will both benefit: You're going to waste that Strelok fella and find out what's happened to you... And I'll find... well, I mean... I'll get my share of our mutual profit, he-he... So what do you say? Deal?</text>
+		<text>De qualquer forma, aqui esta a questao sobre Strelok. Ha um stalker que atende por esse nome. Dizem que ele encontrou um caminho para as regioes do norte da Zona. E essa e uma area virgem, uma verdadeira mina de ouro para artefatos... Sim... De qualquer forma, posso te ajudar a encontra-lo... No entanto... Como voce pode imaginar, nao sera uma viagem gratuita. Voce tera que trabalhar para isso... Mas a longo prazo, ambos nos beneficiaremos: voce vai se livrar desse sujeito Strelok e descobrir o que aconteceu com voce... E eu vou encontrar... bem, quero dizer... vou receber minha parte do nosso lucro mutuo, he-he... Entao, o que voce diz? Fechado?</text>
 	</string>
 	<string id="escape_trader_jobs_6111">
-		<text>Go on.</text>
+		<text>Continue.</text>
 	</string>
 	<string id="escape_trader_jobs_61111">
-		<text>Alright, listen... You mean business, I can see that... And I... I mean, we need guys like you. We're doing sort of an investigation with some other traders. We want to open up the path to the North, to the center of the Zone. And near the center someone or something is trying to hamper our progress... How the heck this Strelok managed to sneak through, I don't know... You see, there's this one area where your brain starts boiling. An eerie place... Anyway, to cut a long story short - a couple of guys have been spying on them grunts for me, not far from here. Apparently, the ones at the Agroprom Research Institute, have dug up something. Something major. I'm positive it has something to do with the center of the Zone. Anyway, whatever they've dug up, it's secured somewhere on the third floor of the Institute. And we really need this stuff. You see what I mean?</text>
+		<text>Tudo bem, escuta... Voce esta falando serio, eu posso ver isso... E eu... quero dizer, nos precisamos de caras como voce. Estamos fazendo uma especie de investigacao com alguns outros comerciantes. Queremos abrir o caminho para o norte, para o centro da Zona. E perto do centro, alguem ou algo esta tentando atrapalhar nosso progresso... Como diabos esse Strelok conseguiu passar, eu nao sei... Veja bem, ha uma area onde seu cerebro comeca a ferver. Um lugar estranho... De qualquer forma, para encurtar a historia - um par de caras tem espionado esses grunhidos para mim, nao muito longe daqui. Aparentemente, os do Instituto de Pesquisa Agroprom desenterraram algo. Algo importante. Tenho certeza de que tem algo a ver com o centro da Zona. De qualquer forma, o que quer que tenham desenterrado, esta guardado em algum lugar no terceiro andar do Instituto. E nos realmente precisamos disso. Entende o que quero dizer?</text>
 	</string>
 	<string id="escape_trader_jobs_611111">
-		<text>I think so.</text>
+		<text>Acho que sim.</text>
 	</string>
 	<string id="escape_trader_jobs_6111111">
-		<text>Once you have the briefcase, don't bring it here. Take it straight to the Barman. He runs the stalker bar, the 100 Rads, I'll upload the coordinates and all the data you need to your PDA. Clear?</text>
+		<text>Depois que voce tiver a pasta, nao a traga aqui. Leve-a direto para o Bartender. Ele administra o bar dos stalkers, o 100 Rads, vou carregar as coordenadas e todos os dados que voce precisa no seu PDA. Entendido?</text>
 	</string>
 	<string id="escape_trader_jobs_61111111">
-		<text>Gotcha.</text>
+		<text>Entendi.</text>
 	</string>
 	<string id="escape_trader_jobs_611111111">
-		<text>You'll have to go North through the Garbage, then turn West. You'll end up at the Agroprom Research Institute after a few kilometers. And be careful, the radiation level is way too high at the Garbage. So I suggest you cough up for some antirad or vodka. Well, good luck.</text>
+		<text>Voce tera que ir para o norte pelo Lixao, depois virar para o oeste. Voce vai acabar no Instituto de Pesquisa Agroprom depois de alguns quilometros. E tenha cuidado, o nivel de radiacao e muito alto no Lixao. Entao, sugiro que voce desembolse algum antirrad ou vodka. Bem, boa sorte.</text>
 	</string>
 	<string id="escape_trader_start_dialog_111">
-		<text>Got a job for you, Marked One... I want you to find a stalker called Nimble, he was carrying some very important information. He disappeared somewhere near the bridge. Find him, dead or alive - I don't care, I need the flash drive with the info. Visit Wolf from the local camp, and ask him. He certainly knows where that guy can be.</text>
+		<text>Tenho um trabalho para voce, Marca... Quero que voce encontre um stalker chamado Esperto, ele estava carregando algumas informacoes muito importantes. Ele desapareceu em algum lugar perto da ponte. Encontre-o, morto ou vivo - nao me importo, preciso do pendrive com as informacoes. Visite Lobo no acampamento local e pergunte a ele. Ele certamente sabe onde esse cara pode estar.</text>
 	</string>
 	<string id="escape_trader_start_dialog_1111">
-		<text>Is that it?</text>
+		<text>E so isso?</text>
 	</string>
 	<string id="escape_trader_start_dialog_171">
-		<text>Hey Marked One, what's up?</text>
+		<text>Ei Marca, e ai?</text>
 	</string>
 	<string id="escape_trader_start_dialog_181">
-		<text>Marked One, what are you doing here? I told you to find Nimble!</text>
+		<text>Marca, o que voce esta fazendo aqui? Eu te disse para encontrar Esperto!</text>
 	</string>
 	<string id="escape_trader_start_dialog_191">
-		<text>So, you paid X18 a visit? Got the documents?</text>
+		<text>Entao, voce visitou o X18? Pegou os documentos?</text>
 	</string>
 	<string id="escape_trader_start_dialog_1911">
-		<text>Yeah. Here they are.</text>
+		<text>Sim. Aqui estao eles.</text>
 	</string>
 	<string id="escape_trader_start_dialog_19111">
-		<text>Well, well... I see... Now that's interesting, very interesting! If I told anyone they wouldn't believe me! Hmm... Yeah... Oh! Would you just look at that! I didn't expect this... it's pretty bad, eh... Well, here take these back and give them to the Barkeep. Oh, and I owe you for your efforts.</text>
+		<text>Bem, bem... Entendo... Isso e interessante, muito interessante! Se eu contasse para alguem, eles nao acreditariam em mim! Hmm... Sim... Oh! Olha so isso! Eu nao esperava por isso... e bem ruim, hein... Bem, aqui, pegue de volta e de para o Bartender. Ah, e eu te devo pelos seus esforcos.</text>
 	</string>
 	<string id="escape_trader_start_dialog_199">
-		<text>Wait. Here, take this pistol and ammo. You won't last two seconds in the Zone without a weapon! By the way, when you were brought here, you had a knife. I took it off you just in case your head wasn't quite working. You look OK though, so here it is.</text>
+		<text>Espere. Aqui, pegue esta pistola e municao. Voce nao duraria dois segundos na Zona sem uma arma! A proposito, quando voce foi trazido para ca, voce tinha uma faca. Eu tirei de voce por precaucao, caso sua cabeca nao estivesse funcionando direito. Voce parece bem, entao aqui esta.</text>
 	</string>
 	<string id="escape_trader_start_dialog_1999">
-		<text>Thank you.</text>
+		<text>Obrigado.</text>
 	</string>
 	<string id="escape_trader_start_dialog_200">
-		<text>So Marked One, any progress on our mutual business?</text>
+		<text>Entao, Marca, algum progresso em nosso negocio mutuo?</text>
 	</string>
 	<string id="escape_trader_start_dialog_3">
-		<text>The choice is yours. Either I brainwash you like I usually do with all the rookies or I treat you like a real stalker and give you a mission straight away.</text>
+		<text>A escolha e sua. Ou eu lavo seu cerebro como costumo fazer com todos os novatos ou te trato como um stalker de verdade e te dou uma missao direto.</text>
 	</string>
 	<string id="escape_trader_start_dialog_300">
-		<text>Hey, Marked One! Good timing, I've got a little job for you.</text>
+		<text>Ei, Marca! Bom timing, tenho um pequeno trabalho para voce.</text>
 	</string>
 	<string id="escape_trader_start_dialog_31">
-		<text>Treat me like a rookie, I don't remember shit.</text>
+		<text>Me trate como um novato, nao me lembro de merda nenhuma.</text>
 	</string>
 	<string id="escape_trader_start_dialog_32">
-		<text>Just give me a mission.</text>
+		<text>Apenas me de uma missao.</text>
 	</string>
 	<string id="escape_trader_start_dialog_321">
-		<text>Got a job for you, Marked One... I want you to find a stalker called Nimble, he was carrying some very important information. He disappeared somewhere near the bridge. Find him, dead or alive - I don't care, I need the flash drive with the info. Visit Wolf from the local camp, and ask him. He certainly knows where that guy can be.</text>
+		<text>Tenho um trabalho para voce, Marca... Quero que voce encontre um stalker chamado Esperto, ele estava carregando algumas informacoes muito importantes. Ele desapareceu em algum lugar perto da ponte. Encontre-o, morto ou vivo - nao me importo, preciso do pendrive com as informacoes. Visite Lobo no acampamento local e pergunte a ele. Ele certamente sabe onde esse cara pode estar.</text>
 	</string>
 	<string id="escape_trader_start_dialog_3211">
-		<text>Go on.</text>
+		<text>Continue.</text>
 	</string>
 	<string id="escape_trader_start_dialog_32111">
-		<text>That's all for now. Bring me the flash drive and we'll consider the fact that you've partially paid me for saving you.</text>
+		<text>E so isso por enquanto. Traga-me o pendrive e consideraremos o fato de que voce me pagou parcialmente por te salvar.</text>
 	</string>
 	<string id="escape_trader_start_dialog_321111">
-		<text>OK, I'll try.</text>
+		<text>OK, eu vou tentar.</text>
 	</string>
 	<string id="escape_trader_start_dialog_4">
-		<text>Hey, Marked One. Glad to see you alive.</text>
+		<text>Ei, Marca. Que bom te ver vivo.</text>
 	</string>
 	<string id="escape_trader_start_dialog_5">
-		<text>Greetings, Marked One! Did you manage?</text>
+		<text>Saudacoes, Marca! Voce conseguiu?</text>
 	</string>
 	<string id="escape_trader_start_dialog_51">
-		<text>Task complete. Here's the artifact.</text>
+		<text>Tarefa completa. Aqui esta o artefato.</text>
 	</string>
 	<string id="escape_trader_start_dialog_511">
-		<text>Great, Marked One. One more little favor and we're even.</text>
+		<text>Otimo, Marca. Mais um pequeno favor e estamos quites.</text>
 	</string>
 	<string id="escape_trader_start_dialog_5111">
-		<text>What favor?</text>
+		<text>Que favor?</text>
 	</string>
 	<string id="escape_trader_start_dialog_52">
-		<text>The situation has become clear.</text>
+		<text>A situacao ficou clara.</text>
 	</string>
 	<string id="escape_trader_start_dialog_52111">
-		<text>Where's the flash drive with the info?</text>
+		<text>Onde esta o pendrive com as informacoes?</text>
 	</string>
 	<string id="escape_trader_start_dialog_521111">
-		<text>Here it is.</text>
+		<text>Aqui esta.</text>
 	</string>
 	<string id="escape_trader_start_dialog_5211111">
-		<text>Great.</text>
+		<text>Otimo.</text>
 	</string>
 	<string id="escape_trader_start_dialog_521112">
-		<text>I don't have it.</text>
+		<text>Eu nao tenho ele.</text>
 	</string>
 	<string id="escape_trader_start_dialog_5211121">
-		<text>That's a pity, Marked One, a real pity. We can't talk business until you bring it to me...</text>
+		<text>Que pena, Marca, uma pena real. Nao podemos falar de negocios ate voce me trazer ele...</text>
 	</string>
 	<string id="escape_trader_start_dialog_521211">
-		<text>Here, take it.</text>
+		<text>Aqui, pegue.</text>
 	</string>
 	<string id="escape_trader_start_dialog_5212111">
-		<text>Good...We'll consider that you passed the test. I'd suggest you avoid going to the rookie camp.</text>
+		<text>Bom... Consideraremos que voce passou no teste. Eu sugiro que voce evite ir ao acampamento de novatos.</text>
 	</string>
 	<string id="escape_trader_start_dialog_56">
-		<text>Nothing yet.</text>
+		<text>Nada ainda.</text>
 	</string>
 	<string id="escape_trader_start_dialog_571">
-		<text>So, did you bring the artifact?</text>
+		<text>Entao, voce trouxe o artefato?</text>
 	</string>
 	<string id="escape_trader_start_dialog_5711">
-		<text>Not yet.</text>
+		<text>Ainda nao.</text>
 	</string>
 	<string id="escape_trader_start_dialog_57111">
-		<text>Well, until you bring it, we've got nothing to talk about. Got it?</text>
+		<text>Bem, ate voce trazer, nao temos nada para conversar. Entendeu?</text>
 	</string>
 	<string id="escape_trader_start_dialog_6">
-		<text>Marked One, I've told you everything already. Get outta here!</text>
+		<text>Marca, eu ja te disse tudo. Suma daqui!</text>
 	</string>
 	<string id="escape_trader_start_dialog_661">
-		<text>So Marked One, any news?</text>
+		<text>Entao, Marca, alguma novidade?</text>
 	</string>
 	<string id="escape_trader_talk_info_0">
-		<text>I need answers to a few questions.</text>
+		<text>Preciso de respostas para algumas perguntas.</text>
 	</string>
 	<string id="escape_trader_talk_info_1">
-		<text>Ask away but I don’t know everything. I sit here all day while life goes on outside, in the Zone. I can tell you about the Zone in general and a little about the nearby areas where I've been myself.</text>
+		<text>Pergunte, mas eu nao sei de tudo. Eu fico aqui o dia todo enquanto a vida continua la fora, na Zona. Posso te contar sobre a Zona em geral e um pouco sobre as areas proximas onde eu mesmo estive.</text>
 	</string>
 	<string id="escape_trader_talk_info_100">
-		<text>Tell me about the Zone in general.</text>
+		<text>Fale-me sobre a Zona em geral.</text>
 	</string>
 	<string id="escape_trader_talk_info_101">
-		<text>Ask away.</text>
+		<text>Pergunte.</text>
 	</string>
 	<string id="escape_trader_talk_info_2">
-		<text>What does the army do in the Zone?</text>
+		<text>O que o exercito faz na Zona?</text>
 	</string>
 	<string id="escape_trader_talk_info_21">
-		<text>They guard and protect, what else? No one really knows whether they're guarding the Zone or protecting the rest of the world from it. Sometimes they send whole expeditions here to look for something... But I'll tell you something: they don't respect the Zone and the Zone doesn't like them either, that's why they return home in body bags very often. What else is there? Well, they look down at everyone and act like gods or something. They have no respect for stalker rules and won't ever help you even if you're dying right in front of them. They'll gladly shoot you themselves tho', and they don't get reprimanded for that... I've got a few contacts among them...you know, people always need vodka and...umm, magazines, right? Don't annoy them - they'll whack you for nothing.</text>
+		<text>Eles guardam e protegem, o que mais? Ninguem sabe ao certo se eles estao guardando a Zona ou protegendo o resto do mundo dela. As vezes, eles enviam expedicoes inteiras para ca para procurar algo... Mas vou te dizer uma coisa: eles nao respeitam a Zona e a Zona tambem nao gosta deles, por isso eles voltam para casa em sacos de cadaveres com muita frequencia. O que mais tem? Bem, eles menosprezam todo mundo e agem como deuses ou algo assim. Eles nao tem respeito pelas regras dos stalkers e nunca vao te ajudar, mesmo que voce esteja morrendo bem na frente deles. Eles vao te atirar com prazer, e nao sao repreendidos por isso... Tenho alguns contatos entre eles... voce sabe, as pessoas sempre precisam de vodka e... hum, revistas, certo? Nao os irrite - eles vao te bater a toa.</text>
 	</string>
 	<string id="escape_trader_talk_info_3">
-		<text>Tell me about the Zone.</text>
+		<text>Fale-me sobre a Zona.</text>
 	</string>
 	<string id="escape_trader_talk_info_31">
-		<text>The Zone... You see, it's not just a circle a few kilometers in diameter with a nuclear power plant in the center. It's something bizarre. Really bizarre. I doubt anyone in the world could give you a straight answer. I feel the Zone isn't even part of this world. It's a different, detached world, weird and dangerous... and attractive, too. And you know why? Because with a little luck anyone can get rich quick. And the closer you come to the center of the Zone, the higher you will climb on the money ladder.</text>
+		<text>A Zona... Veja bem, nao e apenas um circulo de alguns quilometros de diametro com uma usina nuclear no centro. E algo bizarro. Muito bizarro. Duvido que alguem no mundo possa te dar uma resposta direta. Sinto que a Zona nem faz parte deste mundo. E um mundo diferente, separado, estranho e perigoso... e atraente tambem. E sabe por que? Porque com um pouco de sorte qualquer um pode ficar rico rapido. E quanto mais voce se aproxima do centro da Zona, mais alto voce sobe na escala do dinheiro.</text>
 	</string>
 	<string id="escape_trader_talk_info_311">
-		<text>What's so dangerous about this "different world"?</text>
+		<text>O que e tao perigoso neste "mundo diferente"?</text>
 	</string>
 	<string id="escape_trader_talk_info_3111">
-		<text>Hrm... Not a whole lot, except you can croak any second and not know what hit you. A dumb soldier's bullet is the least of your problems, although they've pulled in a lot of military here. Getting shot is basically the most painless kind of death in the Zone. Anomalies, now that's something for you... To die in an anomaly is a terrible thing indeed. Even mutants try to keep away from them. By the way, mutants, these "children of the Zone", are another kind of trouble, so don't go anywhere unarmed. And anyway, to learn about the other dangers, just ask other stalkers.</text>
+		<text>Hrm... Nao muita coisa, exceto que voce pode morrer a qualquer segundo e nao saber o que te atingiu. A bala de um soldado burro e o menor dos seus problemas, embora eles tenham trazido muitos militares para ca. Ser baleado e basicamente o tipo de morte mais indolor na Zona. Anomalias, agora isso sim e algo para voce... Morrer em uma anomalia e uma coisa terrivel. Ate os mutantes tentam ficar longe delas. A proposito, mutantes, esses "filhos da Zona", sao outro tipo de problema, entao nao va a lugar nenhum desarmado. E de qualquer forma, para aprender sobre os outros perigos, basta perguntar a outros stalkers.</text>
 	</string>
 	<string id="escape_trader_talk_info_312">
-		<text>How does one get rich around here?</text>
+		<text>Como alguem fica rico por aqui?</text>
 	</string>
 	<string id="escape_trader_talk_info_3121">
-		<text>Gee, man, what do you think? You don't remember?! Artifacts, that's the most important thing here. All sorts of weird toys that come from the Zone are worth a fortune in the Big Land. Artifacts are more precious than gold, diamonds or pure plutonium. Why? Because no jewelry in the world can give you the supernatural powers that the artifacts possess. Just imagine: you can hang a little gadget on your belt that makes bullets swerve by and never hit you! What else? Well, you can find bits and pieces even right here. For the most valuable pieces though, you'll have to get closer to the center.</text>
+		<text>Puxa, cara, o que voce acha? Voce nao se lembra?! Artefatos, essa e a coisa mais importante aqui. Todos os tipos de brinquedos estranhos que vem da Zona valem uma fortuna na Terra Grande. Artefatos sao mais preciosos do que ouro, diamantes ou plutonio puro. Por que? Porque nenhuma joia no mundo pode te dar os poderes sobrenaturais que os artefatos possuem. Imagine so: voce pode pendurar um pequeno aparelho no seu cinto que faz as balas desviarem e nunca te acertarem! O que mais? Bem, voce pode encontrar pedacos e pedacos ate mesmo aqui. Para as pecas mais valiosas, no entanto, voce tera que se aproximar do centro.</text>
 	</string>
 	<string id="escape_trader_talk_info_313">
-		<text>Does anyone know what's happening in the center of the Zone?</text>
+		<text>Alguem sabe o que esta acontecendo no centro da Zona?</text>
 	</string>
 	<string id="escape_trader_talk_info_3131">
-		<text>It's a different tale every time you hear it. It's a bunch of fairy tales... except I don't believe all that otherworldly nonsense. The one thing I do believe is that the center of the Zone contains a lot of valuable artifacts. Only I haven't met anyone who went there and managed to come back alive.</text>
+		<text>E uma historia diferente cada vez que voce ouve. E um monte de contos de fadas... exceto que eu nao acredito em toda essa bobagem de outro mundo. A unica coisa em que acredito e que o centro da Zona contem muitos artefatos valiosos. So que eu nao conheci ninguem que foi la e conseguiu voltar vivo.</text>
 	</string>
 	<string id="escape_trader_talk_info_4">
-		<text>Do you know what happened to me?</text>
+		<text>Voce sabe o que aconteceu comigo?</text>
 	</string>
 	<string id="escape_trader_talk_info_41">
-		<text>What kind of question is that? You see, that's some shady business... They found you in a "death truck", that's a... a kind of corpse carrier, right? These trucks come in from the center of the Zone once in a while, loaded with bodies. No one really knows where they are heading. So, one of them crashed into something and you were found nearby. This is the most amazing thing of all. We've found broken-down corpse carriers before, but no one ever came out of them alive. I'm sorry, bro, that's all I can help you with. The rest you'll have to figure out for yourself.</text>
+		<text>Que tipo de pergunta e essa? Veja bem, isso e um negocio obscuro... Eles te encontraram em um "caminhao da morte", que e um... um tipo de transportador de cadaveres, certo? Esses caminhoes vem do centro da Zona de vez em quando, carregados de corpos. Ninguem sabe ao certo para onde eles estao indo. Entao, um deles bateu em alguma coisa e voce foi encontrado por perto. Esta e a coisa mais incrivel de todas. Ja encontramos transportadores de cadaveres quebrados antes, mas ninguem nunca saiu deles vivo. Sinto muito, irmao, e tudo o que posso te ajudar. O resto voce tera que descobrir sozinho.</text>
 	</string>
 	<string id="escape_trader_talk_info_5">
-		<text>Who is Strelok?</text>
+		<text>Quem e Strelok?</text>
 	</string>
 	<string id="escape_trader_talk_info_51">
-		<text>Yeah, I've heard of a stalker by that name. Rumors is he's one of the few who went to the center of the Zone and made it back. Still, we got so many of these legendary stories about stalker heroes that I can't really guarantee anything. At any rate, I've never dealt with him personally. It seems he has his own trading channels. Anyhow, just ask the folks here in the Zone and you'll be sure to learn a lot more.</text>
+		<text>Sim, ja ouvi falar de um stalker com esse nome. Dizem que ele e um dos poucos que foi ao centro da Zona e voltou. Ainda assim, temos tantas dessas historias lendarias sobre herois stalkers que nao posso garantir nada. De qualquer forma, nunca lidei com ele pessoalmente. Parece que ele tem seus proprios canais de comercio. De qualquer forma, basta perguntar ao pessoal aqui na Zona e voce certamente aprendera muito mais.</text>
 	</string>
 	<string id="escape_trader_talk_info_6">
-		<text>Who is this Ghost stalker?</text>
+		<text>Quem e esse stalker Fantasma?</text>
 	</string>
 	<string id="escape_trader_talk_info_61">
-		<text>Heh, that's another local legend. We haven't had any news from him in a long while. I suppose he perished somewhere deep in the Zone.</text>
+		<text>Heh, essa e outra lenda local. Nao temos noticias dele ha muito tempo. Suponho que ele tenha perecido em algum lugar profundo na Zona.</text>
 	</string>
 	<string id="escape_trader_talk_info_99">
-		<text>What's going on in this neighborhood?</text>
+		<text>O que esta acontecendo nesta vizinhanca?</text>
 	</string>
 	<string id="escape_trader_talk_info_999">
-		<text>Huh! This is the entrance to the Zone, a sort of an antechamber. We've got an army cordon here. It's relatively quiet, with the exception of a couple of army guys who like to have some fun, go on shakedown runs. Experienced stalkers don't come by very often, so it's mostly rookies. Some settle here for good, yeah... A little ways from here there's a farm made into a rookie camp. Watch yourself though, they aren't afraid to pull the trigger when push comes to shove. What else? You won't make huge profit here, that's for sure. There's a deserted factory across the road. To the North, behind the railroad embankment there are the ruins of a farm. An army outpost lies to the South of here. And beware: the military left some mines in the ground. Also, there used to be a bridge in the center, but it went down somehow. That's about it, really.</text>
+		<text>Huh! Esta e a entrada da Zona, uma especie de antessala. Temos um cordao do exercito aqui. E relativamente tranquilo, com excecao de alguns caras do exercito que gostam de se divertir, fazem incursoes de revista. Stalkers experientes nao aparecem com muita frequencia, entao sao principalmente novatos. Alguns se estabelecem aqui para sempre, sim... Um pouco longe daqui, ha uma fazenda transformada em um acampamento de novatos. Cuidado, eles nao tem medo de puxar o gatilho quando a situacao aperta. O que mais? Voce nao vai ter um lucro enorme aqui, com certeza. Ha uma fabrica deserta do outro lado da rua. Ao norte, atras do aterro ferroviario, estao as ruinas de uma fazenda. Um posto avancado do exercito fica ao sul daqui. E cuidado: os militares deixaram algumas minas no chao. Alem disso, costumava haver uma ponte no centro, mas ela caiu de alguma forma. E basicamente isso.</text>
 	</string>
 	<string id="escape_trader_talk_info_9991">
-		<text>Tell me more about the army outpost.</text>
+		<text>Conte-me mais sobre o posto avancado do exercito.</text>
 	</string>
 	<string id="escape_trader_talk_info_99911">
-		<text>The few soldiers there have been ordered to shoot on sight, so you'd better walk around it and try not to show your ass. If you piss them off, they may call for the Spetsnaz from the further cordon. Those guys can brew up such shit that I won't have any customers for a month... I know the commander a little: he likes to take a swig as much as the next man. I'm surviving on here thanks to him.</text>
+		<text>Os poucos soldados la receberam ordens para atirar a vista, entao e melhor voce contorna-lo e tentar nao mostrar a bunda. Se voce os irritar, eles podem chamar as Forcas Especiais do cordao mais distante. Aqueles caras podem criar tanta merda que eu nao terei clientes por um mes... Eu conheco o comandante um pouco: ele gosta de tomar um gole tanto quanto qualquer outro. Estou sobrevivendo aqui gracas a ele.</text>
 	</string>
 	<string id="escape_trader_talk_info_9992">
-		<text>I want to know more about the fallen bridge.</text>
+		<text>Quero saber mais sobre a ponte caida.</text>
 	</string>
 	<string id="escape_trader_talk_info_99922">
-		<text>That's just a couple of minutes North of here, you'll see it right away. There used to be a bridge over the road, but then it collapsed during one of the blowouts. The army guys built a checkpoint there and don't let anyone through... but if you grease the right palm, you'll pass with no problems. In general, you don't want to show your face there too much, unless you're badly wounded or got a heavy load on you.</text>
+		<text>Fica a apenas alguns minutos ao norte daqui, voce vai ve-la imediatamente. Costumava haver uma ponte sobre a estrada, mas ela desabou durante um dos estouros. Os caras do exercito construiram um posto de controle la e nao deixam ninguem passar... mas se voce untar a palma da mao certa, voce passa sem problemas. Em geral, voce nao quer mostrar muito a sua cara la, a menos que esteja gravemente ferido ou carregando uma carga pesada.</text>
 	</string>
 	<string id="escape_trader_talk_info_9993">
-		<text>Got some more info about the factory?</text>
+		<text>Tem mais informacoes sobre a fabrica?</text>
 	</string>
 	<string id="escape_trader_talk_info_99933">
-		<text>Cross the road and you'll see a brick building - that's it. Everything worth stealing has already been stolen, just this one box is left. This is the bandits' favorite place. I don't know if they are there now, but watch out just in case. You got nothing valuable on you to take, but do you really wanna go through all that?</text>
+		<text>Atravesse a rua e voce vera um predio de tijolos - e isso. Tudo o que valia a pena roubar ja foi roubado, so sobrou esta caixa. Este e o lugar favorito dos bandidos. Nao sei se eles estao la agora, mas fique atento por precaucao. Voce nao tem nada de valioso para levar, mas voce realmente quer passar por tudo isso?</text>
 	</string>
 	<string id="escape_trader_talk_info_9994">
-		<text>Tell me about the farm.</text>
+		<text>Fale-me sobre a fazenda.</text>
 	</string>
 	<string id="escape_trader_talk_info_99944">
-		<text>You're getting boring, you know that? It's just a farm like any other. The place used to thrive before democracy broke out.</text>
+		<text>Voce esta ficando chato, sabia? E apenas uma fazenda como qualquer outra. O lugar costumava prosperar antes da democracia explodir.</text>
 	</string>
 	<string id="escape_trader_talk_info_9995">
-		<text>Thanks, that's all.</text>
+		<text>Obrigado, e tudo.</text>
 	</string>
 	<string id="escape_trader_talk_info_9996">
-		<text>I'd like to find out more.</text>
+		<text>Gostaria de descobrir mais.</text>
 	</string>
 	<string id="escape_trader_talk_level_0">
-		<text>Tell me about this place.</text>
+		<text>Fale-me sobre este lugar.</text>
 	</string>
 	<string id="escape_trader_talk_level_1">
-		<text>Huh! This is the entrance to the Zone, a sort of an antechamber. We've got an army cordon here. It's relatively quiet, with the exception of a couple of army guys who like to have some fun, go on shakedown runs. Experienced stalkers don't come by very often, so it's mostly rookies. Some settle here for good, yeah... A little ways from here there's a farm made into a rookie camp. Watch yourself though, they aren't afraid to pull the trigger when push comes to shove. What else? You won't make huge profit here, that's for sure. There's a deserted factory across the road. To the North, behind the railroad embankment there are the ruins of a farm. An army outpost lies to the South of here. And beware: the military left some mines in the ground. Also, there used to be a bridge in the center, but it went down somehow. That's about it, really.</text>
+		<text>Huh! Esta e a entrada da Zona, uma especie de antessala. Temos um cordao do exercito aqui. E relativamente tranquilo, com excecao de alguns caras do exercito que gostam de se divertir, fazem incursoes de revista. Stalkers experientes nao aparecem com muita frequencia, entao sao principalmente novatos. Alguns se estabelecem aqui para sempre, sim... Um pouco longe daqui, ha uma fazenda transformada em um acampamento de novatos. Cuidado, eles nao tem medo de puxar o gatilho quando a situacao aperta. O que mais? Voce nao vai ter um lucro enorme aqui, com certeza. Ha uma fabrica deserta do outro lado da rua. Ao norte, atras do aterro ferroviario, estao as ruinas de uma fazenda. Um posto avancado do exercito fica ao sul daqui. E cuidado: os militares deixaram algumas minas no chao. Alem disso, costumava haver uma ponte no centro, mas ela caiu de alguma forma. E basicamente isso.</text>
 	</string>
 	<string id="escape_trader_talk_level_10">
-		<text>OK, thanks.</text>
+		<text>OK, obrigado.</text>
 	</string>
 	<string id="escape_trader_talk_level_2">
-		<text>Tell me more about the army outpost.</text>
+		<text>Conte-me mais sobre o posto avancado do exercito.</text>
 	</string>
 	<string id="escape_trader_talk_level_21">
-		<text>The few soldiers there have been ordered to shoot on sight, so you'd better walk around it and try not to show your ass. If you piss them off, they may call for the Spetsnaz from the further cordon. Those guys can brew up such shit that I won't have any customers for a month... I know the commander a little: he likes to take a swig as much as the next man. I'm surviving on here thanks to him.</text>
+		<text>Os poucos soldados la receberam ordens para atirar a vista, entao e melhor voce contorna-lo e tentar nao mostrar a bunda. Se voce os irritar, eles podem chamar as Forcas Especiais do cordao mais distante. Aqueles caras podem criar tanta merda que eu nao terei clientes por um mes... Eu conheco o comandante um pouco: ele gosta de tomar um gole tanto quanto qualquer outro. Estou sobrevivendo aqui gracas a ele.</text>
 	</string>
 	<string id="escape_trader_talk_level_3">
-		<text>I want to know more about the fallen bridge.</text>
+		<text>Quero saber mais sobre a ponte caida.</text>
 	</string>
 	<string id="escape_trader_talk_level_31">
-		<text>That's just a couple of minutes North of here - you'll see it right away. There used to be a bridge over the road, but then it collapsed during one of the blowouts. The army guys built a checkpoint there and don't let anyone through... but if you grease the right palm, you'll pass with no problems. In general, you don't want to show your face there too much, unless you're badly wounded or got a heavy load on you.</text>
+		<text>Fica a apenas alguns minutos ao norte daqui - voce vai ve-la imediatamente. Costumava haver uma ponte sobre a estrada, mas ela desabou durante um dos estouros. Os caras do exercito construiram um posto de controle la e nao deixam ninguem passar... mas se voce untar a palma da mao certa, voce passa sem problemas. Em geral, voce nao quer mostrar muito a sua cara la, a menos que esteja gravemente ferido ou carregando uma carga pesada.</text>
 	</string>
 	<string id="escape_trader_talk_level_4">
-		<text>Got some more info about the factory?</text>
+		<text>Tem mais informacoes sobre a fabrica?</text>
 	</string>
 	<string id="escape_trader_talk_level_41">
-		<text>Cross the road and you'll see a brick building - that's it. Everything worth stealing has already been stolen, just this one box is left. This is the bandits' favorite place. I don't know if they are there now, but watch out just in case. You got nothing valuable on you to take, but do you really wanna go through all that?</text>
+		<text>Atravesse a rua e voce vera um predio de tijolos - e isso. Tudo o que valia a pena roubar ja foi roubado, so sobrou esta caixa. Este e o lugar favorito dos bandidos. Nao sei se eles estao la agora, mas fique atento por precaucao. Voce nao tem nada de valioso para levar, mas voce realmente quer passar por tudo isso?</text>
 	</string>
 	<string id="escape_trader_talk_level_5">
-		<text>Tell me about the farm.</text>
+		<text>Fale-me sobre a fazenda.</text>
 	</string>
 	<string id="escape_trader_talk_level_51">
-		<text>You're getting boring, you know that? It's just a farm like any other. The place used to thrive before democracy broke out.</text>
+		<text>Voce esta ficando chato, sabia? E apenas uma fazenda como qualquer outra. O lugar costumava prosperar antes da democracia explodir.</text>
 	</string>
 	<string id="tutorial_wounded_give_medkit_1">
-		<text>I'm ok... bleeding all over though. Gimme a medkit, will ya?</text>
+		<text>Estou bem... sangrando por toda parte, no entanto. Me da um kit medico, quer?</text>
 	</string>
 	<string id="tutorial_wounded_give_medkit_121">
-		<text>Thanks, brother!</text>
+		<text>Obrigado, irmao!</text>
 	</string>
 	<string id="tutorial_wounded_give_medkit_2">
-		<text>Here you are.</text>
+		<text>Aqui esta.</text>
 	</string>
 	<string id="tutorial_wounded_give_medkit_21">
-		<text>Thanks, friend. A little longer and I'd... I owe you one.</text>
+		<text>Obrigado, amigo. Mais um pouco e eu... te devo uma.</text>
 	</string>
 	<string id="tutorial_wounded_give_medkit_211">
-		<text>What the hell happened?</text>
+		<text>O que diabos aconteceu?</text>
 	</string>
 	<string id="tutorial_wounded_give_medkit_2111">
-		<text>We were coming back from a scouting raid... Came across some gangsters. One of our guys got killed right there. They grabbed Nimble 'cause he made up a nice story about a cache full of artifacts. I played dead and that saved my ass.</text>
+		<text>Estavamos voltando de uma missao de reconhecimento... Encontramos alguns gangsters. Um dos nossos caras foi morto ali mesmo. Eles pegaram Esperto porque ele inventou uma bela historia sobre um esconderijo cheio de artefatos. Eu me fingi de morto e isso salvou minha pele.</text>
 	</string>
 	<string id="tutorial_wounded_give_medkit_21111">
-		<text>I need to see Nimble... I'm going after him. Wanna keep me company?</text>
+		<text>Preciso ver Esperto... Vou atras dele. Quer me fazer companhia?</text>
 	</string>
 	<string id="tutorial_wounded_give_medkit_211111">
-		<text>Oh, man... Right now I'm as good fighter as a pair of old socks. I gotta get some of my strength back and return to the camp. I'll let the people know how much you helped me! Thanks again.</text>
+		<text>Ah, cara... Agora eu sou um lutador tao bom quanto um par de meias velhas. Preciso recuperar minhas forcas e voltar para o acampamento. Vou avisar as pessoas o quanto voce me ajudou! Obrigado de novo.</text>
 	</string>
 	<string id="tutorial_wounded_give_medkit_2111111">
-		<text>OK, you do that. Get well.</text>
+		<text>OK, faca isso. Melhore.</text>
 	</string>
 	<string id="tutorial_wounded_give_medkit_3">
-		<text>Sorry, man. Ain't got a medkit.</text>
+		<text>Desculpe, cara. Nao tenho kit medico.</text>
 	</string>
 	<string id="tutorial_wounded_give_medkit_31">
-		<text>Search the bodies... Our guys must have had some... gotta be there somewhere.</text>
+		<text>Procure nos corpos... Nossos caras devem ter algum... deve estar la em algum lugar.</text>
 	</string>
 	<string id="tutorial_wounded_give_medkit_5111">
-		<text>Not too good, but I'll live. Damn, why haven't I saved up enough to buy a bulletproof vest. Takes a fool to go deep inside the Zone without one.</text>
+		<text>Nao muito bom, mas vou sobreviver. Droga, por que eu nao economizei o suficiente para comprar um colete a prova de balas. E preciso ser um tolo para ir fundo na Zona sem um.</text>
 	</string>
 	<string id="tutorial_wounded_give_medkit_6">
-		<text>Oh, damn, the pain is too much... I'm dying...</text>
+		<text>Ah, droga, a dor e demais... Estou morrendo...</text>
 	</string>
 	<string id="tutorial_wounded_give_medkit_61">
-		<text>You alive?</text>
+		<text>Voce esta vivo?</text>
 	</string>
 	<string id="tutorial_wounded_give_medkit_7">
 		<text>Ugh...</text>
 	</string>
 	<string id="tutorial_wounded_give_medkit_8">
-		<text>You alright?</text>
+		<text>Voce esta bem?</text>
 	</string>
 </string_table>

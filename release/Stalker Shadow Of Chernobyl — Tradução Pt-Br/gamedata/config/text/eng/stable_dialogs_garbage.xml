@@ -1,255 +1,255 @@
 <?xml version="1.0" encoding="windows-1251" ?>
 <string_table>
 	<string id="gar_dolg_blokpost_11">
-		<text>Halt, stalker. You can't go any further!</text>
+		<text>Pare, stalker. Voce nao pode ir mais longe!</text>
 	</string>
 	<string id="gar_dolg_blokpost_111">
-		<text>Why?</text>
+		<text>Por que?</text>
 	</string>
 	<string id="gar_dolg_blokpost_1111">
-		<text>Because that's our territory - Duty territory; and we're very picky about who we let through into our base. If you don't have anything important to discuss with our leaders you ain't getting past here.</text>
+		<text>Porque este e o nosso territorio - territorio do Dever; e somos muito exigentes sobre quem deixamos passar para nossa base. Se voce nao tem nada importante para discutir com nossos lideres, voce nao vai passar daqui.</text>
 	</string>
 	<string id="gar_dolg_blokpost_11111">
-		<text>I see.</text>
+		<text>Entendo.</text>
 	</string>
 	<string id="gar_dolg_blokpost_111111">
-		<text>Those are the rules.</text>
+		<text>Essas sao as regras.</text>
 	</string>
 	<string id="gar_dolg_blokpost_11112">
-		<text>I need to pass, I have some business with the Barkeep.</text>
+		<text>Eu preciso passar, tenho negocios com o Bartender.</text>
 	</string>
 	<string id="gar_dolg_blokpost_111121">
-		<text>Yes, Barkeep told us about you. You can pass.</text>
+		<text>Sim, o Bartender nos falou sobre voce. Voce pode passar.</text>
 	</string>
 	<string id="gar_dolg_blokpost_1111211">
-		<text>I'd rather pay. Here.</text>
+		<text>Eu prefiro pagar. Aqui.</text>
 	</string>
 	<string id="gar_dolg_blokpost_11112111">
-		<text>Good! You can go, but you better have some really important business with the Barkeep, you hear? And be careful - there's lots of anomalies ahead.</text>
+		<text>Bom! Voce pode ir, mas e melhor voce ter negocios realmente importantes com o Bartender, ouviu? E tenha cuidado - ha muitas anomalias a frente.</text>
 	</string>
 	<string id="gar_dolg_blokpost_1111212">
-		<text>What's the favor?</text>
+		<text>Qual e o favor?</text>
 	</string>
 	<string id="gar_dolg_blokpost_11112121">
-		<text>Nothing much. There is a herd of boars wandering nearby that needs to be killed. Take 'em out and consider your passage paid for.</text>
+		<text>Nada demais. Ha uma manada de javalis vagando por perto que precisa ser morta. Elimine-os e considere sua passagem paga.</text>
 	</string>
 	<string id="gar_dolg_blokpost_111121211">
-		<text>Deal.</text>
+		<text>Fechado.</text>
 	</string>
 	<string id="gar_dolg_blokpost_1111212111">
-		<text>Good luck, stalker.</text>
+		<text>Boa sorte, stalker.</text>
 	</string>
 	<string id="gar_dolg_blokpost_111121212">
-		<text>I don't have the money.</text>
+		<text>Eu nao tenho dinheiro.</text>
 	</string>
 	<string id="gar_dolg_blokpost_1111212121">
-		<text>Well, then you better start looking for it!</text>
+		<text>Bem, entao e melhor voce comecar a procurar!</text>
 	</string>
 	<string id="gar_dolg_blokpost_111122">
-		<text>I don't have the money.</text>
+		<text>Eu nao tenho dinheiro.</text>
 	</string>
 	<string id="gar_dolg_blokpost_111123">
-		<text>Well, you can't go through to the bar then.</text>
+		<text>Bem, entao voce nao pode passar para o bar.</text>
 	</string>
 	<string id="gar_dolg_blokpost_1231">
-		<text>Thanks for helping us fighting off the boars, take the deserved reward.</text>
+		<text>Obrigado por nos ajudar a lutar contra os javalis, pegue a recompensa merecida.</text>
 	</string>
 	<string id="gar_dolg_blokpost_12311">
-		<text>Thanks!</text>
+		<text>Obrigado!</text>
 	</string>
 	<string id="gar_dolg_blokpost_22">
-		<text>So, you killed those boars yet?</text>
+		<text>Entao, voce ja matou aqueles javalis?</text>
 	</string>
 	<string id="gar_dolg_blokpost_221">
-		<text>Not yet.</text>
+		<text>Ainda nao.</text>
 	</string>
 	<string id="gar_dolg_blokpost_2211">
-		<text>Shame. When you start cutting them up for chops, bring me one, would you?</text>
+		<text>Que pena. Quando voce comecar a corta-los para bifes, traga um para mim, quer?</text>
 	</string>
 	<string id="gar_dolg_blokpost_222">
-		<text>Yeah, I killed them all.</text>
+		<text>Sim, eu matei todos eles.</text>
 	</string>
 	<string id="gar_dolg_blokpost_2221">
-		<text>OK, go on. And say "hi" to the Barkeep for me, will you?</text>
+		<text>OK, va em frente. E diga "oi" para o Bartender por mim, quer?</text>
 	</string>
 	<string id="gar_dolg_blokpost_33">
-		<text>Say "hi" for the Barkeep from me when you see him. Oh, and don't forget - there are lots of anomalies on the way, so be careful.</text>
+		<text>Diga "oi" para o Bartender por mim quando voce o vir. Ah, e nao se esqueca - ha muitas anomalias no caminho, entao tenha cuidado.</text>
 	</string>
 	<string id="gar_dramm_novice_start_0">
-		<text>Thanks man- you really helped me out. I won't forget it.</text>
+		<text>Obrigado, cara - voce realmente me ajudou. Nao vou esquecer.</text>
 	</string>
 	<string id="gar_dramm_novice_start_1">
-		<text>What's going on here?</text>
+		<text>O que esta acontecendo aqui?</text>
 	</string>
 	<string id="gar_dramm_novice_start_11">
 		<text>OK.</text>
 	</string>
 	<string id="gar_dramm_novice_start_2">
-		<text>We're trying to clear the Garbage of bandits. My friends are going to ambush a bandit squad nearby. If we don't stop them, they'll take control of the Garbage and nobody will be able to go deeper into the Zone. Talk to our commander. He and his men are near here, at the machinery scrapyard. I'm going there myself - we can go together if you want.</text>
+		<text>Estamos tentando limpar o Lixao de bandidos. Meus amigos vao emboscar um esquadrao de bandidos por perto. Se nao os pararmos, eles vao assumir o controle do Lixao e ninguem podera ir mais fundo na Zona. Fale com nosso comandante. Ele e seus homens estao perto daqui, no ferro-velho de maquinas. Eu mesmo estou indo para la - podemos ir juntos se voce quiser.</text>
 	</string>
 	<string id="gar_dramm_novice_start_21">
-		<text>Let's go.</text>
+		<text>Vamos la.</text>
 	</string>
 	<string id="gar_dramm_novice_start_3">
-		<text>Can you tell me anything about the Garbage?</text>
+		<text>Voce pode me dizer alguma coisa sobre o Lixao?</text>
 	</string>
 	<string id="gar_dramm_novice_start_31">
-		<text>There ain't much to tell, man. The Garbage is...a dump. Duty fighters guard the northern road to the Bar. You might want to avoid them - Duty is full of real nasty types. To the right are the paths into the Dark Valley but the radiation levels are very high there. A little closer is the Grimpen Mire - terrible marshes full of anomalies. They say it's easy to find some decent artifacts there but even easier to find a lot of trouble. Oh well, at least there ain't no Hound of the Baskervilles in the Mire!</text>
+		<text>Nao ha muito para contar, cara. O Lixao e... um lixao. Combatentes do Dever guardam a estrada do norte para o Bar. Voce pode querer evita-los - o Dever esta cheio de tipos realmente desagradaveis. A direita estao os caminhos para o Vale Sombrio, mas os niveis de radiacao sao muito altos la. Um pouco mais perto esta o Pantano de Grimpen - pantanos terriveis cheios de anomalias. Dizem que e facil encontrar alguns artefatos decentes la, mas ainda mais facil encontrar muitos problemas. Ah, bem, pelo menos nao ha nenhum Cao dos Baskervilles no Pantano!</text>
 	</string>
 	<string id="gar_dramm_novice_start_311">
-		<text>Go on.</text>
+		<text>Continue.</text>
 	</string>
 	<string id="gar_dramm_novice_start_3111">
-		<text>To the right, by the marshes, there's a secret hiding place. You'll see a metallic construction overhanging a puddle. My stash is right below it...I put it there a while ago but you saved my life and you probably need it more than I do anyway. So feel free to use it</text>
+		<text>A direita, perto dos pantanos, ha um esconderijo secreto. Voce vera uma construcao metalica pendurada sobre uma poca. Meu esconderijo esta logo abaixo dela... Eu o coloquei la ha um tempo, mas voce salvou minha vida e provavelmente precisa dele mais do que eu de qualquer maneira. Entao, fique a vontade para usa-lo.</text>
 	</string>
 	<string id="gar_dramm_novice_start_31111">
-		<text>Thanks man, that's useful info.</text>
+		<text>Obrigado, cara, essa informacao e util.</text>
 	</string>
 	<string id="gar_dramm_novice_start_312">
-		<text>That's interesting, thanks.</text>
+		<text>Isso e interessante, obrigado.</text>
 	</string>
 	<string id="gar_hellcar_start_11">
-		<text>Hey stalker, you're just in time! We could really use your help. Those bandit bastards are trying to take control of the Garbage. We had a shootout here half an hour ago and managed to take down three of the dogs. The others retreated, but I'm dead certain they are going to come back with reinforcements any minute now. There aren't too many of us left and another man wouldn't hurt.</text>
+		<text>Ei, stalker, voce chegou na hora certa! Nos realmente poderiamos usar sua ajuda. Aqueles bastardos bandidos estao tentando assumir o controle do Lixao. Tivemos um tiroteio aqui ha meia hora e conseguimos derrubar tres dos caes. Os outros recuaram, mas tenho certeza de que eles vao voltar com reforcos a qualquer minuto agora. Nao sobramos muitos de nos e mais um homem nao faria mal.</text>
 	</string>
 	<string id="gar_hellcar_start_111">
-		<text>Go on.</text>
+		<text>Continue.</text>
 	</string>
 	<string id="gar_hellcar_start_1111">
-		<text>We've set up an ambush for them here. They'll be coming from the West, from the Agroprom Research Institute. Help us destroy their reinforcements and you won't regret it!</text>
+		<text>Montamos uma emboscada para eles aqui. Eles virao do oeste, do Instituto de Pesquisa Agroprom. Ajude-nos a destruir seus reforcos e voce nao vai se arrepender!</text>
 	</string>
 	<string id="gar_hellcar_start_11111">
-		<text>OK, I'll help you.</text>
+		<text>OK, eu vou te ajudar.</text>
 	</string>
 	<string id="gar_hellcar_start_111111">
-		<text>Great.</text>
+		<text>Otimo.</text>
 	</string>
 	<string id="gar_hellcar_start_11112">
-		<text>It's none of my business and I don't want to get involved.</text>
+		<text>Nao e da minha conta e eu nao quero me envolver.</text>
 	</string>
 	<string id="gar_hellcar_start_111121">
-		<text>As you wish. You'll be cursing your stupidity every time you pay those boneheads for passage into the Zone.</text>
+		<text>Como quiser. Voce vai amaldicoar sua estupidez toda vez que pagar aqueles cabecas de osso pela passagem para a Zona.</text>
 	</string>
 	<string id="gar_hellcar_start_11113">
-		<text>I've killed them all.</text>
+		<text>Eu matei todos eles.</text>
 	</string>
 	<string id="gar_hellcar_start_111131">
-		<text>You're the man! But I'll play it safe just in case.</text>
+		<text>Voce e o cara! Mas vou garantir so por precaucao.</text>
 	</string>
 	<string id="gar_hellcar_start_21">
-		<text>We have nothing to talk about.</text>
+		<text>Nao temos nada para conversar.</text>
 	</string>
 	<string id="gar_hellcar_start_3111">
-		<text>Thanks man, you really helped us out there. Will you accept some cash? A small token of our gratitude.</text>
+		<text>Obrigado, cara, voce realmente nos ajudou la. Voce aceita algum dinheiro? Um pequeno sinal de nossa gratidao.</text>
 	</string>
 	<string id="gar_hellcar_start_31111">
-		<text>Sure.</text>
+		<text>Claro.</text>
 	</string>
 	<string id="gar_hellcar_start_311111">
-		<text>Here, this should pay for the medical treatment to recover your health.</text>
+		<text>Aqui, isso deve pagar pelo tratamento medico para recuperar sua saude.</text>
 	</string>
 	<string id="gar_hellcar_start_3111111">
-		<text>Thank you.</text>
+		<text>Obrigado.</text>
 	</string>
 	<string id="gar_hellcar_start_31113">
-		<text>Tell me about yourself.</text>
+		<text>Fale-me sobre voce.</text>
 	</string>
 	<string id="gar_hellcar_start_311131">
-		<text>Bes's my name. I came to these parts three years ago. Like many of the guys in the Zone I'm a fugitive, wanted for two murders and GBH. A few years ago a friend of mine got battered pretty bad - they had to literally stitch him back together at the hospital. So I paid the bastards who did it a little "visit". When the coppers showed up I had to shoot one of them and jump out of a third-floor window - I've been here since. I've done well in this place but the list of my crimes has got a little longer too. I try to fight the lawless just as I did on the outside. I train up rookies and teach them to survive in the Zone.</text>
+		<text>Meu nome e Bes. Vim para estas partes ha tres anos. Como muitos dos caras na Zona, sou um fugitivo, procurado por dois assassinatos e lesoes corporais graves. Ha alguns anos, um amigo meu foi espancado muito feio - eles tiveram que literalmente costura-lo de volta no hospital. Entao, fiz uma pequena "visita" aos bastardos que fizeram isso. Quando os policiais apareceram, tive que atirar em um deles e pular da janela do terceiro andar - estou aqui desde entao. Me sai bem neste lugar, mas a lista dos meus crimes tambem ficou um pouco maior. Tento lutar contra os sem lei, assim como fazia la fora. Treino novatos e ensino-os a sobreviver na Zona.</text>
 	</string>
 	<string id="gar_hellcar_start_3111311">
-		<text>So why don't you join Duty if you feel that way?</text>
+		<text>Entao, por que voce nao se junta ao Dever se voce se sente assim?</text>
 	</string>
 	<string id="gar_hellcar_start_31113111">
-		<text>Duty fights against the Zone, I fight for the people. Besides, they're too closely linked with the government and the army. I don't want to wake up in a cold cell one day.</text>
+		<text>O Dever luta contra a Zona, eu luto pelas pessoas. Alem disso, eles estao muito ligados ao governo e ao exercito. Nao quero acordar em uma cela fria um dia.</text>
 	</string>
 	<string id="gar_hellcar_start_311131111">
-		<text>Good luck to you.</text>
+		<text>Boa sorte para voce.</text>
 	</string>
 	<string id="gar_hellcar_start_31114">
-		<text>What's this place?</text>
+		<text>Que lugar e este?</text>
 	</string>
 	<string id="gar_hellcar_start_311141">
-		<text>The Garbage. We are right at home here. You see the heaps of crap? You don't want to go there, trust me. So full of radioactive waste, the Geiger counters go off the scale. This is the only decent way into the Zone and bandits have been increasingly active here lately. They're shit scared of going deeper into the Zone, into Duty territory, like experienced stalkers. But those hyenas just love robbing the rookies here. So, if nobody else cares, we have to stand our ground and fight ourselves.</text>
+		<text>O Lixao. Estamos em casa aqui. Voce ve as pilhas de lixo? Voce nao quer ir la, confie em mim. Tao cheio de lixo radioativo, os contadores Geiger saem da escala. Esta e a unica maneira decente de entrar na Zona e os bandidos tem estado cada vez mais ativos aqui ultimamente. Eles estao com medo de ir mais fundo na Zona, para o territorio do Dever, como os stalkers experientes. Mas essas hienas adoram roubar os novatos aqui. Entao, se ninguem mais se importa, temos que defender nosso territorio e lutar sozinhos.</text>
 	</string>
 	<string id="gar_hellcar_start_3111411">
-		<text>Go on.</text>
+		<text>Continue.</text>
 	</string>
 	<string id="gar_hellcar_start_31114111">
-		<text>Everywhere, and especially here, you gotta act like a human being, not like some greed-driven animal. That's my outlook on life.</text>
+		<text>Em todos os lugares, e especialmente aqui, voce tem que agir como um ser humano, nao como um animal movido pela ganancia. Essa e a minha visao da vida.</text>
 	</string>
 	<string id="gar_hellcar_start_311141112">
-		<text>Are there any large buildings in the Garbage?</text>
+		<text>Existem grandes edificios no Lixao?</text>
 	</string>
 	<string id="gar_hellcar_start_31114111211">
-		<text>Thank you.</text>
+		<text>Obrigado.</text>
 	</string>
 	<string id="gar_hellcar_start_31115">
-		<text>Thanks, I don't need anything from you.</text>
+		<text>Obrigado, nao preciso de nada de voce.</text>
 	</string>
 	<string id="gar_hellcar_start_3112">
-		<text>I know quite a lot, I could share some information with you.</text>
+		<text>Eu sei bastante, poderia compartilhar algumas informacoes com voce.</text>
 	</string>
 	<string id="gar_hellcar_start_41">
-		<text>The job ain't done. Let's finish it and talk later.</text>
+		<text>O trabalho nao esta terminado. Vamos termina-lo e conversar mais tarde.</text>
 	</string>
 	<string id="gar_hellcar_start_51">
-		<text>Hey, Marked One.</text>
+		<text>Ei, Marca.</text>
 	</string>
 	<string id="gar_seriy_start_11">
-		<text>Dammit it man, this ain't no time for talking! In a few seconds the only things talking will be guns. Help me fight them off and we can talk after.</text>
+		<text>Droga, cara, esta nao e hora de conversar! Em alguns segundos, as unicas coisas que falarao serao armas. Ajude-me a lutar contra eles e podemos conversar depois.</text>
 	</string>
 	<string id="gar_seriy_start_22">
-		<text>Thanks for the help, things got pretty hairy. What are you doing here anyway?</text>
+		<text>Obrigado pela ajuda, as coisas ficaram bem tensas. O que voce esta fazendo aqui, afinal?</text>
 	</string>
 	<string id="gar_seriy_start_221">
-		<text>I am looking for information about Strelok. Fox told me about you, so I came for a chat.</text>
+		<text>Estou procurando informacoes sobre Strelok. Raposo me falou sobre voce, entao vim conversar.</text>
 	</string>
 	<string id="gar_seriy_start_2211">
-		<text>OK, you helped me out for free so I'll tell you. One of the guys, a former "digger" called Mole is waiting for me. He dug up Strelok's stash but I don't know if he found anything there. Here are the coordinates of our meeting place. Tell him I sent you. They'll be looking for me now, so I am going to disappear for a while. Here's some cash for your help too.</text>
+		<text>OK, voce me ajudou de graca, entao vou te contar. Um dos caras, um ex-"escavador" chamado Toupeira, esta me esperando. Ele desenterrou o esconderijo de Strelok, mas nao sei se encontrou alguma coisa la. Aqui estao as coordenadas do nosso ponto de encontro. Diga a ele que eu te mandei. Eles estarao me procurando agora, entao vou desaparecer por um tempo. Aqui esta um dinheiro pela sua ajuda tambem.</text>
 	</string>
 	<string id="gar_seriy_start_2212">
-		<text>Thanks for the information.</text>
+		<text>Obrigado pela informacao.</text>
 	</string>
 	<string id="gar_seriy_start_222">
-		<text>I am looking for information about Strelok, maybe you know something?</text>
+		<text>Estou procurando informacoes sobre Strelok, talvez voce saiba de alguma coisa?</text>
 	</string>
 	<string id="gar_seriy_start_2221">
-		<text>OK, you helped me out for free, so I'll tell you. One of the guys, a former "digger" called Mole, is waiting for me. He dug up Strelok's stash and found documents that explain a few things. He had some bandits on his tail so he had to leave the documents but he remembered the place. They'll be looking for me now so I am gonna disappear for a while. Here are the coordinates of the meeting place with Mole. Tell him I sent you. I'll upload some info to your PDA. Here's some cash for your help too.</text>
+		<text>OK, voce me ajudou de graca, entao vou te contar. Um dos caras, um ex-"escavador" chamado Toupeira, esta me esperando. Ele desenterrou o esconderijo de Strelok e encontrou documentos que explicam algumas coisas. Ele tinha alguns bandidos no seu encalco, entao teve que deixar os documentos, mas se lembrou do lugar. Eles estarao me procurando agora, entao vou desaparecer por um tempo. Aqui estao as coordenadas do ponto de encontro com Toupeira. Diga a ele que eu te mandei. Vou carregar algumas informacoes no seu PDA. Aqui esta um dinheiro pela sua ajuda tambem.</text>
 	</string>
 	<string id="gar_seriy_start_2222">
-		<text>Thanks for the information.</text>
+		<text>Obrigado pela informacao.</text>
 	</string>
 	<string id="gar_seriy_start_33">
-		<text>Hey man! Things got pretty hairy here a minute ago, I have to say. What are you doing here anyway?</text>
+		<text>Ei, cara! As coisas ficaram bem tensas aqui agora ha pouco, tenho que dizer. O que voce esta fazendo aqui, afinal?</text>
 	</string>
 	<string id="gar_seriy_start_44">
-		<text>A safe path, stalker. A safe path past the anomalies and straight to the artifacts.</text>
+		<text>Um caminho seguro, stalker. Um caminho seguro pelas anomalias e direto para os artefatos.</text>
 	</string>
 	<string id="gar_seriy_start_441">
-		<text>What can one find at the Garbage?</text>
+		<text>O que se pode encontrar no Lixao?</text>
 	</string>
 	<string id="gar_seriy_start_4411">
-		<text>You can find a lot of trouble real quick, that's for sure. But since you're such an explorer I'll tell you what I know. To the East there is a little forest. Nothing interesting there and it's full of dogs, so be careful. This railway track will lead you to a tunnel. There are lots of anomalies there, maybe something else too but I don't know - never really looked very hard. You probably know about the Duty checkpoint in the North. That's basically all I know about this place.</text>
+		<text>Voce pode encontrar muitos problemas rapidamente, com certeza. Mas ja que voce e um explorador, vou te contar o que sei. Para o leste, ha uma pequena floresta. Nada de interessante la e esta cheia de caes, entao tenha cuidado. Esta linha ferrea o levara a um tunel. Ha muitas anomalias la, talvez outra coisa tambem, mas nao sei - nunca procurei muito. Voce provavelmente sabe sobre o posto de controle do Dever no norte. Isso e basicamente tudo o que sei sobre este lugar.</text>
 	</string>
 	<string id="gar_seriy_start_44112">
-		<text>Thanks for the information.</text>
+		<text>Obrigado pela informacao.</text>
 	</string>
 	<string id="gar_seryi_about_garbage_0">
-		<text>Listen man, what can I find at this Garbage?</text>
+		<text>Escuta, cara, o que posso encontrar neste Lixao?</text>
 	</string>
 	<string id="gar_seryi_about_garbage_1">
-		<text>You can find a lot of trouble real quick, that's for sure. But since you're such an explorer I'll tell you what I know. To the East there is a little forest. Nothing interesting there and it's full of dogs, so be careful. This railway track will lead you to a tunnel. There are lots of anomalies there, maybe something else too but I don't know - never really looked very hard. You probably know about the Duty checkpoint in the North. That's basically all I know about this place.</text>
+		<text>Voce pode encontrar muitos problemas rapidamente, com certeza. Mas ja que voce e um explorador, vou te contar o que sei. Para o leste, ha uma pequena floresta. Nada de interessante la e esta cheia de caes, entao tenha cuidado. Esta linha ferrea o levara a um tunel. Ha muitas anomalias la, talvez outra coisa tambem, mas nao sei - nunca procurei muito. Voce provavelmente sabe sobre o posto de controle do Dever no norte. Isso e basicamente tudo o que sei sobre este lugar.</text>
 	</string>
 	<string id="gar_seryi_about_garbage_11">
-		<text>Thanks for the info. I'll keep it in mind.</text>
+		<text>Obrigado pela informacao. Vou me lembrar disso.</text>
 	</string>
 	<string id="gar_stalker_about_level_0">
-		<text>Can you tell me anything about this place?</text>
+		<text>Voce pode me dizer alguma coisa sobre este lugar?</text>
 	</string>
 	<string id="gar_stalker_about_level_1">
-		<text>Well, listen. Everywhere you look it's a big stinking dump. After the accident in 1986 they brought radioactive waste, cranes and all the destroyed machinery here. Basically, it's full of useless crap and a few anomalies here and there. You can even find some artifacts, but they're not spectacular so that's why you'll mostly find rookies in this place. Lots of rookies means lots of bandits, so it's best not to hang around too long. Further to the East there are loads of radiation pockets; you can't go there without protection. Going South you'll reach the border of the Zone. Go North and you'll eventually reach Rostok factory and the stalker bar. To the East is the Dark Valley, a gloomy, misty place. To the West is the Agroprom Research Institute. I'll mark safe pathways on your map.</text>
+		<text>Bem, escuta. Em todo lugar que voce olha, e um grande lixao fedido. Apos o acidente em 1986, eles trouxeram lixo radioativo, guindastes e todas as maquinas destruidas para ca. Basicamente, esta cheio de porcaria inutil e algumas anomalias aqui e ali. Voce pode ate encontrar alguns artefatos, mas eles nao sao espetaculares, entao e por isso que voce encontrara principalmente novatos neste lugar. Muitos novatos significam muitos bandidos, entao e melhor nao ficar por perto por muito tempo. Mais para o leste, ha muitos bolsoes de radiacao; voce nao pode ir la sem protecao. Indo para o sul, voce chegara a fronteira da Zona. Va para o norte e voce eventualmente chegara a fabrica de Rostok e ao bar dos stalkers. Para o leste fica o Vale Sombrio, um lugar sombrio e nebuloso. Para o oeste fica o Instituto de Pesquisa Agroprom. Vou marcar caminhos seguros no seu mapa.</text>
 	</string>
 	<string id="gar_hellcar_start_3111411121">
-		<text>In the center there's a large hangar, usually it's pretty quiet there. Worst comes to worst, you can spend the night there. If you go west, in the direction of the Agroprom, there's a bandit camp there, and that's where those freaks that we killed off a while ago were coming from. But I have a feeling that there's more of them there.</text>
+		<text>No centro, ha um grande hangar, geralmente e bem tranquilo la. Na pior das hipoteses, voce pode passar a noite la. Se voce for para o oeste, na direcao do Agroprom, ha um acampamento de bandidos la, e foi de la que aqueles aberracoes que matamos ha um tempo estavam vindo. Mas tenho a sensacao de que ha mais deles la.</text>
 	</string>
 </string_table>

@@ -1,0 +1,483 @@
+4|<text>What do you want?</text>
+7|<text>I'm looking for the leader of Freedom. I've got extremely important information for him.</text>
+10|<text>Oh, and just how important is it?</text>
+13|<text>I came across a group of Duty members not far from your base.</text>
+16|<text>Uh-oh... Looks like Duty is trying to equalize again... Ok, you can enter, but make sure to put that piece away. Don't even think of making a mess in here, or you'll be leaving soon with your feet foremost.</text>
+19|<text>OK.</text>
+22|<text>Good afternoon.</text>
+25|<text>Uh-huh!</text>
+28|<text>Meaning?</text>
+31|<text>Sure thing.</text>
+34|<text>What's so funny?</text>
+37|<text>Hey, man! Good to see ya!</text>
+40|<text>Hello.</text>
+43|<text>Long time no see!</text>
+46|<text>Have we met before?</text>
+49|<text>Errrr.... Yeah! Hehe...</text>
+52|<text>To be honest, I can't seem to recall who you are.</text>
+55|<text>Hrm... Yeah, it's fine, no problem.</text>
+58|<text>What is this place, anyway?</text>
+61|<text>This place... a nice little place... It's just a normal place, you know... just some people making a living, hehe...</text>
+64|<text>So what?</text>
+67|<text>Pfft... You're asking some tough questions, Mr. Stranger!</text>
+70|<text>And what if you cut to the chase?</text>
+73|<text>Hey, relax! Hold on... well... it's just a normal place! A quiet one. All good all around. Yeah...you relax, alight? Don't get all worked up...</text>
+76|<text>And who might you be?</text>
+79|<text>Me?</text>
+82|<text>Exactly. You. Not me.</text>
+85|<text>Haha, that's a good one! Me... What about me? I'm fine... Well, I... I make food... So, there. I'm a chef! The master of slices and spices! You know - parsley, dill, herbs, stuff like that... Bread, too... Right?</text>
+88|<text>Got it.</text>
+91|<text>Also, tinned foods... condensed milk with sugar... ham in a can... roast beef with tomato dressing... yeah...</text>
+94|<text>I got it.</text>
+97|<text>French bread... ketchup... eggs... brown bread... cheese, what have you. Wieners, too! And sausages! Fowl... cold, not flying.</text>
+100|<text>OK, fine, I understand! Tell me your name at least.</text>
+103|<text>Huh?.. Oh! Slavik is my name... that's just a label... No! It's an apron! I've got this white apron... Hey, look... Sit down, don't be a target... 'Cause, that sniper, you know... pick you off! .. They're, you know... They're like that...</text>
+106|<text>Isn't there a village nearby?</text>
+109|<text>Well...</text>
+112|<text>Well, what?</text>
+115|<text>Eh?</text>
+118|<text>A village.</text>
+121|<text>Ahh... There is something. Some food there... condensed milk for one...</text>
+124|<text>How do I get there?</text>
+127|<text>Eh? Wait. Let me think... Nah, look, do you really need all that? Relax... Sit... Let's sit and have a smoke, OK?</text>
+130|<text>I need to get to the village.</text>
+133|<text>Alright... we just sit here, have a smoke.. Then we go... I'll take you there. No problem.</text>
+136|<text>Don't go to all that trouble. Just tell me how to get there.</text>
+139|<text>Sure... Hey, you're really challenging me here! We'll go there together in just a sec. First we just sit down, OK, and...</text>
+142|<text>Listen, would you know where I can get some equipment?</text>
+145|<text>Equipment? That's some code-speak to me, bro!</text>
+148|<text>Equipment. Weapons. Artifacts.</text>
+151|<text>Weapons... no... my knife... Want my knife? No? Yeah... Artifacts. What the hell for? Take it easy. C'mon, sit. Light one up with me. Let's talk... about artifacts...</text>
+154|<text>Where can I find artifacts in this area?</text>
+157|<text>That's easy! Artifacts... We got artifacts up to our ears! You know the radioactive swamp? No? Doesn’t matter. It's there. I mean, the artifacts. Are there. You just stop flapping about. Take it easy. Eh? Artifacts... he-he-he... artifacts-shmartifacts...</text>
+160|<text>OK. Take care.</text>
+163|<text>Sure... sit down though, you're already here.</text>
+166|<text>I'm leaving.</text>
+169|<text>Eh? Sure thing... relax... OK? Close the door behind me, I'm leaving... ta-da-da-da...</text>
+172|<text>Come, sit down! We'll have a good time...</text>
+175|<text>Let's have a drink, why don't we?</text>
+178|<text>Sure thing, bro! Pour it!</text>
+181|<text>Well, well... Cheers!</text>
+184|<text>Yes, that was a good one! Hold the bottle... there's some more left.</text>
+187|<text>So, how about one more?</text>
+190|<text>Ahhhh... awesome! Too bad the bottle's been taken care off already. Got some more?</text>
+193|<text>Let me see.</text>
+196|<text>Yeah, here! Hold your shot steady.</text>
+199|<text>He-he... that was neat! A new one right out of nowhere. You got a warehouse full of them or what?</text>
+202|<text>You, umm... Go ahead, drink. I haven't had much practice lately.</text>
+205|<text>To our victory! Yeaaahh... Ahhh, good times, good times!</text>
+208|<text>Yes... to our victory!</text>
+211|<text>C'mon, c'mon, let's do another one... You got an... an-n-nother one, huh?</text>
+214|<text>Let me look...</text>
+217|<text>OK... this will be the last one, alright?... That's all I can handle tonight...</text>
+220|<text>Give it h-h-h-eee... hheere!</text>
+223|<text>Whoa... look at you... Did you drink all of that on your own?...</text>
+226|<text>Hic! Tha-a-at, bro, is the bbb... bottom! Mmmm... Hhhhhm...</text>
+229|<text>I heard something about Freedom having a Bulldog 6. Sure would be fun to take a look at that baby.</text>
+232|<text>What are you getting at, man? You want me to... to give you... to spill the guts?.. What kind of fool do you take me for?</text>
+235|<text>Calm down. I didn't know it was that serious.</text>
+238|<text>You don't go snooping around for our weapons, got that? Who the hell are you, anyway? I've never seen you before!</text>
+241|<text>Hey, come on! I only asked a question...</text>
+244|<text>Tsss! Be careful with it, alright?</text>
+247|<text>Done deal.</text>
+250|<text>I, umm... ahem... I heard you guys got a Bulldog 6... All I wanna do is just take a look at it, huh? Just get a glimpse of it... what do you say? Just a real quick look...</text>
+253|<text>Whaat?... You, umm... go to... ah, hell, what was it... I forgot! What were you asking about?</text>
+256|<text>Grrr...great... grant... damn! Gre-nade laun-cher... I'd like to... see it!</text>
+259|<text>Nah... that you can't... anything you want, friend, but not that... No can do!</text>
+262|<text>Umm, ok... I, umm... didn't mean anything by it! Just asking...</text>
+265|<text>Hic! Bulldog 6, huh?</text>
+268|<text>W-what?.. Oh! Well, it... it's in the village! We actually had... two of 'em... but those... r-retards! They lost it... wasted it!</text>
+271|<text>Re-really? Wow, those... m-morons...</text>
+274|<text>Hello, brother. I'm a Duty member and we're here on a mission. Would you like to join us?</text>
+277|<text>Not particularly interested.</text>
+280|<text>Then get our of way way... loner.</text>
+283|<text>I'm up for it.</text>
+286|<text>Excellent. There, behind that hill, is the main breeding ground of those bastards - the "Free" ones - and me and my boys are going to stir it up properly. There's just one little problem. The base has only one entrance and it is well guarded. We thought of busting a hole in the fence, but their sniper in the tower won't let us. I don't want to send my guys to catch his bullets... but you - he'll let you come close and definitely won't shoot on sight. If you take him out, we'll owe you. Plus, if it goes as planned, you'll be able to take any equipment at the base, whatever you want.</text>
+289|<text>Go on.</text>
+292|<text>I've already told you: all you need to do is knock off the sniper at that tower above the fence. So, what do you say?</text>
+295|<text>No, I'm not ready yet.</text>
+298|<text>Then get out of the way.</text>
+301|<text>I'll try.</text>
+304|<text>That's great! As soon as you take him out, we'll start the fireworks.</text>
+307|<text>There's one small problem. Since the base has only one entrance, a well-guarded one at that, we quickly thought of making another one, but...</text>
+310|<text>But what?</text>
+313|<text>I sent my guy at night to blow a hole in the fence. Well, either their sniper is too good or it just wasn't our day, but my guy went down. Now the dynamite is on the fence, but we can't blow it up.</text>
+316|<text>Why?</text>
+319|<text>I don't want to send my boys under that asshole's bullets, but you stand a great chance of taking him out. He won't shoot you on sight for sure. What do you say?</text>
+322|<text>How much will I get?</text>
+325|<text>Now that's talking business. 2000 from us for the sniper, plus a whole lot of gear at the base. Lots of a dead bodies there, I can promise you that. So, you can help us and help yourself. How about it?</text>
+328|<text>Deal.</text>
+331|<text>Good luck.</text>
+334|<text>First I have to see how it all looks, then I'll tell you.</text>
+337|<text>We'll wait. But not for long.</text>
+340|<text>Thanks for your help, Marked One. Here is your reward.</text>
+343|<text>Thank you.</text>
+346|<text>We made a deal, didn't we?</text>
+349|<text>So, you knocked off the sniper. Here's your fair compensation.</text>
+352|<text>Gotcha.</text>
+355|<text>Step aside, will you? We need to get ready...</text>
+358|<text>OK.</text>
+361|<text>Some other time.</text>
+364|<text>Do as you will.</text>
+367|<text>See you.</text>
+370|<text>Shall we continue?</text>
+373|<text>What exactly?</text>
+376|<text>Thank you.</text>
+379|<text>We're about to blow up the fence and get the party going. I can see you're a good shooter - maybe you could take care of the tower snipers? With snipers out of the way, we'll have an easier time getting to that spaz Lukash.</text>
+382|<text>Did you knock off the sniper?</text>
+385|<text>Yes.</text>
+388|<text>Great work! Cleared the road for us... Here's a little something for your troubles.</text>
+391|<text>Thank you.</text>
+394|<text>What do I have to do?</text>
+397|<text>Take care of the other snipers while we deal with these bastards. I can see you're good at that kind of thing.</text>
+400|<text>Some other time.</text>
+403|<text>Well, judge for yourself. I won't make you.</text>
+406|<text>Deal.</text>
+409|<text>There we go, great.</text>
+412|<text>Don't interfere, Marked One.</text>
+415|<text>OK.</text>
+418|<text>Keep along your way.</text>
+421|<text>OK.</text>
+424|<text>What now?</text>
+427|<text>Nothing.</text>
+430|<text>Three assholes down, just like that! You came just in time: didn't blow our cover and came out safe and sound. By the way, I think no one has to know about this, eh?</text>
+433|<text>I don't think so.</text>
+436|<text>Perfect. Are you looking for a way to earn some dough, stalker?</text>
+439|<text>Difficult to say.</text>
+442|<text>What, you don't feel like living anymore?</text>
+445|<text>No.</text>
+448|<text>Something like that.</text>
+451|<text>Maybe.</text>
+454|<text>Then follow us, talk to our commander.</text>
+457|<text>Commander?</text>
+460|<text>Sure. Skull will tell you everything himself.</text>
+463|<text>OK.</text>
+466|<text>What's up, stalker! You're just in time. We're defending against Monolith jerks, and the next wave is about to arrive! Believe it or not, we just had our last sniper knocked off! Can you help? We'll pay back after the fight - you won't be sorry!</text>
+469|<text>No, I cannot help you.</text>
+472|<text>That's too bad. Come back if you change your mind.</text>
+475|<text>I will.</text>
+478|<text>Great! Go to the tower, there's a sniper rifle and a bunch of ammo. Pick them off from above and don't come down, or you run the risk of getting it from our own guys. Is the assignment clear?</text>
+481|<text>As clean as a whistle.</text>
+484|<text>As it should be. I hope to talk to you in the morning. Oh, and don't walk off too far... Or I might think you've decided to run off. And that would mean you-know-what, so keep that in mind! Now, assume your position.</text>
+487|<text>That's right. OK, let's get to work. A Monolith group might be trying to break through here. That means it's gonna get hot real soon.</text>
+490|<text>Got it.</text>
+493|<text>You're right. I hope they won't be too many...</text>
+496|<text>Where is my place?</text>
+499|<text>Go to the tower, there's a Dragunov and some ammo. You'll be able to pick them off from above, but don't come down - watch out for our own bullets. Is the assignment clear?</text>
+502|<text>Yes.</text>
+505|<text>Stake out your own spot 'cause later you won't have time!</text>
+508|<text>Looks like we took them all down. I say that's enough for today. Thanks for your help! Here, take this - a little bit of money to cheer you up.</text>
+511|<text>Thank you.</text>
+514|<text>Good luck, Marked One!</text>
+517|<text>Hey, Marked One! Did Lukash send you?</text>
+520|<text>Yes. He asked me to help you.</text>
+523|<text>You're just in time. We're fending off the Monolith jerks, and the next wave is almost here! Believe it or not, we just had our last sniper knocked off! Can you help? We'll pay back after the fight - you won't be sorry!</text>
+526|<text>Looks like we took them all down. I say that's enough for today. Thanks for your help! Here, take this - a little bit of money to cheer you up.</text>
+529|<text>Thank you.</text>
+532|<text>Good luck, Marked One.</text>
+535|<text>What's this place?</text>
+538|<text>We call it the Barrier... that's what it basi?ally is. It's about the last normal outpost this side of the Zone's center. It's a sort of buffer, you know, between the people and the Wild Territory.</text>
+541|<text>What is there beyond it?</text>
+544|<text>Only death... or serving Monolith. "Our Monolith! In your name we..." Damn! In short, no one needs to go there. That's why we're based here, trying to prevent the muck from infesting the Zone. Like some kind of Jedis, hehe. We also detain the really stupid ones - or at least try not to let them creep into the center.</text>
+547|<text>Why do you do that?</text>
+550|<text>Who else but us? Duty? They are the shit when it comes to eradicating monsters and eliminating unwanted stalkers, but you should try some time to make them actually do something useful! Do you see them here? No? That's what I mean. We, on the other hand, do not aim to destroy the creatures that live here. A barrier, a normal barrier - that should be enough. As long as no side crosses the line...</text>
+553|<text>And what if someone does?</text>
+556|<text>Anything can happen. Anything. I don't want to...</text>
+559|<text>Halt! Access to the arsenal is restricted to Freedom members only.</text>
+562|<text>There, now you can enter the arsenal. Except there's a little problem...</text>
+565|<text>What problem?</text>
+568|<text>Don't sweat it, it's nothing terrible. The lock is jammed, that's all. If you really can't wait, just shoot it to pieces, I'll replace it later.</text>
+571|<text>I see.</text>
+574|<text>Skinflint sent me here to clear off the bloodsuckers.</text>
+577|<text>So, stalker, what brought you to this sinister place? My advice is run for your life before it's too late!</text>
+580|<text>Ahh, now that's another matter... Hell knows what's going on here! A couple of our folks went into the village and never came back. Heck, we're not keen on dying yet! We're sitting here, deciding what to do next.</text>
+583|<text>Hey, bro, way to freak out last night!</text>
+586|<text>Meaning?</text>
+589|<text>We were just sitting around and then you barge in piss drunk! And you barge right into the village, right into those bloodsuckers! Good thing we were there to put some brakes on you and make you sleep it off.</text>
+592|<text>And what are you doing here?</text>
+595|<text>Hell knows what's going on here! A couple of our folks went into the village and never came back. Heck, we're not keen on dying yet! We're sitting here, deciding what to do next.</text>
+598|<text>Did you see the bloodsuckers?</text>
+601|<text>So? How did it go?</text>
+604|<text>I got rid of them.</text>
+607|<text>Wow! You rock! Heck, you came out alive, so the next round of drinks is on you!</text>
+610|<text>Thank you.</text>
+613|<text>No. Our guys were supposed to go to the old water tower; that's probably where they went down. Well, if you made a deal with Skinflint, go there and check it out... Write down an address, will you? We'll write to your family if something goes wrong.</text>
+616|<text>Why are you wandering around like a ghost?</text>
+619|<text>Just looking around.</text>
+622|<text>Seems to me you're too kind... OK, I'll go.</text>
+625|<text>What brought you here?</text>
+628|<text>Just looking around.</text>
+631|<text>Was this the best place you could find? This is probably the shittiest spot in the whole Zone...</text>
+634|<text>What's so bad about this place?</text>
+637|<text>Hell knows what's going on here! Looks like the village is now home to a swarm of bloodsuckers. A couple of our folks went into the village and never came back. Heck, we're not keen on dying yet! We're sitting here, deciding what to do next.</text>
+640|<text>So, you're not sure yourself?</text>
+643|<text>Right on! If you have nothing else to do and your head isn't working right, you're welcome to take a stroll through the village. If you clear off those critters, Skinflint will surely shell something out for you. Write down an address, will you? We'll write to your family if something goes wrong.</text>
+646|<text>OK, I'll go check it out.</text>
+649|<text>You didn't go through the village, did you?</text>
+652|<text>Yes.</text>
+655|<text>A couple of our folks went there and didn't come back. Did you happen to see them?</text>
+658|<text>No, I didn't. Just a few corpses on the ground.</text>
+661|<text>Did you see bloodsuckers?</text>
+664|<text>Yep. Go ahead and look for yourself, it's safe now - I mowed them down.</text>
+667|<text>Wow! That's a trick! Know what... go see Skinflint at our base. He pays for good work.</text>
+670|<text>OK, I'll go check it out.</text>
+673|<text>So? How did it go?</text>
+676|<text>I slaughtered those beasts.</text>
+679|<text>Wow, you showed them! Know what... go see Skinflint at our base. He pays for good work.</text>
+682|<text>I will.</text>
+685|<text>OK, whatever...</text>
+688|<text>What brought you here?</text>
+691|<text>Just looking around...</text>
+694|<text>Was this the best place you could find? This is probably the shittiest spot in the whole Zone...</text>
+697|<text>What's so bad about this place?</text>
+700|<text>Ah, hell knows. Looks like bloodsuckers have settled down in the village. A couple of our folks went into the village and never came back. Heck, we're not keen on dying yet!</text>
+703|<text>So, you're not sure yourself?</text>
+706|<text>Right on! If you have nothing else to do and your head isn't working right, you're welcome to take a stroll through the village. If you clear off those critters, Skinflint will surely shell something out for you. Write down an address, will you? We'll write to your family if something goes wrong.</text>
+709|<text>OK, I'll go check it out.</text>
+712|<text>So? How did it go?</text>
+715|<text>I slaughtered those beasts.</text>
+718|<text>Wow, that was awesome! My congratulations! And the best thing is, you're still alive...</text>
+721|<text>Thank you.</text>
+724|<text>Since you helped our guys at the Barrier, you can count on getting some rest on our territory, as well as our help. Oh, and my personal appreciation - a bit of legal tender for you - from this moment on, I'm enlisting you in our group.</text>
+727|<text>Hey, stalker. What do you need?</text>
+730|<text>Nothing much, really.</text>
+733|<text>Then let's get out of here, OK? Time is money.</text>
+736|<text>I saw a group of Duty members in a farmstead near your base. About eight men, well equipped.</text>
+739|<text>Why the hell did you split from the Barrier? Get out of here and don't let me catch sight of you near my base ever again.</text>
+742|<text>Damn, these punks just won't settle down! Fine, we'll have to teach them a lesson. Hey, stalker, want to help us for a reward? Talk to Max, our chief. You two will get a crew together and root out those suckers.</text>
+745|<text>OK.</text>
+748|<text>Good luck, stalker.</text>
+751|<text>I've already dealt with them.</text>
+754|<text>So, you didn't handle the snitch business and failed at the Barrier, too? Get lost from my base and don't ever show up again!</text>
+757|<text>For real? How many of them did you say there were?</text>
+760|<text>Eight men.</text>
+763|<text>You're a speedy one, stalker... OK, so, do you mind helping us out with something else? I'm ashamed to admit that there's a snitch among us. His name is Pavlik. He's leaking valuable info and that must be stopped.</text>
+766|<text>In what way?</text>
+769|<text>You must follow him to the farmstead and discover whose rat he is. He doesn't know you and isn't aware of our conversation either, so...</text>
+772|<text>You think I have work for you to do?</text>
+775|<text>Perhaps.</text>
+778|<text>We've learned there's a rat in our midst, by the name of Pavlik. He's leaking valuable information. We know that for a fact, but don't have proof. Your task is to spy him out and discover who he is singing for. I think he's going to a meet tonight. You'll follow him quietly. Just be careful that he doesn't see you - he's extremely cautious. After you find out the identity of his connection, bump him off and the other guy, too, for good measure.</text>
+781|<text>I'll do it.</text>
+784|<text>We've learned there's a rat in our midst, by the name of Pavlik. He's leaking valuable information. We know that for a fact, but don't have proof. Your task is to spy him out and discover who he is singing for. I think he's going to a meet tonight. You'll follow him quietly. Just be careful that he doesn't see you - he's extremely cautious. After you find out the identity of his connection, bump him off and the other guy, too, for good measure.</text>
+787|<text>No, not now.</text>
+790|<text>There's one thing I wanted to ask you about.</text>
+793|<text>He just left, so you'll have to catch up with him. Remember: you can and should bump him off, but only after he's exposed the agent he's ratting to. You'll have to eliminate the other guy, too.</text>
+796|<text>Got it.</text>
+799|<text>I told you to go talk to Max.</text>
+802|<text>So, the assignment is complete... Good, good. I've got another one for you!</text>
+805|<text>Hrm... What is it?</text>
+808|<text>Sadly, I have to admit there's a snitch in our ranks. His name is Pavlik. He's leaking valuable information, and that must be stopped.</text>
+811|<text>Exactly. And I think he will go to his meet some time between 10 and 11 p.m. It's going to be dark enough, so no one sees him, but the nighttime mutants won't be out yet. Go forth, stalker. After you're done, you will become a member of our group. Remember, you must catch the snitch red-handed! You've got to take him down during his meet, otherwise the mission will have failed.</text>
+814|<text>You're still here?</text>
+817|<text>Great job, Marked One! Here, take this... your payment for taking care of the snitch. You're welcome to rest on our territory whenever you want and you can also count on our help. Only, there's one more business I'd like you to do for me. Are you not too tired?</text>
+820|<text>What exactly?</text>
+823|<text>If you feel up to it, go to the outpost near the Red Forest exit. We've had reports claiming that either mutants or Monolith are planning a new attempt to break through there. The guys need help.</text>
+826|<text>Well, you did help the guys at the Barrier, so - relax.</text>
+829|<text>Relax. There's no work right now.</text>
+832|<text>Yeah, you screwed up that mission... that sucks. Still, there's always another chance!</text>
+835|<text>What chance?</text>
+838|<text>Certain things point to the fact that very soon Monolith is gonna try to break through from the Red Forest side. You gotta go see Cap - he's the commander at the Barrier - and see if he needs any help. Well, it's pretty obvious he does, really...</text>
+841|<text>OK, I'll do it.</text>
+844|<text>No, I won't do it yet.</text>
+847|<text>Think about our guys, they're gonna get wasted! You see, there's no one else but you that I can send... nobody.</text>
+850|<text>You failed the mission, so we might as well kiss those documents good-bye. We have no use for losers like you.</text>
+853|<text>Well, you screwed up that mission... that sucks. Still, you did help the guys at the Barrier; heck - you can relax on our territory. In case something comes up, we'll help you.</text>
+856|<text>Got any work?</text>
+859|<text>Not right now.</text>
+862|<text>I've told you - go to the Barrier.</text>
+865|<text>We'll talk after we take down those Duty assholes.</text>
+868|<text>OK.</text>
+871|<text>Lukash said that you'll do. Did you see those... at the farmstead?</text>
+874|<text>No.</text>
+877|<text>Hell... Duty's got something up their ass again! Oh well. Come with us, will you?</text>
+880|<text>OK.</text>
+883|<text>Yes.</text>
+886|<text>Are there many of them?</text>
+889|<text>Can't say for sure. I don't think there's too many.</text>
+892|<text>About six to eight people. Reasonably equipped.</text>
+895|<text>Go to Lukash.</text>
+898|<text>Got any questions?</text>
+901|<text>Yes. Lukash told me to intercept the Duty courier on the way from Red Forest to the Dead City. Could you tell me the best place to do that?</text>
+904|<text>Hmm. Best thing would be to catch him before he reaches the farmstead near the passage to Dead City. Reinforcements are sure to be waiting for him there, so you'd have trouble dealing with them all. Plus, that way you'd have to pass through the village, which is a bad thing. Better go East of the village, and fast.</text>
+907|<text>What's there in the village?</text>
+910|<text>Believe me - not a single good thing. Lots of monsters roaming about, and anomalies, too. I'll tell you about that later.</text>
+913|<text>Are congratulations in order?</text>
+916|<text>Yes.</text>
+919|<text>I see you're the right kind of guy! Would you mind doing another small job for me? Get it done and I'll give you my Black Kite. A great piece, and the punch it packs!</text>
+922|<text>But what am I supposed to do?</text>
+925|<text>There's this one guy who dug in at the swamp. My boys saw him rushing from the village over hedge and ditch. He must have seen something that knocked a few screws loose in his head. Now he's shooting anyone who comes in sight. You've got to find out what it was he saw, 'cause our people are too afraid to go into the village.</text>
+928|<text>No, not this time.</text>
+931|<text>Well, whatever.</text>
+934|<text>Here's the flash drive I got from the crazy guy.</text>
+937|<text>Hey, thanks, stalker! Take this gun - you've earned it.</text>
+940|<text>Got any ammo for it?</text>
+943|<text>Just what's in the magazine. Sorry, that's all I got. Go see Skinflint, he might have some.</text>
+946|<text>I'll try.</text>
+949|<text>Good luck, then. Don't forget - there's an old minefield, but with the help of a few good old bolts you can go around any mine.</text>
+952|<text>So, what did you learn? What happened to that psycho?</text>
+955|<text>Here's a flash drive - I got it from the crazy guy.</text>
+958|<text>What, already?</text>
+961|<text>What do you want to know?</text>
+964|<text>What's up, stalker! Whatcha got?</text>
+967|<text>I've got business to discuss. Can you show me the way to your boss?</text>
+970|<text>You want Lukash - he's our leader. Go to the main building.</text>
+973|<text>I see you managed alright. Give the documents to Lukash.</text>
+976|<text>Go to Lukash and make your report, then we'll talk, alight?</text>
+979|<text>OK.</text>
+982|<text>Man, you're in the Freedom base! Relax, make yourself at home!</text>
+985|<text>I see.</text>
+988|<text>Behave, OK? Got it? Try fooling around and you'll be sorry. We had a slow-witted one here once; he pissed everyone off so bad that we made him take a hike on the minefield - naked. You should have heard Skinflint cursing when that dude's arm fell square on his head! That was something special... yeah... So, you got the idea?</text>
+991|<text>Gotcha.</text>
+994|<text>Good man! Dismissed.</text>
+997|<text>Ah, a rookie... Come over a sec.</text>
+1000|<text>I don't get it.</text>
+1003|<text>Where are you going? Stay! It's nice here... and we'll be having dinner tonight.</text>
+1006|<text>Nah, I'm not that appetizing.</text>
+1009|<text>What?! Shit, why didn't you tell me that before! We've just been wasting time. Get lost, buttface. And this time I'm dead serious...</text>
+1012|<text>What didn't you get? Oh, you haven't heard the story about the slow-witted ones, huh?</text>
+1015|<text>No, I haven't.</text>
+1018|<text>Alright, look. Think about it: these are lean times...</text>
+1021|<text>Meaning?</text>
+1024|<text>Well, that's easy! A hungry soldier is a bad soldier. And there's so many of us...</text>
+1027|<text>And?</text>
+1030|<text>Where would we get that much meat? And look, here you are!</text>
+1033|<text>Got it.</text>
+1036|<text>You got something that's broken, man?</text>
+1039|<text>Broken?</text>
+1042|<text>Ahhh, you're not here to ask for my help? Whew! I'm getting sick and tired of that. Soon as something breaks, they run to me and start whining about it.</text>
+1045|<text>And who are you?</text>
+1048|<text>I'm a mechanic. A Mr-Fix-It of sorts... I repair guns and whatever else you bring me. Right now, I'm working on these cars.</text>
+1051|<text>How's it going?</text>
+1054|<text>Pfft! Nothing but rubbish. I'm totally beat. Listen, you got any vodka on you? I'd, umm... you... want a nice scope? The best optics there is!</text>
+1057|<text>No.</text>
+1060|<text>It's your loss. If you have some - come in, don't be a stranger.</text>
+1063|<text>OK.</text>
+1066|<text>Here, take it.</text>
+1069|<text>Well, thanks! How nice of you. Now I'll have something to help me relax later on.</text>
+1072|<text>Good luck.</text>
+1075|<text>Don't distract me, I'm thinking...</text>
+1078|<text>No way, did you really bring vodka?</text>
+1081|<text>What is it?</text>
+1084|<text>Here's a tricky question - where do I go for things like artifacts and weapons?</text>
+1087|<text>You come to me, with money. Or go to the village and get them for free, but the risks are much higher.</text>
+1090|<text>The village?</text>
+1093|<text>The village. It's full of anomalies - rookies stumble on them all the time. Our guys just left to go there, you can join them if you want.</text>
+1096|<text>Got it.</text>
+1099|<text>What good things did you bring me?</text>
+1102|<text>What will you be needing?</text>
+1105|<text>Nothing... just looking around.</text>
+1108|<text>You should do something useful instead. Specially as I've got something you might be interested in... Want to earn, huh?</text>
+1111|<text>Interesting...</text>
+1114|<text>I can give you a Crystal if you do me one particular favor. A nasty situation has developed... Lately, no one has been bringing any artifacts from the village - they are too scared. They say bloodsuckers have settled in there. These days, I can't even send anyone - in fact, I'm that close of asking Duty for help!</text>
+1117|<text>Go on.</text>
+1120|<text>A couple of guys went to the village and didn't come back, and the other three are just sitting there on the outskirts. If you destroy the bloodsuckers, I'll give you a Crystal. What do you say?</text>
+1123|<text>Not right now.</text>
+1126|<text>Hey, it's your call... Sooner or later someone will clear them off. Meanwhile, Crystal is rare and rather expensive, too.</text>
+1129|<text>I'll do it.</text>
+1132|<text>Oh, that's swell. If you find more stuff like this, bring it over - I'll pay a good price.</text>
+1135|<text>And?</text>
+1138|<text>There're sitting there, looking around...</text>
+1141|<text>If you help them in their hunt, I'll give you an artifact called Crystal. So, what do you say?</text>
+1144|<text>We had a chat and then went on a walk across the village trying to catch some mutant...</text>
+1147|<text>And? Cut to the chase already!</text>
+1150|<text>We took down some kind of beast, but the guys went down, too. Right as we came to the water tower, they all grabbed their heads, and I had blood in my eyes, too... That shitbucket affects your brain. I killed the thing, but it was too late to help the guys.</text>
+1153|<text>That blows. Murk was a skilled stalker. Damn shame. Well, take this artifact for helping the boys.</text>
+1156|<text>Well, guys went hunting and I returned here...</text>
+1159|<text>I see.</text>
+1162|<text>Can I stock up on some equipment here?</text>
+1165|<text>For a fixed price, anything is possible.</text>
+1168|<text>I've already dealt with them.</text>
+1171|<text>Damn, stalker! You're as explosive as diarrhea! OK, a deal is a deal, here's your Crystal.</text>
+1174|<text>So, how did the hunting go?</text>
+1177|<text>I killed the monsters.</text>
+1180|<text>How tough was it?</text>
+1183|<text>Average.</text>
+1186|<text>Hmm, interesting... All kind of guck is spreading from the center of the Zone - but where does it come from?.. OK, take this for your troubles.</text>
+1189|<text>But I asked you to zap those bloodsuckers in the village!</text>
+1192|<text>I changed my mind.</text>
+1195|<text>No problem. Of course, in that case there will be no reward.</text>
+1198|<text>Fine with me.</text>
+1201|<text>I'll try.</text>
+1204|<text>Uh-huh, so, you didn't settle that little problem... Therefore, I'll keep the artifact to myself.</text>
+1207|<text>No arguments from me.</text>
+1210|<text>People have been saying you took care of these bloodsuckers in the village. Is that true?</text>
+1213|<text>That's right.</text>
+1216|<text>Was it tough?</text>
+1219|<text>Average.</text>
+1222|<text>Hmm, interesting... All kind of guck is spreading from the center of the Zone - but where does it come from?.. OK, take this for your troubles.</text>
+1225|<text>So, what have you brought with you?</text>
+1228|<text>Is there a cook around here?</text>
+1231|<text>Sure is, how could we do without one! What the heck do you need him for, anyway?</text>
+1234|<text>Well, I need a little bit of food.</text>
+1237|<text>He's in his kitchen. Usually, he sits there and mutters.</text>
+1240|<text>Mutters?</text>
+1243|<text>What did you expect? A drunk is a drunk. If he couldn't cook, we'd get rid of him a long time ago. He's in the kitchen. I'll tell you how to get there.</text>
+1246|<text>Thanks for the information.</text>
+1249|<text>No problem.</text>
+1252|<text>Who's the boss here?</text>
+1255|<text>And what's your business?</text>
+1258|<text>I've got information for him.</text>
+1261|<text>Lukash is our leader. Go to the main building.</text>
+1264|<text>Got it. Thanks.</text>
+1267|<text>Same to you. What brings you here?</text>
+1270|<text>Who's the boss around here? I've got business to discuss with him.</text>
+1273|<text>Lukash is our leader, you can find him in the main building. But as you enter, make sure to put your piece away - unless you wanna get shot for nothing.</text>
+1276|<text>What for?</text>
+1279|<text>We had some shit happen - once a killer got this close to dropping Lukash. We stopped taking any risks after that.</text>
+1282|<text>Got it.</text>
+1285|<text>OK, you can go.</text>
+1288|<text>So-so. Keep out, don't bother me.</text>
+1291|<text>Greetings.</text>
+1294|<text>Halt! Who goes there?!</text>
+1297|<text>South African swallow!</text>
+1300|<text>Ha-ha! Correct! You can pass.</text>
+1303|<text>What's this swamp nearby?</text>
+1306|<text>A real radioactive puddle. Better not touch it, or you'll get enough rads to make your navel button unwind. There's a character in the middle of it, doesn't let anyone come close. Well, I can feel for him: who'd want to mix with idiots? 'Cause a normal person would definitely stay away from there.</text>
+1309|<text>Who is that guy, anyway?</text>
+1312|<text>Hell knows. They say he's one of our folks that's been to the village.</text>
+1315|<text>What village?</text>
+1318|<text>Well, there is one little hamlet nearby. Full of mutants and anomalies. I haven't been there yet - I only came to this base just recently. Ask Max - he's been here a hundred years.</text>
+1321|<text>Listen, where can I stock up on some ammo? Rostok is kind of a long walk from here, I don't feel like going there.</text>
+1324|<text>Go to the main building and you'll find it on the first floor.</text>
+1327|<text>Whassup, rambling man? Looking to drop in at our place, huh?</text>
+1330|<text>Something like that.</text>
+1333|<text>How about joining us, eh?</text>
+1336|<text>How about not. I'm here on business.</text>
+1339|<text>C'mon, join us. It's a lot of fun.</text>
+1342|<text>I'll think about it.</text>
+1345|<text>Talking horse?</text>
+1348|<text>Off target.</text>
+1351|<text>A-9?</text>
+1354|<text>Battleship sunk. Shit, stop tricking me! Got anything else?</text>
+1357|<text>Hit me.</text>
+1360|<text>Twenty-one. Damn, got me again! You're a slick one. OK, so you dunno the password, do you?</text>
+1363|<text>Will you tell me?</text>
+1366|<text>Yeah, riiiight.</text>
+1369|<text>C'mon, please let me in. I can't spend the night in the fields, can I?</text>
+1372|<text>Why not - the weather is fine, almost like summer. Well, alright, if you pass the test - you can go, if not - get lost.</text>
+1375|<text>The test?</text>
+1378|<text>Sure. Three things every real man has to know.</text>
+1381|<text>I'm not scared. Go ahead.</text>
+1384|<text>OK, the easiest one first. Ready? Alright, what is Pamela Anderson's bra size?</text>
+1387|<text>34 C.</text>
+1390|<text>You're a real idiot. Go fly a kite!</text>
+1393|<text>Crap.</text>
+1396|<text>35 D.</text>
+1399|<text>You're a real idiot. Go fly a kite!</text>
+1402|<text>36 DD.</text>
+1405|<text>Good job! I can tell you're the right kind of man!</text>
+1408|<text>Yep, I am.</text>
+1411|<text>A bit more difficult now! OK... What's the round capacity of a cartridge that goes into the Russian submachine gun Bizon?</text>
+1414|<text>Twenty-five.</text>
+1417|<text>Sixty-eight.</text>
+1420|<text>Fifty-four.</text>
+1423|<text>Awesome! I'm liking you more and more... don't get me wrong, not that way!</text>
+1426|<text>Sure.</text>
+1429|<text>On to the third one! What's the flight speed of a South African swallow ?</text>
+1432|<text>A South African what?!</text>
+1435|<text>Swallow!</text>
+1438|<text>How am I supposed to know that?! Do you even have the answer?</text>
+1441|<text>Of course not. That's the thing, I can't seem to solve that puzzle... Well, OK, you can pass.</text>
+1444|<text>Whoa, man!</text>
+1447|<text>OK, wanna try again? Alright. Question: what is Dotty Strangelove's bra size?</text>
+1450|<text>You're a pushy sort! I repeat: what's the capacity of the magazine that goes into the Russian SMG Bizon?</text>

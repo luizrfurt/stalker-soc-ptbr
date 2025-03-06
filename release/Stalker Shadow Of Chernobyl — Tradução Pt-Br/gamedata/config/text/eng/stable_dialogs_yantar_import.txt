@@ -1,0 +1,112 @@
+4|<text>Obrigado... err... Marca, certo? Voce ajudou a salvar nosso associado Kruglov e, para mostrar meu sincero apreco, gostaria de presentea-lo com um de nossos trajes de trabalho. E muito util, voce deve saber disso... Posso ser de ajuda adicional para voce?</text>
+7|<text>Estou procurando o Lab X16. O Bartender me disse que voce poderia ter informacoes sobre sua localizacao.</text>
+10|<text>Ha muito tempo temos interesse no Lab X16... ou melhor, no mecanismo dentro dele que gera emissoes que afetam diretamente a consciencia das pessoas. Receio ter que decepciona-lo: o local e impossivel de penetrar sem uma psi-armadura especial. O resultado e conhecido de antemao - mesmo que voce pudesse evitar os enxames de zumbis que infestam a entrada do laboratorio, voce corre o risco de se tornar um deles. Isso e muito serio. No entanto, projetamos um dispositivo de protecao para ajudar a proteger da emissao, mas para ajusta-lo, precisamos obter medicoes adicionais. Se voce nos ajudar com esta tarefa, provavelmente poderemos fornecer um prototipo totalmente calibrado para testes de campo.</text>
+13|<text>Medicoes?</text>
+16|<text>Se voce, junto com nosso associado, fizer todas as medicoes necessarias, prepararei um prototipo totalmente funcional da armadura e entregarei a voce. Provavelmente permitira que voce entre no laboratorio.</text>
+19|<text>OK, eu concordo.</text>
+22|<text>Excelente! Fale com Kruglov e va em frente. Ele ja esta equipado com o equipamento necessario.</text>
+25|<text>OK.</text>
+28|<text>OK, eu concordo.</text>
+31|<text>Excelente! Fale com Semenov e va em frente. Ele tem tudo o que voce precisa.</text>
+34|<text>OK.</text>
+37|<text>Nao... agora nao quero me inscrever para isso.</text>
+40|<text>Que pena, uma verdadeira pena... Nao sei como ou quando poderiamos realizar esta expedicao de medicao por conta propria.</text>
+43|<text>Sim, senhor? O que voce pode estar procurando?</text>
+46|<text>Estou procurando o Lab X16. O Bartender me disse que voce poderia ter informacoes sobre sua localizacao.</text>
+49|<text>Obrigado, Marca, por resgatar Kruglov. Pegue este traje pressurizado como recompensa por seus problemas. Alem disso, suspeito que voce nao veio aqui por uma simples recompensa, estou certo?</text>
+52|<text>Estou procurando o Lab X16. O Bartender me disse que voce poderia ter informacoes sobre sua localizacao.</text>
+55|<text>Estamos estudando a emissao no Lab X16 ha muito tempo, mas voce nao entrara la sem equipamento especial. Desenvolvemos um dispositivo de protecao psi que pode ajudar a protege-lo da emissao, mas precisa de alguns ajustes. Se voce pudesse nos ajudar com isso, eu poderia lhe dar um prototipo funcional que voce pode usar para entrar no laboratorio.</text>
+58|<text>OK.</text>
+61|<text>Excelente, fale com Kruglov e va em frente. Ele tem tudo o que voce precisa.</text>
+64|<text>Nao, nao estou pronto para isso ainda.</text>
+67|<text>Que pena. Ate agora, nao conseguimos enviar uma expedicao de medicao por conta propria.</text>
+70|<text>Sim, senhor? O que voce pode estar procurando?</text>
+73|<text>Ha muito tempo temos interesse no Lab X16... ou melhor, no mecanismo dentro dele que gera emissoes que afetam diretamente a consciencia das pessoas. Receio ter que decepciona-lo: o local e impossivel de penetrar sem uma psi-armadura especial. O resultado e conhecido de antemao - mesmo que voce pudesse evitar os enxames de zumbis que infestam a entrada do laboratorio, voce corre o risco de se tornar um deles. Isso e muito serio. No entanto, projetamos um dispositivo de protecao para ajudar a proteger da emissao, mas para ajusta-lo, precisamos obter medicoes adicionais. Se voce nos ajudar com esta tarefa, provavelmente poderemos fornecer um prototipo totalmente calibrado para testes de campo.</text>
+76|<text>Continue.</text>
+79|<text>Estamos estudando a emissao no Lab X16 ha muito tempo, mas voce nao entrara la sem equipamento especial. Desenvolvemos um dispositivo de protecao psi que pode ajudar a protege-lo da emissao, mas precisa de alguns ajustes. Se voce pudesse nos ajudar com isso, eu poderia lhe dar um prototipo funcional que voce pode usar para entrar no laboratorio.</text>
+82|<text>OK, eu concordo.</text>
+85|<text>Excelente! Fale com Kruglov e va em frente. Ele ja esta equipado com o equipamento necessario.</text>
+88|<text>OK.</text>
+91|<text>OK, eu concordo.</text>
+94|<text>Excelente! Fale com Semenov e va em frente. Ele tem tudo o que voce precisa.</text>
+97|<text>OK.</text>
+100|<text>Voce nao entende, ha um emissor. Ninguem conseguiu se aproximar a mais de meio quilometro - transforma qualquer um em zumbi. Ir la sem um traje e suicidio, entendeu?</text>
+103|<text>Hmm. Isso muda as coisas.</text>
+106|<text>Que se dane, apenas me diga tudo o que voce sabe.</text>
+109|<text>OK, mas nao diga que eu nao avisei. Vasiliev trabalhou no problema do laboratorio. Ha cerca de uma semana, ele e um stalker chamado Fantasma tentaram entrar no laboratorio. Depois de algumas horas, sentimos um tremor e as emissoes pararam; depois de mais uma hora, recebemos um sinal de Vasiliev, vindo do pantano, mas depois desapareceu. Pelo que parece, Vasiliev se foi. Tente encontrar seu corpo: ele tinha informacoes precisas sobre o laboratorio - onde ele esta e como entrar. Ele tambem pode ter sabido como desligar as emissoes. A entrada do laboratorio provavelmente esta escondida no porao de um dos edificios na area da usina.</text>
+112|<text>Ai esta, otimo.</text>
+115|<text>Nao... agora nao quero me inscrever para isso.</text>
+118|<text>Que pena, uma verdadeira pena... Nao sei como ou quando poderiamos realizar esta expedicao de medicao por conta propria.</text>
+121|<text>Obrigado... mmm... Marca, certo? Voce ajudou a salvar nosso associado Kruglov e, para mostrar meu sincero apreco, gostaria de presentea-lo com um de nossos trajes de trabalho. E muito util, voce deve saber disso...</text>
+124|<text>Voce fez um trabalho esplendido, Marca! Agora que as emissoes estao desligadas, poderemos encomendar novas expedicoes e explorar territorios antes inacessiveis. E tambem... a partir de agora, conduziremos uma politica de precos mais favoravel para voce.</text>
+127|<text>Obrigado.</text>
+130|<text>Sim, Marca? O que voce esta procurando?</text>
+133|<text>Voce fez um excelente trabalho. Se as medicoes estiverem corretas, o prototipo deve fornecer protecao maxima contra emissao.</text>
+136|<text>Fico feliz em ouvir isso.</text>
+139|<text>Agora seu caminho para o laboratorio esta livre... exceto que, se a fonte da emissao nao for destruida e nao perder sua energia, voce pode nao ter tempo suficiente para voltar. Entao, meu caro senhor, aqui esta o acordo. Nossos calculos produziram uma localizacao estimada da fonte, bem como o fato de que ela esta subterranea. Com sua permissao, ja marquei o local em seu mapa.</text>
+142|<text>Como exatamente se entra no Lab X16? Onde fica a entrada?</text>
+145|<text>Vasiliev estava trabalhando na questao do laboratorio. Ha cerca de uma semana, ele e um stalker chamado Fantasma tentaram entrar. Algumas horas depois, sentimos um tremor forte e, depois de mais uma hora, captamos um sinal de Vasiliev vindo do pantano, mas ele desapareceu. E Vasiliev desapareceu com ele, ao que parece. Tente encontrar seu cadaver. Ele tinha as informacoes exatas sobre o laboratorio e a maneira de entrar nele. Pode ate haver informacoes sobre a desativacao da fonte da emissao. Carreguei todos os dados que temos para voce.</text>
+148|<text>Ahem... Seria muito interessante dar uma olhada nesses documentos. Entao, voce acha que Vasiliev os tem?</text>
+151|<text>Talvez. De qualquer forma, voce deve comecar encontrando o corpo de Vasiliev - essa e a unica chance de obter informacoes precisas sobre a localizacao do laboratorio. O corpo de seu colega, Fantasma, tambem deve estar em algum lugar por la. Sabe, me pareceu que ele sabia muito mais sobre X16 do que admitiu para nos. Se ele tivesse sobrevivido de alguma forma... Bem, nao adianta manter essa esperanca, e claro.</text>
+154|<text>OK, eu vou tentar.</text>
+157|<text>Por que ele morreu? Voces deveriam protege-lo!</text>
+160|<text>Kruglov foi morto pelos zumbis... Eu nao pude fazer nada, havia muitos deles.</text>
+163|<text>Ah, cara... como isso pode acontecer? Como isso pode acontecer??! Droga, tudo esta dando errado de novo. Agora teremos que chamar mais pessoas... Ja temos problemas suficientes... Droga...</text>
+166|<text>Escute... Kruglov se foi, mas eu estou vivo. Me de o prototipo. Eu vou lutar para entrar no X16.</text>
+169|<text>Aqui esta um prototipo, tenha cuidado com ele. Nao esta calibrado corretamente, mas a culpa e sua - voce nao conseguiu salvar nosso colega. O dispositivo nao fornecera protecao maxima, mas pelo menos diminuira a intensidade da emissao. Entao, stalker, voce tera que se mover rapido em seu caminho para a fonte.</text>
+172|<text>Como se entra no Lab X16? Onde exatamente fica a entrada?</text>
+175|<text>Vasiliev estava trabalhando na questao do laboratorio. Ha cerca de uma semana, ele e um stalker chamado Fantasma tentaram entrar. Algumas horas depois, sentimos um tremor forte e, depois de mais uma hora, captamos um sinal de Vasiliev vindo do pantano, mas ele desapareceu. E Vasiliev desapareceu com ele, ao que parece. Tente encontrar seu cadaver. Ele tinha as informacoes exatas sobre o laboratorio e a maneira de entrar nele. Pode ate haver informacoes sobre a desativacao da fonte da emissao. Carreguei todos os dados que temos para voce.</text>
+178|<text>Algo mais?</text>
+181|<text>Voce deve comecar encontrando o corpo de Vasiliev - essa e a unica chance de obter informacoes precisas sobre a localizacao do laboratorio. O corpo de seu colega, Fantasma, tambem deve estar em algum lugar por la. Sabe, me pareceu que ele sabia muito mais sobre X16 do que admitiu para nos. Se ele tivesse sobrevivido de alguma forma... Bem, nao adianta manter essa esperanca, e claro.</text>
+184|<text>OK, eu vou tentar.</text>
+187|<text>Por que ele morreu? Voces nao deveriam protege-lo?!</text>
+190|<text>Semenov foi morto pelos zumbis... Eu nao pude fazer nada, havia muitos deles.</text>
+193|<text>Ah, cara... como isso pode acontecer? Como isso pode acontecer??! Droga, tudo esta dando errado de novo. Agora teremos que chamar mais pessoas... Ja temos problemas suficientes... Droga...</text>
+196|<text>Escute... Semenov se foi, mas eu estou vivo. Me de o prototipo. Eu vou lutar para entrar no X16.</text>
+199|<text>Aqui esta um prototipo, tenha cuidado com ele. Nao esta calibrado corretamente, mas a culpa e sua - voce nao conseguiu salvar nosso colega. O dispositivo nao fornecera protecao maxima, mas pelo menos diminuira a intensidade da emissao. Entao, stalker, voce tera que se mover rapido em seu caminho para a fonte.</text>
+202|<text>Como se entra no Lab X16? Onde exatamente fica a entrada?</text>
+205|<text>Vasiliev estava trabalhando na questao do laboratorio. Ha cerca de uma semana, ele e um stalker chamado Fantasma tentaram entrar. Algumas horas depois, sentimos um tremor forte e, depois de mais uma hora, captamos um sinal de Vasiliev vindo do pantano, mas ele desapareceu. E Vasiliev desapareceu com ele, ao que parece. Tente encontrar seu cadaver. Ele tinha as informacoes exatas sobre o laboratorio e a maneira de entrar nele. Pode ate haver informacoes sobre a desativacao da fonte da emissao. Carreguei todos os dados que temos para voce.</text>
+208|<text>Ahem... Seria muito interessante dar uma olhada nesses documentos. Entao, voce acha que Vasiliev os tem?</text>
+211|<text>Talvez. De qualquer forma, voce deve comecar encontrando o corpo de Vasiliev - essa e a unica chance de obter informacoes precisas sobre a localizacao do laboratorio. O corpo de seu colega, Fantasma, tambem deve estar em algum lugar por la. Sabe, me pareceu que ele sabia muito mais sobre X16 do que admitiu para nos. Se ele tivesse sobrevivido de alguma forma... Bem, nao adianta manter essa esperanca, e claro.</text>
+214|<text>OK, eu vou tentar.</text>
+217|<text>Sim, Marca?</text>
+220|<text>Sim, Marca?</text>
+223|<text>E uma pena que Kruglov tenha morrido... Infelizmente, nada pode traze-lo de volta. O mais importante e que voce nos traga os dados de medicao. Voce trouxe?</text>
+226|<text>Sim. Aqui.</text>
+229|<text>Ok, deixe-me ajustar o prototipo. Espere aqui.</text>
+232|<text>Entendi.</text>
+235|<text>Nao.</text>
+238|<text>Entao pegue-os, e rapido! Nao posso calibrar o prototipo corretamente sem eles.</text>
+241|<text>Voce fez um excelente trabalho. Se as medicoes estiverem corretas, o prototipo deve fornecer protecao maxima contra a emissao. </text>
+244|<text>Voce pode ser um pouco mais claro?</text>
+247|<text>Stalker, agora voce podera entrar no laboratorio, mas a menos que desligue o emissor, voce nao durara muito, mesmo com a protecao psi ligada. Estimamos uma localizacao aproximada do emissor; ele esta localizado em uma instalacao subterranea. Marquei o local em seu mapa.</text>
+250|<text>Como entro no X16? Onde exatamente fica a entrada?</text>
+253|<text>Vasiliev estava trabalhando na questao do laboratorio. Ha cerca de uma semana, ele e um stalker chamado Fantasma tentaram entrar. Algumas horas depois, sentimos um tremor forte e, depois de mais uma hora, captamos um sinal de Vasiliev vindo do pantano, mas ele desapareceu. E Vasiliev desapareceu com ele, ao que parece. Tente encontrar seu cadaver. Ele tinha as informacoes exatas sobre o laboratorio e a maneira de entrar nele. Pode ate haver informacoes sobre a desativacao da fonte da emissao. Carreguei todos os dados que temos para voce.</text>
+256|<text>Ahem... Seria muito interessante dar uma olhada nesses documentos. Entao, voce acha que Vasiliev os tem?</text>
+259|<text>Talvez. De qualquer forma, voce deve comecar encontrando o corpo de Vasiliev - essa e a unica chance de obter informacoes precisas sobre a localizacao do laboratorio. O corpo de seu colega, Fantasma, tambem deve estar em algum lugar por la. Sabe, me pareceu que ele sabia muito mais sobre X16 do que admitiu para nos. Se ele tivesse sobrevivido de alguma forma... Bem, nao adianta manter essa esperanca, e claro.</text>
+262|<text>OK, eu vou tentar.</text>
+265|<text>Nao ha tempo...</text>
+268|<text>Sim, Marca?</text>
+271|<text>O professor me pediu para fazer uma viagem ao local de medicao.</text>
+274|<text>Agora voce esta falando de negocios! Vamos sair imediatamente. Nao adiantava ir la sozinho, mas com voce e diferente... Acho que vamos conseguir rapido - so certifique-se de nao deixar esses cadaveres chegarem muito perto. Entao, voce esta pronto?</text>
+277|<text>Sim.</text>
+280|<text>Sabe de uma coisa... Por que voce nao vai primeiro? Voce tem muita experiencia, ao contrario de mim. E esses cadaveres estao comecando a se mover de novo...</text>
+283|<text>OK.</text>
+286|<text>Uau! Marca aqui em visita pessoal! Finalmente voce chegou as nossas partes. Fale com o Professor - ele quer agradecer por me resgatar.</text>
+289|<text>Depois, depois!</text>
+292|<text>Ei, Marca! Como estao as coisas?</text>
+295|<text>Sim, Marca?</text>
+298|<text>O professor me pediu para fazer uma viagem ao local de medicao.</text>
+301|<text>Agora voce esta falando de negocios! Vamos sair imediatamente. Nao adiantava ir la sozinho, mas com voce e diferente... Acho que vamos conseguir rapido - so certifique-se de nao deixar esses cadaveres chegarem muito perto de voce. Entao, voce esta pronto?</text>
+304|<text>Sim.</text>
+307|<text>Sabe de uma coisa... Por que voce nao vai primeiro? Voce tem muita experiencia, ao contrario de mim. E esses cadaveres estao comecando a se mover de novo...</text>
+310|<text>OK.</text>
+313|<text>Desculpe, nao tenho tempo para isso agora.</text>
+316|<text>Ei, Marca! Como vai a vida?</text>
+319|<text>Espere um pouco... Precisamos terminar de conversar.</text>
+322|<text>Espere! Ainda nao terminei de fazer as medicoes!</text>
+325|<text>Ai!. Ai... argh..</text>
+328|<text>Voce esta vivo? Vamos, levante-se... Levante-se devagar. Acabou. Ja passou.</text>
+331|<text>Ei, Marca. Como voce esta?</text>
+334|<text>Pronto! Embale a camera, hora de ir!</text>
+337|<text>Ei, Marca! Como vai a vida?</text>

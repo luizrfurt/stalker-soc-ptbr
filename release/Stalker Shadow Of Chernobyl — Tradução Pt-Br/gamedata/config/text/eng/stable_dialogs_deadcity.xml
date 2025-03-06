@@ -1,132 +1,132 @@
 <?xml version="1.0" encoding="windows-1251" ?>
 <string_table>
 	<string id="cit_doctor_escape_dialog_0">
-		<text>I need answers to several questions.</text>
+		<text>Preciso de respostas para varias perguntas.</text>
 	</string>
 	<string id="cit_doctor_escape_dialog_1">
-		<text>Ask away, I'll try to help.</text>
+		<text>Pergunte, vou tentar ajudar.</text>
 	</string>
 	<string id="cit_doctor_escape_dialog_11">
-		<text>Where are my things?</text>
+		<text>Onde estao minhas coisas?</text>
 	</string>
 	<string id="cit_doctor_escape_dialog_111">
-		<text>The leader usually keeps all the confiscated stuff. His room is on the top floor. My things were taken there when they caught me.</text>
+		<text>O lider geralmente guarda todas as coisas confiscadas. O quarto dele fica no ultimo andar. Minhas coisas foram levadas para la quando me pegaram.</text>
 	</string>
 	<string id="cit_doctor_escape_dialog_1111">
-		<text>Thanks!</text>
+		<text>Obrigado!</text>
 	</string>
 	<string id="cit_doctor_escape_dialog_12">
-		<text>How can I get out of here?</text>
+		<text>Como posso sair daqui?</text>
 	</string>
 	<string id="cit_doctor_escape_dialog_121">
-		<text>When they were leading me around I noticed a sewer grate under the stairs on the first floor... If you managed to open the cell it would be possible to get out of here using that sewer... It's best to go West and then you can use the tunnel to get to Freedom.</text>
+		<text>Quando eles estavam me levando por ai, notei uma grade de esgoto embaixo da escada no primeiro andar... Se voce conseguisse abrir a cela, seria possivel sair daqui usando esse esgoto... E melhor ir para o oeste e entao voce pode usar o tunel para chegar a Liberdade.</text>
 	</string>
 	<string id="cit_doctor_escape_dialog_1211">
-		<text>Thanks for the information.</text>
+		<text>Obrigado pela informacao.</text>
 	</string>
 	<string id="cit_doctor_escape_dialog_14">
-		<text>Who captured us?</text>
+		<text>Quem nos capturou?</text>
 	</string>
 	<string id="cit_doctor_escape_dialog_141">
-		<text>We're being held by the Mercs. Nobody really knows who they are but there are rumors that they work together with foreign intelligence services. The location of this base is top secret - no one knows how to get into the Dead City. Many people are very interested in this information, especially Freedom and Duty.</text>
+		<text>Estamos sendo mantidos pelos Mercs. Ninguem sabe ao certo quem eles sao, mas ha rumores de que trabalham em conjunto com servicos de inteligencia estrangeiros. A localizacao desta base e ultrassecreta - ninguem sabe como entrar na Cidade Morta. Muitas pessoas estao muito interessadas nessas informacoes, especialmente a Liberdade e o Dever.</text>
 	</string>
 	<string id="cit_doctor_escape_dialog_1411">
-		<text>Go on.</text>
+		<text>Continue.</text>
 	</string>
 	<string id="cit_doctor_escape_dialog_14111">
-		<text>If you manage to get a map of the Dead City, a successful assault will be possible. The Mercs or the bandits probably have one. You could try to get it.</text>
+		<text>Se voce conseguir um mapa da Cidade Morta, um ataque bem-sucedido sera possivel. Os Mercs ou os bandidos provavelmente tem um. Voce poderia tentar conseguir.</text>
 	</string>
 	<string id="cit_doctor_escape_dialog_141111">
-		<text>Thanks for the information.</text>
+		<text>Obrigado pela informacao.</text>
 	</string>
 	<string id="cit_doctor_escape_dialog_15">
-		<text>What do you know about this place?</text>
+		<text>O que voce sabe sobre este lugar?</text>
 	</string>
 	<string id="cit_doctor_escape_dialog_151">
-		<text>The city is split into two sections. We're on the Merc side. To the South beyond the square is where the bandits are. They're holed up in the school building Southwest of the city. In between the bases, there is a run down five-floor building and a few relatively intact ones. If the shit hits the fan, you can sit it out there. There are also some garages and a couple of small houses around that area. There are a couple of five-floor buildings and a dozen garages on the bandits' side too. The former city council building is on the other side of the square.</text>
+		<text>A cidade esta dividida em duas secoes. Estamos do lado dos Mercs. Ao sul, alem da praca, e onde os bandidos estao. Eles estao entrincheirados no predio da escola a sudoeste da cidade. Entre as bases, ha um predio de cinco andares em ruinas e alguns relativamente intactos. Se a merda bater no ventilador, voce pode esperar la. Ha tambem algumas garagens e algumas pequenas casas ao redor dessa area. Ha um par de predios de cinco andares e uma duzia de garagens do lado dos bandidos tambem. O antigo predio do conselho municipal fica do outro lado da praca.</text>
 	</string>
 	<string id="cit_doctor_escape_dialog_1511">
-		<text>Thanks for the information.</text>
+		<text>Obrigado pela informacao.</text>
 	</string>
 	<string id="cit_doctor_escape_dialog_16">
-		<text>Who's in charge here?</text>
+		<text>Quem esta no comando aqui?</text>
 	</string>
 	<string id="cit_doctor_escape_dialog_161">
-		<text>A truly nasty guy named Dushman. I've seen him carrying around a folder with some documents a couple of times. I reckon there's something interesting inside.</text>
+		<text>Um cara realmente desagradavel chamado Dushman. Eu o vi carregando uma pasta com alguns documentos algumas vezes. Acho que ha algo interessante la dentro.</text>
 	</string>
 	<string id="cit_doctor_escape_dialog_1611">
-		<text>Thanks for the information.</text>
+		<text>Obrigado pela informacao.</text>
 	</string>
 	<string id="cit_doctor_escape_dialog_17">
-		<text>Nope, nothing.</text>
+		<text>Nao, nada.</text>
 	</string>
 	<string id="cit_doctor_hello_dialog_11">
-		<text>Strelok! Where the hell have you been??? I haven't seen you or the guys since the last raid! I was getting worried!</text>
+		<text>Strelok! Onde diabos voce esteve??? Nao vejo voce nem os caras desde o ultimo ataque! Eu estava ficando preocupado!</text>
 	</string>
 	<string id="cit_doctor_hello_dialog_21">
-		<text>So, you feeling better? You thinking clearly?</text>
+		<text>Entao, voce esta se sentindo melhor? Pensando claramente?</text>
 	</string>
 	<string id="cit_doctor_main_dialog_0">
 		<text>Strelok???</text>
 	</string>
 	<string id="cit_doctor_main_dialog_1">
-		<text>Yeah, you're Strelok! Who else would you be? I'm Doc, don't you recognize me? What happened to you, friend? You don't look well. We went into the Zone together for 2 years. You really don't remember me?</text>
+		<text>Sim, voce e Strelok! Quem mais voce seria? Eu sou Doutor, voce nao me reconhece? O que aconteceu com voce, amigo? Voce nao parece bem. Nos entramos na Zona juntos por 2 anos. Voce realmente nao se lembra de mim?</text>
 	</string>
 	<string id="cit_doctor_main_dialog_11">
-		<text>No, I don't.</text>
+		<text>Nao, eu nao me lembro.</text>
 	</string>
 	<string id="cit_doctor_main_dialog_2">
-		<text>You don't??? Strelok, what the...? You're not joking around, are you? Man... What about the guys, our guys? Fang, Ghost? You remember them, don't you?</text>
+		<text>Voce nao se lembra??? Strelok, o que...? Voce nao esta brincando, esta? Cara... E os caras, nossos caras? Fang, Fantasma? Voce se lembra deles, nao lembra?</text>
 	</string>
 	<string id="cit_doctor_main_dialog_21">
-		<text>I don't remember Fang, and Ghost is dead - I found his body in Yantar.</text>
+		<text>Nao me lembro de Fang, e Fantasma esta morto - encontrei o corpo dele em Yantar.</text>
 	</string>
 	<string id="cit_doctor_main_dialog_3">
-		<text>Ghost!!?!?! Dead??!!! Dammit, how could that happen?! They... they were the best. What happened to you?</text>
+		<text>Fantasma!!?!?! Morto??!!! Droga, como isso pode acontecer?! Eles... eles eram os melhores. O que aconteceu com voce?</text>
 	</string>
 	<string id="cit_doctor_main_dialog_31">
-		<text>I don't know what happened, I don't remember.</text>
+		<text>Nao sei o que aconteceu, nao me lembro.</text>
 	</string>
 	<string id="cit_doctor_main_dialog_4">
-		<text>Wait, I need to calm down. That's some shitty news man. I think it's all linked with your last trip into the Zone. When we saw each other the last time, you left me the key from the stash at Pripyat and the map of how to find it. I've managed to keep it - hid it from the Mercs. Here, take it, hide it well. Perhaps you'll find somthing there. You were saying that there's some trick with the Monolith. But I don't understand what it was about, and you didn't either.</text>
+		<text>Espere, preciso me acalmar. Isso e uma noticia de merda, cara. Acho que esta tudo ligado a sua ultima viagem a Zona. Quando nos vimos pela ultima vez, voce me deixou a chave do esconderijo em Prypiat e o mapa de como encontra-lo. Consegui guarda-lo - escondi dos Mercs. Aqui, pegue, esconda bem. Talvez voce encontre algo la. Voce estava dizendo que havia algum truque com o Monolito. Mas eu nao entendi do que se tratava, e voce tambem nao.</text>
 	</string>
 	<string id="cit_doctor_main_dialog_41">
-		<text>I see. Where are we? I don't remember how I got here.</text>
+		<text>Entendo. Onde estamos? Nao me lembro de como cheguei aqui.</text>
 	</string>
 	<string id="cit_doctor_main_dialog_5">
-		<text>We're in Dead City! In the Merc camp.</text>
+		<text>Estamos na Cidade Morta! No acampamento dos Mercs.</text>
 	</string>
 	<string id="cit_doctor_main_dialog_6">
-		<text>We're in Dead City!.. In the Merc camp...</text>
+		<text>Estamos na Cidade Morta!.. No acampamento dos Mercs...</text>
 	</string>
 	<string id="quest_cit_reward_0">
-		<text>By the way, I have information about the Mercs. Interested?</text>
+		<text>A proposito, tenho informacoes sobre os Mercs. Interessado?</text>
 	</string>
 	<string id="quest_cit_reward_1">
-		<text>Depends on the information.</text>
+		<text>Depende da informacao.</text>
 	</string>
 	<string id="quest_cit_reward_11">
-		<text>I have a map which details the location of their base, guard posts, the way to get in without being noticed and a lot more.</text>
+		<text>Tenho um mapa que detalha a localizacao da base deles, postos de guarda, a maneira de entrar sem ser notado e muito mais.</text>
 	</string>
 	<string id="quest_cit_reward_111">
-		<text>Sounds valuable. I'll give you 3000 for it.</text>
+		<text>Parece valioso. Te dou 3000 por ele.</text>
 	</string>
 	<string id="quest_cit_reward_1111">
-		<text>Deal. Here.</text>
+		<text>Fechado. Aqui esta.</text>
 	</string>
 	<string id="quest_cit_reward_11111">
-		<text>Great! Here's your reward. Soon stalkers will argue about whether the Mercs even existed at all!</text>
+		<text>Otimo! Aqui esta sua recompensa. Em breve, os stalkers discutirao se os Mercs sequer existiram!</text>
 	</string>
 	<string id="quest_cit_reward_1112">
-		<text>Not, that's not enough.</text>
+		<text>Nao, isso nao e suficiente.</text>
 	</string>
 	<string id="quest_cit_reward_11121">
-		<text>As you wish, I'm not giving you any more.</text>
+		<text>Como quiser, nao vou te dar mais nada.</text>
 	</string>
 	<string id="quest_cit_reward_13">
-		<text>Nothing worthwhile. Just the usual gossip. Sorry.</text>
+		<text>Nada que valha a pena. Apenas a fofoca de sempre. Desculpe.</text>
 	</string>
 	<string id="quest_cit_reward_131">
-		<text>If you find out something more specific come back. I'll pay you.</text>
+		<text>Se voce descobrir algo mais especifico, volte. Eu te pago.</text>
 	</string>
 </string_table>

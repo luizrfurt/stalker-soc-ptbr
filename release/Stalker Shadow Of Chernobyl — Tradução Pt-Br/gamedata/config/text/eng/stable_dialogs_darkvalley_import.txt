@@ -1,0 +1,61 @@
+4|<text>Bandidos! Aqueles filhos da puta estavam me levando para a velha fabrica. Nao sei o que eles estavam planejando fazer comigo la. Eu os vi levar outro cara la antes e nunca mais o vi depois disso. Eles pegaram outro dos nossos, Serega. Eles o mantem no porao... naquele grande predio inacabado ali. Ajude-o, quer?</text>
+7|<text>Voce sabe o que eles tem la na fabrica?</text>
+10|<text>Nao ouvi muita coisa. Tudo o que sei e que o chefe deles, Borov, tem parte da chave do subterraneo la. Costumava haver um laboratorio ou algo assim... Ouvi dizer que Borov esta ansioso para entrar, mas nao pode sem a segunda metade da chave. Hum... se voce esta pensando em tentar entrar, pense duas vezes antes de fazer isso. Esta cheio de bandidos.</text>
+13|<text>Entendi. Obrigado, vou manter isso em mente.</text>
+16|<text>Vou tentar ajudar seu homem.</text>
+19|<text>E uma pena sobre meu parceiro... Ele era um cara otimo. Mas ainda assim, eu te devo uma.</text>
+22|<text>Essas coisas acontecem.</text>
+25|<text>Obrigado pela sua ajuda!</text>
+28|<text>Tchau.</text>
+31|<text>Voce nao se importa com as pessoas. O que ha para discutir entre voce e eu?</text>
+34|<text>Obrigado! Voce tirou meu parceiro de la! Aqui, pegue isto - e do fundo do meu coracao.</text>
+37|<text>Fechado.</text>
+40|<text>Acho que voce deve conhecer bem esta area. O que ha de interessante aqui?</text>
+43|<text>Ao norte ha um acampamento de bandidos. Ao leste - uma velha fabrica. Ao sudoeste - uma fazenda de porcos deserta e algum tipo de portao alem dela... Nao posso dizer o que ha la, nunca fui tao longe.</text>
+46|<text>Voce me contaria mais sobre o acampamento de bandidos?</text>
+49|<text>Hmm, o que tem nele... Eles se estabeleceram em um predio inacabado ao norte daqui. O lider deles e Borov - um animal de verdade, aquele bastardo. Foi por isso que nos mandaram para ca, para acabar com ele.</text>
+52|<text>O que esta acontecendo na fabrica?</text>
+55|<text>Conseguimos descobrir que existe algum tipo de cofre la. So que e guardado como Fort Knox.</text>
+58|<text>Que tipo de cofre? O que tem dentro dele?</text>
+61|<text>Nao sei, mas ousamos entrar. A unica coisa que sei e que Borov tem metade da chave da entrada.</text>
+64|<text>Uma fazenda de porcos de verdade? Com porcos de verdade?</text>
+67|<text>Ja esta babando por umas costeletas de porco, hein? Droga, a Zona esta cheia de javalis! De uma mordida em um deles e voce nao vai mais precisar de lanterna - e assim que voce vai brilhar no escuro! OK, OK, so brincando... A fazenda foi abandonada ha muito tempo e agora e o lar de alguns stalkers. Eles nao me causaram uma boa impressao, no entanto, e eu geralmente confio no meu instinto.</text>
+70|<text>Que portao e esse que voce estava falando?</text>
+73|<text>Nao consigo entender. Apenas um portao velho, so que esta trancado e bem guardado. Nao entramos la.</text>
+76|<text>Entendo, obrigado.</text>
+79|<text>De nada! Volte sempre.</text>
+82|<text>So voces dois foram em uma missao de reconhecimento?</text>
+85|<text>Tinha outro cara, Serega. Nao sei, ele sumiu e nao ouvi falar dele... A gangue deve ter lidado com ele, afinal.</text>
+88|<text>Cuide-se.</text>
+91|<text>Entao, amigo... O que vai acontecer comigo agora?.. Obrigado. Pelo menos voce tentou ajudar. E eu cumpro minha palavra.</text>
+94|<text>Obrigado pela sua ajuda! O que mais voce queria saber?</text>
+97|<text>Voce se recusou a ajudar quando eu pedi. Nao temos nada para discutir. Suma daqui.</text>
+100|<text>Tchau.</text>
+103|<text>Ei, amigo! Me ajuda! Sou um batedor do Dever. Me ajuda a sair daqui!</text>
+106|<text>Vou tentar.</text>
+109|<text>Nao ha nada que eu possa fazer por voce.</text>
+112|<text>Obrigado, irmao! Te devo uma. Olha o que consegui descobrir - pode ser util para voce, quem sabe... Borov - aquele que manda em tudo - coletou muitos itens. Ele tem um pedaco da chave para o nivel inferior da velha fabrica. Ouvi os guardas tagarelando, eles disseram que costumava haver algum tipo de laboratorio la. A questao e que se aproximar de Borov nao e tao simples.</text>
+115|<text>Obrigado pela informacao.</text>
+118|<text>E hora de voltar para nossos caras. Algo me diz que teremos sorte de sair daqui vivos...</text>
+121|<text>Boa sorte.</text>
+124|<text>Temos que sair daqui antes que esses bastardos decidam dar uma olhada neste lugar! Precisa de alguma coisa? Pegue rapido!</text>
+127|<text>Nao, nada.</text>
+130|<text>Ei! Tem um interruptor ali na parede - ele abre a porta da cela.</text>
+133|<text>OK, vou dar uma olhada.</text>
+136|<text>Ei, quer uma arma incrivel? Encontrei uma coisinha perto de Yantar... um esconderijo, acho. Tinha um rifle Gauss entre outras coisas. Eu te digo, essa coisa arrasa - qualquer um a cem metros dela esta morto... Voce pode ficar com ele por apenas 800.</text>
+139|<text>Aqui esta o dinheiro.</text>
+142|<text>Obrigado, mas nao, obrigado.</text>
+145|<text>Nao, fique com ele. Dinheiro e dificil de conseguir.</text>
+148|<text>Pegou o dinheiro? Se apresse. Eu tive muitos clientes... Eles vao voltar logo.</text>
+151|<text>Excelente. Espere aqui, vou buscar.</text>
+154|<text>Esperando.</text>
+157|<text>Ei, me da um kit medico!</text>
+160|<text>Aqui esta.</text>
+163|<text>Desculpe, nao tenho um kit medico.</text>
+166|<text>Obrigado, voce me tirou de uma enrascada de verdade. Se eu viver o suficiente para te ver de novo, vou tentar te retribuir. Agora tudo o que posso te dar e uma dica valiosa. OK, ao sul daqui, tem uma fazenda onde alguns stalkers tranquilos montaram acampamento. Um deles esta vendendo um rifle Gauss bem barato, so 800. Eu ia comprar, e ai me afoguei em merda... Entao, se voce tem a grana, va em frente.</text>
+169|<text>Obrigado pela informacao.</text>
+172|<text>Te devo uma, e eu sempre pago minhas dividas. Vamos.</text>
+175|<text>Excelente. Agora vamos detonar todo mundo.</text>
+178|<text>Desculpe, tenho outros planos.</text>
+181|<text>Bem, boa sorte entao.</text>
+184|<text>Tchau.</text>

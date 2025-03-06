@@ -1,0 +1,443 @@
+4|<text>Continue...</text>
+7|<text>Entao, sua primeira luta? Seu oponente e um pedaco de carne como voce. Ele esta aqui por causa de dividas e so tem duas opcoes: sair e lutar ou se jogar na anomalia mais proxima. Ele vai lutar como um animal encurralado. Equipamento para hoje... deixa eu pensar... OK! Por que voces dois nao usam PMms... dois pentes cada devem ser suficientes. Ou voce chuta a bunda dele ou nos te damos para os caes - nao ha muita escolha. Va agora.</text>
+10|<text>Estou pronto.</text>
+13|<text>Nao estou pronto.</text>
+16|<text>Sua ultima luta nao significou merda nenhuma. Voce ainda e o mesmo pedaco de carne que era antes e nenhuma pessoa que se preze vai apostar um unico pente em voce. Se voce quer ganhar algum dinheiro de verdade, vai ter que fazer mais algumas aparicoes na arena. Seu novo oponente tambem passou da primeira rodada e a luta dele foi muito mais dificil que a sua. Nao gosto dele, para ser sincero - ele mata muito rapido e a multidao nao gosta disso. Entao, va la e mostre do que voce e capaz! As apostas vao aumentar depois desta luta - tudo o que voce precisa fazer e ficar vivo. Mexa-se!</text>
+19|<text>Estou pronto.</text>
+22|<text>Nao estou pronto.</text>
+25|<text>Bem, bem... Voce nao e tao covarde quanto parecia no comeco. Agora e hora de te testar em uma luta de verdade. Voce vai enfrentar dois caras. O primeiro se chama Sueco e nao me lembro do nome do segundo. Eles foram colocados juntos de proposito porque se odeiam, entao nao se preocupe com eles trabalhando em equipe - e mais provavel que atirem um no outro. Hoje e dia de rifle, entao nao deixe que eles cheguem muito perto ou teremos que te pegar em pedacos. As chances sao de 10:1, entao se voce ganhar, vai ganhar uma boa grana. Va!</text>
+28|<text>Estou pronto.</text>
+31|<text>Nao estou pronto.</text>
+34|<text>Bem, agora posso dizer com seguranca que voce e um lutador, um lutador de verdade. Agora e hora de uma luta em equipe. Voce vai lutar com dois novatos - dois irmaos - do seu lado. Eles ainda nao lutaram, mas sao irmaos, entao tive que coloca-los em uma luta em equipe. Eu nao esperaria nenhuma ajuda real deles se fosse voce. Voce esta lutando contra uma equipe experiente, eles sao candidatos a final desta temporada. Um grupo perigoso. Eles usam armas diferentes, mas um tem uma espingarda automatica - tenha muito cuidado com ele. Boa sorte, amigo... voce vai precisar.</text>
+37|<text>Estou pronto.</text>
+40|<text>Nao estou pronto.</text>
+43|<text>Voce tem uma luta especial hoje. Ate o exercito ouviu falar de voce! Nao se surpreenda, eles lutam aqui tambem - tem ate um general na multidao. Esses caras sao das Forcas Especiais ou da OMON. Eles estao bem armados e a armadura deles e tao boa quanto voce esperaria. Nao se preocupe, eu tambem nao vou te deixar na chuva. Voce vai ganhar um colete usado pela Liberdade - e leve, entao nao vai te deixar lento. Va la, mostre a eles que os stalkers nao sao meninos de recados. Boa sorte!</text>
+46|<text>Estou pronto.</text>
+49|<text>Nao estou pronto.</text>
+52|<text>Hora de voce mostrar do que e capaz. O Dever capturou um grupo de bandidos que estavam causando problemas para os stalkers perto de Rostok. O Dever os pegou a noite, entao a maioria dos bandidos foi pega viva. Eles seriam todos executados de qualquer maneira, entao convenci o Dever a dar a eles uma chance. Se algum deles sobreviver, vai para a cadeia fora da Zona, o que e melhor do que morrer aqui. Eles nao estao bem armados - apenas algumas pistolas e serradas - mas sao seis, entao tome cuidado. Va agora!</text>
+55|<text>Estou pronto.</text>
+58|<text>Nao estou pronto.</text>
+61|<text>Bem, voce esta quase na final. Agora voce vai lutar contra um stalker de verdade. Ele esta sozinho, mas tem uma FT 200M e esta dentro de um exoesqueleto. Pegue um disparo e voce vira torrada. Havera uma surpresa que nao posso te contar tambem... Aqui esta meu conselho: esteja preparado, vai ser dificil. O vencedor passa para a final. Lute ate a morte, va!</text>
+64|<text>Estou pronto.</text>
+67|<text>Nao estou pronto.</text>
+70|<text>Parabens, voce esta na final! Mais um para ir e este e ate a morte, cada um por si. Havera outros 4 stalkers na arena: todos profissionais de verdade em exoesqueletos com GP-37s, mas e um acordo justo desta vez - voce tera exatamente o que eles tem. A unica coisa e que voce nao ganha kits medicos ou bandagens em uma luta ate a morte. Pronto? Va provar que voce e o melhor, VA!</text>
+73|<text>Estou pronto.</text>
+76|<text>Nao estou pronto.</text>
+79|<text>Yo! Tenho uma nova luta para voce.</text>
+82|<text>Va beber alguma coisa. A Arena ainda nao esta pronta.</text>
+85|<text>Voce ja se tornou um profissional!!!</text>
+88|<text>Voce venceu! Aqui esta sua recompensa.</text>
+91|<text>Voce nao e experiente o suficiente para esta luta.</text>
+94|<text>Aqui esta o pendrive que o professor Kruglov me deu.</text>
+97|<text>Bom garoto. Acho que o Dever ficara muito grato por esta informacao. Aqui esta sua recompensa.</text>
+100|<text>Bem, bem. Informacao? Diretamente do professor Kruglov? Voce esta me zoando ou o que? "Eu sou o professor Kruglov e estou excluindo relatorios sobre nossa pesquisa pelo bem da ciencia e da humanidade..." E esta e a informacao que voce deveria ter obtido!? Bem, merda... Tenho certeza de que o Dever ficara "feliz" com isso.</text>
+103|<text>Cumpri minha missao. Aqui esta o PDA de Tirano.</text>
+106|<text>Uau, Marca. Otimo trabalho! O que posso dizer? Voce me fez feliz, cara. Eu nao tinha certeza de que voce conseguiria, para ser honesto... mas voce esta vivo e eles nao!</text>
+109|<text>E a minha recompensa?</text>
+112|<text>Aqui. Sua recompensa conforme prometido.</text>
+115|<text>Aqui esta o PDA de Sortudo. Fiz o que voce pediu.</text>
+118|<text>Legal, Marca. Otimo trabalho! O que posso dizer? Voce me fez feliz, cara. Eu nao tinha certeza de que voce conseguiria, para ser honesto... mas voce esta vivo e eles nao!</text>
+121|<text>E a recompensa?</text>
+124|<text>Voce e um heroi, cara, um heroi de verdade. Aqui, isso deve te deixar feliz.</text>
+127|<text>Voce tem algum trabalho especial?</text>
+130|<text>Nao, nao tenho nada hoje.</text>
+133|<text>Va direto ao ponto. O que eu tenho que fazer?</text>
+136|<text>Nao, nao tenho nada hoje.</text>
+139|<text>Tenho uma missao seria. Um grupo de assassinos veteranos apareceu novamente no Territorio Selvagem. Algumas pessoas do Dever vieram ate mim e pediram para eu lidar com esses veteranos. O Dever tem provas solidas de que eles sao responsaveis pelas mortes de stalkers solitarios. O problema e que esses veteranos e o Dever tem um acordo antigo e o Dever nao pode quebra-lo, mas esses caras estao realmente forcando a barra. Basicamente, o Dever quer que eles sejam eliminados, de forma discreta. Nao vai ser facil, mas o trabalho vale muita grana.</text>
+142|<text>Algo mais? Parece estranho que o Dever esteja deixando eles escaparem impunes.</text>
+145|<text>O Dever valoriza sua reputacao, e e por isso que eles precisam que isso seja feito discretamente. Tudo o que voce precisa fazer e matar o lider deles, Sortudo, e me trazer o PDA dele como prova.</text>
+148|<text>Eu vou fazer isso. Espero nao me arrepender de ter aceitado.</text>
+151|<text>Boa decisao, cara. Nao ha nada para se arrepender.</text>
+154|<text>Nao, nao estou pronto para isso.</text>
+157|<text>Voce decide, mas lembre-se que esta e uma boa oportunidade de ganhar a gratidao do Dever.</text>
+160|<text>Va direto ao ponto. O que eu tenho que fazer?</text>
+163|<text>Sua missao e matar Tirano, o lider dos Mercs. A equipe dele entrou no Territorio Selvagem e montou uma base no canteiro de obras. Tenha cuidado, alguns dos lutadores deles montaram emboscadas no caminho para o local. Traga-me o PDA de Tirano e a recompensa e sua.</text>
+166|<text>Eu vou fazer isso. Espero nao me arrepender de ter aceitado.</text>
+169|<text>Boa decisao, cara. Nao ha nada para se arrepender.</text>
+172|<text>Nao, nao estou pronto para isso.</text>
+175|<text>Como desejar.</text>
+178|<text>Nao, nao tenho nada hoje.</text>
+181|<text>Sua missao e matar Tirano, o lider dos Mercs. A equipe dele entrou no Territorio Selvagem e montou uma base no canteiro de obras. Tenha cuidado, alguns dos lutadores deles montaram emboscadas no caminho para o local. Traga-me o PDA de Tirano e a recompensa e sua.</text>
+184|<text>Eu vou fazer isso. Espero nao me arrepender de ter aceitado.</text>
+187|<text>Boa decisao, cara. Nao ha nada para se arrepender.</text>
+190|<text>Nao, nao estou pronto para isso.</text>
+193|<text>Como desejar.</text>
+196|<text>Nao, nao tenho nada hoje.</text>
+199|<text>Nao se deixe levar, Marca. Voce esta procurando mais trabalho, mas ainda nem lidou com os veteranos...</text>
+202|<text>Nao, nada hoje.</text>
+205|<text>Tenho uma missao seria. Um grupo de assassinos veteranos apareceu novamente no Territorio Selvagem. Algumas pessoas do Dever vieram ate mim e pediram para eu lidar com esses veteranos. O Dever tem provas solidas de que eles sao responsaveis pelas mortes de stalkers solitarios. O problema e que esses veteranos e o Dever tem um acordo antigo e o Dever nao pode quebra-lo, mas esses caras estao realmente forcando a barra. Basicamente, o Dever quer que eles sejam eliminados, de forma discreta. Nao vai ser facil, mas o trabalho vale muita grana.</text>
+208|<text>Algo mais?</text>
+211|<text>O Dever valoriza sua reputacao, e e por isso que eles precisam que isso seja feito discretamente. Tudo o que voce precisa fazer e matar o lider deles, Sortudo, e me trazer o PDA dele como prova.</text>
+214|<text>Eu vou fazer isso.</text>
+217|<text>Boa decisao, cara. Nao ha nada para se arrepender.</text>
+220|<text>Nao, nao estou pronto para isso.</text>
+223|<text>Voce decide, mas lembre-se que esta e uma boa oportunidade de ganhar a gratidao do Dever.</text>
+226|<text>texto padrao</text>
+229|<text>Sua missao e matar Tirano, o lider dos Mercs. A equipe dele entrou no Territorio Selvagem e montou uma base no canteiro de obras. Tenha cuidado, alguns dos lutadores deles montaram emboscadas no caminho para o local. Traga-me o PDA de Tirano e a recompensa e sua.</text>
+232|<text>Eu vou fazer isso.</text>
+235|<text>Boa decisao, cara. Nao ha nada para se arrepender.</text>
+238|<text>Nao, nao estou pronto para isso.</text>
+241|<text>Como desejar.</text>
+244|<text>Nao, nada hoje.</text>
+247|<text>Nao, nada hoje.</text>
+250|<text>Nao, nada hoje.</text>
+253|<text>Nao, nao tenho nada hoje.</text>
+256|<text>Ainda nao, da proxima vez.</text>
+259|<text>Tenho um trabalho para um profissional.</text>
+262|<text>Va direto ao ponto. O que eu tenho que fazer?</text>
+265|<text>Sua missao e matar Tirano, o lider dos Mercs. A equipe dele entrou no Territorio Selvagem e montou uma base no canteiro de obras. Tenha cuidado, alguns dos lutadores deles montaram emboscadas no caminho para o local. Traga-me o PDA de Tirano e a recompensa e sua.</text>
+268|<text>Eu vou fazer isso. Espero nao me arrepender de ter aceitado.</text>
+271|<text>Boa decisao, cara. Nao ha nada para se arrepender.</text>
+274|<text>Nao, nao estou pronto para isso.</text>
+277|<text>Como desejar.</text>
+280|<text>Nao, nao estou interessado agora.</text>
+283|<text>Nao, nao tenho nada hoje.</text>
+286|<text>Nao, nao tenho nada hoje.</text>
+289|<text>Nao, nao tenho nada hoje.</text>
+292|<text>Nao, nao tenho nada hoje.</text>
+295|<text>Nao, nao tenho nada hoje.</text>
+298|<text>Vamos comecar. Voce esta pronto?</text>
+301|<text>Hmm... De onde voce veio?</text>
+304|<text>Entao, Marca, voce pegou os documentos do X16?</text>
+307|<text>Sim. Aqui.</text>
+310|<text>Nao.</text>
+313|<text>Droga! Estou aqui, me matando de trabalhar enquanto voce esta vagando pela floresta! Va pegar esses malditos documentos ou nao faremos nenhum progresso!</text>
+316|<text>OK.</text>
+319|<text>Bem, Marca, agora so precisamos lidar com o Desintegrador Psiquico e abrir o caminho para o norte! Voce esta pronto para ir agora?</text>
+322|<text>Sim.</text>
+325|<text>OK, Marca, voce tem o prototipo de protecao, entao estara seguro das emissoes. Eu tenho as coordenadas do bunker. Nao se esqueca de que o prototipo nao o protegera para sempre, entao voce precisa chegar ao bunker o mais rapido possivel e desligar o Desintegrador Psiquico. Nao sei o que acontecera depois disso, mas tenho certeza de que valera a pena. A unica coisa de que podemos ter certeza e que a estrada para o centro da Zona estara aberta.</text>
+328|<text>Continue.</text>
+331|<text>Tudo o que precisamos fazer e chegar as antenas e desativa-las. Entendido?</text>
+334|<text>Entendido.</text>
+337|<text>Ah, sim, mais uma coisa! O lider do Dever, marquei ele no mapa, precisa de um voluntario para realizar algum tipo de tarefa nos armazens militares. Se voce estiver interessado, pode dar uma passada la. Vou falar com os guardas, eles vao deixar voce entrar.</text>
+340|<text>Nao, ainda nao estou pronto.</text>
+343|<text>Prepare-se, Marca! Esta tarefa nao pode esperar!</text>
+346|<text>OK, os documentos que voce trouxe do Instituto esclarecem algumas coisas, mas ainda estamos perdendo as informacoes de que precisamos para ter uma visao completa. Um laboratorio designado X18 e mencionado e sua descricao corresponde aos cofres subterraneos abandonados no Vale Sombrio. Parece que voce tera que ir la e obter as informacoes de que precisamos. O laboratorio esta fechado e voce precisara de duas chaves eletronicas para entrar. Eu te darei uma, mas voce tera que pegar a outra com Javali no Vale Sombrio.</text>
+349|<text>Continue.</text>
+352|<text>Tudo o que voce precisa fazer e adquirir a segunda chave para o Lab X18, entrar e recuperar o segundo lote de documentos. Nao se esqueca de conseguir um traje de protecao ou voce nao tera a menor chance de chegar ao laboratorio. Entao, voce vai fazer isso?</text>
+355|<text>Eu vou tentar.</text>
+358|<text>Otimo! Estarei esperando.</text>
+361|<text>Nao, nao quero fazer isso ainda.</text>
+364|<text>Voce decide, mas lembre-se: esta e a unica maneira que pode nos ajudar a abrir a estrada para o norte.</text>
+367|<text>O que voce quer, Marca?</text>
+370|<text>Ei, Marca! Os tempos mudam, mas voce continua rabugento e distante. Aqui, sente-se, beba um gole - pode te deixar mais legal...</text>
+373|<text>Entao, Marca, voce trouxe os documentos do X18?</text>
+376|<text>Sim. Aqui.</text>
+379|<text>Bom, a situacao esta ficando mais clara. Como eu esperava, este Desintegrador Psiquico e feito pelo homem. E um emissor experimental Kaymanov e seus componentes foram feitos exatamente no X18. Esses documentos se referem ao laboratorio X16, onde enviaram alguns componentes. De acordo com isso, o X16 esta localizado na area do complexo de producao perto do Lago Yantar. Os cientistas montaram um laboratorio movel por la, entao talvez eles possam ajudar.</text>
+382|<text>Continue.</text>
+385|<text>Nao e simples. Voce precisa chegar aos cientistas e descobrir onde fica o X16 para poder obter os documentos que faltam. Entao, voce esta pronto para isso?</text>
+388|<text>Sim.</text>
+391|<text>Otimo! Estarei esperando.</text>
+394|<text>Nao, ainda nao estou pronto.</text>
+397|<text>Entao se prepare rapido, Marca! Esse tipo de negocio nao pode esperar.</text>
+400|<text>Nao.</text>
+403|<text>Por que voce esta perdendo tempo? Va pegar esses malditos documentos ou nao faremos nenhum progresso!</text>
+406|<text>O que voce quer, Marca?</text>
+409|<text>Ei, Marca! Os tempos mudam, mas voce continua rabugento e distante. Aqui, sente-se, beba um gole - pode te deixar mais legal...</text>
+412|<text>Ei, Marca! Voce trouxe os documentos do Instituto?</text>
+415|<text>Nao, ainda nao peguei os documentos do Instituto.</text>
+418|<text>Isso nao e bom, Marca, nao e nada bom... Voce entende o quanto precisamos deles, nao e? Precisamos deles muito, acredite em mim. O Desintegrador Psiquico esta bem debaixo do nosso nariz, mas nem sabemos o que e! Va pegar os documentos agora mesmo - conversamos depois disso.</text>
+421|<text>Acho que entendi.</text>
+424|<text>Aqui estao os documentos do Instituto.</text>
+427|<text>Otimo trabalho, Marca! Finalmente temos os documentos. Preciso dar uma olhada neles agora e talvez descubra como ir para o norte. Enquanto isso, se voce tiver problemas com dinheiro, pode lutar na Arena. O dono da Arena e Arni, carreguei as coordenadas dele.</text>
+430|<text>OK.</text>
+433|<text>Agora escute!</text>
+436|<text>O que voce quer, Marca?</text>
+439|<text>Ei, Marca! Os tempos mudam, mas voce continua rabugento e distante. Aqui, sente-se, beba um gole - pode te deixar mais legal...</text>
+442|<text>Quero saber uma coisa.</text>
+445|<text>O que e?</text>
+448|<text>Obrigado.</text>
+451|<text>O que voce sabe sobre Strelok?</text>
+454|<text>Um stalker experiente, pelo que sei. Ele costumava "trabalhar" pelas saidas do norte da Zona. Quase nunca era visto por aqui, mas ha rumores de que ele levou seu grupo direto para o centro da Zona.</text>
+457|<text>O que voce sabe sobre um stalker chamado Fantasma?</text>
+460|<text>Ele e um dos homens de Strelok. Dizem que ele pode entrar em qualquer lugar sem ser notado. Ouvi dizer que ele eliminou o lider de um grupo maluco... qual era o nome? Ah, 'Ultimo Dia', isso mesmo. Eles eram bem selvagens aqueles caras... Ah, a proposito, ouvi dizer que Fantasma esta fazendo um trabalho para os cientistas, entao, se voce estiver procurando por ele, tente perto do Lago Yantar, no laboratorio movel.</text>
+463|<text>Ele e um velho stalker aposentado. Ele mora nos pantanos, vou marcar no mapa para voce. Ele costumava fazer parte do grupo de Strelok antigamente.</text>
+466|<text>O que voce sabe sobre um stalker chamado Fang?</text>
+469|<text>Havia um homem com esse nome, falava com a lingua presa... Ele era um pouco estranho, com certeza - falava sozinho e tal... mas parecia um cara legal. Nao o vejo no Bar ha tempos.</text>
+472|<text>Fale-me sobre os laboratorios cientificos moveis.</text>
+475|<text>Os cientistas os montam de vez em quando. Bunkers de metal isolados com tudo o que voce precisa para viver. Estamos em contato com um desses laboratorios em Yantar. Os cientistas sao caras legais - eles nos contam muitas coisas interessantes e nos os ajudamos quando podemos... Uma troca, digamos...</text>
+478|<text>O que e o Concessor de Desejos?</text>
+481|<text>Oh! Essa e uma pergunta interessante... Quem dera eu soubesse a resposta. Posso te contar a lenda sobre o Concessor, se quiser, mas voce decide por si mesmo quanta verdade ha nela. Quer ouvir?</text>
+484|<text>Bem, isso e muito interessante.</text>
+487|<text>Esta lenda e sobre o Monolito, que pode ser o que causou o surgimento da Zona. Quando a Zona explodiu em 2006, eles evacuaram as pessoas que moravam perto dela e a propria Zona foi isolada pelo Exercito. Todo mundo estava em panico, ninguem sabia o que estava acontecendo, a Zona estava se expandindo e os laboratorios de campo nao podiam fazer nada! Muitas pessoas morreram la. Todo mundo tinha medo da radiacao, que poderia afetar metade da Europa. Depois que alguns anos se passaram, alguns caras imprudentes como voce apareceram. Eles se chamavam stalkers. Eles comecaram a passar pelos cordoes do exercito acreditando que havia coisas na Zona que os tornariam ricos. Pouco a pouco, eles trouxeram coisas estranhas, artefatos, o que acabou se transformando em uma corrida por eles. Os cientistas foram atras deles como loucos. Eles pagavam dinheiro fantastico por apenas uma bugiganga naquela epoca, nao como agora.</text>
+490|<text>Continue...</text>
+493|<text>Depois de um tempo, os primeiros contos e lendas sobre o que esta nas profundezas da Zona, perto da usina nuclear em ruinas, comecaram a circular. Foi tambem entao que um dos veteranos nos contou a historia do Monolito, que supostamente concede seus desejos. Voce deveria ter visto a histeria: homens experientes e sensatos comecaram a tentar chegar ao centro - todos queriam algo do Monolito. Recebemos alguns detalhes morbidos sobre o primeiro stalker que chegou ao Monolito...</text>
+496|<text>Continue... conte-me mais.</text>
+499|<text>Quando a Zona acabou de aparecer, muitas pessoas ficaram presas la dentro e isoladas do mundo exterior. A maioria delas morreu rapidamente, mas houve alguns sobreviventes sortudos que tentaram fazer algo a respeito. Um desses sobreviventes se encontrou perto da estacao e notou uma luz estranha la dentro. Sem volta, ele decidiu tentar se aproximar. Ele viu o telhado quebrado do sarcofago e a luz saindo por ele. Ele subiu na parede e olhou para dentro. Entre os destrocos de metal e concreto derretido, havia uma enorme rocha negra. Era o Monolito. O stalker conseguiu se livrar do "feitico" e percebeu que havia subido muito perto do sarcofago, que era altamente radioativo. Ele estava morrendo de medo, mas atraves do medo ele podia sentir o Monolito chamando por ele. O Monolito o chamou e ele viu coisas estranhas e inacreditaveis sobre o Monolito dentro de sua cabeca...</text>
+502|<text>Legal...</text>
+505|<text>Nao sei o que e verdade nesta historia e o que nao e, mas a questao e que o cara fez um desejo que se tornou realidade, enquanto a Zona cresceu 5 quilometros. Parece que a Zona engole mais terra para cada desejo que e concedido... Mas isso nao vai impedir os valentoes como voce. Eles continuam tentando chegar la com seus preciosos desejos em seus coracoes...</text>
+508|<text>Estou mais interessado em outras coisas no momento.</text>
+511|<text>E problema seu, cara. O que exatamente voce quer saber?</text>
+514|<text>Soluco... droga! Sim, estou bebado, estou bebado! Eles querem... eles... querem me expulsar do Dever se eu falhar nesta tarefa tambem... sabe? Mas eu nao estou... soluco... nao me sentindo muito... soluco... bem no momento... sabe...</text>
+517|<text>Eu sinto muito por voce.</text>
+520|<text>E ai? Alguma novidade? Voce nao detonou o pedacinho de merda, posso ver nos seus olhos. A vida e uma merda... Escuta, pelo menos bebe um gole comigo, quer, amigo?</text>
+523|<text>Cara... soluco... voce... voce... voce me ajudou! Vamos beber pelo Dever... eu acho! E... Oh!</text>
+526|<text>Eu encontrei. Aqui esta seu rifle.</text>
+529|<text>Uau?! Voce encontrou meu rifle?! Fiquei sem palavras, cara! Muito obrigado! OBRIGADO! Estou muito grato! Voce realmente me ajudou, voce realmente ajudou. Caramba. Aqui, pegue isto - nao e muito, mas e tudo o que tenho. Nao vou esquecer sua ajuda e espero retribuir com o tempo. Escuta, vou te contar uma coisa. Ha uma casa estranha e tapada perto daquele lugar onde voce encontrou meu rifle. Ninguem sabe o que realmente tem la dentro, mas voce pode ver pelas janelas que ha anomalias la, muitas delas. Pode haver artefatos la dentro tambem... Nao sei como chegar la, no entanto.</text>
+532|<text>Continue.</text>
+535|<text>Eu te darei qualquer coisa! Apenas devolva meu rifle, imploro. Eu o perdi naquele lugar onde aqueles malditos sanguessugas vivem. Aqui estao as coordenadas. Tenha cuidado, no entanto. Sanguessugas nao sao do tipo amigavel.</text>
+538|<text>OK, vou tentar pegar seu rifle.</text>
+541|<text>Nao vou te enganar.</text>
+544|<text>E do seu interesse.</text>
+547|<text>Nao. Tenho coisas mais importantes para fazer.</text>
+550|<text>Voce decide... mas espero que mude de ideia.</text>
+553|<text>Veremos.</text>
+556|<text>Tenho um grande problema, cara! Eu... eu perdi meu rifle de familia no Territorio Selvagem. Eu queria atirar em alguns sanguessugas, mas mal consegui escapar. Droga! Escuta, irmao... se voce o trouxer de volta, eu te pago. Ganhei um pouco de dinheiro aqui e vou te dar tudo, so traga meu rifle de volta. E um rifle de familia, sabe, passado de pai para filho... E eu o perdi! Me acostumei com ele, e como uma extensao do meu braco agora...</text>
+559|<text>Ei! Alguma novidade? Voce o encontrou?!</text>
+562|<text>Obrigado, irmao! Nunca vou esquecer que voce me ajudou!</text>
+565|<text>Galgo disse que voce tem algo para mim.</text>
+568|<text>Claro. Aqui esta um lancador de granadas por ajuda-lo com Kruglov, e 1000 em dinheiro por cima. Vou te dar algumas informacoes uteis de graca para adocar o negocio tambem.</text>
+571|<text>Obrigado.</text>
+574|<text>Aqui esta o que eu tenho a dizer. Voce ajudou a Liberdade e fez a escolha certa. Seu destino agora esta ligado ao da Liberdade, e o Dever esta de olho em voce. Eu diria que voce deveria ir para a base militar abandonada e se juntar as fileiras da Liberdade - eles precisam de bons lutadores. Havera tiroteios entre os grupos em breve e quem escolher o lado certo nao se arrependera.</text>
+577|<text>Trabalho como negociante de informacoes. Vendo informacoes importantes e compro mapas, documentos e registros de laboratorio. Minhas informacoes sao valiosas e muito uteis para quem as possui!</text>
+580|<text>Ola, Marca. Voce ajudou a Liberdade e fez a escolha certa. Seu destino agora esta ligado ao da Liberdade e o Dever esta de olho em voce. Eu sugiro que voce va para a base militar abandonada e se junte a Liberdade - eles precisam de bons lutadores.</text>
+583|<text>Vou pensar nisso.</text>
+586|<text>Entao, Marca, o que te traz aqui? Quer comprar alguma informacao ou esta vendendo hoje?</text>
+589|<text>Entao voce esta conectado com a Liberdade?</text>
+592|<text>Nao posso responder a essa pergunta agora. Tudo o que posso dizer e que nao sou membro de nenhum grupo.</text>
+595|<text>Fale-me sobre a faccao Liberdade.</text>
+598|<text>Claro, sem problema! A Liberdade e um dos grupos mais antigos da Zona e o unico que se opoe abertamente as tropas do governo e as equipes de pesquisa. Seus fundadores estao mortos - foram mortos durante um grande banho de sangue depois que o exercito lancou uma grande forca de ataque na Zona, mas a capacidade de controlar a Zona de fora foi destruida ao mesmo tempo. Ha algumas evidencias que sugerem que a primeira Zona foi usada como um local secreto de testes de armas do exercito. Se isso for verdade, eles devem ter usado algumas merdas poderosas. Enfim, o que eu estava dizendo...? Ah, sim, a Liberdade e o unico grupo que esta tentando impedir que o governo recupere o controle do local de testes. Deus sabe o que acontecera se eles comecarem a testar suas merdas novamente, entao a Liberdade esta tentando resistir a todo custo.</text>
+601|<text>E o Dever?</text>
+604|<text>O Dever e basicamente controlado de fora pelo governo. O objetivo atual deles e limpar o territorio de mutantes e destruir a Liberdade, que e o que eles estao fazendo no momento. Quando chegar a hora certa, eles lancarao uma grande forca de ataque na Zona e assumirao o controle da area.</text>
+607|<text>Obrigado pela informacao.</text>
+610|<text>Quero comprar algumas informacoes.</text>
+613|<text>Agora, posso te vender informacoes sobre o grupo de Strelok praticamente de graca - 4000 rublos.</text>
+616|<text>OK, eu aceito. Aqui estao 4000.</text>
+619|<text>Esta localizado perto do Instituto de Pesquisa Agroprom, ha um esconderijo no subterraneo. Provavelmente contem informacoes sobre os planos do grupo e uma lista de membros do grupo. As coordenadas do esconderijo estao anexadas.</text>
+622|<text>Nao, mudei de ideia.</text>
+625|<text>Voce decide. Venha ao bar quando decidir o contrario - estou sempre aqui.</text>
+628|<text>Agora, tenho algumas informacoes sobre um grupo que chegou ao centro da Zona. Estou praticamente dando de graca - apenas 2000 rublos.</text>
+631|<text>OK, vou comprar. Aqui estao 2000.</text>
+634|<text>Strelok, Fantasma e Fang foram para o centro da Zona. O que eles encontraram la, ninguem sabe, mas Strelok desapareceu enquanto Fantasma e Fang voltaram perturbados. As ultimas noticias sobre Fantasma sao que ele foi para o laboratorio movel perto do Lago Yantar. As coordenadas do acampamento dos cientistas estao anexadas.</text>
+637|<text>Nao, mudei de ideia.</text>
+640|<text>Voce decide. Venha ao bar quando decidir o contrario - estou sempre aqui.</text>
+643|<text>Tenho algumas informacoes sobre o segredo do Lago Yantar. O preco e de apenas 3500 rublos - qualquer valor menor e eu estaria te pagando!</text>
+646|<text>OK, vou comprar. Pegue 3500.</text>
+649|<text>O segredo do Lago Yantar e semelhante ao segredo do Desintegrador Psiquico e seus efeitos sao semelhantes de muitas maneiras. Algum tipo de emissao zumbifica todos que entram em contato com ela. Os stalkers zumbificados se movem ao redor do centro de algum emissor, atacando todos. Ha informacoes que sugerem que a solucao para o enigma do Lago Yantar esta subterranea. Aqui estao as coordenadas do emissor no Lago Yantar e as do Desintegrador Psiquico.</text>
+652|<text>Nao, mudei de ideia.</text>
+655|<text>Voce decide. Venha ao bar quando decidir o contrario - estou sempre aqui.</text>
+658|<text>Nao tenho nenhuma informacao nova no momento.</text>
+661|<text>...ja estava na hora de alguem detonar Borov! Se eu soubesse quem foi, pagaria uma bebida para ele.</text>
+664|<text>Sim, ja estava na hora.</text>
+667|<text>...alguem realmente irritou a Liberdade: ouvi dizer que um dos grupos deles foi destruido no Territorio Selvagem... quem sera que fez isso?</text>
+670|<text>Sim, quem dera eu soubesse...</text>
+673|<text>...finalmente alguem teve coragem de limpar os sanguessugas no Territorio Selvagem... O que o Dever estava fazendo todo esse tempo?</text>
+676|<text>O que o Dever estava fazendo? Eles estavam fazendo a Liberdade, o que mais?</text>
+679|<text>...ouvi dizer que alguem detonou o lider da Liberdade. Eles vao passar por momentos dificeis, eu acho. O Dever vai realmente apertar eles...</text>
+682|<text>Esperemos que sim.</text>
+685|<text>Entao voce eliminou aqueles veteranos? Bem feito, amigo! Seis stalkers desapareceram naquela area recentemente... todos nos suspeitavamos daqueles veteranos loucos. E bom que eles tenham sido eliminados.</text>
+688|<text>Sim, muitas pessoas queriam que aqueles veteranos "partissem".</text>
+691|<text>Voce desligou as emissoes em Yantar? Uau... voce e um cara de sorte, droga, fico feliz que alguem finalmente conseguiu lidar com essa coisa! Voce nao imagina quantos dos nossos caras morreram la... mas agora os cientistas vao descobrir o que era. Podemos ate ser capazes de lidar com o Desintegrador Psiquico agora...</text>
+694|<text>Quero acreditar que o Desintegrador Psiquico pode ser desligado.</text>
+697|<text>O que voce quer? Voce nao ve que estou tentando relaxar aqui...</text>
+700|<text>O que ha de novo?</text>
+703|<text>Ouvi dizer que Strelok voltou. Ele tem todo o equipamento que voce precisa para chegar a Maquina... Ele esta escondido agora porque muita gente esta atras dele. Alguns sao abertos sobre isso, enquanto outros estao tentando manter seu interesse em segredo. Ha rumores de que ate o Dever e a Liberdade se juntaram a cacada... cada um com sua propria agenda.</text>
+706|<text>Parece que Strelok esta certo em se esconder.</text>
+709|<text>O que voce quer?</text>
+712|<text>Voce pode me dizer algo que seria util para um novato?</text>
+715|<text>Util para um novato? Bem, ouca. Ao norte, nao muito longe do Desintegrador Psiquico, a Liberdade montou seu QG em uma antiga base militar. Eles sao notorios niilistas, anarquistas e criminosos - combatentes da liberdade, guerrilheiros loucos, todos eles. Tudo o que fazem e sabotar grupos de pesquisa, atacar unidades do exercito e constantemente entrar em conflito com o Dever. Esses conflitos agora estao se transformando em uma guerra de pequena escala pela sobrevivencia. Deixe-me dar um conselho: nunca se envolva com eles. Eles so vao te aceitar se voce for totalmente louco e houver uma recompensa pela sua cabeca. Ha-ha-ha. Voce acredita nisso?</text>
+718|<text>Obrigado pelo seu conselho.</text>
+721|<text>O que voce quer?</text>
+724|<text>Voce pode me dizer algo que seria util para um novato?</text>
+727|<text>Bem, costumava haver um grupo liderado por Strelok. Havia todos os tipos de lendas sobre ele circulando pela Zona... boas e ruins, mas poucas pessoas realmente sabiam a verdade. A verdade e que eles queriam lidar com a Zona, descobrir o que a criou. E por isso que os stalkers militares estavam atras deles, mas eles nao sabiam onde procurar. O governo nao queria que os stalkers normais soubessem coisas que nao deveriam saber. Um dia Strelok encontrou algo realmente importante e se moveu em direcao ao centro da Zona com alguns de seus caras. Metade do grupo morreu no caminho, mas o resto conseguiu passar... O que aconteceu com eles la - ninguem sabe. Parece que eles se ferraram. Os outros membros do grupo foram pegos e mortos... Acho que nao sobrou nenhum deles agora. Historia triste, hein?</text>
+730|<text>Sim... parece que alguem realmente nao quer que a Zona seja compreendida...</text>
+733|<text>O que voce quer?</text>
+736|<text>Voce pode me dizer algo que seria util para um novato?</text>
+739|<text>Os Mercs sao meio que como a Liberdade, so que piores. Pelo menos a Liberdade tem alguns ideais, mas esses caes fazem qualquer coisa por dinheiro. Alguem realmente precisa matar todos eles antes que eles arrastem algo realmente perigoso da Zona para o mundo normal! Eles estao baseados na Cidade Morta e ha um atirador em cada predio alto, entendeu? Eles nao gostam de estranhos.</text>
+742|<text>Entendo. Parece que voce tem que ter cuidado na Cidade Morta.</text>
+745|<text>O que voce quer?</text>
+748|<text>Voce pode me dizer algo que seria util para um novato?</text>
+751|<text>Se voce nao esteve na Arena, eu recomendo - e uma boa maneira de ganhar dinheiro e mostrar a todos do que voce e capaz. Nem todo mundo tem coragem de lutar contra o proximo monstro e isso e uma pena! Cara, assim que eu juntar dinheiro suficiente para uma armadura decente, vou la.</text>
+754|<text>O que voce quer?</text>
+757|<text>Voce e Careca? Preciso falar com voce.</text>
+760|<text>Suponha que sim. O que voce quer?</text>
+763|<text>Sardento foi salvo da Floresta Vermelha, mas Corcunda esta morto.</text>
+766|<text>Droga!</text>
+769|<text>Sardento esta em mau estado, seu cerebro nao funciona mais. Talvez voce possa falar com ele? Precisamos descobrir o cronograma do Desintegrador Psiquico.</text>
+772|<text>Nao! Nao me peca para fazer isso. Corcunda esta morto por minha causa e o que aconteceu com Sardento tambem e minha culpa. Eu os deixei, os trai, os abandonei e fugi! Nao posso olhar Sardento nos olhos depois do que fiz!</text>
+775|<text>Vamos la, relaxa cara. Me conte o que aconteceu.</text>
+778|<text>Nos tres estavamos nos preparando para tentar chegar ao norte. Nao sabiamos quando as emissoes do Desintegrador Psiquico eram mais baixas, mas Sardento conseguiu a informacao em algum lugar... Nao sei onde... Estavamos na metade do setor, quando o Desintegrador Psiquico de repente ligou de novo. Sardento desmaiou na hora e caiu na encosta. Entrei em panico e disse que deveriamos deixar tudo e voltar. Corcunda conseguiu se recompor e disse que tinhamos que tirar Sardento de la... Eu disse: "Voce e um idiota, nao quer viver? Acabou para ele, como vamos carrega-lo de volta?" Assim que ele conseguiu me convencer e comecou a descer para pegar Sardento... outra onda veio. Quando voltei a mim, estava na base militar... Achei que Corcunda e Sardento tinham ficado la... mas Corcunda o tirou e nao conseguiu sair... ele o tirou...</text>
+781|<text>OK, Careca, OK. Calma, cara. Obrigado por me contar o que aconteceu. Eu mesmo vou falar com Sardento.</text>
+784|<text>Desculpe. Nao estou com vontade de conversar... Prefiro apenas tomar outra bebida.</text>
+787|<text>O que voce quer?</text>
+790|<text>O que ha de novo?</text>
+793|<text>Tinha um cara... Ele falava com a lingua presa e andava curvado, entao ganhou o nome de Corcunda. Ele era um pouco louco... falava sozinho e com animais... mas fora isso, ele era legal. Ele desapareceu ha muito tempo no centro com Strelok... dizem que Strelok voltou agora.</text>
+796|<text>Eu me pergunto onde ele esta agora.</text>
+799|<text>O que voce quer?</text>
+802|<text>O que ha de novo?</text>
+805|<text>O Territorio Selvagem esta infestado de sanguessugas agora! Eles saem a noite. Ouvi dizer que ha algo muito importante na fabrica que fica ali perto, algo essencial para alguem. O Dever mandou uns caras la recentemente, mas todos morreram e seus gritos foram ouvidos a quilometros de distancia.</text>
+808|<text>Obrigado pela informacao.</text>
+811|<text>O que voce quer?</text>
+814|<text>O que voce ouviu?</text>
+817|<text>Se voce for ao redor do Lago Yantar, voce chegara ao acampamento dos cientistas - eles estao fazendo pesquisas de algum tipo la... Eles foram deixados la de helicoptero e tambem recebem suprimentos regularmente. Eles tem um lugar legal la, na verdade... Voce pode negociar com eles tambem - eles compram artefatos e podem ate te dar um trabalho para fazer.</text>
+820|<text>Obrigado pela informacao.</text>
+823|<text>O que voce quer?</text>
+826|<text>O que voce ouviu?</text>
+829|<text>Ninguem conseguiu passar pelo ferro-velho de veiculos por causa do Desintegrador Psiquico. Algumas pessoas viram um stalker passar pela fronteira invisivel, cair, depois levantar em alguns minutos e seguir direto para o centro do ferro-velho. Ele nao foi visto desde entao...</text>
+832|<text>Interessante...</text>
+835|<text>O que voce quer?</text>
+838|<text>O que voce ouviu?</text>
+841|<text>Stalkers desaparecidos voltam de vez em quando. E uma visao assustadora, eu te digo: eles murmuram algo e procuram por suas armas, que perderam em algum lugar... Um veio para um posto avancado do Dever ha algum tempo e uma multidao se reuniu para olha-lo. Alguem ate o reconheceu... Ele era assustador... olhos vermelhos, todos injetados de sangue e machucados... nao conseguia dizer uma palavra, apenas gemia como um animal e andava em circulos. O Dever o acolheu, mas ele morreu depois de alguns dias de qualquer maneira. Algo acontece com as pessoas na Zona, mas o que e?</text>
+844|<text>Eu tambem gostaria de saber.</text>
+847|<text>O que voce quer?</text>
+850|<text>O que voce ouviu?</text>
+853|<text>Ha muitos zumbis ao redor do Lago Yantar. Eles vagam por ai e atacam qualquer humano que veem. Se voce for visto, talvez queira correr para salvar sua vida - ha muitos ex-stalkers por la... Eles morreram no lago e e tudo o que sobrou deles.</text>
+856|<text>Sim, eu nao gostaria de me juntar a eles.</text>
+859|<text>O que voce quer?</text>
+862|<text>O que voce ouviu?</text>
+865|<text>Os comerciantes dizem que ha um verdadeiro tesouro de artefatos no centro da Zona, entao qualquer um que passar vai ganhar dinheiro suficiente para duas vidas. Pessoalmente, acho que ha mais nisso. Obviamente, os comerciantes pensam em seus proprios interesses, mas ha rumores estranhos circulando. Aparentemente, ha algo melhor do que artefatos la - algo que nao e deste mundo, algo alienigena ou de outra dimensao! Eles chamam isso de maquina de concessao de desejos. Ouvi uma lenda sobre um stalker que conseguiu passar. So que toda vez que alguem faz um desejo, a Zona cresce e ninguem que chega la usa seu desejo para faze-la desaparecer. Acho que quando voce chega a Maquina, voce nao se importa com mais ninguem.</text>
+868|<text>Isso e triste.</text>
+871|<text>O que voce quer?</text>
+874|<text>O que voce ouviu?</text>
+877|<text>Todo mundo que acredita no Monolito e completamente maluco. Eles ficam falando sobre isso, mas ninguem realmente sabe o que esta no centro da Zona. Um cristal invisivel que caiu dos ceus... ha-ha-ha! Acho que um dos laboratorios secretos explodiu - quero dizer, alguns stalkers costumavam trabalhar em alguns deles. Mas, obviamente, voce nao pode bombardear a Zona. Nao apenas a radiacao se espalhara por todo o mundo, mas metade da Europa seria achatada pela reacao da Zona. "Alguem" ficou totalmente louco ultimamente - ouvi dizer que estao matando stalkers normais sem motivo algum. O que voce acha disso? Malditos fanaticos.</text>
+880|<text>Acho que merece alguma atencao.</text>
+883|<text>Quero me juntar ao Dever. O que preciso fazer?</text>
+886|<text>Pague 1000 rublos. Voce recebera um passe. Leve isso para Voronin no bunker e ele providenciara um teste para voce.</text>
+889|<text>OK, aqui esta o dinheiro.</text>
+892|<text>Certo, aqui esta seu passe. Va ver Petrenko, o administrador. Marquei no seu mapa.</text>
+895|<text>Nao, mudei de ideia.</text>
+898|<text>Voce decide, cara. Ate logo.</text>
+901|<text>Porque nao ha lugar para esses bandidos da Liberdade na Zona - eles devem ser destruidos. Se voce estiver interessado, peca ao Bartender para explicar tudo. Estou ocupado.</text>
+904|<text>Pague 1000 rublos e voce recebera um passe. Leve isso para o administrador do Dever e ele providenciara testes para voce.</text>
+907|<text>OK, aqui esta o dinheiro.</text>
+910|<text>Certo, aqui esta seu passe. Va ver Petrenko, o administrador. Marquei no seu mapa.</text>
+913|<text>Nao, mudei de ideia.</text>
+916|<text>Voce decide, cara. Ate logo.</text>
+919|<text>Bartender me disse que sua lideranca tem algum tipo de tarefa para mim.</text>
+922|<text>Sim, ele nos avisou sobre voce, mas antes de deixarmos voce entrar, quero informa-lo sobre nossas regras. Entao ouca, nossas regras sao simples. Primeira regra - e proibido atirar em nosso territorio. Se voce quebrar a regra duas vezes, nossa patrulha abrira fogo contra voce. Mesmo que voce fuja, voce nao aparecera mais em nosso territorio - nossos guardas garantirao isso. Se voce agir com calma, nao tera problemas.</text>
+925|<text>Entendi. Algo mais?</text>
+928|<text>Sim, isso e o suficiente. Voce pode passar.</text>
+931|<text>Entendi. Algo mais?</text>
+934|<text>E so isso. Se voce quiser tentar se juntar ao Dever, fique a vontade. Precisamos de bons homens, mas estou avisando: antes de ser aceito, voce tera que fazer alguns trabalhos perigosos. Nao precisamos de covardes, entao todos sao testados.</text>
+937|<text>Pare! Estranhos nao sao permitidos na base do Dever!</text>
+940|<text>Por que voce esta parado ai? Continue andando.</text>
+943|<text>Va em frente, irmao. Lembre-se: a missao do Dever e limpar.</text>
+946|<text>Por que voces nao deixam estranhos entrarem?</text>
+949|<text>De onde voces, meninos ingenuos, vieram? Ha uma guerra acontecendo, certo? Estamos lutando contra bandidos da Liberdade! Temos conflitos regulares com seus lutadores no Territorio Selvagem.</text>
+952|<text>Uma guerra com a Liberdade? Por que?</text>
+955|<text>Porque nao ha lugar para esses bandidos da Liberdade na Zona - eles devem ser destruidos. Se voce estiver interessado, peca ao Bartender para explicar tudo. Estou ocupado.</text>
+958|<text>Pare! Apenas membros podem entrar la! Nao podemos deixa-lo entrar no bunker sem um passe especial. Se voce quiser obter um, va ver o Coronel Petrenko. Ele esta na area administrativa do outro lado do patio.</text>
+961|<text>Por que voce esta parado ai? Continue andando.</text>
+964|<text>Va em frente. Lembre-se: a missao do Dever e limpar.</text>
+967|<text>O que voce quer?</text>
+970|<text>Estou ouvindo.</text>
+973|<text>Ola, amigo.</text>
+976|<text>O que posso fazer pelo Dever?</text>
+979|<text>Essa e uma boa pergunta, Marca, e ha uma resposta igualmente boa para ela - matar anarquistas da Liberdade. Voce recebera uma recompensa por cada PDA deles que trouxer e podera ser promovido tambem. Leve todos os PDAs que conseguir para Petrenko - ele entrega as recompensas.</text>
+982|<text>Bartender me disse que voce tem uma tarefa para mim nos armazens militares...</text>
+985|<text>Quero pedir que voce faca uma coisa, pessoalmente para mim, entende? Estamos no meio de uma guerra territorial com a faccao Liberdade e precisamos de armas mais poderosas do que as que temos. A Liberdade tem alguns excelentes lancadores de granadas Bulldog 6. Se voce pudesse penetrar em seu territorio e roubar pelo menos um desses lancadores de granadas, eu o recompensaria generosamente. Como voce nao esta em nossa faccao, pode ganhar rapidamente a confianca da Liberdade e, se tiver sorte, pegar um Bulldog 6.</text>
+988|<text>Continue.</text>
+991|<text>Vou carregar a localizacao da base da Liberdade para voce. Voce precisara encontrar o Chef. Ele e membro da Liberdade. Ele sabe onde os RG-6 sao mantidos. E ele gosta de beber, entao leve muita vodka com voce. Entao, o que voce diz?</text>
+994|<text>OK, vou tentar roubar um Bulldog 6 da Liberdade.</text>
+997|<text>Ah, e mais uma coisa. O Coronel Cranio e seus rapazes desobedeceram minha ordem e decidiram atacar a base da Liberdade sem autorizacao. Bem, eles que colham o que plantaram... bastardos suicidas. Nao se envolva na luta deles. Apenas tente me conseguir o Bulldog 6 - nada mais importa.</text>
+1000|<text>Ainda nao estou pronto para tais feitos.</text>
+1003|<text>Voce decide.</text>
+1006|<text>Estou pronto para prestar o juramento.</text>
+1009|<text>Bom homem! Repita depois de mim: "Eu, um stalker conhecido como Marca, juro defender os objetivos e ideais do Dever."</text>
+1012|<text>Eu, um stalker conhecido como Marca, juro defender os objetivos e ideais do Dever.</text>
+1015|<text>Proteger a Terra dos perigos da Zona, procurar e destruir tudo o que ela gera dentro e fora de suas fronteiras.</text>
+1018|<text>Proteger a Terra dos perigos da Zona, procurar e destruir tudo o que ela gera dentro e fora de suas fronteiras.</text>
+1021|<text>Lutar contra quaisquer inconformistas, sejam eles stalkers individuais ou grupos.</text>
+1024|<text>Lutar contra quaisquer inconformistas, sejam eles stalkers individuais ou grupos.</text>
+1027|<text>E dar minha vida em nome da justica e da ordem na Terra!</text>
+1030|<text>E dar minha vida em nome da justica e da ordem na Terra!</text>
+1033|<text>Parabens! Agora voce e um membro pleno do Dever.</text>
+1036|<text>Completei a missao. Trouxe o Bulldog 6.</text>
+1039|<text>Bom trabalho, stalker. E exatamente disso que precisamos. Bem, Marca, voce cumpriu meu pedido e, em troca, pode pegar este traje. Acho que voce vai gostar.</text>
+1042|<text>Estou ouvindo.</text>
+1045|<text>O que te traz aqui, irmao?</text>
+1048|<text>Voce trouxe o Bulldog 6?</text>
+1051|<text>Sim, aqui esta o Bulldog 6.</text>
+1054|<text>Bom trabalho, stalker. E exatamente disso que precisamos. Bem, Marca, voce cumpriu meu pedido e, em troca, pode pegar este traje. Acho que voce vai gostar.</text>
+1057|<text>O que te trouxe ate mim, irmao?</text>
+1060|<text>A guerra com a Liberdade esta chegando ao fim, Marca. Voce desempenhou seu papel na luta pela causa e agora quero terminar esta guerra. Quero que voce mate o lider da Liberdade.</text>
+1063|<text>O que te traz aqui, irmao? Voce matou o lider daqueles anarquistas da Liberdade e o grupo deles desmoronou. A guerra nao acabou, mas seu resultado e certo. Suas conquistas sao grandes e nao serao esquecidas.</text>
+1066|<text>Ola, stalker. Junte-se ao Dever! Precisamos de bons lutadores! Acabei de me juntar e veja o uniforme legal que eles me deram!</text>
+1069|<text>Ola, Marca. Fico feliz que voce esteja conosco. O Dever realmente precisara de bons lutadores em breve.</text>
+1072|<text>Ei, colega stalker.</text>
+1075|<text>Fale-me sobre o Dever.</text>
+1078|<text>Estamos aqui desde o inicio. O primeiro grupo era formado pelos membros sobreviventes de unidades especiais enviadas para a Zona para descobrir o que causou seu surgimento. Nos encontramos em circunstancias muito dificeis. Depois que metade da unidade morreu horrivelmente, aqueles que sobreviveram juraram que nao sairiam daqui ate entenderem o que esta acontecendo na Zona... ate derrota-la.</text>
+1081|<text>Fale-me sobre a Liberdade.</text>
+1084|<text>Sao bandidos que nao entendem que a Zona e uma ulcera no corpo da Terra. Eles querem espalha-la por todo o mundo, um pedaco em cada casa. Eles farao qualquer coisa para atingir esse objetivo e mal posso esperar para acabar com isso.</text>
+1087|<text>Voce quer derrotar a Zona?</text>
+1090|<text>Sim, e conseguimos em grande medida. Durante as operacoes de limpeza, enxames inteiros de mutantes a caminho do centro da Zona sao destruidos.</text>
+1093|<text>Obrigado.</text>
+1096|<text>Estou ouvindo.</text>
+1099|<text>Como posso ajudar?</text>
+1102|<text>Ola irmao! O que te traz ate mim?</text>
+1105|<text>O que voce quer?</text>
+1108|<text>Va em frente, continue andando. O que voce esta olhando?</text>
+1111|<text>Ei cara! Fico feliz que voce ainda nao tenha sido comido por mutantes.</text>
+1114|<text>Houve um massacre no posto avancado. O que aconteceu?</text>
+1117|<text>Essa e a ultima onda de mutantes que veio antes da explosao. Fica quieto por tres ou quatro dias e depois vem outra onda. Se nao fosse por nos, nao haveria Bar, nao haveria Dever; somos a ultima barreira no caminho desses mutantes loucos. Muitos dos nossos rapazes encontraram seu fim aqui.</text>
+1120|<text>Gostaria de saber uma coisa.</text>
+1123|<text>O que voce quer saber?</text>
+1126|<text>E minha primeira vez aqui. Voce poderia me contar um pouco sobre este lugar?</text>
+1129|<text>Antes do acidente em 86, esta era uma area industrial. Como voce pode ver, nao sobrou muita coisa agora... No porao perto do hangar, voce encontrara o bar 100 Rads. O lugar e administrado pelo comerciante local, que tambem e bartender. Se voce quiser negociar, conversar, conseguir uma missao ou saber as ultimas noticias, esse e o lugar certo. Ha tambem a Arena, onde voce pode lutar e ganhar algum dinheiro. A base do Dever nao fica longe da Arena. Se voce quiser se juntar ao Dever, va direto para la - eles dirao com quem falar. Ah, a proposito, toda esta area e protegida pelo Dever, entao comporte-se e mantenha suas armas embainhadas. Se voce comecar a atirar, a patrulha vai "te acalmar" bem rapido.</text>
+1132|<text>Voce disse que tem um bar aqui. Pode me dizer onde exatamente ele fica?</text>
+1135|<text>No porao atras do hangar... vou marcar no seu mapa.</text>
+1138|<text>Obrigado pela informacao.</text>
+1141|<text>Voce disse que a base do Dever fica aqui. Como faco para chegar la?</text>
+1144|<text>Nao fica longe da Arena. Marquei no mapa para voce.</text>
+1147|<text>Obrigado pela informacao.</text>
+1150|<text>Voce disse que tem uma Arena aqui? Onde exatamente ela fica?</text>
+1153|<text>Saia do hangar com o telhado quebrado e voce vai parar bem na frente dela. Vou marcar no seu mapa.</text>
+1156|<text>Obrigado pela informacao.</text>
+1159|<text>Obrigado pela informacao.</text>
+1162|<text>Estou aqui a negocios.</text>
+1165|<text>Imagino que voce queira algo de mim.</text>
+1168|<text>Eu abati um porco no caminho para ca. Dizem que e valioso.</text>
+1171|<text>Ouvi dizer que voce atirou em Borov. Voce merece ganhar algum dinheiro e uma arma decente por isso. Faca justica a sua nova arma!</text>
+1174|<text>Nao se preocupe com isso.</text>
+1177|<text>Tive uma pequena "conversa" com Tirano da Liberdade. Basicamente, ele entendeu seu erro e prometeu se comportar no futuro. Tenho quase certeza de que ele nao vai quebrar sua palavra - os mortos nao mentem.</text>
+1180|<text>Tirano era uma verdadeira dor de cabeca para nos! Fico feliz que voce o tenha eliminado. Aqui esta sua recompensa - um S14 Thunder, nossa arma de marca registrada.</text>
+1183|<text>Nada mal. Vou fazer mais do mesmo. Ate logo.</text>
+1186|<text>Voronin nao te disse nada?</text>
+1189|<text>Uau, parabens! E uma grande conquista matar o lider da Liberdade. Cara, queria ser tao durao quanto voce.</text>
+1192|<text>Faca muito exercicio, coma seus vegetais e ouca sua mae. Obrigado pelo novo equipamento. Estou indo.</text>
+1195|<text>Gostaria de saber uma coisa.</text>
+1198|<text>O que voce quer saber?</text>
+1201|<text>Quem e voce e como voce veio parar aqui?</text>
+1204|<text>Meu nome e Kruglov. Sou professor de biologia, estudo a Zona. Ontem, por exemplo, encontrei um animal de particular interesse - Antropomorphus Dendromutantus Vulgaris. Eu encontro e documento principalmente novas especies de animais mutantes, suas caracteristicas e tracos distintivos. As informacoes sao entao minuciosamente estudadas e transferidas para o mundo exterior. Parte disso, e claro, vai para o Bartender. Minhas descobertas ajudaram a salvar a vida de muitos stalkers. Eu estava apenas transportando os resultados da minha pesquisa mais recente para o laboratorio perto do Lago Yantar quando o helicoptero foi atacado.</text>
+1207|<text>Fale-me sobre a Zona.</text>
+1210|<text>A Zona e um presente maravilhoso para a humanidade. E claro que a existencia normal aqui nao e possivel devido aos altos niveis de radiacao e aos mutantes agressivos. Todas essas coisas sao obviamente extremamente perigosas, mas tambem sao coisas de grande valor cientifico. A Zona e quase um experimento natural, um tesouro para os cientistas! A extensao em que o conhecimento da humanidade poderia ser aumentado atraves do estudo da Zona e insondavel. Tecnologia, medicina, novas plantas - medicinais e comestiveis, biotecnologia, curas para doencas incuraveis... qualquer coisa! Talvez possamos resolver o problema da alimentacao para todo o planeta. Se as pessoas nao interferissem, a ciencia poderia levar a humanidade a uma nova Era de Ouro!</text>
+1213|<text>O Dever pensa o contrario e nem a Liberdade parece querer te ajudar.</text>
+1216|<text>Voce simplesmente e incapaz de compreender o quadro geral. Seus problemas de "aqui e agora" sao muito mais importantes para voce do que o futuro da humanidade!</text>
+1219|<text>Talvez haja alguma utilidade em estudar a Zona.</text>
+1222|<text>Entao voce entende isso tambem? E maravilhoso descobrir que existem aqueles entre voces que nao sao pessoas praticas de mente estreita. Sempre disse que e importante olhar para todo o conjunto de questoes de uma perspectiva mais ampla, distanciar-nos das simples medidas humanas. Mesmo que a Zona tenha prejudicado a humanidade, ela ainda pode ser de grande utilidade para nos!</text>
+1225|<text>Por que os Mercs estao procurando essas informacoes?</text>
+1228|<text>Espero que isso nao o ofenda, mas muitos stalkers sao como criancas. Eles sao seriamente afetados pelas coisas que descobrem. Basta pensar em todas essas lendas sobre um Monolito que concede desejos. Que piada! O problema e que essas criancas jogam seus jogos com armas de verdade e causam a morte. Pessoas infantis muitas vezes se irritam com o fato de que alguem nao compartilha tudo com elas, incluindo informacoes que nao sao para elas. Nao ha limites no uso da forca. Eles atiram sem pensar e matam aqueles que estudam a Zona. Eles acreditam que essas informacoes lhes permitirao abrir o caminho para o centro da Zona. Sao tolos, tolos perigosos e ingenuos!</text>
+1231|<text>Estou procurando o Lab X16. Voce poderia me dizer onde ele fica?</text>
+1234|<text>Lab X16? Hmm... Sakharov mencionou algo do tipo de passagem, mas nao me lembro exatamente do que ele disse. Talvez seja melhor perguntar a ele mesmo... Ele esta atualmente no laboratorio movel perto do Lago Yantar.</text>
+1237|<text>Infelizmente, tenho que ir. Boa sorte.</text>
+1240|<text>Marca, pare eles ou eles nos matarao!</text>
+1243|<text>Fique tranquilo. Nos lidaremos com eles.</text>
+1246|<text>OK.</text>
+1249|<text>Vamos nos mover. Vamos tentar passar...</text>
+1252|<text>Vamos nos apressar.</text>
+1255|<text>Stalker, eu imploro! Estavamos voltando de Yantar quando os Mercs derrubaram nosso helicoptero. Ouvi dizer que eles estao procurando informacoes, mas sei que nos matarao. Ajude-me a chegar ao lago e eu lhe contarei tudo o que sei sobre o que voce chama de Desintegrador Psiquico. O Bartender vai te pagar bem.</text>
+1258|<text>OK.</text>
+1261|<text>Obrigado, stalker. Eu nao sou muito lutador, mas conheco o caminho, entao vou liderar e voce nos dara cobertura.</text>
+1264|<text>Nao. Tente sair daqui sozinho.</text>
+1267|<text>Nao. Tenho certeza de que voce nao quer dizer isso. Nunca vou sair daqui sozinho. Se voce mudar de ideia, estarei aqui... se eu viver.</text>
+1270|<text>Apresse-se, temos que sair daqui rapidamente.</text>
+1273|<text>Ufa! Nos realmente chegamos em seguranca? Finalmente! Muito obrigado pela sua ajuda. Estou em divida com voce, mas por enquanto, por favor, aceite este pendrive. Ele contem os resultados da minha ultima expedicao. Tenho certeza de que o Bartender pagaria bem por ele.</text>
+1276|<text>Sim, estamos aqui.</text>
+1279|<text>Marca, se voce visitar nosso laboratorio movel, daremos a voce um traje cientifico.</text>
+1282|<text>Veremos.</text>
+1285|<text>Ola, stalker. Permita-me expressar minha gratidao em nome da ciencia global!</text>
+1288|<text>Marca, pare eles ou eles nos matarao!</text>
+1291|<text>Fique tranquilo. Nos lidaremos com eles.</text>
+1294|<text>OK.</text>
+1297|<text>Vamos nos mover. Vamos tentar passar...</text>
+1300|<text>Vamos la.</text>
+1303|<text>Marca, pare eles ou eles nos matarao!</text>
+1306|<text>Fique tranquilo. Nos lidaremos com eles.</text>
+1309|<text>OK, vou esperar aqui.</text>
+1312|<text>Vamos nos mover. Vamos tentar passar...</text>
+1315|<text>OK, vamos nos apressar.</text>
+1318|<text>Tenha cuidado com o Queimador, Marca. Meu traje me protegera, mas e melhor voce evita-lo.</text>
+1321|<text>Obrigado pelo seu conselho.</text>
+1324|<text>Apresse-se, Marca. Agora nao e hora de conversar.</text>
+1327|<text>Stalker, fale com o professor Kruglov, ajude-o a sair.</text>
+1330|<text>Acabou. Eles mataram Kruglov!</text>
