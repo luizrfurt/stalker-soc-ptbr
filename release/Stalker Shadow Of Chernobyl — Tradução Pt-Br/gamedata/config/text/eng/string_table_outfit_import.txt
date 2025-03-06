@@ -39,10 +39,10 @@
 118|<text>Traje de stalker</text>
 121|<text>Traje Fantasma</text>
 124|<text>Traje de Turista</text>
-127|<text>Traje de stalker reforcado produzido pelos armeiros da faccao Libertaria. E composto por um colete militar medio a prova de balas revestido com elementos de zirconio de reforco que fornecem boa protecao contra balas de rifle e estilhacos de medio e longo alcance. O material do traje consiste em duas camadas: couro especialmente tratado e tecido com fio de asbestos. O traje fornece boa protecao contra radiacao e varias anomalias fracas.</text>
-130|<text>Traje Guardiao da Libertaria</text>
-133|<text>Traje de stalker leve produzido pelos armeiros da faccao Libertaria. Consiste em um colete militar leve a prova de balas com placas de kevlar de reforco. Pode proteger de armas fracas. O tecido do traje e tratado com uma mistura especial que aumenta a resistencia a atividade anomala.</text>
-136|<text>Traje Vento da Libertaria</text>
+127|<text>Traje de stalker reforcado produzido pelos armeiros da faccao Liberdade. E composto por um colete militar medio a prova de balas revestido com elementos de zirconio de reforco que fornecem boa protecao contra balas de rifle e estilhacos de medio e longo alcance. O material do traje consiste em duas camadas: couro especialmente tratado e tecido com fio de asbestos. O traje fornece boa protecao contra radiacao e varias anomalias fracas.</text>
+130|<text>Traje Guardiao da Liberdade</text>
+133|<text>Traje de stalker leve produzido pelos armeiros da faccao Liberdade. Consiste em um colete militar leve a prova de balas com placas de kevlar de reforco. Pode proteger de armas fracas. O tecido do traje e tratado com uma mistura especial que aumenta a resistencia a atividade anomala.</text>
+136|<text>Traje Vento da Liberdade</text>
 139|<text>O exoesqueleto protege maravilhosamente de tiros de balas e estilhacos, no entanto, diminui a mobilidade. E vulneravel a balas de armadura.</text>
 142|<text>Exoesqueleto PNB-4UZ</text>
 145|<text>O traje militar a prova de balas e criado para realizar operacoes de invasao. Fornece uma excelente fonte de protecao contra tiros de balas e estilhacos sem diminuir a mobilidade do soldado. Vulneravel a balas de armadura.</text>

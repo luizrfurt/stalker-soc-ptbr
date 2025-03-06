@@ -1,5 +1,5 @@
-4|<text>Kombez Libertaria M2</text>
-7|<text>Os anarquistas da Zona. Eles acreditam que a Zona e um refugio para a liberdade, e que todas as leis, regras e tradicoes do mundo exterior nao se aplicam la. Seu lema e "Faca o que quiser e deixe os outros fazerem o mesmo." Eles tentam impedir que o governo coloque a Zona sob seu controle e lutam contra os Mercs. Combatentes da Libertaria usam principalmente armas sovieticas e russas.</text>
-10|<text>Faccao Libertaria (Stalkers Livres)</text>
+4|<text>Kombez Liberdade M2</text>
+7|<text>Os anarquistas da Zona. Eles acreditam que a Zona e um refugio para a liberdade, e que todas as leis, regras e tradicoes do mundo exterior nao se aplicam la. Seu lema e "Faca o que quiser e deixe os outros fazerem o mesmo." Eles tentam impedir que o governo coloque a Zona sob seu controle e lutam contra os Mercs. Combatentes da Liberdade usam principalmente armas sovieticas e russas.</text>
+10|<text>Faccao Liberdade (Stalkers Livres)</text>
 13|<text>Vagabundos e assassinos de todo o mundo, nada esta abaixo deles. Seu lema e "Pecunia non olet - Dinheiro nao tem cheiro." Ha artefatos aqui e, portanto, havera dinheiro. Mercs usam principalmente armas ocidentais.</text>
 16|<text>Faccao Merc (Cacadores de Cabecas)</text>

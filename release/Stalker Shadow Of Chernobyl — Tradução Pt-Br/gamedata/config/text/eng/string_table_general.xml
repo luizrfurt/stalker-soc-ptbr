@@ -7,7 +7,7 @@
 		<text>Dever</text>
 	</string>
 	<string id="actor_freedom">
-		<text>Libertaria</text>
+		<text>Liberdade</text>
 	</string>
 	<string id="arena_enemy">
 		<text>Merc</text>
@@ -40,7 +40,7 @@
 		<text>PDA encontrado</text>
 	</string>
 	<string id="freedom">
-		<text>Libertaria</text>
+		<text>Liberdade</text>
 	</string>
 	<string id="friendly">
 		<text>amigo</text>

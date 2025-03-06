@@ -61,7 +61,7 @@
 184|<text>ESPECTADORES</text>
 187|<text>status</text>
 190|<text>mudou para</text>
-193|<text>Libertaria</text>
+193|<text>Liberdade</text>
 196|<text>Selecao de equipe</text>
 199|<text>Equipe %s VENCEU!</text>
 202|<text>Texto</text>
@@ -84,12 +84,12 @@
 253|<text>Tiro na cabeca!!!</text>
 256|<text>Sua posicao agora e</text>
 259|<text>Descricao</text>
-262|<text>Libertaria</text>
+262|<text>Liberdade</text>
 265|<text>Mercs</text>
 268|<text>Artefato</text>
 271|<text>E voce</text>
 274|<text>Aliado</text>
-277|<text>Base da Libertaria</text>
+277|<text>Base da Liberdade</text>
 280|<text>Base dos Mercs</text>
 283|<text>Nao</text>
 286|<text>Sim</text>

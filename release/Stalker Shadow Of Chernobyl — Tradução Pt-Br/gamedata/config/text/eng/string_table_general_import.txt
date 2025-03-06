@@ -1,6 +1,6 @@
 4|<text>Errante</text>
 7|<text>Dever</text>
-10|<text>Libertaria</text>
+10|<text>Liberdade</text>
 13|<text>Merc</text>
 16|<text>ruim</text>
 19|<text>Bandido</text>
@@ -11,7 +11,7 @@
 34|<text>Exoesqueleto PNB-4UZ</text>
 37|<text>Experiente</text>
 40|<text>PDA encontrado</text>
-43|<text>Libertaria</text>
+43|<text>Liberdade</text>
 46|<text>amigo</text>
 49|<text>bom</text>
 52|<text>neutro</text>
