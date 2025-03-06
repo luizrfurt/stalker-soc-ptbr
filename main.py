@@ -141,10 +141,29 @@ def remove_accents_and_cedilla(directory):
             else:
                 print(f"Arquivo vazio ou inexistente, pulando: {filename}")
 
+def move_txt_files(source_dir, target_dir):
+    """Move todos os arquivos .txt do diretório de origem para o diretório de destino."""
+    
+    # Verifica se o diretório de destino existe, se não, cria
+    if not os.path.exists(target_dir):
+        os.makedirs(target_dir)
+    
+    # Percorre os arquivos no diretório de origem
+    for filename in os.listdir(source_dir):
+        if filename.endswith(".txt"):  # Verifica se é um arquivo .txt
+            source_path = os.path.join(source_dir, filename)
+            target_path = os.path.join(target_dir, filename)
+            
+            try:
+                shutil.move(source_path, target_path)
+                print(f"Movido: {filename} -> {target_dir}")
+            except Exception as e:
+                print(f"Erro ao mover {filename}: {str(e)}")
+
 if __name__ == "__main__":
     # Altere para o diretório correto
-    source_directory = "./release/Stalker Shadow Of Chernobyl — Tradução Pt-Br/gamedata/config/text/eng"
-    target_directory = "C:/Program Files (x86)/Steam/steamapps/common/STALKER Shadow of Chernobyl/gamedata/config/text/eng"
+    # source_directory = "./source/Stalker Shadow Of Chernobyl — Tradução Pt-Br/gamedata/config/text/eng"
+    # target_directory = "C:/Program Files (x86)/Steam/steamapps/common/STALKER Shadow of Chernobyl/gamedata/config/text/eng"
 
     # 1. exclui os arquivos _export.txt e _import.txt
     # delete txts
@@ -165,3 +184,8 @@ if __name__ == "__main__":
     # 5. copia os xmls do diretório de origem para o diretório de destino
     # copy xmls
     # copy_xml_from_import(source_directory, target_directory)
+
+    # 6. move os arquivos de texto de uma pasta para outra
+    # move txts
+    # target_directory = "./source/Stalker Shadow Of Chernobyl — Tradução Pt-Br/gamedata/config/text/eng-oper"
+    # move_txt_files(source_directory, target_directory)
