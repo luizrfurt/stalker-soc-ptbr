@@ -14,7 +14,7 @@ Personagens: Marked One -> Marca, Luckless -> Sem sorte, Mole -> Toupeira, Barke
 Doc. -> Dr., Doc -> Doutor, Fanatic -> Fanatico, Fox -> Raposo, Guide -> Guia, Nimble -> Esperto, Wolf -> Lobo, Skull -> Cranio, Doublet -> Dupleto, Screw (personagem) -> Durao, Murk -> Sombra,
 Skinflint -> Avarento, Charon -> Caronte, Lucky -> Sortudo, Tyran -> Tirano, Wolfhound -> Galgo, Vasya Boar / Vasya "Boar" -> Vasya Javali, Spotty -> Sardento, Bullet (personagem) -> Bala, Ghost -> Fantasma,
 Friar -> Frade, Poker -> Poquer, Crop (personagem) -> Corte, Vampire -> Vampiro, Scarecrow -> Espantalho, Father -> Padre, Master (personagem) -> Mestre, Clumsy -> Desastrado, Oleg "Fiend" Gusarov -> Oleg "Demonio" Gusarov,
-Smartass -> Espertinho, Sparrow -> Pardal, Twig -> Galho
+Smartass -> Espertinho, Sparrow -> Pardal, Twig -> Galho, Ratcatcher -> Ratoeiro
 
 Não traduza quaisquer outro nome de personagem.
 --
