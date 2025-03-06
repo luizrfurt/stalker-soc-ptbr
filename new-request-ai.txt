@@ -16,7 +16,7 @@ Não traduza quaisquer outro nome de personagem.
 --
 Mutantes: Flesh -> Carniceiro, Bloodsucker -> Sanguessuga, Snork -> Snorkel, Burer -> Lancador, Pseudodog -> Pseudocao, Burer -> Lancador
 --
-Anomalias e Artefatos: Whirligig -> Redemoinho, Flash -> Relampago, Moonlight -> Luar, Urchin / Sea Urchin -> Ourico
+Anomalias e Artefatos: Whirligig -> Redemoinho, Flash -> Relampago, Moonlight -> Luar, Urchin / Sea Urchin -> Ourico, Vortex -> Vortice
 -
 Outros Termos: Task -> Missao, Detachment -> Unidade, Snipers -> Snipers, Father -> Padre, Suit e Outfit -> Traje, Dog -> Cao, off-road -> fora da estrada
 
