@@ -1,0 +1,41 @@
+4|<text>Esta e uma string de teste de ITEM</text>
+7|<text>Esta e outra string de teste de ITEM</text>
+10|<text>Pasta a prova de fogo com documentos.</text>
+13|<text>Chave eletronica poderosa. Estranhamente, nao parece ser um instrumento de ladroes multiuso. Em vez disso, parece ter sido criado com uma fechadura eletronica especifica em mente e nao pode ser usado para ignorar mais nada.</text>
+16|<text>Decodificador</text>
+19|<text>Detector de psi-emissao</text>
+22|<text>Sensor PP-4a</text>
+25|<text>Arquivo de documento de plastico. Voce precisaria de um diploma em biologia para entender uma palavra do que diz.</text>
+28|<text>Documentos do Lab X16</text>
+31|<text>Uma pilha grossa de documentos cientificos. Termos, formulas e varios diagramas</text>
+34|<text>Documentos do Lab X18, parte 1</text>
+37|<text>Documentos do Lab X18, parte 2</text>
+40|<text>Documentos do Lab X18, parte 3</text>
+43|<text>Documentos do Lab X18, parte 4</text>
+46|<text>Documentos do Lab X18, parte 5</text>
+49|<text>Manuscrito gasto em encadernacao de couro. Escrito pelo proprio Strelok. A julgar apenas pelos titulos, pode explicar alguns dos segredos da Zona.</text>
+52|<text>Documentos do esconderijo secreto em Prypiat</text>
+55|<text>Uma caixa de madeira pesada com a palavra "Explosivos" escrita em varios idiomas</text>
+58|<text>Caixa de explosivos</text>
+61|<text>Pendrive - maneira conveniente de armazenar e transferir informacoes.</text>
+64|<text>O pendrive do stalker louco</text>
+67|<text>Pendrive - maneira conveniente de armazenar e transferir informacoes.</text>
+70|<text>O pendrive do Professor Kruglov</text>
+73|<text>Pendrive - maneira conveniente de armazenar e transferir informacoes.</text>
+76|<text>O pendrive do stalker cativo</text>
+79|<text>Pendrive - maneira conveniente de armazenar e transferir informacoes.</text>
+82|<text>O pendrive de Strelok</text>
+85|<text>Chave eletronica para o Lab X18 subterraneo.</text>
+88|<text>Chave de Borov</text>
+91|<text>Pendrive de Toupeira</text>
+94|<text>Assistente digital pessoal. Indispensavel na Zona.</text>
+97|<text>PDA de Sortudo</text>
+100|<text>Assistente digital pessoal. Indispensavel na Zona.</text>
+103|<text>PDA de Tirano</text>
+106|<text>Uma pasta a prova de fogo com documentos.</text>
+109|<text>Documentos militares</text>
+112|<text>Documentos do posto avancado</text>
+115|<text>Prototipo desenvolvido por cientistas para proteger as pessoas de psi-emissoes. Nao ajustado.</text>
+118|<text>Psi-capacete nao ajustado.</text>
+121|<text>Prototipo funcional desenvolvido por cientistas para proteger as pessoas de psi-emissoes</text>
+124|<text>Psi-capacete funcional</text>
