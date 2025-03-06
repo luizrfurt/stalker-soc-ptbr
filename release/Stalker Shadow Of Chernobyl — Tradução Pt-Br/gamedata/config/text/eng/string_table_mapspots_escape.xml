@@ -1,48 +1,48 @@
 	<string id="blokpost_case">
-		<text>Maleta com documentos</text>
+		<text>Briefcase with docs</text>
 	</string>
 	<string id="esc_fox">
-		<text>Fox ferido</text>
+		<text>Wounded Fox.</text>
 	</string>
 	<string id="esc_mill">
-		<text>Moinho abandonado. O irmao ferido foi visto por aqui pela ultima vez</text>
+		<text>Abandoned mill. The wounded brother was last seen somewhere around here.</text>
 	</string>
 	<string id="escape_trader">
-		<text>Comerciante</text>
+		<text>Trader.</text>
 	</string>
 	<string id="factory_bandits">
-		<text>Bandidos na fabrica</text>
+		<text>Bandits at the factory.</text>
 	</string>
 	<string id="killers_team">
-		<text>Um grupo desconhecido de Mercs</text>
+		<text>An unknown group of Mercs.</text>
 	</string>
 	<string id="novice_leader">
-		<text>Lider do acampamento de novatos</text>
+		<text>Rookie camp leader.</text>
 	</string>
 	<string id="soldiers_bridge">
-		<text>Ponto de controle militar na ponte destruida. Os soldados sao conhecidos por aceitar suborno para deixar as pessoas passarem</text>
+		<text>Military checkpoint at the destroyed bridge. The soldiers are known to take bribes to let people go through.</text>
 	</string>
 	<string id="tutorial_artefact">
-		<text>Artefato</text>
+		<text>Artifact.</text>
 	</string>
 	<string id="tutorial_bandits">
-		<text>Bandidos que pararam nosso explorador</text>
+		<text>Bandits who have stopped our scout.</text>
 	</string>
 	<string id="tutorial_secret">
-		<text>Esconderijo de um Stalker morto</text>
+		<text>Dead stalker's stash.</text>
 	</string>
 	<string id="tutorial_secret_place1">
-		<text>Esconderijo de um Stalker morto</text>
+		<text>Dead stalker's stash.</text>
 	</string>
 	<string id="tutorial_secret_shustryi">
-		<text>Esconderijo de Nimble</text>
+		<text>Nimble's stash.</text>
 	</string>
 	<string id="tutorial_wounded">
-		<text>Nimble, um prisioneiro</text>
+		<text>Nimble, a prisoner.</text>
 	</string>
 	<string id="volk">
-		<text>Wolf, o lider do acampamento de novatos</text>
+		<text>Wolf, the leader of the rookie camp.</text>
 	</string>
 	<string id="wolfs_rangers">
-		<text>Exploradores de Wolf</text>
+		<text>Wolf's scouts.</text>
 	</string>

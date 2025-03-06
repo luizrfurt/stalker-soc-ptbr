@@ -1,39 +1,39 @@
 <?xml version="1.0" encoding="windows-1251" ?>
 <string_table>
 	<string id="actor_break_dialog_0">
-		<text>Ate mais.</text>
+		<text>See you!</text>
 	</string>
 	<string id="actor_help_wounded_0">
-		<text>Voce esta bem?</text>
+		<text>Are you alright?</text>
 	</string>
 	<string id="actor_help_wounded_1">
-		<text>Estou ferido, droga. Nao esta vendo? Preciso de um kit de primeiros socorros ou ao menos um curativo.</text>
+		<text>I'm hurt damn it, don't you see that? I need a medkit or at least a bandage.</text>
 	</string>
 	<string id="actor_help_wounded_11">
-		<text>Aqui, pegue um kit de primeiros socorros.</text>
+		<text>Here, take this medkit.</text>
 	</string>
 	<string id="actor_help_wounded_111">
-		<text>Valeu, irmao. Nao vou esquecer disso.</text>
+		<text>Thanks bro', I won't forget it.</text>
 	</string>
 	<string id="actor_help_wounded_12">
-		<text>Aqui, pegue um curativo.</text>
+		<text>Here, take this bandage.</text>
 	</string>
 	<string id="actor_help_wounded_13">
-		<text>Desculpe, nao tenho nenhum.</text>
+		<text>Sorry, I don't have any.</text>
 	</string>
 	<string id="actor_help_wounded_131">
-		<text>Entao como voce anda pela Zona? E se for infectado ou algo assim? Voce nem vai conseguir se tratar.</text>
+		<text>So how do you go around the Zone then? What if you're infected or something? You won't even be able to heal yourself!</text>
 	</string>
 	<string id="actor_help_wounded_14">
-		<text>Foi mal, mas se eu te der o meu, ficarei sem nada.</text>
+		<text>Sorry man. But if I give you mine I won't have any left for myself.</text>
 	</string>
 	<string id="actor_help_wounded_141">
-		<text>Isso e com voce, mas nao vai te ajudar em nada.</text>
+		<text>It's your business, but it doesn't do you any good.</text>
 	</string>
 	<string id="hello_dialog_2">
-		<text>Ei.</text>
+		<text>Hey!</text>
 	</string>
 	<string id="hello_dialog_3">
-		<text>Me da uma ajuda?</text>
+		<text>Help me out, would you?</text>
 	</string>
 </string_table>

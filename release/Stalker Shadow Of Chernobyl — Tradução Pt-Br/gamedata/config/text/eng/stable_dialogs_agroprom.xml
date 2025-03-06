@@ -1,285 +1,285 @@
 <?xml version="1.0" encoding="windows-1251" ?>
 <string_table>
 	<string id="agr_factory_krot_start_0">
-		<text>Obrigado pela sua ajuda, stalker! Se voce nao tivesse aparecido, eu ja teria morrido agora.</text>
+		<text>Thanks for your help, stalker! If you hadn't shown up, I'd be a dead man by now.</text>
 	</string>
 	<string id="agr_factory_krot_start_10001">
-		<text>Estou procurando informacoes sobre Strelok, talvez voce saiba de algo?</text>
+		<text>I am looking for information about Strelok, maybe you know something?</text>
 	</string>
 	<string id="agr_factory_krot_start_10002">
-		<text>Como eu entro no subsolo?</text>
+		<text>How do I get into the basement?</text>
 	</string>
 	<string id="agr_factory_krot_start_15001">
-		<text>O esconderijo secreto de Strelok?</text>
+		<text>Strelok's secret stash?</text>
 	</string>
 	<string id="agr_factory_krot_start_15002">
-		<text>Obrigado pela informacao.</text>
+		<text>Thanks for the information.</text>
 	</string>
 	<string id="agr_factory_krot_start_1501">
-		<text>Sim, ja ouvi falar disso. Dizem que ele costumava "trabalhar" por aqui e o esconderijo de Strelok esta nos subsolos locais. Falam que a base do grupo dele ficava aqui tambem.</text>
+		<text>Yes, I heard about that. They even say he used to "work" in these parts and Strelok's stash is in the local basements. Rumor has it that his group's base was here too.</text>
 	</string>
 	<string id="agr_factory_krot_start_1502">
-		<text>Esta e uma das muitas saidas que vao te levar aos subsolos interconectados. Quando voce estiver la, esta por sua conta - eu nao tenho um mapa e a rede de subsolos e enorme e confusa.</text>
+		<text>This is one of the many exits which will lead you into the interconnected basements. Once you're in there, you're on your own - I don't have a map and the basement network is huge and confusing.</text>
 	</string>
 	<string id="agr_factory_krot_start_2">
-		<text>Estou procurando informacoes sobre Strelok. Seriy me disse que voce sabe algo sobre ele.</text>
+		<text>I'm looking for info on Strelok. Seriy told me you know something about him.</text>
 	</string>
 	<string id="agr_factory_krot_start_30001">
-		<text>Obrigado.</text>
+		<text>Thank you.</text>
 	</string>
 	<string id="agr_factory_krot_start_3001">
-		<text>Sim, nos tambem procuramos mas nao encontramos nada. Vou te enviar algumas informacoes sobre isso. Isso e tudo que temos sobre o esconderijo.</text>
+		<text>Yeah, we looked for it too but couldn't find it. I'll send you some info about it. That's everything we have on the stash.</text>
 	</string>
 	<string id="agr_factory_stalker_about_0">
-		<text>O que esta acontecendo aqui?</text>
+		<text>What's going on here?</text>
 	</string>
 	<string id="agr_factory_stalker_about_1">
-		<text>Estamos lutando, ou melhor, apenas acampando como patos sentados. Fale com Mole se quiser saber mais - ele e o lider.</text>
+		<text>We're fighting, or more specifically, camping out like sitting ducks. Talk to Mole if you want to know more - he's the leader.</text>
 	</string>
 	<string id="agr_factory_stalker_start_0">
-		<text>Rapaz, foi uma luta e tanto - voce nao gostaria de passar por isso nem com seu pior inimigo. Esses soldados do exercito estao ficando bem convencidos!</text>
+		<text>Man, that was a fight and a half - you wouldn't wish something like that on your worst enemy. Those army boys are getting pretty cocky!</text>
 	</string>
 	<string id="agr_krot_about_agroprom_0">
-		<text>Onde fica o Instituto de Pesquisa Agroprom?</text>
+		<text>Where is the Agroprom Research Institute?</text>
 	</string>
 	<string id="agr_krot_about_agroprom_10">
-		<text>Nao muito longe daqui. Siga a estrada para o Oeste e voce vai chegar nos portoes do Instituto.</text>
+		<text>Not far from here. Follow the road to the West and you'll come to the Institute's gates.</text>
 	</string>
 	<string id="agr_krot_about_agroprom_100">
-		<text>Ouvi dizer que o exercito montou uma base la, certo?</text>
+		<text>I hear the military have set up a base there, right?</text>
 	</string>
 	<string id="agr_krot_about_agroprom_120">
-		<text>Obrigado pela informacao.</text>
+		<text>Thanks for the information.</text>
 	</string>
 	<string id="agr_krot_about_agroprom_20">
-		<text>Sim, ha uma base militar. Nao sei o numero exato, mas deve ser pelo menos um pelotao. Eles estao bem armados e voce nao tem chances de passar - vao te derrubar antes de voce conseguir dizer "ola". A melhor forma de entrar e durante a noite, pois a base e bem vigiada durante o dia - ha pontos de controle por toda parte e, de qualquer forma, ouvi dizer que um desertor dessa base esta escondido nos pantanos. Se voce conseguir encontra-lo, tenho certeza que pode obter algumas informacoes uteis dele.</text>
+		<text>Yeah, there's a military base. I'm not sure how many of them there are exactly but it's at least a platoon. They're well-armed and you've got no chance of breaking through - they'll take you down before you can say "hello, comrades". The best way of getting in is during the night 'cause the base is well-guarded during the day - they got checkpoints everywhere and anyway, I heard a deserter-soldier from that base is hiding in the marshes. If you can find him I'm sure you can shake some useful info out of him.</text>
 	</string>
 	<string id="agr_krot_actor_hasnot_met_seriy_0">
-		<text>O que esta acontecendo?</text>
+		<text>What's going on?</text>
 	</string>
 	<string id="agr_krot_actor_hasnot_met_seriy_100">
-		<text>Eu e meus rapazes encontramos uma boa area cheia de artefatos, mas esses bastardos do exercito nos atacaram por algum motivo. Nao sei o que diabos eles queriam de nos...</text>
+		<text>Me and my boys found a nice little area full of artifacts but those army bastards attacked us for some reason. I don't know what the hell they wanted from us...</text>
 	</string>
 	<string id="agr_krot_actor_hasnot_met_seriy_200">
-		<text>Sim, ja ouvi falar dele. Acho que ele costumava "ganhar a vida" por aqui - e um lugar bem bom, na verdade. Ele foi embora ha muito tempo; nao sei quando exatamente e nao tenho ideia para onde ele foi. Isso e tudo o que posso te contar.</text>
+		<text>Yeah, I've heard about him. I think he used to "make his living" in this area - it's quite a good place, actually. He left a long time ago; I don't know when it was exactly and I've got no clue where he was headed. That's everything I can tell you.</text>
 	</string>
 	<string id="agr_krot_actor_hasnot_met_seriy_2000">
-		<text>Voce nao estava esperando aqui a toa, estava? Caso contrario, porque as Forcas Especiais apareceriam aqui?</text>
+		<text>You weren't waiting here for no reason, were you? Otherwise why would the Spetsnaz show up here?</text>
 	</string>
 	<string id="agr_krot_actor_hasnot_met_seriy_250">
-		<text>Ok, eu sei algo sobre Strelok.</text>
+		<text>OK, I know something about Strelok.</text>
 	</string>
 	<string id="agr_krot_actor_hasnot_met_seriy_2500">
-		<text>Sim? Eu realmente preciso saber disso!</text>
+		<text>Yeah? I really need to know that!</text>
 	</string>
 	<string id="agr_krot_actor_hasnot_met_seriy_3500">
-		<text>Se voce mentiu para mim, eu vou te encontrar e terminar o que os soldados nao conseguiram!</text>
+		<text>If you lied to me, I'll find you and finish what the soldiers couldn't!</text>
 	</string>
 	<string id="agr_krot_actor_hasnot_met_seriy_400">
-		<text>Eu nao estou mentindo. Eu sei que ninguem confia em ninguem aqui, entao voce tem poucas opcoes.</text>
+		<text>I'm not lying. I know that nobody trusts anyone here so you have little choice.</text>
 	</string>
 	<string id="agr_krot_actor_met_seriy_100">
-		<text>Seriy? Bem, ok, escute. Dizem que Strelok costumava se esgueirar por aqui. Alem disso, seu esconderijo esta por aqui, abaixo do solo. Ouvi dizer que o grupo dele ate tem sua base aqui. Nos tambem procuramos o esconderijo, mas nao encontramos nada. Vou te dar as informacoes sobre o esconderijo, talvez voce tenha mais sorte. Isso e tudo o que temos sobre o esconderijo.</text>
+		<text>Seriy? Well, OK, listen. They say Strelok used to sneak around here. On top of that, his stash is somewhere around here below ground. I heard his group even has its base here. We also looked for the stash but we found jack shit. I'll give you the info about the stash, maybe you'll be luckier. This is everything we have on the stash.</text>
 	</string>
 	<string id="agr_krot_actor_met_seriy_2000">
-		<text>O que mais voce sabe?</text>
+		<text>What else do you know?</text>
 	</string>
 	<string id="agr_krot_actor_met_seriy_250">
-		<text>Eu nao sei mais nada. Te contei tudo o que sabia e agora voce vai ter que descobrir por conta propria. Boa sorte para voce.</text>
+		<text>I don't know anything else. I told you everything I knew and now you have to work it out on your own. Good luck to you.</text>
 	</string>
 	<string id="agr_krot_help_0">
-		<text>Me ajude, stalker!</text>
+		<text>Help me, stalker!!!</text>
 	</string>
 	<string id="agr_krot_help_10">
-		<text>Ok.</text>
+		<text>OK.</text>
 	</string>
 	<string id="agr_ratcatcher_start_0">
-		<text>Nao atire, cara!</text>
+		<text>Don't shoot, man!</text>
 	</string>
 	<string id="agr_stalker_esc_0">
-		<text>O que voce esta fazendo?</text>
+		<text>What are you doing?</text>
 	</string>
 	<string id="agr_stalker_esc_20">
-		<text>Eu estou voltando da fabrica que fica um pouco mais adiante na estrada. Nao sei como, mas o exercito descobriu nosso grupo. Eu nao esperei eles chegarem e sai o mais rapido que pude. Espero que nossos caras tenham saido de la, porque senao nao vao estar vivos por muito mais tempo - voce viu os helicopteros.</text>
+		<text>I'm coming back from the factory which is a bit further down the road. I don't know how but the army found out about our group. I didn't wait for them to show up and took off as quickly as I could. I hope our boys got out of there 'cause otherwise they won't be alive for much longer - you saw the choppers yourself.</text>
 	</string>
 	<string id="agr_stalker_esc_300">
-		<text>Entendi, obrigado.</text>
+		<text>I see, thanks.</text>
 	</string>
 	<string id="agr_stalker_esc_400">
-		<text>Entendi, obrigado.</text>
+		<text>I see, thanks.</text>
 	</string>
 	<string id="agr_stalker_talk_about_ratcatcher_0">
-		<text>Eu tenho algumas perguntas.</text>
+		<text>I've got a couple of questions.</text>
 	</string>
 	<string id="agr_stalker_talk_about_ratcatcher_10">
-		<text>O que voce quer saber?</text>
+		<text>What do you want to know?</text>
 	</string>
 	<string id="agr_stalker_talk_about_ratcatcher_1000">
-		<text>Algo interessante por aqui?</text>
+		<text>Anything interesting in the area?</text>
 	</string>
 	<string id="agr_stalker_talk_about_ratcatcher_120">
-		<text>Quanto voce precisa?</text>
+		<text>How much do you need?</text>
 	</string>
 	<string id="agr_stalker_talk_about_ratcatcher_130">
-		<text>Aqui, pegue o dinheiro. Agora me diga onde esta.</text>
+		<text>Here, take the money. Now tell me where it is.</text>
 	</string>
 	<string id="agr_stalker_talk_about_ratcatcher_131">
-		<text>Vai se ferrar!</text>
+		<text>Piss off!</text>
 	</string>
 	<string id="agr_stalker_talk_about_ratcatcher_140">
-		<text>Obrigado.</text>
+		<text>Thank you.</text>
 	</string>
 	<string id="agr_stalker_talk_about_ratcatcher_20">
-		<text>Sim, ha alguns lugares, mas voce vai ter que dividir um pouco da sua grana, amigo.</text>
+		<text>Yeah, there are a couple of places but you'll have to share some of your wealth, buddy.</text>
 	</string>
 	<string id="agr_stalker_talk_about_ratcatcher_21">
-		<text>Era bem tranquilo antes, mas agora o exercito ficou todo empolgado e comecou a matar todo mundo. Eles limparam os bandidos recentemente e ouvi dizer que alguns conseguiram escapar para os catacumbas.</text>
+		<text>It used to be pretty quiet but now the army has got all excited and started wasting everyone. They smoked the bandits out recently and I hear some managed to escape into the catacombs.</text>
 	</string>
 	<string id="agr_stalker_talk_about_ratcatcher_30">
-		<text>Trinta, negocio fechado?</text>
+		<text>Thirty, deal?</text>
 	</string>
 	<string id="agr_stalker_talk_about_ratcatcher_40">
-		<text>A saida do tunel de ferrovia esta por aqui perto. E bem seguro no beco sem saida. Pelo menos ninguem foi comido enquanto dormia... ainda. Alem disso, a Noroeste da fabrica voce vai encontrar um pantano com um carro nele. Mas tenha cuidado, ha uma porcao de radiacao por la, entao e melhor se aproximar pela parte oeste. Ah, e mais uma coisa: um soldado foi avistado la. Provavelmente e do batalhao do Instituto. O coitado provavelmente esta louco - ja esta la faz alguns dias e duvido que sobrevive mais tempo sozinho.</text>
+		<text>The exit from the railway tunnel is nearby. It's fairly safe in the dead end. At least nobody has been eaten while sleeping...yet.  Also, to the Northwest of the factory you'll find a marsh with a wagon in it.  But be careful, there's a shitload of radiation around it, so it's best to approach it from the western side. Oh, and one more thing: a soldier has been spotted there. He's likely to be from the military base at the Institute. The poor bastard is probably crazy - he's been there for a couple of days and I doubt he'll survive much longer on his own.</text>
 	</string>
 	<string id="agr_stalker_talk_about_ratcatcher_9999">
-		<text>Falou!</text>
+		<text>Bye!</text>
 	</string>
 	<string id="agr_stalker_talk_about_ratcatcher1_0">
-		<text>Algo interessante acontecendo aqui?</text>
+		<text>Anything interesting happening here?</text>
 	</string>
 	<string id="agr_stalker_talk_about_ratcatcher1_1">
-		<text>Voce sabe sobre o Ratoroi? A informacao vai custar 30.</text>
+		<text>Do you know about Ratcatcher? The info will cost you 30.</text>
 	</string>
 	<string id="agr_stalker_talk_about_ratcatcher1_11">
-		<text>Fechado.</text>
+		<text>Deal.</text>
 	</string>
 	<string id="agr_stalker_talk_about_ratcatcher1_111">
-		<text>Temos um heroi local por aqui chamado Ratoroi. Ele mora nos pantanos. O cara criou tantos ratos nos coletores que logo vao comer esses bastardos do exercito.</text>
+		<text>We have a local hero around here called Ratcatcher. He lives in the marshes. The man bred so many rats in the collectors that they'll soon eat those army bastards.</text>
 	</string>
 	<string id="agr_stalker_talk_about_ratcatcher1_1111">
-		<text>Legal. Valeu.</text>
+		<text>Great. Thanks.</text>
 	</string>
 	<string id="agr_stalker_talk_about_ratcatcher1_1112">
-		<text>Me fale mais sobre os coletores.</text>
+		<text>Tell me more about the collectors.</text>
 	</string>
 	<string id="agr_stalker_talk_about_ratcatcher1_11121">
-		<text>Coletores sao os esgotos fedidos padrao que pegam o lixo do Instituto e jogam no reservatorio de agua mais proximo.</text>
+		<text>Collectors are your standard shit-stinking sewers that take waste from the Institute and dumps it in the nearest water reservoir. </text>
 	</string>
 	<string id="agr_stalker_talk_about_ratcatcher1_111211">
-		<text>Legal. Se cuida e ate mais.</text>
+		<text>Great. See you and take care of yourself.</text>
 	</string>
 	<string id="agr_stalker_talk_about_ratcatcher1_12">
-		<text>Eu ja sei disso. Valeu.</text>
+		<text>I know that already. Thanks.</text>
 	</string>
 	<string id="agr_stalker_talk_about_ratcatcher1_121">
-		<text>Eu nao tenho mais nada para te contar.</text>
+		<text>I don't have anything else to tell you.</text>
 	</string>
 	<string id="agr_stalker_talk_about_ratcatcher1_13">
-		<text>Eu nao tenho grana suficiente.</text>
+		<text>I don't have enough cash.</text>
 	</string>
 	<string id="agr_stalker_talk_about_ratcatcher1_14">
-		<text>Nao estou interessado.</text>
+		<text>I'm not interested.</text>
 	</string>
 	<string id="agr_stalker_talk_about_ratcatcher1_3">
-		<text>Algo interessante acontecendo aqui?</text>
+		<text>Anything interesting happening here?</text>
 	</string>
 	<string id="agr_stalker_talk_about_ratcatcher1_31">
-		<text>Nada. Absolutamente nada.</text>
+		<text>Nothing. Absolutely nothing.</text>
 	</string>
 	<string id="agr_stalker_talk_about_ratcatcher1_311">
-		<text>Entendi. Falou!</text>
+		<text>I see. Bye!</text>
 	</string>
 	<string id="agr_stalker_talk_level_0">
-		<text>Me fale sobre esse lugar.</text>
+		<text>Tell me about this place.</text>
 	</string>
 	<string id="agr_stalker_talk_level_1">
-		<text>Essa e a area ao redor do Instituto de Pesquisa Agroprom. O Instituto em si esta a sudoeste. A fabrica, que era a instalacao tecnica de producao do Instituto, fica ao norte. Os predios foram abandonados ha muito tempo e nao ha nada de interessante por la, mas o exercito tem vasculhado muito ativamente o lugar ultimamente.</text>
+		<text>This is the area around the Agroprom Research Institute. The Institute itself is to the Southwest. The factory, which served as the Institute's technical production facility, is to the North. The buildings have been abandoned for a long time and there's nothing to be found there, but the army has been searching there very actively recently.</text>
 	</string>
 	<string id="agr_stalker_talk_level_2">
-		<text>Me fale mais sobre o Instituto.</text>
+		<text>Tell me more about the Institute.</text>
 	</string>
 	<string id="agr_stalker_talk_level_21">
-		<text>Ha muitas lendas sobre o Instituto. Antes do acidente em 1986, o unico coisa aqui era o Instituto de Selecao de Culturas e Genetica. A area onde a fabrica esta agora era usada para campos experimentais de culturas. Depois do acidente, eles fecharam o Instituto e queimaram os campos. Depois, lembraram disso, pintaram o edificio, colocaram uma cerca ao redor e construiram alguns barracos. Eu nao sei o que eles faziam no Instituto, mas com certeza nao faltava financiamento para eles.</text>
+		<text>There are loads of legends about the Institute. Before the accident in 1986 the only thing here was the Institute of Crop Selection and Genetics. The area where the factory is now was used for experimental crop fields. After the accident, they closed the Institute and burned the fields. Then they remembered about it, they whitewashes the building, put up a fence around it and built some barracks. I don't know what they did at the Institute but they didn't have any shortage of funding, that's for sure.</text>
 	</string>
 	<string id="agr_stalker_talk_level_3">
-		<text>Me fale mais sobre a fabrica.</text>
+		<text>Tell me more about the factory.</text>
 	</string>
 	<string id="agr_stalker_talk_level_31">
-		<text>A fabrica foi construida no final dos anos 80. Diziam que seria usada para construir e testar maquinas que poderiam tratar o solo afetado pela radiacao. Pelo que eu sei, nunca apareceu uma unica maquina dessa fabrica. Agora esta totalmente vazia, o que faz ser um lugar favorito para stalkers. Ouvi dizer que o local e bem seguro, desde que voce evite os cantos escuros.</text>
+		<text>The factory was built at the end of the 80s. They said it was going to be used to build and test machines that could treat soil affected by radiation. As far as I know, nobody ever saw a single machine come out of that plant. It's totally empty now, which makes it a favorite spot for stalkers. I hear the place is pretty safe as long as you avoid the dark corners.</text>
 	</string>
 	<string id="agr_stalker_talk_level_4">
-		<text>Obrigado.</text>
+		<text>Thank you.</text>
 	</string>
 	<string id="agr_swamp_ratcatcher_talks_0">
-		<text>O que voce esta fazendo?</text>
+		<text>What are you doing?</text>
 	</string>
 	<string id="agr_swamp_ratcatcher_talks_10">
-		<text>Eu estou me escondendo aqui, nao quero encrenca.</text>
+		<text>I'm hiding here, I don't want no trouble.</text>
 	</string>
 	<string id="agr_swamp_ratcatcher_talks_100">
-		<text>De quem voce esta se escondendo?</text>
+		<text>Who are you hiding from?</text>
 	</string>
 	<string id="agr_swamp_ratcatcher_talks_120">
-		<text>Catacumbas?</text>
+		<text>Catacombs?</text>
 	</string>
 	<string id="agr_swamp_ratcatcher_talks_130">
-		<text>Voce sabe onde guardam os documentos no Instituto?</text>
+		<text>Do you know where they keep documents at the Institute?</text>
 	</string>
 	<string id="agr_swamp_ratcatcher_talks_140">
-		<text>O que voce vai fazer agora?</text>
+		<text>What are you going to do now?</text>
 	</string>
 	<string id="agr_swamp_ratcatcher_talks_141">
-		<text>O que voce vai fazer agora?</text>
+		<text>What are you going to do now?</text>
 	</string>
 	<string id="agr_swamp_ratcatcher_talks_20">
-		<text>Eu sou da unidade de reconhecimento. Nos mandaram para as catacumbas para ver o que estava acontecendo abaixo da base. E um inferno la embaixo, estou te dizendo. Fui o unico que conseguiu sair de la... todos os outros provavelmente estao mortos agora. Eu nao quero voltar para a base - aqueles bastardos estao sempre nos usando para tapar todos os buracos dessa maldita Zona.</text>
+		<text>I am from the recon unit. They sent us into the catacombs to see what's going on below the base. It's hell down there, I'm telling you. I was the only one to get out of there... everyone else is probably dead by now. I don't want to go back to the base - those bastards are always using us to plug up all the holes in this damn Zone.</text>
 	</string>
 	<string id="agr_swamp_ratcatcher_talks_30">
-		<text>Tuneis subterraneos. Eles vao do Instituto para a area ao redor - eu vou te mostrar as entradas. Eu nao tenho mapas das catacumbas em si.</text>
+		<text>Underground tunnels. They go from the Institute to the area around it - I'll show you the entrances. I don't have maps of the catacombs themselves.</text>
 	</string>
 	<string id="agr_swamp_ratcatcher_talks_40">
-		<text>No quartel-general. Fica no terceiro andar do Instituto. E la que guardam aqueles malditos papeis. Mas e uma missao chegar la. Durante o dia, a area esta cheia de patrulhas, mas nao tanto de noite. Eu te digo isso de graca: se voce quiser entrar, vai ter que passar pelas catacumbas - voce nao tem chance na porta.</text>
+		<text>At the HQ. It's on the third floor of the Institute. That's where they keep those damn papers. But it's a mission getting there. By day, the area is teaming with patrols but not as much at night. I'll tell you this for free: if you wanna get inside you'll have to go through the catacombs - you stand no chance at the gate.</text>
 	</string>
 	<string id="agr_swamp_ratcatcher_talks_50">
-		<text>Hmm. Nao sei. Eu sou um desertor de acordo com o codigo militar e preciso sair da Zona de alguma forma. Quando chegamos aqui pela primeira vez, havia um Zaporozhets na garagem que estava quase funcionando. Eu dei um jeito nele em meia hora, mas aquele maldito capitao pegou pra ele mesmo dizendo que tinha direito a ele de acordo com o codigo. Ele dirigiu por esse caminho e o largou na chuva perto do portao. Se eu conseguisse pegar aquele carro - fugir de carro e muito mais seguro!</text>
+		<text>Hmm. I don't know. I am a deserter according to the military code and I need to get out of the Zone somehow. When we first got here there was a Zaporozhets in the garage that was almost working. I brought it back to life in half an hour but that damn captain took it for himself claiming he should have it according to the code. He drove it along this road and dumped it in the rain by the gate. If only I could get that car - making a run for it is much safer on wheels!</text>
 	</string>
 	<string id="agr_swamp_ratcatcher_talks1_0">
-		<text>Ola.</text>
+		<text>Hello.</text>
 	</string>
 	<string id="agr_swamp_ratcatcher_talks1_01">
-		<text>O que aconteceu?</text>
+		<text>What's up?</text>
 	</string>
 	<string id="agr_swamp_ratcatcher_talks1_011">
-		<text>Me fale sobre o coletor. Como entro? Onde ficam as entradas e saidas?</text>
+		<text>Tell me about the collector. How do I get inside? Where are the exits and entrances?</text>
 	</string>
 	<string id="agr_swamp_ratcatcher_talks1_0111">
-		<text>Eh perigoso dentro do coletor. Existem seis entradas, e duas delas ficam na area ao redor do Instituto, onde os militares montaram uma base. Aquela area e patrulhada, e o capitao guarda o horario das patrulhas na sua armeria.</text>
+		<text>It's dangerous inside the collector. There are six entrances and two of them are in the area around the Institute where the military have set up a base. That area is patrolled and the captain keeps the patrol schedule in his armory.</text>
 	</string>
 	<string id="agr_swamp_ratcatcher_talks1_01111">
-		<text>Como sabe de tudo isso?</text>
+		<text>How do you know all that?</text>
 	</string>
 	<string id="agr_swamp_ratcatcher_talks1_011111">
-		<text>Os ratos me contaram.</text>
+		<text>The rats told me.</text>
 	</string>
 	<string id="agr_swamp_ratcatcher_talks1_0111111">
-		<text>Entendi. Ate logo. Boa sorte para voce.</text>
+		<text>I see. Bye! Good luck to you.</text>
 	</string>
 	<string id="agr_swamp_ratcatcher_talks1_012">
-		<text>Nada. Ate mais.</text>
+		<text>Nothing. See you.</text>
 	</string>
 	<string id="agr_swamp_ratcatcher_talks1_013">
-		<text>Quem e voce?</text>
+		<text>Who are you?</text>
 	</string>
 	<string id="agr_swamp_ratcatcher_talks1_0134">
-		<text>Eu moro aqui, se eh que podemos chamar isso de vida. Eu crio ratos no coletor para incomodar os militares do Instituto.</text>
+		<text>I live here, if you can call this a life. I breed rats in the collector to annoy the military at the Institute.</text>
 	</string>
 	<string id="agr_swamp_ratcatcher_talks1_0135">
-		<text>Eu sou o Ratoroi.</text>
+		<text>I am Ratcatcher.</text>
 	</string>
 	<string id="agr_swamp_ratcatcher_talks1_01351">
-		<text>O que voce esta fazendo nesse pantano?</text>
+		<text>What are you doing in this marsh?</text>
 	</string>
 	<string id="agr_swamp_ratcatcher_talks1_123">
-		<text>Ah... entendi... bom, sou de outra historia. Ha-ha-ha...</text>
+		<text>Oh... I get it.... well, I'm from another story. Ha-ha-ha...</text>
 	</string>
 </string_table>

@@ -1,72 +1,72 @@
 	<string id="bar_darklab_documents">
-		<text>Encontre os documentos no laboratorio subterraneo</text>
+		<text>Find the documents in the underground lab</text>
 	</string>
 	<string id="bar_darklab_documents_1">
-		<text>Pegue a chave para o laboratorio com Borov</text>
+		<text>Take the key to the lab from Borov</text>
 	</string>
 	<string id="bar_darklab_documents_2">
-		<text>Saia da base dos bandidos</text>
+		<text>Get out of the bandit base</text>
 	</string>
 	<string id="bar_darklab_documents_3">
-		<text>Encontre a entrada para o laboratorio</text>
+		<text>Find the entrance to the lab</text>
 	</string>
 	<string id="bar_darklab_documents_4">
-		<text>Entre sorrateiramente na base</text>
+		<text>Sneak into the base</text>
 	</string>
 	<string id="bar_darklab_documents2">
-		<text>Encontre os documentos no Lab X-18</text>
+		<text>Find the documents in X18</text>
 	</string>
 	<string id="bar_darklab_documents2_1">
-		<text>Encontre os documentos</text>
+		<text>Find the documents</text>
 	</string>
 	<string id="bar_darklab_documents2_2">
-		<text>Leve os documentos para o Barkeep</text>
+		<text>Bring the documents to the Barkeep</text>
 	</string>
 	<string id="dar_codedoor_1">
-		<text>Encontre a porta com fechadura por codigo</text>
+		<text>Find the codelocked door</text>
 	</string>
 	<string id="dar_codedoor_1_1">
-		<text>Descubra o codigo que abre a porta</text>
+		<text>Discover the code that opens the door</text>
 	</string>
 	<string id="dar_codedoor_1_2">
-		<text>Abra a porta usando o codigo</text>
+		<text>Open the door using the code</text>
 	</string>
 	<string id="dar_codedoor_2">
-		<text>Abra a porta para o centro de controle</text>
+		<text>Open the door to the control center</text>
 	</string>
 	<string id="dar_codedoor_2_1">
-		<text>Descubra o codigo que abre a porta</text>
+		<text>Discover the code that opens the door</text>
 	</string>
 	<string id="dar_codedoor_2_2">
-		<text>Abra a porta usando o codigo</text>
+		<text>Open the door using the code</text>
 	</string>
 	<string id="val_captive_help">
-		<text>Liberte o Dutyer</text>
+		<text>Free the Dutyer</text>
 	</string>
 	<string id="val_captive_help_1">
-		<text>Va com Bullet para o local da emboscada</text>
+		<text>Follow Bullet to the ambush location</text>
 	</string>
 	<string id="val_captive_help_2">
-		<text>Mate os bandidos e resgate o Dutyer</text>
+		<text>Kill the bandits and rescue the Dutyer</text>
 	</string>
 	<string id="val_come_to_trader">
-		<text>Volte para o comerciante</text>
+		<text>Return to the trader</text>
 	</string>
 	<string id="val_come_to_trader_0">
-		<text>Volte para o comerciante</text>
+		<text>Return to the trader</text>
 	</string>
 	<string id="val_come_to_trader_1">
-		<text>Saia do Vale Sombrio</text>
+		<text>Get out of the Dark Valley</text>
 	</string>
 	<string id="val_come_to_trader_2">
-		<text>Mostre os documentos para o comerciante</text>
+		<text>Show documents to the trader</text>
 	</string>
 	<string id="val_prisoner_help">
-		<text>Liberte o Dutyer da prisao</text>
+		<text>Free the Dutyer from prison</text>
 	</string>
 	<string id="val_prisoner_help_0">
-		<text>Liberte o Dutyer da prisao dos bandidos</text>
+		<text>Pull the Dutyer out of the bandit prison</text>
 	</string>
 	<string id="val_prisoner_help_main">
-		<text>Liberte o membro do Duty da prisao dos bandidos</text>
+		<text>Free the Duty member from the bandit prison</text>
 	</string>

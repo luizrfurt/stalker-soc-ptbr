@@ -1,9 +1,9 @@
 	<string id="aes_military_task">
-		<text>Operacao Monolith</text>
+		<text>Operation Monolith</text>
 	</string>
 	<string id="aes_military_task_head">
-		<text>Situacao</text>
+		<text>Situation</text>
 	</string>
 	<string id="aes_soldier_info">
-		<text>Plano de acao militar\n\n Pessoal:\n Comandante da operacao: indicativo Quartet\n Sete unidades de assalto aerotransportado: Sapsan, Korshun, Yastreb, Pustelga, Sokol, Grif, Lun.\n Equipe de snipers: Sova\n\n Suporte:\n Ar: 018, 030, 031, 48, 49, 52, 51, 64, 65, 098, 097\n Terrestre: Armadillo 1, Armadillo 2, Armadillo 3\n\n Situacao: Possivel resistencia forte perto da ponte (23,45), portao (26,78) e ao longo da estrada do edificio principal da estacao (12,23-53,76). O inimigo pode estar usando armamento pesado.\n\n Numero estimado de inimigos: 70-100. Veiculos blindados: nenhum.\n Alta possibilidade de snipers inimigos.\n\n Condicoes climaticas: Visibilidade - 700. Possiveis anomalias nunca vistas antes.</text>
+		<text>Military action plan\n\n Personnel:\n Operation Commander: callsign Quartet\n Seven air assault units: Sapsan, Korshun, Yastreb, Pustelga, Sokol, Grif, Lun. \n Sniper team: Sova\n Support:\n Air: 018, 030, 031, 48, 49, 52\n 51, 64, 65, 098, 097\n Ground: Armadillo 1, Armadillo 2, Armadillo 3\n Situation: Possible strong resistance in the vicinity of the bridge (23,45), gate (26,78) and the road along the main building of the station (12,23-53,76). The enemy is likely to deploy heavy weaponry. \n Expected number of enemy personnel: 70-100. Armored vehicles: none.\n Possible heavy sniper cover from the enemy.\n Weather conditions: Visibility - 700, possible previously unencountered anomalies.</text>
 	</string>

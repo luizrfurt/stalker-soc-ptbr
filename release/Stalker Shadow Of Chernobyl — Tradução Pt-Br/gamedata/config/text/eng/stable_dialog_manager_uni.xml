@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="windows-1251" ?>
 <string_table>
 	<string id="dm_general_action_info">
-		<text>O que voce quer aqui?</text>
+		<text>What are you doing here?</text>
 	</string>
 	<string id="dm_general_cool_info">
-		<text>Tem alguma novidade?</text>
+		<text>Can you tell me something interesting?</text>
 	</string>
 	<string id="dm_general_cool_info_no_more">
-		<text>Acabou, nao sei de mais nada.</text>
+		<text>Don't know anything else.</text>
 	</string>
 	<string id="dm_general_help_bandage">
-		<text>Aqui, pegue um curativo.</text>
+		<text>Take the bandage.</text>
 	</string>
 	<string id="dm_general_help_medkit">
-		<text>Aqui, pegue um kit medico.</text>
+		<text>Take the first aid kit.</text>
 	</string>
 	<string id="dm_general_trade_info">
-		<text>Quer informacao? Isso custa dinheiro.</text>
+		<text>Interested in information. For money.</text>
 	</string>
 	<string id="dm_general_trade_info_caption">
-		<text>Tenho isto para oferecer:</text>
+		<text>I can offer the following:</text>
 	</string>
 	<string id="dm_general_trade_info_hasno">
-		<text>Nada para negociar.</text>
+		<text>Can't offer anything.</text>
 	</string>
 	<string id="dm_general_trade_info_nothing">
-		<text>Talvez depois.</text>
+		<text>Some other time.</text>
 	</string>
 </string_table>
