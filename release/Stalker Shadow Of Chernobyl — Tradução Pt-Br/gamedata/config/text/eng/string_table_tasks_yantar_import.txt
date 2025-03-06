@@ -1,0 +1,24 @@
+2|<text>Pegue os documentos de Fantasma</text>
+5|<text>Pegue os documentos</text>
+8|<text>Entre no laboratorio</text>
+11|<text>Entre no Lab X16</text>
+14|<text>Faca medicoes de radiacao</text>
+17|<text>Procure no cadaver de Vasiliev</text>
+20|<text>Desligue a emissao psi</text>
+23|<text>Desconecte o mecanismo</text>
+26|<text>Saia do laboratorio</text>
+29|<text>Fale com Guia</text>
+32|<text>Encontre Guia</text>
+35|<text>Escolte Kruglov ate o local de medicao</text>
+38|<text>Escolte Semenov ate o local de medicao</text>
+41|<text>Traga os resultados para Sakharov</text>
+44|<text>Fale com Sakharov</text>
+47|<text>Fale com Sakharov</text>
+50|<text>Saia pelo tunel secreto</text>
+53|<text>Desligue o 1o modulo de controle</text>
+56|<text>Desligue o 2o modulo de controle</text>
+59|<text>Desligue o 3o modulo de controle</text>
+62|<text>Fale com Kruglov</text>
+65|<text>Fale com Semenov</text>
+68|<text>PDA de Vasiliev</text>
+71|<text>Localizacao estimada do Lab X16</text>

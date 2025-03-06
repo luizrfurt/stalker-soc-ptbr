@@ -1,0 +1,44 @@
+2|<text>Devolva o rifle de familia do cacador</text>
+5|<text>Traga o PDA do lider para Bartender</text>
+8|<text>Mate os veteranos loucos</text>
+11|<text>Registre-se com o comandante da guarda do Dever</text>
+14|<text>Volte para Bartender</text>
+17|<text>Encontre o comandante da guarda do Dever e registre-se</text>
+20|<text>Obtenha um Bulldog 6 para o General Voronin</text>
+23|<text>Junte-se a faccao Dever</text>
+26|<text>Faca o juramento</text>
+29|<text>Obtenha uma referencia do Capitao Ivantsov</text>
+32|<text>Prove sua lealdade ao Dever</text>
+35|<text>Ganhe a confianca do cozinheiro da Liberdade e descubra onde os Bulldogs 6 estao armazenados</text>
+38|<text>Infiltre-se na base da Liberdade, encontre e roube um Bulldog 6</text>
+41|<text>Encontre as informacoes interceptadas sobre o Lab X18</text>
+44|<text>Mate Tirano, o lider do esquadrao</text>
+47|<text>Devolva as informacoes sobre o Lab X18 para o General Voronin</text>
+50|<text>Traga o Bulldog 6 para o General Voronin</text>
+53|<text>Missao necessaria para se juntar ao Dever</text>
+56|<text>Elimine os Mercs</text>
+59|<text>Entregue as listras para o General Voronin</text>
+62|<text>Pegue o PDA de Tirano</text>
+65|<text>Encontre o rifle de familia</text>
+68|<text>Devolva o rifle para o cacador no Bar</text>
+71|<text>Encontre o rifle de familia</text>
+74|<text>Mate o lider dos veteranos</text>
+77|<text>Pegue o PDA do lider deles</text>
+80|<text>Destrua o acampamento dos veteranos loucos</text>
+83|<text>Desligue o Desintegrador Psiquico</text>
+86|<text>Encontre Kruglov</text>
+89|<text>Leve Kruglov para Yantar</text>
+92|<text>Leve Kruglov para a saida de Yantar</text>
+95|<text>...</text>
+98|<text>Fale com Kruglov</text>
+101|<text>Chegue ate Kruglov</text>
+104|<text>Fale com o professor Kruglov</text>
+107|<text>Encontre os documentos no laboratorio X16</text>
+110|<text>Leve os documentos para Bartender</text>
+113|<text>Desative a maquina</text>
+116|<text>Encontre a entrada do bunker de controle</text>
+119|<text>Chegue as antenas</text>
+122|<text>Pesquisa de Kruglov</text>
+125|<text>Encontre os documentos X16</text>
+128|<text>Perseguidor de Combate</text>
+131|<text>Fale com os cientistas</text>

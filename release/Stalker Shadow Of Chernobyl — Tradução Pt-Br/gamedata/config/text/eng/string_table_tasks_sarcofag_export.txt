@@ -1,0 +1,16 @@
+2|<text>Wish granter</text>
+5|<text>Get to Monolith</text>
+8|<text>Sneak in to the sarcophagus</text>
+11|<text>Find the Wish Granter</text>
+14|<text>The Monolith's secret.</text>
+17|<text>Infiltrate the secret lab.</text>
+20|<text>Solve the Monolith's secret.</text>
+23|<text>Destroy the Monolith's power generators.</text>
+26|<text>The Zone's secret.</text>
+29|<text>Meet whoever is behind the Monolith.</text>
+32|<text>Find the secret lab and meet the "puppeteers".</text>
+35|<text>Secret lab</text>
+38|<text>Enter the secret bunker.</text>
+41|<text>Find the hidden door.</text>
+44|<text>Open it using the decoder.</text>
+47|<text>Find out what is behind the door.</text>

@@ -1,0 +1,44 @@
+2|<text>Return the hunter's family rifle</text>
+5|<text>Bring the leader's PDA to the Barkeep</text>
+8|<text>Kill the mad veterans</text>
+11|<text>Register at the Duty guard commander</text>
+14|<text>Return to the Barkeep</text>
+17|<text>Find the Duty guard commander and register yourself</text>
+20|<text>Get an Bulldog 6 for General Voronin</text>
+23|<text>Join the Duty faction</text>
+26|<text>Swear the oath</text>
+29|<text>Get a reference from Captain Ivantsov</text>
+32|<text>Prove your loyalty to Duty</text>
+35|<text>Earn the Freedom cook's trust and find out where the Bulldog 6s is stored</text>
+38|<text>Infiltrate the Freedom base, find and steal an Bulldog 6</text>
+41|<text>Find the intercepted information about Lab X18</text>
+44|<text>Kill Tyran, the leader of the squad</text>
+47|<text>Return information about Lab X18 to General Voronin</text>
+50|<text>Bring the Bulldog 6 to General Voronin</text>
+53|<text>Mission required to join Duty</text>
+56|<text>Eliminate the Mercs</text>
+59|<text>Give the stripes to General Voronin</text>
+62|<text>Take Tyran's PDA</text>
+65|<text>Find the family rifle</text>
+68|<text>Return the rifle to the hunter at the Bar</text>
+71|<text>Find the family rifle</text>
+74|<text>Kill the leader of the veterans</text>
+77|<text>Take their leader's PDA</text>
+80|<text>Destroy the mad veterans' camp</text>
+83|<text>Turn off the Brain Scorcher</text>
+86|<text>Meet Kruglov</text>
+89|<text>Lead Kruglov to Yantar</text>
+92|<text>Lead Kruglov to the exit to Yantar</text>
+95|<text>...</text>
+98|<text>Talk to Kruglov</text>
+101|<text>Get through to Kruglov</text>
+104|<text>Talk to professor Kruglov</text>
+107|<text>Find the documents in X16 lab</text>
+110|<text>Bring the documents to the Barkeep</text>
+113|<text>Deactivate the machine</text>
+116|<text>Find the entrance to the control bunker</text>
+119|<text>Reach the antennae</text>
+122|<text>Kruglov's research</text>
+125|<text>Find the X16 documents</text>
+128|<text>Combat Chaser</text>
+131|<text>Talk to the scientists</text>

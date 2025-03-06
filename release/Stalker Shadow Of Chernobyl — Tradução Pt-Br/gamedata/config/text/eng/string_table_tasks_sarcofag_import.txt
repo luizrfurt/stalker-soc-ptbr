@@ -1,0 +1,16 @@
+2|<text>Concessor de Desejos</text>
+5|<text>Chegue ao Monolito</text>
+8|<text>Entre sorrateiramente no sarcofago</text>
+11|<text>Encontre o Concessor de Desejos</text>
+14|<text>O segredo do Monolito.</text>
+17|<text>Infiltre-se no laboratorio secreto.</text>
+20|<text>Resolva o segredo do Monolito.</text>
+23|<text>Destrua os geradores de energia do Monolito.</text>
+26|<text>O segredo da Zona.</text>
+29|<text>Encontre quem esta por tras do Monolito.</text>
+32|<text>Encontre o laboratorio secreto e encontre os "manipuladores".</text>
+35|<text>Laboratorio secreto</text>
+38|<text>Entre no bunker secreto.</text>
+41|<text>Encontre a porta escondida.</text>
+44|<text>Abra-a usando o decodificador.</text>
+47|<text>Descubra o que esta por tras da porta.</text>

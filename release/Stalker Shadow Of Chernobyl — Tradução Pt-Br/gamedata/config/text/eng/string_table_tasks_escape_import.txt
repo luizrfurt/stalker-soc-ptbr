@@ -1,0 +1,50 @@
+2|<text>Mate os bandidos na fabrica</text>
+5|<text>Mate os bandidos entrincheirados na fabrica.</text>
+8|<text>Mate todos os bandidos na fabrica</text>
+11|<text>Fale com o comerciante</text>
+14|<text>Fale com Lobo</text>
+17|<text>Roube a caixa do posto avancado do exercito</text>
+20|<text>Roube a caixa com documentos importantes do posto avancado do exercito.</text>
+23|<text>Roube a caixa do posto avancado do exercito</text>
+26|<text>Leve a caixa para o comerciante</text>
+29|<text>Proteja o acampamento de novatos dos Mercs</text>
+32|<text>Proteja o acampamento de novatos dos Mercs.</text>
+35|<text>Destrua os Mercs.</text>
+38|<text>Fale com o comandante dos novatos</text>
+41|<text>Mate os bandidos no estacionamento</text>
+44|<text>Mate os bandidos no estacionamento e relate a Lobo.</text>
+47|<text>Encontre-se com o pessoal de Lobo</text>
+50|<text>Mate todos os bandidos</text>
+53|<text>Fale com Lobo</text>
+56|<text>Aprenda algo sobre Strelok com Raposo</text>
+59|<text>Ajude o stalker ferido</text>
+62|<text>Ajude Raposo</text>
+65|<text>Obtenha informacoes sobre Strelok</text>
+68|<text>Entregue o pacote ao comerciante.</text>
+71|<text>Entregue o pacote ao comerciante. Ele podera ajuda-lo.</text>
+74|<text>Encontre-se com Seriy.</text>
+77|<text>Encontre-se com Seriy no Lixao.</text>
+80|<text>Encontre-se com Doutor.</text>
+83|<text>Encontre-se com Doutor.</text>
+86|<text>Encontre-se com Doutor no esconderijo de Strelok</text>
+89|<text>Mate Strelok</text>
+92|<text>Encontre Strelok</text>
+95|<text>Encontre um artefato</text>
+98|<text>Encontre seu primeiro artefato.</text>
+101|<text>Encontre um artefato</text>
+104|<text>Leve o artefato para o comerciante.</text>
+107|<text>Obtenha informacoes do batedor</text>
+110|<text>Leve as informacoes para o comerciante</text>
+113|<text>Fale com Lobo</text>
+116|<text>Pegue o pendrive de Esperto</text>
+119|<text>Leve o pendrive para o comerciante</text>
+122|<text>Trabalhe para o comerciante</text>
+125|<text>Pegue a tarefa especial do comerciante</text>
+128|<text>Trabalhe para Bartender</text>
+131|<text>Peca um trabalho a Bartender</text>
+134|<text>Ajuda para os cientistas</text>
+137|<text>Ofereca ajuda aos cientistas</text>
+140|<text>Chegue ao aterro ferroviario</text>
+143|<text>Encontre o jornaleiro</text>
+146|<text>Atravesse o aterro ferroviario</text>
+149|<text>Antes de se aprofundar na Zona, e necessario atravessar o antigo aterro ferroviario. A unica passagem segura la e guardada pelos militares. No entanto, ha um pequeno tunel a esquerda, os novatos geralmente passam por ele. La voce sera esperado por um dos meus devedores.</text>

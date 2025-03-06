@@ -1,0 +1,24 @@
+2|<text>Take the documents from Ghost</text>
+5|<text>Take the documents</text>
+8|<text>Get inside the lab</text>
+11|<text>Get inside Lab X16</text>
+14|<text>Take radiation measurements</text>
+17|<text>Search Valiliev's corpse</text>
+20|<text>Turn off psi-emission</text>
+23|<text>Unplug the mechanism</text>
+26|<text>Get out of the lab</text>
+29|<text>Talk to Guide</text>
+32|<text>Meet the Guide</text>
+35|<text>Escort Kruglov to the measurement site</text>
+38|<text>Escort Semenov to the measurement site</text>
+41|<text>Bring the results to Sakharov</text>
+44|<text>Talk to Sakharov</text>
+47|<text>Talk to Sakharov</text>
+50|<text>Get out via the secret tunnel</text>
+53|<text>Turn off the 1st control module</text>
+56|<text>Turn off the 2nd control module</text>
+59|<text>Turn off the 3rd control module</text>
+62|<text>Talk to Kruglov</text>
+65|<text>Talk to Semenov</text>
+68|<text>Vasiliev's PDA</text>
+71|<text>Estimated location of Lab X16</text>

@@ -1,48 +1,48 @@
 	<string id="sar_monolith">
-		<text>Wish granter</text>
+		<text>Concessor de Desejos</text>
 	</string>
 	<string id="sar_monolith_0">
-		<text>Get to Monolith</text>
+		<text>Chegue ao Monolito</text>
 	</string>
 	<string id="sar_monolith_1">
-		<text>Sneak in to the sarcophagus</text>
+		<text>Entre sorrateiramente no sarcofago</text>
 	</string>
 	<string id="sar_monolith_2">
-		<text>Find the Wish Granter</text>
+		<text>Encontre o Concessor de Desejos</text>
 	</string>
 	<string id="sar_monolith_destroy">
-		<text>The Monolith's secret.</text>
+		<text>O segredo do Monolito.</text>
 	</string>
 	<string id="sar_monolith_destroy_0">
-		<text>Infiltrate the secret lab.</text>
+		<text>Infiltre-se no laboratorio secreto.</text>
 	</string>
 	<string id="sar_monolith_destroy_1">
-		<text>Solve the Monolith's secret.</text>
+		<text>Resolva o segredo do Monolito.</text>
 	</string>
 	<string id="sar_monolith_destroy_2">
-		<text>Destroy the Monolith's power generators.</text>
+		<text>Destrua os geradores de energia do Monolito.</text>
 	</string>
 	<string id="sar_perception">
-		<text>The Zone's secret.</text>
+		<text>O segredo da Zona.</text>
 	</string>
 	<string id="sar_perception_1">
-		<text>Meet whoever is behind the Monolith.</text>
+		<text>Encontre quem esta por tras do Monolito.</text>
 	</string>
 	<string id="sar_perception_2">
-		<text>Find the secret lab and meet the "puppeteers".</text>
+		<text>Encontre o laboratorio secreto e encontre os "manipuladores".</text>
 	</string>
 	<string id="sar_secret_lab">
-		<text>Secret lab</text>
+		<text>Laboratorio secreto</text>
 	</string>
 	<string id="sar_secret_lab_0">
-		<text>Enter the secret bunker.</text>
+		<text>Entre no bunker secreto.</text>
 	</string>
 	<string id="sar_secret_lab_1">
-		<text>Find the hidden door.</text>
+		<text>Encontre a porta escondida.</text>
 	</string>
 	<string id="sar_secret_lab_2">
-		<text>Open it using the decoder.</text>
+		<text>Abra-a usando o decodificador.</text>
 	</string>
 	<string id="sar_secret_lab_3">
-		<text>Find out what is behind the door.</text>
+		<text>Descubra o que esta por tras da porta.</text>
 	</string>

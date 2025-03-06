@@ -1,132 +1,132 @@
 	<string id="bar_bring_hunter_rifle">
-		<text>Return the hunter's family rifle</text>
+		<text>Devolva o rifle de familia do cacador</text>
 	</string>
 	<string id="bar_bring_PDA_lucky">
-		<text>Bring the leader's PDA to the Barkeep</text>
+		<text>Traga o PDA do lider para Bartender</text>
 	</string>
 	<string id="bar_crazy_veterans_quest">
-		<text>Kill the mad veterans</text>
+		<text>Mate os veteranos loucos</text>
 	</string>
 	<string id="bar_dolg_base_rules">
-		<text>Register at the Duty guard commander</text>
+		<text>Registre-se com o comandante da guarda do Dever</text>
 	</string>
 	<string id="bar_dolg_base_rules_fin">
-		<text>Return to the Barkeep</text>
+		<text>Volte para Bartender</text>
 	</string>
 	<string id="bar_dolg_base_rules_talk">
-		<text>Find the Duty guard commander and register yourself</text>
+		<text>Encontre o comandante da guarda do Dever e registre-se</text>
 	</string>
 	<string id="bar_dolg_bring_rg6">
-		<text>Get an Bulldog 6 for General Voronin</text>
+		<text>Obtenha um Bulldog 6 para o General Voronin</text>
 	</string>
 	<string id="bar_dolg_community_quest">
-		<text>Join the Duty faction</text>
+		<text>Junte-se a faccao Dever</text>
 	</string>
 	<string id="bar_dolg_community_quest_prisyaga">
-		<text>Swear the oath</text>
+		<text>Faca o juramento</text>
 	</string>
 	<string id="bar_dolg_community_quest_recomendation">
-		<text>Get a reference from Captain Ivantsov</text>
+		<text>Obtenha uma referencia do Capitao Ivantsov</text>
 	</string>
 	<string id="bar_dolg_community_quest_vernost">
-		<text>Prove your loyalty to Duty</text>
+		<text>Prove sua lealdade ao Dever</text>
 	</string>
 	<string id="bar_dolg_find_cook">
-		<text>Earn the Freedom cook's trust and find out where the Bulldog 6s is stored</text>
+		<text>Ganhe a confianca do cozinheiro da Liberdade e descubra onde os Bulldogs 6 estao armazenados</text>
 	</string>
 	<string id="bar_dolg_find_rg6">
-		<text>Infiltrate the Freedom base, find and steal an Bulldog 6</text>
+		<text>Infiltre-se na base da Liberdade, encontre e roube um Bulldog 6</text>
 	</string>
 	<string id="bar_dolg_info_gain">
-		<text>Find the intercepted information about Lab X18</text>
+		<text>Encontre as informacoes interceptadas sobre o Lab X18</text>
 	</string>
 	<string id="bar_dolg_kill_tiran">
-		<text>Kill Tyran, the leader of the squad</text>
+		<text>Mate Tirano, o lider do esquadrao</text>
 	</string>
 	<string id="bar_dolg_return_info">
-		<text>Return information about Lab X18 to General Voronin</text>
+		<text>Devolva as informacoes sobre o Lab X18 para o General Voronin</text>
 	</string>
 	<string id="bar_dolg_return_rg6">
-		<text>Bring the Bulldog 6 to General Voronin</text>
+		<text>Traga o Bulldog 6 para o General Voronin</text>
 	</string>
 	<string id="bar_dolg_rg6_quest">
-		<text>Mission required to join Duty</text>
+		<text>Missao necessaria para se juntar ao Dever</text>
 	</string>
 	<string id="bar_dolg_svoboda_ambush_quest">
-		<text>Eliminate the Mercs</text>
+		<text>Elimine os Mercs</text>
 	</string>
 	<string id="bar_dolg_svoboda_ambush_return">
-		<text>Give the stripes to General Voronin</text>
+		<text>Entregue as listras para o General Voronin</text>
 	</string>
 	<string id="bar_dolg_tiran_PDA">
-		<text>Take Tyran's PDA</text>
+		<text>Pegue o PDA de Tirano</text>
 	</string>
 	<string id="bar_hunter_find_rifle">
-		<text>Find the family rifle</text>
+		<text>Encontre o rifle de familia</text>
 	</string>
 	<string id="bar_hunter_return_rifle">
-		<text>Return the rifle to the hunter at the Bar</text>
+		<text>Devolva o rifle para o cacador no Bar</text>
 	</string>
 	<string id="bar_hunter_rifle">
-		<text>Find the family rifle</text>
+		<text>Encontre o rifle de familia</text>
 	</string>
 	<string id="bar_kill_crazy_veterans">
-		<text>Kill the leader of the veterans</text>
+		<text>Mate o lider dos veteranos</text>
 	</string>
 	<string id="bar_kill_crazy_veterans_PDA">
-		<text>Take their leader's PDA</text>
+		<text>Pegue o PDA do lider deles</text>
 	</string>
 	<string id="bar_kill_veterans">
-		<text>Destroy the mad veterans' camp</text>
+		<text>Destrua o acampamento dos veteranos loucos</text>
 	</string>
 	<string id="bar_radar_deactivate">
-		<text>Turn off the Brain Scorcher</text>
+		<text>Desligue o Desintegrador Psiquico</text>
 	</string>
 	<string id="bar_resque_information">
-		<text>Meet Kruglov</text>
+		<text>Encontre Kruglov</text>
 	</string>
 	<string id="bar_resque_information_2">
-		<text>Lead Kruglov to Yantar</text>
+		<text>Leve Kruglov para Yantar</text>
 	</string>
 	<string id="bar_resque_scientific_follow">
-		<text>Lead Kruglov to the exit to Yantar</text>
+		<text>Leve Kruglov para a saida de Yantar</text>
 	</string>
 	<string id="bar_resque_scientific_information">
 		<text>...</text>
 	</string>
 	<string id="bar_resque_scientific_information_bring">
-		<text>Talk to Kruglov</text>
+		<text>Fale com Kruglov</text>
 	</string>
 	<string id="bar_resque_scientific_information_get">
-		<text>Get through to Kruglov</text>
+		<text>Chegue ate Kruglov</text>
 	</string>
 	<string id="bar_resque_scientific_information_get_2">
-		<text>Talk to professor Kruglov</text>
+		<text>Fale com o professor Kruglov</text>
 	</string>
 	<string id="bar_x16_documents">
-		<text>Find the documents in X16 lab</text>
+		<text>Encontre os documentos no laboratorio X16</text>
 	</string>
 	<string id="bring_x16_documents">
-		<text>Bring the documents to the Barkeep</text>
+		<text>Leve os documentos para Bartender</text>
 	</string>
 	<string id="deactivate_radar_now">
-		<text>Deactivate the machine</text>
+		<text>Desative a maquina</text>
 	</string>
 	<string id="find_and_deactivate_radar">
-		<text>Find the entrance to the control bunker</text>
+		<text>Encontre a entrada do bunker de controle</text>
 	</string>
 	<string id="get_to_antennas">
-		<text>Reach the antennae</text>
+		<text>Chegue as antenas</text>
 	</string>
 	<string id="Kruglov_research">
-		<text>Kruglov's research</text>
+		<text>Pesquisa de Kruglov</text>
 	</string>
 	<string id="look_for_x16_lab">
-		<text>Find the X16 documents</text>
+		<text>Encontre os documentos X16</text>
 	</string>
 	<string id="wpn-winchester_m1">
-		<text>Combat Chaser</text>
+		<text>Perseguidor de Combate</text>
 	</string>
 	<string id="x16_yantar">
-		<text>Talk to the scientists</text>
+		<text>Fale com os cientistas</text>
 	</string>

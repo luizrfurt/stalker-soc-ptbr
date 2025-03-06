@@ -1,0 +1,13 @@
+2|<text>Capture the gate</text>
+5|<text>Sokol group</text>
+8|<text>Grif group</text>
+11|<text>Sova group</text>
+14|<text>Lun group</text>
+17|<text>Hold position</text>
+20|<text>Break through to the sarcophagus</text>
+23|<text>Destroy the Monolith 1 fortifications</text>
+26|<text>Destroy the Monolith 2 fortifications</text>
+29|<text>Sapsan group</text>
+32|<text>Korshun group</text>
+35|<text>Yastreb group</text>
+38|<text>Pustelga group</text>

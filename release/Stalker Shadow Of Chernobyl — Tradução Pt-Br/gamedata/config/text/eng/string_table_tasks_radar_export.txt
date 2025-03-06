@@ -1,0 +1,7 @@
+2|<text>Follow the group of stalkers</text>
+5|<text>Find the path to the Chernobyl NPP</text>
+8|<text>Meet the group of stalkers</text>
+11|<text>Antennae</text>
+14|<text>Reach the power plant</text>
+17|<text>Enter the power plant</text>
+20|<text>Find the entrance to the sarcophagus</text>

@@ -1,0 +1,5 @@
+2|<text>Esconderijo secreto em Prypiat</text>
+5|<text>Encontre o esconderijo secreto do Atirador em Prypiat</text>
+8|<text>Chegue ao hotel.</text>
+11|<text>Encontre o quarto com o esconderijo secreto</text>
+14|<text>Examine o esconderijo secreto</text>

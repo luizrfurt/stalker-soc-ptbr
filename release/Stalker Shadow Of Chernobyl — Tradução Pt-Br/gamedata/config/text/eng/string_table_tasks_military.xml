@@ -1,92 +1,92 @@
 	<string id="mil_blockpost_job">
-		<text>Assist at Freedom's Barrier outpost.</text>
+		<text>Ajude no posto avancado da Barreira da Liberdade.</text>
 	</string>
 	<string id="mil_courier">
-		<text>Snitch.</text>
+		<text>Dedo-duro.</text>
 	</string>
 	<string id="mil_courier_job">
-		<text>Deal with the snitch.</text>
+		<text>Lide com o dedo-duro.</text>
 	</string>
 	<string id="mil_courier_phase1">
-		<text>Get to the farmstead.</text>
+		<text>Chegue a fazenda.</text>
 	</string>
 	<string id="mil_courier_phase2">
-		<text>Wait until the snitch brings out his agent.</text>
+		<text>Espere ate que o dedo-duro traga seu agente.</text>
 	</string>
 	<string id="mil_courier_phase3">
-		<text>Get rid of the snitch.</text>
+		<text>Livre-se do dedo-duro.</text>
 	</string>
 	<string id="mil_courier_phase4">
-		<text>Get rid of the agent.</text>
+		<text>Livre-se do agente.</text>
 	</string>
 	<string id="mil_courier_phase5">
-		<text>Report to Lukash about the mission.</text>
+		<text>Relate a Lukash sobre a missao.</text>
 	</string>
 	<string id="mil_crazy">
-		<text>Crazy stalker.</text>
+		<text>Stalker louco.</text>
 	</string>
 	<string id="mil_dolg">
-		<text>Duty faction</text>
+		<text>Faccao Dever</text>
 	</string>
 	<string id="mil_dolg_assault_freedom">
-		<text>Help the Duty faction eliminate Lukash</text>
+		<text>Ajude a faccao Dever a eliminar Lukash</text>
 	</string>
 	<string id="mil_kill_lukash">
-		<text>Kill Lukash</text>
+		<text>Mate Lukash</text>
 	</string>
 	<string id="mil_dolg_assault_support">
-		<text>Get rid of the sniper</text>
+		<text>Livre-se do sniper</text>
 	</string>
 	<string id="mil_dolg_return_to_khutor">
-		<text>Return to the Duty farmstead and receive my fee</text>
+		<text>Volte para a fazenda do Dever e receba minha taxa</text>
 	</string>
 	<string id="mil_dolg_return_to_skull">
-		<text>Return to Skull</text>
+		<text>Volte para Cranio</text>
 	</string>
 	<string id="mil_fblockpost_commander">
-		<text>Outpost commander Cap</text>
+		<text>Comandante do posto avancado Cap</text>
 	</string>
 	<string id="mil_fblockpost_phase2">
-		<text>Help destroy the Monolith's strike squad</text>
+		<text>Ajude a destruir o esquadrao de ataque do Monolito</text>
 	</string>
 	<string id="mil_fblockpost_phase3">
-		<text>Talk to Barrier outpost commander</text>
+		<text>Fale com o comandante do posto avancado da Barreira</text>
 	</string>
 	<string id="mil_find_cook">
-		<text>Find the cook in the Freedom base</text>
+		<text>Encontre o cozinheiro na base da Liberdade</text>
 	</string>
 	<string id="mil_freedom_rg6_task">
-		<text>Obtain an Bulldog 6 from Freedom</text>
+		<text>Obtenha um Bulldog 6 da Liberdade</text>
 	</string>
 	<string id="mil_go_max">
-		<text>Report to Max.</text>
+		<text>Relate a Max.</text>
 	</string>
 	<string id="mil_go_to_miser_task">
-		<text>Go to the Freedom base to see Skinflint and get a reward</text>
+		<text>Va para a base da Liberdade para ver Avarento e receber uma recompensa</text>
 	</string>
 	<string id="mil_go_to_miser_task_main">
-		<text>Receive a reward for the destroyed bloodsuckers</text>
+		<text>Receba uma recompensa pelos sanguessugas destruidos</text>
 	</string>
 	<string id="mil_hunters_phase1">
-		<text>Find Murk in the village</text>
+		<text>Encontre Sombra na vila</text>
 	</string>
 	<string id="mil_hunters_phase2">
-		<text>Kill the bloodsuckers</text>
+		<text>Mate os sanguessugas</text>
 	</string>
 	<string id="mil_hunters_phase3">
-		<text>Return to Skinflint for the artifact</text>
+		<text>Volte para Avarento pelo artefato</text>
 	</string>
 	<string id="mil_hunters_task">
-		<text>Kill the bloodsuckers in the village</text>
+		<text>Mate os sanguessugas na vila</text>
 	</string>
 	<string id="mil_kill_controller">
-		<text>Kill the bloodsuckers</text>
+		<text>Mate os sanguessugas</text>
 	</string>
 	<string id="mil_kill_controller_main">
-		<text>Kill the bloodsuckers</text>
+		<text>Mate os sanguessugas</text>
 	</string>
 	<string id="mil_kill_dolg">
-		<text>Destroy the Duty squad.</text>
+		<text>Destrua o esquadrao do Dever.</text>
 	</string>
 	<string id="mil_lukash">
 		<text>Lukash.</text>
@@ -95,56 +95,56 @@
 		<text>Max.</text>
 	</string>
 	<string id="mil_put_flash_to_max">
-		<text>Give Max the flash drive.</text>
+		<text>De o pendrive para Max.</text>
 	</string>
 	<string id="mil_kill_sniper">
-		<text>Kill the tower sniper</text>
+		<text>Mate o sniper da torre</text>
 	</string>
 	<string id="mil_quest_report_dolg">
-		<text>Report about the mission to the Duty squad</text>
+		<text>Relate sobre a missao para o esquadrao do Dever</text>
 	</string>
 	<string id="mil_return_lukash">
-		<text>Return to Lukash.</text>
+		<text>Volte para Lukash.</text>
 	</string>
 	<string id="mil_return_to_ugrumy">
-		<text>Report to Murk about the mission</text>
+		<text>Relate a Sombra sobre a missao</text>
 	</string>
 	<string id="mil_return_to_voronin">
-		<text>Bring the Bulldog 6 to General Voronin</text>
+		<text>Traga o Bulldog 6 para o General Voronin</text>
 	</string>
 	<string id="mil_rg6">
-		<text>Find Bulldog 6</text>
+		<text>Encontre o Bulldog 6</text>
 	</string>
 	<string id="mil_secret">
-		<text>Bandit cache.</text>
+		<text>Esconderijo de bandidos.</text>
 	</string>
 	<string id="mil_sniper">
 		<text>Sniper.</text>
 	</string>
 	<string id="mil_mad_job">
-		<text>Get a flash drive from the crazy sniper.</text>
+		<text>Pegue um pendrive do sniper louco.</text>
 	</string>
 	<string id="mil_talk_cook">
-		<text>Talk to Chef</text>
+		<text>Fale com Chef</text>
 	</string>
 	<string id="mil_talk_with_cap">
-		<text>Talk to Cap, the Freedom outpost commander</text>
+		<text>Fale com Cap, o comandante do posto avancado da Liberdade</text>
 	</string>
 	<string id="mil_test_task_phase1">
-		<text>Enter restrictor 1</text>
+		<text>Entre no restritor 1</text>
 	</string>
 	<string id="mil_test_task_phase2">
-		<text>Enter restrictor 2</text>
+		<text>Entre no restritor 2</text>
 	</string>
 	<string id="mil_test_task_phase3">
-		<text>Lift the Bulldog 6 in the air if mission is complete, the TRs 301 in case of failure</text>
+		<text>Levante o Bulldog 6 no ar se a missao for concluida, o TRs 301 em caso de falha</text>
 	</string>
 	<string id="mil_test_task_title">
-		<text>Test mission</text>
+		<text>Missao de teste</text>
 	</string>
 	<string id="mil_ugrumy">
-		<text>Murk.</text>
+		<text>Sombra.</text>
 	</string>
 	<string id="mil_lukash_job">
-		<text>Destroy the Duty company</text>
+		<text>Destrua a companhia do Dever</text>
 	</string>

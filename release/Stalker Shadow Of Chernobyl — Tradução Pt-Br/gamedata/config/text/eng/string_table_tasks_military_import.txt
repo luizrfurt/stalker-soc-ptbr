@@ -1,0 +1,50 @@
+2|<text>Ajude no posto avancado da Barreira da Liberdade.</text>
+5|<text>Dedo-duro.</text>
+8|<text>Lide com o dedo-duro.</text>
+11|<text>Chegue a fazenda.</text>
+14|<text>Espere ate que o dedo-duro traga seu agente.</text>
+17|<text>Livre-se do dedo-duro.</text>
+20|<text>Livre-se do agente.</text>
+23|<text>Relate a Lukash sobre a missao.</text>
+26|<text>Stalker louco.</text>
+29|<text>Faccao Dever</text>
+32|<text>Ajude a faccao Dever a eliminar Lukash</text>
+35|<text>Mate Lukash</text>
+38|<text>Livre-se do sniper</text>
+41|<text>Volte para a fazenda do Dever e receba minha taxa</text>
+44|<text>Volte para Cranio</text>
+47|<text>Comandante do posto avancado Cap</text>
+50|<text>Ajude a destruir o esquadrao de ataque do Monolito</text>
+53|<text>Fale com o comandante do posto avancado da Barreira</text>
+56|<text>Encontre o cozinheiro na base da Liberdade</text>
+59|<text>Obtenha um Bulldog 6 da Liberdade</text>
+62|<text>Relate a Max.</text>
+65|<text>Va para a base da Liberdade para ver Avarento e receber uma recompensa</text>
+68|<text>Receba uma recompensa pelos sanguessugas destruidos</text>
+71|<text>Encontre Sombra na vila</text>
+74|<text>Mate os sanguessugas</text>
+77|<text>Volte para Avarento pelo artefato</text>
+80|<text>Mate os sanguessugas na vila</text>
+83|<text>Mate os sanguessugas</text>
+86|<text>Mate os sanguessugas</text>
+89|<text>Destrua o esquadrao do Dever.</text>
+92|<text>Lukash.</text>
+95|<text>Max.</text>
+98|<text>De o pendrive para Max.</text>
+101|<text>Mate o sniper da torre</text>
+104|<text>Relate sobre a missao para o esquadrao do Dever</text>
+107|<text>Volte para Lukash.</text>
+110|<text>Relate a Sombra sobre a missao</text>
+113|<text>Traga o Bulldog 6 para o General Voronin</text>
+116|<text>Encontre o Bulldog 6</text>
+119|<text>Esconderijo de bandidos.</text>
+122|<text>Sniper.</text>
+125|<text>Pegue um pendrive do sniper louco.</text>
+128|<text>Fale com Chef</text>
+131|<text>Fale com Cap, o comandante do posto avancado da Liberdade</text>
+134|<text>Entre no restritor 1</text>
+137|<text>Entre no restritor 2</text>
+140|<text>Levante o Bulldog 6 no ar se a missao for concluida, o TRs 301 em caso de falha</text>
+143|<text>Missao de teste</text>
+146|<text>Sombra.</text>
+149|<text>Destrua a companhia do Dever</text>
