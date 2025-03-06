@@ -1,0 +1,9 @@
+2|<text>You're rubbish, Marked One. Totally useless! Don't expect gratitude - there's nothing to thank you for!</text>
+5|<text>Not bad, stalker! You certainly shot yourself some mutants, but you ain't all that quick on the draw, are you? If you wanna pass, you'll have to cough up some cash.</text>
+8|<text>Excellent, Marked One, you really helped us out there. I say that's payment enough for your pass. Go on to the Bar.</text>
+11|<text>Let them come closer so nobody can escape. I shoot first, you follow my lead.</text>
+14|<text>You're on Duty territory, stalker. Fighting is not tolerated here.</text>
+17|<text>Attention!! This is the Duty checkpoint. A horde of mutants is moving from the Dark Valley in the direction of the Bar. Anyone who helps us stop the monsters will not regret it.</text>
+20|<text>You're on Duty territory, stalker. Start messing around and you'll be eating through a straw for the rest of your life.</text>
+23|<text>Well done gents, we got 'em all. You lads take a little break now. You, stalker, come over here. Let's have a chat.</text>
+26|<text>People, this is the commander of a neutral party. We pushed the bandits out from the abandoned vehicle park but they will probably try to retake it. We're low on numbers, so if you want to help, we'll save a spot for you.</text>

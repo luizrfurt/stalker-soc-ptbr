@@ -1,0 +1,48 @@
+2|<text>A luta acabou! O desafiante amarelou e nao apareceu para lutar!</text>
+5|<text>10 segundos se passaram!</text>
+8|<text>20 segundos se passaram!</text>
+11|<text>30 segundos se passaram!</text>
+14|<text>40 segundos se passaram!</text>
+17|<text>50 segundos se passaram!</text>
+20|<text>1 minuto de luta!</text>
+23|<text>1 minuto e 10 segundos se passaram!</text>
+26|<text>1 minuto e 20 segundos se passaram!</text>
+29|<text>1 minuto e 30 segundos se passaram!</text>
+32|<text>A luta comecou!</text>
+35|<text>Atencao! Atencao! Uma nova luta esta prestes a comecar na Arena! No canto esquerdo - o pesadelo mais temido da Zona, o faminto Sanguessuga! E no canto direito... Um homem? Sim, e um homem! Seus aplausos para o Marca!</text>
+38|<text>Atencao! Atencao! Uma nova luta esta prestes a comecar na Arena! No canto esquerdo - o proprio mestre do kung-fu que dobra colheres - o Lancador! E no canto direito - o homem constantemente em alerta! Eles o chamam de Marca!</text>
+41|<text>Entao, o desafiante foi morto! Que surpresa!</text>
+44|<text>Bem, o desafiante matou seu oponente, mas nao fez isso a tempo. Ele perde a luta!</text>
+47|<text>Atencao! Atencao! Uma nova luta esta prestes a comecar na Arena. No canto esquerdo - e branco, e fofo e esta irritado como o inferno... O Pseudocao! E no canto direito - ele veio do nada e e exatamente para onde esta indo. Eles o chamam de Marca!</text>
+50|<text>Atencao! Atencao! Uma nova luta esta prestes a comecar na Arena. No canto esquerdo - voce o conhece, voce o ama, e ele te odeia de volta! E a Fera! E no canto direito - vivo e chutando, pelo menos por enquanto - o Marca!</text>
+53|<text>Atencao! Atencao! Uma nova luta esta prestes a comecar na Arena! No canto esquerdo - o guru das artes marciais e especialista em saude - o Snorkel! E no canto direito - o homem sem passado e sem futuro. Eles o chamam de Marca!</text>
+56|<text>O tempo acabou! O desafiante perdeu, mas ainda esta lutando por sua vida!</text>
+59|<text>Ho! O desafiante matou seu oponente a tempo! Ele vence!</text>
+62|<text>Como desejar.</text>
+65|<text>Por favor, nao va, amigo! Ajude-nos! Os anarquistas derrubaram nosso helicoptero e agora estao vindo para nos matar. Temos feridos aqui! Precisamos da sua ajuda!</text>
+68|<text>Ha! Onde esta seu helicoptero agora, ratos do governo? Seu tempo acabou!</text>
+71|<text>Voce realmente conseguiu desta vez, Galgo. Um helicoptero militar esta a caminho. Eles vao fazer picadinho de voce!</text>
+74|<text>Kruglov escapou! Encontre-o! Ele nao pode ter ido muito longe.</text>
+77|<text>Ajude-me, Marca! Eles estao me matando!!!</text>
+80|<text>Continue sonhando, cachorro! Volte para a escola antes de comecar a dar ultimatos.</text>
+83|<text>Nao ataque, ou destruirei os dados. Voce nao tera nada!</text>
+86|<text>Se voce nao quer que eu destrua os materiais de pesquisa, e melhor ficar longe!</text>
+89|<text>Pegue seus caes, Galgo, e saia daqui enquanto ainda pode andar.</text>
+92|<text>Chega de conversa. Vamos matar!</text>
+95|<text>Ei, venha aqui, cara! Podemos acabar com os ratos do governo juntos.</text>
+98|<text>Seu bastardo! Voce vai pagar por nos armar. Nao se esqueca disso, Marca.</text>
+101|<text>Eles estao nos seguindo?! Marca, voce deve para-los!</text>
+104|<text>Pensei que voces, cientistas, fossem inteligentes. Vou simplificar: ou voce me da os documentos, ou sai daqui em um saco plastico.</text>
+107|<text>Eu posso nao saber latim, Kruglov, mas voce nao acreditaria o quao fluente eu sou em violencia. Voce gostaria que eu falasse isso para voce, ou voce vai me dar as informacoes que preciso?</text>
+110|<text>Voce e um homem esperto, professor. De-me as informacoes e voce esta livre para ir!</text>
+113|<text>Voce simplesmente nao entende, nao e, Kruglov? Derrubamos seu helicoptero estupido e precisamos das informacoes que voce esta carregando. De-nos e voce pode levar seus amigos e sair daqui. E sua ultima chance. Entregue-me esse pendrive e suma!</text>
+116|<text>Venha aqui rapido! Meus rapazes pegaram um stalker louco na Floresta Vermelha. Estamos tentando obter algumas informacoes dele agora mesmo!</text>
+119|<text>Marca, voce e louco?! Pare de atirar AGORA! Isso e uma ordem!</text>
+122|<text>Pare de atirar AGORA, Marca! Faca o que eu digo ou voce e um homem morto!</text>
+125|<text>Voce esta expulso do grupo por quebrar o Codigo, Marca. Voce nao tem amigos no Dever agora.</text>
+128|<text>Marca, voce desobedeceu uma ordem direta. O Dever nao perdoa coisas assim. Voce e carne morta.</text>
+131|<text>Pare de atirar! Nao atire em territorio do Dever! Aqueles que quebrarem as regras serao punidos!</text>
+134|<text>Atencao! O Marca foi declarado criminoso por quebrar a lei e atirar dentro do territorio do Dever.</text>
+137|<text>Atencao! Ha um assassino em territorio do Dever. Encontre-o e mate-o!</text>
+140|<text>Voce, stalker, nos ajude! Fomos atacados por Mercs e metade de nossa equipe foi morta. Ajude-nos e prometo que voce nao se arrependera.</text>
+143|<text>Ajude-nos a lutar contra a emboscada na fabrica. Transfiri as coordenadas para voce. Apenas tenha cuidado, Galgo e seus assassinos estao perto do helicoptero.</text>

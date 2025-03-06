@@ -1,144 +1,144 @@
 	<string id="bar_arena_actor_afraid">
-		<text>The fight is off! The challenger got cold feet and didn't come out to fight at all!</text>
+		<text>A luta acabou! O desafiante amarelou e nao apareceu para lutar!</text>
 	</string>
 	<string id="bar_arena_fight_10">
-		<text>10 seconds have elapsed!</text>
+		<text>10 segundos se passaram!</text>
 	</string>
 	<string id="bar_arena_fight_20">
-		<text>20 seconds have elapsed!</text>
+		<text>20 segundos se passaram!</text>
 	</string>
 	<string id="bar_arena_fight_30">
-		<text>30 seconds have elapsed!</text>
+		<text>30 segundos se passaram!</text>
 	</string>
 	<string id="bar_arena_fight_40">
-		<text>40 seconds have elapsed!</text>
+		<text>40 segundos se passaram!</text>
 	</string>
 	<string id="bar_arena_fight_50">
-		<text>50 seconds have elapsed!</text>
+		<text>50 segundos se passaram!</text>
 	</string>
 	<string id="bar_arena_fight_60">
-		<text>1 minute into the fight!</text>
+		<text>1 minuto de luta!</text>
 	</string>
 	<string id="bar_arena_fight_70">
-		<text>1 minute and 10 seconds have elapsed!</text>
+		<text>1 minuto e 10 segundos se passaram!</text>
 	</string>
 	<string id="bar_arena_fight_80">
-		<text>1 minute and 20 seconds have elapsed!</text>
+		<text>1 minuto e 20 segundos se passaram!</text>
 	</string>
 	<string id="bar_arena_fight_90">
-		<text>1 minute and 30 seconds have elapsed!</text>
+		<text>1 minuto e 30 segundos se passaram!</text>
 	</string>
 	<string id="bar_arena_fight_begin">
-		<text>The fight has started!</text>
+		<text>A luta comecou!</text>
 	</string>
 	<string id="bar_arena_fight_bloodsucker">
-		<text>Attention! Attention! A new fight is about to start in the Arena! In the left corner - the Zone's most dreaded nightmare, the ever-hungry Bloodsucker! And in the right corner... A man? Yes, it's a man! Your applause please for the Marked One!</text>
+		<text>Atencao! Atencao! Uma nova luta esta prestes a comecar na Arena! No canto esquerdo - o pesadelo mais temido da Zona, o faminto Sanguessuga! E no canto direito... Um homem? Sim, e um homem! Seus aplausos para o Marca!</text>
 	</string>
 	<string id="bar_arena_fight_burer">
-		<text>Attention! Attention! A new fight is about to start in the Arena! In the left corner - the spoon-bending kung-fu master himself - the Burer! And in the right corner - the man constantly on the lookout! They call him the Marked One!</text>
+		<text>Atencao! Atencao! Uma nova luta esta prestes a comecar na Arena! No canto esquerdo - o proprio mestre do kung-fu que dobra colheres - o Lancador! E no canto direito - o homem constantemente em alerta! Eles o chamam de Marca!</text>
 	</string>
 	<string id="bar_arena_fight_dead">
-		<text>So, the challenger has been killed! Now there's a surprise!</text>
+		<text>Entao, o desafiante foi morto! Que surpresa!</text>
 	</string>
 	<string id="bar_arena_fight_lose">
-		<text>Well, the challenger killed his opponent, but he didn't do it in time. He loses the fight!</text>
+		<text>Bem, o desafiante matou seu oponente, mas nao fez isso a tempo. Ele perde a luta!</text>
 	</string>
 	<string id="bar_arena_fight_pseudodog">
-		<text>Attention! Attention! A new fight is about to start in the Arena. In the left corner - it's white, it's fluffy and it's pissed off like hell... The Pseudodog! And in the right corner - he came from nowhere and that's precisely where he's headed. They call him the Marked One!</text>
+		<text>Atencao! Atencao! Uma nova luta esta prestes a comecar na Arena. No canto esquerdo - e branco, e fofo e esta irritado como o inferno... O Pseudocao! E no canto direito - ele veio do nada e e exatamente para onde esta indo. Eles o chamam de Marca!</text>
 	</string>
 	<string id="bar_arena_fight_savage">
-		<text>Attention! Attention! A new fight is about to start in the Arena. In the left corner - you know him, you love him, and he hates you right back! It's the Beast! And in the right corner - alive and kicking, at least for the moment - the Marked One!</text>
+		<text>Atencao! Atencao! Uma nova luta esta prestes a comecar na Arena. No canto esquerdo - voce o conhece, voce o ama, e ele te odeia de volta! E a Fera! E no canto direito - vivo e chutando, pelo menos por enquanto - o Marca!</text>
 	</string>
 	<string id="bar_arena_fight_snork">
-		<text>Attention! Attention! A new fight is about to start in the Arena! In the left corner - the martial arts guru and health specialist - the Snork! And in the right corner - the man with no past and no future. They call him the Marked One!</text>
+		<text>Atencao! Atencao! Uma nova luta esta prestes a comecar na Arena! No canto esquerdo - o guru das artes marciais e especialista em saude - o Snorkel! E no canto direito - o homem sem passado e sem futuro. Eles o chamam de Marca!</text>
 	</string>
 	<string id="bar_arena_fight_timeout">
-		<text>The time's up! The challenger lost, but he's still fighting for his life!</text>
+		<text>O tempo acabou! O desafiante perdeu, mas ainda esta lutando por sua vida!</text>
 	</string>
 	<string id="bar_arena_fight_victory">
-		<text>Ho! The challenger killed his opponent in time! He wins!</text>
+		<text>Ho! O desafiante matou seu oponente a tempo! Ele vence!</text>
 	</string>
 	<string id="bar_ecolog_attack">
-		<text>As you wish.</text>
+		<text>Como desejar.</text>
 	</string>
 	<string id="bar_ecolog_crush_attract_actor">
-		<text>Please, don't go, friend! Help us! The anarchists shot down our helicopter, and now they are coming to finish us off. We have wounded here! We need your help!</text>
+		<text>Por favor, nao va, amigo! Ajude-nos! Os anarquistas derrubaram nosso helicoptero e agora estao vindo para nos matar. Temos feridos aqui! Precisamos da sua ajuda!</text>
 	</string>
 	<string id="bar_ecolog_crush_heli_down">
-		<text>Ha! Where's your chopper now, government rats? Your time is up!</text>
+		<text>Ha! Onde esta seu helicoptero agora, ratos do governo? Seu tempo acabou!</text>
 	</string>
 	<string id="bar_ecolog_crush_start_heli">
-		<text>You've really done it this time, Wolfhound. A military chopper is on its way. They're gonna make mincemeat out of you!</text>
+		<text>Voce realmente conseguiu desta vez, Galgo. Um helicoptero militar esta a caminho. Eles vao fazer picadinho de voce!</text>
 	</string>
 	<string id="bar_ecolog_escape">
-		<text>Kruglov escaped! Find him! He couldn't have gone very far.</text>
+		<text>Kruglov escapou! Encontre-o! Ele nao pode ter ido muito longe.</text>
 	</string>
 	<string id="bar_ecolog_hit">
-		<text>Help me, Marked One! They're killing me!!!</text>
+		<text>Ajude-me, Marca! Eles estao me matando!!!</text>
 	</string>
 	<string id="bar_ecolog_spam_1">
-		<text>Keep on dreaming, dog! Go back to school before you start giving ultimatums.</text>
+		<text>Continue sonhando, cachorro! Volte para a escola antes de comecar a dar ultimatos.</text>
 	</string>
 	<string id="bar_ecolog_spam_2">
-		<text>Do not attack, or I will destroy the data. You'll get nothing!</text>
+		<text>Nao ataque, ou destruirei os dados. Voce nao tera nada!</text>
 	</string>
 	<string id="bar_ecolog_spam_3">
-		<text>If you don't want me to destroy the research materials, you better stay away!</text>
+		<text>Se voce nao quer que eu destrua os materiais de pesquisa, e melhor ficar longe!</text>
 	</string>
 	<string id="bar_ecolog_spam_4">
-		<text>Take your dogs, Wolfhound, and get outta here while you still can walk.</text>
+		<text>Pegue seus caes, Galgo, e saia daqui enquanto ainda pode andar.</text>
 	</string>
 	<string id="bar_freedom_attack">
-		<text>Enough talking. Let's do some killing!</text>
+		<text>Chega de conversa. Vamos matar!</text>
 	</string>
 	<string id="bar_freedom_attack_attract_actor">
-		<text>Hey, come here, man! We can finish the government rats off together.</text>
+		<text>Ei, venha aqui, cara! Podemos acabar com os ratos do governo juntos.</text>
 	</string>
 	<string id="bar_freedom_attack_spy">
-		<text>You bastard! You'll pay for setting us up. Don't you forget that, Marked One.</text>
+		<text>Seu bastardo! Voce vai pagar por nos armar. Nao se esqueca disso, Marca.</text>
 	</string>
 	<string id="bar_freedom_chase">
-		<text>Are they following us?! Marked One, you must stop them!</text>
+		<text>Eles estao nos seguindo?! Marca, voce deve para-los!</text>
 	</string>
 	<string id="bar_freedom_spam_1">
-		<text>I thought you scientists were supposed to be bright. I'm gonna make it real simple: either you give me the documents, or you leave here in a plastic bag.</text>
+		<text>Pensei que voces, cientistas, fossem inteligentes. Vou simplificar: ou voce me da os documentos, ou sai daqui em um saco plastico.</text>
 	</string>
 	<string id="bar_freedom_spam_2">
-		<text>I might not know Latin, Kruglov, but you wouldn't believe how fluent I am in violence. Would you like me to speak that to you, or are you going to give me the information I need?</text>
+		<text>Eu posso nao saber latim, Kruglov, mas voce nao acreditaria o quao fluente eu sou em violencia. Voce gostaria que eu falasse isso para voce, ou voce vai me dar as informacoes que preciso?</text>
 	</string>
 	<string id="bar_freedom_spam_3">
-		<text>You're a clever man, professor. Give me the information and you're free to go!</text>
+		<text>Voce e um homem esperto, professor. De-me as informacoes e voce esta livre para ir!</text>
 	</string>
 	<string id="bar_freedom_spam_4">
-		<text>You just don't get it, do you, Kruglov? We shot down your stupid chopper and we need the information you are carrying. Give it to us and you can take your friends and get the hell outta here. It's your last chance. Hand me that flash drive and scram!</text>
+		<text>Voce simplesmente nao entende, nao e, Kruglov? Derrubamos seu helicoptero estupido e precisamos das informacoes que voce esta carregando. De-nos e voce pode levar seus amigos e sair daqui. E sua ultima chance. Entregue-me esse pendrive e suma!</text>
 	</string>
 	<string id="bar_psih_come">
-		<text>Get over here, quick! My boys caught a crazy stalker by the Red forest. We're trying to get some info out of him right now!</text>
+		<text>Venha aqui rapido! Meus rapazes pegaram um stalker louco na Floresta Vermelha. Estamos tentando obter algumas informacoes dele agora mesmo!</text>
 	</string>
 	<string id="bar_territory_dolg_1_hit">
-		<text>Marked One, you crazy?! Stop firing NOW! That's an order!</text>
+		<text>Marca, voce e louco?! Pare de atirar AGORA! Isso e uma ordem!</text>
 	</string>
 	<string id="bar_territory_dolg_2_hit">
-		<text>Stop firing NOW, Marked One! Do as I say or you're a dead man!</text>
+		<text>Pare de atirar AGORA, Marca! Faca o que eu digo ou voce e um homem morto!</text>
 	</string>
 	<string id="bar_territory_dolg_3_hit">
-		<text>You're expelled from the group for breaking the Code, Marked One. You have no friends in Duty now.</text>
+		<text>Voce esta expulso do grupo por quebrar o Codigo, Marca. Voce nao tem amigos no Dever agora.</text>
 	</string>
 	<string id="bar_territory_dolg_kill">
-		<text>Marked One, you disobeyed a direct order. Duty does not forgive things like this. You're dead meat.</text>
+		<text>Marca, voce desobedeceu uma ordem direta. O Dever nao perdoa coisas assim. Voce e carne morta.</text>
 	</string>
 	<string id="bar_territory_nodolg_1_hit">
-		<text>Stop firing! No firing on Duty territory! Those who break the rules will be punished!</text>
+		<text>Pare de atirar! Nao atire em territorio do Dever! Aqueles que quebrarem as regras serao punidos!</text>
 	</string>
 	<string id="bar_territory_nodolg_2_hit">
-		<text>Attention! The Marked One has been declared a criminal for breaking the law and firing inside Duty territory.</text>
+		<text>Atencao! O Marca foi declarado criminoso por quebrar a lei e atirar dentro do territorio do Dever.</text>
 	</string>
 	<string id="bar_territory_nodolg_kill">
-		<text>Attention! There is a murderer on Duty territory. Find him and kill him!</text>
+		<text>Atencao! Ha um assassino em territorio do Dever. Encontre-o e mate-o!</text>
 	</string>
 	<string id="rostok_kruglov_spam_1">
-		<text>You, stalker, help us! We were attacked by Mercs and half of our team were killed. Help us and I promise you won't regret it.</text>
+		<text>Voce, stalker, nos ajude! Fomos atacados por Mercs e metade de nossa equipe foi morta. Ajude-nos e prometo que voce nao se arrependera.</text>
 	</string>
 	<string id="rostok_kruglov_spam_2">
-		<text>Help us fight through the ambush by the factory. I transferred the co-ordinates to you. Just be careful, Wolfhound and his cutthroats are by the helicopter.</text>
+		<text>Ajude-nos a lutar contra a emboscada na fabrica. Transfiri as coordenadas para voce. Apenas tenha cuidado, Galgo e seus assassinos estao perto do helicoptero.</text>
 	</string>

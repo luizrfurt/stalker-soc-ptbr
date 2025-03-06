@@ -1,27 +1,27 @@
 	<string id="gar_actor_looser">
-		<text>You're rubbish, Marked One. Totally useless! Don't expect gratitude - there's nothing to thank you for!</text>
+		<text>Voce e lixo, Marca. Totalmente inutil! Nao espere gratidao - nao ha nada para agradecer!</text>
 	</string>
 	<string id="gar_actor_normal">
-		<text>Not bad, stalker! You certainly shot yourself some mutants, but you ain't all that quick on the draw, are you? If you wanna pass, you'll have to cough up some cash.</text>
+		<text>Nada mal, stalker! Voce certamente abateu alguns mutantes, mas nao e tao rapido no gatilho, nao e? Se quiser passar, tera que desembolsar algum dinheiro.</text>
 	</string>
 	<string id="gar_actor_winner">
-		<text>Excellent, Marked One, you really helped us out there. I say that's payment enough for your pass. Go on to the Bar.</text>
+		<text>Excelente, Marca, voce realmente nos ajudou la. Eu digo que isso e pagamento suficiente para sua passagem. Va para o Bar.</text>
 	</string>
 	<string id="gar_direction_fire">
-		<text>Let them come closer so nobody can escape. I shoot first, you follow my lead.</text>
+		<text>Deixe-os se aproximarem para que ninguem escape. Eu atiro primeiro, voce segue meu exemplo.</text>
 	</string>
 	<string id="gar_dolg_blokpost_warning">
-		<text>You're on Duty territory, stalker. Fighting is not tolerated here.</text>
+		<text>Voce esta em territorio do Dever, stalker. Lutar nao e tolerado aqui.</text>
 	</string>
 	<string id="gar_dolg_monster_rush">
-		<text>Attention!! This is the Duty checkpoint. A horde of mutants is moving from the Dark Valley in the direction of the Bar. Anyone who helps us stop the monsters will not regret it.</text>
+		<text>Atencao!! Este e o posto de controle do Dever. Uma horda de mutantes esta se movendo do Vale Sombrio em direcao ao Bar. Quem nos ajudar a parar os monstros nao se arrependera.</text>
 	</string>
 	<string id="gar_dolg_warning">
-		<text>You're on Duty territory, stalker. Start messing around and you'll be eating through a straw for the rest of your life.</text>
+		<text>Voce esta em territorio do Dever, stalker. Comece a baguncar e voce estara comendo por um canudo pelo resto da sua vida.</text>
 	</string>
 	<string id="gar_hellcar_victory">
-		<text>Well done gents, we got 'em all. You lads take a little break now. You, stalker, come over here. Let's have a chat.</text>
+		<text>Bem feito, rapazes, pegamos todos eles. Voces podem fazer uma pequena pausa agora. Voce, stalker, venha aqui. Vamos bater um papo.</text>
 	</string>
 	<string id="tips_gar_hellcar_alarm">
-		<text>People, this is the commander of a neutral party. We pushed the bandits out from the abandoned vehicle park but they will probably try to retake it. We're low on numbers, so if you want to help, we'll save a spot for you.</text>
+		<text>Pessoal, este e o comandante de um grupo neutro. Expulsamos os bandidos do estacionamento de veiculos abandonados, mas eles provavelmente tentarao retoma-lo. Estamos com poucos numeros, entao, se voce quiser ajudar, guardaremos um lugar para voce.</text>
 	</string>

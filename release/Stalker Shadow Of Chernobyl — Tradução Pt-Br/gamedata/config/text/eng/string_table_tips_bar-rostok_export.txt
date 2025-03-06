@@ -1,0 +1,48 @@
+2|<text>The fight is off! The challenger got cold feet and didn't come out to fight at all!</text>
+5|<text>10 seconds have elapsed!</text>
+8|<text>20 seconds have elapsed!</text>
+11|<text>30 seconds have elapsed!</text>
+14|<text>40 seconds have elapsed!</text>
+17|<text>50 seconds have elapsed!</text>
+20|<text>1 minute into the fight!</text>
+23|<text>1 minute and 10 seconds have elapsed!</text>
+26|<text>1 minute and 20 seconds have elapsed!</text>
+29|<text>1 minute and 30 seconds have elapsed!</text>
+32|<text>The fight has started!</text>
+35|<text>Attention! Attention! A new fight is about to start in the Arena! In the left corner - the Zone's most dreaded nightmare, the ever-hungry Bloodsucker! And in the right corner... A man? Yes, it's a man! Your applause please for the Marked One!</text>
+38|<text>Attention! Attention! A new fight is about to start in the Arena! In the left corner - the spoon-bending kung-fu master himself - the Burer! And in the right corner - the man constantly on the lookout! They call him the Marked One!</text>
+41|<text>So, the challenger has been killed! Now there's a surprise!</text>
+44|<text>Well, the challenger killed his opponent, but he didn't do it in time. He loses the fight!</text>
+47|<text>Attention! Attention! A new fight is about to start in the Arena. In the left corner - it's white, it's fluffy and it's pissed off like hell... The Pseudodog! And in the right corner - he came from nowhere and that's precisely where he's headed. They call him the Marked One!</text>
+50|<text>Attention! Attention! A new fight is about to start in the Arena. In the left corner - you know him, you love him, and he hates you right back! It's the Beast! And in the right corner - alive and kicking, at least for the moment - the Marked One!</text>
+53|<text>Attention! Attention! A new fight is about to start in the Arena! In the left corner - the martial arts guru and health specialist - the Snork! And in the right corner - the man with no past and no future. They call him the Marked One!</text>
+56|<text>The time's up! The challenger lost, but he's still fighting for his life!</text>
+59|<text>Ho! The challenger killed his opponent in time! He wins!</text>
+62|<text>As you wish.</text>
+65|<text>Please, don't go, friend! Help us! The anarchists shot down our helicopter, and now they are coming to finish us off. We have wounded here! We need your help!</text>
+68|<text>Ha! Where's your chopper now, government rats? Your time is up!</text>
+71|<text>You've really done it this time, Wolfhound. A military chopper is on its way. They're gonna make mincemeat out of you!</text>
+74|<text>Kruglov escaped! Find him! He couldn't have gone very far.</text>
+77|<text>Help me, Marked One! They're killing me!!!</text>
+80|<text>Keep on dreaming, dog! Go back to school before you start giving ultimatums.</text>
+83|<text>Do not attack, or I will destroy the data. You'll get nothing!</text>
+86|<text>If you don't want me to destroy the research materials, you better stay away!</text>
+89|<text>Take your dogs, Wolfhound, and get outta here while you still can walk.</text>
+92|<text>Enough talking. Let's do some killing!</text>
+95|<text>Hey, come here, man! We can finish the government rats off together.</text>
+98|<text>You bastard! You'll pay for setting us up. Don't you forget that, Marked One.</text>
+101|<text>Are they following us?! Marked One, you must stop them!</text>
+104|<text>I thought you scientists were supposed to be bright. I'm gonna make it real simple: either you give me the documents, or you leave here in a plastic bag.</text>
+107|<text>I might not know Latin, Kruglov, but you wouldn't believe how fluent I am in violence. Would you like me to speak that to you, or are you going to give me the information I need?</text>
+110|<text>You're a clever man, professor. Give me the information and you're free to go!</text>
+113|<text>You just don't get it, do you, Kruglov? We shot down your stupid chopper and we need the information you are carrying. Give it to us and you can take your friends and get the hell outta here. It's your last chance. Hand me that flash drive and scram!</text>
+116|<text>Get over here, quick! My boys caught a crazy stalker by the Red forest. We're trying to get some info out of him right now!</text>
+119|<text>Marked One, you crazy?! Stop firing NOW! That's an order!</text>
+122|<text>Stop firing NOW, Marked One! Do as I say or you're a dead man!</text>
+125|<text>You're expelled from the group for breaking the Code, Marked One. You have no friends in Duty now.</text>
+128|<text>Marked One, you disobeyed a direct order. Duty does not forgive things like this. You're dead meat.</text>
+131|<text>Stop firing! No firing on Duty territory! Those who break the rules will be punished!</text>
+134|<text>Attention! The Marked One has been declared a criminal for breaking the law and firing inside Duty territory.</text>
+137|<text>Attention! There is a murderer on Duty territory. Find him and kill him!</text>
+140|<text>You, stalker, help us! We were attacked by Mercs and half of our team were killed. Help us and I promise you won't regret it.</text>
+143|<text>Help us fight through the ambush by the factory. I transferred the co-ordinates to you. Just be careful, Wolfhound and his cutthroats are by the helicopter.</text>

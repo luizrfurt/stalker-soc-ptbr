@@ -1,0 +1,8 @@
+2|<text>O que aconteceu? Ele esta morto? Volte imediatamente!</text>
+5|<text>O que aconteceu? Ele esta morto? Pegue as amostras e volte imediatamente!</text>
+8|<text>Gravacao de audio de Fantasma.</text>
+11|<text>Gravacao de audio de Vasiliev.</text>
+14|<text>Para desligar a maquina milagrosa, pressione ($$ACTION_USE$$)</text>
+17|<text>Bom homem, Marca, voce conseguiu afinal. E extremamente importante que estudemos a maquina no laboratorio. Tente desliga-la para que possamos dar uma olhada.</text>
+20|<text>Escute, este prototipo nao o protegera de emissoes poderosas por muito tempo. Eu esperava isso, entao, toda vez que uma emissao e detectada, um cronometro e ativado. Quando o tempo acabar, o prototipo nao o protegera mais, entao tenha cuidado e fique de olho no tempo.</text>
+23|<text>Otimo trabalho, Marca. A emissao foi desligada e voce ainda esta vivo. Preciso avisa-lo, no entanto. Chamamos alguns helicopteros militares para limpar a area de zumbis. E aconselhavel que voce nao vagueie por ai, a menos que precise. Ah, e a proposito, apareca em nosso bunker de vez em quando, certo?</text>

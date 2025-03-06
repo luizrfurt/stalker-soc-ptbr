@@ -1,0 +1,4 @@
+2|<text>Marked One!? You're alive!? Great! So you managed to turn off the Scorcher, eh? Everyone is trying to get to the center of the Zone through Pripyat. Nobody knows what's there...maybe a treasure trove of artifacts or maybe something that makes all wishes come true.\n There's a party of veterans preparing to go there right now. If you hurry up you just might make it in time to join them. I'll let them know you're coming so they wait for you.</text>
+5|<text>Teams one and two - check the first floor, team three - main hall, four and five - check the second floor</text>
+8|<text>...help me, I'm dying...</text>
+11|<text>To turn the machine off, press ($$ACTION_USE$$)</text>
