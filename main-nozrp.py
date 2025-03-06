@@ -234,4 +234,4 @@ if __name__ == "__main__":
 
     # 7. cria um arquivo zip com os arquivos necessários para a release
     # create release zip
-    create_release_zip()
+    # create_release_zip()
