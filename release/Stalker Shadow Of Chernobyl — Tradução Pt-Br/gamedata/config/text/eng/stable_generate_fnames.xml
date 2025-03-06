@@ -170,22 +170,22 @@
 		<text>Bodya</text>
 	</string>
 	<string id="name_captain_0">
-		<text>Captain</text>
+		<text>Capitao</text>
 	</string>
 	<string id="name_captain_1">
-		<text>Captain</text>
+		<text>Capitao</text>
 	</string>
 	<string id="name_lieutenant_0">
-		<text>Lt.</text>
+		<text>Tenente.</text>
 	</string>
 	<string id="name_lieutenant_1">
-		<text>Lt.</text>
+		<text>Tenente.</text>
 	</string>
 	<string id="name_private_0">
-		<text>Private</text>
+		<text>Soldado</text>
 	</string>
 	<string id="name_private_1">
-		<text>Private</text>
+		<text>Soldado</text>
 	</string>
 	<string id="name_science_0">
 		<text>Andrei</text>
@@ -236,10 +236,10 @@
 		<text>Alexei</text>
 	</string>
 	<string id="name_sergeant_0">
-		<text>Sergeant</text>
+		<text>Sargento</text>
 	</string>
 	<string id="name_sergeant_1">
-		<text>Sergeant</text>
+		<text>Sargento</text>
 	</string>
 	<string id="name_stalker_0">
 		<text>Sanya</text>

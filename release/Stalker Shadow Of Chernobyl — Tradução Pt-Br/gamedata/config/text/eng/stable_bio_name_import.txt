@@ -1,0 +1,307 @@
+2|<text>Sentinela do grupo Monolito. E melhor ficar longe dele. Detalhes nao disponiveis.</text>
+5|<text>Stalker do grupo Monolito. Detalhes nao disponiveis.</text>
+8|<text>Stalker do grupo Monolito. Detalhes nao disponiveis.</text>
+11|<text>Stalker do grupo Monolito. Detalhes nao disponiveis.</text>
+14|<text>Militante do grupo Monolito. Bem equipado. Detalhes nao disponiveis.</text>
+17|<text>Comandante da incursao militar.</text>
+20|<text>Stalker militar. Bem armado e altamente perigoso. Detalhes nao disponiveis.</text>
+23|<text>Detalhes nao disponiveis.</text>
+26|<text>Forcas Especiais do Exercito. Bem equipado. Detalhes nao disponiveis.</text>
+29|<text>Vasil "Sem sorte"</text>
+32|<text>Forcas Especiais do Exercito. Bem equipado. Detalhes nao disponiveis.</text>
+35|<text>Ex-escavador que invade todos os laboratorios e bunkers desertos que ele e seus associados encontram.</text>
+38|<text>Toupeira</text>
+41|<text>Um dos participantes das lutas mortais na Arena. Detalhes nao disponiveis.</text>
+44|<text>Contrabandista experiente. Ganhou fama contrabandeando varias centenas de mutantes empalhados para fora da area restrita em um curto periodo de tempo.</text>
+47|<text>Arnie</text>
+50|<text>Seguranca no bar. Ou guarda-costas do Bartender, se preferir. Nada se sabe sobre seu presente ou seu passado.</text>
+53|<text>Garik</text>
+56|<text>Irmao gemeo de Garik. Seguranca no bar. Tao calado quanto seu irmao.</text>
+59|<text>Zhorik</text>
+62|<text>Nem santo, nem canalha. O Bartender conhece seu valor e e respeitado por todos os stalkers. Corre o boato de que ele esta se escondendo na Zona de alguns eventos sombrios em seu passado. Apos um encontro com a anomalia, ele comecou a mancar levemente e decidiu mudar de emprego. Ele montou um bar perto da faccao Dever, e o local gradualmente se transformou no ponto de encontro para todos os veteranos da Zona. O Bartender tem inumeras conexoes tanto na Zona quanto no mundo exterior.</text>
+65|<text>Bartender</text>
+68|<text>Fera</text>
+71|<text>Membro da faccao Dever, mais vezes fora do vagao do que nele. O Dever deu a ele sua ultima chance de redencao ao realizar uma missao. No entanto, ele estava muito bebado para se recompor e realiza-la.</text>
+74|<text>Bromo</text>
+77|<text>Cara bem-humorado e alegre cujo unico problema e que ele nao consegue atirar com nada alem de um rifle de caca. Cacador nem experimentou outras armas ultimamente. Ele recentemente se envolveu em uma briga no Territorio Selvagem e perdeu seu rifle de familia. Agora ele esta descansando no bar esperando que alguem devolva seu rifle.</text>
+80|<text>Cacador</text>
+83|<text>Stalker misterioso e sabichao. Troca informacoes no bar.</text>
+86|<text>Dedo-duro</text>
+89|<text>Comandante de todas as incursoes punitivas e expedicoes contra qualquer horda de mutantes.</text>
+92|<text>Capitao Ivantsov</text>
+95|<text>Sargento Kitsenko</text>
+98|<text>Guarda-costas do dono da Arena. Nao se sabe muito sobre seu passado, mas tudo e ruim. Ele odeia seus irmaos.</text>
+101|<text>Liolik</text>
+104|<text>Careca</text>
+107|<text>Um dos fundadores do Dever e seu principal idealizador ao mesmo tempo. Responsavel pelo codigo sagrado da faccao, ele recrutou basicamente todos os membros-chave do Dever.</text>
+110|<text>Coronel Petrenko</text>
+113|<text>Chefe da seguranca do territorio do Dever</text>
+116|<text>Sargento Plichko</text>
+119|<text>Estranho afetado pelo Desintegrador Psiquico.</text>
+122|<text>Sardento</text>
+125|<text>Um dos fundadores do Dever e seu principal idealizador. Responsavel pelo codigo sagrado da faccao. Ele recrutou quase todos os membros-chave do Dever.</text>
+128|<text>General Voronin</text>
+131|<text>Bebado.</text>
+134|<text>Stalker desconhecido. Reputacao desagradavel. Detalhes nao disponiveis.</text>
+137|<text>Stalker desconhecido. Reputacao desagradavel. Detalhes nao disponiveis.</text>
+140|<text>Um dos lideres dos bandidos. Bem armado e altamente perigoso. Detalhes nao disponiveis.</text>
+143|<text>Borziy</text>
+146|<text>Dr.</text>
+149|<text>Doutor</text>
+152|<text>Mercenario desconhecido. Bem armado e altamente perigoso. Detalhes nao disponiveis.</text>
+155|<text>Mercenario desconhecido. Possivelmente bem armado. Detalhes nao disponiveis.</text>
+158|<text>Lider da gangue Merc. Bem armado e altamente perigoso. Detalhes nao disponiveis.</text>
+161|<text>Dushman</text>
+164|<text>Stalker experiente. Detalhes nao disponiveis.</text>
+167|<text>Vasily Petrovich</text>
+170|<text>Nenhuma informacao disponivel.</text>
+173|<text>Stalker experiente. Sempre mantem os olhos abertos.</text>
+176|<text>Zheka Dupleto</text>
+179|<text>Kalugin P.I.</text>
+182|<text>Sargento regular do Exercito Ucraniano. Detalhes nao disponiveis.</text>
+185|<text>Soldado raso regular do Exercito Ucraniano. Detalhes nao disponiveis.</text>
+188|<text>Stalker desconhecido. Reputacao desagradavel. Detalhes nao disponiveis.</text>
+191|<text>Capitao de longa data do Exercito Ucraniano. Detalhes nao disponiveis.</text>
+194|<text>Assumiu a lideranca no acampamento de novatos depois de Lobo. Cheio de proposito, agressivo e tem autoridade bem merecida sobre os recem-chegados.</text>
+197|<text>Fanatico</text>
+200|<text>Errante velho endurecido pela Zona.</text>
+203|<text>Raposo</text>
+206|<text>Mercenario desconhecido. Possivelmente bem armado. Detalhes nao disponiveis.</text>
+209|<text>Novato esperto. Lobo parece gostar dele e muitas vezes o envia em missoes importantes.</text>
+212|<text>Petruha</text>
+215|<text>Uma lenda viva, de certa forma. Dizem que ele pode leva-lo a absolutamente qualquer lugar na Zona. Seus servicos sao caros e nao estao disponiveis para qualquer um. Se ele nao gostar de voce, nao o levara por todo o dinheiro do mundo. Um veterano, percorreu toda a Zona.</text>
+218|<text>Guia</text>
+221|<text>Sargento regular do Exercito Ucraniano. Detalhes nao disponiveis.</text>
+224|<text>Stalker que recebeu seu nome por ser quase invisivel e verdadeiramente indispensavel. O comerciante recorre a ele para missoes delicadas, como espionar alguem, bisbilhotar e escutar.</text>
+227|<text>Esperto</text>
+230|<text>Major comandando o posto avancado do exercito perto da ponte. Conhecido por aceitar subornos de stalkers para deixa-los passar pela ponte.</text>
+233|<text>Major Kuznetsov</text>
+236|<text>Soldado raso regular do Exercito Ucraniano. Detalhes nao disponiveis.</text>
+239|<text>Forcas Especiais. Bem equipado. Detalhes nao disponiveis.</text>
+242|<text>Mercenario desconhecido. Bem armado e altamente perigoso. Detalhes nao disponiveis.</text>
+245|<text>Novato. Novo na Zona. Detalhes nao disponiveis.</text>
+248|<text>Stalker tipico.</text>
+251|<text>Tolik</text>
+254|<text>Chefe do acampamento de novatos. Um velho stalker planejando fugir.</text>
+257|<text>Lobo</text>
+260|<text>Tem ganhado a vida desde a infancia negociando. No jardim de infancia, ele vendia giz de cera. No ensino medio, passou a vender chiclete. No Instituto, lidava com drogas leves. Assim que a Zona surgiu, ele percebeu seu potencial de ganhar dinheiro. Famoso por ser capaz de construir fortes relacoes comerciais com qualquer tipo de cliente mal classificado.</text>
+263|<text>Sidorovich</text>
+266|<text>Tem certa autoridade com os bandidos na Zona. Comparsa de Borov.</text>
+269|<text>Vasya Javali</text>
+272|<text>Um stalker da faccao Dever. Detalhes nao disponiveis.</text>
+275|<text>Oficial da faccao Dever. Detalhes nao disponiveis.</text>
+278|<text>Suboficial</text>
+281|<text>Novato. Esta abrindo caminho na Zona.</text>
+284|<text>Yurik</text>
+287|<text>Escondendo-se na Zona da lei. Tenta manter a ordem na Zona em seus termos. Luta contra os bandidos. Cruel, mas justo.</text>
+290|<text>Bes</text>
+293|<text>Novato. Novo na Zona. Detalhes nao disponiveis.</text>
+296|<text>Stalker com um rosto tao sujo quanto sua consciencia.</text>
+299|<text>Seriy</text>
+302|<text>Um stalker experiente. Detalhes nao disponiveis.</text>
+305|<text>Militante da faccao Dever. Geralmente bem equipado. Detalhes nao disponiveis.</text>
+308|<text>Comandante das forcas especiais da faccao Dever. Geralmente bem equipado.</text>
+311|<text>Cranio</text>
+314|<text>Um combatente da faccao Dever. Geralmente bem equipado. Detalhes nao disponiveis.</text>
+317|<text>Um dedo-duro conhecido em toda a Zona.</text>
+320|<text>Ara</text>
+323|<text>Mercenario desconhecido. Bem armado e altamente perigoso. Detalhes nao disponiveis.</text>
+326|<text>Mercenario desconhecido. Aparentemente novo na Zona. Detalhes nao disponiveis.</text>
+329|<text>Mercenario desconhecido. Possivelmente bem armado. Detalhes nao disponiveis.</text>
+332|<text>Sentinela do grupo Monolito. E melhor ficar longe dele. Detalhes nao disponiveis.</text>
+335|<text>Stalker do grupo Monolito. Detalhes nao disponiveis.</text>
+338|<text>Um dos veteranos. Conhece a Zona como a palma da mao. Geralmente bem equipado e altamente perigoso. Detalhes nao disponiveis.</text>
+341|<text>Stalker veterano. Possivelmente bem equipado. Detalhes nao disponiveis.</text>
+344|<text>Stalker da faccao Liberdade. Comandante da barreira. O homem que uniu um grupo de pessoas dispostas a sacrificar suas vidas pela causa comum.</text>
+347|<text>Cap</text>
+350|<text>Guarda-costas que trabalha para Lukash, o lider da faccao Liberdade.</text>
+353|<text>O cozinheiro da faccao Liberdade. Um beberrao e brigao, mas um excelente cozinheiro.</text>
+356|<text>Chef</text>
+359|<text>Um mecanico renomado em toda a Zona. Pode fazer um tanque de um trator ou assim diz a historia.</text>
+362|<text>Durao</text>
+365|<text>Lider da faccao Liberdade.</text>
+368|<text>Lukash</text>
+371|<text>Comandante da faccao Liberdade. Detalhes nao disponiveis.</text>
+374|<text>Guarda da faccao Liberdade. Um fanatico. Muito bem equipado e altamente perigoso. Detalhes nao disponiveis.</text>
+377|<text>Max</text>
+380|<text>Guarda da faccao Liberdade. Muito bem equipado e altamente perigoso. Detalhes nao disponiveis.</text>
+383|<text>Sombra</text>
+386|<text>Stalker da faccao Liberdade. Detalhes nao disponiveis.</text>
+389|<text>Sniper da faccao Liberdade. Detalhes nao disponiveis.</text>
+392|<text>Militante da faccao Liberdade. Geralmente bem equipado. Detalhes nao disponiveis.</text>
+395|<text>Stalker da faccao Liberdade. Detalhes nao disponiveis.</text>
+398|<text>Pavlik</text>
+401|<text>Infame por sua ganancia e nao conformidade, mas dizem que ele pode conseguir qualquer coisa para voce.</text>
+404|<text>Avarento</text>
+407|<text>Stalker da faccao Liberdade. Detalhes nao disponiveis.</text>
+410|<text>Stalker insano da faccao Liberdade.</text>
+413|<text>Militante da faccao Liberdade. Geralmente bem equipado. Detalhes nao disponiveis.</text>
+416|<text>Sasha Bely</text>
+419|<text>Stalker veterano. Possivelmente bem equipado. Detalhes nao disponiveis.</text>
+422|<text>Stalker do grupo Monolito. Detalhes nao disponiveis.</text>
+425|<text>Stalker de elite do grupo Monolito. Detalhes nao disponiveis.</text>
+428|<text>Lider do grupo Monolito. Detalhes nao disponiveis.</text>
+431|<text>Caronte</text>
+434|<text>Stalker regular do grupo Monolito. Detalhes nao disponiveis.</text>
+437|<text>Stalker das forcas especiais do grupo Monolito. Detalhes nao disponiveis.</text>
+440|<text>Soldado regular. Detalhes nao disponiveis.</text>
+443|<text>Soldado zumbificado</text>
+446|<text>Um dos stalkers que ficaram sem sorte.</text>
+449|<text>Stalker zumbificado</text>
+452|<text>Comandante da faccao Dever. Muito bem equipado. Detalhes nao disponiveis.</text>
+455|<text>Cientista. Detalhes nao disponiveis.</text>
+458|<text>Seguranca dos cientistas. Detalhes nao disponiveis.</text>
+461|<text>Assistente de pesquisa.</text>
+464|<text>Assistente de pesquisa.</text>
+467|<text>Stalker do grupo Monolito. Detalhes nao disponiveis.</text>
+470|<text>Militante do grupo Monolito. Bem equipado. Detalhes nao disponiveis.</text>
+473|<text>Forcas Especiais. Bem equipado. Detalhes nao disponiveis.</text>
+476|<text>Um dos veteranos. Conhece a Zona como a palma da mao. Geralmente bem equipado e altamente perigoso. Detalhes nao disponiveis.</text>
+479|<text>Stalker veterano. Possivelmente bem equipado. Detalhes nao disponiveis.</text>
+482|<text>Comandante da faccao Liberdade. Detalhes nao disponiveis.</text>
+485|<text>Um dos stalkers que ficaram sem sorte.</text>
+488|<text>Um pesquisador do laboratorio movel. Detalhes nao disponiveis.</text>
+491|<text>Cientista, especialista em fenomenos anomalos. Trabalhou na America em projetos ultrassecretos. Dado como desaparecido ha algum tempo.</text>
+494|<text>Freeman</text>
+497|<text>Saqueador e assassino. Uma recompensa foi colocada por sua cabeca. Anteriormente em bons termos com o Dever, ajudou-os a conquistar seu territorio. Agora habita o Territorio Selvagem e assalta stalkers solitarios com sua gangue.</text>
+500|<text>Sortudo</text>
+503|<text>Doutor em biologia. Estudou mutacoes patogenicas em animais fora da Zona. Veio para a Zona para estudar mutacoes de caes cegos.</text>
+506|<text>Professor Kruglov</text>
+509|<text>Um dos "herois" da gangue Merc. Um veterano com balas de todos os calibres em seu corpo. Um psicopata e sadico raro.</text>
+512|<text>Tirano</text>
+515|<text>Um dos primeiros comandantes de campo dos Mercs. O lider da gangue que se autodenomina "Curs". Um anarquista que despreza todas as leis, exceto a lei da selva.</text>
+518|<text>Galgo</text>
+521|<text>Stalker do grupo Monolito. Detalhes nao disponiveis.</text>
+524|<text>Stalker do grupo especial "Cristal" do Monolito, responsavel pela seguranca do proprio Monolito.</text>
+527|<text>Arnie</text>
+530|<text>Fera</text>
+533|<text>Vasya "Javali"</text>
+536|<text>Uma forma psicomaterial criada pelo Monolito.</text>
+539|<text>Borov</text>
+542|<text>Stalker insano.</text>
+545|<text>Suboficial</text>
+548|<text>Chefe de seguranca</text>
+551|<text>"Cranio"</text>
+554|<text>Comandante do posto avancado</text>
+557|<text>Yurik</text>
+560|<text>Zheka "Dupleto"</text>
+563|<text>"Fanatico"</text>
+566|<text>"Raposo"</text>
+569|<text>Gordon</text>
+572|<text>Caronte</text>
+575|<text>Bes</text>
+578|<text>Ara</text>
+581|<text>Capitao Ivantsov</text>
+584|<text>Stalker Toupeira</text>
+587|<text>Professor Kruglov</text>
+590|<text>Major Kuznetsov</text>
+593|<text>Sortudo</text>
+596|<text>Coronel Petrenko</text>
+599|<text>Zhorik</text>
+602|<text>Professor Sakharov</text>
+605|<text>Sardento</text>
+608|<text>"Seriy"</text>
+611|<text>"Cap"</text>
+614|<text>"Kaput"</text>
+617|<text>"Chef"</text>
+620|<text>Durao</text>
+623|<text>"Lukash"</text>
+626|<text>"Max"</text>
+629|<text>Pavlik</text>
+632|<text>"Avarento"</text>
+635|<text>"Sombra"</text>
+638|<text>Tirano</text>
+641|<text>Tolik</text>
+644|<text>Galgo</text>
+647|<text>General Voronin</text>
+650|<text>"Lobo"</text>
+653|<text>Stalker desconhecido. Reputacao desagradavel. Detalhes nao disponiveis.</text>
+656|<text>Stalker desconhecido. Reputacao desagradavel. Detalhes nao disponiveis.</text>
+659|<text>Veio para a Zona em busca de aventura. Imita os personagens dos quadrinhos populares dos anos 60. Usa nomes diferentes: Badman, Macho, o Casaco Preto, Banderos. Mesmo tendo sobrevivido na Zona por dois anos inteiros, ninguem o leva a serio e isso o deixa constantemente louco.</text>
+662|<text>Feroz, perverso, rude, egoista, cruel, insensivel, frio. Ninguem sabe quando e como ele chegou a Zona. Todos o temem e ele nao tem amigos. Ele simplesmente vive na Zona, sem futuro e sem passado. Apos uma de suas numerosas incursoes na Zona, ele perdeu a memoria, esquecendo quase tudo. Ele nao se lembra de onde vem, nao se lembra de seu nome verdadeiro, sofre de lapsos de memoria frequentes. Conhecido por esquecer completamente seu novo conhecido em uma hora, toma-lo por inimigo e mata-lo.</text>
+665|<text>Stalker desconhecido. Reputacao desagradavel. Detalhes nao disponiveis.</text>
+668|<text>Stalker desconhecido. Reputacao desagradavel. Detalhes nao disponiveis.</text>
+671|<text>Guarda da faccao Dever. Se voce nao e amigo deles, fique longe deles. Detalhes nao disponiveis.</text>
+674|<text>Stalker da faccao Dever. Detalhes nao disponiveis.</text>
+677|<text>Militante da faccao Dever. Geralmente bem equipado. Detalhes nao disponiveis.</text>
+680|<text>Um canalha, bajulador, hipocrita e covarde. O lema de Barin bem poderia ser: "Depois de nos, o Diluvio". Aproveita-se de qualquer situacao. Extremamente ambicioso e melindroso. Ele veio para a Zona, sem surpresa, por dinheiro. Ha dois anos, ele tem adquirido bens materiais por todos os meios possiveis.</text>
+683|<text>Militante da faccao Dever. Geralmente bem equipado. Detalhes nao disponiveis.</text>
+686|<text>Recrutador oficial do Servico de Seguranca Ucraniano. Um visitante frequente do bar. Todos sabem quem ele e, assim como o fato de que ele e o homem a quem recorrer quando voce cai em tempos dificeis. No entanto, uma vez que voce cruza essa linha, nao ha como voltar as fileiras dos stalkers honestos.</text>
+689|<text>Na vida cotidiana, um fleumatico que guarda suas emocoes para si e sempre permanece calmo. No entanto, quando sob estresse, ele fica irritadico e agressivo. Altamente intelectual. Um materialista que se arrepende de ter vindo para a Zona em primeiro lugar. Depois de se formar na universidade de medicina, foi enviado para a Zona, onde o acampamento de cientistas precisava de um assistente de neurocirurgiao. Disseca cerebros de mutantes e pesquisa suas propriedades psicocineticas. Ansioso por sua aposentadoria, quando podera voltar para a capital, o mais longe possivel deste lugar podre.</text>
+692|<text>Um dos stalkers que ficaram sem sorte.</text>
+695|<text>Mercenario desconhecido. Possivelmente bem armado. Detalhes nao disponiveis.</text>
+698|<text>Mercenario desconhecido. Possivelmente bem armado. Detalhes nao disponiveis.</text>
+701|<text>Mercenario desconhecido. Possivelmente bem armado. Detalhes nao disponiveis.</text>
+704|<text>Mercenario desconhecido. Possivelmente bem armado. Detalhes nao disponiveis.</text>
+707|<text>Stalker do grupo Monolito. Detalhes nao disponiveis.</text>
+710|<text>Stalker do grupo Monolito. Detalhes nao disponiveis.</text>
+713|<text>Stalker do grupo Monolito. Detalhes nao disponiveis.</text>
+716|<text>Stalker do grupo Monolito. Detalhes nao disponiveis.</text>
+719|<text>Detalhes nao disponiveis.</text>
+722|<text>Stalker militar. Bem armado e altamente perigoso. Detalhes nao disponiveis.</text>
+725|<text>Soldado regular. Detalhes nao disponiveis.</text>
+728|<text>Detalhes nao disponiveis.</text>
+731|<text>Forcas Especiais. Bem equipado. Detalhes nao disponiveis.</text>
+734|<text>Stalker experiente. Detalhes nao disponiveis.</text>
+737|<text>Stalker nascido sob uma estrela da sorte. Muitas vezes, as equipes com as quais ele estava acabavam em situacoes dificeis e toda vez ele era o unico sobrevivente. A maioria dos stalkers fica longe dele por causa da ma sorte que ele supostamente traz. Tem perambulado pela Zona sozinho ha algum tempo.</text>
+740|<text>Um dos veteranos. Conhece a Zona como a palma da mao. Geralmente bem equipado e altamente perigoso. Detalhes nao disponiveis.</text>
+743|<text>Contrabandista experiente. Por muito tempo, exerceu seu comercio na Africa e na America do Sul. A noticia do desastre de Chernobyl o trouxe para a Ucrania. Em pouco tempo, ele conseguiu contrabandear centenas de mutantes empalhados para fora da area restrita e ganhou o apelido de "Taxidermista". Quando nao esta "trabalhando" na Zona, ele e um comerciante de sucesso. Adora ternos elegantes e gravatas sofisticadas, mas prefere armas sovieticas.</text>
+746|<text>Participou da guerra no Afeganistao. Anteriormente ateu, mas depois de sobreviver a uma emboscada dos Mujahideen, tornou-se um homem religioso. Apos a guerra no Afeganistao, emigrou para a Polonia, onde se matriculou em um seminario teologico. Depois de se formar no seminario, pregou na igreja catolica em Lvov. Apos a explosao na Usina Nuclear de Chernobyl, ele se ofereceu para ajudar as vitimas. Nos ultimos anos, tem pregado na Zona.</text>
+749|<text>Anteriormente mecanico na fabrica "KholodMach". Depois que sua esposa o deixou, ele decidiu tirar a propria vida. No entanto, sendo profundamente religioso, escolheu a Zona como um metodo de suicidio nao convencional. Contrariando suas expectativas, ele sobreviveu. Ele ganhou experiencia inestimavel e conquistou o respeito de outros stalkers gracas as suas habilidades profissionais. Mestre e provavelmente o mecanico mais qualificado da Zona e repara equipamentos e veiculos. Instalar sistemas de seguranca em bunkers de gangues e o que ele faz de melhor. Ele e bem-vindo em todos os lugares que vai. Um homem simples e severo, um pouco rude as vezes.</text>
+752|<text>Ex-stalker militar, tenente-coronel das tropas do Ministerio do Interior. O unico soldado a retornar de uma operacao desastrosa nas profundezas da Zona, mais tarde descobriu que a missao era inutil e suicida para comecar. Foi quando ele decidiu nao voltar, forjou a propria morte e se juntou aos stalkers. Quieto, cinico, determinado.</text>
+755|<text>Novato. Novo na Zona. Detalhes nao disponiveis.</text>
+758|<text>Desastrado tem 20 anos. Ele perdeu tudo e todos na Grande Terra antes de decidir vir para ca. Ele mal ganha a vida na Zona, mas simplesmente nao tem outro lugar para ir. Deve dinheiro a muitos stalkers. Frequenta a Zona, mas nunca vai la sozinho. Sempre tentando se agarrar a um grupo de stalkers experientes. Nao e um companheiro popular, pois na maioria das vezes ele e simplesmente inutil. Quase nao ganha dinheiro. Vive de esmolas de outros stalkers e esta profundamente endividado.</text>
+761|<text>Stalker veterano. Possivelmente bem equipado. Detalhes nao disponiveis.</text>
+764|<text>Stalker veterano. Possivelmente bem equipado. Detalhes nao disponiveis.</text>
+767|<text>Oleg "Demonio" Gusarov. Um ex-"Boina Negra", serviu na brigada de Forcas Especiais Belotserkovskaya. Serviu em varias missoes, tornou-se sargento mestre. Um sniper e tecnico de bombas. Um solitario de coracao, nunca se aventura na Zona em grupo, preferindo agir sozinho. Foi oferecido para se juntar aos clas varias vezes, mas sempre recusou.</text>
+770|<text>Um estudante do Departamento de Fisica que desistiu no ultimo ano. Ele foi para a Zona em busca de dinheiro facil. Gosta de exibir seu conhecimento "cientifico" e discursar sobre questoes filosoficas abstratas. E razao suficiente para outros stalkers nao gostarem dele. No geral, um sujeito bem decente. Uma especie de idealista.</text>
+773|<text>Pardal tem 27 anos, e astuto e previdente, mas tambem capaz dos piores erros. Pode ser mesquinho. Uma pessoa bastante duvidosa. Um tipo magricela e palido. Veio para a Zona por curiosidade, prometendo a si mesmo que voltaria para casa depois de dois meses. Ele nunca voltou. Em sua primeira incursao na Zona, Pardal conseguiu atravessar um campo repleto de anomalias com as maos nuas e sem nocao do quao perigoso era aquilo. Assim que descobriu o que havia feito, desmaiou. Desde entao, celebra essa data (9 de outubro) como seu segundo aniversario.</text>
+776|<text>Mestre da faccao Liberdade. Detalhes nao disponiveis.</text>
+779|<text>Stalker da faccao Liberdade. Detalhes nao disponiveis.</text>
+782|<text>Stalker da faccao Liberdade. Detalhes nao disponiveis.</text>
+785|<text>Militante da faccao Liberdade. Geralmente bem equipado. Detalhes nao disponiveis.</text>
+788|<text>Leshiy, como seu irmao o chama, veio para a Zona como um jovem idealista. No entanto, alguns anos vivendo a um fio da morte, o transformaram em um realista cinico. Considera a Zona sua casa e acha que aqueles que falharam sao indignos de pisar na face da Terra.</text>
+791|<text>Escreve esbocos e historias sobre a Zona sob o nome de Arkady. Ex-jornalista. Meticuloso e severo, mas justo. Amplamente respeitado pelos stalkers.</text>
+794|<text>Um dos stalkers que ficaram sem sorte.</text>
+797|<text>Um dos stalkers que ficaram sem sorte.</text>
+800|<text>Um dos stalkers que ficaram sem sorte.</text>
+803|<text>Guarda bandido. Reputacao desagradavel. Detalhes nao disponiveis.</text>
+806|<text>Bandido regular. Reputacao desagradavel. Detalhes nao disponiveis.</text>
+809|<text>Bandido novato. Reputacao desagradavel. Detalhes nao disponiveis.</text>
+812|<text>Bandido experiente. Reputacao desagradavel. Detalhes nao disponiveis.</text>
+815|<text>Lider dos bandidos.</text>
+818|<text>Borov</text>
+821|<text>Stalker da faccao Dever. Detalhes nao disponiveis.</text>
+824|<text>Stalker do grupo Monolito. Detalhes nao disponiveis.</text>
+827|<text>Stalker da faccao Dever. Detalhes nao disponiveis.</text>
+830|<text>Sergei Cabeludo</text>
+833|<text>Stalker da faccao Dever. Detalhes nao disponiveis.</text>
+836|<text>Bala</text>
+839|<text>Soldado regular. Detalhes nao disponiveis.</text>
+842|<text>Forcas Especiais. Bem equipado. Detalhes nao disponiveis.</text>
+845|<text>Stalker experiente. Detalhes nao disponiveis.</text>
+848|<text>Novato. Novo na Zona. Detalhes nao disponiveis.</text>
+851|<text>Fantasma</text>
+854|<text>Pesquisador veterano da Zona. Participou das primeiras expedicoes em 2007.</text>
+857|<text>Professor Sakharov</text>
+860|<text>Assistente de pesquisa no laboratorio movel. Detalhes nao disponiveis.</text>
+863|<text>Assistente Semenov</text>
+866|<text>Vasiliev</text>
+869|<text>Stalker zumbificado</text>
+872|<text>Marca</text>
+875|<text>Frade</text>
+878|<text>Poquer</text>
+881|<text>Barin</text>
+884|<text>Suboficial</text>
+887|<text>Corte</text>
+890|<text>Vampiro</text>
+893|<text>Espantalho</text>
+896|<text>Padre Diodor</text>
+899|<text>Mestre</text>
+902|<text>Polkan</text>
+905|<text>Desastrado</text>
+908|<text>Oleg "Demonio" Gusarov</text>
+911|<text>Espertinho</text>
+914|<text>Pardal</text>
+917|<text>Leshiy</text>
+920|<text>Galho</text>
