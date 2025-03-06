@@ -25,19 +25,19 @@
 		<text>Cacador PSZ-9d</text>
 	</string>
 	<string id="dolg_scientific_outfit_description">
-		<text>Um maravilhoso traje de protecao para a Zona. Stalkers apreciam porque combina excelentes qualidades a prova de anomalias e a prova de balas. Inclui o traje PSZ-9d, um sistema de respiracao de ciclo fechado e um sistema integrado de supressao de campo anomalo. Fornece protecao de qualidade contra balas e estilhaços.</text>
+		<text>Um maravilhoso traje de protecao para a Zona. Stalkers apreciam porque combina excelentes qualidades a prova de anomalias e a prova de balas. Inclui o traje PSZ-9d, um sistema de respiracao de ciclo fechado e um sistema integrado de supressao de campo anomalo. Fornece protecao de qualidade contra balas e estilhacos.</text>
 	</string>
 	<string id="dolg_scientific_outfit_name">
 		<text>Protecao Universal PSZ-9Md</text>
 	</string>
 	<string id="ecolog_outfit_description">
-		<text>Um traje de protecao quimica SSP-99 especialmente projetado para as condicoes da Zona. E usado por expedicoes cientificas e pelos eco-stalkers que cooperam com elas. Possui um sistema integrado de filtragem de ar e ar-condicionado. E resistente ao calor e eletricidade, fornece boa protecao contra radiacao e anomalias biologicas. E resistente a ambientes quimicamente agressivos. Nao e projetado para combate, portanto, nao fornece protecao contra balas ou estilhaços.</text>
+		<text>Um traje de protecao quimica SSP-99 especialmente projetado para as condicoes da Zona. E usado por expedicoes cientificas e pelos eco-stalkers que cooperam com elas. Possui um sistema integrado de filtragem de ar e ar-condicionado. E resistente ao calor e eletricidade, fornece boa protecao contra radiacao e anomalias biologicas. E resistente a ambientes quimicamente agressivos. Nao e projetado para combate, portanto, nao fornece protecao contra balas ou estilhacos.</text>
 	</string>
 	<string id="ecolog_outfit_name">
 		<text>Ecologista SSP-99</text>
 	</string>
 	<string id="exo_outfit_description">
-		<text>Um prototipo de exoesqueleto militar. Nunca entrou em producao em serie, devido ao custo extremo e algumas falhas de design. No entanto, e produzido em pequenos lotes em pequenas fabricas ilegais fora da Ucrania. Este e um exoesqueleto de terceira geracao. Os defeitos de design que costumavam diminuir sua mobilidade foram eliminados e a armadura foi reforcada. Fornece excelente protecao contra balas e estilhaços. Possui um baixo nivel de protecao contra anomalias.</text>
+		<text>Um prototipo de exoesqueleto militar. Nunca entrou em producao em serie, devido ao custo extremo e algumas falhas de design. No entanto, e produzido em pequenos lotes em pequenas fabricas ilegais fora da Ucrania. Este e um exoesqueleto de terceira geracao. Os defeitos de design que costumavam diminuir sua mobilidade foram eliminados e a armadura foi reforcada. Fornece excelente protecao contra balas e estilhacos. Possui um baixo nivel de protecao contra anomalias.</text>
 	</string>
 	<string id="exo_outfit_description_m1">
 		<text>O dispositivo basico para visao noturna e substituido por um modelo mais moderno com filtragem digital do sinal enviado.</text>
@@ -58,7 +58,7 @@
 		<text>Traje reforcado</text>
 	</string>
 	<string id="military_outfit_description">
-		<text>Este traje militar a prova de balas Skat-9M e projetado para operacoes de assalto em areas de atividade anomala. Inclui um traje militar pesado a prova de balas PSZ-12p, um traje de compensacao integrado e um capacete Sphere-12M. Fornece protecao perfeita contra balas e estilhaços e nao diminui a mobilidade do soldado. Possui um sistema equilibrado de protecao contra anomalias.</text>
+		<text>Este traje militar a prova de balas Skat-9M e projetado para operacoes de assalto em areas de atividade anomala. Inclui um traje militar pesado a prova de balas PSZ-12p, um traje de compensacao integrado e um capacete Sphere-12M. Fornece protecao perfeita contra balas e estilhacos e nao diminui a mobilidade do soldado. Possui um sistema equilibrado de protecao contra anomalias.</text>
 	</string>
 	<string id="military_outfit_name">
 		<text>Traje blindado militar</text>
@@ -76,13 +76,13 @@
 		<text>Anomalia Skinner</text>
 	</string>
 	<string id="outfit_soldier_description">
-		<text>Uma jaqueta grossa comum, uma das muitas. Aumenta ligeiramente a protecao contra balas e estilhaços. Nao protege contra anomalias e outros efeitos.</text>
+		<text>Uma jaqueta grossa comum, uma das muitas. Aumenta ligeiramente a protecao contra balas e estilhacos. Nao protege contra anomalias e outros efeitos.</text>
 	</string>
 	<string id="outfit_soldier_name">
 		<text>Jaqueta de couro</text>
 	</string>
 	<string id="protection_outfit_description">
-		<text>Traje SSP-99 modificado de alta qualidade. Fornece protecao corporal aumentada contra danos de balas e estilhaços. E projetado para os guardas que trabalham com expedicoes cientificas. Fornece boa protecao contra radiacao e anomalias biologicas. E resistente a ambientes quimicamente agressivos e outros efeitos perigosos para o corpo.</text>
+		<text>Traje SSP-99 modificado de alta qualidade. Fornece protecao corporal aumentada contra danos de balas e estilhacos. E projetado para os guardas que trabalham com expedicoes cientificas. Fornece boa protecao contra radiacao e anomalias biologicas. E resistente a ambientes quimicamente agressivos e outros efeitos perigosos para o corpo.</text>
 	</string>
 	<string id="protection_outfit_name">
 		<text>Traje SSP-99M</text>
@@ -124,7 +124,7 @@
 		<text>Traje de Turista</text>
 	</string>
 	<string id="svoboda_heavy_outfit_description">
-		<text>Traje de stalker reforcado produzido pelos armeiros da faccao Libertaria. E composto por um colete militar medio a prova de balas revestido com elementos de zirconio de reforco que fornecem boa protecao contra balas de rifle e estilhaços de medio e longo alcance. O material do traje consiste em duas camadas: couro especialmente tratado e tecido com fio de asbestos. O traje fornece boa protecao contra radiacao e varias anomalias fracas.</text>
+		<text>Traje de stalker reforcado produzido pelos armeiros da faccao Libertaria. E composto por um colete militar medio a prova de balas revestido com elementos de zirconio de reforco que fornecem boa protecao contra balas de rifle e estilhacos de medio e longo alcance. O material do traje consiste em duas camadas: couro especialmente tratado e tecido com fio de asbestos. O traje fornece boa protecao contra radiacao e varias anomalias fracas.</text>
 	</string>
 	<string id="svoboda_heavy_outfit_name">
 		<text>Traje Guardiao da Libertaria</text>
@@ -136,13 +136,13 @@
 		<text>Traje Vento da Libertaria</text>
 	</string>
 	<string id="mp_exo_outfit_description">
-		<text>O exoesqueleto protege maravilhosamente de tiros de balas e estilhaços, no entanto, diminui a mobilidade. E vulneravel a balas de armadura.</text>
+		<text>O exoesqueleto protege maravilhosamente de tiros de balas e estilhacos, no entanto, diminui a mobilidade. E vulneravel a balas de armadura.</text>
 	</string>
 	<string id="mp_exo_outfit_name">
 		<text>Exoesqueleto PNB-4UZ</text>
 	</string>
 	<string id="mp_military_outfit_description">
-		<text>O traje militar a prova de balas e criado para realizar operacoes de invasao. Fornece uma excelente fonte de protecao contra tiros de balas e estilhaços sem diminuir a mobilidade do soldado. Vulneravel a balas de armadura.</text>
+		<text>O traje militar a prova de balas e criado para realizar operacoes de invasao. Fornece uma excelente fonte de protecao contra tiros de balas e estilhacos sem diminuir a mobilidade do soldado. Vulneravel a balas de armadura.</text>
 	</string>
 	<string id="mp_military_outfit_name">
 		<text>Traje militar a prova de balas.</text>

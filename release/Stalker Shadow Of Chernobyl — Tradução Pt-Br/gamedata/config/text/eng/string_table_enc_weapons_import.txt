@@ -1,43 +1,43 @@
 4|<text>Municao</text>
-7|<text>Munições .45ACP</text>
+7|<text>Municoes .45ACP</text>
 10|<text>.45ACP</text>
-13|<text>Munições .45ACP Hydro-Shock</text>
+13|<text>Municoes .45ACP Hydro-Shock</text>
 16|<text>.45Hydro</text>
-19|<text>Munições de tiro 12x70</text>
+19|<text>Municoes de tiro 12x70</text>
 22|<text>Tiro 12x70</text>
-25|<text>Munições de dardo 12x76</text>
+25|<text>Municoes de dardo 12x76</text>
 28|<text>Dardo 12x76</text>
-31|<text>Munições de bala 12x76</text>
+31|<text>Municoes de bala 12x76</text>
 34|<text>Bala 12x76</text>
-37|<text>Munições 5,45x39 mm BP</text>
+37|<text>Municoes 5,45x39 mm BP</text>
 40|<text>5,45x39 BP</text>
-43|<text>Munições 5,45x39 mm</text>
+43|<text>Municoes 5,45x39 mm</text>
 46|<text>5,45x39</text>
-49|<text>Munições 5,56x45 mm AP</text>
+49|<text>Municoes 5,56x45 mm AP</text>
 52|<text>5,56 AP</text>
-55|<text>Munições 5,56x45 mm SS109</text>
+55|<text>Municoes 5,56x45 mm SS109</text>
 58|<text>5,56 SS</text>
-61|<text>Munições 7,62x54 mm 7N1</text>
+61|<text>Municoes 7,62x54 mm 7N1</text>
 64|<text>7,62 7N1</text>
-67|<text>Munições 7,62x54R 7N14</text>
+67|<text>Municoes 7,62x54R 7N14</text>
 70|<text>7,62 7N14</text>
-73|<text>Munições 7,62x54 mm BP</text>
+73|<text>Municoes 7,62x54 mm BP</text>
 76|<text>7,62 BP</text>
-79|<text>Munições 9x18 mm</text>
+79|<text>Municoes 9x18 mm</text>
 82|<text>9x18</text>
-85|<text>Munições 9x18 mm +P+</text>
+85|<text>Municoes 9x18 mm +P+</text>
 88|<text>9x18 +P+</text>
 91|<text>9x19mm FMJ</text>
 94|<text>9x19 FMJ</text>
-97|<text>Munições 9x19mm PB1s</text>
+97|<text>Municoes 9x19mm PB1s</text>
 100|<text>9x19 PB1s</text>
-103|<text>Munições 9x39 mm SP-6</text>
+103|<text>Municoes 9x39 mm SP-6</text>
 106|<text>9x39 SP-6</text>
-109|<text>Munições 9x39 mm PAB-9</text>
+109|<text>Municoes 9x39 mm PAB-9</text>
 112|<text>9x39 PAB9</text>
-115|<text>Munições 9x39 mm SP-5</text>
+115|<text>Municoes 9x39 mm SP-5</text>
 118|<text>9x39 SP-5</text>
-121|<text>Munições Gauss</text>
+121|<text>Municoes Gauss</text>
 124|<text>Gauss</text>
 127|<text>Granada M209</text>
 130|<text>M209</text>
@@ -71,9 +71,9 @@
 214|<text>Uma granada altamente explosiva para o RPG-7u. E igualmente eficaz contra tropas e veiculos blindados leves.</text>
 217|<text>Uma granada para o lancador de granadas GP-25 Kostyer, o lancador de granadas integrado do Tunder e o lancador de granadas revolver Bulldog 6.</text>
 220|<text>Uma granada para o lancador de granadas GP-25 Kostyer, o lancador de granadas integrado do Tunder S14 e o lancador de granadas revolver Bulldog 6. Antes da explosao, a granada salta cerca de um metro, aumentando seu efeito mortal.</text>
-223|<text>Uma granada de mao defensiva com um grande raio de dano por estilhaços. Recomenda-se joga-la apenas de tras da cobertura.</text>
+223|<text>Uma granada de mao defensiva com um grande raio de dano por estilhacos. Recomenda-se joga-la apenas de tras da cobertura.</text>
 226|<text>Uma granada de fumaca. Dedicada a criar uma cortina de fumaca. Dura 10 segundos.</text>
-229|<text>Uma granada de mao ofensiva com um pequeno raio de dano por estilhaços.</text>
+229|<text>Uma granada de mao ofensiva com um pequeno raio de dano por estilhacos.</text>
 232|<text>A arma das tropas de elite do exercito russo. Foi projetada como um substituto para o Akm 74/2 desatualizado. Nao apenas os mecanismos internos do Obokan, mas tambem seu receptor e seu cano sao moveis, o que diminui o recuo e aumenta a precisao.\n Municao:\n padrao 5,45x39 mm,\n perfurante 5,45x39 mm BP.</text>
 235|<text>Metralhadora fornecida com uma mira otica modificada para realizar disparos de sniper. A otica embutida no corpo da arma tem uma resolucao maior do que o modelo padrao.</text>
 238|<text>Esta metralhadora possui um lancador de granadas integral para ir sob o cano, o que a torna uma arma ainda mais universal.</text>
@@ -82,7 +82,7 @@
 247|<text>Uma mira sovietica amplamente utilizada. A mira pode ser montada em uma arma usando uma montagem de cauda de andorinha usada pelos paises do Pacto de Varsovia.</text>
 250|<text>Uma mira 4x produzida nos paises da OTAN. Pode ser anexada a uma montagem padrao da OTAN, tambem chamada de trilho Picatinni.</text>
 253|<text>Um silenciador eficaz feito por armeiros da Zona. O kit inclui um conjunto de adaptadores para armas de qualquer calibre.</text>
-256|<text>Rifle de assalto com coronha dobrável, modelo 1974, usa municao de 5,45x39 mm. E uma arma simples e confiavel, mas a barateza de sua producao afetou sua ergonomia e precisao. Na Zona, e a principal arma dos stalkers militares e de muitos combatentes individuais.\n Municao:\n padrao 5,45x39 mm,\n perfurante 5,45x39 mm BP.</text>
+256|<text>Rifle de assalto com coronha dobravel, modelo 1974, usa municao de 5,45x39 mm. E uma arma simples e confiavel, mas a barateza de sua producao afetou sua ergonomia e precisao. Na Zona, e a principal arma dos stalkers militares e de muitos combatentes individuais.\n Municao:\n padrao 5,45x39 mm,\n perfurante 5,45x39 mm BP.</text>
 259|<text>O sistema de fechamento modificado aumenta a velocidade de tiro.</text>
 262|<text>O peso e o tamanho do Akm 74/2U sao semelhantes aos de uma submetralhadora, mas seu modo de operacao e a municao que usa o colocam na classe dos rifles de assalto. Suas vantagens sao suas pequenas dimensoes muito uteis ao lutar dentro de um edificio ou em uma floresta densa e capacidades de perfuracao relativamente altas. Suas principais desvantagens sao um alcance de precisao limitado e superaquecimento rapido ao disparar rajadas.\n Municao:\n padrao 5,45x39 mm,\n perfurante 5,45x39 mm BP.</text>
 265|<text>Metralhadora aprimorada. Vem com um abafador nao substituivel.</text>
@@ -125,7 +125,7 @@
 376|<text>Uma versao mais atualizada do rifle de sniper. Um modelo bullpup compacto. E excelente para longas viagens na Zona.\n Municao:\n padrao 7,62x54 mm 7N1,\n perfurante 7,62x54 mm BP,\n sniper 7,62x54 mm 7N14.</text>
 379|<text>Este rifle de caca e popular, mas nao ha nada notavel sobre ele.\n Municao:\n tiro 12x70,\n bala 12x76,\n dardo 12x76.</text>
 382|<text>Uma arma confiavel. Como uma arma compacta de curto alcance de qualidade, e muito popular entre os veteranos da Zona.\n Municao:\n padrao .45 ACP,\n aprimorada .45 ACP Hydro-Shock.</text>
-385|<text>Esta arma e baseada no rifle de sniper silencioso Vintar, mas tem uma coronha dobrável, pode disparar rajadas e tem um carregador maior. Foi originalmente projetada para forcas especiais que operam em condicoes que exigem fogo silencioso e sem chamas.\n Municao:\n padrao 9x39 mm PAB-9,\n perfurante 9x39 mm SP-6,\n sniper 9x39 mm SP-5.</text>
+385|<text>Esta arma e baseada no rifle de sniper silencioso Vintar, mas tem uma coronha dobravel, pode disparar rajadas e tem um carregador maior. Foi originalmente projetada para forcas especiais que operam em condicoes que exigem fogo silencioso e sem chamas.\n Municao:\n padrao 9x39 mm PAB-9,\n perfurante 9x39 mm SP-6,\n sniper 9x39 mm SP-5.</text>
 388|<text>Difere do modelo basico em sua capacidade de adicionar uma mira otica PSO-1.</text>
 391|<text>Um rifle de sniper especial projetado para fogo de sniper silencioso e sem chamas e equipado com um silenciador integrado. Pode perfurar qualquer colete a prova de balas em um alcance de 400 metros. E uma arma altamente valorizada por stalkers de qualquer nivel.\n Municao:\n padrao 9x39 mm PAB-9,\n perfurante 9x39 mm SP-6,\n sniper 9x39 mm SP-5.</text>
 394|<text>Uma pistola excelente. Altamente confiavel com um carregador de alta capacidade e uma boa precisao de fogo, especialmente no caso do modelo projetado para a municao 9 mm FMJ.\n Municao:\n padrao 9x19 mm FMJ,\n aprimorada 9x19 mm PB1s.</text>
