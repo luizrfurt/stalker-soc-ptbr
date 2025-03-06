@@ -1,0 +1,4 @@
+2|<text>Doutor: "Tudo o que voce disse sobre o Monolito esta certo - e apenas uma ilusao criada por um laboratorio perto do Sarcofago... a julgar por tudo, e a unica maneira de penetrar no verdadeiro segredo da Zona... Que voce sempre tentou descobrir."</text>
+5|<text>Ouvi o chamado do Monolito. Ele me chamou para ele. Agora devo ir ate ele e obter as respostas para todas as minhas perguntas.</text>
+8|<text>Doutor: "Entao e o seguinte. Ha um decodificador para abrir a porta que leva ao sistema de operacao do Monolito. O decodificador esta escondido em um esconderijo secreto em Prypiat. Estou lhe dando as coordenadas de sua localizacao e a chave. Voce pegara o decodificador, encontrara a porta certa no sarcofago e entao... e entao voce vera como vai ser."</text>
+11|<text>Voce conseguiu afinal, stalker. Voce se mostrou muito mais forte do que pensavamos inicialmente. Bem, chegou a hora de conversarmos. Siga em direcao ao sinal. Estaremos esperando por voce.</text>

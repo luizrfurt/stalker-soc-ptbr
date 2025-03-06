@@ -1,51 +1,51 @@
 	<string id="mil_actor_main_quest_descr">
-		<text>According to General Voronin, only Freedom has one of these guns. How I get it is my own business. I was told that one way would be to hang out with the Freedom stalker called Chef. The General says he likes his drink more than he should. I should stock up on vodka just in case I can use it.</text>
+		<text>De acordo com o General Voronin, apenas a Liberdade tem uma dessas armas. Como eu a consigo e problema meu. Disseram-me que uma maneira seria passar um tempo com o stalker da Liberdade chamado Chef. O General diz que ele gosta de beber mais do que deveria. Devo estocar vodka caso possa usa-la.</text>
 	</string>
 	<string id="mil_blockpost_job_descr">
-		<text>It's imperative to protect the barrier from attack from the direction of the Brain Scorcher.</text>
+		<text>E imperativo proteger a barreira de ataques vindos da direcao do Desintegrador Psiquico.</text>
 	</string>
 	<string id="mil_blockpost_job2_descr">
-		<text>Lukash: "If you have it in you, you can go to the security checkpoint by the exit to Red Forest - based on some indications they're expecting another attempt at a break in from the mutants or Monolith</text>
+		<text>Lukash: "Se voce tiver coragem, pode ir ao posto de seguranca na saida para a Floresta Vermelha - com base em algumas indicacoes, eles estao esperando outra tentativa de invasao dos mutantes ou do Monolito</text>
 	</string>
 	<string id="mil_courier_doc_descr">
-		<text>Freedom has acquired Bulldog 6 grenade launchers. Two of them. One is in the arsenal, the other somewhere in the village.\n\n</text>
+		<text>A Liberdade adquiriu lancadores de granadas Bulldog 6. Dois deles. Um esta no arsenal, o outro em algum lugar da vila.\n\n</text>
 	</string>
 	<string id="mil_courier_job_descr">
-		<text>Lukash: "Sad but true - we have a snitch among us...His name is Pavlik. He's sending information to the other side, and we need to stop it. Your job is to follow him to the farmstead and find out who he's reporting the information to. He left a while ago, so you'll have to catch up. Remember this: You can and need to finish him off, but not before he reveals the one he's giving the information to. You'll have to eliminate the second dude too."</text>
+		<text>Lukash: "Triste, mas verdade - temos um dedo-duro entre nos... O nome dele e Pavlik. Ele esta enviando informacoes para o outro lado, e precisamos impedir isso. Seu trabalho e segui-lo ate a fazenda e descobrir para quem ele esta relatando as informacoes. Ele partiu ha um tempo, entao voce tera que alcanca-lo. Lembre-se disto: Voce pode e precisa acabar com ele, mas nao antes que ele revele para quem esta dando as informacoes. Voce tera que eliminar o segundo cara tambem."</text>
 	</string>
 	<string id="mil_crazy_flash_info">
-		<text>... today we went to the village again on a hunt. Everything same as always. \n\n Where did that beast come from? Must have sneaked through near Red Forest. All the guys are down, I'm the only one standing... I'll try to sneak out at night... \n\n I don't remember how I got out. It was pure hell... My head is splitting open - pictures, sounds, I don't know where they are coming from. Goddamn radiation. On top of that, the bloody detector is kaputt. I must rest and I'll feel better.</text>
+		<text>... hoje fomos a vila novamente para cacar. Tudo igual de sempre. \n\n De onde veio aquela fera? Deve ter entrado sorrateiramente perto da Floresta Vermelha. Todos os caras cairam, sou o unico de pe... Vou tentar sair sorrateiramente a noite... \n\n Nao me lembro de como sai. Foi um inferno... Minha cabeca esta explodindo - imagens, sons, nao sei de onde estao vindo. Radiacao maldita. Alem disso, o detector sangrento esta kaputt. Preciso descansar e me sentirei melhor.</text>
 	</string>
 	<string id="mil_dolg_kill_lukash_descr">
-		<text>Enter the base with Duty members.\nEliminate three snipers. \nKill Lukash.</text>
+		<text>Entre na base com os membros do Dever.\nElimine tres snipers. \nMate Lukash.</text>
 	</string>
 	<string id="mil_dolg_kill_sniper_descr">
-		<text>Kill the sniper at the tower. Be careful, don't catch a bullet between the eyes.</text>
+		<text>Mate o sniper na torre. Tenha cuidado, nao leve um tiro entre os olhos.</text>
 	</string>
 	<string id="mil_flash_bandit_descr">
-		<text>Crap, those Duty assholes kicked us out from a fat place. They dug in near our farmstead. We didn't even have time to get our things from the attic. No big deal though - Freedom base is near, so they won't hang on too long.</text>
+		<text>Droga, aqueles idiotas do Dever nos expulsaram de um lugar bom. Eles se entrincheiraram perto de nossa fazenda. Nem tivemos tempo de pegar nossas coisas no sotao. Mas nao e grande coisa - a base da Liberdade esta perto, entao eles nao vao durar muito.</text>
 	</string>
 	<string id="mil_flash_max_descr">
-		<text>Today we shook down a few soldiers on their way to Red Forest - scored some Bulldog 6s. They are awesome. Lukash took one, and Murk hid the other in the village, in one of the basements.</text>
+		<text>Hoje sacudimos alguns soldados a caminho da Floresta Vermelha - conseguimos alguns Bulldog 6. Eles sao incriveis. Lukash pegou um, e Sombra escondeu o outro na vila, em um dos poroes.</text>
 	</string>
 	<string id="mil_flash_ugrumy_descr">
-		<text>1. The Devil made me go to Red Forest. I barely made it - a little slower and I would have made for just another exhibit with liquified brains.\n\n 2: Four thugs surrounded me like I was a three-year old. I did my part - didn't see their trap. I was only saved by their chattiness and greed. Instead of stuffing me full of lead, they jumped out and began disrobing me - got hooked on the suit. That was their last mistake; still, one of them caught me with a bullet... heh, I'm getting old...\n\n 3: By the time I arrived, Strelok's messenger was no longer breathing. Three bloodsuckers are a match for anyone, but this guy took out four of them, and a few more bloody trails lead out in different directions. The only information on him is a door code (19840519), but identifying the door it unlocks doesn't seem possible.\n\n 4: We intercepted a few army men on their way to Red Forest. They carried no documents or orders, but were very adequately equipped. I think I'll leave that Bulldog 6 in the basement until I need it.</text>
+		<text>1. O Diabo me fez ir para a Floresta Vermelha. Eu mal consegui - um pouco mais lento e eu teria sido apenas mais uma exposicao com cerebros liquefeitos.\n\n 2: Quatro bandidos me cercaram como se eu fosse uma crianca de tres anos. Fiz minha parte - nao vi a armadilha deles. So fui salvo pela conversa e ganancia deles. Em vez de me encher de chumbo, eles pularam e comecaram a me despir - ficaram viciados no traje. Esse foi o ultimo erro deles; ainda assim, um deles me acertou com uma bala... hehe, estou ficando velho...\n\n 3: Quando cheguei, o mensageiro de Strelok nao estava mais respirando. Tres sanguessugas sao pareo para qualquer um, mas esse cara eliminou quatro deles, e algumas trilhas sangrentas levam para direcoes diferentes. A unica informacao sobre ele e um codigo de porta (19840519), mas identificar a porta que ele destrava nao parece possivel.\n\n 4: Interceptamos alguns militares a caminho da Floresta Vermelha. Eles nao carregavam documentos ou ordens, mas estavam muito bem equipados. Acho que vou deixar aquele Bulldog 6 no porao ate precisar dele.</text>
 	</string>
 	<string id="mil_freedom_rg6_task_descr">
-		<text>Voronin: "Freedom has a few great granade PG-6 granade launchers. If you could manage to sneak into their territory and steal at least one such granade launcher, then I would handsomely reward you. Since you're not in our faction, you can easily build some rapport with Freedom and, with any luck, steal the PG-6. I'll forward you the info about the location of Freedom. There you have to find a certain Chef, a member of the group Freedom, he knows exactly where the PG-6es are stored. He has a weakness for drink, so try to get him drunk. For that, take a lot of vodka along."</text>
+		<text>Voronin: "A Liberdade tem alguns otimos lancadores de granadas PG-6. Se voce puder entrar sorrateiramente em seu territorio e roubar pelo menos um desses lancadores de granadas, eu o recompensarei generosamente. Como voce nao esta em nossa faccao, pode facilmente construir um relacionamento com a Liberdade e, com sorte, roubar o PG-6. Vou encaminhar as informacoes sobre a localizacao da Liberdade. La voce tem que encontrar um certo Chef, um membro do grupo Liberdade, ele sabe exatamente onde os PG-6s estao armazenados. Ele tem uma fraqueza por bebida, entao tente deixa-lo bebado. Para isso, leve muita vodka junto."</text>
 	</string>
 	<string id="mil_go_to_miser_descr">
-		<text>Hrm. I will get my reward at Freedom's base from Skinflint... Nice name. I should hope for a can of meat with last year's best by date.</text>
+		<text>Hrm. Vou receber minha recompensa na base da Liberdade de Avarento... Nome legal. Espero por uma lata de carne com a data de validade do ano passado.</text>
 	</string>
 	<string id="mil_hunters_task_descr">
-		<text>Clean out the bloodsuckers in the village. Got to be careful or they'll drink all my blood and leave me for dead.</text>
+		<text>Limpe os sanguessugas na vila. Tenho que ter cuidado ou eles vao beber todo o meu sangue e me deixar para morrer.</text>
 	</string>
 	<string id="mil_hunters_task_descr2">
-		<text>Clean out the bloodsuckers in the village. Got to be careful or they'll drink all my blood and leave me for dead.</text>
+		<text>Limpe os sanguessugas na vila. Tenho que ter cuidado ou eles vao beber todo o meu sangue e me deixar para morrer.</text>
 	</string>
 	<string id="mil_lukash_job_descr">
-		<text>Lukash decided to carry out a counterattack on the Duty detachment at the cottage. Max, one of the veterans from Freedom, will head the operation. My job is to help them.</text>
+		<text>Lukash decidiu realizar um contra-ataque ao destacamento do Dever na cabana. Max, um dos veteranos da Liberdade, liderara a operacao. Meu trabalho e ajuda-los.</text>
 	</string>
 	<string id="mil_mad_flash_job_descr">
-		<text>I wonder what this crazy guy at the swamp can possibly know. I'll figure it out. The important thing is to avoid all those old mines. But - they must be rusty enough to explode from a bolt.</text>
+		<text>Eu me pergunto o que esse cara louco no pantano pode saber. Vou descobrir. O importante e evitar todas aquelas minas antigas. Mas - elas devem estar enferrujadas o suficiente para explodir com um parafuso.</text>
 	</string>

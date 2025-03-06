@@ -1,0 +1,27 @@
+2|<text>This is the encyclopaedia. As you progress in the game, information about the world around you will be added here, sorted by topic.</text>
+5|<text>About the encyclopaedia</text>
+8|<text>Factory bandit's PDA</text>
+11|<text>Trader: get inside the army outpost and steal the case containing the report of the military expedition to the northern part of the Zone.</text>
+14|<text>Dead rookie's PDA</text>
+17|<text>Fanatic: Help us defend against the Mercs who ordered the rookies to clear off the camp. The plan goes like that. Everyone hides, so the camp looks deserted, we let the Mercs inside the camp, then attack on captain's order.</text>
+20|<text>Guide's PDA</text>
+23|<text>Meeting Doctor</text>
+26|<text>Doctor: I will be waiting for a man who comes from Strelok to the hiding place used by Strelok and his men. If he's our man, he'll know the place.</text>
+29|<text>OK, I'll meet with Ghost's man. I will be waiting for him in Strelok's hiding place. If he's one of our own, he will know where to look for me. Doctor.</text>
+32|<text>Trader: "...my guys were coming back from an assignment and disappeared. One of them - called Nimble - was bringing me some info...And they all disappeared really close by because they missed the bridge. Don't know what to think. Anyway: find Nimble, dead or alive, just as long as he has the flash drive. Bring it to me. Nimble was one of Wolf's men - and Wolf is here in the camp. Ask him, he probably knows something. He'll help you with weapons and gear."</text>
+35|<text>Seriy to Fox: a friend wants me to give a helping hand to a bunch of stalkers that dug out Strelok's stash. I'm off to the hangar at the Garbage with my boys. That's where you can find me.</text>
+38|<text>Yesterday one brother went to scout the deserted mill and we haven't heard from him since. We need to go there and see where he disappeared to.</text>
+41|<text>Wolf: bring the dynamite stolen by the bandits at the factory. To help you, there are scouts under the bridge, come to them and say "Hello from the underworld" - that's the password. Lead them into battle.</text>
+44|<text>Wolf: clear the bandits at the factory with the help of my scouts behind the bridge, then return and report.</text>
+47|<text>Dead stalker's PDA</text>
+50|<text>...came to in the den of some dude, can't remember anything. Just have a PDA on me with a picture of some other dude. There's just one message in the PDA - kill Strelok.</text>
+53|<text>Trader: Fox has come back from his raid and is asking for help. Perhaps he knows something about Strelok.</text>
+56|<text>Fox: Seriy is sitting in the hangar at the Garbage, he knows more about Strelok.</text>
+59|<text>Trader: steal the expedition report from the military at the Agroprom Research Institute, take it to the 100 Rads bar and give it to the Barkeep.</text>
+62|<text>Fox's PDA</text>
+65|<text>Tolik's diary. Trader sent us to spy on the military at the Agroprom Research Institute. Got there and shot everybody, bandits and military alike. Dug out some interesting stuff, I'm encoding the rest *gibberish text that looks like a cipher*</text>
+68|<text>Seriy to Fox: one guy I know asked to meet a group of stalkers who sniffed out Strelok's hiding place. I'll be at the Garbage, come over if you want.</text>
+71|<text>Tolik's PDA</text>
+74|<text>Trader: there is a Whirligig anomaly field close by. There is an artifact in its center. Get it.</text>
+77|<text>There's a very strange anomaly here. It looks like it's moving. I'll try to calculate its movement times and path, because I don't have the cash to pay the soldiers for passage.</text>
+80|<text>I left a small cache at the deserted farm. It's got some food and ammo. I'm way too weak to carry it now. I'm not sure if I can make it to the camp.</text>
