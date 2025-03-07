@@ -112,7 +112,7 @@
 		<text>Editar descricao</text>
 	</string>
 	<string id="pda_remove_btn_hint">
-		<text>Deletar marcador</text>
+		<text>Excluir marcador</text>
 	</string>
 	<string id="pda_show_descr_btn_hint">
 		<text>Ir</text>
@@ -130,7 +130,7 @@
 		<text>Posicao</text>
 	</string>
 	<string id="remove_spot_btn_hint">
-		<text>Deletar marcador</text>
+		<text>Excluir marcador</text>
 	</string>
 	<string id="st_detail_list_for_artefacts">
 		<text>Artefatos ganhos</text>

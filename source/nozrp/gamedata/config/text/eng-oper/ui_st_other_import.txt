@@ -61,7 +61,7 @@
 184|<text>Erro de conexao: Sua chave de CD esta desativada. Entre em contato com o servico de atendimento ao cliente.</text>
 187|<text>Novo patch disponivel.\n Versao: %s\n Localizacao: %s\nDeseja baixa-lo agora?</text>
 190|<text>Nenhum novo patch disponivel agora</text>
-193|<text>Deseja realmente deletar o arquivo?</text>
+193|<text>Deseja realmente excluir o arquivo?</text>
 196|<text>Pausar</text>
 199|<text>Parafuso</text>
 202|<text>Itens</text>

@@ -190,7 +190,7 @@
 		<text>Nenhum novo patch disponivel agora</text>
 	</string>
 	<string id="ui_mm_delete_existing_file_q">
-		<text>Deseja realmente deletar o arquivo?</text>
+		<text>Deseja realmente excluir o arquivo?</text>
 	</string>
 	<string id="st_game_paused">
 		<text>Pausar</text>

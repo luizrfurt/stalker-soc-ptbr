@@ -35,13 +35,13 @@
 106|<text>Estatisticas</text>
 109|<text>Mostrar estatisticas de progresso</text>
 112|<text>Editar descricao</text>
-115|<text>Deletar marcador</text>
+115|<text>Excluir marcador</text>
 118|<text>Ir</text>
 121|<text>Mostrar marcadores no mapa</text>
 124|<text>Ativar marcador</text>
 127|<text>Alternar mapa/texto</text>
 130|<text>Posicao</text>
-133|<text>Deletar marcador</text>
+133|<text>Excluir marcador</text>
 136|<text>Artefatos ganhos</text>
 139|<text>Relacoes com faccoes</text>
 142|<text>Mutantes mortos</text>

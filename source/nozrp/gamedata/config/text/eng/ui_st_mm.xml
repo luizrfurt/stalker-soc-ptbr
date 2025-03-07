@@ -145,7 +145,7 @@
 		<text>Distancia do alvo da mira</text>
 	</string>
 	<string id="ui_mm_delete">
-		<text>Deletar</text>
+		<text>Excluir</text>
 	</string>
 	<string id="ui_mm_difficulty">
 		<text>Dificuldade</text>

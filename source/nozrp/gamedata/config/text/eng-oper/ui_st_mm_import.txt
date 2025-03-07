@@ -46,7 +46,7 @@
 139|<text>Controles</text>
 142|<text>Creditos</text>
 145|<text>Distancia do alvo da mira</text>
-148|<text>Deletar</text>
+148|<text>Excluir</text>
 151|<text>Dificuldade</text>
 154|<text>Desconectar</text>
 157|<text>Tem certeza de que deseja desconectar?</text>
