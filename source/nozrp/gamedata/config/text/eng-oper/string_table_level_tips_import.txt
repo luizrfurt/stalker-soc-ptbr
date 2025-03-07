@@ -25,7 +25,7 @@
 76|<text>Para o Garbage</text>
 79|<text>Para os armazens</text>
 82|<text>Para Prypiat</text>
-85|<text>Para o Desintegrador Psiquico</text>
+85|<text>Para o Brain Scorcher</text>
 88|<text>Para o Wild Territory</text>
 91|<text>Para Yantar</text>
 94|<text>Desligamento da protecao</text>

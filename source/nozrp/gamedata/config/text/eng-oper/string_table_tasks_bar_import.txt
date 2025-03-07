@@ -25,7 +25,7 @@
 74|<text>Mate o lider dos veteranos</text>
 77|<text>Pegue o PDA do lider deles</text>
 80|<text>Destrua o acampamento dos veteranos loucos</text>
-83|<text>Desligue o Desintegrador Psiquico</text>
+83|<text>Desligue o Brain Scorcher</text>
 86|<text>Encontre Kruglov</text>
 89|<text>Leve Kruglov para Yantar</text>
 92|<text>Leve Kruglov para a saida de Yantar</text>

@@ -103,9 +103,9 @@
 310|<text>Nao.</text>
 313|<text>Droga! Estou aqui, me matando de trabalhar enquanto voce esta vagando pela floresta! Va pegar esses malditos documentos ou nao faremos nenhum progresso!</text>
 316|<text>OK.</text>
-319|<text>Bem, Marca, agora so precisamos lidar com o Desintegrador Psiquico e abrir o caminho para o norte! Voce esta pronto para ir agora?</text>
+319|<text>Bem, Marca, agora so precisamos lidar com o Brain Scorcher e abrir o caminho para o norte! Voce esta pronto para ir agora?</text>
 322|<text>Sim.</text>
-325|<text>OK, Marca, voce tem o prototipo de protecao, entao estara seguro das emissoes. Eu tenho as coordenadas do bunker. Nao se esqueca de que o prototipo nao o protegera para sempre, entao voce precisa chegar ao bunker o mais rapido possivel e desligar o Desintegrador Psiquico. Nao sei o que acontecera depois disso, mas tenho certeza de que valera a pena. A unica coisa de que podemos ter certeza e que a estrada para o centro da Zona estara aberta.</text>
+325|<text>OK, Marca, voce tem o prototipo de protecao, entao estara seguro das emissoes. Eu tenho as coordenadas do bunker. Nao se esqueca de que o prototipo nao o protegera para sempre, entao voce precisa chegar ao bunker o mais rapido possivel e desligar o Brain Scorcher. Nao sei o que acontecera depois disso, mas tenho certeza de que valera a pena. A unica coisa de que podemos ter certeza e que a estrada para o centro da Zona estara aberta.</text>
 328|<text>Continue.</text>
 331|<text>Tudo o que precisamos fazer e chegar as antenas e desativa-las. Entendido?</text>
 334|<text>Entendido.</text>
@@ -123,7 +123,7 @@
 370|<text>Ei, Marca! Os tempos mudam, mas voce continua rabugento e distante. Aqui, sente-se, beba um gole - pode te deixar mais legal...</text>
 373|<text>Entao, Marca, voce trouxe os documentos do X18?</text>
 376|<text>Sim. Aqui.</text>
-379|<text>Bom, a situacao esta ficando mais clara. Como eu esperava, este Desintegrador Psiquico e feito pelo homem. E um emissor experimental Kaymanov e seus componentes foram feitos exatamente no X18. Esses documentos se referem ao laboratorio X16, onde enviaram alguns componentes. De acordo com isso, o X16 esta localizado na area do complexo de producao perto do Lago Yantar. Os cientistas montaram um laboratorio movel por la, entao talvez eles possam ajudar.</text>
+379|<text>Bom, a situacao esta ficando mais clara. Como eu esperava, este Brain Scorcher e feito pelo homem. E um emissor experimental Kaymanov e seus componentes foram feitos exatamente no X18. Esses documentos se referem ao laboratorio X16, onde enviaram alguns componentes. De acordo com isso, o X16 esta localizado na area do complexo de producao perto do Lago Yantar. Os cientistas montaram um laboratorio movel por la, entao talvez eles possam ajudar.</text>
 382|<text>Continue.</text>
 385|<text>Nao e simples. Voce precisa chegar aos cientistas e descobrir onde fica o X16 para poder obter os documentos que faltam. Entao, voce esta pronto para isso?</text>
 388|<text>Sim.</text>
@@ -136,7 +136,7 @@
 409|<text>Ei, Marca! Os tempos mudam, mas voce continua rabugento e distante. Aqui, sente-se, beba um gole - pode te deixar mais legal...</text>
 412|<text>Ei, Marca! Voce trouxe os documentos do Instituto?</text>
 415|<text>Nao, ainda nao peguei os documentos do Instituto.</text>
-418|<text>Isso nao e bom, Marca, nao e nada bom... Voce entende o quanto precisamos deles, nao e? Precisamos deles muito, acredite em mim. O Desintegrador Psiquico esta bem debaixo do nosso nariz, mas nem sabemos o que e! Va pegar os documentos agora mesmo - conversamos depois disso.</text>
+418|<text>Isso nao e bom, Marca, nao e nada bom... Voce entende o quanto precisamos deles, nao e? Precisamos deles muito, acredite em mim. O Brain Scorcher esta bem debaixo do nosso nariz, mas nem sabemos o que e! Va pegar os documentos agora mesmo - conversamos depois disso.</text>
 421|<text>Acho que entendi.</text>
 424|<text>Aqui estao os documentos do Instituto.</text>
 427|<text>Otimo trabalho, Marca! Finalmente temos os documentos. Preciso dar uma olhada neles agora e talvez descubra como ir para o norte. Enquanto isso, se voce tiver problemas com dinheiro, pode lutar na Arena. O dono da Arena e Arni, carreguei as coordenadas dele.</text>
@@ -213,7 +213,7 @@
 640|<text>Voce decide. Venha ao bar quando decidir o contrario - estou sempre aqui.</text>
 643|<text>Tenho algumas informacoes sobre o segredo do Lago Yantar. O preco e de apenas 3500 rublos - qualquer valor menor e eu estaria te pagando!</text>
 646|<text>OK, vou comprar. Pegue 3500.</text>
-649|<text>O segredo do Lago Yantar e semelhante ao segredo do Desintegrador Psiquico e seus efeitos sao semelhantes de muitas maneiras. Algum tipo de emissao zumbifica todos que entram em contato com ela. Os stalkers zumbificados se movem ao redor do centro de algum emissor, atacando todos. Ha informacoes que sugerem que a solucao para o enigma do Lago Yantar esta subterranea. Aqui estao as coordenadas do emissor no Lago Yantar e as do Desintegrador Psiquico.</text>
+649|<text>O segredo do Lago Yantar e semelhante ao segredo do Brain Scorcher e seus efeitos sao semelhantes de muitas maneiras. Algum tipo de emissao zumbifica todos que entram em contato com ela. Os stalkers zumbificados se movem ao redor do centro de algum emissor, atacando todos. Ha informacoes que sugerem que a solucao para o enigma do Lago Yantar esta subterranea. Aqui estao as coordenadas do emissor no Lago Yantar e as do Brain Scorcher.</text>
 652|<text>Nao, mudei de ideia.</text>
 655|<text>Voce decide. Venha ao bar quando decidir o contrario - estou sempre aqui.</text>
 658|<text>Nao tenho nenhuma informacao nova no momento.</text>
@@ -227,15 +227,15 @@
 682|<text>Esperemos que sim.</text>
 685|<text>Entao voce eliminou aqueles veteranos? Bem feito, amigo! Seis stalkers desapareceram naquela area recentemente... todos nos suspeitavamos daqueles veteranos loucos. E bom que eles tenham sido eliminados.</text>
 688|<text>Sim, muitas pessoas queriam que aqueles veteranos "partissem".</text>
-691|<text>Voce desligou as emissoes em Yantar? Uau... voce e um cara de sorte, droga, fico feliz que alguem finalmente conseguiu lidar com essa coisa! Voce nao imagina quantos dos nossos caras morreram la... mas agora os cientistas vao descobrir o que era. Podemos ate ser capazes de lidar com o Desintegrador Psiquico agora...</text>
-694|<text>Quero acreditar que o Desintegrador Psiquico pode ser desligado.</text>
+691|<text>Voce desligou as emissoes em Yantar? Uau... voce e um cara de sorte, droga, fico feliz que alguem finalmente conseguiu lidar com essa coisa! Voce nao imagina quantos dos nossos caras morreram la... mas agora os cientistas vao descobrir o que era. Podemos ate ser capazes de lidar com o Brain Scorcher agora...</text>
+694|<text>Quero acreditar que o Brain Scorcher pode ser desligado.</text>
 697|<text>O que voce quer? Voce nao ve que estou tentando relaxar aqui...</text>
 700|<text>O que ha de novo?</text>
 703|<text>Ouvi dizer que Strelok voltou. Ele tem todo o equipamento que voce precisa para chegar a Maquina... Ele esta escondido agora porque muita gente esta atras dele. Alguns sao abertos sobre isso, enquanto outros estao tentando manter seu interesse em segredo. Ha rumores de que ate a Duty e a Freedom se juntaram a cacada... cada um com sua propria agenda.</text>
 706|<text>Parece que Strelok esta certo em se esconder.</text>
 709|<text>O que voce quer?</text>
 712|<text>Voce pode me dizer algo que seria util para um novato?</text>
-715|<text>Util para um novato? Bem, ouca. Ao norte, nao muito longe do Desintegrador Psiquico, a Freedom montou seu QG em uma antiga base militar. Eles sao notorios niilistas, anarquistas e criminosos - combatentes da liberdade, guerrilheiros loucos, todos eles. Tudo o que fazem e sabotar grupos de pesquisa, atacar unidades do exercito e constantemente entrar em conflito com a Duty. Esses conflitos agora estao se transformando em uma guerra de pequena escala pela sobrevivencia. Deixe-me dar um conselho: nunca se envolva com eles. Eles so vao te aceitar se voce for totalmente louco e houver uma recompensa pela sua cabeca. Ha-ha-ha. Voce acredita nisso?</text>
+715|<text>Util para um novato? Bem, ouca. Ao norte, nao muito longe do Brain Scorcher, a Freedom montou seu QG em uma antiga base militar. Eles sao notorios niilistas, anarquistas e criminosos - combatentes da liberdade, guerrilheiros loucos, todos eles. Tudo o que fazem e sabotar grupos de pesquisa, atacar unidades do exercito e constantemente entrar em conflito com a Duty. Esses conflitos agora estao se transformando em uma guerra de pequena escala pela sobrevivencia. Deixe-me dar um conselho: nunca se envolva com eles. Eles so vao te aceitar se voce for totalmente louco e houver uma recompensa pela sua cabeca. Ha-ha-ha. Voce acredita nisso?</text>
 718|<text>Obrigado pelo seu conselho.</text>
 721|<text>O que voce quer?</text>
 724|<text>Voce pode me dizer algo que seria util para um novato?</text>
@@ -253,10 +253,10 @@
 760|<text>Suponha que sim. O que voce quer?</text>
 763|<text>Sardento foi salvo da Red Forest, mas Corcunda esta morto.</text>
 766|<text>Droga!</text>
-769|<text>Sardento esta em mau estado, seu cerebro nao funciona mais. Talvez voce possa falar com ele? Precisamos descobrir o cronograma do Desintegrador Psiquico.</text>
+769|<text>Sardento esta em mau estado, seu cerebro nao funciona mais. Talvez voce possa falar com ele? Precisamos descobrir o cronograma do Brain Scorcher.</text>
 772|<text>Nao! Nao me peca para fazer isso. Corcunda esta morto por minha causa e o que aconteceu com Sardento tambem e minha culpa. Eu os deixei, os trai, os abandonei e fugi! Nao posso olhar Sardento nos olhos depois do que fiz!</text>
 775|<text>Vamos la, relaxa cara. Me conte o que aconteceu.</text>
-778|<text>Nos tres estavamos nos preparando para tentar chegar ao norte. Nao sabiamos quando as emissoes do Desintegrador Psiquico eram mais baixas, mas Sardento conseguiu a informacao em algum lugar... Nao sei onde... Estavamos na metade do setor, quando o Desintegrador Psiquico de repente ligou de novo. Sardento desmaiou na hora e caiu na encosta. Entrei em panico e disse que deveriamos deixar tudo e voltar. Corcunda conseguiu se recompor e disse que tinhamos que tirar Sardento de la... Eu disse: "Voce e um idiota, nao quer viver? Acabou para ele, como vamos carrega-lo de volta?" Assim que ele conseguiu me convencer e comecou a descer para pegar Sardento... outra onda veio. Quando voltei a mim, estava na base militar... Achei que Corcunda e Sardento tinham ficado la... mas Corcunda o tirou e nao conseguiu sair... ele o tirou...</text>
+778|<text>Nos tres estavamos nos preparando para tentar chegar ao norte. Nao sabiamos quando as emissoes do Brain Scorcher eram mais baixas, mas Sardento conseguiu a informacao em algum lugar... Nao sei onde... Estavamos na metade do setor, quando o Brain Scorcher de repente ligou de novo. Sardento desmaiou na hora e caiu na encosta. Entrei em panico e disse que deveriamos deixar tudo e voltar. Corcunda conseguiu se recompor e disse que tinhamos que tirar Sardento de la... Eu disse: "Voce e um idiota, nao quer viver? Acabou para ele, como vamos carrega-lo de volta?" Assim que ele conseguiu me convencer e comecou a descer para pegar Sardento... outra onda veio. Quando voltei a mim, estava na base militar... Achei que Corcunda e Sardento tinham ficado la... mas Corcunda o tirou e nao conseguiu sair... ele o tirou...</text>
 781|<text>OK, Careca, OK. Calma, cara. Obrigado por me contar o que aconteceu. Eu mesmo vou falar com Sardento.</text>
 784|<text>Desculpe. Nao estou com vontade de conversar... Prefiro apenas tomar outra bebida.</text>
 787|<text>O que voce quer?</text>
@@ -273,7 +273,7 @@
 820|<text>Obrigado pela informacao.</text>
 823|<text>O que voce quer?</text>
 826|<text>O que voce ouviu?</text>
-829|<text>Ninguem conseguiu passar pelo ferro-velho de veiculos por causa do Desintegrador Psiquico. Algumas pessoas viram um stalker passar pela fronteira invisivel, cair, depois levantar em alguns minutos e seguir direto para o centro do ferro-velho. Ele nao foi visto desde entao...</text>
+829|<text>Ninguem conseguiu passar pelo ferro-velho de veiculos por causa do Brain Scorcher. Algumas pessoas viram um stalker passar pela fronteira invisivel, cair, depois levantar em alguns minutos e seguir direto para o centro do ferro-velho. Ele nao foi visto desde entao...</text>
 832|<text>Interessante...</text>
 835|<text>O que voce quer?</text>
 838|<text>O que voce ouviu?</text>
@@ -415,7 +415,7 @@
 1246|<text>OK.</text>
 1249|<text>Vamos nos mover. Vamos tentar passar...</text>
 1252|<text>Vamos nos apressar.</text>
-1255|<text>Stalker, eu imploro! Estavamos voltando de Yantar quando os Mercs derrubaram nosso helicoptero. Ouvi dizer que eles estao procurando informacoes, mas sei que nos matarao. Ajude-me a chegar ao lago e eu lhe contarei tudo o que sei sobre o que voce chama de Desintegrador Psiquico. O Bartender vai te pagar bem.</text>
+1255|<text>Stalker, eu imploro! Estavamos voltando de Yantar quando os Mercs derrubaram nosso helicoptero. Ouvi dizer que eles estao procurando informacoes, mas sei que nos matarao. Ajude-me a chegar ao lago e eu lhe contarei tudo o que sei sobre o que voce chama de Brain Scorcher. O Bartender vai te pagar bem.</text>
 1258|<text>OK.</text>
 1261|<text>Obrigado, stalker. Eu nao sou muito lutador, mas conheco o caminho, entao vou liderar e voce nos dara cobertura.</text>
 1264|<text>Nao. Tente sair daqui sozinho.</text>

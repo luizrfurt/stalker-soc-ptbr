@@ -238,13 +238,13 @@
 		<text>Um vasto cemiterio de maquinas. Logo apos o primeiro acidente, montes de lixo radioativo foram despejados la. Principalmente ruinas de predios antigos infestados de mutantes. Muito parecido com os arredores da Zona, o lugar esta cheio de stalkers novatos, com um bandido ocasional vagando por perto, sempre a procura de brindes. Alguns artefatos podem ser encontrados aqui, mas a maioria deles simplesmente nao vale o esforco. Voce estara melhor em outro lugar. Seguindo para o norte, voce chegara ao Wild Territory, a oeste fica a entrada para o Dark Valley, com a estrada para o Agroprom Research Institute a leste.</text>
 	</string>
 	<string id="enc_zone_locations_military-loc">
-		<text>Uma base militar deserta ao lado de um povoado dilapidado e um pequeno pantano. A vila e um lugar assustador literalmente cheio de mutantes - as sanguessugas sozinhas sao legiao. Stalkers fazem o possivel para se manterem afastados dela, mesmo que isso signifique percorrer quilometros extras ao seu redor. Os anarquistas da faccao Freedom se estabeleceram na base militar. A estrada que liga a base a Zona e guardada pelo Desintegrador Psiquico, que bloqueia o caminho para Prypiat e a Chernobyl NPP.</text>
+		<text>Uma base militar deserta ao lado de um povoado dilapidado e um pequeno pantano. A vila e um lugar assustador literalmente cheio de mutantes - as sanguessugas sozinhas sao legiao. Stalkers fazem o possivel para se manterem afastados dela, mesmo que isso signifique percorrer quilometros extras ao seu redor. Os anarquistas da faccao Freedom se estabeleceram na base militar. A estrada que liga a base a Zona e guardada pelo Brain Scorcher, que bloqueia o caminho para Prypiat e a Chernobyl NPP.</text>
 	</string>
 	<string id="enc_zone_locations_pripiat">
-		<text>Esta costumava ser uma cidade construida para engenheiros que trabalhavam na Chernobyl NPP. Um lugar bastante grande antes, agora e uma cidade fantasma com mutantes e zumbis como os unicos residentes. Parece nao haver como entrar la: o Desintegrador Psiquico esta bloqueando o caminho.</text>
+		<text>Esta costumava ser uma cidade construida para engenheiros que trabalhavam na Chernobyl NPP. Um lugar bastante grande antes, agora e uma cidade fantasma com mutantes e zumbis como os unicos residentes. Parece nao haver como entrar la: o Brain Scorcher esta bloqueando o caminho.</text>
 	</string>
 	<string id="enc_zone_locations_radar">
-		<text>Um lugar terrivel. Facil de desaparecer sem deixar rastros la, nao importa o quao sortudo voce tenha sido na vida ate agora. Quem se aproxima do Desintegrador Psiquico imediatamente enlouquece, se transforma em um zumbi e comeca a perseguir a Zona incessantemente. Uma casca humana e tudo o que resta. Ninguem jamais voltou com a mente sa.</text>
+		<text>Um lugar terrivel. Facil de desaparecer sem deixar rastros la, nao importa o quao sortudo voce tenha sido na vida ate agora. Quem se aproxima do Brain Scorcher imediatamente enlouquece, se transforma em um zumbi e comeca a perseguir a Zona incessantemente. Uma casca humana e tudo o que resta. Ninguem jamais voltou com a mente sa.</text>
 	</string>
 	<string id="enc_zone_locations_rostok">
 		<text>O Wild Territory costumava ser o local de uma fabrica de manufatura bastante grande, atualmente em ruinas. Muitos stalkers encontraram a morte la: o lugar esta cheio de todos os tipos de monstros. As feras estao literalmente fluindo para la de toda a Zona. Dizem que algo de grande importancia esta escondido neste local, entao sempre ha muitos aventureiros dispostos a tentar a sorte.</text>
@@ -295,7 +295,7 @@
 		<text>Prypiat</text>
 	</string>
 	<string id="Radar">
-		<text>Desintegrador Psiquico</text>
+		<text>Brain Scorcher</text>
 	</string>
 	<string id="Radioactive">
 		<text>Fonte de radioatividade</text>

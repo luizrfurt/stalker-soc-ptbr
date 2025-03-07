@@ -260,17 +260,17 @@
 781|<text>Esconderijo secreto antigo</text>
 784|<text>Eles enterraram Presa em Prypiat sob um monumento. Deixaram todas as suas mercadorias com ele - nao e certo tirar dos mortos.</text>
 787|<text>Mercadorias de Presa</text>
-790|<text>A ultima coisa que sabiam sobre ele e que ele foi o unico sobrevivente apos o Desintegrador Psiquico. Ele deixou todos os suprimentos em um supermercado antigo e seguiu em frente. Tudo nao saiu como planejado, e ele foi o melhor lider da Freedom em toda a nossa historia.</text>
+790|<text>A ultima coisa que sabiam sobre ele e que ele foi o unico sobrevivente apos o Brain Scorcher. Ele deixou todos os suprimentos em um supermercado antigo e seguiu em frente. Tudo nao saiu como planejado, e ele foi o melhor lider da Freedom em toda a nossa historia.</text>
 793|<text>Suprimentos do lider da Freedom</text>
-796|<text>A cruz esta a caminho do Desintegrador Psiquico, nao fui mais longe, escondi tudo la embaixo.</text>
+796|<text>A cruz esta a caminho do Brain Scorcher, nao fui mais longe, escondi tudo la embaixo.</text>
 799|<text>Tesouro de Murk</text>
 802|<text>Algum stalker morreu aqui, e suas mercadorias ainda estao por ai, ninguem consegue alcanca-las</text>
 805|<text>Mercadorias do stalker morto</text>
 808|<text>Dizem que ha um cofre meio enterrado na floresta e ha um monte de mercadorias dentro</text>
 811|<text>Mercadorias no cofre</text>
-814|<text>Eles foram avisados para nao voar sobre o Desintegrador Psiquico, e veja o que aconteceu. Eles pousaram no meio da floresta, e e improvavel que alguem tenha sobrevivido. Deveriamos pegar as coisas que estavam com eles.</text>
+814|<text>Eles foram avisados para nao voar sobre o Brain Scorcher, e veja o que aconteceu. Eles pousaram no meio da floresta, e e improvavel que alguem tenha sobrevivido. Deveriamos pegar as coisas que estavam com eles.</text>
 817|<text>Pacote para a Duty</text>
-820|<text>Dizem que os suprimentos da faccao, que estavam tentando chegar ao centro da Zona, ainda estao sob a radiacao do Desintegrador Psiquico. Nenhum deles retornou, e os suprimentos permaneceram la esperando que alguem os pegasse.</text>
+820|<text>Dizem que os suprimentos da faccao, que estavam tentando chegar ao centro da Zona, ainda estao sob a radiacao do Brain Scorcher. Nenhum deles retornou, e os suprimentos permaneceram la esperando que alguem os pegasse.</text>
 823|<text>Suprimentos do grupo imprudente</text>
 826|<text>Dizem que o lider de alguma faccao anterior morreu aqui, e havia uma quantidade valiosa de mercadorias com ele</text>
 829|<text>Mercadorias do lider da faccao anterior</text>

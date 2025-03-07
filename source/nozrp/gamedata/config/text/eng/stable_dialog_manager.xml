@@ -202,7 +202,7 @@
 		<text>Nao ha nada de novo. Nao ha mais artefatos aqui, e naquelas casinhas costumavam morar sanguessugas, atiramos neles o melhor que pudemos. Agora eu fui, e nao consigo chegar ao lugar. Intuicao, talvez, mas eu nao consigo e pronto. De jeito nenhum. A morte esta la...</text>
 	</string>
 	<string id="dm_action_info_69">
-		<text>Estou vazando daqui! Vaguei por quatro semanas na fronteira, e chega - ja deu pra mim! Monstros estao constantemente vindo para ca na direcao do Desintegrador, e a cada dia mais e mais deles...</text>
+		<text>Estou vazando daqui! Vaguei por quatro semanas na fronteira, e chega - ja deu pra mim! Monstros estao constantemente vindo para ca na direcao do Scorcher, e a cada dia mais e mais deles...</text>
 	</string>
 	<string id="dm_action_info_7">
 		<text>Agora muitos se tornaram "lixeiros". Antes eles nem olhavam para as pilhas - tanta radiacao que cozinha ovos em meia hora. E agora que ficou mais dificil com as coisas boas, eles se enrolam em protecao, tomam alguns produtos quimicos e escalam para olhar. Ha todo tipo de coisa que aparece la, embora geralmente sejam pequenas porcarias.</text>
@@ -289,13 +289,13 @@
 		<text>Estou preso aqui, entendeu, preso. Quero ir para casa, e eles nao me deixam. Essas sao todas as noticias. Os caras que andam fundo na Zona, os que ja viram de tudo, dizem coisas diferentes. E as vezes trazem coisas boas tambem - voce ficaria com inveja. Eles dizem que ha lugares como montes de ouro: tudo para pegar. E claro que nem todos chegam la, e menos ainda voltam com os achados.</text>
 	</string>
 	<string id="dm_cool_info_10">
-		<text>Ha uma semana, Lontra queimou no Desintegrador. Faria sentido se fosse algum novato medroso - mas ele e stalker ha muitos anos. Dizem que ele ate estava na equipe de Strelok. E ai, de repente...</text>
+		<text>Ha uma semana, Lontra queimou no Scorcher. Faria sentido se fosse algum novato medroso - mas ele e stalker ha muitos anos. Dizem que ele ate estava na equipe de Strelok. E ai, de repente...</text>
 	</string>
 	<string id="dm_cool_info_100">
 		<text>Bem, eu nao estou muito atualizado com as ultimas noticias.</text>
 	</string>
 	<string id="dm_cool_info_11">
-		<text>Me diga uma coisa, stalker: por que voces, loners, as vezes enlouquecem? Falta alguma disciplina basica? Na semana passada, um decidiu passar pelo Desintegrador. E dizem que ele era experiente tambem... Tem um jeito mais facil de se livrar do cerebro - cano na boca e atira!</text>
+		<text>Me diga uma coisa, stalker: por que voces, loners, as vezes enlouquecem? Falta alguma disciplina basica? Na semana passada, um decidiu passar pelo Scorcher. E dizem que ele era experiente tambem... Tem um jeito mais facil de se livrar do cerebro - cano na boca e atira!</text>
 	</string>
 	<string id="dm_cool_info_12">
 		<text>Que se danem esses mercs. Eles estao bebendo nosso sangue ha muito tempo, e agora atacaram os cabecas de ovo tambem. E por que eles cederam? Por causa de algum resgate? Ou para compartilhar seus premios Nobel?</text>
@@ -313,7 +313,7 @@
 		<text>Ha! Todo mundo enlouqueceu por aqui! O Confederado e seu grupo voltaram de uma incursao, arrastaram um monte de artefatos - mama mia! E claro que o Confederado esta quieto - nao fala uma palavra, como sempre - e todos os seus caras estao brincando como se tivessem ido para o Yukon e encontrado ouro... os porcos!</text>
 	</string>
 	<string id="dm_cool_info_17">
-		<text>Nos ultimos dias, todas essas feras estao vindo do Desintegrador. O pessoal dos antigos armazens construiu uma barreira; por enquanto, eles parecem dar conta. Se nao enfraquecer... eles terao que pedir reforcos, nao tem outra coisa a fazer...</text>
+		<text>Nos ultimos dias, todas essas feras estao vindo do Scorcher. O pessoal dos antigos armazens construiu uma barreira; por enquanto, eles parecem dar conta. Se nao enfraquecer... eles terao que pedir reforcos, nao tem outra coisa a fazer...</text>
 	</string>
 	<string id="dm_cool_info_18">
 		<text>Voce ouviu os boatos de que a Zona esta crescendo? Acho que e verdade: eu vi um monstro humanoide assustador bem perto do perimetro que antes so se encontrava no centro da Zona. As coisas nao parecem boas, ne?</text>
@@ -364,7 +364,7 @@
 		<text>Os cabecas de ovo estao farejando alguma coisa. O diabo sabe que segredo eles ja encontraram, mas eles certamente tem as tropas enroladas no dedo mindinho. E eles estao procurando por todo Agroprom e Dark Valley, procurando, procurando, tentando encontrar algo...</text>
 	</string>
 	<string id="dm_cool_info_32">
-		<text>A cada dia sai mais e mais porcaria do Desintegrador, e os caras da Duty e da Freedom decidiram brigar de novo. Entao eles vao se matar, e ai? Quanto tempo podemos segurar a fronteira sozinhos?</text>
+		<text>A cada dia sai mais e mais porcaria do Scorcher, e os caras da Duty e da Freedom decidiram brigar de novo. Entao eles vao se matar, e ai? Quanto tempo podemos segurar a fronteira sozinhos?</text>
 	</string>
 	<string id="dm_cool_info_33">
 		<text>Os mutantes estao tentando cada vez mais passar pela barreira. Ultimamente tem sido muito dificil. Se algumas pessoas parassem com suas idiotices, teriamos mais sucesso!</text>
@@ -382,7 +382,7 @@
 		<text>Voce ouviu o que os caras da Duty estao dizendo que vao fazer conosco? "Transforma-los em po" - e isso e o minimo. Essa historia toda me preocupa... Principalmente porque, dizem, eles se rearmaram com equipamentos de ultima geracao.</text>
 	</string>
 	<string id="dm_cool_info_38">
-		<text>Que noticias? Nos sentamos aqui, os animais vem para cima de nos, nos atiramos neles, ai eles vem de novo, so que mais fortes. E claro que algumas vezes os helicopteros militares passaram, e parece que eles voaram ate depois do Desintegrador.</text>
+		<text>Que noticias? Nos sentamos aqui, os animais vem para cima de nos, nos atiramos neles, ai eles vem de novo, so que mais fortes. E claro que algumas vezes os helicopteros militares passaram, e parece que eles voaram ate depois do Scorcher.</text>
 	</string>
 	<string id="dm_cool_info_39">
 		<text>Que noticias podem ter... tudo na mesma. Mutantes, Freedom... embora ultimamente soldados tenham comecado a voar em helicopteros. Pelo menos eles poderiam ter atirado em uma fera uma vez... mas nao, nada disso...</text>
@@ -391,7 +391,7 @@
 		<text>Noticias? Quem se importa com o que eles dizem! Voce nao pode acreditar em tudo o que todo mundo diz. Por exemplo, dizem que um stalker experiente veio das areas internas, trouxe algo que ninguem nunca viu, impressionou um monte de garotas... Bem, eu mesmo posso inventar cem historias assim!</text>
 	</string>
 	<string id="dm_cool_info_40">
-		<text>Eu vi uns helicopteros militares: imagine so, eles voaram por cima e foram depois do Desintegrador Psiquico! Bem, eu pensei, eles vao cair agora. Mas nada - eles continuam indo. Ficaram por la um tempo, rodaram e depois voltaram. Tipico, ne?</text>
+		<text>Eu vi uns helicopteros militares: imagine so, eles voaram por cima e foram depois do Brain Scorcher! Bem, eu pensei, eles vao cair agora. Mas nada - eles continuam indo. Ficaram por la um tempo, rodaram e depois voltaram. Tipico, ne?</text>
 	</string>
 	<string id="dm_cool_info_41">
 		<text>Ah, agora que tem um caminho para o centro - deve ter tanto tesouro jogado aos seus pes!</text>
@@ -451,7 +451,7 @@
 		<text>As tropas estao agitadas - procurando, cavando. Antes, os helicopteros voavam apenas para Yantar - protegiam os cientistas, transportavam suprimentos e tecnologia. Mas agora eles estao praticamente invadindo - planejando todo tipo de expedicao, dirigindo em APCs. Ja os vi em Agroprom e no Dark Valley. Nao entendo.</text>
 	</string>
 	<string id="dm_cool_info_7">
-		<text>Dizem que alguem tentou passar pelo desintegrador de novo. Bem, obviamente ele nunca voltou... voce nunca ouviu falar do Desintegrador Psiquico? Qual e o seu problema, cara?! E o maior perigo em toda essa area! O problema e que todos os horrores que dizem sobre ele sao quase todos verdadeiros.</text>
+		<text>Dizem que alguem tentou passar pelo desintegrador de novo. Bem, obviamente ele nunca voltou... voce nunca ouviu falar do Brain Scorcher? Qual e o seu problema, cara?! E o maior perigo em toda essa area! O problema e que todos os horrores que dizem sobre ele sao quase todos verdadeiros.</text>
 	</string>
 	<string id="dm_cool_info_8">
 		<text>Aqui, alem dos bandidos, as tropas comecaram a vagar por ai por algum motivo. Antes voce via um helicoptero uma vez a cada cem anos, mas agora eles estao voando por toda a Zona, praticamente. Sera que eles perderam alguma coisa ou o que?</text>
@@ -538,7 +538,7 @@
 		<text>Cuidado com os zumbis - eles sao burros, nao tem medo de nada. E e melhor nao ir ao laboratorio - eles tem seus criadouros la ou algo assim...</text>
 	</string>
 	<string id="dm_intro_18">
-		<text>Lembre-se de que o Desintegrador Psiquico esta perto. Nem pense em ir para o norte.</text>
+		<text>Lembre-se de que o Brain Scorcher esta perto. Nem pense em ir para o norte.</text>
 	</string>
 	<string id="dm_intro_19">
 		<text>Cuidado - se voce nao quiser perder seu cerebro, nao va mais para o norte daqui.</text>
@@ -547,7 +547,7 @@
 		<text>Tenha cuidado ao passar pela ponte, entendeu? Ha muitos caes vadios la. Se voce nao prestar atencao, eles vao te despedacar em pouco tempo.</text>
 	</string>
 	<string id="dm_intro_20">
-		<text>Cuide-se! Voce sabe que o Desintegrador esta muito perto; se voce for para o norte, sera mais um retardado morto.</text>
+		<text>Cuide-se! Voce sabe que o Scorcher esta muito perto; se voce for para o norte, sera mais um retardado morto.</text>
 	</string>
 	<string id="dm_intro_21">
 		<text>E como se estivessemos andando por um campo minado, so que pior. O diabo sabe o que acontece aqui - nao da para relaxar nem por um segundo.</text>

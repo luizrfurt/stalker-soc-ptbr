@@ -37,7 +37,7 @@
 110|<text>Coronel Petrenko</text>
 113|<text>Chefe da seguranca do territorio da Duty</text>
 116|<text>Sargento Plichko</text>
-119|<text>Estranho afetado pelo Desintegrador Psiquico.</text>
+119|<text>Estranho afetado pelo Brain Scorcher.</text>
 122|<text>Sardento</text>
 125|<text>Um dos fundadores da Duty e seu principal idealizador. Responsavel pelo codigo sagrado da faccao. Ele recrutou quase todos os membros-chave da Duty.</text>
 128|<text>General Voronin</text>
