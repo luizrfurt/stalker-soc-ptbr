@@ -19,7 +19,7 @@
 58|<text>O que esta acontecendo?</text>
 61|<text>Eu e meus rapazes encontramos uma pequena area agradavel cheia de artefatos, mas aqueles bastardos do exercito nos atacaram por algum motivo. Nao sei o que diabos eles queriam de nos...</text>
 64|<text>Sim, ouvi falar dele. Acho que ele costumava "ganhar a vida" nesta area - e um lugar muito bom, na verdade. Ele foi embora ha muito tempo; nao sei quando foi exatamente e nao tenho ideia de para onde ele foi. Isso e tudo o que posso te dizer.</text>
-67|<text>Voce nao estava esperando aqui sem motivo, estava? Caso contrario, por que as Forcas Especiais apareceriam aqui?</text>
+67|<text>Voce nao estava esperando aqui sem motivo, estava? Caso contrario, por que a Spetsnaz apareceria aqui?</text>
 70|<text>OK, eu sei algo sobre Strelok.</text>
 73|<text>Serio? Eu realmente preciso saber disso!</text>
 76|<text>Se voce mentiu para mim, vou te encontrar e terminar o que os soldados nao conseguiram!</text>

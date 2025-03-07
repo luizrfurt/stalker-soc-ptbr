@@ -23,13 +23,13 @@
 		<text>Detalhes nao disponiveis.</text>
 	</string>
 	<string id="aes_Soldier_specnaz_aes_bio">
-		<text>Forcas Especiais do Exercito. Bem equipado. Detalhes nao disponiveis.</text>
+		<text>Spetsnaz do Exercito. Bem equipado. Detalhes nao disponiveis.</text>
 	</string>
 	<string id="aes_Soldier_specnaz_aes_name">
 		<text>Vasil "Sem sorte"</text>
 	</string>
 	<string id="aes_Soldier_specnaz_bio">
-		<text>Forcas Especiais do Exercito. Bem equipado. Detalhes nao disponiveis.</text>
+		<text>Spetsnaz do Exercito. Bem equipado. Detalhes nao disponiveis.</text>
 	</string>
 	<string id="agr_krot_bio">
 		<text>Ex-escavador que invade todos os laboratorios e bunkers desertos que ele e seus associados encontram.</text>
@@ -236,7 +236,7 @@
 		<text>Soldado raso regular do Exercito Ucraniano. Detalhes nao disponiveis.</text>
 	</string>
 	<string id="esc_specnaz_bio">
-		<text>Forcas Especiais. Bem equipado. Detalhes nao disponiveis.</text>
+		<text>Spetsnaz. Bem equipado. Detalhes nao disponiveis.</text>
 	</string>
 	<string id="esc_specnaz_killer_bio">
 		<text>Merc desconhecido. Bem armado e altamente perigoso. Detalhes nao disponiveis.</text>
@@ -470,7 +470,7 @@
 		<text>Militante do grupo Monolito. Bem equipado. Detalhes nao disponiveis.</text>
 	</string>
 	<string id="rad_specnaz_bio">
-		<text>Forcas Especiais. Bem equipado. Detalhes nao disponiveis.</text>
+		<text>Spetsnaz. Bem equipado. Detalhes nao disponiveis.</text>
 	</string>
 	<string id="rad_stalker_master_bio">
 		<text>Um dos veteranos. Conhece a Zona como a palma da mao. Geralmente bem equipado e altamente perigoso. Detalhes nao disponiveis.</text>
@@ -728,7 +728,7 @@
 		<text>Detalhes nao disponiveis.</text>
 	</string>
 	<string id="sim_soldier_specnaz_bio">
-		<text>Forcas Especiais. Bem equipado. Detalhes nao disponiveis.</text>
+		<text>Spetsnaz. Bem equipado. Detalhes nao disponiveis.</text>
 	</string>
 	<string id="sim_stalker_general_bio">
 		<text>Stalker experiente. Detalhes nao disponiveis.</text>
@@ -764,7 +764,7 @@
 		<text>Stalker veterano. Possivelmente bem equipado. Detalhes nao disponiveis.</text>
 	</string>
 	<string id="sim_stalker_veteran_gusarov_bio">
-		<text>Oleg "Demonio" Gusarov. Um ex-"Boina Negra", serviu na brigada de Forcas Especiais Belotserkovskaya. Serviu em varias missoes, tornou-se sargento mestre. Um sniper e tecnico de bombas. Um solitario de coracao, nunca se aventura na Zona em grupo, preferindo agir sozinho. Foi oferecido para se juntar aos clas varias vezes, mas sempre recusou.</text>
+		<text>Oleg "Demonio" Gusarov. Um ex-"Boina Negra", serviu na brigada de Spetsnaz Belotserkovskaya. Serviu em varias missoes, tornou-se sargento mestre. Um sniper e tecnico de bombas. Um solitario de coracao, nunca se aventura na Zona em grupo, preferindo agir sozinho. Foi oferecido para se juntar aos clas varias vezes, mas sempre recusou.</text>
 	</string>
 	<string id="sim_stalker_veteran_umnik_bio">
 		<text>Um estudante do Departamento de Fisica que desistiu no ultimo ano. Ele foi para a Zona em busca de dinheiro facil. Gosta de exibir seu conhecimento "cientifico" e discursar sobre questoes filosoficas abstratas. E razao suficiente para outros stalkers nao gostarem dele. No geral, um sujeito bem decente. Uma especie de idealista.</text>
@@ -839,7 +839,7 @@
 		<text>Soldado regular. Detalhes nao disponiveis.</text>
 	</string>
 	<string id="val_soldier_specnaz_bio">
-		<text>Forcas Especiais. Bem equipado. Detalhes nao disponiveis.</text>
+		<text>Spetsnaz. Bem equipado. Detalhes nao disponiveis.</text>
 	</string>
 	<string id="val_stalker_general_bio">
 		<text>Stalker experiente. Detalhes nao disponiveis.</text>

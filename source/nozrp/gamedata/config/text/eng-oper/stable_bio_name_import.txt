@@ -6,9 +6,9 @@
 17|<text>Comandante da incursao militar.</text>
 20|<text>Stalker militar. Bem armado e altamente perigoso. Detalhes nao disponiveis.</text>
 23|<text>Detalhes nao disponiveis.</text>
-26|<text>Forcas Especiais do Exercito. Bem equipado. Detalhes nao disponiveis.</text>
+26|<text>Spetsnaz do Exercito. Bem equipado. Detalhes nao disponiveis.</text>
 29|<text>Vasil "Sem sorte"</text>
-32|<text>Forcas Especiais do Exercito. Bem equipado. Detalhes nao disponiveis.</text>
+32|<text>Spetsnaz do Exercito. Bem equipado. Detalhes nao disponiveis.</text>
 35|<text>Ex-escavador que invade todos os laboratorios e bunkers desertos que ele e seus associados encontram.</text>
 38|<text>Toupeira</text>
 41|<text>Um dos participantes das lutas mortais na Arena. Detalhes nao disponiveis.</text>
@@ -77,7 +77,7 @@
 230|<text>Major comandando o posto avancado do exercito perto da ponte. Conhecido por aceitar subornos de stalkers para deixa-los passar pela ponte.</text>
 233|<text>Major Kuznetsov</text>
 236|<text>Soldado raso regular do Exercito Ucraniano. Detalhes nao disponiveis.</text>
-239|<text>Forcas Especiais. Bem equipado. Detalhes nao disponiveis.</text>
+239|<text>Spetsnaz. Bem equipado. Detalhes nao disponiveis.</text>
 242|<text>Merc desconhecido. Bem armado e altamente perigoso. Detalhes nao disponiveis.</text>
 245|<text>Novato. Novo na Zona. Detalhes nao disponiveis.</text>
 248|<text>Stalker tipico.</text>
@@ -155,7 +155,7 @@
 464|<text>Assistente de pesquisa.</text>
 467|<text>Stalker do grupo Monolito. Detalhes nao disponiveis.</text>
 470|<text>Militante do grupo Monolito. Bem equipado. Detalhes nao disponiveis.</text>
-473|<text>Forcas Especiais. Bem equipado. Detalhes nao disponiveis.</text>
+473|<text>Spetsnaz. Bem equipado. Detalhes nao disponiveis.</text>
 476|<text>Um dos veteranos. Conhece a Zona como a palma da mao. Geralmente bem equipado e altamente perigoso. Detalhes nao disponiveis.</text>
 479|<text>Stalker veterano. Possivelmente bem equipado. Detalhes nao disponiveis.</text>
 482|<text>Comandante da faccao Freedom. Detalhes nao disponiveis.</text>
@@ -241,7 +241,7 @@
 722|<text>Stalker militar. Bem armado e altamente perigoso. Detalhes nao disponiveis.</text>
 725|<text>Soldado regular. Detalhes nao disponiveis.</text>
 728|<text>Detalhes nao disponiveis.</text>
-731|<text>Forcas Especiais. Bem equipado. Detalhes nao disponiveis.</text>
+731|<text>Spetsnaz. Bem equipado. Detalhes nao disponiveis.</text>
 734|<text>Stalker experiente. Detalhes nao disponiveis.</text>
 737|<text>Stalker nascido sob uma estrela da sorte. Muitas vezes, as equipes com as quais ele estava acabavam em situacoes dificeis e toda vez ele era o unico sobrevivente. A maioria dos stalkers fica longe dele por causa da ma sorte que ele supostamente traz. Tem perambulado pela Zona sozinho ha algum tempo.</text>
 740|<text>Um dos veteranos. Conhece a Zona como a palma da mao. Geralmente bem equipado e altamente perigoso. Detalhes nao disponiveis.</text>
@@ -253,7 +253,7 @@
 758|<text>Desastrado tem 20 anos. Ele perdeu tudo e todos na Grande Terra antes de decidir vir para ca. Ele mal ganha a vida na Zona, mas simplesmente nao tem outro lugar para ir. Deve dinheiro a muitos stalkers. Frequenta a Zona, mas nunca vai la sozinho. Sempre tentando se agarrar a um grupo de stalkers experientes. Nao e um companheiro popular, pois na maioria das vezes ele e simplesmente inutil. Quase nao ganha dinheiro. Vive de esmolas de outros stalkers e esta profundamente endividado.</text>
 761|<text>Stalker veterano. Possivelmente bem equipado. Detalhes nao disponiveis.</text>
 764|<text>Stalker veterano. Possivelmente bem equipado. Detalhes nao disponiveis.</text>
-767|<text>Oleg "Demonio" Gusarov. Um ex-"Boina Negra", serviu na brigada de Forcas Especiais Belotserkovskaya. Serviu em varias missoes, tornou-se sargento mestre. Um sniper e tecnico de bombas. Um solitario de coracao, nunca se aventura na Zona em grupo, preferindo agir sozinho. Foi oferecido para se juntar aos clas varias vezes, mas sempre recusou.</text>
+767|<text>Oleg "Demonio" Gusarov. Um ex-"Boina Negra", serviu na brigada de Spetsnaz Belotserkovskaya. Serviu em varias missoes, tornou-se sargento mestre. Um sniper e tecnico de bombas. Um solitario de coracao, nunca se aventura na Zona em grupo, preferindo agir sozinho. Foi oferecido para se juntar aos clas varias vezes, mas sempre recusou.</text>
 770|<text>Um estudante do Departamento de Fisica que desistiu no ultimo ano. Ele foi para a Zona em busca de dinheiro facil. Gosta de exibir seu conhecimento "cientifico" e discursar sobre questoes filosoficas abstratas. E razao suficiente para outros stalkers nao gostarem dele. No geral, um sujeito bem decente. Uma especie de idealista.</text>
 773|<text>Pardal tem 27 anos, e astuto e previdente, mas tambem capaz dos piores erros. Pode ser mesquinho. Uma pessoa bastante duvidosa. Um tipo magricela e palido. Veio para a Zona por curiosidade, prometendo a si mesmo que voltaria para casa depois de dois meses. Ele nunca voltou. Em sua primeira incursao na Zona, Pardal conseguiu atravessar um campo repleto de anomalias com as maos nuas e sem nocao do quao perigoso era aquilo. Assim que descobriu o que havia feito, desmaiou. Desde entao, celebra essa data (9 de outubro) como seu segundo aniversario.</text>
 776|<text>Mestre da faccao Freedom. Detalhes nao disponiveis.</text>
@@ -278,7 +278,7 @@
 833|<text>Stalker da faccao Duty. Detalhes nao disponiveis.</text>
 836|<text>Bala</text>
 839|<text>Soldado regular. Detalhes nao disponiveis.</text>
-842|<text>Forcas Especiais. Bem equipado. Detalhes nao disponiveis.</text>
+842|<text>Spetsnaz. Bem equipado. Detalhes nao disponiveis.</text>
 845|<text>Stalker experiente. Detalhes nao disponiveis.</text>
 848|<text>Novato. Novo na Zona. Detalhes nao disponiveis.</text>
 851|<text>Fantasma</text>
