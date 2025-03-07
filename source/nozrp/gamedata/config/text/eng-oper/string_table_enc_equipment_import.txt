@@ -5,8 +5,8 @@
 16|<text>Bandagens</text>
 19|<text>Binoculos</text>
 22|<text>Pao</text>
-25|<text>Um mapa detalhado da Cidade Morta, incluindo as posicoes dos Mercs</text>
-28|<text>Mapa da Cidade Morta</text>
+25|<text>Um mapa detalhado da Dead City, incluindo as posicoes dos Mercs</text>
+28|<text>Mapa da Dead City</text>
 31|<text>Chave do doutor para um esconderijo secreto em Prypiat</text>
 34|<text>Chave do doutor</text>
 37|<text>Delicia do turista</text>

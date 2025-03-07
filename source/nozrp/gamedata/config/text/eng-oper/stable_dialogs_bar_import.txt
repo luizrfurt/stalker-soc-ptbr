@@ -243,8 +243,8 @@
 730|<text>Sim... parece que alguem realmente nao quer que a Zona seja compreendida...</text>
 733|<text>O que voce quer?</text>
 736|<text>Voce pode me dizer algo que seria util para um novato?</text>
-739|<text>Os Mercs sao meio que como a Freedom, so que piores. Pelo menos a Freedom tem alguns ideais, mas esses caes fazem qualquer coisa por dinheiro. Alguem realmente precisa matar todos eles antes que eles arrastem algo realmente perigoso da Zona para o mundo normal! Eles estao baseados na Cidade Morta e ha um atirador em cada predio alto, entendeu? Eles nao gostam de estranhos.</text>
-742|<text>Entendo. Parece que voce tem que ter cuidado na Cidade Morta.</text>
+739|<text>Os Mercs sao meio que como a Freedom, so que piores. Pelo menos a Freedom tem alguns ideais, mas esses caes fazem qualquer coisa por dinheiro. Alguem realmente precisa matar todos eles antes que eles arrastem algo realmente perigoso da Zona para o mundo normal! Eles estao baseados na Dead City e ha um atirador em cada predio alto, entendeu? Eles nao gostam de estranhos.</text>
+742|<text>Entendo. Parece que voce tem que ter cuidado na Dead City.</text>
 745|<text>O que voce quer?</text>
 748|<text>Voce pode me dizer algo que seria util para um novato?</text>
 751|<text>Se voce nao esteve na Arena, eu recomendo - e uma boa maneira de ganhar dinheiro e mostrar a todos do que voce e capaz. Nem todo mundo tem coragem de lutar contra o proximo monstro e isso e uma pena! Cara, assim que eu juntar dinheiro suficiente para uma armadura decente, vou la.</text>

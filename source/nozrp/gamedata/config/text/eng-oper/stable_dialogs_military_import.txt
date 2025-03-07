@@ -297,8 +297,8 @@
 892|<text>Cerca de seis a oito pessoas. Razoavelmente equipados.</text>
 895|<text>Va falar com Lukash.</text>
 898|<text>Tem alguma pergunta?</text>
-901|<text>Sim. Lukash me disse para interceptar o mensageiro da Duty a caminho da Floresta Vermelha para a Cidade Morta. Voce poderia me dizer o melhor lugar para fazer isso?</text>
-904|<text>Hmm. O melhor seria pega-lo antes que ele chegasse a fazenda perto da passagem para a Cidade Morta. Reforcos certamente estarao esperando por ele la, entao voce teria problemas para lidar com todos eles. Alem disso, assim voce teria que passar pela vila, o que e ruim. E melhor ir para o leste da vila, e rapido.</text>
+901|<text>Sim. Lukash me disse para interceptar o mensageiro da Duty a caminho da Floresta Vermelha para a Dead City. Voce poderia me dizer o melhor lugar para fazer isso?</text>
+904|<text>Hmm. O melhor seria pega-lo antes que ele chegasse a fazenda perto da passagem para a Dead City. Reforcos certamente estarao esperando por ele la, entao voce teria problemas para lidar com todos eles. Alem disso, assim voce teria que passar pela vila, o que e ruim. E melhor ir para o leste da vila, e rapido.</text>
 907|<text>O que tem na vila?</text>
 910|<text>Acredite em mim - nem uma unica coisa boa. Muitos monstros vagando por ai, e anomalias tambem. Eu te conto sobre isso mais tarde.</text>
 913|<text>Parabens sao apropriados?</text>

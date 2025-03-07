@@ -28,13 +28,13 @@
 		<text>Quem nos capturou?</text>
 	</string>
 	<string id="cit_doctor_escape_dialog_141">
-		<text>Estamos sendo mantidos pelos Mercs. Ninguem sabe ao certo quem eles sao, mas ha rumores de que trabalham em conjunto com servicos de inteligencia estrangeiros. A localizacao desta base e ultrassecreta - ninguem sabe como entrar na Cidade Morta. Muitas pessoas estao muito interessadas nessas informacoes, especialmente a Freedom e a Duty.</text>
+		<text>Estamos sendo mantidos pelos Mercs. Ninguem sabe ao certo quem eles sao, mas ha rumores de que trabalham em conjunto com servicos de inteligencia estrangeiros. A localizacao desta base e ultrassecreta - ninguem sabe como entrar na Dead City. Muitas pessoas estao muito interessadas nessas informacoes, especialmente a Freedom e a Duty.</text>
 	</string>
 	<string id="cit_doctor_escape_dialog_1411">
 		<text>Continue.</text>
 	</string>
 	<string id="cit_doctor_escape_dialog_14111">
-		<text>Se voce conseguir um mapa da Cidade Morta, um ataque bem-sucedido sera possivel. Os Mercs ou os bandidos provavelmente tem um. Voce poderia tentar conseguir.</text>
+		<text>Se voce conseguir um mapa da Dead City, um ataque bem-sucedido sera possivel. Os Mercs ou os bandidos provavelmente tem um. Voce poderia tentar conseguir.</text>
 	</string>
 	<string id="cit_doctor_escape_dialog_141111">
 		<text>Obrigado pela informacao.</text>
@@ -94,10 +94,10 @@
 		<text>Entendo. Onde estamos? Nao me lembro de como cheguei aqui.</text>
 	</string>
 	<string id="cit_doctor_main_dialog_5">
-		<text>Estamos na Cidade Morta! No acampamento dos Mercs.</text>
+		<text>Estamos na Dead City! No acampamento dos Mercs.</text>
 	</string>
 	<string id="cit_doctor_main_dialog_6">
-		<text>Estamos na Cidade Morta!.. No acampamento dos Mercs...</text>
+		<text>Estamos na Dead City!.. No acampamento dos Mercs...</text>
 	</string>
 	<string id="quest_cit_reward_0">
 		<text>A proposito, tenho informacoes sobre os Mercs. Interessado?</text>
