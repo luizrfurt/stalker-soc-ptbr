@@ -173,7 +173,7 @@
 520|<text>Proteja a fronteira perto dos armazens militares dos monstros.</text>
 523|<text>La vem os monstros novamente do lado do Desintegrador Psiquico. Ajude os caras na fronteira a dete-los. Garanto uma recompensa.</text>
 526|<text>Destrua o acampamento militar</text>
-529|<text>Destrua o acampamento militar perto do Instituto de Pesquisa Agroprom.</text>
+529|<text>Destrua o acampamento militar perto do Agroprom Research Institute.</text>
 532|<text>Os militares estao realizando uma tomada gradual da Zona. Precisamos desacelera-los, caso contrario, a Zona se transformara em um zoologico de pesquisa. Um dos acampamentos militares fica bem perto de Agroprom. Se voce conseguir limpar um pouco o local, isso desacelerara a tomada da Zona pelo exercito.</text>
 535|<text>Destrua o acampamento dos Mercs</text>
 538|<text>Destrua o acampamento dos Mercs perto dos armazens.</text>
@@ -274,9 +274,9 @@
 823|<text>Destrua o acampamento de bandidos no Auto parque.</text>
 826|<text>Elimine os bandidos no Auto parque. Aparentemente, eles sao novos na Zona, entao o trabalho sera facil.</text>
 829|<text>Os bandidos estao rondando o Auto parque novamente. Entao voce ja adivinhou sobre o que e o trabalho? Bem, entao... maos a obra! Transmita nossas calorosas saudacoes a eles e volte, eu lhe agradecerei entao. Negocio fechado?</text>
-832|<text>Elimine os bandidos perto do Instituto de Pesquisa Agroprom.</text>
-835|<text>Elimine os bandidos perto do Instituto de Pesquisa Agroprom. E melhor manter boas relacoes com o trader.</text>
-838|<text>Alguns bandidos apareceram perto do Instituto de Pesquisa Agroprom. Eles estao perturbando meus escavadores quando eles vasculham o lixo. Voce resolve o problema, eu lhe devo uma.</text>
+832|<text>Elimine os bandidos perto do Agroprom Research Institute.</text>
+835|<text>Elimine os bandidos perto do Agroprom Research Institute. E melhor manter boas relacoes com o trader.</text>
+838|<text>Alguns bandidos apareceram perto do Agroprom Research Institute. Eles estao perturbando meus escavadores quando eles vasculham o lixo. Voce resolve o problema, eu lhe devo uma.</text>
 841|<text>Limpe a area de mutantes.</text>
 844|<text>Limpe a area de mutantes.</text>
 847|<text>Ha uma coisa, bem facil. Eles querem trazer um turista estrangeiro. Ele pagou uma grana para meus amigos para poder olhar a zona. E a area onde eles vao mostra-lo precisa ser limpa de mutantes. Voce vai fazer isso?</text>

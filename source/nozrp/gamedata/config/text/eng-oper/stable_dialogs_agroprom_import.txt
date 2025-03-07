@@ -11,7 +11,7 @@
 34|<text>O que esta acontecendo aqui?</text>
 37|<text>Estamos lutando, ou mais especificamente, acampando como patos sentados. Fale com Toupeira se quiser saber mais - ele e o lider.</text>
 40|<text>Cara, essa foi uma luta e tanto - voce nao desejaria algo assim nem para o seu pior inimigo. Aqueles soldados do exercito estao ficando bem arrogantes!</text>
-43|<text>Onde fica o Instituto de Pesquisa Agroprom?</text>
+43|<text>Onde fica o Agroprom Research Institute?</text>
 46|<text>Nao muito longe daqui. Siga a estrada para o oeste e voce chegara aos portoes do Instituto.</text>
 49|<text>Ouvi dizer que os militares montaram uma base la, certo?</text>
 52|<text>Obrigado pela informacao.</text>
@@ -62,7 +62,7 @@
 187|<text>Nada. Absolutamente nada.</text>
 190|<text>Entendo. Tchau!</text>
 193|<text>Fale-me sobre este lugar.</text>
-196|<text>Esta e a area ao redor do Instituto de Pesquisa Agroprom. O Instituto em si fica a sudoeste. A fabrica, que servia como instalacao de producao tecnica do Instituto, fica ao norte. Os edificios foram abandonados ha muito tempo e nao ha nada para ser encontrado la, mas o exercito tem procurado la muito ativamente recentemente.</text>
+196|<text>Esta e a area ao redor do Agroprom Research Institute. O Instituto em si fica a sudoeste. A fabrica, que servia como instalacao de producao tecnica do Instituto, fica ao norte. Os edificios foram abandonados ha muito tempo e nao ha nada para ser encontrado la, mas o exercito tem procurado la muito ativamente recentemente.</text>
 199|<text>Conte-me mais sobre o Instituto.</text>
 202|<text>Existem muitas lendas sobre o Instituto. Antes do acidente em 1986, a unica coisa aqui era o Instituto de Selecao e Genetica de Culturas. A area onde a fabrica esta agora era usada para campos de cultivo experimentais. Apos o acidente, eles fecharam o Instituto e queimaram os campos. Entao eles se lembraram dele, pintaram o predio de branco, colocaram uma cerca ao redor e construiram alguns quarteis. Nao sei o que eles faziam no Instituto, mas eles nao tinham falta de financiamento, com certeza.</text>
 205|<text>Conte-me mais sobre a fabrica.</text>

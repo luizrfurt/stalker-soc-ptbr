@@ -40,7 +40,7 @@
 		<text>Cara, essa foi uma luta e tanto - voce nao desejaria algo assim nem para o seu pior inimigo. Aqueles soldados do exercito estao ficando bem arrogantes!</text>
 	</string>
 	<string id="agr_krot_about_agroprom_0">
-		<text>Onde fica o Instituto de Pesquisa Agroprom?</text>
+		<text>Onde fica o Agroprom Research Institute?</text>
 	</string>
 	<string id="agr_krot_about_agroprom_10">
 		<text>Nao muito longe daqui. Siga a estrada para o oeste e voce chegara aos portoes do Instituto.</text>
@@ -193,7 +193,7 @@
 		<text>Fale-me sobre este lugar.</text>
 	</string>
 	<string id="agr_stalker_talk_level_1">
-		<text>Esta e a area ao redor do Instituto de Pesquisa Agroprom. O Instituto em si fica a sudoeste. A fabrica, que servia como instalacao de producao tecnica do Instituto, fica ao norte. Os edificios foram abandonados ha muito tempo e nao ha nada para ser encontrado la, mas o exercito tem procurado la muito ativamente recentemente.</text>
+		<text>Esta e a area ao redor do Agroprom Research Institute. O Instituto em si fica a sudoeste. A fabrica, que servia como instalacao de producao tecnica do Instituto, fica ao norte. Os edificios foram abandonados ha muito tempo e nao ha nada para ser encontrado la, mas o exercito tem procurado la muito ativamente recentemente.</text>
 	</string>
 	<string id="agr_stalker_talk_level_2">
 		<text>Conte-me mais sobre o Instituto.</text>

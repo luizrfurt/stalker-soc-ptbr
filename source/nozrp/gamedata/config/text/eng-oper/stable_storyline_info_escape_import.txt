@@ -17,9 +17,9 @@
 50|<text>...acordei na toca de um cara, nao me lembro de nada. So tenho um PDA comigo com a foto de outro cara. Ha apenas uma mensagem no PDA - mate Strelok.</text>
 53|<text>Trader: Raposo voltou de sua incursao e esta pedindo ajuda. Talvez ele saiba algo sobre Strelok.</text>
 56|<text>Raposo: Seriy esta sentado no hangar no Garbage, ele sabe mais sobre Strelok.</text>
-59|<text>Trader: roube o relatorio da expedicao dos militares no Instituto de Pesquisa Agroprom, leve-o para o bar 100 Rads e entregue-o para Bartender.</text>
+59|<text>Trader: roube o relatorio da expedicao dos militares no Agroprom Research Institute, leve-o para o bar 100 Rads e entregue-o para Bartender.</text>
 62|<text>PDA de Raposo</text>
-65|<text>Diario de Tolik. O trader nos enviou para espionar os militares no Instituto de Pesquisa Agroprom. Cheguei la e atirei em todos, bandidos e militares. Desenterrei algumas coisas interessantes, estou codificando o resto texto confuso que parece uma cifra</text>
+65|<text>Diario de Tolik. O trader nos enviou para espionar os militares no Agroprom Research Institute. Cheguei la e atirei em todos, bandidos e militares. Desenterrei algumas coisas interessantes, estou codificando o resto texto confuso que parece uma cifra</text>
 68|<text>Seriy para Raposo: um cara que conheco pediu para encontrar um grupo de stalkers que farejaram o esconderijo de Strelok. Estarei no Garbage, apareca se quiser.</text>
 71|<text>PDA de Tolik</text>
 74|<text>Trader: ha um campo de anomalia Redemoinho por perto. Ha um artefato em seu centro. Pegue-o.</text>

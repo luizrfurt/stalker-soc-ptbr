@@ -6,7 +6,7 @@
 17|<text>Salvar Toupeira</text>
 20|<text>Salvar os stalkers</text>
 23|<text>Encontrar Toupeira</text>
-26|<text>Instituto de Pesquisa Agroprom. Base militar</text>
+26|<text>Agroprom Research Institute. Base militar</text>
 29|<text>Lugar seguro</text>
 32|<text>Roube os documentos</text>
 35|<text>Obtenha informacoes sobre o esconderijo de Toupeira</text>

@@ -526,7 +526,7 @@
 		<text>Destrua o acampamento militar</text>
 	</string>
 	<string id="freedom_eliminate_camp_1_descr">
-		<text>Destrua o acampamento militar perto do Instituto de Pesquisa Agroprom.</text>
+		<text>Destrua o acampamento militar perto do Agroprom Research Institute.</text>
 	</string>
 	<string id="freedom_eliminate_camp_1_text">
 		<text>Os militares estao realizando uma tomada gradual da Zona. Precisamos desacelera-los, caso contrario, a Zona se transformara em um zoologico de pesquisa. Um dos acampamentos militares fica bem perto de Agroprom. Se voce conseguir limpar um pouco o local, isso desacelerara a tomada da Zona pelo exercito.</text>
@@ -829,13 +829,13 @@
 		<text>Os bandidos estao rondando o Auto parque novamente. Entao voce ja adivinhou sobre o que e o trabalho? Bem, entao... maos a obra! Transmita nossas calorosas saudacoes a eles e volte, eu lhe agradecerei entao. Negocio fechado?</text>
 	</string>
 	<string id="tm_eliminate_camp_3">
-		<text>Elimine os bandidos perto do Instituto de Pesquisa Agroprom.</text>
+		<text>Elimine os bandidos perto do Agroprom Research Institute.</text>
 	</string>
 	<string id="tm_eliminate_camp_3_descr">
-		<text>Elimine os bandidos perto do Instituto de Pesquisa Agroprom. E melhor manter boas relacoes com o trader.</text>
+		<text>Elimine os bandidos perto do Agroprom Research Institute. E melhor manter boas relacoes com o trader.</text>
 	</string>
 	<string id="tm_eliminate_camp_3_text">
-		<text>Alguns bandidos apareceram perto do Instituto de Pesquisa Agroprom. Eles estao perturbando meus escavadores quando eles vasculham o lixo. Voce resolve o problema, eu lhe devo uma.</text>
+		<text>Alguns bandidos apareceram perto do Agroprom Research Institute. Eles estao perturbando meus escavadores quando eles vasculham o lixo. Voce resolve o problema, eu lhe devo uma.</text>
 	</string>
 	<string id="tm_eliminate_camp_4">
 		<text>Limpe a area de mutantes.</text>

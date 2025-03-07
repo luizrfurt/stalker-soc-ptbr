@@ -203,7 +203,7 @@
 610|<text>Quero comprar algumas informacoes.</text>
 613|<text>Agora, posso te vender informacoes sobre o grupo de Strelok praticamente de graca - 4000 rublos.</text>
 616|<text>OK, eu aceito. Aqui estao 4000.</text>
-619|<text>Esta localizado perto do Instituto de Pesquisa Agroprom, ha um esconderijo no subterraneo. Provavelmente contem informacoes sobre os planos do grupo e uma lista de membros do grupo. As coordenadas do esconderijo estao anexadas.</text>
+619|<text>Esta localizado perto do Agroprom Research Institute, ha um esconderijo no subterraneo. Provavelmente contem informacoes sobre os planos do grupo e uma lista de membros do grupo. As coordenadas do esconderijo estao anexadas.</text>
 622|<text>Nao, mudei de ideia.</text>
 625|<text>Voce decide. Venha ao bar quando decidir o contrario - estou sempre aqui.</text>
 628|<text>Agora, tenho algumas informacoes sobre um grupo que chegou ao centro da Zona. Estou praticamente dando de graca - apenas 2000 rublos.</text>

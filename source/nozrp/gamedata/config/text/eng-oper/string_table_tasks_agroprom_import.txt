@@ -21,6 +21,6 @@
 62|<text>Encontre Fantasma</text>
 65|<text>Fantasma sabe onde Strelok esta.</text>
 68|<text>Encontre os documentos dos militares</text>
-71|<text>Instituto de Pesquisa Agroprom</text>
+71|<text>Agroprom Research Institute</text>
 74|<text>Roube os documentos dos militares</text>
 77|<text>Leve os documentos para Bartender</text>
