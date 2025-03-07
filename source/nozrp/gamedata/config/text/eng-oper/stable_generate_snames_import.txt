@@ -1609,4 +1609,4 @@
 4826|<text>Esfarrapado</text>
 4829|<text>Agarrador</text>
 4832|<text>Afiado</text>
-4835|<text>Representante da C-Consciencia</text>
+4835|<text>Representante da C-Consciousness</text>
