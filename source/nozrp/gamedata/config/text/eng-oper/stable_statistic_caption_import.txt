@@ -31,10 +31,10 @@
 92|<text>soldado, Capitao</text>
 95|<text>soldado, Soldado</text>
 98|<text>soldado, Tenente</text>
-101|<text>Monolito, experiente</text>
-104|<text>Monolito, especialista</text>
-107|<text>Monolito, novato</text>
-110|<text>Monolito, veterano</text>
+101|<text>Monolith, experiente</text>
+104|<text>Monolith, especialista</text>
+107|<text>Monolith, novato</text>
+110|<text>Monolith, veterano</text>
 113|<text>stalker, treinado</text>
 116|<text>stalker, habilidoso</text>
 119|<text>stalker, aleijado</text>

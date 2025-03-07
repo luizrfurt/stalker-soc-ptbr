@@ -1,8 +1,8 @@
-2|<text>Sentinela do grupo Monolito. E melhor ficar longe dele. Detalhes nao disponiveis.</text>
-5|<text>Stalker do grupo Monolito. Detalhes nao disponiveis.</text>
-8|<text>Stalker do grupo Monolito. Detalhes nao disponiveis.</text>
-11|<text>Stalker do grupo Monolito. Detalhes nao disponiveis.</text>
-14|<text>Militante do grupo Monolito. Bem equipado. Detalhes nao disponiveis.</text>
+2|<text>Sentinela do grupo Monolith. E melhor ficar longe dele. Detalhes nao disponiveis.</text>
+5|<text>Stalker do grupo Monolith. Detalhes nao disponiveis.</text>
+8|<text>Stalker do grupo Monolith. Detalhes nao disponiveis.</text>
+11|<text>Stalker do grupo Monolith. Detalhes nao disponiveis.</text>
+14|<text>Militante do grupo Monolith. Bem equipado. Detalhes nao disponiveis.</text>
 17|<text>Comandante da incursao militar.</text>
 20|<text>Stalker militar. Bem armado e altamente perigoso. Detalhes nao disponiveis.</text>
 23|<text>Detalhes nao disponiveis.</text>
@@ -108,8 +108,8 @@
 323|<text>Merc desconhecido. Bem armado e altamente perigoso. Detalhes nao disponiveis.</text>
 326|<text>Merc desconhecido. Aparentemente novo na Zona. Detalhes nao disponiveis.</text>
 329|<text>Merc desconhecido. Possivelmente bem armado. Detalhes nao disponiveis.</text>
-332|<text>Sentinela do grupo Monolito. E melhor ficar longe dele. Detalhes nao disponiveis.</text>
-335|<text>Stalker do grupo Monolito. Detalhes nao disponiveis.</text>
+332|<text>Sentinela do grupo Monolith. E melhor ficar longe dele. Detalhes nao disponiveis.</text>
+335|<text>Stalker do grupo Monolith. Detalhes nao disponiveis.</text>
 338|<text>Um dos veteranos. Conhece a Zona como a palma da mao. Geralmente bem equipado e altamente perigoso. Detalhes nao disponiveis.</text>
 341|<text>Stalker veterano. Possivelmente bem equipado. Detalhes nao disponiveis.</text>
 344|<text>Stalker da faccao Freedom. Comandante da barreira. O homem que uniu um grupo de pessoas dispostas a sacrificar suas vidas pela causa comum.</text>
@@ -138,12 +138,12 @@
 413|<text>Militante da faccao Freedom. Geralmente bem equipado. Detalhes nao disponiveis.</text>
 416|<text>Sasha Bely</text>
 419|<text>Stalker veterano. Possivelmente bem equipado. Detalhes nao disponiveis.</text>
-422|<text>Stalker do grupo Monolito. Detalhes nao disponiveis.</text>
-425|<text>Stalker de elite do grupo Monolito. Detalhes nao disponiveis.</text>
-428|<text>Lider do grupo Monolito. Detalhes nao disponiveis.</text>
+422|<text>Stalker do grupo Monolith. Detalhes nao disponiveis.</text>
+425|<text>Stalker de elite do grupo Monolith. Detalhes nao disponiveis.</text>
+428|<text>Lider do grupo Monolith. Detalhes nao disponiveis.</text>
 431|<text>Caronte</text>
-434|<text>Stalker regular do grupo Monolito. Detalhes nao disponiveis.</text>
-437|<text>Stalker das forcas especiais do grupo Monolito. Detalhes nao disponiveis.</text>
+434|<text>Stalker regular do grupo Monolith. Detalhes nao disponiveis.</text>
+437|<text>Stalker das forcas especiais do grupo Monolith. Detalhes nao disponiveis.</text>
 440|<text>Soldado regular. Detalhes nao disponiveis.</text>
 443|<text>Soldado zumbificado</text>
 446|<text>Um dos stalkers que ficaram sem sorte.</text>
@@ -153,8 +153,8 @@
 458|<text>Seguranca dos cientistas. Detalhes nao disponiveis.</text>
 461|<text>Assistente de pesquisa.</text>
 464|<text>Assistente de pesquisa.</text>
-467|<text>Stalker do grupo Monolito. Detalhes nao disponiveis.</text>
-470|<text>Militante do grupo Monolito. Bem equipado. Detalhes nao disponiveis.</text>
+467|<text>Stalker do grupo Monolith. Detalhes nao disponiveis.</text>
+470|<text>Militante do grupo Monolith. Bem equipado. Detalhes nao disponiveis.</text>
 473|<text>Spetsnaz. Bem equipado. Detalhes nao disponiveis.</text>
 476|<text>Um dos veteranos. Conhece a Zona como a palma da mao. Geralmente bem equipado e altamente perigoso. Detalhes nao disponiveis.</text>
 479|<text>Stalker veterano. Possivelmente bem equipado. Detalhes nao disponiveis.</text>
@@ -171,8 +171,8 @@
 512|<text>Tirano</text>
 515|<text>Um dos primeiros comandantes de campo dos Mercs. O lider da gangue que se autodenomina "Curs". Um anarquista que despreza todas as leis, exceto a lei da selva.</text>
 518|<text>Galgo</text>
-521|<text>Stalker do grupo Monolito. Detalhes nao disponiveis.</text>
-524|<text>Stalker do grupo especial "Cristal" do Monolito, responsavel pela seguranca do proprio Monolito.</text>
+521|<text>Stalker do grupo Monolith. Detalhes nao disponiveis.</text>
+524|<text>Stalker do grupo especial "Crystal" da Monolith, responsavel pela seguranca do proprio Monolito.</text>
 527|<text>Arnie</text>
 530|<text>Fera</text>
 533|<text>Vasya "Javali"</text>
@@ -233,10 +233,10 @@
 698|<text>Merc desconhecido. Possivelmente bem armado. Detalhes nao disponiveis.</text>
 701|<text>Merc desconhecido. Possivelmente bem armado. Detalhes nao disponiveis.</text>
 704|<text>Merc desconhecido. Possivelmente bem armado. Detalhes nao disponiveis.</text>
-707|<text>Stalker do grupo Monolito. Detalhes nao disponiveis.</text>
-710|<text>Stalker do grupo Monolito. Detalhes nao disponiveis.</text>
-713|<text>Stalker do grupo Monolito. Detalhes nao disponiveis.</text>
-716|<text>Stalker do grupo Monolito. Detalhes nao disponiveis.</text>
+707|<text>Stalker do grupo Monolith. Detalhes nao disponiveis.</text>
+710|<text>Stalker do grupo Monolith. Detalhes nao disponiveis.</text>
+713|<text>Stalker do grupo Monolith. Detalhes nao disponiveis.</text>
+716|<text>Stalker do grupo Monolith. Detalhes nao disponiveis.</text>
 719|<text>Detalhes nao disponiveis.</text>
 722|<text>Stalker militar. Bem armado e altamente perigoso. Detalhes nao disponiveis.</text>
 725|<text>Soldado regular. Detalhes nao disponiveis.</text>
@@ -272,7 +272,7 @@
 815|<text>Lider dos bandidos.</text>
 818|<text>Borov</text>
 821|<text>Stalker da faccao Duty. Detalhes nao disponiveis.</text>
-824|<text>Stalker do grupo Monolito. Detalhes nao disponiveis.</text>
+824|<text>Stalker do grupo Monolith. Detalhes nao disponiveis.</text>
 827|<text>Stalker da faccao Duty. Detalhes nao disponiveis.</text>
 830|<text>Sergei Cabeludo</text>
 833|<text>Stalker da faccao Duty. Detalhes nao disponiveis.</text>

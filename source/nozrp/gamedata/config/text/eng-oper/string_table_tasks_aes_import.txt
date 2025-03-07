@@ -5,8 +5,8 @@
 14|<text>Grupo Lun</text>
 17|<text>Mantenha a posicao</text>
 20|<text>Avance para o sarcofago</text>
-23|<text>Destrua as fortificacoes do Monolito 1</text>
-26|<text>Destrua as fortificacoes do Monolito 2</text>
+23|<text>Destrua as fortificacoes da Monolith 1</text>
+26|<text>Destrua as fortificacoes da Monolith 2</text>
 29|<text>Grupo Sapsan</text>
 32|<text>Grupo Korshun</text>
 35|<text>Grupo Yastreb</text>

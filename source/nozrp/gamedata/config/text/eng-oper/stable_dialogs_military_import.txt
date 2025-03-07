@@ -152,14 +152,14 @@
 457|<text>Comandante?</text>
 460|<text>Claro. Caveira vai te contar tudo pessoalmente.</text>
 463|<text>OK.</text>
-466|<text>E ai, stalker! Voce chegou na hora certa. Estamos nos defendendo dos idiotas do Monolito, e a proxima onda esta prestes a chegar! Acredite ou nao, acabamos de ter nosso ultimo atirador abatido! Voce pode ajudar? Pagaremos depois da luta - voce nao vai se arrepender!</text>
+466|<text>E ai, stalker! Voce chegou na hora certa. Estamos nos defendendo dos idiotas da Monolith, e a proxima onda esta prestes a chegar! Acredite ou nao, acabamos de ter nosso ultimo atirador abatido! Voce pode ajudar? Pagaremos depois da luta - voce nao vai se arrepender!</text>
 469|<text>Nao, nao posso te ajudar.</text>
 472|<text>Que pena. Volte se mudar de ideia.</text>
 475|<text>Eu vou.</text>
 478|<text>Otimo! Va para a torre, tem um rifle de precisao e um monte de municao. Abata-os de cima e nao desca, ou voce corre o risco de ser atingido pelos nossos proprios caras. A missao esta clara?</text>
 481|<text>Clara como agua.</text>
 484|<text>Como deveria ser. Espero falar com voce pela manha. Ah, e nao se afaste muito... Ou posso pensar que voce decidiu fugir. E isso significaria voce-sabe-o-que, entao tenha isso em mente! Agora, assuma sua posicao.</text>
-487|<text>Isso mesmo. OK, vamos trabalhar. Um grupo do Monolito pode estar tentando invadir aqui. Isso significa que vai esquentar muito em breve.</text>
+487|<text>Isso mesmo. OK, vamos trabalhar. Um grupo da Monolith pode estar tentando invadir aqui. Isso significa que vai esquentar muito em breve.</text>
 490|<text>Entendi.</text>
 493|<text>Voce tem razao. Espero que nao sejam muitos...</text>
 496|<text>Onde e meu lugar?</text>
@@ -171,7 +171,7 @@
 514|<text>Boa sorte, Marca!</text>
 517|<text>Ei, Marca! Lukash te mandou?</text>
 520|<text>Sim. Ele me pediu para te ajudar.</text>
-523|<text>Voce chegou na hora certa. Estamos nos defendendo dos idiotas do Monolito, e a proxima onda esta quase aqui! Acredite ou nao, acabamos de ter nosso ultimo atirador abatido! Voce pode ajudar? Pagaremos depois da luta - voce nao vai se arrepender!</text>
+523|<text>Voce chegou na hora certa. Estamos nos defendendo dos idiotas da Monolith, e a proxima onda esta quase aqui! Acredite ou nao, acabamos de ter nosso ultimo atirador abatido! Voce pode ajudar? Pagaremos depois da luta - voce nao vai se arrepender!</text>
 526|<text>Parece que derrubamos todos eles. Acho que ja chega por hoje. Obrigado pela sua ajuda! Aqui, pegue isso - um pouco de dinheiro para te animar.</text>
 529|<text>Obrigado.</text>
 532|<text>Boa sorte, Marca.</text>
@@ -271,12 +271,12 @@
 814|<text>Voce ainda esta aqui?</text>
 817|<text>Otimo trabalho, Marca! Aqui, pegue isso... seu pagamento por cuidar do dedo-duro. Voce pode descansar em nosso territorio sempre que quiser e tambem pode contar com nossa ajuda. So que, ha mais um negocio que eu gostaria que voce fizesse para mim. Voce nao esta muito cansado?</text>
 820|<text>O que exatamente?</text>
-823|<text>Se voce estiver disposto, va para o posto avancado perto da saida da Floresta Vermelha. Recebemos relatos de que mutantes ou o Monolito estao planejando uma nova tentativa de invasao la. Os caras precisam de ajuda.</text>
+823|<text>Se voce estiver disposto, va para o posto avancado perto da saida da Floresta Vermelha. Recebemos relatos de que mutantes ou a Monolith estao planejando uma nova tentativa de invasao la. Os caras precisam de ajuda.</text>
 826|<text>Bem, voce ajudou os caras na Barreira, entao - relaxe.</text>
 829|<text>Relaxe. Nao ha trabalho agora.</text>
 832|<text>E, voce estragou essa missao... que droga. Ainda assim, sempre ha outra chance!</text>
 835|<text>Que chance?</text>
-838|<text>Certas coisas indicam que muito em breve o Monolito vai tentar invadir pelo lado da Floresta Vermelha. Voce tem que ir ver o Cap - ele e o comandante na Barreira - e ver se ele precisa de ajuda. Bem, e obvio que ele precisa, na verdade...</text>
+838|<text>Certas coisas indicam que muito em breve a Monolith vai tentar invadir pelo lado da Floresta Vermelha. Voce tem que ir ver o Cap - ele e o comandante na Barreira - e ver se ele precisa de ajuda. Bem, e obvio que ele precisa, na verdade...</text>
 841|<text>OK, eu farei isso.</text>
 844|<text>Nao, nao vou fazer isso ainda.</text>
 847|<text>Pense nos nossos caras, eles vao ser massacrados! Veja bem, nao ha mais ninguem alem de voce que eu possa enviar... ninguem.</text>

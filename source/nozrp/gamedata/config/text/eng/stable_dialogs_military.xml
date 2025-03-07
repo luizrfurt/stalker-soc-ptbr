@@ -463,7 +463,7 @@
 		<text>OK.</text>
 	</string>
 	<string id="mil_freedom_commander_1001">
-		<text>E ai, stalker! Voce chegou na hora certa. Estamos nos defendendo dos idiotas do Monolito, e a proxima onda esta prestes a chegar! Acredite ou nao, acabamos de ter nosso ultimo atirador abatido! Voce pode ajudar? Pagaremos depois da luta - voce nao vai se arrepender!</text>
+		<text>E ai, stalker! Voce chegou na hora certa. Estamos nos defendendo dos idiotas da Monolith, e a proxima onda esta prestes a chegar! Acredite ou nao, acabamos de ter nosso ultimo atirador abatido! Voce pode ajudar? Pagaremos depois da luta - voce nao vai se arrepender!</text>
 	</string>
 	<string id="mil_freedom_commander_10011">
 		<text>Nao, nao posso te ajudar.</text>
@@ -484,7 +484,7 @@
 		<text>Como deveria ser. Espero falar com voce pela manha. Ah, e nao se afaste muito... Ou posso pensar que voce decidiu fugir. E isso significaria voce-sabe-o-que, entao tenha isso em mente! Agora, assuma sua posicao.</text>
 	</string>
 	<string id="mil_freedom_commander_1007">
-		<text>Isso mesmo. OK, vamos trabalhar. Um grupo do Monolito pode estar tentando invadir aqui. Isso significa que vai esquentar muito em breve.</text>
+		<text>Isso mesmo. OK, vamos trabalhar. Um grupo da Monolith pode estar tentando invadir aqui. Isso significa que vai esquentar muito em breve.</text>
 	</string>
 	<string id="mil_freedom_commander_1008">
 		<text>Entendi.</text>
@@ -520,7 +520,7 @@
 		<text>Sim. Ele me pediu para te ajudar.</text>
 	</string>
 	<string id="mil_freedom_commander_4003">
-		<text>Voce chegou na hora certa. Estamos nos defendendo dos idiotas do Monolito, e a proxima onda esta quase aqui! Acredite ou nao, acabamos de ter nosso ultimo atirador abatido! Voce pode ajudar? Pagaremos depois da luta - voce nao vai se arrepender!</text>
+		<text>Voce chegou na hora certa. Estamos nos defendendo dos idiotas da Monolith, e a proxima onda esta quase aqui! Acredite ou nao, acabamos de ter nosso ultimo atirador abatido! Voce pode ajudar? Pagaremos depois da luta - voce nao vai se arrepender!</text>
 	</string>
 	<string id="mil_freedom_commander_5001">
 		<text>Parece que derrubamos todos eles. Acho que ja chega por hoje. Obrigado pela sua ajuda! Aqui, pegue isso - um pouco de dinheiro para te animar.</text>
@@ -820,7 +820,7 @@
 		<text>O que exatamente?</text>
 	</string>
 	<string id="mil_leader_start_dialog_5003">
-		<text>Se voce estiver disposto, va para o posto avancado perto da saida da Floresta Vermelha. Recebemos relatos de que mutantes ou o Monolito estao planejando uma nova tentativa de invasao la. Os caras precisam de ajuda.</text>
+		<text>Se voce estiver disposto, va para o posto avancado perto da saida da Floresta Vermelha. Recebemos relatos de que mutantes ou a Monolith estao planejando uma nova tentativa de invasao la. Os caras precisam de ajuda.</text>
 	</string>
 	<string id="mil_leader_start_dialog_5004">
 		<text>Bem, voce ajudou os caras na Barreira, entao - relaxe.</text>
@@ -835,7 +835,7 @@
 		<text>Que chance?</text>
 	</string>
 	<string id="mil_leader_start_dialog_7003">
-		<text>Certas coisas indicam que muito em breve o Monolito vai tentar invadir pelo lado da Floresta Vermelha. Voce tem que ir ver o Cap - ele e o comandante na Barreira - e ver se ele precisa de ajuda. Bem, e obvio que ele precisa, na verdade...</text>
+		<text>Certas coisas indicam que muito em breve a Monolith vai tentar invadir pelo lado da Floresta Vermelha. Voce tem que ir ver o Cap - ele e o comandante na Barreira - e ver se ele precisa de ajuda. Bem, e obvio que ele precisa, na verdade...</text>
 	</string>
 	<string id="mil_leader_start_dialog_7004">
 		<text>OK, eu farei isso.</text>

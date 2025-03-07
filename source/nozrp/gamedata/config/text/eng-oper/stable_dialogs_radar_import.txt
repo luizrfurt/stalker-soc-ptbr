@@ -8,7 +8,7 @@
 25|<text>O que voce esta fazendo aqui?</text>
 28|<text>Meus rapazes e eu estamos descansando! Quando terminarmos, iremos para Prypiat!</text>
 31|<text>O que voce sabe sobre Prypiat?</text>
-34|<text>E uma velha cidade abandonada da era comunista! Da historia! Acho que esta cheia de monstros e hordas de combatentes do Monolito agora! Ninguem que foi la antes voltou!</text>
+34|<text>E uma velha cidade abandonada da era comunista! Da historia! Acho que esta cheia de monstros e hordas de combatentes da Monolith agora! Ninguem que foi la antes voltou!</text>
 37|<text>Voce acha que e perigoso?</text>
 40|<text>Sem duvida - ninguem nunca voltou de la.</text>
 43|<text>Voce viu algum soldado por perto?</text>

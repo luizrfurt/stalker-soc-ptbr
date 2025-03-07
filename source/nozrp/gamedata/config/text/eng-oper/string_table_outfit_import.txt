@@ -19,8 +19,8 @@
 58|<text>Traje reforcado</text>
 61|<text>Este traje militar a prova de balas Skat-9M e projetado para operacoes de assalto em areas de atividade anomala. Inclui um traje militar pesado a prova de balas PSZ-12p, um traje de compensacao integrado e um capacete Sphere-12M. Fornece protecao perfeita contra balas e estilhacos e nao diminui a mobilidade do soldado. Possui um sistema equilibrado de protecao contra anomalias.</text>
 64|<text>Traje blindado militar</text>
-67|<text>Traje de stalker da faccao Monolito. O produtor e desconhecido. Suas propriedades protetoras sao ligeiramente piores do que as do colete militar a prova de balas PSZ-9a. Sua estrutura e semelhante ao traje popular entre os stalkers neutros, que combina um colete a prova de balas e um traje de protecao contra radiacao. Fornece boa protecao contra tiros. Seu nivel de protecao contra anomalias e baixo devido a ausencia de um sistema de filtragem de ar.</text>
-70|<text>Traje Monolito</text>
+67|<text>Traje de stalker da faccao Monolith. O produtor e desconhecido. Suas propriedades protetoras sao ligeiramente piores do que as do colete militar a prova de balas PSZ-9a. Sua estrutura e semelhante ao traje popular entre os stalkers neutros, que combina um colete a prova de balas e um traje de protecao contra radiacao. Fornece boa protecao contra tiros. Seu nivel de protecao contra anomalias e baixo devido a ausencia de um sistema de filtragem de ar.</text>
+70|<text>Traje Monolith</text>
 73|<text>Eles tiraram este casaco do corpo de um dos stalkers que morreram na anomalia "ponche de frutas". Tendo ficado muito tempo na anomalia, o casaco obteve a capacidade de acelerar o metabolismo.</text>
 76|<text>Anomalia Skinner</text>
 79|<text>Uma jaqueta grossa comum, uma das muitas. Aumenta ligeiramente a protecao contra balas e estilhacos. Nao protege contra anomalias e outros efeitos.</text>

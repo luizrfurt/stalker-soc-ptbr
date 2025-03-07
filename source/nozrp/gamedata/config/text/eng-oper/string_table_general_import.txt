@@ -30,7 +30,7 @@
 91|<text>Usina Nuclear de Chernobyl</text>
 94|<text>especialista</text>
 97|<text>Militar</text>
-100|<text>Monolito</text>
+100|<text>Monolith</text>
 103|<text>neutro</text>
 106|<text>Novato</text>
 109|<text>Nenhuma missao ativa</text>
@@ -80,4 +80,4 @@
 241|<text>Lab X-16</text>
 244|<text>Lab X-10</text>
 247|<text>Sarcofago</text>
-250|<text>Controle do Monolito</text>
+250|<text>Controle da Monolith</text>

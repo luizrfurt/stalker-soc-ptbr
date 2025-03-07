@@ -19,7 +19,7 @@
 58|<text>Stalkers militares</text>
 61|<text>Grupos de pesquisa</text>
 64|<text>Laboratorio cientifico movel</text>
-67|<text>Faccao Monolito</text>
+67|<text>Faccao Monolith</text>
 70|<text>Cientistas</text>
 73|<text>Faccoes</text>
 76|<text>Clas de Stalkers</text>

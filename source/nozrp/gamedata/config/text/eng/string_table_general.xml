@@ -97,7 +97,7 @@
 		<text>Militar</text>
 	</string>
 	<string id="monolith">
-		<text>Monolito</text>
+		<text>Monolith</text>
 	</string>
 	<string id="neutral">
 		<text>neutro</text>
@@ -247,6 +247,6 @@
 		<text>Sarcofago</text>
 	</string>
 	<string id="l12u_control_monolith">
-		<text>Controle do Monolito</text>
+		<text>Controle da Monolith</text>
 	</string>
 </string_table>

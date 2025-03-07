@@ -14,7 +14,7 @@
 41|<text>Volte para a fazenda da Duty e receba minha taxa</text>
 44|<text>Volte para Cranio</text>
 47|<text>Comandante do posto avancado Cap</text>
-50|<text>Ajude a destruir o esquadrao de ataque do Monolito</text>
+50|<text>Ajude a destruir o esquadrao de ataque da Monolith</text>
 53|<text>Fale com o comandante do posto avancado da Barreira</text>
 56|<text>Encontre o cozinheiro na base da Freedom</text>
 59|<text>Obtenha um Bulldog 6 da Freedom</text>

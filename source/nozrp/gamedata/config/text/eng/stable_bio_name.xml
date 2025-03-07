@@ -1,17 +1,17 @@
 	<string id="aes_Monolit_master_bio">
-		<text>Sentinela do grupo Monolito. E melhor ficar longe dele. Detalhes nao disponiveis.</text>
+		<text>Sentinela do grupo Monolith. E melhor ficar longe dele. Detalhes nao disponiveis.</text>
 	</string>
 	<string id="aes_Monolit_rpg_bio">
-		<text>Stalker do grupo Monolito. Detalhes nao disponiveis.</text>
+		<text>Stalker do grupo Monolith. Detalhes nao disponiveis.</text>
 	</string>
 	<string id="aes_Monolit_sniper_bio">
-		<text>Stalker do grupo Monolito. Detalhes nao disponiveis.</text>
+		<text>Stalker do grupo Monolith. Detalhes nao disponiveis.</text>
 	</string>
 	<string id="aes_Monolit_sniper_gauss_bio">
-		<text>Stalker do grupo Monolito. Detalhes nao disponiveis.</text>
+		<text>Stalker do grupo Monolith. Detalhes nao disponiveis.</text>
 	</string>
 	<string id="aes_Monolit_specnaz_bio">
-		<text>Militante do grupo Monolito. Bem equipado. Detalhes nao disponiveis.</text>
+		<text>Militante do grupo Monolith. Bem equipado. Detalhes nao disponiveis.</text>
 	</string>
 	<string id="aes_Soldier_commander_bio">
 		<text>Comandante da incursao militar.</text>
@@ -329,10 +329,10 @@
 		<text>Merc desconhecido. Possivelmente bem armado. Detalhes nao disponiveis.</text>
 	</string>
 	<string id="mil_Monolit_master_bio">
-		<text>Sentinela do grupo Monolito. E melhor ficar longe dele. Detalhes nao disponiveis.</text>
+		<text>Sentinela do grupo Monolith. E melhor ficar longe dele. Detalhes nao disponiveis.</text>
 	</string>
 	<string id="mil_Monolit_regular_bio">
-		<text>Stalker do grupo Monolito. Detalhes nao disponiveis.</text>
+		<text>Stalker do grupo Monolith. Detalhes nao disponiveis.</text>
 	</string>
 	<string id="mil_Stalker_master_bio">
 		<text>Um dos veteranos. Conhece a Zona como a palma da mao. Geralmente bem equipado e altamente perigoso. Detalhes nao disponiveis.</text>
@@ -419,22 +419,22 @@
 		<text>Stalker veterano. Possivelmente bem equipado. Detalhes nao disponiveis.</text>
 	</string>
 	<string id="pri_monolith_common_bio">
-		<text>Stalker do grupo Monolito. Detalhes nao disponiveis.</text>
+		<text>Stalker do grupo Monolith. Detalhes nao disponiveis.</text>
 	</string>
 	<string id="pri_monolith_exo_bio">
-		<text>Stalker de elite do grupo Monolito. Detalhes nao disponiveis.</text>
+		<text>Stalker de elite do grupo Monolith. Detalhes nao disponiveis.</text>
 	</string>
 	<string id="pri_monolith_leader_bio">
-		<text>Lider do grupo Monolito. Detalhes nao disponiveis.</text>
+		<text>Lider do grupo Monolith. Detalhes nao disponiveis.</text>
 	</string>
 	<string id="pri_monolith_leader_name">
 		<text>Caronte</text>
 	</string>
 	<string id="pri_monolith_regular_bio">
-		<text>Stalker regular do grupo Monolito. Detalhes nao disponiveis.</text>
+		<text>Stalker regular do grupo Monolith. Detalhes nao disponiveis.</text>
 	</string>
 	<string id="pri_monolith_specnaz_bio">
-		<text>Stalker das forcas especiais do grupo Monolito. Detalhes nao disponiveis.</text>
+		<text>Stalker das forcas especiais do grupo Monolith. Detalhes nao disponiveis.</text>
 	</string>
 	<string id="pri_zombied_soldier_bio">
 		<text>Soldado regular. Detalhes nao disponiveis.</text>
@@ -464,10 +464,10 @@
 		<text>Assistente de pesquisa.</text>
 	</string>
 	<string id="rad_monolith_general_bio">
-		<text>Stalker do grupo Monolito. Detalhes nao disponiveis.</text>
+		<text>Stalker do grupo Monolith. Detalhes nao disponiveis.</text>
 	</string>
 	<string id="rad_monolith_specnaz_bio">
-		<text>Militante do grupo Monolito. Bem equipado. Detalhes nao disponiveis.</text>
+		<text>Militante do grupo Monolith. Bem equipado. Detalhes nao disponiveis.</text>
 	</string>
 	<string id="rad_specnaz_bio">
 		<text>Spetsnaz. Bem equipado. Detalhes nao disponiveis.</text>
@@ -518,10 +518,10 @@
 		<text>Galgo</text>
 	</string>
 	<string id="sar_monolith_bio">
-		<text>Stalker do grupo Monolito. Detalhes nao disponiveis.</text>
+		<text>Stalker do grupo Monolith. Detalhes nao disponiveis.</text>
 	</string>
 	<string id="sar_monolith_cristall_bio">
-		<text>Stalker do grupo especial "Cristal" do Monolito, responsavel pela seguranca do proprio Monolito.</text>
+		<text>Stalker do grupo especial "Crystal" da Monolith, responsavel pela seguranca do proprio Monolito.</text>
 	</string>
 	<string id="sar2_arena_manager_name">
 		<text>Arnie</text>
@@ -704,16 +704,16 @@
 		<text>Merc desconhecido. Possivelmente bem armado. Detalhes nao disponiveis.</text>
 	</string>
 	<string id="sim_monolith_master_bio">
-		<text>Stalker do grupo Monolito. Detalhes nao disponiveis.</text>
+		<text>Stalker do grupo Monolith. Detalhes nao disponiveis.</text>
 	</string>
 	<string id="sim_monolith_regular_bio">
-		<text>Stalker do grupo Monolito. Detalhes nao disponiveis.</text>
+		<text>Stalker do grupo Monolith. Detalhes nao disponiveis.</text>
 	</string>
 	<string id="sim_monolith_sniper_bio">
-		<text>Stalker do grupo Monolito. Detalhes nao disponiveis.</text>
+		<text>Stalker do grupo Monolith. Detalhes nao disponiveis.</text>
 	</string>
 	<string id="sim_monolith_specnaz_bio">
-		<text>Stalker do grupo Monolito. Detalhes nao disponiveis.</text>
+		<text>Stalker do grupo Monolith. Detalhes nao disponiveis.</text>
 	</string>
 	<string id="sim_soldier_commander_bio">
 		<text>Detalhes nao disponiveis.</text>
@@ -821,7 +821,7 @@
 		<text>Stalker da faccao Duty. Detalhes nao disponiveis.</text>
 	</string>
 	<string id="val_monolith_common_bio">
-		<text>Stalker do grupo Monolito. Detalhes nao disponiveis.</text>
+		<text>Stalker do grupo Monolith. Detalhes nao disponiveis.</text>
 	</string>
 	<string id="val_prisoner_bio">
 		<text>Stalker da faccao Duty. Detalhes nao disponiveis.</text>

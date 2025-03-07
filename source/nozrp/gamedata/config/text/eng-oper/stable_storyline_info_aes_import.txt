@@ -1,3 +1,3 @@
-2|<text>Operacao Monolito</text>
+2|<text>Operacao Monolith</text>
 5|<text>Situacao</text>
 8|<text>Plano de acao militar\n\n Pessoal:\n Comandante da Operacao: codinome Quarteto\n Sete unidades de assalto aereo: Sapsan, Korshun, Yastreb, Pustelga, Sokol, Grif, Lun. \n Equipe de sniper: Sova\n Apoio:\n Aereo: 018, 030, 031, 48, 49, 52\n 51, 64, 65, 098, 097\n Terrestre: Armadillo 1, Armadillo 2, Armadillo 3\n Situacao: Possivel forte resistencia nas proximidades da ponte (23,45), portao (26,78) e estrada ao longo do predio principal da estacao (12,23-53,76). E provavel que o inimigo implante armamento pesado. \n Numero esperado de pessoal inimigo: 70-100. Veiculos blindados: nenhum.\n Possivel cobertura de sniper pesado do inimigo.\n Condicoes climaticas: Visibilidade - 700, possiveis anomalias nao encontradas anteriormente.</text>
