@@ -75,7 +75,7 @@
 226|<text>pronto</text>
 229|<text>Votacao bem-sucedida!</text>
 232|<text>Votacao falhou!</text>
-235|<text>Agroprom Subsolo</text>
+235|<text>Agroprom Underground</text>
 238|<text>Lab X-18</text>
 241|<text>Lab X-16</text>
 244|<text>Lab X-10</text>
