@@ -7,7 +7,7 @@
 20|<text>Lun</text>
 23|<text>Peneireiro</text>
 26|<text>Falcao-peregrino</text>
-29|<text>Entrada do Sarcofago</text>
+29|<text>Entrada do Sarcophagus</text>
 32|<text>Falcao</text>
 35|<text>Coruja</text>
 38|<text>Gaviao</text>

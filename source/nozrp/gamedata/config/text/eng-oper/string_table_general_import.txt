@@ -79,5 +79,5 @@
 238|<text>Lab X-18</text>
 241|<text>Lab X-16</text>
 244|<text>Lab X-10</text>
-247|<text>Sarcofago</text>
+247|<text>Sarcophagus</text>
 250|<text>Controle da Monolith</text>
