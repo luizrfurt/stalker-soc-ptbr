@@ -73,7 +73,7 @@
 		<text>O que ha mais ao norte, alem do posto avancado do exercito?</text>
 	</string>
 	<string id="esc_stalker_talk_level_21">
-		<text>O Lixao, isso sim. Um lugar deprimente. Tanta merda contaminada em alguns pontos que nadar seria mais facil do que andar.</text>
+		<text>O Garbage, isso sim. Um lugar deprimente. Tanta merda contaminada em alguns pontos que nadar seria mais facil do que andar.</text>
 	</string>
 	<string id="escape_factory_assault_start_31">
 		<text>Ola. Lobo ja mandou noticias suas. Voce tem alguma pergunta?</text>
@@ -118,7 +118,7 @@
 		<text>O que voce pode me dizer sobre a Zona?</text>
 	</string>
 	<string id="escape_fox_hello_dialog_21111">
-		<text>E so isso que voce quer saber? Tire uma semana de folga e volte a me ver. Olha, meu tempo nao e barato e estou meio ocupado agora. Aqui estao os conceitos basicos e depois voce se vira sozinho. Cerca de tres quilometros ao norte daqui, voce encontrara o Lixao. E o lugar onde costumavam despejar todo o lixo radioativo da estacao. Altos niveis de radiacao, anomalias por toda parte, entao ha muitos artefatos para serem encontrados la... mas nao muito valiosos. Apenas tome cuidado com as gangues e nao cruze os patrulheiros da Duty. A oeste do Lixao fica o antigo Instituto de Pesquisa Agroprom. Pouco em termos de artefatos la, entao voce pode pular. E a leste, fica o Vale Sombrio. Quem sabe... E um lugar bem estranho. Parece bastante tranquilo, alem de um bando de gangsters vagando por ai. Mas tenho a sensacao de que ha mais do que se ve. Ah, e ha a fabrica Rostok logo alem do Lixao. E territorio de stalker. Voce encontrara muitas pessoas experientes la, elas te dirao o resto.</text>
+		<text>E so isso que voce quer saber? Tire uma semana de folga e volte a me ver. Olha, meu tempo nao e barato e estou meio ocupado agora. Aqui estao os conceitos basicos e depois voce se vira sozinho. Cerca de tres quilometros ao norte daqui, voce encontrara o Garbage. E o lugar onde costumavam despejar todo o lixo radioativo da estacao. Altos niveis de radiacao, anomalias por toda parte, entao ha muitos artefatos para serem encontrados la... mas nao muito valiosos. Apenas tome cuidado com as gangues e nao cruze os patrulheiros da Duty. A oeste do Garbage fica o antigo Instituto de Pesquisa Agroprom. Pouco em termos de artefatos la, entao voce pode pular. E a leste, fica o Vale Sombrio. Quem sabe... E um lugar bem estranho. Parece bastante tranquilo, alem de um bando de gangsters vagando por ai. Mas tenho a sensacao de que ha mais do que se ve. Ah, e ha a fabrica Rostok logo alem do Garbage. E territorio de stalker. Voce encontrara muitas pessoas experientes la, elas te dirao o resto.</text>
 	</string>
 	<string id="escape_fox_hello_dialog_2113">
 		<text>Mudei de ideia. Obrigado.</text>
@@ -130,7 +130,7 @@
 		<text>O Trader me disse que voce poderia saber algo sobre Strelok.</text>
 	</string>
 	<string id="escape_fox_hello_dialog_311">
-		<text>Por que todo mundo esta demonstrando tanto interesse nele ultimamente? OK, nao posso dizer que o conheco pessoalmente. Nos "nos comunicamos", no entanto: meus caras atiraram nele uma vez. Ninguem se machucou - estava claro que o grupo dele estava esperando por outra pessoa, entao nos separamos em paz. Nos xingamos atraves de uma ravina e seguimos nossos caminhos separados. Seriy, meu irmao, esta agora no hangar no Lixao - vou te dar as coordenadas dele para que voces dois possam conversar. Ele sabe mais sobre Strelok. Tenha cuidado na saida, uma pequena gangue se instalou nessas partes. A proposito, tenho alguns monstros me perseguindo e nao parece que eles desistiram ainda. Voce se importa de me ajudar a lidar com eles? E moleza, na verdade.</text>
+		<text>Por que todo mundo esta demonstrando tanto interesse nele ultimamente? OK, nao posso dizer que o conheco pessoalmente. Nos "nos comunicamos", no entanto: meus caras atiraram nele uma vez. Ninguem se machucou - estava claro que o grupo dele estava esperando por outra pessoa, entao nos separamos em paz. Nos xingamos atraves de uma ravina e seguimos nossos caminhos separados. Seriy, meu irmao, esta agora no hangar no Garbage - vou te dar as coordenadas dele para que voces dois possam conversar. Ele sabe mais sobre Strelok. Tenha cuidado na saida, uma pequena gangue se instalou nessas partes. A proposito, tenho alguns monstros me perseguindo e nao parece que eles desistiram ainda. Voce se importa de me ajudar a lidar com eles? E moleza, na verdade.</text>
 	</string>
 	<string id="escape_fox_hello_dialog_3111">
 		<text>Obrigado pela informacao, eu agradeco.</text>
@@ -457,7 +457,7 @@
 		<text>Entendi.</text>
 	</string>
 	<string id="escape_trader_jobs_611111111">
-		<text>Voce tera que ir para o norte pelo Lixao, depois virar para o oeste. Voce vai acabar no Instituto de Pesquisa Agroprom depois de alguns quilometros. E tenha cuidado, o nivel de radiacao e muito alto no Lixao. Entao, sugiro que voce desembolse algum antirrad ou vodka. Bem, boa sorte.</text>
+		<text>Voce tera que ir para o norte pelo Garbage, depois virar para o oeste. Voce vai acabar no Instituto de Pesquisa Agroprom depois de alguns quilometros. E tenha cuidado, o nivel de radiacao e muito alto no Garbage. Entao, sugiro que voce desembolse algum antirrad ou vodka. Bem, boa sorte.</text>
 	</string>
 	<string id="escape_trader_start_dialog_111">
 		<text>Tenho um trabalho para voce, Marca... Quero que voce encontre um stalker chamado Agil, ele estava carregando algumas informacoes muito importantes. Ele desapareceu em algum lugar perto da ponte. Encontre-o, morto ou vivo - nao me importo, preciso do pendrive com as informacoes. Visite Lobo no acampamento local e pergunte a ele. Ele certamente sabe onde esse cara pode estar.</text>

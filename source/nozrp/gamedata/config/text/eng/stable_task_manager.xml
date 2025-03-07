@@ -4,10 +4,10 @@
 		<text>Pegue o artefato.</text>
 	</string>
 	<string id="barmen_defend_camp_1">
-		<text>Proteja o acampamento de stalkers no Lixao do ataque de bandidos</text>
+		<text>Proteja o acampamento de stalkers no Garbage do ataque de bandidos</text>
 	</string>
 	<string id="barmen_defend_camp_1_descr">
-		<text>Proteja o acampamento de stalkers no Lixao do ataque de bandidos</text>
+		<text>Proteja o acampamento de stalkers no Garbage do ataque de bandidos</text>
 	</string>
 	<string id="barmen_defend_camp_1_text">
 		<text>Um grupo de stalkers esta vindo me visitar, e estou pessoalmente interessado em sua chegada segura. Eles ficarao nao muito longe do Bar. Um criminoso penitente quase voluntariamente nos informou que eles serao atacados em breve. Entao, siga nessa direcao e proteja o acampamento deles do ataque.</text>
@@ -22,13 +22,13 @@
 		<text>Entao, aqui esta o acordo. Recentemente, um grupo de stalkers foi para Agroprom. A ultima vez que entraram em contato, disseram que havia algo valioso no subsolo, mas estavam sendo pressionados pelos bandidos. Eles estao aguentando, mas nao conseguem limpar a area. Voce os ajudara?</text>
 	</string>
 	<string id="barmen_eliminate_camp_1">
-		<text>Elimine os bandidos no Lixao.</text>
+		<text>Elimine os bandidos no Garbage.</text>
 	</string>
 	<string id="barmen_eliminate_camp_1_descr">
-		<text>Extermine a gangue de bandidos que se estabeleceu no Lixao. Tem que ser uma operacao rapida e eficiente.</text>
+		<text>Extermine a gangue de bandidos que se estabeleceu no Garbage. Tem que ser uma operacao rapida e eficiente.</text>
 	</string>
 	<string id="barmen_eliminate_camp_1_text">
-		<text>Um trabalho, hein? Vamos ver o que temos... Aha! Aqui esta: voce pode nocautear aquele bando de bandidos no Lixao? O Duty, com todos os seus discursos sobre lei e ordem, simplesmente nao consegue fazer isso. Sao uns escroques raros, entao nao durarao muito de qualquer maneira. Mas quem pega-los primeiro vai marcar pontos... e a bebida e por minha conta, e claro.</text>
+		<text>Um trabalho, hein? Vamos ver o que temos... Aha! Aqui esta: voce pode nocautear aquele bando de bandidos no Garbage? O Duty, com todos os seus discursos sobre lei e ordem, simplesmente nao consegue fazer isso. Sao uns escroques raros, entao nao durarao muito de qualquer maneira. Mas quem pega-los primeiro vai marcar pontos... e a bebida e por minha conta, e claro.</text>
 	</string>
 	<string id="barmen_eliminate_camp_2">
 		<text>Elimine os Mercs e bandidos em Rostok.</text>
@@ -223,10 +223,10 @@
 		<text>Proteja o posto de seguranca da Duty</text>
 	</string>
 	<string id="dolg_defend_lager_1_descr">
-		<text>Proteja o posto de seguranca da Duty no Lixao.</text>
+		<text>Proteja o posto de seguranca da Duty no Garbage.</text>
 	</string>
 	<string id="dolg_defend_lager_1_text">
-		<text>Entao, voce provavelmente encontrou nossos caras no Lixao. Eles estao la como uma especie de posto externo protegendo o bar dos mutantes que vem do Vale Sombrio. Chegou a informacao de que a manada doente de javalis esta se aproximando deles. Ajude-os a lutar contra os mutantes e eu lhe devo uma.</text>
+		<text>Entao, voce provavelmente encontrou nossos caras no Garbage. Eles estao la como uma especie de posto externo protegendo o bar dos mutantes que vem do Vale Sombrio. Chegou a informacao de que a manada doente de javalis esta se aproximando deles. Ajude-os a lutar contra os mutantes e eu lhe devo uma.</text>
 	</string>
 	<string id="dolg_eliminate_lager_1">
 		<text>Destrua o zumbi</text>
@@ -241,10 +241,10 @@
 		<text>Livre-se do bando de caes.</text>
 	</string>
 	<string id="dolg_eliminate_lager_10_descr">
-		<text>Livre-se do bando de caes no Lixao.</text>
+		<text>Livre-se do bando de caes no Garbage.</text>
 	</string>
 	<string id="dolg_eliminate_lager_10_text">
-		<text>Nos, naturalmente, nao damos tarefas para stalkers estrangeiros. Por outro lado, esta e uma tarefa simples, entao nao ha razao para nossos caras fazerem isso. Entao escute. Voce precisa limpar um pequeno covil de feras no Lixao. Um de nossos grupos ja esta trabalhando la, entao, em caso de problemas, voce tera um lugar para se retirar. Por outro lado, nao deve haver problemas porque nao ha muitas feras la - nao mais do que dez. Muito provavelmente caes: recentemente houve relatos de uma migracao de um grande bando deles na area. Voce pode comecar a realizar a tarefa.</text>
+		<text>Nos, naturalmente, nao damos tarefas para stalkers estrangeiros. Por outro lado, esta e uma tarefa simples, entao nao ha razao para nossos caras fazerem isso. Entao escute. Voce precisa limpar um pequeno covil de feras no Garbage. Um de nossos grupos ja esta trabalhando la, entao, em caso de problemas, voce tera um lugar para se retirar. Por outro lado, nao deve haver problemas porque nao ha muitas feras la - nao mais do que dez. Muito provavelmente caes: recentemente houve relatos de uma migracao de um grande bando deles na area. Voce pode comecar a realizar a tarefa.</text>
 	</string>
 	<string id="dolg_eliminate_lager_11">
 		<text>Destrua o acampamento de stalkers</text>
@@ -289,7 +289,7 @@
 		<text>Destrua a manada de carniceiros no Territorio Selvagem.</text>
 	</string>
 	<string id="dolg_eliminate_lager_2_text">
-		<text>Rastreamos a migracao de uma grande manada de feras... Mutantes bastante repugnantes, semelhantes a porcos, que todos chamam de carniceiros. Agora eles estao na area do Lixao. Todas as nossas pessoas estao ocupadas, mas essas feras precisam ser destruidas. E um tipo especial de trabalho - vamos pagar.</text>
+		<text>Rastreamos a migracao de uma grande manada de feras... Mutantes bastante repugnantes, semelhantes a porcos, que todos chamam de carniceiros. Agora eles estao na area do Garbage. Todas as nossas pessoas estao ocupadas, mas essas feras precisam ser destruidas. E um tipo especial de trabalho - vamos pagar.</text>
 	</string>
 	<string id="dolg_eliminate_lager_3">
 		<text>Destrua os pseudocaes</text>
@@ -349,10 +349,10 @@
 		<text>Destrua os bandidos</text>
 	</string>
 	<string id="dolg_eliminate_lager_9_descr">
-		<text>Destrua os bandidos no Lixao.</text>
+		<text>Destrua os bandidos no Garbage.</text>
 	</string>
 	<string id="dolg_eliminate_lager_9_text">
-		<text>A situacao atual e desfavoravel, os bandidos estao se reunindo nas areas do Lixao e do Vale Sombrio. A melhor solucao e realizar dois ataques preventivos ao mesmo tempo! Nossos combatentes cuidarao do vale, e voce cuidara do Lixao.</text>
+		<text>A situacao atual e desfavoravel, os bandidos estao se reunindo nas areas do Garbage e do Vale Sombrio. A melhor solucao e realizar dois ataques preventivos ao mesmo tempo! Nossos combatentes cuidarao do vale, e voce cuidara do Garbage.</text>
 	</string>
 	<string id="dolg_find_item_1">
 		<text>Encontre o rifle aprimorado</text>
@@ -553,10 +553,10 @@
 		<text>Destrua o posto avancado da Duty</text>
 	</string>
 	<string id="freedom_eliminate_camp_4_descr">
-		<text>Destrua o posto avancado da Duty no Lixao o mais rapido possivel.</text>
+		<text>Destrua o posto avancado da Duty no Garbage o mais rapido possivel.</text>
 	</string>
 	<string id="freedom_eliminate_camp_4_text">
-		<text>Ha um trabalho muito urgente. A passagem do Lixao para o Bar precisa ser limpa da unidade da Duty... Eles comecaram a se esconder la e roubar os transeuntes. Estamos esperando um pacote muito importante, mas agora nao se pode descartar que a Duty ja saiba sobre nosso mensageiro e tente embosca-lo. Precisamos eliminar esse bloqueio, mesmo que por um curto periodo. Ok?</text>
+		<text>Ha um trabalho muito urgente. A passagem do Garbage para o Bar precisa ser limpa da unidade da Duty... Eles comecaram a se esconder la e roubar os transeuntes. Estamos esperando um pacote muito importante, mas agora nao se pode descartar que a Duty ja saiba sobre nosso mensageiro e tente embosca-lo. Precisamos eliminar esse bloqueio, mesmo que por um curto periodo. Ok?</text>
 	</string>
 	<string id="freedom_eliminate_camp_5">
 		<text>Limpe a vila.</text>
@@ -763,7 +763,7 @@
 		<text>Cubra o destacamento da Duty do ataque dos bandidos no Vale Sombrio</text>
 	</string>
 	<string id="tm_defend_camp_1_text">
-		<text>Finalmente consegui colocar na cabeca dura dos dutyers que ja passou da hora de limpar o Lixao dos bandidos. O Duty ampliara seu territorio e nao prejudicara meus clientes regulares com tanta frequencia. Bem, aqui esta o acordo - a lideranca da Duty decidiu, para comecar, cortar o fluxo de bandidos do Vale Sombrio. Entao eles enviaram um destacamento de bloqueio e descobriram que os bandidos nao gostaram disso. Quem diria! Entao, o que eu estou me perguntando e, voce poderia ajuda-los a garantir a entrada do Vale? Eu lhe agradecerei generosamente.</text>
+		<text>Finalmente consegui colocar na cabeca dura dos dutyers que ja passou da hora de limpar o Garbage dos bandidos. O Duty ampliara seu territorio e nao prejudicara meus clientes regulares com tanta frequencia. Bem, aqui esta o acordo - a lideranca da Duty decidiu, para comecar, cortar o fluxo de bandidos do Vale Sombrio. Entao eles enviaram um destacamento de bloqueio e descobriram que os bandidos nao gostaram disso. Quem diria! Entao, o que eu estou me perguntando e, voce poderia ajuda-los a garantir a entrada do Vale? Eu lhe agradecerei generosamente.</text>
 	</string>
 	<string id="tm_dolg_has_no_job">
 		<text>Nao ha trabalhos disponiveis no momento.</text>
@@ -811,13 +811,13 @@
 		<text>Aqui esta o que posso oferecer:</text>
 	</string>
 	<string id="tm_eliminate_camp_1">
-		<text>Destrua o acampamento de bandidos no Lixao.</text>
+		<text>Destrua o acampamento de bandidos no Garbage.</text>
 	</string>
 	<string id="tm_eliminate_camp_1_descr">
-		<text>Elimine os bandidos no Lixao que roubam os stalkers no caminho de volta da Zona. O trader ficara feliz.</text>
+		<text>Elimine os bandidos no Garbage que roubam os stalkers no caminho de volta da Zona. O trader ficara feliz.</text>
 	</string>
 	<string id="tm_eliminate_camp_1_text">
-		<text>Os bandidos se reuniram ultimamente, atrapalhando o comercio de pessoas honestas... Entao, va direto para o Lixao, me disseram que esses canalhas se estabeleceram perto do ferro-velho. Voce investiga esse assunto e todos ficarao gratos a voce, e eu serei generoso com a recompensa. Concorda?</text>
+		<text>Os bandidos se reuniram ultimamente, atrapalhando o comercio de pessoas honestas... Entao, va direto para o Garbage, me disseram que esses canalhas se estabeleceram perto do ferro-velho. Voce investiga esse assunto e todos ficarao gratos a voce, e eu serei generoso com a recompensa. Concorda?</text>
 	</string>
 	<string id="tm_eliminate_camp_2">
 		<text>Destrua o acampamento de bandidos no Auto parque.</text>
@@ -847,13 +847,13 @@
 		<text>Ha uma coisa, bem facil. Eles querem trazer um turista estrangeiro. Ele pagou uma grana para meus amigos para poder olhar a zona. E a area onde eles vao mostra-lo precisa ser limpa de mutantes. Voce vai fazer isso?</text>
 	</string>
 	<string id="tm_eliminate_camp_5">
-		<text>Elimine dois bandidos no Lixao.</text>
+		<text>Elimine dois bandidos no Garbage.</text>
 	</string>
 	<string id="tm_eliminate_camp_5_descr">
 		<text>Torne a estrada para um dos melhores lugares da Zona acessivel a todos.</text>
 	</string>
 	<string id="tm_eliminate_camp_5_text">
-		<text>Recentemente, um dos melhores lugares da Zona tornou-se inacessivel para os amantes do maravilhoso. No Lixao... sim, o Lixao, ha um lugar pitoresco como nenhum outro, onde toda a sua tristeza o deixa, onde voce se esquece da sujeira, do dinheiro, do sangue. Esqueceu, isto e, porque agora ha dois aberracoes sujas sentadas la, que ameacam matar qualquer um que nao lhes pague para poder entrar no lugar. Livre-se deles - nao tenho outro lugar para levar os turistas.</text>
+		<text>Recentemente, um dos melhores lugares da Zona tornou-se inacessivel para os amantes do maravilhoso. No Garbage... sim, o Garbage, ha um lugar pitoresco como nenhum outro, onde toda a sua tristeza o deixa, onde voce se esquece da sujeira, do dinheiro, do sangue. Esqueceu, isto e, porque agora ha dois aberracoes sujas sentadas la, que ameacam matar qualquer um que nao lhes pague para poder entrar no lugar. Livre-se deles - nao tenho outro lugar para levar os turistas.</text>
 	</string>
 	<string id="tm_eliminate_camp_6">
 		<text>Mate o sanguessuga no Vale Sombrio</text>
@@ -949,7 +949,7 @@
 		<text>Mate o lider dos bandidos</text>
 	</string>
 	<string id="tm_kill_stalker_1_descr">
-		<text>Mate o lider dos bandidos que cruzou o caminho do trader. Provavelmente ele nao estara sozinho... Trabalho dificil, mas o pagamento cobre tudo. O Lixao e o lugar para procura-lo.</text>
+		<text>Mate o lider dos bandidos que cruzou o caminho do trader. Provavelmente ele nao estara sozinho... Trabalho dificil, mas o pagamento cobre tudo. O Garbage e o lugar para procura-lo.</text>
 	</string>
 	<string id="tm_kill_stalker_1_text">
 		<text>Voce tera que acabar com este dandi, um dos lideres dos bandidos. Outro dia, os bandidos, por ordem dele, interceptaram meu mensageiro e o sacudiram e eu nao perco palavras com aqueles que tocam no meu pessoal... Em uma palavra, se voce conseguir, eu retribuirei o favor. Entao, voce topa?</text>
@@ -1162,7 +1162,7 @@
 		<text>Ha um bando de caes no posto de controle sul do Bar. O chefe do posto de controle pede para limpar o covil deles. Promete recompensar.</text>
 	</string>
 	<string id="zastava_commander_eliminate_lager_text">
-		<text>Apesar de nossos esforcos, alguns monstros ainda conseguem romper o Lixao. Bem, voce provavelmente viu um bando de caes ao sul de nos. Se voce mata-los, recebera uma recompensa.</text>
+		<text>Apesar de nossos esforcos, alguns monstros ainda conseguem romper o Garbage. Bem, voce provavelmente viu um bando de caes ao sul de nos. Se voce mata-los, recebera uma recompensa.</text>
 	</string>
 	<string id="defend_lager">
 		<text>Defesa do acampamento</text>

@@ -9,18 +9,18 @@
 26|<text>Doutor: Estarei esperando por um homem que vem de Strelok no esconderijo usado por Strelok e seus homens. Se ele for um dos nossos, conhecera o lugar.</text>
 29|<text>OK, vou me encontrar com o homem de Fantasma. Estarei esperando por ele no esconderijo de Strelok. Se ele for um dos nossos, sabera onde me procurar. Doutor.</text>
 32|<text>Trader: "...meus caras estavam voltando de uma missao e desapareceram. Um deles - chamado Agil - estava me trazendo algumas informacoes... E todos desapareceram muito perto porque perderam a ponte. Nao sei o que pensar. De qualquer forma: encontre Agil, morto ou vivo, desde que ele tenha o pendrive. Traga-o para mim. Agil era um dos homens de Lobo - e Lobo esta aqui no acampamento. Pergunte a ele, ele provavelmente sabe de alguma coisa. Ele o ajudara com armas e equipamentos."</text>
-35|<text>Seriy para Raposo: um amigo quer que eu ajude um grupo de stalkers que desenterraram o esconderijo de Strelok. Vou para o hangar no Lixao com meus rapazes. E la que voce pode me encontrar.</text>
+35|<text>Seriy para Raposo: um amigo quer que eu ajude um grupo de stalkers que desenterraram o esconderijo de Strelok. Vou para o hangar no Garbage com meus rapazes. E la que voce pode me encontrar.</text>
 38|<text>Ontem um irmao foi explorar o moinho abandonado e nao ouvimos falar dele desde entao. Precisamos ir la e ver onde ele desapareceu.</text>
 41|<text>Lobo: traga a dinamite roubada pelos bandidos na fabrica. Para ajuda-lo, ha batedores sob a ponte, va ate eles e diga "Ola do submundo" - essa e a senha. Lidere-os para a batalha.</text>
 44|<text>Lobo: limpe os bandidos na fabrica com a ajuda de meus batedores atras da ponte, depois volte e relate.</text>
 47|<text>PDA do stalker morto</text>
 50|<text>...acordei na toca de um cara, nao me lembro de nada. So tenho um PDA comigo com a foto de outro cara. Ha apenas uma mensagem no PDA - mate Strelok.</text>
 53|<text>Trader: Raposo voltou de sua incursao e esta pedindo ajuda. Talvez ele saiba algo sobre Strelok.</text>
-56|<text>Raposo: Seriy esta sentado no hangar no Lixao, ele sabe mais sobre Strelok.</text>
+56|<text>Raposo: Seriy esta sentado no hangar no Garbage, ele sabe mais sobre Strelok.</text>
 59|<text>Trader: roube o relatorio da expedicao dos militares no Instituto de Pesquisa Agroprom, leve-o para o bar 100 Rads e entregue-o para Bartender.</text>
 62|<text>PDA de Raposo</text>
 65|<text>Diario de Tolik. O trader nos enviou para espionar os militares no Instituto de Pesquisa Agroprom. Cheguei la e atirei em todos, bandidos e militares. Desenterrei algumas coisas interessantes, estou codificando o resto texto confuso que parece uma cifra</text>
-68|<text>Seriy para Raposo: um cara que conheco pediu para encontrar um grupo de stalkers que farejaram o esconderijo de Strelok. Estarei no Lixao, apareca se quiser.</text>
+68|<text>Seriy para Raposo: um cara que conheco pediu para encontrar um grupo de stalkers que farejaram o esconderijo de Strelok. Estarei no Garbage, apareca se quiser.</text>
 71|<text>PDA de Tolik</text>
 74|<text>Trader: ha um campo de anomalia Redemoinho por perto. Ha um artefato em seu centro. Pegue-o.</text>
 77|<text>Ha uma anomalia muito estranha aqui. Parece que esta se movendo. Vou tentar calcular seus tempos de movimento e caminho, porque nao tenho dinheiro para pagar aos soldados pela passagem.</text>

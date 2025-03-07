@@ -26,15 +26,15 @@
 79|<text>Obrigado, cara - voce realmente me ajudou. Nao vou esquecer.</text>
 82|<text>O que esta acontecendo aqui?</text>
 85|<text>OK.</text>
-88|<text>Estamos tentando limpar o Lixao de bandidos. Meus amigos vao emboscar um esquadrao de bandidos por perto. Se nao os pararmos, eles vao assumir o controle do Lixao e ninguem podera ir mais fundo na Zona. Fale com nosso comandante. Ele e seus homens estao perto daqui, no ferro-velho de maquinas. Eu mesmo estou indo para la - podemos ir juntos se voce quiser.</text>
+88|<text>Estamos tentando limpar o Garbage de bandidos. Meus amigos vao emboscar um esquadrao de bandidos por perto. Se nao os pararmos, eles vao assumir o controle do Garbage e ninguem podera ir mais fundo na Zona. Fale com nosso comandante. Ele e seus homens estao perto daqui, no ferro-velho de maquinas. Eu mesmo estou indo para la - podemos ir juntos se voce quiser.</text>
 91|<text>Vamos la.</text>
-94|<text>Voce pode me dizer alguma coisa sobre o Lixao?</text>
-97|<text>Nao ha muito para contar, cara. O Lixao e... um lixao. Combatentes da Duty guardam a estrada do norte para o Bar. Voce pode querer evita-los - a Duty esta cheio de tipos realmente desagradaveis. A direita estao os caminhos para o Vale Sombrio, mas os niveis de radiacao sao muito altos la. Um pouco mais perto esta o Pantano de Grimpen - pantanos terriveis cheios de anomalias. Dizem que e facil encontrar alguns artefatos decentes la, mas ainda mais facil encontrar muitos problemas. Ah, bem, pelo menos nao ha nenhum Cao dos Baskervilles no Pantano!</text>
+94|<text>Voce pode me dizer alguma coisa sobre o Garbage?</text>
+97|<text>Nao ha muito para contar, cara. O Garbage e... um lixao. Combatentes da Duty guardam a estrada do norte para o Bar. Voce pode querer evita-los - a Duty esta cheio de tipos realmente desagradaveis. A direita estao os caminhos para o Vale Sombrio, mas os niveis de radiacao sao muito altos la. Um pouco mais perto esta o Pantano de Grimpen - pantanos terriveis cheios de anomalias. Dizem que e facil encontrar alguns artefatos decentes la, mas ainda mais facil encontrar muitos problemas. Ah, bem, pelo menos nao ha nenhum Cao dos Baskervilles no Pantano!</text>
 100|<text>Continue.</text>
 103|<text>A direita, perto dos pantanos, ha um esconderijo secreto. Voce vera uma construcao metalica pendurada sobre uma poca. Meu esconderijo esta logo abaixo dela... Eu o coloquei la ha um tempo, mas voce salvou minha vida e provavelmente precisa dele mais do que eu de qualquer maneira. Entao, fique a vontade para usa-lo.</text>
 106|<text>Obrigado, cara, essa informacao e util.</text>
 109|<text>Isso e interessante, obrigado.</text>
-112|<text>Ei, stalker, voce chegou na hora certa! Nos realmente poderiamos usar sua ajuda. Aqueles bastardos bandidos estao tentando assumir o controle do Lixao. Tivemos um tiroteio aqui ha meia hora e conseguimos derrubar tres dos caes. Os outros recuaram, mas tenho certeza de que eles vao voltar com reforcos a qualquer minuto agora. Nao sobramos muitos de nos e mais um homem nao faria mal.</text>
+112|<text>Ei, stalker, voce chegou na hora certa! Nos realmente poderiamos usar sua ajuda. Aqueles bastardos bandidos estao tentando assumir o controle do Garbage. Tivemos um tiroteio aqui ha meia hora e conseguimos derrubar tres dos caes. Os outros recuaram, mas tenho certeza de que eles vao voltar com reforcos a qualquer minuto agora. Nao sobramos muitos de nos e mais um homem nao faria mal.</text>
 115|<text>Continue.</text>
 118|<text>Montamos uma emboscada para eles aqui. Eles virao do oeste, do Instituto de Pesquisa Agroprom. Ajude-nos a destruir seus reforcos e voce nao vai se arrepender!</text>
 121|<text>OK, eu vou te ajudar.</text>
@@ -54,10 +54,10 @@
 163|<text>O Duty luta contra a Zona, eu luto pelas pessoas. Alem disso, eles estao muito ligados ao governo e ao exercito. Nao quero acordar em uma cela fria um dia.</text>
 166|<text>Boa sorte para voce.</text>
 169|<text>Que lugar e este?</text>
-172|<text>O Lixao. Estamos em casa aqui. Voce ve as pilhas de lixo? Voce nao quer ir la, confie em mim. Tao cheio de lixo radioativo, os contadores Geiger saem da escala. Esta e a unica maneira decente de entrar na Zona e os bandidos tem estado cada vez mais ativos aqui ultimamente. Eles estao com medo de ir mais fundo na Zona, para o territorio da Duty, como os stalkers experientes. Mas essas hienas adoram roubar os novatos aqui. Entao, se ninguem mais se importa, temos que defender nosso territorio e lutar sozinhos.</text>
+172|<text>O Garbage. Estamos em casa aqui. Voce ve as pilhas de lixo? Voce nao quer ir la, confie em mim. Tao cheio de lixo radioativo, os contadores Geiger saem da escala. Esta e a unica maneira decente de entrar na Zona e os bandidos tem estado cada vez mais ativos aqui ultimamente. Eles estao com medo de ir mais fundo na Zona, para o territorio da Duty, como os stalkers experientes. Mas essas hienas adoram roubar os novatos aqui. Entao, se ninguem mais se importa, temos que defender nosso territorio e lutar sozinhos.</text>
 175|<text>Continue.</text>
 178|<text>Em todos os lugares, e especialmente aqui, voce tem que agir como um ser humano, nao como um animal movido pela ganancia. Essa e a minha visao da vida.</text>
-181|<text>Existem grandes edificios no Lixao?</text>
+181|<text>Existem grandes edificios no Garbage?</text>
 184|<text>Obrigado.</text>
 187|<text>Obrigado, nao preciso de nada de voce.</text>
 190|<text>Eu sei bastante, poderia compartilhar algumas informacoes com voce.</text>
@@ -73,10 +73,10 @@
 220|<text>Obrigado pela informacao.</text>
 223|<text>Ei, cara! As coisas ficaram bem tensas aqui agora ha pouco, tenho que dizer. O que voce esta fazendo aqui, afinal?</text>
 226|<text>Um caminho seguro, stalker. Um caminho seguro pelas anomalias e direto para os artefatos.</text>
-229|<text>O que se pode encontrar no Lixao?</text>
+229|<text>O que se pode encontrar no Garbage?</text>
 232|<text>Voce pode encontrar muitos problemas rapidamente, com certeza. Mas ja que voce e um explorador, vou te contar o que sei. Para o leste, ha uma pequena floresta. Nada de interessante la e esta cheia de caes, entao tenha cuidado. Esta linha ferrea o levara a um tunel. Ha muitas anomalias la, talvez outra coisa tambem, mas nao sei - nunca procurei muito. Voce provavelmente sabe sobre o posto de controle da Duty no norte. Isso e basicamente tudo o que sei sobre este lugar.</text>
 235|<text>Obrigado pela informacao.</text>
-238|<text>Escuta, cara, o que posso encontrar neste Lixao?</text>
+238|<text>Escuta, cara, o que posso encontrar neste Garbage?</text>
 241|<text>Voce pode encontrar muitos problemas rapidamente, com certeza. Mas ja que voce e um explorador, vou te contar o que sei. Para o leste, ha uma pequena floresta. Nada de interessante la e esta cheia de caes, entao tenha cuidado. Esta linha ferrea o levara a um tunel. Ha muitas anomalias la, talvez outra coisa tambem, mas nao sei - nunca procurei muito. Voce provavelmente sabe sobre o posto de controle da Duty no norte. Isso e basicamente tudo o que sei sobre este lugar.</text>
 244|<text>Obrigado pela informacao. Vou me lembrar disso.</text>
 247|<text>Voce pode me dizer alguma coisa sobre este lugar?</text>

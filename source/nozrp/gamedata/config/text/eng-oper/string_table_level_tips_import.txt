@@ -22,7 +22,7 @@
 67|<text>Para Rostok</text>
 70|<text>Para o Vale Sombrio</text>
 73|<text>Para o Cordon</text>
-76|<text>Para o Lixao</text>
+76|<text>Para o Garbage</text>
 79|<text>Para os armazens</text>
 82|<text>Para Prypiat</text>
 85|<text>Para o Desintegrador Psiquico</text>

@@ -23,7 +23,7 @@
 68|<text>Entregue o pacote ao trader.</text>
 71|<text>Entregue o pacote ao trader. Ele podera ajuda-lo.</text>
 74|<text>Encontre-se com Seriy.</text>
-77|<text>Encontre-se com Seriy no Lixao.</text>
+77|<text>Encontre-se com Seriy no Garbage.</text>
 80|<text>Encontre-se com Doutor.</text>
 83|<text>Encontre-se com Doutor.</text>
 86|<text>Encontre-se com Doutor no esconderijo de Strelok</text>

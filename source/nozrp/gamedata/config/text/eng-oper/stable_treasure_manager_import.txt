@@ -148,7 +148,7 @@
 445|<text>Armazenamento dos bandidos</text>
 448|<text>Vasya e eu fomos verificar as coisas e de repente uma bala o atingiu. E eu nao tive nada a ver com isso. E a maldita bala. Escondi as coisas em um cano.</text>
 451|<text>Guindaste velho</text>
-454|<text>Grizzly morreu com todas as suas coisas no Lixao, no tunel do trem atras do diesel. Que pena do Grizzly.</text>
+454|<text>Grizzly morreu com todas as suas coisas no Garbage, no tunel do trem atras do diesel. Que pena do Grizzly.</text>
 457|<text>Coisas de Grizzly</text>
 460|<text>Guardei as mercadorias em um cano no lixao.</text>
 463|<text>Cano na pilha Norte</text>
@@ -166,7 +166,7 @@
 499|<text>Toco podre</text>
 502|<text>Ha um tronco na floresta com um buraco dentro. No buraco ha um tesouro - e hora de pega-lo.</text>
 505|<text>Tronco na floresta</text>
-508|<text>Petrenko queria transmitir a palavra de que ha informacoes sobre o esconderijo secreto da faccao Strelok no Lixao. Aqui no vale tem que ter um bueiro, ele explicou como tem um truque para abri-lo. Assim que tudo se acalmar, temos que ir la verificar.</text>
+508|<text>Petrenko queria transmitir a palavra de que ha informacoes sobre o esconderijo secreto da faccao Strelok no Garbage. Aqui no vale tem que ter um bueiro, ele explicou como tem um truque para abri-lo. Assim que tudo se acalmar, temos que ir la verificar.</text>
 511|<text>Armazenamento da faccao Strelok</text>
 514|<text>Escondi no carro, o Longo disse que era um bom lugar.</text>
 517|<text>Esconderijo secreto no carro</text>
@@ -186,7 +186,7 @@
 559|<text>Mochila nas ruinas</text>
 562|<text>Enquanto os membros da Duty estavam atirando, escondi o habar no vagao de trem. De alguma forma, tenho que entrar para pega-lo. E para agradecer ao Duty.</text>
 565|<text>Bau no posto de controle militar fortemente armado</text>
-568|<text>Dizem que o Fraco morreu no Lixao - preciso passar para verificar as mercadorias. Caso contrario, havera muitos interessados chegando.</text>
+568|<text>Dizem que o Fraco morreu no Garbage - preciso passar para verificar as mercadorias. Caso contrario, havera muitos interessados chegando.</text>
 571|<text>Mochila do Fraco</text>
 574|<text>Por enquanto, vou esconder as mercadorias no buraco. Talvez nao as encontrem.</text>
 577|<text>Sacola de corda no buraco</text>

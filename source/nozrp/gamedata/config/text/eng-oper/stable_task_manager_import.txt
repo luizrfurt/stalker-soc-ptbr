@@ -1,13 +1,13 @@
 4|<text>Pegue o artefato.</text>
-7|<text>Proteja o acampamento de stalkers no Lixao do ataque de bandidos</text>
-10|<text>Proteja o acampamento de stalkers no Lixao do ataque de bandidos</text>
+7|<text>Proteja o acampamento de stalkers no Garbage do ataque de bandidos</text>
+10|<text>Proteja o acampamento de stalkers no Garbage do ataque de bandidos</text>
 13|<text>Um grupo de stalkers esta vindo me visitar, e estou pessoalmente interessado em sua chegada segura. Eles ficarao nao muito longe do Bar. Um criminoso penitente quase voluntariamente nos informou que eles serao atacados em breve. Entao, siga nessa direcao e proteja o acampamento deles do ataque.</text>
 16|<text>Ajude os stalkers a lutarem contra os bandidos em Agroprom</text>
 19|<text>Ajude os stalkers a lutarem contra os bandidos em Agroprom</text>
 22|<text>Entao, aqui esta o acordo. Recentemente, um grupo de stalkers foi para Agroprom. A ultima vez que entraram em contato, disseram que havia algo valioso no subsolo, mas estavam sendo pressionados pelos bandidos. Eles estao aguentando, mas nao conseguem limpar a area. Voce os ajudara?</text>
-25|<text>Elimine os bandidos no Lixao.</text>
-28|<text>Extermine a gangue de bandidos que se estabeleceu no Lixao. Tem que ser uma operacao rapida e eficiente.</text>
-31|<text>Um trabalho, hein? Vamos ver o que temos... Aha! Aqui esta: voce pode nocautear aquele bando de bandidos no Lixao? O Duty, com todos os seus discursos sobre lei e ordem, simplesmente nao consegue fazer isso. Sao uns escroques raros, entao nao durarao muito de qualquer maneira. Mas quem pega-los primeiro vai marcar pontos... e a bebida e por minha conta, e claro.</text>
+25|<text>Elimine os bandidos no Garbage.</text>
+28|<text>Extermine a gangue de bandidos que se estabeleceu no Garbage. Tem que ser uma operacao rapida e eficiente.</text>
+31|<text>Um trabalho, hein? Vamos ver o que temos... Aha! Aqui esta: voce pode nocautear aquele bando de bandidos no Garbage? O Duty, com todos os seus discursos sobre lei e ordem, simplesmente nao consegue fazer isso. Sao uns escroques raros, entao nao durarao muito de qualquer maneira. Mas quem pega-los primeiro vai marcar pontos... e a bebida e por minha conta, e claro.</text>
 34|<text>Elimine os Mercs e bandidos em Rostok.</text>
 37|<text>Destrua o grupo de Mercs e bandidos que bloqueiam a passagem por Rostok.</text>
 40|<text>Ha uma gangue de Mercs nao muito longe, em Rostok. Eles se deram bem com os bandidos, entao agora estao tramando bloquear a passagem pela fabrica. Nao preciso dizer o que e um incomodo, tem que ser resolvido imediatamente. Os caras da Duty e alguns dos veteranos ja foram dar uma licao neles, mas nao ouvimos falar deles ha um tempo... Entao, por que voce nao... eh... vai dar uma olhada neles? O dinheiro e bom tambem.</text>
@@ -72,14 +72,14 @@
 217|<text>Traga o casco de um javali</text>
 220|<text>Voce sabe que preparamos chifres e cascos? Isso e uma grande raridade. Eles fazem otimas joias com os cascos mutantes locais - conheco um joalheiro, ele esta interessado. Entao va em frente, encontre o casco do javali, e havera dinheiro no seu bolso.</text>
 223|<text>Proteja o posto de seguranca da Duty</text>
-226|<text>Proteja o posto de seguranca da Duty no Lixao.</text>
-229|<text>Entao, voce provavelmente encontrou nossos caras no Lixao. Eles estao la como uma especie de posto externo protegendo o bar dos mutantes que vem do Vale Sombrio. Chegou a informacao de que a manada doente de javalis esta se aproximando deles. Ajude-os a lutar contra os mutantes e eu lhe devo uma.</text>
+226|<text>Proteja o posto de seguranca da Duty no Garbage.</text>
+229|<text>Entao, voce provavelmente encontrou nossos caras no Garbage. Eles estao la como uma especie de posto externo protegendo o bar dos mutantes que vem do Vale Sombrio. Chegou a informacao de que a manada doente de javalis esta se aproximando deles. Ajude-os a lutar contra os mutantes e eu lhe devo uma.</text>
 232|<text>Destrua o zumbi</text>
 235|<text>Destrua os zumbis longevos em Yantar.</text>
 238|<text>Recentemente enviamos um grupo para Yantar. Infelizmente, ninguem do grupo retornou. Fui informado de que eles viram alguns stalkers zumbificados do grupo nao muito longe do laboratorio movel dos cientistas em Yantar. Nao podemos permitir que eles permanecam nesse estado horrivel. Sua tarefa: encontre e destrua aquilo em que eles se transformaram.</text>
 241|<text>Livre-se do bando de caes.</text>
-244|<text>Livre-se do bando de caes no Lixao.</text>
-247|<text>Nos, naturalmente, nao damos tarefas para stalkers estrangeiros. Por outro lado, esta e uma tarefa simples, entao nao ha razao para nossos caras fazerem isso. Entao escute. Voce precisa limpar um pequeno covil de feras no Lixao. Um de nossos grupos ja esta trabalhando la, entao, em caso de problemas, voce tera um lugar para se retirar. Por outro lado, nao deve haver problemas porque nao ha muitas feras la - nao mais do que dez. Muito provavelmente caes: recentemente houve relatos de uma migracao de um grande bando deles na area. Voce pode comecar a realizar a tarefa.</text>
+244|<text>Livre-se do bando de caes no Garbage.</text>
+247|<text>Nos, naturalmente, nao damos tarefas para stalkers estrangeiros. Por outro lado, esta e uma tarefa simples, entao nao ha razao para nossos caras fazerem isso. Entao escute. Voce precisa limpar um pequeno covil de feras no Garbage. Um de nossos grupos ja esta trabalhando la, entao, em caso de problemas, voce tera um lugar para se retirar. Por outro lado, nao deve haver problemas porque nao ha muitas feras la - nao mais do que dez. Muito provavelmente caes: recentemente houve relatos de uma migracao de um grande bando deles na area. Voce pode comecar a realizar a tarefa.</text>
 250|<text>Destrua o acampamento de stalkers</text>
 253|<text>Destrua o acampamento de stalkers em Agroprom</text>
 256|<text>Ha uma questao delicada, mas nossos caras definitivamente nao devem se envolver nela. A presenca de neutros na fabrica em Agroprom nao e vantajosa para nossos aliados. Aqui esta a tarefa: liberte a zona industrial da presenca de stalkers, nao importa quem sejam e a qual grupo pertencam. Entendido?</text>
@@ -94,7 +94,7 @@
 283|<text>Desta vez voce precisara fazer uma limpeza. Os tuneis em Yantar estao simplesmente cheios de snorks: ha cerca de dez deles la. Sim, agora voce nao pode mais enfrentar a tempestade la como antes...</text>
 286|<text>Destrua a manada de carniceiros</text>
 289|<text>Destrua a manada de carniceiros no Territorio Selvagem.</text>
-292|<text>Rastreamos a migracao de uma grande manada de feras... Mutantes bastante repugnantes, semelhantes a porcos, que todos chamam de carniceiros. Agora eles estao na area do Lixao. Todas as nossas pessoas estao ocupadas, mas essas feras precisam ser destruidas. E um tipo especial de trabalho - vamos pagar.</text>
+292|<text>Rastreamos a migracao de uma grande manada de feras... Mutantes bastante repugnantes, semelhantes a porcos, que todos chamam de carniceiros. Agora eles estao na area do Garbage. Todas as nossas pessoas estao ocupadas, mas essas feras precisam ser destruidas. E um tipo especial de trabalho - vamos pagar.</text>
 295|<text>Destrua os pseudocaes</text>
 298|<text>Limpe o covil de pseudocaes perto dos armazens militares.</text>
 301|<text>Nossos aliados nos notificaram sobre a descoberta de um covil de monstros no territorio perto dos armazens militares. Acreditamos que seja um bando de pseudocaes. Nao devemos mexer nessa area agora, entao e uma tarefa para um neutro. Voce topa?</text>
@@ -114,8 +114,8 @@
 343|<text>Limpe a vila abandonada nao muito longe dos armazens militares dos freedomers.</text>
 346|<text>Tem havido um aumento na atividade da patrulha da Freedom na vila abandonada perto dos armazens militares. Limpe a vila dos combatentes. Apos realizar esta tarefa, uma recompensa especial o aguarda.</text>
 349|<text>Destrua os bandidos</text>
-352|<text>Destrua os bandidos no Lixao.</text>
-355|<text>A situacao atual e desfavoravel, os bandidos estao se reunindo nas areas do Lixao e do Vale Sombrio. A melhor solucao e realizar dois ataques preventivos ao mesmo tempo! Nossos combatentes cuidarao do vale, e voce cuidara do Lixao.</text>
+352|<text>Destrua os bandidos no Garbage.</text>
+355|<text>A situacao atual e desfavoravel, os bandidos estao se reunindo nas areas do Garbage e do Vale Sombrio. A melhor solucao e realizar dois ataques preventivos ao mesmo tempo! Nossos combatentes cuidarao do vale, e voce cuidara do Garbage.</text>
 358|<text>Encontre o rifle aprimorado</text>
 361|<text>Encontre a amostra de TRs 301 aprimorado perto dos armazens militares.</text>
 364|<text>Alguem ajuda os mercs. Recentemente, eles foram equipados com metralhadoras, aprimoradas para tiro de sniper. Voce entende que e um brinquedo perigoso? Bem, estou interessado em uma arma dessas. Minha gratidao sera pertinente, tenha certeza.</text>
@@ -182,8 +182,8 @@
 547|<text>Destrua a faccao de limpeza da Duty em Rostok.</text>
 550|<text>Que tal ir a uma cacada? O destacamento de limpeza da Duty apareceu em Rostok. Esta e uma grande chance de pega-los de surpresa. O Duty continua enviando caras para cacar os monstros, mas no processo eles nao hesitam em atirar em quem nao gosta deles. Este destacamento precisa ser eliminado antes que a Duty chegue a Rostok. Nao deve haver muita gente: tres ou quatro veteranos e alguns novatos.</text>
 553|<text>Destrua o posto avancado da Duty</text>
-556|<text>Destrua o posto avancado da Duty no Lixao o mais rapido possivel.</text>
-559|<text>Ha um trabalho muito urgente. A passagem do Lixao para o Bar precisa ser limpa da unidade da Duty... Eles comecaram a se esconder la e roubar os transeuntes. Estamos esperando um pacote muito importante, mas agora nao se pode descartar que a Duty ja saiba sobre nosso mensageiro e tente embosca-lo. Precisamos eliminar esse bloqueio, mesmo que por um curto periodo. Ok?</text>
+556|<text>Destrua o posto avancado da Duty no Garbage o mais rapido possivel.</text>
+559|<text>Ha um trabalho muito urgente. A passagem do Garbage para o Bar precisa ser limpa da unidade da Duty... Eles comecaram a se esconder la e roubar os transeuntes. Estamos esperando um pacote muito importante, mas agora nao se pode descartar que a Duty ja saiba sobre nosso mensageiro e tente embosca-lo. Precisamos eliminar esse bloqueio, mesmo que por um curto periodo. Ok?</text>
 562|<text>Limpe a vila.</text>
 565|<text>Limpe a vila dos sanguessugas e, se possivel, elimine o controlador.</text>
 568|<text>Cara, voce viu todos aqueles monstros sanguessugas pululando na vila! Ninguem chega a cem metros dela, exceto completos idiotas. E alguns dizem que viram coisas la... um controlador e tudo o que precisamos agora! De qualquer forma, ja passou da hora de darmos um fim nisso. Nao estou te forcando, para falar a verdade eu mesmo nao iria la. Mas se voce nao tem medo, entao minha gratidao nao tera limites.</text>
@@ -252,7 +252,7 @@
 757|<text>Olha o que temos agora:</text>
 760|<text>Cubra o destacamento da Duty do ataque dos bandidos no Vale Sombrio</text>
 763|<text>Cubra o destacamento da Duty do ataque dos bandidos no Vale Sombrio</text>
-766|<text>Finalmente consegui colocar na cabeca dura dos dutyers que ja passou da hora de limpar o Lixao dos bandidos. O Duty ampliara seu territorio e nao prejudicara meus clientes regulares com tanta frequencia. Bem, aqui esta o acordo - a lideranca da Duty decidiu, para comecar, cortar o fluxo de bandidos do Vale Sombrio. Entao eles enviaram um destacamento de bloqueio e descobriram que os bandidos nao gostaram disso. Quem diria! Entao, o que eu estou me perguntando e, voce poderia ajuda-los a garantir a entrada do Vale? Eu lhe agradecerei generosamente.</text>
+766|<text>Finalmente consegui colocar na cabeca dura dos dutyers que ja passou da hora de limpar o Garbage dos bandidos. O Duty ampliara seu territorio e nao prejudicara meus clientes regulares com tanta frequencia. Bem, aqui esta o acordo - a lideranca da Duty decidiu, para comecar, cortar o fluxo de bandidos do Vale Sombrio. Entao eles enviaram um destacamento de bloqueio e descobriram que os bandidos nao gostaram disso. Quem diria! Entao, o que eu estou me perguntando e, voce poderia ajuda-los a garantir a entrada do Vale? Eu lhe agradecerei generosamente.</text>
 769|<text>Nao ha trabalhos disponiveis no momento.</text>
 772|<text>Sobre o que voce quer discutir?</text>
 775|<text>Bom garoto! Trabalho bem feito.</text>
@@ -268,9 +268,9 @@
 805|<text>Voce fez um otimo trabalho! Permita-me apresentar-lhe sua recompensa.</text>
 808|<text>Estou ouvindo.</text>
 811|<text>Aqui esta o que posso oferecer:</text>
-814|<text>Destrua o acampamento de bandidos no Lixao.</text>
-817|<text>Elimine os bandidos no Lixao que roubam os stalkers no caminho de volta da Zona. O trader ficara feliz.</text>
-820|<text>Os bandidos se reuniram ultimamente, atrapalhando o comercio de pessoas honestas... Entao, va direto para o Lixao, me disseram que esses canalhas se estabeleceram perto do ferro-velho. Voce investiga esse assunto e todos ficarao gratos a voce, e eu serei generoso com a recompensa. Concorda?</text>
+814|<text>Destrua o acampamento de bandidos no Garbage.</text>
+817|<text>Elimine os bandidos no Garbage que roubam os stalkers no caminho de volta da Zona. O trader ficara feliz.</text>
+820|<text>Os bandidos se reuniram ultimamente, atrapalhando o comercio de pessoas honestas... Entao, va direto para o Garbage, me disseram que esses canalhas se estabeleceram perto do ferro-velho. Voce investiga esse assunto e todos ficarao gratos a voce, e eu serei generoso com a recompensa. Concorda?</text>
 823|<text>Destrua o acampamento de bandidos no Auto parque.</text>
 826|<text>Elimine os bandidos no Auto parque. Aparentemente, eles sao novos na Zona, entao o trabalho sera facil.</text>
 829|<text>Os bandidos estao rondando o Auto parque novamente. Entao voce ja adivinhou sobre o que e o trabalho? Bem, entao... maos a obra! Transmita nossas calorosas saudacoes a eles e volte, eu lhe agradecerei entao. Negocio fechado?</text>
@@ -280,9 +280,9 @@
 841|<text>Limpe a area de mutantes.</text>
 844|<text>Limpe a area de mutantes.</text>
 847|<text>Ha uma coisa, bem facil. Eles querem trazer um turista estrangeiro. Ele pagou uma grana para meus amigos para poder olhar a zona. E a area onde eles vao mostra-lo precisa ser limpa de mutantes. Voce vai fazer isso?</text>
-850|<text>Elimine dois bandidos no Lixao.</text>
+850|<text>Elimine dois bandidos no Garbage.</text>
 853|<text>Torne a estrada para um dos melhores lugares da Zona acessivel a todos.</text>
-856|<text>Recentemente, um dos melhores lugares da Zona tornou-se inacessivel para os amantes do maravilhoso. No Lixao... sim, o Lixao, ha um lugar pitoresco como nenhum outro, onde toda a sua tristeza o deixa, onde voce se esquece da sujeira, do dinheiro, do sangue. Esqueceu, isto e, porque agora ha dois aberracoes sujas sentadas la, que ameacam matar qualquer um que nao lhes pague para poder entrar no lugar. Livre-se deles - nao tenho outro lugar para levar os turistas.</text>
+856|<text>Recentemente, um dos melhores lugares da Zona tornou-se inacessivel para os amantes do maravilhoso. No Garbage... sim, o Garbage, ha um lugar pitoresco como nenhum outro, onde toda a sua tristeza o deixa, onde voce se esquece da sujeira, do dinheiro, do sangue. Esqueceu, isto e, porque agora ha dois aberracoes sujas sentadas la, que ameacam matar qualquer um que nao lhes pague para poder entrar no lugar. Livre-se deles - nao tenho outro lugar para levar os turistas.</text>
 859|<text>Mate o sanguessuga no Vale Sombrio</text>
 862|<text>Mate o sanguessuga no Vale Sombrio</text>
 865|<text>Dizem que as tropas deixaram o Vale Sombrio. E entao os monstros comecaram a sair de cada fenda. Os stalkers ja avistaram um sanguessuga la, e um extraordinario - ele nao tem medo de espacos abertos. De qualquer forma, assim que a noticia chegar aos cientistas, eles definitivamente vao querer estudar este sanguessuga. E eu quero ser a pessoa que lhes entrega o corpo. Seu trabalho e matar o sanguessuga, e eu cuido do resto.</text>
@@ -314,7 +314,7 @@
 943|<text>Tudo bem. Outra hora.</text>
 946|<text>Eu me recuso a fazer este trabalho.</text>
 949|<text>Mate o lider dos bandidos</text>
-952|<text>Mate o lider dos bandidos que cruzou o caminho do trader. Provavelmente ele nao estara sozinho... Trabalho dificil, mas o pagamento cobre tudo. O Lixao e o lugar para procura-lo.</text>
+952|<text>Mate o lider dos bandidos que cruzou o caminho do trader. Provavelmente ele nao estara sozinho... Trabalho dificil, mas o pagamento cobre tudo. O Garbage e o lugar para procura-lo.</text>
 955|<text>Voce tera que acabar com este dandi, um dos lideres dos bandidos. Outro dia, os bandidos, por ordem dele, interceptaram meu mensageiro e o sacudiram e eu nao perco palavras com aqueles que tocam no meu pessoal... Em uma palavra, se voce conseguir, eu retribuirei o favor. Entao, voce topa?</text>
 958|<text>Mate o stalker trader</text>
 961|<text>Mate um stalker... Bem, esse nao e o melhor trabalho, levantar a mao contra um colega de trabalho. Mas o pagamento e muito bom, e isso pode ser o que mais importa.</text>
@@ -385,5 +385,5 @@
 1156|<text>Embora esta seja a fronteira da Zona, os novatos tem dificuldades ate aqui. Os bandidos sao apenas metade do problema - pelo menos eles entendem russo. Mas os mutantes - e muito dificil com eles. Eles fizeram um covil na fazenda abandonada, tomaram o unico lugar bom para um acampamento de posto avancado. Se voce conseguir limpar a fazenda dos mutantes, eu lhe devo uma.</text>
 1159|<text>Limpe o covil de caes</text>
 1162|<text>Ha um bando de caes no posto de controle sul do Bar. O chefe do posto de controle pede para limpar o covil deles. Promete recompensar.</text>
-1165|<text>Apesar de nossos esforcos, alguns monstros ainda conseguem romper o Lixao. Bem, voce provavelmente viu um bando de caes ao sul de nos. Se voce mata-los, recebera uma recompensa.</text>
+1165|<text>Apesar de nossos esforcos, alguns monstros ainda conseguem romper o Garbage. Bem, voce provavelmente viu um bando de caes ao sul de nos. Se voce mata-los, recebera uma recompensa.</text>
 1168|<text>Defesa do acampamento</text>
