@@ -10,7 +10,7 @@
 29|<text>Bandidos que pararam nosso batedor.</text>
 32|<text>Esconderijo de stalker morto.</text>
 35|<text>Esconderijo de stalker morto.</text>
-38|<text>Esconderijo de Esperto.</text>
-41|<text>Esperto, um prisioneiro.</text>
+38|<text>Esconderijo de Agil.</text>
+41|<text>Agil, um prisioneiro.</text>
 44|<text>Lobo, o lider do acampamento de novatos.</text>
 47|<text>Batedores de Lobo.</text>

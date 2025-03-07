@@ -82,7 +82,7 @@
 		<text>Sim. Quantos bandidos no acampamento?</text>
 	</string>
 	<string id="escape_factory_assault_start_3111">
-		<text>Sete ou oito pessoas. Dois no portao, mais dois no predio a direita perto da fogueira, e outros dois no da esquerda - e onde eles estao mantendo Esperto. Alguem geralmente fica rondando o patio tambem. E mais ou menos isso. Devemos fazer uma oracao e ir?</text>
+		<text>Sete ou oito pessoas. Dois no portao, mais dois no predio a direita perto da fogueira, e outros dois no da esquerda - e onde eles estao mantendo Agil. Alguem geralmente fica rondando o patio tambem. E mais ou menos isso. Devemos fazer uma oracao e ir?</text>
 	</string>
 	<string id="escape_factory_assault_start_31111">
 		<text>Vamos. Reuna seus homens.</text>
@@ -295,10 +295,10 @@
 		<text>Oi. Por que voce esta aqui?</text>
 	</string>
 	<string id="escape_lager_volk_talk_111">
-		<text>Oi. Preciso ver Esperto. Voce saberia onde posso encontra-lo?</text>
+		<text>Oi. Preciso ver Agil. Voce saberia onde posso encontra-lo?</text>
 	</string>
 	<string id="escape_lager_volk_talk_1111">
-		<text>Esperto se deu mal. O grupo dele foi atacado por alguns bandidos um pouco longe daqui. Tudo o que ele podia fazer era me mandar uma mensagem de SOS. Parecia que seus amigos cairam. Meus caras me disseram que esses bastardos estao agora no antigo estacionamento, aquele do outro lado da rua.</text>
+		<text>Agil se deu mal. O grupo dele foi atacado por alguns bandidos um pouco longe daqui. Tudo o que ele podia fazer era me mandar uma mensagem de SOS. Parecia que seus amigos cairam. Meus caras me disseram que esses bastardos estao agora no antigo estacionamento, aquele do outro lado da rua.</text>
 	</string>
 	<string id="escape_lager_volk_talk_11111">
 		<text>Voce nao resgata seu proprio pessoal da prisao? Nao e o que eu chamaria de amigavel. Ou e que voce e simplesmente fraco demais para fazer isso?</text>
@@ -460,7 +460,7 @@
 		<text>Voce tera que ir para o norte pelo Lixao, depois virar para o oeste. Voce vai acabar no Instituto de Pesquisa Agroprom depois de alguns quilometros. E tenha cuidado, o nivel de radiacao e muito alto no Lixao. Entao, sugiro que voce desembolse algum antirrad ou vodka. Bem, boa sorte.</text>
 	</string>
 	<string id="escape_trader_start_dialog_111">
-		<text>Tenho um trabalho para voce, Marca... Quero que voce encontre um stalker chamado Esperto, ele estava carregando algumas informacoes muito importantes. Ele desapareceu em algum lugar perto da ponte. Encontre-o, morto ou vivo - nao me importo, preciso do pendrive com as informacoes. Visite Lobo no acampamento local e pergunte a ele. Ele certamente sabe onde esse cara pode estar.</text>
+		<text>Tenho um trabalho para voce, Marca... Quero que voce encontre um stalker chamado Agil, ele estava carregando algumas informacoes muito importantes. Ele desapareceu em algum lugar perto da ponte. Encontre-o, morto ou vivo - nao me importo, preciso do pendrive com as informacoes. Visite Lobo no acampamento local e pergunte a ele. Ele certamente sabe onde esse cara pode estar.</text>
 	</string>
 	<string id="escape_trader_start_dialog_1111">
 		<text>E so isso?</text>
@@ -469,7 +469,7 @@
 		<text>Ei Marca, e ai?</text>
 	</string>
 	<string id="escape_trader_start_dialog_181">
-		<text>Marca, o que voce esta fazendo aqui? Eu te disse para encontrar Esperto!</text>
+		<text>Marca, o que voce esta fazendo aqui? Eu te disse para encontrar Agil!</text>
 	</string>
 	<string id="escape_trader_start_dialog_191">
 		<text>Entao, voce visitou o X18? Pegou os documentos?</text>
@@ -502,7 +502,7 @@
 		<text>Apenas me de uma missao.</text>
 	</string>
 	<string id="escape_trader_start_dialog_321">
-		<text>Tenho um trabalho para voce, Marca... Quero que voce encontre um stalker chamado Esperto, ele estava carregando algumas informacoes muito importantes. Ele desapareceu em algum lugar perto da ponte. Encontre-o, morto ou vivo - nao me importo, preciso do pendrive com as informacoes. Visite Lobo no acampamento local e pergunte a ele. Ele certamente sabe onde esse cara pode estar.</text>
+		<text>Tenho um trabalho para voce, Marca... Quero que voce encontre um stalker chamado Agil, ele estava carregando algumas informacoes muito importantes. Ele desapareceu em algum lugar perto da ponte. Encontre-o, morto ou vivo - nao me importo, preciso do pendrive com as informacoes. Visite Lobo no acampamento local e pergunte a ele. Ele certamente sabe onde esse cara pode estar.</text>
 	</string>
 	<string id="escape_trader_start_dialog_3211">
 		<text>Continue.</text>
@@ -715,10 +715,10 @@
 		<text>O que diabos aconteceu?</text>
 	</string>
 	<string id="tutorial_wounded_give_medkit_2111">
-		<text>Estavamos voltando de uma missao de reconhecimento... Encontramos alguns gangsters. Um dos nossos caras foi morto ali mesmo. Eles pegaram Esperto porque ele inventou uma bela historia sobre um esconderijo cheio de artefatos. Eu me fingi de morto e isso salvou minha pele.</text>
+		<text>Estavamos voltando de uma missao de reconhecimento... Encontramos alguns gangsters. Um dos nossos caras foi morto ali mesmo. Eles pegaram Agil porque ele inventou uma bela historia sobre um esconderijo cheio de artefatos. Eu me fingi de morto e isso salvou minha pele.</text>
 	</string>
 	<string id="tutorial_wounded_give_medkit_21111">
-		<text>Preciso ver Esperto... Vou atras dele. Quer me fazer companhia?</text>
+		<text>Preciso ver Agil... Vou atras dele. Quer me fazer companhia?</text>
 	</string>
 	<string id="tutorial_wounded_give_medkit_211111">
 		<text>Ah, cara... Agora eu sou um lutador tao bom quanto um par de meias velhas. Preciso recuperar minhas forcas e voltar para o acampamento. Vou avisar as pessoas o quanto voce me ajudou! Obrigado de novo.</text>

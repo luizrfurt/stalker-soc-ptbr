@@ -36,7 +36,7 @@
 107|<text>Obtenha informacoes do batedor</text>
 110|<text>Leve as informacoes para o comerciante</text>
 113|<text>Fale com Lobo</text>
-116|<text>Pegue o pendrive de Esperto</text>
+116|<text>Pegue o pendrive de Agil</text>
 119|<text>Leve o pendrive para o comerciante</text>
 122|<text>Trabalhe para o comerciante</text>
 125|<text>Pegue a tarefa especial do comerciante</text>

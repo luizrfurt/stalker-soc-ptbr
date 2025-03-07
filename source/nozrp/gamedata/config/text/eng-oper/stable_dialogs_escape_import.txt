@@ -25,7 +25,7 @@
 76|<text>O Lixao, isso sim. Um lugar deprimente. Tanta merda contaminada em alguns pontos que nadar seria mais facil do que andar.</text>
 79|<text>Ola. Lobo ja mandou noticias suas. Voce tem alguma pergunta?</text>
 82|<text>Sim. Quantos bandidos no acampamento?</text>
-85|<text>Sete ou oito pessoas. Dois no portao, mais dois no predio a direita perto da fogueira, e outros dois no da esquerda - e onde eles estao mantendo Esperto. Alguem geralmente fica rondando o patio tambem. E mais ou menos isso. Devemos fazer uma oracao e ir?</text>
+85|<text>Sete ou oito pessoas. Dois no portao, mais dois no predio a direita perto da fogueira, e outros dois no da esquerda - e onde eles estao mantendo Agil. Alguem geralmente fica rondando o patio tambem. E mais ou menos isso. Devemos fazer uma oracao e ir?</text>
 88|<text>Vamos. Reuna seus homens.</text>
 91|<text>Nao. Fariamos muito barulho. Eu vou sozinho.</text>
 94|<text>Bem, faca como quiser. Grite se algo acontecer... Que se dane voce, aspirante a Rambo!</text>
@@ -96,8 +96,8 @@
 289|<text>O que voce sabe sobre "caminhoes da morte?"</text>
 292|<text>Eu nao sei de nada e esta tudo bem para mim, obrigado! Desculpe, eu sei sobre sua situacao. Misticismo demais sobre isso. Voce passa um mes nessas partes e nao pode deixar de se tornar supersticioso sobre a vida. Pessoas mortas no porta-malas, pessoas mortas ao volante... Quem sao elas, de onde vieram e por que? So posso esperar que eles nao tenham se levantado da sepultura.</text>
 295|<text>Oi. Por que voce esta aqui?</text>
-298|<text>Oi. Preciso ver Esperto. Voce saberia onde posso encontra-lo?</text>
-301|<text>Esperto se deu mal. O grupo dele foi atacado por alguns bandidos um pouco longe daqui. Tudo o que ele podia fazer era me mandar uma mensagem de SOS. Parecia que seus amigos cairam. Meus caras me disseram que esses bastardos estao agora no antigo estacionamento, aquele do outro lado da rua.</text>
+298|<text>Oi. Preciso ver Agil. Voce saberia onde posso encontra-lo?</text>
+301|<text>Agil se deu mal. O grupo dele foi atacado por alguns bandidos um pouco longe daqui. Tudo o que ele podia fazer era me mandar uma mensagem de SOS. Parecia que seus amigos cairam. Meus caras me disseram que esses bastardos estao agora no antigo estacionamento, aquele do outro lado da rua.</text>
 304|<text>Voce nao resgata seu proprio pessoal da prisao? Nao e o que eu chamaria de amigavel. Ou e que voce e simplesmente fraco demais para fazer isso?</text>
 307|<text>Eu te daria um soco, mas qual e o sentido? Nao e tao simples. Eu tenho poucas pessoas, e mesmo aqueles que tenho sao principalmente novatos. Nao posso correr esse risco. Se perdermos este acampamento, as coisas vao piorar ainda mais para todos os stalkers por ai. E quanto a voce? Se voce nao estiver com muito medo, nao deixarei meu orgulho me fazer dizer nao a uma mao amiga. Entao, voce vai me ajudar a lidar com esses bandidos?</text>
 310|<text>Acha que eu poderia fazer isso sozinho?</text>
@@ -151,10 +151,10 @@
 454|<text>Depois que voce tiver a pasta, nao a traga aqui. Leve-a direto para o Bartender. Ele administra o bar dos stalkers, o 100 Rads, vou carregar as coordenadas e todos os dados que voce precisa no seu PDA. Entendido?</text>
 457|<text>Entendi.</text>
 460|<text>Voce tera que ir para o norte pelo Lixao, depois virar para o oeste. Voce vai acabar no Instituto de Pesquisa Agroprom depois de alguns quilometros. E tenha cuidado, o nivel de radiacao e muito alto no Lixao. Entao, sugiro que voce desembolse algum antirrad ou vodka. Bem, boa sorte.</text>
-463|<text>Tenho um trabalho para voce, Marca... Quero que voce encontre um stalker chamado Esperto, ele estava carregando algumas informacoes muito importantes. Ele desapareceu em algum lugar perto da ponte. Encontre-o, morto ou vivo - nao me importo, preciso do pendrive com as informacoes. Visite Lobo no acampamento local e pergunte a ele. Ele certamente sabe onde esse cara pode estar.</text>
+463|<text>Tenho um trabalho para voce, Marca... Quero que voce encontre um stalker chamado Agil, ele estava carregando algumas informacoes muito importantes. Ele desapareceu em algum lugar perto da ponte. Encontre-o, morto ou vivo - nao me importo, preciso do pendrive com as informacoes. Visite Lobo no acampamento local e pergunte a ele. Ele certamente sabe onde esse cara pode estar.</text>
 466|<text>E so isso?</text>
 469|<text>Ei Marca, e ai?</text>
-472|<text>Marca, o que voce esta fazendo aqui? Eu te disse para encontrar Esperto!</text>
+472|<text>Marca, o que voce esta fazendo aqui? Eu te disse para encontrar Agil!</text>
 475|<text>Entao, voce visitou o X18? Pegou os documentos?</text>
 478|<text>Sim. Aqui estao eles.</text>
 481|<text>Bem, bem... Entendo... Isso e interessante, muito interessante! Se eu contasse para alguem, eles nao acreditariam em mim! Hmm... Sim... Oh! Olha so isso! Eu nao esperava por isso... e bem ruim, hein... Bem, aqui, pegue de volta e de para o Bartender. Ah, e eu te devo pelos seus esforcos.</text>
@@ -165,7 +165,7 @@
 496|<text>Ei, Marca! Bom timing, tenho um pequeno trabalho para voce.</text>
 499|<text>Me trate como um novato, nao me lembro de merda nenhuma.</text>
 502|<text>Apenas me de uma missao.</text>
-505|<text>Tenho um trabalho para voce, Marca... Quero que voce encontre um stalker chamado Esperto, ele estava carregando algumas informacoes muito importantes. Ele desapareceu em algum lugar perto da ponte. Encontre-o, morto ou vivo - nao me importo, preciso do pendrive com as informacoes. Visite Lobo no acampamento local e pergunte a ele. Ele certamente sabe onde esse cara pode estar.</text>
+505|<text>Tenho um trabalho para voce, Marca... Quero que voce encontre um stalker chamado Agil, ele estava carregando algumas informacoes muito importantes. Ele desapareceu em algum lugar perto da ponte. Encontre-o, morto ou vivo - nao me importo, preciso do pendrive com as informacoes. Visite Lobo no acampamento local e pergunte a ele. Ele certamente sabe onde esse cara pode estar.</text>
 508|<text>Continue.</text>
 511|<text>E so isso por enquanto. Traga-me o pendrive e consideraremos o fato de que voce me pagou parcialmente por te salvar.</text>
 514|<text>OK, eu vou tentar.</text>
@@ -236,8 +236,8 @@
 709|<text>Aqui esta.</text>
 712|<text>Obrigado, amigo. Mais um pouco e eu... te devo uma.</text>
 715|<text>O que diabos aconteceu?</text>
-718|<text>Estavamos voltando de uma missao de reconhecimento... Encontramos alguns gangsters. Um dos nossos caras foi morto ali mesmo. Eles pegaram Esperto porque ele inventou uma bela historia sobre um esconderijo cheio de artefatos. Eu me fingi de morto e isso salvou minha pele.</text>
-721|<text>Preciso ver Esperto... Vou atras dele. Quer me fazer companhia?</text>
+718|<text>Estavamos voltando de uma missao de reconhecimento... Encontramos alguns gangsters. Um dos nossos caras foi morto ali mesmo. Eles pegaram Agil porque ele inventou uma bela historia sobre um esconderijo cheio de artefatos. Eu me fingi de morto e isso salvou minha pele.</text>
+721|<text>Preciso ver Agil... Vou atras dele. Quer me fazer companhia?</text>
 724|<text>Ah, cara... Agora eu sou um lutador tao bom quanto um par de meias velhas. Preciso recuperar minhas forcas e voltar para o acampamento. Vou avisar as pessoas o quanto voce me ajudou! Obrigado de novo.</text>
 727|<text>OK, faca isso. Melhore.</text>
 730|<text>Desculpe, cara. Nao tenho kit medico.</text>

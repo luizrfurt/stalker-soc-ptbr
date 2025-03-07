@@ -73,7 +73,7 @@
 218|<text>Guia</text>
 221|<text>Sargento regular do Exercito Ucraniano. Detalhes nao disponiveis.</text>
 224|<text>Stalker que recebeu seu nome por ser quase invisivel e verdadeiramente indispensavel. O comerciante recorre a ele para missoes delicadas, como espionar alguem, bisbilhotar e escutar.</text>
-227|<text>Esperto</text>
+227|<text>Agil</text>
 230|<text>Major comandando o posto avancado do exercito perto da ponte. Conhecido por aceitar subornos de stalkers para deixa-los passar pela ponte.</text>
 233|<text>Major Kuznetsov</text>
 236|<text>Soldado raso regular do Exercito Ucraniano. Detalhes nao disponiveis.</text>
