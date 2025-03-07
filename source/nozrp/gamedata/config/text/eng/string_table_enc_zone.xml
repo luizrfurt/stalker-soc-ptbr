@@ -67,7 +67,7 @@
 		<text>Estrela da Noite</text>
 	</string>
 	<string id="af-rusty-kristall">
-		<text>Espinho de Cristal</text>
+		<text>Cristal</text>
 	</string>
 	<string id="af-rusty-sea-urchin">
 		<text>Ourico</text>
@@ -121,7 +121,7 @@
 		<text>Uma formacao anomala, com aproximadamente 10 metros de diametro, acumulando grandes quantidades de eletricidade estatica. Quando acionada, a anomalia explode em dezenas de relampagos em miniatura, causando choque eletrico quase sempre letal para todos os seres vivos. Reconhecivel pela nevoa azulada pairando sobre ela a luz do dia. A noite, o Eletro pode ser revelado usando qualquer tipo de detector ou jogando objetos de metal na anomalia. Forma tres tipos de artefatos: Faisca, Relampago e Luar.</text>
 	</string>
 	<string id="enc_zone_anomalies_fuzz">
-		<text>Um dos exemplos da Zona de vegetacao mutante. Reage a seres vivos que se aproximam rapidamente, liberando uma nuvem de projeteis que ferem gravemente a pele descoberta ou levemente protegida em contato. Nao reage a alvos que se movem lentamente. Forma tres tipos de artefatos (possivelmente suas sementes): Espinho, Espinho de Cristal e Ourico.</text>
+		<text>Um dos exemplos da Zona de vegetacao mutante. Reage a seres vivos que se aproximam rapidamente, liberando uma nuvem de projeteis que ferem gravemente a pele descoberta ou levemente protegida em contato. Nao reage a alvos que se movem lentamente. Forma tres tipos de artefatos (possivelmente suas sementes): Espinho, Cristal e Ourico.</text>
 	</string>
 	<string id="enc_zone_anomalies_gravi">
 		<text>Uma anomalia de natureza presumivelmente gravitacional. Quando acionada, o tremendo poder do Vortex arrasta tudo dentro do raio de 10-15 metros em direcao ao centro. Vitimas arrastadas para o nucleo nao tem chance de sobrevivencia: seus corpos sao rapidamente comprimidos em um nodulo apertado, apenas para serem explodidos em uma poderosa descarga de energia um momento depois. A anomalia permanece estacionaria durante toda a sua vida util (uma semana em media). Facilmente reconhecivel a luz do dia pela flutuacao do ar acima, folhas dancantes, fragmentos de corpos desmembrados espalhados e uma mancha escura distinta no centro. Altamente perigoso a noite, pois so pode ser revelado por meio de um detector ou jogando objetos de metal nele. Forma tres tipos de artefatos: Torcido, Gravi e Peixe Dourado.</text>
