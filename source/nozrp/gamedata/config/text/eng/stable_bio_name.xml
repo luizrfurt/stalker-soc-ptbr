@@ -149,10 +149,10 @@
 		<text>Doutor</text>
 	</string>
 	<string id="cit_killer_exo_bio">
-		<text>Mercenario desconhecido. Bem armado e altamente perigoso. Detalhes nao disponiveis.</text>
+		<text>Merc desconhecido. Bem armado e altamente perigoso. Detalhes nao disponiveis.</text>
 	</string>
 	<string id="cit_killer_general_bio">
-		<text>Mercenario desconhecido. Possivelmente bem armado. Detalhes nao disponiveis.</text>
+		<text>Merc desconhecido. Possivelmente bem armado. Detalhes nao disponiveis.</text>
 	</string>
 	<string id="cit_killers_leader_bio">
 		<text>Lider da gangue Merc. Bem armado e altamente perigoso. Detalhes nao disponiveis.</text>
@@ -203,7 +203,7 @@
 		<text>Raposo</text>
 	</string>
 	<string id="esc_killer_specnaz_bio">
-		<text>Mercenario desconhecido. Possivelmente bem armado. Detalhes nao disponiveis.</text>
+		<text>Merc desconhecido. Possivelmente bem armado. Detalhes nao disponiveis.</text>
 	</string>
 	<string id="esc_petruha_bio">
 		<text>Novato esperto. Lobo parece gostar dele e muitas vezes o envia em missoes importantes.</text>
@@ -239,7 +239,7 @@
 		<text>Forcas Especiais. Bem equipado. Detalhes nao disponiveis.</text>
 	</string>
 	<string id="esc_specnaz_killer_bio">
-		<text>Mercenario desconhecido. Bem armado e altamente perigoso. Detalhes nao disponiveis.</text>
+		<text>Merc desconhecido. Bem armado e altamente perigoso. Detalhes nao disponiveis.</text>
 	</string>
 	<string id="esc_stalker_novice_bio">
 		<text>Novato. Novo na Zona. Detalhes nao disponiveis.</text>
@@ -320,13 +320,13 @@
 		<text>Ara</text>
 	</string>
 	<string id="mil_killer_master_bio">
-		<text>Mercenario desconhecido. Bem armado e altamente perigoso. Detalhes nao disponiveis.</text>
+		<text>Merc desconhecido. Bem armado e altamente perigoso. Detalhes nao disponiveis.</text>
 	</string>
 	<string id="mil_killer_sniper_bio">
-		<text>Mercenario desconhecido. Aparentemente novo na Zona. Detalhes nao disponiveis.</text>
+		<text>Merc desconhecido. Aparentemente novo na Zona. Detalhes nao disponiveis.</text>
 	</string>
 	<string id="mil_Killer_specnaz_bio">
-		<text>Mercenario desconhecido. Possivelmente bem armado. Detalhes nao disponiveis.</text>
+		<text>Merc desconhecido. Possivelmente bem armado. Detalhes nao disponiveis.</text>
 	</string>
 	<string id="mil_Monolit_master_bio">
 		<text>Sentinela do grupo Monolito. E melhor ficar longe dele. Detalhes nao disponiveis.</text>
@@ -692,16 +692,16 @@
 		<text>Um dos stalkers que ficaram sem sorte.</text>
 	</string>
 	<string id="sim_killer_general_bio">
-		<text>Mercenario desconhecido. Possivelmente bem armado. Detalhes nao disponiveis.</text>
+		<text>Merc desconhecido. Possivelmente bem armado. Detalhes nao disponiveis.</text>
 	</string>
 	<string id="sim_killer_master_bio">
-		<text>Mercenario desconhecido. Possivelmente bem armado. Detalhes nao disponiveis.</text>
+		<text>Merc desconhecido. Possivelmente bem armado. Detalhes nao disponiveis.</text>
 	</string>
 	<string id="sim_killer_sniper_bio">
-		<text>Mercenario desconhecido. Possivelmente bem armado. Detalhes nao disponiveis.</text>
+		<text>Merc desconhecido. Possivelmente bem armado. Detalhes nao disponiveis.</text>
 	</string>
 	<string id="sim_killer_veteran_bio">
-		<text>Mercenario desconhecido. Possivelmente bem armado. Detalhes nao disponiveis.</text>
+		<text>Merc desconhecido. Possivelmente bem armado. Detalhes nao disponiveis.</text>
 	</string>
 	<string id="sim_monolith_master_bio">
 		<text>Stalker do grupo Monolito. Detalhes nao disponiveis.</text>

@@ -48,8 +48,8 @@
 143|<text>Borziy</text>
 146|<text>Dr.</text>
 149|<text>Doutor</text>
-152|<text>Mercenario desconhecido. Bem armado e altamente perigoso. Detalhes nao disponiveis.</text>
-155|<text>Mercenario desconhecido. Possivelmente bem armado. Detalhes nao disponiveis.</text>
+152|<text>Merc desconhecido. Bem armado e altamente perigoso. Detalhes nao disponiveis.</text>
+155|<text>Merc desconhecido. Possivelmente bem armado. Detalhes nao disponiveis.</text>
 158|<text>Lider da gangue Merc. Bem armado e altamente perigoso. Detalhes nao disponiveis.</text>
 161|<text>Dushman</text>
 164|<text>Stalker experiente. Detalhes nao disponiveis.</text>
@@ -66,7 +66,7 @@
 197|<text>Fanatico</text>
 200|<text>Loner velho endurecido pela Zona.</text>
 203|<text>Raposo</text>
-206|<text>Mercenario desconhecido. Possivelmente bem armado. Detalhes nao disponiveis.</text>
+206|<text>Merc desconhecido. Possivelmente bem armado. Detalhes nao disponiveis.</text>
 209|<text>Novato esperto. Lobo parece gostar dele e muitas vezes o envia em missoes importantes.</text>
 212|<text>Petruha</text>
 215|<text>Uma lenda viva, de certa forma. Dizem que ele pode leva-lo a absolutamente qualquer lugar na Zona. Seus servicos sao caros e nao estao disponiveis para qualquer um. Se ele nao gostar de voce, nao o levara por todo o dinheiro do mundo. Um veterano, percorreu toda a Zona.</text>
@@ -78,7 +78,7 @@
 233|<text>Major Kuznetsov</text>
 236|<text>Soldado raso regular do Exercito Ucraniano. Detalhes nao disponiveis.</text>
 239|<text>Forcas Especiais. Bem equipado. Detalhes nao disponiveis.</text>
-242|<text>Mercenario desconhecido. Bem armado e altamente perigoso. Detalhes nao disponiveis.</text>
+242|<text>Merc desconhecido. Bem armado e altamente perigoso. Detalhes nao disponiveis.</text>
 245|<text>Novato. Novo na Zona. Detalhes nao disponiveis.</text>
 248|<text>Stalker tipico.</text>
 251|<text>Tolik</text>
@@ -105,9 +105,9 @@
 314|<text>Um combatente da faccao Duty. Geralmente bem equipado. Detalhes nao disponiveis.</text>
 317|<text>Um dedo-duro conhecido em toda a Zona.</text>
 320|<text>Ara</text>
-323|<text>Mercenario desconhecido. Bem armado e altamente perigoso. Detalhes nao disponiveis.</text>
-326|<text>Mercenario desconhecido. Aparentemente novo na Zona. Detalhes nao disponiveis.</text>
-329|<text>Mercenario desconhecido. Possivelmente bem armado. Detalhes nao disponiveis.</text>
+323|<text>Merc desconhecido. Bem armado e altamente perigoso. Detalhes nao disponiveis.</text>
+326|<text>Merc desconhecido. Aparentemente novo na Zona. Detalhes nao disponiveis.</text>
+329|<text>Merc desconhecido. Possivelmente bem armado. Detalhes nao disponiveis.</text>
 332|<text>Sentinela do grupo Monolito. E melhor ficar longe dele. Detalhes nao disponiveis.</text>
 335|<text>Stalker do grupo Monolito. Detalhes nao disponiveis.</text>
 338|<text>Um dos veteranos. Conhece a Zona como a palma da mao. Geralmente bem equipado e altamente perigoso. Detalhes nao disponiveis.</text>
@@ -229,10 +229,10 @@
 686|<text>Recrutador oficial do Servico de Seguranca Ucraniano. Um visitante frequente do bar. Todos sabem quem ele e, assim como o fato de que ele e o homem a quem recorrer quando voce cai em tempos dificeis. No entanto, uma vez que voce cruza essa linha, nao ha como voltar as fileiras dos stalkers honestos.</text>
 689|<text>Na vida cotidiana, um fleumatico que guarda suas emocoes para si e sempre permanece calmo. No entanto, quando sob estresse, ele fica irritadico e agressivo. Altamente intelectual. Um materialista que se arrepende de ter vindo para a Zona em primeiro lugar. Depois de se formar na universidade de medicina, foi enviado para a Zona, onde o acampamento de cientistas precisava de um assistente de neurocirurgiao. Disseca cerebros de mutantes e pesquisa suas propriedades psicocineticas. Ansioso por sua aposentadoria, quando podera voltar para a capital, o mais longe possivel deste lugar podre.</text>
 692|<text>Um dos stalkers que ficaram sem sorte.</text>
-695|<text>Mercenario desconhecido. Possivelmente bem armado. Detalhes nao disponiveis.</text>
-698|<text>Mercenario desconhecido. Possivelmente bem armado. Detalhes nao disponiveis.</text>
-701|<text>Mercenario desconhecido. Possivelmente bem armado. Detalhes nao disponiveis.</text>
-704|<text>Mercenario desconhecido. Possivelmente bem armado. Detalhes nao disponiveis.</text>
+695|<text>Merc desconhecido. Possivelmente bem armado. Detalhes nao disponiveis.</text>
+698|<text>Merc desconhecido. Possivelmente bem armado. Detalhes nao disponiveis.</text>
+701|<text>Merc desconhecido. Possivelmente bem armado. Detalhes nao disponiveis.</text>
+704|<text>Merc desconhecido. Possivelmente bem armado. Detalhes nao disponiveis.</text>
 707|<text>Stalker do grupo Monolito. Detalhes nao disponiveis.</text>
 710|<text>Stalker do grupo Monolito. Detalhes nao disponiveis.</text>
 713|<text>Stalker do grupo Monolito. Detalhes nao disponiveis.</text>

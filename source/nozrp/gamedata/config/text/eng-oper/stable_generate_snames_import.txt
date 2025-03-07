@@ -1149,7 +1149,7 @@
 3446|<text>Moderador</text>
 3449|<text>Leiteiro</text>
 3452|<text>Acougueiro</text>
-3455|<text>Mercenario</text>
+3455|<text>Merc</text>
 3458|<text>Afinador</text>
 3461|<text>Chefe</text>
 3464|<text>Ninja</text>

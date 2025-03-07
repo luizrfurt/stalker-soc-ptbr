@@ -234,7 +234,7 @@
 703|<text>O Careca quer que voce mate um stalker que fugiu com um artefato muito raro.</text>
 706|<text>Ha algum tempo, outro stalker e eu fomos procurar um artefato bem ao lado do Desintegrador Psiquico. Encontramos tanta coisa, ate encontramos um par de artefatos que eu nunca tinha visto antes, nem mesmo fotos deles. Entao aquele canalha me enganou. Durante a ultima noite, ele fugiu sorrateiramente e escondeu os artefatos mais valiosos. E entao tentou me dizer que eles desapareceram sozinhos. Ha alguns dias, vi um daqueles artefatos muito raros no Bartender. Fiquei tao irritado... Enfim, stalker, se voce pudesse encontra-lo, mande-lhe um cumprimento de chumbo meu. E enquanto voce esta nisso, talvez possa descobrir onde esta seu esconderijo secreto e pegar o segundo artefato. Vale a pena, acredite em mim.</text>
 709|<text>Mate o stalker mestre.</text>
-712|<text>O mercenario deve pagar pelo assassinato de cada mestre. Quanto menos mestres houver, mais facil sera para os mercenarios.</text>
+712|<text>O merc deve pagar pelo assassinato de cada mestre. Quanto menos mestres houver, mais facil sera para os mercs.</text>
 715|<text>Nao nos interessa o fato de que dreadnoughts ambulantes possam vagar pela Zona: stalkers em exoesqueletos armados ate os dentes. O trabalho se torna ainda mais perigoso e dificil com isso. Quanto menos deles houver, melhor para nos. Mate um deles e receba sua recompensa.</text>
 718|<text>Obtenha uma parte do corpo de um monstro.</text>
 721|<text>Destrua o stalker da Freedom.</text>

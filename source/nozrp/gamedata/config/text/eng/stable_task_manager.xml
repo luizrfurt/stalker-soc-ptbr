@@ -709,7 +709,7 @@
 		<text>Mate o stalker mestre.</text>
 	</string>
 	<string id="mercenary_kill_stalker_descr">
-		<text>O mercenario deve pagar pelo assassinato de cada mestre. Quanto menos mestres houver, mais facil sera para os mercenarios.</text>
+		<text>O merc deve pagar pelo assassinato de cada mestre. Quanto menos mestres houver, mais facil sera para os mercs.</text>
 	</string>
 	<string id="mercenary_kill_stalker_text">
 		<text>Nao nos interessa o fato de que dreadnoughts ambulantes possam vagar pela Zona: stalkers em exoesqueletos armados ate os dentes. O trabalho se torna ainda mais perigoso e dificil com isso. Quanto menos deles houver, melhor para nos. Mate um deles e receba sua recompensa.</text>
