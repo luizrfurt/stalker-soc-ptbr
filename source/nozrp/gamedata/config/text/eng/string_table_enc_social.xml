@@ -25,7 +25,7 @@
 		<text>Membros do submundo do crime que vieram para a Zona por diferentes motivos: ganhar dinheiro vendendo artefatos, esconder-se da lei ou negociar armas. A Zona 1  esta cheia de bandidos, desde bandidos comuns a criminosos serios, a maioria dos quais sao membros de uma gangue ou outra. Embora as gangues da Zona frequentemente lutem entre si, o elemento criminoso ainda representa um problema serio para os stalkers normais.</text>
 	</string>
 	<string id="enc_social_stalker-clans_duty">
-		<text>Um grupo paramilitar conhecido por sua disciplina, cujos membros vivem de acordo com um codigo estrito. Os membros da Duty sao o unico grupo que se recusa a negociar itens exclusivos da Zona com o mundo exterior. Segundo rumores, todos os artefatos encontrados pelo grupo sao repassados aos cientistas. Seus membros consideram a protecao do mundo exterior dos perigos da Zona seu principal objetivo. A maioria das operacoes do grupo diz respeito a destruicao de monstros, portanto, as incursoes da Duty frequentemente salvam os stalkers normais de problemas serios. A faccao esta em guerra com a Liberdade ha muito tempo.</text>
+		<text>Um grupo paramilitar conhecido por sua disciplina, cujos membros vivem de acordo com um codigo estrito. Os membros da Duty sao o unico grupo que se recusa a negociar itens exclusivos da Zona com o mundo exterior. Segundo rumores, todos os artefatos encontrados pelo grupo sao repassados aos cientistas. Seus membros consideram a protecao do mundo exterior dos perigos da Zona seu principal objetivo. A maioria das operacoes do grupo diz respeito a destruicao de monstros, portanto, as incursoes da Duty frequentemente salvam os stalkers normais de problemas serios. A faccao esta em guerra com a Freedom ha muito tempo.</text>
 	</string>
 	<string id="enc_social_stalker-clans_freedom">
 		<text>Anarquistas e aventureiros que se declaram lutadores pelo livre acesso a Zona e, consequentemente, se encontram em conflito constante com o exercito, stalkers militares e a faccao Duty. Esses chamados guerreiros da liberdade acreditam em compartilhar todas as informacoes sobre a Zona com o resto do mundo e desafiam o monopolio do estado sobre os segredos e maravilhas da Zona.</text>
@@ -43,7 +43,7 @@
 		<text>Almas pobres sujeitas a exposicao prolongada em Yantar e alguns outros setores altamente irradiados. Stalkers descuidados enlouqueceram e se transformaram em cadaveres ambulantes. Muitos desses cadaveres vagam pela Zona, alguns vagam ate o perimetro. Eles estao alem da ajuda porque o processo destrutivo e irreversivel. Stalkers zumbificados ainda sao capazes de usar suas armas, mas sao bastante burros e podem ser ouvidos murmurando frases fragmentadas e sem sentido para si mesmos. Eles gradualmente perdem todas as suas habilidades e se transformam em zumbis. Eles geralmente sao muito agressivos e podem representar uma ameaca seria em grande numero.</text>
 	</string>
 	<string id="Freedom">
-		<text>Faccao Liberdade</text>
+		<text>Faccao Freedom</text>
 	</string>
 	<string id="Killers">
 		<text>Mercs</text>

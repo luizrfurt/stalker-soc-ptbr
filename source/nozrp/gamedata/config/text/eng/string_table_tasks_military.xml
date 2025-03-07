@@ -1,5 +1,5 @@
 	<string id="mil_blockpost_job">
-		<text>Ajude no posto avancado da Barreira da Liberdade.</text>
+		<text>Ajude no posto avancado da Barreira da Freedom.</text>
 	</string>
 	<string id="mil_courier">
 		<text>Dedo-duro.</text>
@@ -53,16 +53,16 @@
 		<text>Fale com o comandante do posto avancado da Barreira</text>
 	</string>
 	<string id="mil_find_cook">
-		<text>Encontre o cozinheiro na base da Liberdade</text>
+		<text>Encontre o cozinheiro na base da Freedom</text>
 	</string>
 	<string id="mil_freedom_rg6_task">
-		<text>Obtenha um Bulldog 6 da Liberdade</text>
+		<text>Obtenha um Bulldog 6 da Freedom</text>
 	</string>
 	<string id="mil_go_max">
 		<text>Relate a Max.</text>
 	</string>
 	<string id="mil_go_to_miser_task">
-		<text>Va para a base da Liberdade para ver Avarento e receber uma recompensa</text>
+		<text>Va para a base da Freedom para ver Avarento e receber uma recompensa</text>
 	</string>
 	<string id="mil_go_to_miser_task_main">
 		<text>Receba uma recompensa pelos sanguessugas destruidos</text>
@@ -128,7 +128,7 @@
 		<text>Fale com Chef</text>
 	</string>
 	<string id="mil_talk_with_cap">
-		<text>Fale com Cap, o comandante do posto avancado da Liberdade</text>
+		<text>Fale com Cap, o comandante do posto avancado da Freedom</text>
 	</string>
 	<string id="mil_test_task_phase1">
 		<text>Entre no restritor 1</text>

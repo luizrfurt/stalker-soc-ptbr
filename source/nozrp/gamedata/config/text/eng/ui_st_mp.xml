@@ -190,7 +190,7 @@
     <text>mudou para</text>
   </string>
   <string id="mp_team_free_stalkers">
-    <text>Liberdade</text>
+    <text>Freedom</text>
   </string>
   <string id="mp_team_selection">
     <text>Selecao de equipe</text>
@@ -259,7 +259,7 @@
     <text>Descricao</text>
   </string>
   <string id="ui_st_team1_name">
-    <text>Liberdade</text>
+    <text>Freedom</text>
   </string>
   <string id="ui_st_team2_name">
     <text>Mercs</text>
@@ -274,7 +274,7 @@
     <text>Aliado</text>
   </string>
   <string id="team_base_1">
-    <text>Base da Liberdade</text>
+    <text>Base da Freedom</text>
   </string>
   <string id="team_base_2">
     <text>Base dos Mercs</text>

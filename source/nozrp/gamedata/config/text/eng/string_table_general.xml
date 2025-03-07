@@ -7,7 +7,7 @@
 		<text>Duty</text>
 	</string>
 	<string id="actor_freedom">
-		<text>Liberdade</text>
+		<text>Freedom</text>
 	</string>
 	<string id="arena_enemy">
 		<text>Merc</text>
@@ -40,7 +40,7 @@
 		<text>PDA encontrado</text>
 	</string>
 	<string id="freedom">
-		<text>Liberdade</text>
+		<text>Freedom</text>
 	</string>
 	<string id="friendly">
 		<text>amigo</text>

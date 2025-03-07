@@ -21,9 +21,9 @@
 62|<text>carniceiro da floresta</text>
 65|<text>carniceiro do pantano</text>
 68|<text>carniceiro da pradaria</text>
-71|<text>Liberdade, decadente</text>
-74|<text>Liberdade, craque</text>
-77|<text>Liberdade, cao de guerra</text>
+71|<text>Freedom, decadente</text>
+74|<text>Freedom, craque</text>
+77|<text>Freedom, cao de guerra</text>
 80|<text>Merc, treinado</text>
 83|<text>Merc, durao</text>
 86|<text>Merc, veterano</text>

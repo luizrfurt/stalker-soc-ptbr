@@ -341,16 +341,16 @@
 		<text>Stalker veterano. Possivelmente bem equipado. Detalhes nao disponiveis.</text>
 	</string>
 	<string id="mil_Svoboda_blockpost_leader_bio">
-		<text>Stalker da faccao Liberdade. Comandante da barreira. O homem que uniu um grupo de pessoas dispostas a sacrificar suas vidas pela causa comum.</text>
+		<text>Stalker da faccao Freedom. Comandante da barreira. O homem que uniu um grupo de pessoas dispostas a sacrificar suas vidas pela causa comum.</text>
 	</string>
 	<string id="mil_Svoboda_blockpost_leader_name">
 		<text>Cap</text>
 	</string>
 	<string id="mil_Svoboda_bodyguard_bio">
-		<text>Guarda-costas que trabalha para Lukash, o lider da faccao Liberdade.</text>
+		<text>Guarda-costas que trabalha para Lukash, o lider da faccao Freedom.</text>
 	</string>
 	<string id="mil_Svoboda_cook_bio">
-		<text>O cozinheiro da faccao Liberdade. Um beberrao e brigao, mas um excelente cozinheiro.</text>
+		<text>O cozinheiro da faccao Freedom. Um beberrao e brigao, mas um excelente cozinheiro.</text>
 	</string>
 	<string id="mil_Svoboda_cook_name">
 		<text>Chef</text>
@@ -362,37 +362,37 @@
 		<text>Durao</text>
 	</string>
 	<string id="mil_Svoboda_leader_bio">
-		<text>Lider da faccao Liberdade.</text>
+		<text>Lider da faccao Freedom.</text>
 	</string>
 	<string id="mil_Svoboda_leader_name">
 		<text>Lukash</text>
 	</string>
 	<string id="mil_Svoboda_master_bio">
-		<text>Comandante da faccao Liberdade. Detalhes nao disponiveis.</text>
+		<text>Comandante da faccao Freedom. Detalhes nao disponiveis.</text>
 	</string>
 	<string id="mil_Svoboda_master_Max_bio">
-		<text>Guarda da faccao Liberdade. Um fanatico. Muito bem equipado e altamente perigoso. Detalhes nao disponiveis.</text>
+		<text>Guarda da faccao Freedom. Um fanatico. Muito bem equipado e altamente perigoso. Detalhes nao disponiveis.</text>
 	</string>
 	<string id="mil_Svoboda_master_Max_name">
 		<text>Max</text>
 	</string>
 	<string id="mil_Svoboda_master_Ugrumiy_bio">
-		<text>Guarda da faccao Liberdade. Muito bem equipado e altamente perigoso. Detalhes nao disponiveis.</text>
+		<text>Guarda da faccao Freedom. Muito bem equipado e altamente perigoso. Detalhes nao disponiveis.</text>
 	</string>
 	<string id="mil_Svoboda_master_Ugrumiy_name">
 		<text>Sombra</text>
 	</string>
 	<string id="mil_Svoboda_regular_bio">
-		<text>Stalker da faccao Liberdade. Detalhes nao disponiveis.</text>
+		<text>Stalker da faccao Freedom. Detalhes nao disponiveis.</text>
 	</string>
 	<string id="mil_Svoboda_sniper_bio">
-		<text>Sniper da faccao Liberdade. Detalhes nao disponiveis.</text>
+		<text>Sniper da faccao Freedom. Detalhes nao disponiveis.</text>
 	</string>
 	<string id="mil_Svoboda_specnaz_bio">
-		<text>Militante da faccao Liberdade. Geralmente bem equipado. Detalhes nao disponiveis.</text>
+		<text>Militante da faccao Freedom. Geralmente bem equipado. Detalhes nao disponiveis.</text>
 	</string>
 	<string id="mil_Svoboda_stukach_bio">
-		<text>Stalker da faccao Liberdade. Detalhes nao disponiveis.</text>
+		<text>Stalker da faccao Freedom. Detalhes nao disponiveis.</text>
 	</string>
 	<string id="mil_Svoboda_stukach_name">
 		<text>Pavlik</text>
@@ -404,13 +404,13 @@
 		<text>Avarento</text>
 	</string>
 	<string id="mil_Svoboda_zombi_stalker_bio">
-		<text>Stalker da faccao Liberdade. Detalhes nao disponiveis.</text>
+		<text>Stalker da faccao Freedom. Detalhes nao disponiveis.</text>
 	</string>
 	<string id="mil_Svoboda_zombi_stalker_name">
-		<text>Stalker insano da faccao Liberdade.</text>
+		<text>Stalker insano da faccao Freedom.</text>
 	</string>
 	<string id="mil_Svoboda_zoneguard_bio">
-		<text>Militante da faccao Liberdade. Geralmente bem equipado. Detalhes nao disponiveis.</text>
+		<text>Militante da faccao Freedom. Geralmente bem equipado. Detalhes nao disponiveis.</text>
 	</string>
 	<string id="pri_followers_bomber_name">
 		<text>Sasha Bely</text>
@@ -479,7 +479,7 @@
 		<text>Stalker veterano. Possivelmente bem equipado. Detalhes nao disponiveis.</text>
 	</string>
 	<string id="rad_svoboda_master_bio">
-		<text>Comandante da faccao Liberdade. Detalhes nao disponiveis.</text>
+		<text>Comandante da faccao Freedom. Detalhes nao disponiveis.</text>
 	</string>
 	<string id="rad_zombied_general_bio">
 		<text>Um dos stalkers que ficaram sem sorte.</text>
@@ -773,16 +773,16 @@
 		<text>Pardal tem 27 anos, e astuto e previdente, mas tambem capaz dos piores erros. Pode ser mesquinho. Uma pessoa bastante duvidosa. Um tipo magricela e palido. Veio para a Zona por curiosidade, prometendo a si mesmo que voltaria para casa depois de dois meses. Ele nunca voltou. Em sua primeira incursao na Zona, Pardal conseguiu atravessar um campo repleto de anomalias com as maos nuas e sem nocao do quao perigoso era aquilo. Assim que descobriu o que havia feito, desmaiou. Desde entao, celebra essa data (9 de outubro) como seu segundo aniversario.</text>
 	</string>
 	<string id="sim_Svoboda_master_bio">
-		<text>Mestre da faccao Liberdade. Detalhes nao disponiveis.</text>
+		<text>Mestre da faccao Freedom. Detalhes nao disponiveis.</text>
 	</string>
 	<string id="sim_Svoboda_regular_bio">
-		<text>Stalker da faccao Liberdade. Detalhes nao disponiveis.</text>
+		<text>Stalker da faccao Freedom. Detalhes nao disponiveis.</text>
 	</string>
 	<string id="sim_Svoboda_sniper_bio">
-		<text>Stalker da faccao Liberdade. Detalhes nao disponiveis.</text>
+		<text>Stalker da faccao Freedom. Detalhes nao disponiveis.</text>
 	</string>
 	<string id="sim_Svoboda_specnaz_bio">
-		<text>Militante da faccao Liberdade. Geralmente bem equipado. Detalhes nao disponiveis.</text>
+		<text>Militante da faccao Freedom. Geralmente bem equipado. Detalhes nao disponiveis.</text>
 	</string>
 	<string id="sim_Svoboda_specnaz_leshii_bio">
 		<text>Leshiy, como seu irmao o chama, veio para a Zona como um jovem idealista. No entanto, alguns anos vivendo a um fio da morte, o transformaram em um realista cinico. Considera a Zona sua casa e acha que aqueles que falharam sao indignos de pisar na face da Terra.</text>

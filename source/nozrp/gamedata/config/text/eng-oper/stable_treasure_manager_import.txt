@@ -250,7 +250,7 @@
 751|<text>Esconderijo secreto de aco</text>
 754|<text>Joguei as mercadorias no bau - pego depois</text>
 757|<text>Bau com mercadorias</text>
-760|<text>Escondi as mercadorias no carro bem debaixo do nariz dos membros da Liberdade, nao tive tempo de procurar um lugar melhor</text>
+760|<text>Escondi as mercadorias no carro bem debaixo do nariz dos membros da Freedom, nao tive tempo de procurar um lugar melhor</text>
 763|<text>Esconderijo secreto no carro</text>
 766|<text>Dizem que um stalker famoso bateu as botas aqui, e ninguem pegou suas mercadorias ainda</text>
 769|<text>Coisas do stalker morto</text>
@@ -260,8 +260,8 @@
 781|<text>Esconderijo secreto antigo</text>
 784|<text>Eles enterraram Presa em Prypiat sob um monumento. Deixaram todas as suas mercadorias com ele - nao e certo tirar dos mortos.</text>
 787|<text>Mercadorias de Presa</text>
-790|<text>A ultima coisa que sabiam sobre ele e que ele foi o unico sobrevivente apos o Desintegrador Psiquico. Ele deixou todos os suprimentos em um supermercado antigo e seguiu em frente. Tudo nao saiu como planejado, e ele foi o melhor lider da Liberdade em toda a nossa historia.</text>
-793|<text>Suprimentos do lider da Liberdade</text>
+790|<text>A ultima coisa que sabiam sobre ele e que ele foi o unico sobrevivente apos o Desintegrador Psiquico. Ele deixou todos os suprimentos em um supermercado antigo e seguiu em frente. Tudo nao saiu como planejado, e ele foi o melhor lider da Freedom em toda a nossa historia.</text>
+793|<text>Suprimentos do lider da Freedom</text>
 796|<text>A cruz esta a caminho do Desintegrador Psiquico, nao fui mais longe, escondi tudo la embaixo.</text>
 799|<text>Tesouro de Murk</text>
 802|<text>Algum stalker morreu aqui, e suas mercadorias ainda estao por ai, ninguem consegue alcanca-las</text>

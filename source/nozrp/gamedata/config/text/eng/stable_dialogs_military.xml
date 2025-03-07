@@ -4,7 +4,7 @@
 		<text>O que voce quer?</text>
 	</string>
 	<string id="mil_bodyguard_dialog_1">
-		<text>Estou procurando o lider da Liberdade. Tenho informacoes extremamente importantes para ele.</text>
+		<text>Estou procurando o lider da Freedom. Tenho informacoes extremamente importantes para ele.</text>
 	</string>
 	<string id="mil_bodyguard_dialog_2">
 		<text>Ah, e quao importante e isso?</text>
@@ -226,7 +226,7 @@
 		<text>Soluco! I-i-i-sso, mano, e o f-f-fundo! Mmmm... Hhhhhm...</text>
 	</string>
 	<string id="mil_cook_drunk_question_about_rg6_1_0">
-		<text>Ouvi dizer que a Liberdade tem um Bulldog 6. Seria divertido dar uma olhada nessa belezinha.</text>
+		<text>Ouvi dizer que a Freedom tem um Bulldog 6. Seria divertido dar uma olhada nessa belezinha.</text>
 	</string>
 	<string id="mil_cook_drunk_question_about_rg6_1_1">
 		<text>O que voce esta querendo dizer, cara? Voce quer que eu... que eu te de... que eu abra o bico?.. Que tipo de tolo voce acha que eu sou?</text>
@@ -556,7 +556,7 @@
 		<text>Tudo pode acontecer. Tudo. Eu nao quero...</text>
 	</string>
 	<string id="mil_guard_arsenal_dialog_1000">
-		<text>Pare! O acesso ao arsenal e restrito apenas a membros da Liberdade.</text>
+		<text>Pare! O acesso ao arsenal e restrito apenas a membros da Freedom.</text>
 	</string>
 	<string id="mil_guard_arsenal_dialog_2000">
 		<text>Pronto, agora voce pode entrar no arsenal. Exceto que ha um pequeno problema...</text>
@@ -979,7 +979,7 @@
 		<text>OK.</text>
 	</string>
 	<string id="mil_patrol_dialog1_0">
-		<text>Cara, voce esta na base da Liberdade! Relaxe, sinta-se em casa!</text>
+		<text>Cara, voce esta na base da Freedom! Relaxe, sinta-se em casa!</text>
 	</string>
 	<string id="mil_patrol_dialog1_1">
 		<text>Entendo.</text>

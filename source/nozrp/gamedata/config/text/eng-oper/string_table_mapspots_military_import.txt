@@ -14,7 +14,7 @@
 41|<text>Reporte-se a Max</text>
 44|<text>Reporte-se a Lukash</text>
 47|<text>De o pendrive para Max</text>
-50|<text>Encontre o cozinheiro na base da Liberdade</text>
+50|<text>Encontre o cozinheiro na base da Freedom</text>
 53|<text>Fale com Chef</text>
 56|<text>Pegue o Bulldog 6 do esconderijo na vila</text>
 59|<text>Torre de agua</text>

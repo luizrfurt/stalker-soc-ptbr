@@ -1,5 +1,5 @@
 	<string id="mil_actor_main_quest_descr">
-		<text>De acordo com o General Voronin, apenas a Liberdade tem uma dessas armas. Como eu a consigo e problema meu. Disseram-me que uma maneira seria passar um tempo com o stalker da Liberdade chamado Chef. O General diz que ele gosta de beber mais do que deveria. Devo estocar vodka caso possa usa-la.</text>
+		<text>De acordo com o General Voronin, apenas a Freedom tem uma dessas armas. Como eu a consigo e problema meu. Disseram-me que uma maneira seria passar um tempo com o stalker da Freedom chamado Chef. O General diz que ele gosta de beber mais do que deveria. Devo estocar vodka caso possa usa-la.</text>
 	</string>
 	<string id="mil_blockpost_job_descr">
 		<text>E imperativo proteger a barreira de ataques vindos da direcao do Desintegrador Psiquico.</text>
@@ -8,7 +8,7 @@
 		<text>Lukash: "Se voce tiver coragem, pode ir ao posto de seguranca na saida para a Floresta Vermelha - com base em algumas indicacoes, eles estao esperando outra tentativa de invasao dos mutantes ou do Monolito</text>
 	</string>
 	<string id="mil_courier_doc_descr">
-		<text>A Liberdade adquiriu lancadores de granadas Bulldog 6. Dois deles. Um esta no arsenal, o outro em algum lugar da vila.\n\n</text>
+		<text>A Freedom adquiriu lancadores de granadas Bulldog 6. Dois deles. Um esta no arsenal, o outro em algum lugar da vila.\n\n</text>
 	</string>
 	<string id="mil_courier_job_descr">
 		<text>Lukash: "Triste, mas verdade - temos um dedo-duro entre nos... O nome dele e Pavlik. Ele esta enviando informacoes para o outro lado, e precisamos impedir isso. Seu trabalho e segui-lo ate a fazenda e descobrir para quem ele esta relatando as informacoes. Ele partiu ha um tempo, entao voce tera que alcanca-lo. Lembre-se disto: Voce pode e precisa acabar com ele, mas nao antes que ele revele para quem esta dando as informacoes. Voce tera que eliminar o segundo cara tambem."</text>
@@ -23,7 +23,7 @@
 		<text>Mate o sniper na torre. Tenha cuidado, nao leve um tiro entre os olhos.</text>
 	</string>
 	<string id="mil_flash_bandit_descr">
-		<text>Droga, aqueles idiotas da Duty nos expulsaram de um lugar bom. Eles se entrincheiraram perto de nossa fazenda. Nem tivemos tempo de pegar nossas coisas no sotao. Mas nao e grande coisa - a base da Liberdade esta perto, entao eles nao vao durar muito.</text>
+		<text>Droga, aqueles idiotas da Duty nos expulsaram de um lugar bom. Eles se entrincheiraram perto de nossa fazenda. Nem tivemos tempo de pegar nossas coisas no sotao. Mas nao e grande coisa - a base da Freedom esta perto, entao eles nao vao durar muito.</text>
 	</string>
 	<string id="mil_flash_max_descr">
 		<text>Hoje sacudimos alguns soldados a caminho da Floresta Vermelha - conseguimos alguns Bulldog 6. Eles sao incriveis. Lukash pegou um, e Sombra escondeu o outro na vila, em um dos poroes.</text>
@@ -32,10 +32,10 @@
 		<text>1. O Diabo me fez ir para a Floresta Vermelha. Eu mal consegui - um pouco mais lento e eu teria sido apenas mais uma exposicao com cerebros liquefeitos.\n\n 2: Quatro bandidos me cercaram como se eu fosse uma crianca de tres anos. Fiz minha parte - nao vi a armadilha deles. So fui salvo pela conversa e ganancia deles. Em vez de me encher de chumbo, eles pularam e comecaram a me despir - ficaram viciados no traje. Esse foi o ultimo erro deles; ainda assim, um deles me acertou com uma bala... hehe, estou ficando velho...\n\n 3: Quando cheguei, o mensageiro de Strelok nao estava mais respirando. Tres sanguessugas sao pareo para qualquer um, mas esse cara eliminou quatro deles, e algumas trilhas sangrentas levam para direcoes diferentes. A unica informacao sobre ele e um codigo de porta (19840519), mas identificar a porta que ele destrava nao parece possivel.\n\n 4: Interceptamos alguns militares a caminho da Floresta Vermelha. Eles nao carregavam documentos ou ordens, mas estavam muito bem equipados. Acho que vou deixar aquele Bulldog 6 no porao ate precisar dele.</text>
 	</string>
 	<string id="mil_freedom_rg6_task_descr">
-		<text>Voronin: "A Liberdade tem alguns otimos lancadores de granadas PG-6. Se voce puder entrar sorrateiramente em seu territorio e roubar pelo menos um desses lancadores de granadas, eu o recompensarei generosamente. Como voce nao esta em nossa faccao, pode facilmente construir um relacionamento com a Liberdade e, com sorte, roubar o PG-6. Vou encaminhar as informacoes sobre a localizacao da Liberdade. La voce tem que encontrar um certo Chef, um membro do grupo Liberdade, ele sabe exatamente onde os PG-6s estao armazenados. Ele tem uma fraqueza por bebida, entao tente deixa-lo bebado. Para isso, leve muita vodka junto."</text>
+		<text>Voronin: "A Freedom tem alguns otimos lancadores de granadas PG-6. Se voce puder entrar sorrateiramente em seu territorio e roubar pelo menos um desses lancadores de granadas, eu o recompensarei generosamente. Como voce nao esta em nossa faccao, pode facilmente construir um relacionamento com a Freedom e, com sorte, roubar o PG-6. Vou encaminhar as informacoes sobre a localizacao da Freedom. La voce tem que encontrar um certo Chef, um membro do grupo Freedom, ele sabe exatamente onde os PG-6s estao armazenados. Ele tem uma fraqueza por bebida, entao tente deixa-lo bebado. Para isso, leve muita vodka junto."</text>
 	</string>
 	<string id="mil_go_to_miser_descr">
-		<text>Hrm. Vou receber minha recompensa na base da Liberdade de Avarento... Nome legal. Espero por uma lata de carne com a data de validade do ano passado.</text>
+		<text>Hrm. Vou receber minha recompensa na base da Freedom de Avarento... Nome legal. Espero por uma lata de carne com a data de validade do ano passado.</text>
 	</string>
 	<string id="mil_hunters_task_descr">
 		<text>Limpe os sanguessugas na vila. Tenho que ter cuidado ou eles vao beber todo o meu sangue e me deixar para morrer.</text>
@@ -44,7 +44,7 @@
 		<text>Limpe os sanguessugas na vila. Tenho que ter cuidado ou eles vao beber todo o meu sangue e me deixar para morrer.</text>
 	</string>
 	<string id="mil_lukash_job_descr">
-		<text>Lukash decidiu realizar um contra-ataque ao destacamento da Duty na cabana. Max, um dos veteranos da Liberdade, liderara a operacao. Meu trabalho e ajuda-los.</text>
+		<text>Lukash decidiu realizar um contra-ataque ao destacamento da Duty na cabana. Max, um dos veteranos da Freedom, liderara a operacao. Meu trabalho e ajuda-los.</text>
 	</string>
 	<string id="mil_mad_flash_job_descr">
 		<text>Eu me pergunto o que esse cara louco no pantano pode saber. Vou descobrir. O importante e evitar todas aquelas minas antigas. Mas - elas devem estar enferrujadas o suficiente para explodir com um parafuso.</text>

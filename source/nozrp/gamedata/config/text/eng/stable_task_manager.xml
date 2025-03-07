@@ -337,13 +337,13 @@
 		<text>Para realizar esta tarefa, voce precisa ter habilidades especiais. Os cientistas nos informaram que notaram um controlador em Yantar, na entrada do laboratorio subterraneo (no predio central). Os controladores sao muito perigosos, mas tenho certeza de que voce vai conseguir.</text>
 	</string>
 	<string id="dolg_eliminate_lager_8">
-		<text>Limpe os libertarios</text>
+		<text>Limpe os freedomers</text>
 	</string>
 	<string id="dolg_eliminate_lager_8_descr">
-		<text>Limpe a vila abandonada nao muito longe dos armazens militares dos libertarios.</text>
+		<text>Limpe a vila abandonada nao muito longe dos armazens militares dos freedomers.</text>
 	</string>
 	<string id="dolg_eliminate_lager_8_text">
-		<text>Tem havido um aumento na atividade da patrulha da Liberdade na vila abandonada perto dos armazens militares. Limpe a vila dos combatentes. Apos realizar esta tarefa, uma recompensa especial o aguarda.</text>
+		<text>Tem havido um aumento na atividade da patrulha da Freedom na vila abandonada perto dos armazens militares. Limpe a vila dos combatentes. Apos realizar esta tarefa, uma recompensa especial o aguarda.</text>
 	</string>
 	<string id="dolg_eliminate_lager_9">
 		<text>Destrua os bandidos</text>
@@ -718,13 +718,13 @@
 		<text>Obtenha uma parte do corpo de um monstro.</text>
 	</string>
 	<string id="petrenko_kill_stalker">
-		<text>Destrua o stalker da Liberdade.</text>
+		<text>Destrua o stalker da Freedom.</text>
 	</string>
 	<string id="petrenko_kill_stalker_descr">
-		<text>Um stalker, um ex-dutyer, que tinha muitas informacoes importantes sobre objetos em Prypiat, recentemente mudou para o lado da Liberdade. Ele precisa ser morto antes que diga demais.</text>
+		<text>Um stalker, um ex-dutyer, que tinha muitas informacoes importantes sobre objetos em Prypiat, recentemente mudou para o lado da Freedom. Ele precisa ser morto antes que diga demais.</text>
 	</string>
 	<string id="petrenko_kill_stalker_text">
-		<text>Escute aqui. Temos mapas de Prypiat - nao os atuais, mas os antigos, feitos no inicio dos anos 90. A coisa mais importante neles e a marcacao de todos os objetos militares: armazens subterraneos, abrigos antiaereos. Agora ha pouco uso disso, e claro, mas se encontrarmos uma estrada para Prypiat, essa informacao se tornara inestimavel. No entanto, aqui esta o problema. Um dos oficiais passou para o lado da Liberdade e ele sabia sobre essas informacoes. Resumindo, ele precisa ser silenciado antes que diga demais.</text>
+		<text>Escute aqui. Temos mapas de Prypiat - nao os atuais, mas os antigos, feitos no inicio dos anos 90. A coisa mais importante neles e a marcacao de todos os objetos militares: armazens subterraneos, abrigos antiaereos. Agora ha pouco uso disso, e claro, mas se encontrarmos uma estrada para Prypiat, essa informacao se tornara inestimavel. No entanto, aqui esta o problema. Um dos oficiais passou para o lado da Freedom e ele sabia sobre essas informacoes. Resumindo, ele precisa ser silenciado antes que diga demais.</text>
 	</string>
 	<string id="return_for_reward">
 		<text>Volte para a recompensa.</text>

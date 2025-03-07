@@ -40,7 +40,7 @@
 		<text>Nao estou pronto.</text>
 	</string>
 	<string id="bar_arena_man_job_15">
-		<text>Voce tem uma luta especial hoje. Ate o exercito ouviu falar de voce! Nao se surpreenda, eles lutam aqui tambem - tem ate um general na multidao. Esses caras sao das Forcas Especiais ou da OMON. Eles estao bem armados e a armadura deles e tao boa quanto voce esperaria. Nao se preocupe, eu tambem nao vou te deixar na chuva. Voce vai ganhar um colete usado pela Liberdade - e leve, entao nao vai te deixar lento. Va la, mostre a eles que os stalkers nao sao meninos de recados. Boa sorte!</text>
+		<text>Voce tem uma luta especial hoje. Ate o exercito ouviu falar de voce! Nao se surpreenda, eles lutam aqui tambem - tem ate um general na multidao. Esses caras sao das Forcas Especiais ou da OMON. Eles estao bem armados e a armadura deles e tao boa quanto voce esperaria. Nao se preocupe, eu tambem nao vou te deixar na chuva. Voce vai ganhar um colete usado pela Freedom - e leve, entao nao vai te deixar lento. Va la, mostre a eles que os stalkers nao sao meninos de recados. Boa sorte!</text>
 	</string>
 	<string id="bar_arena_man_job_151">
 		<text>Estou pronto.</text>
@@ -571,13 +571,13 @@
 		<text>Obrigado.</text>
 	</string>
 	<string id="bar_bar_osvedomitel_reward_3">
-		<text>Aqui esta o que eu tenho a dizer. Voce ajudou a Liberdade e fez a escolha certa. Seu destino agora esta ligado ao da Liberdade, e a Duty esta de olho em voce. Eu diria que voce deveria ir para a base militar abandonada e se juntar as fileiras da Liberdade - eles precisam de bons lutadores. Havera tiroteios entre os grupos em breve e quem escolher o lado certo nao se arrependera.</text>
+		<text>Aqui esta o que eu tenho a dizer. Voce ajudou a Freedom e fez a escolha certa. Seu destino agora esta ligado ao da Freedom, e a Duty esta de olho em voce. Eu diria que voce deveria ir para a base militar abandonada e se juntar as fileiras da Freedom - eles precisam de bons lutadores. Havera tiroteios entre os grupos em breve e quem escolher o lado certo nao se arrependera.</text>
 	</string>
 	<string id="bar_bar_osvedomitel_start_11">
 		<text>Trabalho como negociante de informacoes. Vendo informacoes importantes e compro mapas, documentos e registros de laboratorio. Minhas informacoes sao valiosas e muito uteis para quem as possui!</text>
 	</string>
 	<string id="bar_bar_osvedomitel_start_21">
-		<text>Ola, Marca. Voce ajudou a Liberdade e fez a escolha certa. Seu destino agora esta ligado ao da Liberdade e a Duty esta de olho em voce. Eu sugiro que voce va para a base militar abandonada e se junte a Liberdade - eles precisam de bons lutadores.</text>
+		<text>Ola, Marca. Voce ajudou a Freedom e fez a escolha certa. Seu destino agora esta ligado ao da Freedom e a Duty esta de olho em voce. Eu sugiro que voce va para a base militar abandonada e se junte a Freedom - eles precisam de bons lutadores.</text>
 	</string>
 	<string id="bar_bar_osvedomitel_start_211">
 		<text>Vou pensar nisso.</text>
@@ -586,22 +586,22 @@
 		<text>Entao, Marca, o que te traz aqui? Quer comprar alguma informacao ou esta vendendo hoje?</text>
 	</string>
 	<string id="bar_bar_osvedomitel_talk_0">
-		<text>Entao voce esta conectado com a Liberdade?</text>
+		<text>Entao voce esta conectado com a Freedom?</text>
 	</string>
 	<string id="bar_bar_osvedomitel_talk_1">
 		<text>Nao posso responder a essa pergunta agora. Tudo o que posso dizer e que nao sou membro de nenhum grupo.</text>
 	</string>
 	<string id="bar_bar_osvedomitel_talk_about_freedom_0">
-		<text>Fale-me sobre a faccao Liberdade.</text>
+		<text>Fale-me sobre a faccao Freedom.</text>
 	</string>
 	<string id="bar_bar_osvedomitel_talk_about_freedom_1">
-		<text>Claro, sem problema! A Liberdade e um dos grupos mais antigos da Zona e o unico que se opoe abertamente as tropas do governo e as equipes de pesquisa. Seus fundadores estao mortos - foram mortos durante um grande banho de sangue depois que o exercito lancou uma grande forca de ataque na Zona, mas a capacidade de controlar a Zona de fora foi destruida ao mesmo tempo. Ha algumas evidencias que sugerem que a primeira Zona foi usada como um local secreto de testes de armas do exercito. Se isso for verdade, eles devem ter usado algumas merdas poderosas. Enfim, o que eu estava dizendo...? Ah, sim, a Liberdade e o unico grupo que esta tentando impedir que o governo recupere o controle do local de testes. Deus sabe o que acontecera se eles comecarem a testar suas merdas novamente, entao a Liberdade esta tentando resistir a todo custo.</text>
+		<text>Claro, sem problema! A Freedom e um dos grupos mais antigos da Zona e o unico que se opoe abertamente as tropas do governo e as equipes de pesquisa. Seus fundadores estao mortos - foram mortos durante um grande banho de sangue depois que o exercito lancou uma grande forca de ataque na Zona, mas a capacidade de controlar a Zona de fora foi destruida ao mesmo tempo. Ha algumas evidencias que sugerem que a primeira Zona foi usada como um local secreto de testes de armas do exercito. Se isso for verdade, eles devem ter usado algumas merdas poderosas. Enfim, o que eu estava dizendo...? Ah, sim, a Freedom e o unico grupo que esta tentando impedir que o governo recupere o controle do local de testes. Deus sabe o que acontecera se eles comecarem a testar suas merdas novamente, entao a Freedom esta tentando resistir a todo custo.</text>
 	</string>
 	<string id="bar_bar_osvedomitel_talk_about_freedom_2">
 		<text>E a Duty?</text>
 	</string>
 	<string id="bar_bar_osvedomitel_talk_about_freedom_3">
-		<text>O Duty e basicamente controlado de fora pelo governo. O objetivo atual deles e limpar o territorio de mutantes e destruir a Liberdade, que e o que eles estao fazendo no momento. Quando chegar a hora certa, eles lancarao uma grande forca de ataque na Zona e assumirao o controle da area.</text>
+		<text>O Duty e basicamente controlado de fora pelo governo. O objetivo atual deles e limpar o territorio de mutantes e destruir a Freedom, que e o que eles estao fazendo no momento. Quando chegar a hora certa, eles lancarao uma grande forca de ataque na Zona e assumirao o controle da area.</text>
 	</string>
 	<string id="bar_bar_osvedomitel_talk_about_freedom_4">
 		<text>Obrigado pela informacao.</text>
@@ -664,7 +664,7 @@
 		<text>Sim, ja estava na hora.</text>
 	</string>
 	<string id="bar_bar_visitors_1_start_21">
-		<text>...alguem realmente irritou a Liberdade: ouvi dizer que um dos grupos deles foi destruido no Territorio Selvagem... quem sera que fez isso?</text>
+		<text>...alguem realmente irritou a Freedom: ouvi dizer que um dos grupos deles foi destruido no Territorio Selvagem... quem sera que fez isso?</text>
 	</string>
 	<string id="bar_bar_visitors_1_start_211">
 		<text>Sim, quem dera eu soubesse...</text>
@@ -673,10 +673,10 @@
 		<text>...finalmente alguem teve coragem de limpar os sanguessugas no Territorio Selvagem... O que a Duty estava fazendo todo esse tempo?</text>
 	</string>
 	<string id="bar_bar_visitors_1_start_311">
-		<text>O que a Duty estava fazendo? Eles estavam fazendo a Liberdade, o que mais?</text>
+		<text>O que a Duty estava fazendo? Eles estavam fazendo a Freedom, o que mais?</text>
 	</string>
 	<string id="bar_bar_visitors_1_start_41">
-		<text>...ouvi dizer que alguem detonou o lider da Liberdade. Eles vao passar por momentos dificeis, eu acho. O Duty vai realmente apertar eles...</text>
+		<text>...ouvi dizer que alguem detonou o lider da Freedom. Eles vao passar por momentos dificeis, eu acho. O Duty vai realmente apertar eles...</text>
 	</string>
 	<string id="bar_bar_visitors_1_start_411">
 		<text>Esperemos que sim.</text>
@@ -700,7 +700,7 @@
 		<text>O que ha de novo?</text>
 	</string>
 	<string id="bar_bar_visitors_1_start_7111">
-		<text>Ouvi dizer que Strelok voltou. Ele tem todo o equipamento que voce precisa para chegar a Maquina... Ele esta escondido agora porque muita gente esta atras dele. Alguns sao abertos sobre isso, enquanto outros estao tentando manter seu interesse em segredo. Ha rumores de que ate a Duty e a Liberdade se juntaram a cacada... cada um com sua propria agenda.</text>
+		<text>Ouvi dizer que Strelok voltou. Ele tem todo o equipamento que voce precisa para chegar a Maquina... Ele esta escondido agora porque muita gente esta atras dele. Alguns sao abertos sobre isso, enquanto outros estao tentando manter seu interesse em segredo. Ha rumores de que ate a Duty e a Freedom se juntaram a cacada... cada um com sua propria agenda.</text>
 	</string>
 	<string id="bar_bar_visitors_1_start_71111">
 		<text>Parece que Strelok esta certo em se esconder.</text>
@@ -712,7 +712,7 @@
 		<text>Voce pode me dizer algo que seria util para um novato?</text>
 	</string>
 	<string id="bar_bar_visitors_10_start_7111">
-		<text>Util para um novato? Bem, ouca. Ao norte, nao muito longe do Desintegrador Psiquico, a Liberdade montou seu QG em uma antiga base militar. Eles sao notorios niilistas, anarquistas e criminosos - combatentes da liberdade, guerrilheiros loucos, todos eles. Tudo o que fazem e sabotar grupos de pesquisa, atacar unidades do exercito e constantemente entrar em conflito com a Duty. Esses conflitos agora estao se transformando em uma guerra de pequena escala pela sobrevivencia. Deixe-me dar um conselho: nunca se envolva com eles. Eles so vao te aceitar se voce for totalmente louco e houver uma recompensa pela sua cabeca. Ha-ha-ha. Voce acredita nisso?</text>
+		<text>Util para um novato? Bem, ouca. Ao norte, nao muito longe do Desintegrador Psiquico, a Freedom montou seu QG em uma antiga base militar. Eles sao notorios niilistas, anarquistas e criminosos - combatentes da liberdade, guerrilheiros loucos, todos eles. Tudo o que fazem e sabotar grupos de pesquisa, atacar unidades do exercito e constantemente entrar em conflito com a Duty. Esses conflitos agora estao se transformando em uma guerra de pequena escala pela sobrevivencia. Deixe-me dar um conselho: nunca se envolva com eles. Eles so vao te aceitar se voce for totalmente louco e houver uma recompensa pela sua cabeca. Ha-ha-ha. Voce acredita nisso?</text>
 	</string>
 	<string id="bar_bar_visitors_10_start_71111">
 		<text>Obrigado pelo seu conselho.</text>
@@ -736,7 +736,7 @@
 		<text>Voce pode me dizer algo que seria util para um novato?</text>
 	</string>
 	<string id="bar_bar_visitors_13_start_7111">
-		<text>Os Mercs sao meio que como a Liberdade, so que piores. Pelo menos a Liberdade tem alguns ideais, mas esses caes fazem qualquer coisa por dinheiro. Alguem realmente precisa matar todos eles antes que eles arrastem algo realmente perigoso da Zona para o mundo normal! Eles estao baseados na Cidade Morta e ha um atirador em cada predio alto, entendeu? Eles nao gostam de estranhos.</text>
+		<text>Os Mercs sao meio que como a Freedom, so que piores. Pelo menos a Freedom tem alguns ideais, mas esses caes fazem qualquer coisa por dinheiro. Alguem realmente precisa matar todos eles antes que eles arrastem algo realmente perigoso da Zona para o mundo normal! Eles estao baseados na Cidade Morta e ha um atirador em cada predio alto, entendeu? Eles nao gostam de estranhos.</text>
 	</string>
 	<string id="bar_bar_visitors_13_start_71111">
 		<text>Entendo. Parece que voce tem que ter cuidado na Cidade Morta.</text>
@@ -898,7 +898,7 @@
 		<text>Voce decide, cara. Ate logo.</text>
 	</string>
 	<string id="bar_dolg_base_guard_acces_21">
-		<text>Porque nao ha lugar para esses bandidos da Liberdade na Zona - eles devem ser destruidos. Se voce estiver interessado, peca ao Bartender para explicar tudo. Estou ocupado.</text>
+		<text>Porque nao ha lugar para esses bandidos da Freedom na Zona - eles devem ser destruidos. Se voce estiver interessado, peca ao Bartender para explicar tudo. Estou ocupado.</text>
 	</string>
 	<string id="bar_dolg_base_guard_acces_31">
 		<text>Pague 1000 rublos e voce recebera um passe. Leve isso para o administrador da Duty e ele providenciara testes para voce.</text>
@@ -946,13 +946,13 @@
 		<text>Por que voces nao deixam estranhos entrarem?</text>
 	</string>
 	<string id="bar_dolg_base_guard_talk_1">
-		<text>De onde voces, meninos ingenuos, vieram? Ha uma guerra acontecendo, certo? Estamos lutando contra bandidos da Liberdade! Temos conflitos regulares com seus lutadores no Territorio Selvagem.</text>
+		<text>De onde voces, meninos ingenuos, vieram? Ha uma guerra acontecendo, certo? Estamos lutando contra bandidos da Freedom! Temos conflitos regulares com seus lutadores no Territorio Selvagem.</text>
 	</string>
 	<string id="bar_dolg_base_guard_talk_2">
-		<text>Uma guerra com a Liberdade? Por que?</text>
+		<text>Uma guerra com a Freedom? Por que?</text>
 	</string>
 	<string id="bar_dolg_base_guard_talk_3">
-		<text>Porque nao ha lugar para esses bandidos da Liberdade na Zona - eles devem ser destruidos. Se voce estiver interessado, peca ao Bartender para explicar tudo. Estou ocupado.</text>
+		<text>Porque nao ha lugar para esses bandidos da Freedom na Zona - eles devem ser destruidos. Se voce estiver interessado, peca ao Bartender para explicar tudo. Estou ocupado.</text>
 	</string>
 	<string id="bar_dolg_guard_bunker_start_11">
 		<text>Pare! Apenas membros podem entrar la! Nao podemos deixa-lo entrar no bunker sem um passe especial. Se voce quiser obter um, va ver o Coronel Petrenko. Ele esta na area administrativa do outro lado do patio.</text>
@@ -976,25 +976,25 @@
 		<text>O que posso fazer pelo Duty?</text>
 	</string>
 	<string id="bar_dolg_leader_job_1">
-		<text>Essa e uma boa pergunta, Marca, e ha uma resposta igualmente boa para ela - matar anarquistas da Liberdade. Voce recebera uma recompensa por cada PDA deles que trouxer e podera ser promovido tambem. Leve todos os PDAs que conseguir para Petrenko - ele entrega as recompensas.</text>
+		<text>Essa e uma boa pergunta, Marca, e ha uma resposta igualmente boa para ela - matar anarquistas da Freedom. Voce recebera uma recompensa por cada PDA deles que trouxer e podera ser promovido tambem. Leve todos os PDAs que conseguir para Petrenko - ele entrega as recompensas.</text>
 	</string>
 	<string id="bar_dolg_leader_join_0">
 		<text>Bartender me disse que voce tem uma tarefa para mim nos armazens militares...</text>
 	</string>
 	<string id="bar_dolg_leader_join_1">
-		<text>Quero pedir que voce faca uma coisa, pessoalmente para mim, entende? Estamos no meio de uma guerra territorial com a faccao Liberdade e precisamos de armas mais poderosas do que as que temos. A Liberdade tem alguns excelentes lancadores de granadas Bulldog 6. Se voce pudesse penetrar em seu territorio e roubar pelo menos um desses lancadores de granadas, eu o recompensaria generosamente. Como voce nao esta em nossa faccao, pode ganhar rapidamente a confianca da Liberdade e, se tiver sorte, pegar um Bulldog 6.</text>
+		<text>Quero pedir que voce faca uma coisa, pessoalmente para mim, entende? Estamos no meio de uma guerra territorial com a faccao Freedom e precisamos de armas mais poderosas do que as que temos. A Freedom tem alguns excelentes lancadores de granadas Bulldog 6. Se voce pudesse penetrar em seu territorio e roubar pelo menos um desses lancadores de granadas, eu o recompensaria generosamente. Como voce nao esta em nossa faccao, pode ganhar rapidamente a confianca da Freedom e, se tiver sorte, pegar um Bulldog 6.</text>
 	</string>
 	<string id="bar_dolg_leader_join_11">
 		<text>Continue.</text>
 	</string>
 	<string id="bar_dolg_leader_join_111">
-		<text>Vou carregar a localizacao da base da Liberdade para voce. Voce precisara encontrar o Chef. Ele e membro da Liberdade. Ele sabe onde os RG-6 sao mantidos. E ele gosta de beber, entao leve muita vodka com voce. Entao, o que voce diz?</text>
+		<text>Vou carregar a localizacao da base da Freedom para voce. Voce precisara encontrar o Chef. Ele e membro da Freedom. Ele sabe onde os RG-6 sao mantidos. E ele gosta de beber, entao leve muita vodka com voce. Entao, o que voce diz?</text>
 	</string>
 	<string id="bar_dolg_leader_join_1111">
-		<text>OK, vou tentar roubar um Bulldog 6 da Liberdade.</text>
+		<text>OK, vou tentar roubar um Bulldog 6 da Freedom.</text>
 	</string>
 	<string id="bar_dolg_leader_join_11111">
-		<text>Ah, e mais uma coisa. O Coronel Cranio e seus rapazes desobedeceram minha ordem e decidiram atacar a base da Liberdade sem autorizacao. Bem, eles que colham o que plantaram... bastardos suicidas. Nao se envolva na luta deles. Apenas tente me conseguir o Bulldog 6 - nada mais importa.</text>
+		<text>Ah, e mais uma coisa. O Coronel Cranio e seus rapazes desobedeceram minha ordem e decidiram atacar a base da Freedom sem autorizacao. Bem, eles que colham o que plantaram... bastardos suicidas. Nao se envolva na luta deles. Apenas tente me conseguir o Bulldog 6 - nada mais importa.</text>
 	</string>
 	<string id="bar_dolg_leader_join_1112">
 		<text>Ainda nao estou pronto para tais feitos.</text>
@@ -1057,10 +1057,10 @@
 		<text>O que te trouxe ate mim, irmao?</text>
 	</string>
 	<string id="bar_dolg_leader_start_51">
-		<text>A guerra com a Liberdade esta chegando ao fim, Marca. Voce desempenhou seu papel na luta pela causa e agora quero terminar esta guerra. Quero que voce mate o lider da Liberdade.</text>
+		<text>A guerra com a Freedom esta chegando ao fim, Marca. Voce desempenhou seu papel na luta pela causa e agora quero terminar esta guerra. Quero que voce mate o lider da Freedom.</text>
 	</string>
 	<string id="bar_dolg_leader_start_81">
-		<text>O que te traz aqui, irmao? Voce matou o lider daqueles anarquistas da Liberdade e o grupo deles desmoronou. A guerra nao acabou, mas seu resultado e certo. Suas conquistas sao grandes e nao serao esquecidas.</text>
+		<text>O que te traz aqui, irmao? Voce matou o lider daqueles anarquistas da Freedom e o grupo deles desmoronou. A guerra nao acabou, mas seu resultado e certo. Suas conquistas sao grandes e nao serao esquecidas.</text>
 	</string>
 	<string id="bar_dolg_newbie_start_11">
 		<text>Ola, stalker. Junte-se ao Duty! Precisamos de bons lutadores! Acabei de me juntar e veja o uniforme legal que eles me deram!</text>
@@ -1078,7 +1078,7 @@
 		<text>Estamos aqui desde o inicio. O primeiro grupo era formado pelos membros sobreviventes de unidades especiais enviadas para a Zona para descobrir o que causou seu surgimento. Nos encontramos em circunstancias muito dificeis. Depois que metade da unidade morreu horrivelmente, aqueles que sobreviveram juraram que nao sairiam daqui ate entenderem o que esta acontecendo na Zona... ate derrota-la.</text>
 	</string>
 	<string id="bar_dolg_novice_start_4">
-		<text>Fale-me sobre a Liberdade.</text>
+		<text>Fale-me sobre a Freedom.</text>
 	</string>
 	<string id="bar_dolg_novice_start_41">
 		<text>Sao bandidos que nao entendem que a Zona e uma ulcera no corpo da Terra. Eles querem espalha-la por todo o mundo, um pedaco em cada casa. Eles farao qualquer coisa para atingir esse objetivo e mal posso esperar para acabar com isso.</text>
@@ -1174,7 +1174,7 @@
 		<text>Nao se preocupe com isso.</text>
 	</string>
 	<string id="bar_dolg_zavskald_reward_12">
-		<text>Tive uma pequena "conversa" com Tirano da Liberdade. Basicamente, ele entendeu seu erro e prometeu se comportar no futuro. Tenho quase certeza de que ele nao vai quebrar sua palavra - os mortos nao mentem.</text>
+		<text>Tive uma pequena "conversa" com Tirano da Freedom. Basicamente, ele entendeu seu erro e prometeu se comportar no futuro. Tenho quase certeza de que ele nao vai quebrar sua palavra - os mortos nao mentem.</text>
 	</string>
 	<string id="bar_dolg_zavskald_reward_121">
 		<text>Tirano era uma verdadeira dor de cabeca para nos! Fico feliz que voce o tenha eliminado. Aqui esta sua recompensa - um S14 Thunder, nossa arma de marca registrada.</text>
@@ -1186,7 +1186,7 @@
 		<text>Voronin nao te disse nada?</text>
 	</string>
 	<string id="bar_dolg_zavskald_reward_131">
-		<text>Uau, parabens! E uma grande conquista matar o lider da Liberdade. Cara, queria ser tao durao quanto voce.</text>
+		<text>Uau, parabens! E uma grande conquista matar o lider da Freedom. Cara, queria ser tao durao quanto voce.</text>
 	</string>
 	<string id="bar_dolg_zavskald_reward_1311">
 		<text>Faca muito exercicio, coma seus vegetais e ouca sua mae. Obrigado pelo novo equipamento. Estou indo.</text>
@@ -1210,7 +1210,7 @@
 		<text>A Zona e um presente maravilhoso para a humanidade. E claro que a existencia normal aqui nao e possivel devido aos altos niveis de radiacao e aos mutantes agressivos. Todas essas coisas sao obviamente extremamente perigosas, mas tambem sao coisas de grande valor cientifico. A Zona e quase um experimento natural, um tesouro para os cientistas! A extensao em que o conhecimento da humanidade poderia ser aumentado atraves do estudo da Zona e insondavel. Tecnologia, medicina, novas plantas - medicinais e comestiveis, biotecnologia, curas para doencas incuraveis... qualquer coisa! Talvez possamos resolver o problema da alimentacao para todo o planeta. Se as pessoas nao interferissem, a ciencia poderia levar a humanidade a uma nova Era de Ouro!</text>
 	</string>
 	<string id="bar_ecolog_crush_professor_give_info_dp_1211">
-		<text>O Duty pensa o contrario e nem a Liberdade parece querer te ajudar.</text>
+		<text>O Duty pensa o contrario e nem a Freedom parece querer te ajudar.</text>
 	</string>
 	<string id="bar_ecolog_crush_professor_give_info_dp_12111">
 		<text>Voce simplesmente e incapaz de compreender o quadro geral. Seus problemas de "aqui e agora" sao muito mais importantes para voce do que o futuro da humanidade!</text>

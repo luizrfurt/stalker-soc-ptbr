@@ -1,5 +1,5 @@
 4|<text>O que voce quer?</text>
-7|<text>Estou procurando o lider da Liberdade. Tenho informacoes extremamente importantes para ele.</text>
+7|<text>Estou procurando o lider da Freedom. Tenho informacoes extremamente importantes para ele.</text>
 10|<text>Ah, e quao importante e isso?</text>
 13|<text>Encontrei um grupo de membros da Duty nao muito longe da sua base.</text>
 16|<text>Uh-oh... Parece que a Duty esta tentando se igualar de novo... Ok, voce pode entrar, mas certifique-se de guardar essa arma. Nem pense em fazer bagunca aqui, ou voce saira daqui com os pes na frente.</text>
@@ -73,7 +73,7 @@
 220|<text>De i-i-i-ssso... a-a-aqui!</text>
 223|<text>Uau... olha voce... Bebeu tudo isso sozinho?...</text>
 226|<text>Soluco! I-i-i-sso, mano, e o f-f-fundo! Mmmm... Hhhhhm...</text>
-229|<text>Ouvi dizer que a Liberdade tem um Bulldog 6. Seria divertido dar uma olhada nessa belezinha.</text>
+229|<text>Ouvi dizer que a Freedom tem um Bulldog 6. Seria divertido dar uma olhada nessa belezinha.</text>
 232|<text>O que voce esta querendo dizer, cara? Voce quer que eu... que eu te de... que eu abra o bico?.. Que tipo de tolo voce acha que eu sou?</text>
 235|<text>Calma. Eu nao sabia que era tao serio.</text>
 238|<text>Voce nao fica bisbilhotando nossas armas, entendeu? Quem diabos e voce, afinal? Nunca te vi antes!</text>
@@ -183,7 +183,7 @@
 550|<text>Quem mais, senao nos? Duty? Eles sao os melhores quando se trata de erradicar monstros e eliminar stalkers indesejados, mas voce deveria tentar faze-los realmente fazerem algo util! Voce os ve aqui? Nao? E isso que quero dizer. Nos, por outro lado, nao pretendemos destruir as criaturas que vivem aqui. Uma barreira, uma barreira normal - isso deve ser suficiente. Desde que nenhum lado cruze a linha...</text>
 553|<text>E se alguem cruzar?</text>
 556|<text>Tudo pode acontecer. Tudo. Eu nao quero...</text>
-559|<text>Pare! O acesso ao arsenal e restrito apenas a membros da Liberdade.</text>
+559|<text>Pare! O acesso ao arsenal e restrito apenas a membros da Freedom.</text>
 562|<text>Pronto, agora voce pode entrar no arsenal. Exceto que ha um pequeno problema...</text>
 565|<text>Que problema?</text>
 568|<text>Nao se preocupe, nao e nada terrivel. A fechadura esta emperrada, so isso. Se voce realmente nao pode esperar, apenas atire nela, eu a substituirei depois.</text>
@@ -324,7 +324,7 @@
 973|<text>Vejo que voce se virou bem. Entregue os documentos para Lukash.</text>
 976|<text>Va falar com Lukash e faca seu relatorio, depois conversamos, certo?</text>
 979|<text>OK.</text>
-982|<text>Cara, voce esta na base da Liberdade! Relaxe, sinta-se em casa!</text>
+982|<text>Cara, voce esta na base da Freedom! Relaxe, sinta-se em casa!</text>
 985|<text>Entendo.</text>
 988|<text>Comporte-se, OK? Entendeu? Tente brincar e voce vai se arrepender. Tinhamos um lerdo aqui uma vez; ele irritou tanto todo mundo que o fizemos dar um passeio no campo minado - pelado. Voce deveria ter ouvido Avarento xingar quando o braco daquele cara caiu bem na cabeca dele! Aquilo foi especial... sim... Entao, voce entendeu a ideia?</text>
 991|<text>Entendi.</text>

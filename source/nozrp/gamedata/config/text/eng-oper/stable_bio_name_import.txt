@@ -112,30 +112,30 @@
 335|<text>Stalker do grupo Monolito. Detalhes nao disponiveis.</text>
 338|<text>Um dos veteranos. Conhece a Zona como a palma da mao. Geralmente bem equipado e altamente perigoso. Detalhes nao disponiveis.</text>
 341|<text>Stalker veterano. Possivelmente bem equipado. Detalhes nao disponiveis.</text>
-344|<text>Stalker da faccao Liberdade. Comandante da barreira. O homem que uniu um grupo de pessoas dispostas a sacrificar suas vidas pela causa comum.</text>
+344|<text>Stalker da faccao Freedom. Comandante da barreira. O homem que uniu um grupo de pessoas dispostas a sacrificar suas vidas pela causa comum.</text>
 347|<text>Cap</text>
-350|<text>Guarda-costas que trabalha para Lukash, o lider da faccao Liberdade.</text>
-353|<text>O cozinheiro da faccao Liberdade. Um beberrao e brigao, mas um excelente cozinheiro.</text>
+350|<text>Guarda-costas que trabalha para Lukash, o lider da faccao Freedom.</text>
+353|<text>O cozinheiro da faccao Freedom. Um beberrao e brigao, mas um excelente cozinheiro.</text>
 356|<text>Chef</text>
 359|<text>Um mecanico renomado em toda a Zona. Pode fazer um tanque de um trator ou assim diz a historia.</text>
 362|<text>Durao</text>
-365|<text>Lider da faccao Liberdade.</text>
+365|<text>Lider da faccao Freedom.</text>
 368|<text>Lukash</text>
-371|<text>Comandante da faccao Liberdade. Detalhes nao disponiveis.</text>
-374|<text>Guarda da faccao Liberdade. Um fanatico. Muito bem equipado e altamente perigoso. Detalhes nao disponiveis.</text>
+371|<text>Comandante da faccao Freedom. Detalhes nao disponiveis.</text>
+374|<text>Guarda da faccao Freedom. Um fanatico. Muito bem equipado e altamente perigoso. Detalhes nao disponiveis.</text>
 377|<text>Max</text>
-380|<text>Guarda da faccao Liberdade. Muito bem equipado e altamente perigoso. Detalhes nao disponiveis.</text>
+380|<text>Guarda da faccao Freedom. Muito bem equipado e altamente perigoso. Detalhes nao disponiveis.</text>
 383|<text>Sombra</text>
-386|<text>Stalker da faccao Liberdade. Detalhes nao disponiveis.</text>
-389|<text>Sniper da faccao Liberdade. Detalhes nao disponiveis.</text>
-392|<text>Militante da faccao Liberdade. Geralmente bem equipado. Detalhes nao disponiveis.</text>
-395|<text>Stalker da faccao Liberdade. Detalhes nao disponiveis.</text>
+386|<text>Stalker da faccao Freedom. Detalhes nao disponiveis.</text>
+389|<text>Sniper da faccao Freedom. Detalhes nao disponiveis.</text>
+392|<text>Militante da faccao Freedom. Geralmente bem equipado. Detalhes nao disponiveis.</text>
+395|<text>Stalker da faccao Freedom. Detalhes nao disponiveis.</text>
 398|<text>Pavlik</text>
 401|<text>Infame por sua ganancia e nao conformidade, mas dizem que ele pode conseguir qualquer coisa para voce.</text>
 404|<text>Avarento</text>
-407|<text>Stalker da faccao Liberdade. Detalhes nao disponiveis.</text>
-410|<text>Stalker insano da faccao Liberdade.</text>
-413|<text>Militante da faccao Liberdade. Geralmente bem equipado. Detalhes nao disponiveis.</text>
+407|<text>Stalker da faccao Freedom. Detalhes nao disponiveis.</text>
+410|<text>Stalker insano da faccao Freedom.</text>
+413|<text>Militante da faccao Freedom. Geralmente bem equipado. Detalhes nao disponiveis.</text>
 416|<text>Sasha Bely</text>
 419|<text>Stalker veterano. Possivelmente bem equipado. Detalhes nao disponiveis.</text>
 422|<text>Stalker do grupo Monolito. Detalhes nao disponiveis.</text>
@@ -158,7 +158,7 @@
 473|<text>Forcas Especiais. Bem equipado. Detalhes nao disponiveis.</text>
 476|<text>Um dos veteranos. Conhece a Zona como a palma da mao. Geralmente bem equipado e altamente perigoso. Detalhes nao disponiveis.</text>
 479|<text>Stalker veterano. Possivelmente bem equipado. Detalhes nao disponiveis.</text>
-482|<text>Comandante da faccao Liberdade. Detalhes nao disponiveis.</text>
+482|<text>Comandante da faccao Freedom. Detalhes nao disponiveis.</text>
 485|<text>Um dos stalkers que ficaram sem sorte.</text>
 488|<text>Um pesquisador do laboratorio movel. Detalhes nao disponiveis.</text>
 491|<text>Cientista, especialista em fenomenos anomalos. Trabalhou na America em projetos ultrassecretos. Dado como desaparecido ha algum tempo.</text>
@@ -256,10 +256,10 @@
 767|<text>Oleg "Demonio" Gusarov. Um ex-"Boina Negra", serviu na brigada de Forcas Especiais Belotserkovskaya. Serviu em varias missoes, tornou-se sargento mestre. Um sniper e tecnico de bombas. Um solitario de coracao, nunca se aventura na Zona em grupo, preferindo agir sozinho. Foi oferecido para se juntar aos clas varias vezes, mas sempre recusou.</text>
 770|<text>Um estudante do Departamento de Fisica que desistiu no ultimo ano. Ele foi para a Zona em busca de dinheiro facil. Gosta de exibir seu conhecimento "cientifico" e discursar sobre questoes filosoficas abstratas. E razao suficiente para outros stalkers nao gostarem dele. No geral, um sujeito bem decente. Uma especie de idealista.</text>
 773|<text>Pardal tem 27 anos, e astuto e previdente, mas tambem capaz dos piores erros. Pode ser mesquinho. Uma pessoa bastante duvidosa. Um tipo magricela e palido. Veio para a Zona por curiosidade, prometendo a si mesmo que voltaria para casa depois de dois meses. Ele nunca voltou. Em sua primeira incursao na Zona, Pardal conseguiu atravessar um campo repleto de anomalias com as maos nuas e sem nocao do quao perigoso era aquilo. Assim que descobriu o que havia feito, desmaiou. Desde entao, celebra essa data (9 de outubro) como seu segundo aniversario.</text>
-776|<text>Mestre da faccao Liberdade. Detalhes nao disponiveis.</text>
-779|<text>Stalker da faccao Liberdade. Detalhes nao disponiveis.</text>
-782|<text>Stalker da faccao Liberdade. Detalhes nao disponiveis.</text>
-785|<text>Militante da faccao Liberdade. Geralmente bem equipado. Detalhes nao disponiveis.</text>
+776|<text>Mestre da faccao Freedom. Detalhes nao disponiveis.</text>
+779|<text>Stalker da faccao Freedom. Detalhes nao disponiveis.</text>
+782|<text>Stalker da faccao Freedom. Detalhes nao disponiveis.</text>
+785|<text>Militante da faccao Freedom. Geralmente bem equipado. Detalhes nao disponiveis.</text>
 788|<text>Leshiy, como seu irmao o chama, veio para a Zona como um jovem idealista. No entanto, alguns anos vivendo a um fio da morte, o transformaram em um realista cinico. Considera a Zona sua casa e acha que aqueles que falharam sao indignos de pisar na face da Terra.</text>
 791|<text>Escreve esbocos e historias sobre a Zona sob o nome de Arkady. Ex-jornalista. Meticuloso e severo, mas justo. Amplamente respeitado pelos stalkers.</text>
 794|<text>Um dos stalkers que ficaram sem sorte.</text>
