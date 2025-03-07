@@ -36,7 +36,7 @@
 107|<text>Eu posso nao saber latim, Kruglov, mas voce nao acreditaria o quao fluente eu sou em violencia. Voce gostaria que eu falasse isso para voce, ou voce vai me dar as informacoes que preciso?</text>
 110|<text>Voce e um homem esperto, professor. De-me as informacoes e voce esta livre para ir!</text>
 113|<text>Voce simplesmente nao entende, nao e, Kruglov? Derrubamos seu helicoptero estupido e precisamos das informacoes que voce esta carregando. De-nos e voce pode levar seus amigos e sair daqui. E sua ultima chance. Entregue-me esse pendrive e suma!</text>
-116|<text>Venha aqui rapido! Meus rapazes pegaram um stalker louco na Floresta Vermelha. Estamos tentando obter algumas informacoes dele agora mesmo!</text>
+116|<text>Venha aqui rapido! Meus rapazes pegaram um stalker louco na Red Forest. Estamos tentando obter algumas informacoes dele agora mesmo!</text>
 119|<text>Marca, voce e louco?! Pare de atirar AGORA! Isso e uma ordem!</text>
 122|<text>Pare de atirar AGORA, Marca! Faca o que eu digo ou voce e um homem morto!</text>
 125|<text>Voce esta expulso do grupo por quebrar o Codigo, Marca. Voce nao tem amigos na Duty agora.</text>

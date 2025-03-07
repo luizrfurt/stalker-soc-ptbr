@@ -820,7 +820,7 @@
 		<text>O que exatamente?</text>
 	</string>
 	<string id="mil_leader_start_dialog_5003">
-		<text>Se voce estiver disposto, va para o posto avancado perto da saida da Floresta Vermelha. Recebemos relatos de que mutantes ou a Monolith estao planejando uma nova tentativa de invasao la. Os caras precisam de ajuda.</text>
+		<text>Se voce estiver disposto, va para o posto avancado perto da saida da Red Forest. Recebemos relatos de que mutantes ou a Monolith estao planejando uma nova tentativa de invasao la. Os caras precisam de ajuda.</text>
 	</string>
 	<string id="mil_leader_start_dialog_5004">
 		<text>Bem, voce ajudou os caras na Barreira, entao - relaxe.</text>
@@ -835,7 +835,7 @@
 		<text>Que chance?</text>
 	</string>
 	<string id="mil_leader_start_dialog_7003">
-		<text>Certas coisas indicam que muito em breve a Monolith vai tentar invadir pelo lado da Floresta Vermelha. Voce tem que ir ver o Cap - ele e o comandante na Barreira - e ver se ele precisa de ajuda. Bem, e obvio que ele precisa, na verdade...</text>
+		<text>Certas coisas indicam que muito em breve a Monolith vai tentar invadir pelo lado da Red Forest. Voce tem que ir ver o Cap - ele e o comandante na Barreira - e ver se ele precisa de ajuda. Bem, e obvio que ele precisa, na verdade...</text>
 	</string>
 	<string id="mil_leader_start_dialog_7004">
 		<text>OK, eu farei isso.</text>
@@ -898,7 +898,7 @@
 		<text>Tem alguma pergunta?</text>
 	</string>
 	<string id="mil_max_dialog_3002">
-		<text>Sim. Lukash me disse para interceptar o mensageiro da Duty a caminho da Floresta Vermelha para a Dead City. Voce poderia me dizer o melhor lugar para fazer isso?</text>
+		<text>Sim. Lukash me disse para interceptar o mensageiro da Duty a caminho da Red Forest para a Dead City. Voce poderia me dizer o melhor lugar para fazer isso?</text>
 	</string>
 	<string id="mil_max_dialog_3003">
 		<text>Hmm. O melhor seria pega-lo antes que ele chegasse a fazenda perto da passagem para a Dead City. Reforcos certamente estarao esperando por ele la, entao voce teria problemas para lidar com todos eles. Alem disso, assim voce teria que passar pela vila, o que e ruim. E melhor ir para o leste da vila, e rapido.</text>

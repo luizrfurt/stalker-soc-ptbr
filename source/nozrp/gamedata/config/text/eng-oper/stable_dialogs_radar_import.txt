@@ -14,8 +14,8 @@
 43|<text>Voce viu algum soldado por perto?</text>
 46|<text>Nao, nao vejo nenhum soldado ha muito tempo.</text>
 49|<text>E stalkers militares?</text>
-52|<text>Ha rumores de que eles apareceram perto da Floresta Vermelha, perto das antenas! Quando foram desligadas, muitas pessoas foram para a Floresta Vermelha e mais adiante em Prypiat! Estamos aqui ha um dia e nao vimos ninguem. Alguem provavelmente bloqueou a estrada aqui.</text>
-55|<text>Voce acha que os militares bloquearam a estrada para a Floresta Vermelha?</text>
+52|<text>Ha rumores de que eles apareceram perto da Red Forest, perto das antenas! Quando foram desligadas, muitas pessoas foram para a Red Forest e mais adiante em Prypiat! Estamos aqui ha um dia e nao vimos ninguem. Alguem provavelmente bloqueou a estrada aqui.</text>
+55|<text>Voce acha que os militares bloquearam a estrada para a Red Forest?</text>
 58|<text>Nao acho que foram os militares, nao vejo nenhum ha muito tempo, mas os stalkers militares poderiam ter feito isso! Eles nao perdem tempo. Eles sao do tipo direto, trabalham de forma rapida e eficiente em suas equipes ou sozinhos... e estranho que eles nao tenham bloqueado a estrada aqui antes.</text>
 61|<text>Por que eles nao foram para Prypiat ou bloquearam a estrada la?</text>
 64|<text>Nao sei. Talvez estejam com medo ou se preparando para algo. So posso adivinhar.</text>

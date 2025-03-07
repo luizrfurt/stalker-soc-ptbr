@@ -271,12 +271,12 @@
 814|<text>Voce ainda esta aqui?</text>
 817|<text>Otimo trabalho, Marca! Aqui, pegue isso... seu pagamento por cuidar do dedo-duro. Voce pode descansar em nosso territorio sempre que quiser e tambem pode contar com nossa ajuda. So que, ha mais um negocio que eu gostaria que voce fizesse para mim. Voce nao esta muito cansado?</text>
 820|<text>O que exatamente?</text>
-823|<text>Se voce estiver disposto, va para o posto avancado perto da saida da Floresta Vermelha. Recebemos relatos de que mutantes ou a Monolith estao planejando uma nova tentativa de invasao la. Os caras precisam de ajuda.</text>
+823|<text>Se voce estiver disposto, va para o posto avancado perto da saida da Red Forest. Recebemos relatos de que mutantes ou a Monolith estao planejando uma nova tentativa de invasao la. Os caras precisam de ajuda.</text>
 826|<text>Bem, voce ajudou os caras na Barreira, entao - relaxe.</text>
 829|<text>Relaxe. Nao ha trabalho agora.</text>
 832|<text>E, voce estragou essa missao... que droga. Ainda assim, sempre ha outra chance!</text>
 835|<text>Que chance?</text>
-838|<text>Certas coisas indicam que muito em breve a Monolith vai tentar invadir pelo lado da Floresta Vermelha. Voce tem que ir ver o Cap - ele e o comandante na Barreira - e ver se ele precisa de ajuda. Bem, e obvio que ele precisa, na verdade...</text>
+838|<text>Certas coisas indicam que muito em breve a Monolith vai tentar invadir pelo lado da Red Forest. Voce tem que ir ver o Cap - ele e o comandante na Barreira - e ver se ele precisa de ajuda. Bem, e obvio que ele precisa, na verdade...</text>
 841|<text>OK, eu farei isso.</text>
 844|<text>Nao, nao vou fazer isso ainda.</text>
 847|<text>Pense nos nossos caras, eles vao ser massacrados! Veja bem, nao ha mais ninguem alem de voce que eu possa enviar... ninguem.</text>
@@ -297,7 +297,7 @@
 892|<text>Cerca de seis a oito pessoas. Razoavelmente equipados.</text>
 895|<text>Va falar com Lukash.</text>
 898|<text>Tem alguma pergunta?</text>
-901|<text>Sim. Lukash me disse para interceptar o mensageiro da Duty a caminho da Floresta Vermelha para a Dead City. Voce poderia me dizer o melhor lugar para fazer isso?</text>
+901|<text>Sim. Lukash me disse para interceptar o mensageiro da Duty a caminho da Red Forest para a Dead City. Voce poderia me dizer o melhor lugar para fazer isso?</text>
 904|<text>Hmm. O melhor seria pega-lo antes que ele chegasse a fazenda perto da passagem para a Dead City. Reforcos certamente estarao esperando por ele la, entao voce teria problemas para lidar com todos eles. Alem disso, assim voce teria que passar pela vila, o que e ruim. E melhor ir para o leste da vila, e rapido.</text>
 907|<text>O que tem na vila?</text>
 910|<text>Acredite em mim - nem uma unica coisa boa. Muitos monstros vagando por ai, e anomalias tambem. Eu te conto sobre isso mais tarde.</text>

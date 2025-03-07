@@ -251,7 +251,7 @@
 754|<text>O que voce quer?</text>
 757|<text>Voce e Careca? Preciso falar com voce.</text>
 760|<text>Suponha que sim. O que voce quer?</text>
-763|<text>Sardento foi salvo da Floresta Vermelha, mas Corcunda esta morto.</text>
+763|<text>Sardento foi salvo da Red Forest, mas Corcunda esta morto.</text>
 766|<text>Droga!</text>
 769|<text>Sardento esta em mau estado, seu cerebro nao funciona mais. Talvez voce possa falar com ele? Precisamos descobrir o cronograma do Desintegrador Psiquico.</text>
 772|<text>Nao! Nao me peca para fazer isso. Corcunda esta morto por minha causa e o que aconteceu com Sardento tambem e minha culpa. Eu os deixei, os trai, os abandonei e fugi! Nao posso olhar Sardento nos olhos depois do que fiz!</text>

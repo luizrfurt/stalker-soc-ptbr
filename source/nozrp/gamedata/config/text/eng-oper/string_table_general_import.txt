@@ -24,7 +24,7 @@
 73|<text>Wild Territory</text>
 76|<text>Army warehouses</text>
 79|<text>Yantar</text>
-82|<text>Floresta Vermelha</text>
+82|<text>Red Forest</text>
 85|<text>Prypiat</text>
 88|<text>Usina Nuclear de Chernobyl</text>
 91|<text>Usina Nuclear de Chernobyl</text>
