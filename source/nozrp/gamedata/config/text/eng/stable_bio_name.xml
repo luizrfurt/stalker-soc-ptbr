@@ -74,7 +74,7 @@
 		<text>Bromo</text>
 	</string>
 	<string id="bar_hunter_bio">
-		<text>Cara bem-humorado e alegre cujo unico problema e que ele nao consegue atirar com nada alem de um rifle de caca. Cacador nem experimentou outras armas ultimamente. Ele recentemente se envolveu em uma briga no Territorio Selvagem e perdeu seu rifle de familia. Agora ele esta descansando no bar esperando que alguem devolva seu rifle.</text>
+		<text>Cara bem-humorado e alegre cujo unico problema e que ele nao consegue atirar com nada alem de um rifle de caca. Cacador nem experimentou outras armas ultimamente. Ele recentemente se envolveu em uma briga no Wild Territory e perdeu seu rifle de familia. Agora ele esta descansando no bar esperando que alguem devolva seu rifle.</text>
 	</string>
 	<string id="bar_hunter_name">
 		<text>Cacador</text>
@@ -494,7 +494,7 @@
 		<text>Freeman</text>
 	</string>
 	<string id="ros_happy_bio">
-		<text>Saqueador e assassino. Uma recompensa foi colocada por sua cabeca. Anteriormente em bons termos com a Duty, ajudou-os a conquistar seu territorio. Agora habita o Territorio Selvagem e assalta stalkers solitarios com sua gangue.</text>
+		<text>Saqueador e assassino. Uma recompensa foi colocada por sua cabeca. Anteriormente em bons termos com a Duty, ajudou-os a conquistar seu territorio. Agora habita o Wild Territory e assalta stalkers solitarios com sua gangue.</text>
 	</string>
 	<string id="ros_happy_name">
 		<text>Sortudo</text>

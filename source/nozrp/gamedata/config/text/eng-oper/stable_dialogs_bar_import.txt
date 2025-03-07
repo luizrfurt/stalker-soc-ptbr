@@ -43,7 +43,7 @@
 130|<text>Nao, nao tenho nada hoje.</text>
 133|<text>Va direto ao ponto. O que eu tenho que fazer?</text>
 136|<text>Nao, nao tenho nada hoje.</text>
-139|<text>Tenho uma missao seria. Um grupo de assassinos veteranos apareceu novamente no Territorio Selvagem. Algumas pessoas da Duty vieram ate mim e pediram para eu lidar com esses veteranos. O Duty tem provas solidas de que eles sao responsaveis pelas mortes de stalkers solitarios. O problema e que esses veteranos e a Duty tem um acordo antigo e a Duty nao pode quebra-lo, mas esses caras estao realmente forcando a barra. Basicamente, a Duty quer que eles sejam eliminados, de forma discreta. Nao vai ser facil, mas o trabalho vale muita grana.</text>
+139|<text>Tenho uma missao seria. Um grupo de assassinos veteranos apareceu novamente no Wild Territory. Algumas pessoas da Duty vieram ate mim e pediram para eu lidar com esses veteranos. O Duty tem provas solidas de que eles sao responsaveis pelas mortes de stalkers solitarios. O problema e que esses veteranos e a Duty tem um acordo antigo e a Duty nao pode quebra-lo, mas esses caras estao realmente forcando a barra. Basicamente, a Duty quer que eles sejam eliminados, de forma discreta. Nao vai ser facil, mas o trabalho vale muita grana.</text>
 142|<text>Algo mais? Parece estranho que a Duty esteja deixando eles escaparem impunes.</text>
 145|<text>O Duty valoriza sua reputacao, e e por isso que eles precisam que isso seja feito discretamente. Tudo o que voce precisa fazer e matar o lider deles, Sortudo, e me trazer o PDA dele como prova.</text>
 148|<text>Eu vou fazer isso. Espero nao me arrepender de ter aceitado.</text>
@@ -51,13 +51,13 @@
 154|<text>Nao, nao estou pronto para isso.</text>
 157|<text>Voce decide, mas lembre-se que esta e uma boa oportunidade de ganhar a gratidao da Duty.</text>
 160|<text>Va direto ao ponto. O que eu tenho que fazer?</text>
-163|<text>Sua missao e matar Tirano, o lider dos Mercs. A equipe dele entrou no Territorio Selvagem e montou uma base no canteiro de obras. Tenha cuidado, alguns dos lutadores deles montaram emboscadas no caminho para o local. Traga-me o PDA de Tirano e a recompensa e sua.</text>
+163|<text>Sua missao e matar Tirano, o lider dos Mercs. A equipe dele entrou no Wild Territory e montou uma base no canteiro de obras. Tenha cuidado, alguns dos lutadores deles montaram emboscadas no caminho para o local. Traga-me o PDA de Tirano e a recompensa e sua.</text>
 166|<text>Eu vou fazer isso. Espero nao me arrepender de ter aceitado.</text>
 169|<text>Boa decisao, cara. Nao ha nada para se arrepender.</text>
 172|<text>Nao, nao estou pronto para isso.</text>
 175|<text>Como desejar.</text>
 178|<text>Nao, nao tenho nada hoje.</text>
-181|<text>Sua missao e matar Tirano, o lider dos Mercs. A equipe dele entrou no Territorio Selvagem e montou uma base no canteiro de obras. Tenha cuidado, alguns dos lutadores deles montaram emboscadas no caminho para o local. Traga-me o PDA de Tirano e a recompensa e sua.</text>
+181|<text>Sua missao e matar Tirano, o lider dos Mercs. A equipe dele entrou no Wild Territory e montou uma base no canteiro de obras. Tenha cuidado, alguns dos lutadores deles montaram emboscadas no caminho para o local. Traga-me o PDA de Tirano e a recompensa e sua.</text>
 184|<text>Eu vou fazer isso. Espero nao me arrepender de ter aceitado.</text>
 187|<text>Boa decisao, cara. Nao ha nada para se arrepender.</text>
 190|<text>Nao, nao estou pronto para isso.</text>
@@ -65,7 +65,7 @@
 196|<text>Nao, nao tenho nada hoje.</text>
 199|<text>Nao se deixe levar, Marca. Voce esta procurando mais trabalho, mas ainda nem lidou com os veteranos...</text>
 202|<text>Nao, nada hoje.</text>
-205|<text>Tenho uma missao seria. Um grupo de assassinos veteranos apareceu novamente no Territorio Selvagem. Algumas pessoas da Duty vieram ate mim e pediram para eu lidar com esses veteranos. O Duty tem provas solidas de que eles sao responsaveis pelas mortes de stalkers solitarios. O problema e que esses veteranos e a Duty tem um acordo antigo e a Duty nao pode quebra-lo, mas esses caras estao realmente forcando a barra. Basicamente, a Duty quer que eles sejam eliminados, de forma discreta. Nao vai ser facil, mas o trabalho vale muita grana.</text>
+205|<text>Tenho uma missao seria. Um grupo de assassinos veteranos apareceu novamente no Wild Territory. Algumas pessoas da Duty vieram ate mim e pediram para eu lidar com esses veteranos. O Duty tem provas solidas de que eles sao responsaveis pelas mortes de stalkers solitarios. O problema e que esses veteranos e a Duty tem um acordo antigo e a Duty nao pode quebra-lo, mas esses caras estao realmente forcando a barra. Basicamente, a Duty quer que eles sejam eliminados, de forma discreta. Nao vai ser facil, mas o trabalho vale muita grana.</text>
 208|<text>Algo mais?</text>
 211|<text>O Duty valoriza sua reputacao, e e por isso que eles precisam que isso seja feito discretamente. Tudo o que voce precisa fazer e matar o lider deles, Sortudo, e me trazer o PDA dele como prova.</text>
 214|<text>Eu vou fazer isso.</text>
@@ -73,7 +73,7 @@
 220|<text>Nao, nao estou pronto para isso.</text>
 223|<text>Voce decide, mas lembre-se que esta e uma boa oportunidade de ganhar a gratidao da Duty.</text>
 226|<text>texto padrao</text>
-229|<text>Sua missao e matar Tirano, o lider dos Mercs. A equipe dele entrou no Territorio Selvagem e montou uma base no canteiro de obras. Tenha cuidado, alguns dos lutadores deles montaram emboscadas no caminho para o local. Traga-me o PDA de Tirano e a recompensa e sua.</text>
+229|<text>Sua missao e matar Tirano, o lider dos Mercs. A equipe dele entrou no Wild Territory e montou uma base no canteiro de obras. Tenha cuidado, alguns dos lutadores deles montaram emboscadas no caminho para o local. Traga-me o PDA de Tirano e a recompensa e sua.</text>
 232|<text>Eu vou fazer isso.</text>
 235|<text>Boa decisao, cara. Nao ha nada para se arrepender.</text>
 238|<text>Nao, nao estou pronto para isso.</text>
@@ -85,7 +85,7 @@
 256|<text>Ainda nao, da proxima vez.</text>
 259|<text>Tenho um trabalho para um profissional.</text>
 262|<text>Va direto ao ponto. O que eu tenho que fazer?</text>
-265|<text>Sua missao e matar Tirano, o lider dos Mercs. A equipe dele entrou no Territorio Selvagem e montou uma base no canteiro de obras. Tenha cuidado, alguns dos lutadores deles montaram emboscadas no caminho para o local. Traga-me o PDA de Tirano e a recompensa e sua.</text>
+265|<text>Sua missao e matar Tirano, o lider dos Mercs. A equipe dele entrou no Wild Territory e montou uma base no canteiro de obras. Tenha cuidado, alguns dos lutadores deles montaram emboscadas no caminho para o local. Traga-me o PDA de Tirano e a recompensa e sua.</text>
 268|<text>Eu vou fazer isso. Espero nao me arrepender de ter aceitado.</text>
 271|<text>Boa decisao, cara. Nao ha nada para se arrepender.</text>
 274|<text>Nao, nao estou pronto para isso.</text>
@@ -182,7 +182,7 @@
 547|<text>Nao. Tenho coisas mais importantes para fazer.</text>
 550|<text>Voce decide... mas espero que mude de ideia.</text>
 553|<text>Veremos.</text>
-556|<text>Tenho um grande problema, cara! Eu... eu perdi meu rifle de familia no Territorio Selvagem. Eu queria atirar em alguns sanguessugas, mas mal consegui escapar. Droga! Escuta, irmao... se voce o trouxer de volta, eu te pago. Ganhei um pouco de dinheiro aqui e vou te dar tudo, so traga meu rifle de volta. E um rifle de familia, sabe, passado de pai para filho... E eu o perdi! Me acostumei com ele, e como uma extensao do meu braco agora...</text>
+556|<text>Tenho um grande problema, cara! Eu... eu perdi meu rifle de familia no Wild Territory. Eu queria atirar em alguns sanguessugas, mas mal consegui escapar. Droga! Escuta, irmao... se voce o trouxer de volta, eu te pago. Ganhei um pouco de dinheiro aqui e vou te dar tudo, so traga meu rifle de volta. E um rifle de familia, sabe, passado de pai para filho... E eu o perdi! Me acostumei com ele, e como uma extensao do meu braco agora...</text>
 559|<text>Ei! Alguma novidade? Voce o encontrou?!</text>
 562|<text>Obrigado, irmao! Nunca vou esquecer que voce me ajudou!</text>
 565|<text>Galgo disse que voce tem algo para mim.</text>
@@ -219,9 +219,9 @@
 658|<text>Nao tenho nenhuma informacao nova no momento.</text>
 661|<text>...ja estava na hora de alguem detonar Borov! Se eu soubesse quem foi, pagaria uma bebida para ele.</text>
 664|<text>Sim, ja estava na hora.</text>
-667|<text>...alguem realmente irritou a Freedom: ouvi dizer que um dos grupos deles foi destruido no Territorio Selvagem... quem sera que fez isso?</text>
+667|<text>...alguem realmente irritou a Freedom: ouvi dizer que um dos grupos deles foi destruido no Wild Territory... quem sera que fez isso?</text>
 670|<text>Sim, quem dera eu soubesse...</text>
-673|<text>...finalmente alguem teve coragem de limpar os sanguessugas no Territorio Selvagem... O que a Duty estava fazendo todo esse tempo?</text>
+673|<text>...finalmente alguem teve coragem de limpar os sanguessugas no Wild Territory... O que a Duty estava fazendo todo esse tempo?</text>
 676|<text>O que a Duty estava fazendo? Eles estavam fazendo a Freedom, o que mais?</text>
 679|<text>...ouvi dizer que alguem detonou o lider da Freedom. Eles vao passar por momentos dificeis, eu acho. O Duty vai realmente apertar eles...</text>
 682|<text>Esperemos que sim.</text>
@@ -265,7 +265,7 @@
 796|<text>Eu me pergunto onde ele esta agora.</text>
 799|<text>O que voce quer?</text>
 802|<text>O que ha de novo?</text>
-805|<text>O Territorio Selvagem esta infestado de sanguessugas agora! Eles saem a noite. Ouvi dizer que ha algo muito importante na fabrica que fica ali perto, algo essencial para alguem. O Duty mandou uns caras la recentemente, mas todos morreram e seus gritos foram ouvidos a quilometros de distancia.</text>
+805|<text>O Wild Territory esta infestado de sanguessugas agora! Eles saem a noite. Ouvi dizer que ha algo muito importante na fabrica que fica ali perto, algo essencial para alguem. O Duty mandou uns caras la recentemente, mas todos morreram e seus gritos foram ouvidos a quilometros de distancia.</text>
 808|<text>Obrigado pela informacao.</text>
 811|<text>O que voce quer?</text>
 814|<text>O que voce ouviu?</text>
@@ -313,7 +313,7 @@
 940|<text>Por que voce esta parado ai? Continue andando.</text>
 943|<text>Va em frente, irmao. Lembre-se: a missao da Duty e limpar.</text>
 946|<text>Por que voces nao deixam estranhos entrarem?</text>
-949|<text>De onde voces, meninos ingenuos, vieram? Ha uma guerra acontecendo, certo? Estamos lutando contra bandidos da Freedom! Temos conflitos regulares com seus lutadores no Territorio Selvagem.</text>
+949|<text>De onde voces, meninos ingenuos, vieram? Ha uma guerra acontecendo, certo? Estamos lutando contra bandidos da Freedom! Temos conflitos regulares com seus lutadores no Wild Territory.</text>
 952|<text>Uma guerra com a Freedom? Por que?</text>
 955|<text>Porque nao ha lugar para esses bandidos da Freedom na Zona - eles devem ser destruidos. Se voce estiver interessado, peca ao Bartender para explicar tudo. Estou ocupado.</text>
 958|<text>Pare! Apenas membros podem entrar la! Nao podemos deixa-lo entrar no bunker sem um passe especial. Se voce quiser obter um, va ver o Coronel Petrenko. Ele esta na area administrativa do outro lado do patio.</text>

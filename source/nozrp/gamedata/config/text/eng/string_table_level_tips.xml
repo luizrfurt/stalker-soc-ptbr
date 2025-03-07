@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="windows-1251" ?>
 <string_table>
 	<string id="bar_rostok">
-		<text>Territorio Selvagem - Rostok</text>
+		<text>Wild Territory - Rostok</text>
 	</string>
 	<string id="car_character_use">
 		<text>Abrir a porta ($$ACTION_USE$$)</text>
@@ -85,7 +85,7 @@
 		<text>Para o Desintegrador Psiquico</text>
 	</string>
 	<string id="to_rostok">
-		<text>Para o Territorio Selvagem</text>
+		<text>Para o Wild Territory</text>
 	</string>
 	<string id="to_yantar">
 		<text>Para Yantar</text>

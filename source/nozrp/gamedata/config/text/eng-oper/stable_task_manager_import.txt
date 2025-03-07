@@ -14,11 +14,11 @@
 43|<text>Elimine os bandidos na fazenda.</text>
 46|<text>E tudo simples: limpe a fazenda dos bandidos.</text>
 49|<text>Ha a fazenda perto dos antigos armazens. Costumava ser um lugar perfeito para um encontro, para trocar mercadorias, sabe... esse tipo de coisa. Mas agora os bandidos a ocuparam e, pelo que parece, nao estao prestes a ir embora. Agora, isso nao me agrada nem um pouco. Preciso dessa fazenda o mais rapido possivel. Nao me importo com o que acontece com os inquilinos.</text>
-52|<text>Expulse o acampamento de bandidos no Territorio Selvagem</text>
-55|<text>Expulse o acampamento de bandidos no Territorio Selvagem</text>
-58|<text>Ha bandidos no Territorio Selvagem. Nao podemos deixar essa escoria da sociedade criar insalubridade bem perto do bar. E essencial exterminar o acampamento deles.</text>
-61|<text>Destrua o covil de caes mutantes selvagens no Territorio Selvagem</text>
-64|<text>Destrua o covil de caes mutantes selvagens no Territorio Selvagem</text>
+52|<text>Expulse o acampamento de bandidos no Wild Territory</text>
+55|<text>Expulse o acampamento de bandidos no Wild Territory</text>
+58|<text>Ha bandidos no Wild Territory. Nao podemos deixar essa escoria da sociedade criar insalubridade bem perto do bar. E essencial exterminar o acampamento deles.</text>
+61|<text>Destrua o covil de caes mutantes selvagens no Wild Territory</text>
+64|<text>Destrua o covil de caes mutantes selvagens no Wild Territory</text>
 67|<text>Alguns de nossos caras foram em uma expedicao, voltaram sozinhos. Todos rasgados, sangrentos, olhos vidrados. Encontraram caes, muito provavelmente. Ha um bando inteiro deles la. Entao, encontre o covil deles e mate todos eles.</text>
 70|<text>Destrua o grupo de bandidos em Agroprom.</text>
 73|<text>Destrua o grupo de bandidos em Agroprom.</text>
@@ -93,7 +93,7 @@
 280|<text>Elimine os snorks nos tuneis do setor Yantar.</text>
 283|<text>Desta vez voce precisara fazer uma limpeza. Os tuneis em Yantar estao simplesmente cheios de snorks: ha cerca de dez deles la. Sim, agora voce nao pode mais enfrentar a tempestade la como antes...</text>
 286|<text>Destrua a manada de carniceiros</text>
-289|<text>Destrua a manada de carniceiros no Territorio Selvagem.</text>
+289|<text>Destrua a manada de carniceiros no Wild Territory.</text>
 292|<text>Rastreamos a migracao de uma grande manada de feras... Mutantes bastante repugnantes, semelhantes a porcos, que todos chamam de carniceiros. Agora eles estao na area do Garbage. Todas as nossas pessoas estao ocupadas, mas essas feras precisam ser destruidas. E um tipo especial de trabalho - vamos pagar.</text>
 295|<text>Destrua os pseudocaes</text>
 298|<text>Limpe o covil de pseudocaes perto dos armazens militares.</text>
@@ -101,12 +101,12 @@
 304|<text>Destrua o posto de seguranca dos Mercs</text>
 307|<text>Destrua o posto de seguranca dos Mercs nao muito longe dos armazens militares.</text>
 310|<text>Ultimamente tem havido um aumento na atividade de grupos de Mercs, houve alguns ataques aos cientistas, pesquisadores que trabalham na zona. Nao podemos deixar isso impune. Precisamos realizar uma pequena operacao punitiva. O objetivo: o posto de seguranca dos Mercs perto dos armazens militares, atras da vila abandonada.</text>
-313|<text>Destrua os Mercs no Territorio Selvagem</text>
-316|<text>Destrua os Mercs no Territorio Selvagem</text>
-319|<text>Um grupo de cientistas esta planejando estudar o Territorio Selvagem. Mas ultimamente nao tem sido seguro la, os Mercs foram ativados. Certifique-se de que nao haja mais Mercs no Territorio Selvagem.</text>
+313|<text>Destrua os Mercs no Wild Territory</text>
+316|<text>Destrua os Mercs no Wild Territory</text>
+319|<text>Um grupo de cientistas esta planejando estudar o Wild Territory. Mas ultimamente nao tem sido seguro la, os Mercs foram ativados. Certifique-se de que nao haja mais Mercs no Wild Territory.</text>
 322|<text>Mate os bandidos</text>
-325|<text>Mate os bandidos que entraram no Territorio Selvagem.</text>
-328|<text>Vou ser breve. Os bandidos contornaram nossos postos de seguranca no Bar e agora estao localizados no Territorio Selvagem. Eles precisam ser eliminados.</text>
+325|<text>Mate os bandidos que entraram no Wild Territory.</text>
+328|<text>Vou ser breve. Os bandidos contornaram nossos postos de seguranca no Bar e agora estao localizados no Wild Territory. Eles precisam ser eliminados.</text>
 331|<text>Destrua o controlador</text>
 334|<text>Destrua o controlador em Yantar.</text>
 337|<text>Para realizar esta tarefa, voce precisa ter habilidades especiais. Os cientistas nos informaram que notaram um controlador em Yantar, na entrada do laboratorio subterraneo (no predio central). Os controladores sao muito perigosos, mas tenho certeza de que voce vai conseguir.</text>
@@ -129,8 +129,8 @@
 388|<text>Destrua o covil dos snorks em Yantar.</text>
 391|<text>Quero oferecer-lhe uma pequena quantia de dinheiro que voce recebera se os snorks que vivem nos pantanos pararem de incomodar a mim e aos meus colegas. As vezes, quando estamos realizando nossos experimentos, nao conseguimos nem nos concentrar.</text>
 394|<text>Destrua o covil de caes selvagens</text>
-397|<text>Limpe o covil de caes selvagens no Territorio Selvagem</text>
-400|<text>Ha um covil de caes mutantes no Territorio Selvagem, quero que voce viaje ate la e limpe-o. Esses mutantes sao particularmente perigosos para nossas expedicoes. Sei que os zoologos nao vao gostar disso, mas isso nao e um zoologico aqui, devo admitir. Tais feras espalham raiva, peste ou Deus sabe o que.</text>
+397|<text>Limpe o covil de caes selvagens no Wild Territory</text>
+400|<text>Ha um covil de caes mutantes no Wild Territory, quero que voce viaje ate la e limpe-o. Esses mutantes sao particularmente perigosos para nossas expedicoes. Sei que os zoologos nao vao gostar disso, mas isso nao e um zoologico aqui, devo admitir. Tais feras espalham raiva, peste ou Deus sabe o que.</text>
 403|<text>Traga o artefato Bola de Fogo</text>
 406|<text>Traga o artefato Bola de Fogo para os cientistas para pesquisas</text>
 409|<text>Conseguimos obter o artefato em condicoes de laboratorio! Isso e um avanco! Agora o mundo inteiro ouvira sobre nosso sucesso. E o Premio Nobel estara proximo! Este e o artefato unico - "Pelicula", sua principal qualidade e proteger contra queimaduras quimicas. Voce quer que eu o de a voce em nome da ciencia? No entanto, tenho um pedido - em troca, preciso do artefato "Bola de Fogo", voce conhece tal artefato? As qualidades termicas unicas de sua superficie exigem uma pesquisa completa.</text>
@@ -191,8 +191,8 @@
 574|<text>Destrua a manada de javalis e carniceiros perto dos armazens militares.</text>
 577|<text>Nosso sniper fica na entrada da base. Ele fica la na torre a noite... esta quieto, noite... e de repente ha uma explosao, guinchos selvagens, um flash! Que diabos!... Acontece que javalis e carniceiros pegaram o habito de vagar por perto do campo minado. O diabo sabe o que os faz ir la, mas com certeza pelo menos uma vez por semana uma dessas feras e despedacada por uma mina. A tarefa e simples - mate todos esses otarios. Voce vai fazer isso?</text>
 580|<text>Destrua a manada de roedores</text>
-583|<text>Destrua a manada de roedores no Territorio Selvagem.</text>
-586|<text>Nao ha roedores perto de nossa base, essas criaturas podem chegar a qualquer lugar. E recentemente havia tantos deles aqui - voce nao acreditaria. Dois meses lidamos com eles... hehehe. Entao, descobrimos de onde os roedores vieram para nossa base. Do Territorio Selvagem, entendeu? Ha um medo de que esses ratos saltadores se multipliquem e voltem. Precisamos de um homem para cuidar deles para nos. Voce vai?</text>
+583|<text>Destrua a manada de roedores no Wild Territory.</text>
+586|<text>Nao ha roedores perto de nossa base, essas criaturas podem chegar a qualquer lugar. E recentemente havia tantos deles aqui - voce nao acreditaria. Dois meses lidamos com eles... hehehe. Entao, descobrimos de onde os roedores vieram para nossa base. Do Wild Territory, entendeu? Ha um medo de que esses ratos saltadores se multipliquem e voltem. Precisamos de um homem para cuidar deles para nos. Voce vai?</text>
 589|<text>Roube o rifle de sniper</text>
 592|<text>Roube o SVDm 2 modificado do armazem da Duty.</text>
 595|<text>Ha uma tarefa especial. E bem dificil, tambem... Entao, voce precisara recuperar um Dragunov aprimorado do armazem da Duty. Esta peca tem ate um nome proprio, mas deixe para la. O principal e que com sua luneta incrivel e cancelador de recuo voce pode atirar em um esquilo no olho a 400 metros. Entao, confio que voce fara isso!</text>

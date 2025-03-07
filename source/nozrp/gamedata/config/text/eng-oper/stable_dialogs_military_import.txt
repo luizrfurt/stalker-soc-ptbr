@@ -176,7 +176,7 @@
 529|<text>Obrigado.</text>
 532|<text>Boa sorte, Marca.</text>
 535|<text>Que lugar e este?</text>
-538|<text>Chamamos de Barreira... e basicamente isso. E o ultimo posto avancado normal deste lado do centro da Zona. E uma especie de amortecedor, sabe, entre as pessoas e o Territorio Selvagem.</text>
+538|<text>Chamamos de Barreira... e basicamente isso. E o ultimo posto avancado normal deste lado do centro da Zona. E uma especie de amortecedor, sabe, entre as pessoas e o Wild Territory.</text>
 541|<text>O que ha alem dele?</text>
 544|<text>Apenas morte... ou servir o Monolito. "Nosso Monolito! Em seu nome nos..." Droga! Em resumo, ninguem precisa ir la. E por isso que estamos baseados aqui, tentando evitar que a sujeira infeste a Zona. Como uma especie de Jedis, hehe. Tambem detemos os realmente estupidos - ou pelo menos tentamos nao deixa-los entrar no centro.</text>
 547|<text>Por que voces fazem isso?</text>

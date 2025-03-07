@@ -49,19 +49,19 @@
 		<text>Ha a fazenda perto dos antigos armazens. Costumava ser um lugar perfeito para um encontro, para trocar mercadorias, sabe... esse tipo de coisa. Mas agora os bandidos a ocuparam e, pelo que parece, nao estao prestes a ir embora. Agora, isso nao me agrada nem um pouco. Preciso dessa fazenda o mais rapido possivel. Nao me importo com o que acontece com os inquilinos.</text>
 	</string>
 	<string id="barmen_eliminate_camp_4">
-		<text>Expulse o acampamento de bandidos no Territorio Selvagem</text>
+		<text>Expulse o acampamento de bandidos no Wild Territory</text>
 	</string>
 	<string id="barmen_eliminate_camp_4_descr">
-		<text>Expulse o acampamento de bandidos no Territorio Selvagem</text>
+		<text>Expulse o acampamento de bandidos no Wild Territory</text>
 	</string>
 	<string id="barmen_eliminate_camp_4_text">
-		<text>Ha bandidos no Territorio Selvagem. Nao podemos deixar essa escoria da sociedade criar insalubridade bem perto do bar. E essencial exterminar o acampamento deles.</text>
+		<text>Ha bandidos no Wild Territory. Nao podemos deixar essa escoria da sociedade criar insalubridade bem perto do bar. E essencial exterminar o acampamento deles.</text>
 	</string>
 	<string id="barmen_eliminate_camp_5">
-		<text>Destrua o covil de caes mutantes selvagens no Territorio Selvagem</text>
+		<text>Destrua o covil de caes mutantes selvagens no Wild Territory</text>
 	</string>
 	<string id="barmen_eliminate_camp_5_descr">
-		<text>Destrua o covil de caes mutantes selvagens no Territorio Selvagem</text>
+		<text>Destrua o covil de caes mutantes selvagens no Wild Territory</text>
 	</string>
 	<string id="barmen_eliminate_camp_5_text">
 		<text>Alguns de nossos caras foram em uma expedicao, voltaram sozinhos. Todos rasgados, sangrentos, olhos vidrados. Encontraram caes, muito provavelmente. Ha um bando inteiro deles la. Entao, encontre o covil deles e mate todos eles.</text>
@@ -286,7 +286,7 @@
 		<text>Destrua a manada de carniceiros</text>
 	</string>
 	<string id="dolg_eliminate_lager_2_descr">
-		<text>Destrua a manada de carniceiros no Territorio Selvagem.</text>
+		<text>Destrua a manada de carniceiros no Wild Territory.</text>
 	</string>
 	<string id="dolg_eliminate_lager_2_text">
 		<text>Rastreamos a migracao de uma grande manada de feras... Mutantes bastante repugnantes, semelhantes a porcos, que todos chamam de carniceiros. Agora eles estao na area do Garbage. Todas as nossas pessoas estao ocupadas, mas essas feras precisam ser destruidas. E um tipo especial de trabalho - vamos pagar.</text>
@@ -310,22 +310,22 @@
 		<text>Ultimamente tem havido um aumento na atividade de grupos de Mercs, houve alguns ataques aos cientistas, pesquisadores que trabalham na zona. Nao podemos deixar isso impune. Precisamos realizar uma pequena operacao punitiva. O objetivo: o posto de seguranca dos Mercs perto dos armazens militares, atras da vila abandonada.</text>
 	</string>
 	<string id="dolg_eliminate_lager_5">
-		<text>Destrua os Mercs no Territorio Selvagem</text>
+		<text>Destrua os Mercs no Wild Territory</text>
 	</string>
 	<string id="dolg_eliminate_lager_5_descr">
-		<text>Destrua os Mercs no Territorio Selvagem</text>
+		<text>Destrua os Mercs no Wild Territory</text>
 	</string>
 	<string id="dolg_eliminate_lager_5_text">
-		<text>Um grupo de cientistas esta planejando estudar o Territorio Selvagem. Mas ultimamente nao tem sido seguro la, os Mercs foram ativados. Certifique-se de que nao haja mais Mercs no Territorio Selvagem.</text>
+		<text>Um grupo de cientistas esta planejando estudar o Wild Territory. Mas ultimamente nao tem sido seguro la, os Mercs foram ativados. Certifique-se de que nao haja mais Mercs no Wild Territory.</text>
 	</string>
 	<string id="dolg_eliminate_lager_6">
 		<text>Mate os bandidos</text>
 	</string>
 	<string id="dolg_eliminate_lager_6_descr">
-		<text>Mate os bandidos que entraram no Territorio Selvagem.</text>
+		<text>Mate os bandidos que entraram no Wild Territory.</text>
 	</string>
 	<string id="dolg_eliminate_lager_6_text">
-		<text>Vou ser breve. Os bandidos contornaram nossos postos de seguranca no Bar e agora estao localizados no Territorio Selvagem. Eles precisam ser eliminados.</text>
+		<text>Vou ser breve. Os bandidos contornaram nossos postos de seguranca no Bar e agora estao localizados no Wild Territory. Eles precisam ser eliminados.</text>
 	</string>
 	<string id="dolg_eliminate_lager_7">
 		<text>Destrua o controlador</text>
@@ -394,10 +394,10 @@
 		<text>Destrua o covil de caes selvagens</text>
 	</string>
 	<string id="ecolog_eliminate_lager_2_descr">
-		<text>Limpe o covil de caes selvagens no Territorio Selvagem</text>
+		<text>Limpe o covil de caes selvagens no Wild Territory</text>
 	</string>
 	<string id="ecolog_eliminate_lager_2_text">
-		<text>Ha um covil de caes mutantes no Territorio Selvagem, quero que voce viaje ate la e limpe-o. Esses mutantes sao particularmente perigosos para nossas expedicoes. Sei que os zoologos nao vao gostar disso, mas isso nao e um zoologico aqui, devo admitir. Tais feras espalham raiva, peste ou Deus sabe o que.</text>
+		<text>Ha um covil de caes mutantes no Wild Territory, quero que voce viaje ate la e limpe-o. Esses mutantes sao particularmente perigosos para nossas expedicoes. Sei que os zoologos nao vao gostar disso, mas isso nao e um zoologico aqui, devo admitir. Tais feras espalham raiva, peste ou Deus sabe o que.</text>
 	</string>
 	<string id="ecolog_find_artefact_1">
 		<text>Traga o artefato Bola de Fogo</text>
@@ -580,10 +580,10 @@
 		<text>Destrua a manada de roedores</text>
 	</string>
 	<string id="freedom_eliminate_camp_7_descr">
-		<text>Destrua a manada de roedores no Territorio Selvagem.</text>
+		<text>Destrua a manada de roedores no Wild Territory.</text>
 	</string>
 	<string id="freedom_eliminate_camp_7_text">
-		<text>Nao ha roedores perto de nossa base, essas criaturas podem chegar a qualquer lugar. E recentemente havia tantos deles aqui - voce nao acreditaria. Dois meses lidamos com eles... hehehe. Entao, descobrimos de onde os roedores vieram para nossa base. Do Territorio Selvagem, entendeu? Ha um medo de que esses ratos saltadores se multipliquem e voltem. Precisamos de um homem para cuidar deles para nos. Voce vai?</text>
+		<text>Nao ha roedores perto de nossa base, essas criaturas podem chegar a qualquer lugar. E recentemente havia tantos deles aqui - voce nao acreditaria. Dois meses lidamos com eles... hehehe. Entao, descobrimos de onde os roedores vieram para nossa base. Do Wild Territory, entendeu? Ha um medo de que esses ratos saltadores se multipliquem e voltem. Precisamos de um homem para cuidar deles para nos. Voce vai?</text>
 	</string>
 	<string id="freedom_find_item_1">
 		<text>Roube o rifle de sniper</text>

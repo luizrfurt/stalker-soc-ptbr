@@ -23,7 +23,7 @@
 68|<text>Fera</text>
 71|<text>Membro da faccao Duty, mais vezes fora do vagao do que nele. O Duty deu a ele sua ultima chance de redencao ao realizar uma missao. No entanto, ele estava muito bebado para se recompor e realiza-la.</text>
 74|<text>Bromo</text>
-77|<text>Cara bem-humorado e alegre cujo unico problema e que ele nao consegue atirar com nada alem de um rifle de caca. Cacador nem experimentou outras armas ultimamente. Ele recentemente se envolveu em uma briga no Territorio Selvagem e perdeu seu rifle de familia. Agora ele esta descansando no bar esperando que alguem devolva seu rifle.</text>
+77|<text>Cara bem-humorado e alegre cujo unico problema e que ele nao consegue atirar com nada alem de um rifle de caca. Cacador nem experimentou outras armas ultimamente. Ele recentemente se envolveu em uma briga no Wild Territory e perdeu seu rifle de familia. Agora ele esta descansando no bar esperando que alguem devolva seu rifle.</text>
 80|<text>Cacador</text>
 83|<text>Stalker misterioso e sabichao. Troca informacoes no bar.</text>
 86|<text>Dedo-duro</text>
@@ -163,7 +163,7 @@
 488|<text>Um pesquisador do laboratorio movel. Detalhes nao disponiveis.</text>
 491|<text>Cientista, especialista em fenomenos anomalos. Trabalhou na America em projetos ultrassecretos. Dado como desaparecido ha algum tempo.</text>
 494|<text>Freeman</text>
-497|<text>Saqueador e assassino. Uma recompensa foi colocada por sua cabeca. Anteriormente em bons termos com a Duty, ajudou-os a conquistar seu territorio. Agora habita o Territorio Selvagem e assalta stalkers solitarios com sua gangue.</text>
+497|<text>Saqueador e assassino. Uma recompensa foi colocada por sua cabeca. Anteriormente em bons termos com a Duty, ajudou-os a conquistar seu territorio. Agora habita o Wild Territory e assalta stalkers solitarios com sua gangue.</text>
 500|<text>Sortudo</text>
 503|<text>Doutor em biologia. Estudou mutacoes patogenicas em animais fora da Zona. Veio para a Zona para estudar mutacoes de caes cegos.</text>
 506|<text>Professor Kruglov</text>

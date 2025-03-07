@@ -21,7 +21,7 @@
 64|<text>Agroprom Research Institute</text>
 67|<text>Dark Valley</text>
 70|<text>Bar</text>
-73|<text>Territorio Selvagem</text>
+73|<text>Wild Territory</text>
 76|<text>Armazens militares</text>
 79|<text>Yantar</text>
 82|<text>Floresta Vermelha</text>

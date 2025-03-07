@@ -1,4 +1,4 @@
-4|<text>Territorio Selvagem - Rostok</text>
+4|<text>Wild Territory - Rostok</text>
 7|<text>Abrir a porta ($$ACTION_USE$$)</text>
 10|<text>Conversar ($$ACTION_USE$$)</text>
 13|<text>Revistar corpo ($$ACTION_USE$$) \n Arrastar corpo (SHIFT+$$ACTION_USE$$)</text>
@@ -26,7 +26,7 @@
 79|<text>Para os armazens</text>
 82|<text>Para Prypiat</text>
 85|<text>Para o Desintegrador Psiquico</text>
-88|<text>Para o Territorio Selvagem</text>
+88|<text>Para o Wild Territory</text>
 91|<text>Para Yantar</text>
 94|<text>Desligamento da protecao</text>
 97|<text>Nivel critico de emissao psi. Saia da zona perigosa imediatamente.</text>
