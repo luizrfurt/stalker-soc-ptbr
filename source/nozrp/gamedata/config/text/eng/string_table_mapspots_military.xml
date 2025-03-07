@@ -23,10 +23,10 @@
 		<text>Mate o sniper</text>
 	</string>
 	<string id="mil_hunters_hint1">
-		<text>Fale com Sombra</text>
+		<text>Fale com Murk</text>
 	</string>
 	<string id="mil_hunters_hint2">
-		<text>Volte para Avarento</text>
+		<text>Volte para Skinflint</text>
 	</string>
 	<string id="mil_kill_dolg_hint">
 		<text>Destrua o esquadrao da Duty</text>
@@ -35,7 +35,7 @@
 		<text>Mate Lukash</text>
 	</string>
 	<string id="mil_miser_hint">
-		<text>Avarento</text>
+		<text>Skinflint</text>
 	</string>
 	<string id="mil_report_to_max_hint">
 		<text>Reporte-se a Max</text>

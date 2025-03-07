@@ -1,12 +1,12 @@
 2|<text>Voce esta se aproximando da Barreira. Nem pense em brincar. Ficaremos mais do que felizes em aceitar qualquer ajuda.</text>
-5|<text>Marca, venha aqui para sua parte e mais instrucoes</text>
-8|<text>Marca, volte para sua posicao</text>
+5|<text>Marked One, venha aqui para sua parte e mais instrucoes</text>
+8|<text>Marked One, volte para sua posicao</text>
 11|<text>Se voce passar a noite toda na Torre na vila, algo GARANTIDO acontecera...</text>
 14|<text>Nao se esqueca das minas! Um erro e voce vira torrada...</text>
-17|<text>Tenha cuidado, Marca. Aparentemente, ha uma nova anomalia na vila. O bastardo e rapido e invisivel!</text>
+17|<text>Tenha cuidado, Marked One. Aparentemente, ha uma nova anomalia na vila. O bastardo e rapido e invisivel!</text>
 20|<text>Atencao a todos aqueles que desejam liquefazer seus cerebros: a estrada para a Red Forest e protegida por uma unidade Monolith e, como voce provavelmente sabe, esses caras atiram primeiro e nao fazem perguntas depois. Boa sorte.</text>
 23|<text>Ataquem! Vamos acabar com os bastardos!</text>
 26|<text>Nosso trabalho aqui esta feito. Retirem-se para a fazenda. Vamos acertar o pagamento la.</text>
 29|<text>Avante, rapazes! O caminho esta livre!</text>
-32|<text>Marca, derrube aqueles snipers!</text>
-35|<text>Tenha cuidado, Marca, ou voce vai levar um tiro...</text>
+32|<text>Marked One, derrube aqueles snipers!</text>
+35|<text>Tenha cuidado, Marked One, ou voce vai levar um tiro...</text>

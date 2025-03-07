@@ -2,10 +2,10 @@
 		<text>Voce esta se aproximando da Barreira. Nem pense em brincar. Ficaremos mais do que felizes em aceitar qualquer ajuda.</text>
 	</string>
 	<string id="mil_after_sniper_dead">
-		<text>Marca, venha aqui para sua parte e mais instrucoes</text>
+		<text>Marked One, venha aqui para sua parte e mais instrucoes</text>
 	</string>
 	<string id="mil_fblockpost_warning">
-		<text>Marca, volte para sua posicao</text>
+		<text>Marked One, volte para sua posicao</text>
 	</string>
 	<string id="mil_info_freedom_radio">
 		<text>Se voce passar a noite toda na Torre na vila, algo GARANTIDO acontecera...</text>
@@ -14,7 +14,7 @@
 		<text>Nao se esqueca das minas! Um erro e voce vira torrada...</text>
 	</string>
 	<string id="mil_info_max_village">
-		<text>Tenha cuidado, Marca. Aparentemente, ha uma nova anomalia na vila. O bastardo e rapido e invisivel!</text>
+		<text>Tenha cuidado, Marked One. Aparentemente, ha uma nova anomalia na vila. O bastardo e rapido e invisivel!</text>
 	</string>
 	<string id="mil_info_to_all">
 		<text>Atencao a todos aqueles que desejam liquefazer seus cerebros: a estrada para a Red Forest e protegida por uma unidade Monolith e, como voce provavelmente sabe, esses caras atiram primeiro e nao fazem perguntas depois. Boa sorte.</text>
@@ -29,8 +29,8 @@
 		<text>Avante, rapazes! O caminho esta livre!</text>
 	</string>
 	<string id="mil_scull_info">
-		<text>Marca, derrube aqueles snipers!</text>
+		<text>Marked One, derrube aqueles snipers!</text>
 	</string>
 	<string id="mil_sniper_to_player_warning">
-		<text>Tenha cuidado, Marca, ou voce vai levar um tiro...</text>
+		<text>Tenha cuidado, Marked One, ou voce vai levar um tiro...</text>
 	</string>

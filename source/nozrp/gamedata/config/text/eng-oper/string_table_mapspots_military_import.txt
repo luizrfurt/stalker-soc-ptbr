@@ -6,11 +6,11 @@
 17|<text>Pegue o pendrive do stalker louco dele</text>
 20|<text>Fazenda da Duty</text>
 23|<text>Mate o sniper</text>
-26|<text>Fale com Sombra</text>
-29|<text>Volte para Avarento</text>
+26|<text>Fale com Murk</text>
+29|<text>Volte para Skinflint</text>
 32|<text>Destrua o esquadrao da Duty</text>
 35|<text>Mate Lukash</text>
-38|<text>Avarento</text>
+38|<text>Skinflint</text>
 41|<text>Reporte-se a Max</text>
 44|<text>Reporte-se a Lukash</text>
 47|<text>De o pendrive para Max</text>

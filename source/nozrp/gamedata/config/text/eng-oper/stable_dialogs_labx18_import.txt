@@ -3,7 +3,7 @@
 10|<text>Desculpe, nao posso te dizer e nao tenho tempo de qualquer maneira.</text>
 13|<text>Espere, nao corra ainda. Voce tera oportunidades suficientes para isso... O que voce encontrou? Eu mesmo nao estou vagando por aqui a toa, sabe.</text>
 16|<text>O que eu encontrei e problema meu.</text>
-19|<text>Encontrei alguns documentos do X18. O Bartender prometeu me pagar bem por eles.</text>
+19|<text>Encontrei alguns documentos do X18. O Barkeep prometeu me pagar bem por eles.</text>
 22|<text>Nao, nao encontrei nada.</text>
 25|<text>Eu nem sei como vim parar aqui. Adoraria sair daqui o mais rapido possivel.</text>
 28|<text>Voce nao encontrou nada de valioso aqui, encontrou? Dizem que ha algumas informacoes sobre experimentos cientificos. Eles valem um bom dinheiro...</text>

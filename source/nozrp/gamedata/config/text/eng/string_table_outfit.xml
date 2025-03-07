@@ -22,7 +22,7 @@
 		<text>Armadura da Duty PSZ-9d</text>
 	</string>
 	<string id="dolg_outfit_name_m1">
-		<text>Cacador PSZ-9d</text>
+		<text>Hunter PSZ-9d</text>
 	</string>
 	<string id="dolg_scientific_outfit_description">
 		<text>Um maravilhoso traje de protecao para a Zona. Stalkers apreciam porque combina excelentes qualidades a prova de anomalias e a prova de balas. Inclui o traje PSZ-9d, um sistema de respiracao de ciclo fechado e um sistema integrado de supressao de campo anomalo. Fornece protecao de qualidade contra balas e estilhacos.</text>
@@ -118,7 +118,7 @@
 		<text>Traje de stalker</text>
 	</string>
 	<string id="stalker_outfit_name_m1">
-		<text>Traje Fantasma</text>
+		<text>Traje Ghost</text>
 	</string>
 	<string id="stalker_outfit_name_m2">
 		<text>Traje de Turista</text>

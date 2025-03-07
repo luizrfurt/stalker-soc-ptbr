@@ -2,7 +2,7 @@
 		<text>Devolva o rifle de familia do cacador</text>
 	</string>
 	<string id="bar_bring_PDA_lucky">
-		<text>Traga o PDA do lider para Bartender</text>
+		<text>Traga o PDA do lider para Barkeep</text>
 	</string>
 	<string id="bar_crazy_veterans_quest">
 		<text>Mate os veteranos loucos</text>
@@ -11,7 +11,7 @@
 		<text>Registre-se com o comandante da guarda da Duty</text>
 	</string>
 	<string id="bar_dolg_base_rules_fin">
-		<text>Volte para Bartender</text>
+		<text>Volte para Barkeep</text>
 	</string>
 	<string id="bar_dolg_base_rules_talk">
 		<text>Encontre o comandante da guarda da Duty e registre-se</text>
@@ -41,7 +41,7 @@
 		<text>Encontre as informacoes interceptadas sobre o Lab X18</text>
 	</string>
 	<string id="bar_dolg_kill_tiran">
-		<text>Mate Tirano, o lider do esquadrao</text>
+		<text>Mate Tyran, o lider do esquadrao</text>
 	</string>
 	<string id="bar_dolg_return_info">
 		<text>Devolva as informacoes sobre o Lab X18 para o General Voronin</text>
@@ -59,7 +59,7 @@
 		<text>Entregue as listras para o General Voronin</text>
 	</string>
 	<string id="bar_dolg_tiran_PDA">
-		<text>Pegue o PDA de Tirano</text>
+		<text>Pegue o PDA de Tyran</text>
 	</string>
 	<string id="bar_hunter_find_rifle">
 		<text>Encontre o rifle de familia</text>
@@ -107,7 +107,7 @@
 		<text>Encontre os documentos no laboratorio X16</text>
 	</string>
 	<string id="bring_x16_documents">
-		<text>Leve os documentos para Bartender</text>
+		<text>Leve os documentos para Barkeep</text>
 	</string>
 	<string id="deactivate_radar_now">
 		<text>Desative a maquina</text>

@@ -11,7 +11,7 @@
 		<text>Fale com o trader</text>
 	</string>
 	<string id="esc_bandits_on_factory_3">
-		<text>Fale com Lobo</text>
+		<text>Fale com Wolf</text>
 	</string>
 	<string id="esc_blockpost_case_to_trader">
 		<text>Roube a caixa do posto avancado do exercito</text>
@@ -41,25 +41,25 @@
 		<text>Mate os bandidos no estacionamento</text>
 	</string>
 	<string id="esc_dinamit_to_volk_0">
-		<text>Mate os bandidos no estacionamento e relate a Lobo.</text>
+		<text>Mate os bandidos no estacionamento e relate a Wolf.</text>
 	</string>
 	<string id="esc_dinamit_to_volk_1">
-		<text>Encontre-se com o pessoal de Lobo</text>
+		<text>Encontre-se com o pessoal de Wolf</text>
 	</string>
 	<string id="esc_dinamit_to_volk_2">
 		<text>Mate todos os bandidos</text>
 	</string>
 	<string id="esc_dinamit_to_volk_3">
-		<text>Fale com Lobo</text>
+		<text>Fale com Wolf</text>
 	</string>
 	<string id="esc_help_wounded_from_raid">
-		<text>Aprenda algo sobre Strelok com Raposo</text>
+		<text>Aprenda algo sobre Strelok com Fox</text>
 	</string>
 	<string id="esc_help_wounded_from_raid_0">
 		<text>Ajude o stalker ferido</text>
 	</string>
 	<string id="esc_help_wounded_from_raid_1">
-		<text>Ajude Raposo</text>
+		<text>Ajude Fox</text>
 	</string>
 	<string id="esc_help_wounded_from_raid_2">
 		<text>Obtenha informacoes sobre Strelok</text>
@@ -77,13 +77,13 @@
 		<text>Encontre-se com Seriy no Garbage.</text>
 	</string>
 	<string id="meet_with_doctor">
-		<text>Encontre-se com Doutor.</text>
+		<text>Encontre-se com Doc.</text>
 	</string>
 	<string id="meet_with_doctor_1">
-		<text>Encontre-se com Doutor.</text>
+		<text>Encontre-se com Doc.</text>
 	</string>
 	<string id="meet_with_doctor_2">
-		<text>Encontre-se com Doutor no esconderijo de Strelok</text>
+		<text>Encontre-se com Doc no esconderijo de Strelok</text>
 	</string>
 	<string id="storyline_escape_eliminate_gunslinger">
 		<text>Mate Strelok</text>
@@ -110,10 +110,10 @@
 		<text>Leve as informacoes para o trader</text>
 	</string>
 	<string id="tutorial_help_wounded_1">
-		<text>Fale com Lobo</text>
+		<text>Fale com Wolf</text>
 	</string>
 	<string id="tutorial_help_wounded_2">
-		<text>Pegue o pendrive de Agil</text>
+		<text>Pegue o pendrive de Nimble</text>
 	</string>
 	<string id="tutorial_help_wounded_3">
 		<text>Leve o pendrive para o trader</text>
@@ -125,10 +125,10 @@
 		<text>Pegue a tarefa especial do trader</text>
 	</string>
 	<string id="bar_barman_job">
-		<text>Trabalhe para Bartender</text>
+		<text>Trabalhe para Barkeep</text>
 	</string>
 	<string id="bar_barman_job_text">
-		<text>Peca um trabalho a Bartender</text>
+		<text>Peca um trabalho a Barkeep</text>
 	</string>
 	<string id="yan_scientist_job">
 		<text>Ajuda para os cientistas</text>

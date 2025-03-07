@@ -110,7 +110,7 @@
 331|<text>Boa sorte.</text>
 334|<text>Primeiro preciso ver como tudo parece, entao te digo.</text>
 337|<text>Vamos esperar. Mas nao por muito tempo.</text>
-340|<text>Obrigado pela sua ajuda, Marca. Aqui esta sua recompensa.</text>
+340|<text>Obrigado pela sua ajuda, Marked One. Aqui esta sua recompensa.</text>
 343|<text>Obrigado.</text>
 346|<text>Nos fizemos um acordo, nao fizemos?</text>
 349|<text>Entao, voce derrubou o atirador. Aqui esta sua justa compensacao.</text>
@@ -134,7 +134,7 @@
 403|<text>Bem, julgue voce mesmo. Nao vou te obrigar.</text>
 406|<text>Fechado.</text>
 409|<text>Ai esta, otimo.</text>
-412|<text>Nao interfira, Marca.</text>
+412|<text>Nao interfira, Marked One.</text>
 415|<text>OK.</text>
 418|<text>Siga seu caminho.</text>
 421|<text>OK.</text>
@@ -168,13 +168,13 @@
 505|<text>Marque seu proprio lugar porque depois voce nao tera tempo!</text>
 508|<text>Parece que derrubamos todos eles. Acho que ja chega por hoje. Obrigado pela sua ajuda! Aqui, pegue isso - um pouco de dinheiro para te animar.</text>
 511|<text>Obrigado.</text>
-514|<text>Boa sorte, Marca!</text>
-517|<text>Ei, Marca! Lukash te mandou?</text>
+514|<text>Boa sorte, Marked One!</text>
+517|<text>Ei, Marked One! Lukash te mandou?</text>
 520|<text>Sim. Ele me pediu para te ajudar.</text>
 523|<text>Voce chegou na hora certa. Estamos nos defendendo dos idiotas da Monolith, e a proxima onda esta quase aqui! Acredite ou nao, acabamos de ter nosso ultimo atirador abatido! Voce pode ajudar? Pagaremos depois da luta - voce nao vai se arrepender!</text>
 526|<text>Parece que derrubamos todos eles. Acho que ja chega por hoje. Obrigado pela sua ajuda! Aqui, pegue isso - um pouco de dinheiro para te animar.</text>
 529|<text>Obrigado.</text>
-532|<text>Boa sorte, Marca.</text>
+532|<text>Boa sorte, Marked One.</text>
 535|<text>Que lugar e este?</text>
 538|<text>Chamamos de Barreira... e basicamente isso. E o ultimo posto avancado normal deste lado do centro da Zona. E uma especie de amortecedor, sabe, entre as pessoas e o Wild Territory.</text>
 541|<text>O que ha alem dele?</text>
@@ -188,7 +188,7 @@
 565|<text>Que problema?</text>
 568|<text>Nao se preocupe, nao e nada terrivel. A fechadura esta emperrada, so isso. Se voce realmente nao pode esperar, apenas atire nela, eu a substituirei depois.</text>
 571|<text>Entendo.</text>
-574|<text>Avarento me mandou aqui para limpar os sanguessugas.</text>
+574|<text>Skinflint me mandou aqui para limpar os sanguessugas.</text>
 577|<text>Entao, stalker, o que te trouxe a este lugar sinistro? Meu conselho e correr pela sua vida antes que seja tarde demais!</text>
 580|<text>Ahh, agora isso e outra historia... O inferno sabe o que esta acontecendo aqui! Um par de nossos caras entrou na vila e nunca mais voltou. Droga, nao estamos muito interessados em morrer ainda! Estamos sentados aqui, decidindo o que fazer a seguir.</text>
 583|<text>Ei, mano, que susto voce deu ontem a noite!</text>
@@ -201,7 +201,7 @@
 604|<text>Eu me livrei deles.</text>
 607|<text>Uau! Voce e demais! Droga, voce saiu vivo, entao a proxima rodada de bebidas e por sua conta!</text>
 610|<text>Obrigado.</text>
-613|<text>Nao. Nossos caras deveriam ir para a antiga torre d'agua; provavelmente foi la que eles cairam. Bem, se voce fez um acordo com Avarento, va la e de uma olhada... Anote um endereco, quer? Escreveremos para sua familia se algo der errado.</text>
+613|<text>Nao. Nossos caras deveriam ir para a antiga torre d'agua; provavelmente foi la que eles cairam. Bem, se voce fez um acordo com Skinflint, va la e de uma olhada... Anote um endereco, quer? Escreveremos para sua familia se algo der errado.</text>
 616|<text>Por que voce esta vagando por ai como um fantasma?</text>
 619|<text>So olhando em volta.</text>
 622|<text>Parece que voce e muito gentil... OK, eu vou.</text>
@@ -211,7 +211,7 @@
 634|<text>O que tem de tao ruim neste lugar?</text>
 637|<text>O inferno sabe o que esta acontecendo aqui! Parece que a vila agora e lar de um enxame de sanguessugas. Um par de nossos caras entrou na vila e nunca mais voltou. Droga, nao estamos muito interessados em morrer ainda! Estamos sentados aqui, decidindo o que fazer a seguir.</text>
 640|<text>Entao, voce mesmo nao tem certeza?</text>
-643|<text>Exatamente! Se voce nao tem mais nada para fazer e sua cabeca nao esta funcionando direito, fique a vontade para dar um passeio pela vila. Se voce limpar essas criaturas, Avarento certamente vai te dar alguma coisa. Anote um endereco, quer? Escreveremos para sua familia se algo der errado.</text>
+643|<text>Exatamente! Se voce nao tem mais nada para fazer e sua cabeca nao esta funcionando direito, fique a vontade para dar um passeio pela vila. Se voce limpar essas criaturas, Skinflint certamente vai te dar alguma coisa. Anote um endereco, quer? Escreveremos para sua familia se algo der errado.</text>
 646|<text>OK, vou dar uma olhada.</text>
 649|<text>Voce passou pela vila, nao passou?</text>
 652|<text>Sim.</text>
@@ -219,11 +219,11 @@
 658|<text>Nao, nao vi. Apenas alguns cadaveres no chao.</text>
 661|<text>Voce viu sanguessugas?</text>
 664|<text>Sim. Va em frente e veja por si mesmo, agora esta seguro - eu os derrubei.</text>
-667|<text>Uau! Que truque! Sabe de uma coisa... va ver Avarento na nossa base. Ele paga por bom trabalho.</text>
+667|<text>Uau! Que truque! Sabe de uma coisa... va ver Skinflint na nossa base. Ele paga por bom trabalho.</text>
 670|<text>OK, vou dar uma olhada.</text>
 673|<text>E ai? Como foi?</text>
 676|<text>Eu massacrei aquelas feras.</text>
-679|<text>Uau, voce mostrou pra eles! Sabe de uma coisa... va ver Avarento na nossa base. Ele paga por bom trabalho.</text>
+679|<text>Uau, voce mostrou pra eles! Sabe de uma coisa... va ver Skinflint na nossa base. Ele paga por bom trabalho.</text>
 682|<text>Eu vou.</text>
 685|<text>OK, tanto faz...</text>
 688|<text>O que te trouxe aqui?</text>
@@ -232,7 +232,7 @@
 697|<text>O que tem de tao ruim neste lugar?</text>
 700|<text>Ah, o inferno sabe. Parece que os sanguessugas se instalaram na vila. Um par de nossos caras entrou na vila e nunca mais voltou. Droga, nao estamos muito interessados em morrer ainda!</text>
 703|<text>Entao, voce mesmo nao tem certeza?</text>
-706|<text>Exatamente! Se voce nao tem mais nada para fazer e sua cabeca nao esta funcionando direito, fique a vontade para dar um passeio pela vila. Se voce limpar essas criaturas, Avarento certamente vai te dar alguma coisa. Anote um endereco, quer? Escreveremos para sua familia se algo der errado.</text>
+706|<text>Exatamente! Se voce nao tem mais nada para fazer e sua cabeca nao esta funcionando direito, fique a vontade para dar um passeio pela vila. Se voce limpar essas criaturas, Skinflint certamente vai te dar alguma coisa. Anote um endereco, quer? Escreveremos para sua familia se algo der errado.</text>
 709|<text>OK, vou dar uma olhada.</text>
 712|<text>E ai? Como foi?</text>
 715|<text>Eu massacrei aquelas feras.</text>
@@ -269,7 +269,7 @@
 808|<text>Infelizmente, tenho que admitir que ha um dedo-duro em nossas fileiras. O nome dele e Pavlik. Ele esta vazando informacoes valiosas, e isso precisa ser parado.</text>
 811|<text>Exatamente. E acho que ele vai para o encontro dele entre 22h e 23h. Vai estar escuro o suficiente, entao ninguem o vera, mas os mutantes noturnos ainda nao estarao fora. Va em frente, stalker. Depois que voce terminar, voce se tornara um membro do nosso grupo. Lembre-se, voce deve pegar o dedo-duro em flagrante! Voce tem que derruba-lo durante o encontro dele, caso contrario a missao tera falhado.</text>
 814|<text>Voce ainda esta aqui?</text>
-817|<text>Otimo trabalho, Marca! Aqui, pegue isso... seu pagamento por cuidar do dedo-duro. Voce pode descansar em nosso territorio sempre que quiser e tambem pode contar com nossa ajuda. So que, ha mais um negocio que eu gostaria que voce fizesse para mim. Voce nao esta muito cansado?</text>
+817|<text>Otimo trabalho, Marked One! Aqui, pegue isso... seu pagamento por cuidar do dedo-duro. Voce pode descansar em nosso territorio sempre que quiser e tambem pode contar com nossa ajuda. So que, ha mais um negocio que eu gostaria que voce fizesse para mim. Voce nao esta muito cansado?</text>
 820|<text>O que exatamente?</text>
 823|<text>Se voce estiver disposto, va para o posto avancado perto da saida da Red Forest. Recebemos relatos de que mutantes ou a Monolith estao planejando uma nova tentativa de invasao la. Os caras precisam de ajuda.</text>
 826|<text>Bem, voce ajudou os caras na Barreira, entao - relaxe.</text>
@@ -311,7 +311,7 @@
 934|<text>Aqui esta o pendrive que peguei do cara louco.</text>
 937|<text>Ei, obrigado, stalker! Pegue esta arma - voce ganhou.</text>
 940|<text>Tem alguma municao para ela?</text>
-943|<text>So o que esta no carregador. Desculpe, e tudo que eu tenho. Va ver Avarento, ele pode ter alguma.</text>
+943|<text>So o que esta no carregador. Desculpe, e tudo que eu tenho. Va ver Skinflint, ele pode ter alguma.</text>
 946|<text>Eu vou tentar.</text>
 949|<text>Boa sorte, entao. Nao se esqueca - ha um antigo campo minado, mas com a ajuda de alguns bons e velhos parafusos voce pode contornar qualquer mina.</text>
 952|<text>Entao, o que voce descobriu? O que aconteceu com aquele psicopata?</text>
@@ -326,7 +326,7 @@
 979|<text>OK.</text>
 982|<text>Cara, voce esta na base da Freedom! Relaxe, sinta-se em casa!</text>
 985|<text>Entendo.</text>
-988|<text>Comporte-se, OK? Entendeu? Tente brincar e voce vai se arrepender. Tinhamos um lerdo aqui uma vez; ele irritou tanto todo mundo que o fizemos dar um passeio no campo minado - pelado. Voce deveria ter ouvido Avarento xingar quando o braco daquele cara caiu bem na cabeca dele! Aquilo foi especial... sim... Entao, voce entendeu a ideia?</text>
+988|<text>Comporte-se, OK? Entendeu? Tente brincar e voce vai se arrepender. Tinhamos um lerdo aqui uma vez; ele irritou tanto todo mundo que o fizemos dar um passeio no campo minado - pelado. Voce deveria ter ouvido Skinflint xingar quando o braco daquele cara caiu bem na cabeca dele! Aquilo foi especial... sim... Entao, voce entendeu a ideia?</text>
 991|<text>Entendi.</text>
 994|<text>Bom homem! Dispensado.</text>
 997|<text>Ah, um novato... Vem ca um segundo.</text>
@@ -381,7 +381,7 @@
 1144|<text>Nos conversamos e depois demos um passeio pela vila tentando pegar algum mutante...</text>
 1147|<text>E ai? Va direto ao ponto!</text>
 1150|<text>Nos derrubamos algum tipo de fera, mas os caras cairam tambem. Assim que chegamos a torre d'agua, todos agarraram suas cabecas, e eu tambem tinha sangue nos meus olhos... Essa merda afeta seu cerebro. Eu matei a coisa, mas era tarde demais para ajudar os caras.</text>
-1153|<text>Que droga. Sombra era um stalker habilidoso. Que pena. Bem, pegue este artefato por ajudar os rapazes.</text>
+1153|<text>Que droga. Murk era um stalker habilidoso. Que pena. Bem, pegue este artefato por ajudar os rapazes.</text>
 1156|<text>Bem, os caras foram cacar e eu voltei para ca...</text>
 1159|<text>Entendo.</text>
 1162|<text>Posso me abastecer de algum equipamento aqui?</text>
@@ -411,7 +411,7 @@
 1234|<text>Bem, eu preciso de um pouco de comida.</text>
 1237|<text>Ele esta na cozinha dele. Geralmente, ele fica la sentado e murmurando.</text>
 1240|<text>Murmurando?</text>
-1243|<text>O que voce esperava? Bebado e bebado. Se ele nao soubesse cozinhar, ja teriamos nos livrado dele ha muito tempo. Ele esta na cozinha. Vou te dizer como chegar la.</text>
+1243|<text>O que voce esperava? Alkie e bebado. Se ele nao soubesse cozinhar, ja teriamos nos livrado dele ha muito tempo. Ele esta na cozinha. Vou te dizer como chegar la.</text>
 1246|<text>Obrigado pela informacao.</text>
 1249|<text>Sem problema.</text>
 1252|<text>Quem e o chefe aqui?</text>

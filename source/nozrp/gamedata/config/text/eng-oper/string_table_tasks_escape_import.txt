@@ -2,7 +2,7 @@
 5|<text>Mate os bandidos entrincheirados na fabrica.</text>
 8|<text>Mate todos os bandidos na fabrica</text>
 11|<text>Fale com o trader</text>
-14|<text>Fale com Lobo</text>
+14|<text>Fale com Wolf</text>
 17|<text>Roube a caixa do posto avancado do exercito</text>
 20|<text>Roube a caixa com documentos importantes do posto avancado do exercito.</text>
 23|<text>Roube a caixa do posto avancado do exercito</text>
@@ -12,21 +12,21 @@
 35|<text>Destrua os Mercs.</text>
 38|<text>Fale com o comandante dos novatos</text>
 41|<text>Mate os bandidos no estacionamento</text>
-44|<text>Mate os bandidos no estacionamento e relate a Lobo.</text>
-47|<text>Encontre-se com o pessoal de Lobo</text>
+44|<text>Mate os bandidos no estacionamento e relate a Wolf.</text>
+47|<text>Encontre-se com o pessoal de Wolf</text>
 50|<text>Mate todos os bandidos</text>
-53|<text>Fale com Lobo</text>
-56|<text>Aprenda algo sobre Strelok com Raposo</text>
+53|<text>Fale com Wolf</text>
+56|<text>Aprenda algo sobre Strelok com Fox</text>
 59|<text>Ajude o stalker ferido</text>
-62|<text>Ajude Raposo</text>
+62|<text>Ajude Fox</text>
 65|<text>Obtenha informacoes sobre Strelok</text>
 68|<text>Entregue o pacote ao trader.</text>
 71|<text>Entregue o pacote ao trader. Ele podera ajuda-lo.</text>
 74|<text>Encontre-se com Seriy.</text>
 77|<text>Encontre-se com Seriy no Garbage.</text>
-80|<text>Encontre-se com Doutor.</text>
-83|<text>Encontre-se com Doutor.</text>
-86|<text>Encontre-se com Doutor no esconderijo de Strelok</text>
+80|<text>Encontre-se com Doc.</text>
+83|<text>Encontre-se com Doc.</text>
+86|<text>Encontre-se com Doc no esconderijo de Strelok</text>
 89|<text>Mate Strelok</text>
 92|<text>Encontre Strelok</text>
 95|<text>Encontre um artefato</text>
@@ -35,13 +35,13 @@
 104|<text>Leve o artefato para o trader.</text>
 107|<text>Obtenha informacoes do batedor</text>
 110|<text>Leve as informacoes para o trader</text>
-113|<text>Fale com Lobo</text>
-116|<text>Pegue o pendrive de Agil</text>
+113|<text>Fale com Wolf</text>
+116|<text>Pegue o pendrive de Nimble</text>
 119|<text>Leve o pendrive para o trader</text>
 122|<text>Trabalhe para o trader</text>
 125|<text>Pegue a tarefa especial do trader</text>
-128|<text>Trabalhe para Bartender</text>
-131|<text>Peca um trabalho a Bartender</text>
+128|<text>Trabalhe para Barkeep</text>
+131|<text>Peca um trabalho a Barkeep</text>
 134|<text>Ajuda para os cientistas</text>
 137|<text>Ofereca ajuda aos cientistas</text>
 140|<text>Chegue ao aterro ferroviario</text>

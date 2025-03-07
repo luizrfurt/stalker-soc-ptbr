@@ -2,7 +2,7 @@
 		<text>Ajude no posto avancado da Barreira da Freedom.</text>
 	</string>
 	<string id="mil_courier">
-		<text>Dedo-duro.</text>
+		<text>Snitch.</text>
 	</string>
 	<string id="mil_courier_job">
 		<text>Lide com o dedo-duro.</text>
@@ -41,7 +41,7 @@
 		<text>Volte para a fazenda da Duty e receba minha taxa</text>
 	</string>
 	<string id="mil_dolg_return_to_skull">
-		<text>Volte para Cranio</text>
+		<text>Volte para Skull</text>
 	</string>
 	<string id="mil_fblockpost_commander">
 		<text>Comandante do posto avancado Cap</text>
@@ -62,19 +62,19 @@
 		<text>Relate a Max.</text>
 	</string>
 	<string id="mil_go_to_miser_task">
-		<text>Va para a base da Freedom para ver Avarento e receber uma recompensa</text>
+		<text>Va para a base da Freedom para ver Skinflint e receber uma recompensa</text>
 	</string>
 	<string id="mil_go_to_miser_task_main">
 		<text>Receba uma recompensa pelos sanguessugas destruidos</text>
 	</string>
 	<string id="mil_hunters_phase1">
-		<text>Encontre Sombra na vila</text>
+		<text>Encontre Murk na vila</text>
 	</string>
 	<string id="mil_hunters_phase2">
 		<text>Mate os sanguessugas</text>
 	</string>
 	<string id="mil_hunters_phase3">
-		<text>Volte para Avarento pelo artefato</text>
+		<text>Volte para Skinflint pelo artefato</text>
 	</string>
 	<string id="mil_hunters_task">
 		<text>Mate os sanguessugas na vila</text>
@@ -107,7 +107,7 @@
 		<text>Volte para Lukash.</text>
 	</string>
 	<string id="mil_return_to_ugrumy">
-		<text>Relate a Sombra sobre a missao</text>
+		<text>Relate a Murk sobre a missao</text>
 	</string>
 	<string id="mil_return_to_voronin">
 		<text>Traga o Bulldog 6 para o General Voronin</text>
@@ -143,7 +143,7 @@
 		<text>Missao de teste</text>
 	</string>
 	<string id="mil_ugrumy">
-		<text>Sombra.</text>
+		<text>Murk.</text>
 	</string>
 	<string id="mil_lukash_job">
 		<text>Destrua a companhia da Duty</text>

@@ -337,7 +337,7 @@
 		<text>Vamos esperar. Mas nao por muito tempo.</text>
 	</string>
 	<string id="mil_dolg_skull_dialog_200">
-		<text>Obrigado pela sua ajuda, Marca. Aqui esta sua recompensa.</text>
+		<text>Obrigado pela sua ajuda, Marked One. Aqui esta sua recompensa.</text>
 	</string>
 	<string id="mil_dolg_skull_dialog_201">
 		<text>Obrigado.</text>
@@ -409,7 +409,7 @@
 		<text>Ai esta, otimo.</text>
 	</string>
 	<string id="mil_dolg_skull_dialog_601">
-		<text>Nao interfira, Marca.</text>
+		<text>Nao interfira, Marked One.</text>
 	</string>
 	<string id="mil_dolg_skull_dialog_602">
 		<text>OK.</text>
@@ -511,10 +511,10 @@
 		<text>Obrigado.</text>
 	</string>
 	<string id="mil_freedom_commander_3003">
-		<text>Boa sorte, Marca!</text>
+		<text>Boa sorte, Marked One!</text>
 	</string>
 	<string id="mil_freedom_commander_4001">
-		<text>Ei, Marca! Lukash te mandou?</text>
+		<text>Ei, Marked One! Lukash te mandou?</text>
 	</string>
 	<string id="mil_freedom_commander_4002">
 		<text>Sim. Ele me pediu para te ajudar.</text>
@@ -529,7 +529,7 @@
 		<text>Obrigado.</text>
 	</string>
 	<string id="mil_freedom_commander_5003">
-		<text>Boa sorte, Marca.</text>
+		<text>Boa sorte, Marked One.</text>
 	</string>
 	<string id="mil_freedom_commander_common2_0">
 		<text>Que lugar e este?</text>
@@ -571,7 +571,7 @@
 		<text>Entendo.</text>
 	</string>
 	<string id="mil_hunter_dialog_1">
-		<text>Avarento me mandou aqui para limpar os sanguessugas.</text>
+		<text>Skinflint me mandou aqui para limpar os sanguessugas.</text>
 	</string>
 	<string id="mil_hunter_dialog_101">
 		<text>Entao, stalker, o que te trouxe a este lugar sinistro? Meu conselho e correr pela sua vida antes que seja tarde demais!</text>
@@ -610,7 +610,7 @@
 		<text>Obrigado.</text>
 	</string>
 	<string id="mil_hunter_dialog_4">
-		<text>Nao. Nossos caras deveriam ir para a antiga torre d'agua; provavelmente foi la que eles cairam. Bem, se voce fez um acordo com Avarento, va la e de uma olhada... Anote um endereco, quer? Escreveremos para sua familia se algo der errado.</text>
+		<text>Nao. Nossos caras deveriam ir para a antiga torre d'agua; provavelmente foi la que eles cairam. Bem, se voce fez um acordo com Skinflint, va la e de uma olhada... Anote um endereco, quer? Escreveremos para sua familia se algo der errado.</text>
 	</string>
 	<string id="mil_hunter_dialog_401">
 		<text>Por que voce esta vagando por ai como um fantasma?</text>
@@ -640,7 +640,7 @@
 		<text>Entao, voce mesmo nao tem certeza?</text>
 	</string>
 	<string id="mil_hunter_dialog_507">
-		<text>Exatamente! Se voce nao tem mais nada para fazer e sua cabeca nao esta funcionando direito, fique a vontade para dar um passeio pela vila. Se voce limpar essas criaturas, Avarento certamente vai te dar alguma coisa. Anote um endereco, quer? Escreveremos para sua familia se algo der errado.</text>
+		<text>Exatamente! Se voce nao tem mais nada para fazer e sua cabeca nao esta funcionando direito, fique a vontade para dar um passeio pela vila. Se voce limpar essas criaturas, Skinflint certamente vai te dar alguma coisa. Anote um endereco, quer? Escreveremos para sua familia se algo der errado.</text>
 	</string>
 	<string id="mil_hunter_dialog_508">
 		<text>OK, vou dar uma olhada.</text>
@@ -664,7 +664,7 @@
 		<text>Sim. Va em frente e veja por si mesmo, agora esta seguro - eu os derrubei.</text>
 	</string>
 	<string id="mil_hunter_dialog_607">
-		<text>Uau! Que truque! Sabe de uma coisa... va ver Avarento na nossa base. Ele paga por bom trabalho.</text>
+		<text>Uau! Que truque! Sabe de uma coisa... va ver Skinflint na nossa base. Ele paga por bom trabalho.</text>
 	</string>
 	<string id="mil_hunter_dialog_7">
 		<text>OK, vou dar uma olhada.</text>
@@ -676,7 +676,7 @@
 		<text>Eu massacrei aquelas feras.</text>
 	</string>
 	<string id="mil_hunter_dialog_703">
-		<text>Uau, voce mostrou pra eles! Sabe de uma coisa... va ver Avarento na nossa base. Ele paga por bom trabalho.</text>
+		<text>Uau, voce mostrou pra eles! Sabe de uma coisa... va ver Skinflint na nossa base. Ele paga por bom trabalho.</text>
 	</string>
 	<string id="mil_hunter_dialog_704">
 		<text>Eu vou.</text>
@@ -703,7 +703,7 @@
 		<text>Entao, voce mesmo nao tem certeza?</text>
 	</string>
 	<string id="mil_hunter_dialog_807">
-		<text>Exatamente! Se voce nao tem mais nada para fazer e sua cabeca nao esta funcionando direito, fique a vontade para dar um passeio pela vila. Se voce limpar essas criaturas, Avarento certamente vai te dar alguma coisa. Anote um endereco, quer? Escreveremos para sua familia se algo der errado.</text>
+		<text>Exatamente! Se voce nao tem mais nada para fazer e sua cabeca nao esta funcionando direito, fique a vontade para dar um passeio pela vila. Se voce limpar essas criaturas, Skinflint certamente vai te dar alguma coisa. Anote um endereco, quer? Escreveremos para sua familia se algo der errado.</text>
 	</string>
 	<string id="mil_hunter_dialog_808">
 		<text>OK, vou dar uma olhada.</text>
@@ -814,7 +814,7 @@
 		<text>Voce ainda esta aqui?</text>
 	</string>
 	<string id="mil_leader_start_dialog_5001">
-		<text>Otimo trabalho, Marca! Aqui, pegue isso... seu pagamento por cuidar do dedo-duro. Voce pode descansar em nosso territorio sempre que quiser e tambem pode contar com nossa ajuda. So que, ha mais um negocio que eu gostaria que voce fizesse para mim. Voce nao esta muito cansado?</text>
+		<text>Otimo trabalho, Marked One! Aqui, pegue isso... seu pagamento por cuidar do dedo-duro. Voce pode descansar em nosso territorio sempre que quiser e tambem pode contar com nossa ajuda. So que, ha mais um negocio que eu gostaria que voce fizesse para mim. Voce nao esta muito cansado?</text>
 	</string>
 	<string id="mil_leader_start_dialog_5002">
 		<text>O que exatamente?</text>
@@ -940,7 +940,7 @@
 		<text>Tem alguma municao para ela?</text>
 	</string>
 	<string id="mil_max_dialog_400523">
-		<text>So o que esta no carregador. Desculpe, e tudo que eu tenho. Va ver Avarento, ele pode ter alguma.</text>
+		<text>So o que esta no carregador. Desculpe, e tudo que eu tenho. Va ver Skinflint, ele pode ter alguma.</text>
 	</string>
 	<string id="mil_max_dialog_4006">
 		<text>Eu vou tentar.</text>
@@ -985,7 +985,7 @@
 		<text>Entendo.</text>
 	</string>
 	<string id="mil_patrol_dialog1_2">
-		<text>Comporte-se, OK? Entendeu? Tente brincar e voce vai se arrepender. Tinhamos um lerdo aqui uma vez; ele irritou tanto todo mundo que o fizemos dar um passeio no campo minado - pelado. Voce deveria ter ouvido Avarento xingar quando o braco daquele cara caiu bem na cabeca dele! Aquilo foi especial... sim... Entao, voce entendeu a ideia?</text>
+		<text>Comporte-se, OK? Entendeu? Tente brincar e voce vai se arrepender. Tinhamos um lerdo aqui uma vez; ele irritou tanto todo mundo que o fizemos dar um passeio no campo minado - pelado. Voce deveria ter ouvido Skinflint xingar quando o braco daquele cara caiu bem na cabeca dele! Aquilo foi especial... sim... Entao, voce entendeu a ideia?</text>
 	</string>
 	<string id="mil_patrol_dialog1_3">
 		<text>Entendi.</text>
@@ -1150,7 +1150,7 @@
 		<text>Nos derrubamos algum tipo de fera, mas os caras cairam tambem. Assim que chegamos a torre d'agua, todos agarraram suas cabecas, e eu tambem tinha sangue nos meus olhos... Essa merda afeta seu cerebro. Eu matei a coisa, mas era tarde demais para ajudar os caras.</text>
 	</string>
 	<string id="mil_trader_dialog_3301">
-		<text>Que droga. Sombra era um stalker habilidoso. Que pena. Bem, pegue este artefato por ajudar os rapazes.</text>
+		<text>Que droga. Murk era um stalker habilidoso. Que pena. Bem, pegue este artefato por ajudar os rapazes.</text>
 	</string>
 	<string id="mil_trader_dialog_3310">
 		<text>Bem, os caras foram cacar e eu voltei para ca...</text>
@@ -1240,7 +1240,7 @@
 		<text>Murmurando?</text>
 	</string>
 	<string id="mil_zoneguard_common1_5">
-		<text>O que voce esperava? Bebado e bebado. Se ele nao soubesse cozinhar, ja teriamos nos livrado dele ha muito tempo. Ele esta na cozinha. Vou te dizer como chegar la.</text>
+		<text>O que voce esperava? Alkie e bebado. Se ele nao soubesse cozinhar, ja teriamos nos livrado dele ha muito tempo. Ele esta na cozinha. Vou te dizer como chegar la.</text>
 	</string>
 	<string id="mil_zoneguard_common1_6">
 		<text>Obrigado pela informacao.</text>

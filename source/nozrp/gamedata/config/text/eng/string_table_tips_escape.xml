@@ -2,31 +2,31 @@
 		<text>Nao havera tiros a menos que eu de a ordem. Sem dedos cocando o gatilho, entendido?</text>
 	</string>
 	<string id="esc_fanat_victory">
-		<text>Vitoria!!! Todos, venham aqui. Venha, Marca. Precisamos conversar.</text>
+		<text>Vitoria!!! Todos, venham aqui. Venha, Marked One. Precisamos conversar.</text>
 	</string>
 	<string id="esc_return_dv">
-		<text>Bom, Marca. Fico feliz que voce esteja vivo e decidiu nos visitar. Venha, e vamos bater um papo. Ha uma pequena coisa chegando.</text>
+		<text>Bom, Marked One. Fico feliz que voce esteja vivo e decidiu nos visitar. Venha, e vamos bater um papo. Ha uma pequena coisa chegando.</text>
 	</string>
 	<string id="esc_tutorial_end">
 		<text>Excelente, sua tarefa esta completa. E seguro dizer que voce aprendeu as habilidades basicas.</text>
 	</string>
 	<string id="esc_wolf_thanks">
-		<text>Marca, o caminho para o acampamento agora esta aberto para voce. Venha e conversaremos.</text>
+		<text>Marked One, o caminho para o acampamento agora esta aberto para voce. Venha e conversaremos.</text>
 	</string>
 	<string id="escape_fox_quest">
-		<text>Uma palavra sobre Strelok, Marca. Um stalker acabou de voltar de um longo ataque. Ele se chama Raposo. Parece que ele teve um tempo muito dificil e esta pedindo ajuda. Algumas feras estranhas o seguiram todo o caminho de volta, ele diz que nao aguentara muito mais. Acho que o cara sabera um pouco sobre Strelok. Aqui estao as coordenadas. Talvez voce queira se apressar.</text>
+		<text>Uma palavra sobre Strelok, Marked One. Um stalker acabou de voltar de um longo ataque. Ele se chama Fox. Parece que ele teve um tempo muito dificil e esta pedindo ajuda. Algumas feras estranhas o seguiram todo o caminho de volta, ele diz que nao aguentara muito mais. Acho que o cara sabera um pouco sobre Strelok. Aqui estao as coordenadas. Talvez voce queira se apressar.</text>
 	</string>
 	<string id="escape_stalker_death">
-		<text>Pessimo show, Marca. Os rapazes estao mortos, embora isso nao seja exatamente sua culpa. Essas coisas acontecem na Zona. De qualquer forma, voce passou no teste, entao volte aqui e conversaremos sobre negocios.</text>
+		<text>Pessimo show, Marked One. Os rapazes estao mortos, embora isso nao seja exatamente sua culpa. Essas coisas acontecem na Zona. De qualquer forma, voce passou no teste, entao volte aqui e conversaremos sobre negocios.</text>
 	</string>
 	<string id="escape_stalker_helped">
-		<text>Bom trabalho, Marca. Continue assim e voce fara alguns amigos. Faca-me uma visita e conversaremos sobre negocios.</text>
+		<text>Bom trabalho, Marked One. Continue assim e voce fara alguns amigos. Faca-me uma visita e conversaremos sobre negocios.</text>
 	</string>
 	<string id="escape_stalker_killed">
-		<text>Isso nao foi muito inteligente, Marca. Voce passou no teste, mas tera que lidar com Lobo e seus capangas sozinho agora. De qualquer forma, estou esperando por voce. Temos mais trabalho para conversar.</text>
+		<text>Isso nao foi muito inteligente, Marked One. Voce passou no teste, mas tera que lidar com Wolf e seus capangas sozinho agora. De qualquer forma, estou esperando por voce. Temos mais trabalho para conversar.</text>
 	</string>
 	<string id="info_esc_give_agroprom_task">
-		<text>Marca, os militares desenterraram algumas coisas interessantes no Agroprom Research Institute. Eu gostaria de colocar minhas maos nisso e voce provavelmente tambem. Obtenha as informacoes e leve-as ao bartender no bar dos stalkers. Agora se mexa!</text>
+		<text>Marked One, os militares desenterraram algumas coisas interessantes no Agroprom Research Institute. Eu gostaria de colocar minhas maos nisso e voce provavelmente tambem. Obtenha as informacoes e leve-as ao bartender no bar dos stalkers. Agora se mexa!</text>
 	</string>
 	<string id="tips_esc_trader_about_anomalies">
 		<text>Cuidado! Voce esta bem perto das anomalias. Use seus parafusos para descobrir sua localizacao e forma exatas.</text>
@@ -47,13 +47,13 @@
 		<text>Encontre o artefato na area marcada no mapa e leve-o ao trader.</text>
 	</string>
 	<string id="tutorial_flash_anomaly_alarm">
-		<text>Preste atencao, Marca. Da proxima vez pode ser voce.</text>
+		<text>Preste atencao, Marked One. Da proxima vez pode ser voce.</text>
 	</string>
 	<string id="tutorial_trader_give_medikit">
 		<text>De um kit medico para este idiota.</text>
 	</string>
 	<string id="tutorial_trader_look_vagon">
-		<text>Marca! Esqueca o artefato, voce o deixara mais tarde. Va para o trailer na estrada o mais rapido possivel. Meus rapazes precisam de ajuda la. Os idiotas abriram fogo contra um helicoptero que passava. Enviei as coordenadas para voce.</text>
+		<text>Marked One! Esqueca o artefato, voce o deixara mais tarde. Va para o trailer na estrada o mais rapido possivel. Meus rapazes precisam de ajuda la. Os idiotas abriram fogo contra um helicoptero que passava. Enviei as coordenadas para voce.</text>
 	</string>
 	<string id="tutorial_trader_search_corpses">
 		<text>Procure nos corpos - voce pode encontrar algo util.</text>

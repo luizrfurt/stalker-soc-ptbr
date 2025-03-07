@@ -1,11 +1,11 @@
 	<string id="gar_actor_looser">
-		<text>Voce e lixo, Marca. Totalmente inutil! Nao espere gratidao - nao ha nada para agradecer!</text>
+		<text>Voce e lixo, Marked One. Totalmente inutil! Nao espere gratidao - nao ha nada para agradecer!</text>
 	</string>
 	<string id="gar_actor_normal">
 		<text>Nada mal, stalker! Voce certamente abateu alguns mutantes, mas nao e tao rapido no gatilho, nao e? Se quiser passar, tera que desembolsar algum dinheiro.</text>
 	</string>
 	<string id="gar_actor_winner">
-		<text>Excelente, Marca, voce realmente nos ajudou la. Eu digo que isso e pagamento suficiente para sua passagem. Va para o Bar.</text>
+		<text>Excelente, Marked One, voce realmente nos ajudou la. Eu digo que isso e pagamento suficiente para sua passagem. Va para o Bar.</text>
 	</string>
 	<string id="gar_direction_fire">
 		<text>Deixe-os se aproximarem para que ninguem escape. Eu atiro primeiro, voce segue meu exemplo.</text>

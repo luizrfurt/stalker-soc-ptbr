@@ -27,11 +27,11 @@
 82|<text>O pendrive de Strelok</text>
 85|<text>Chave eletronica para o Lab X18 subterraneo.</text>
 88|<text>Chave de Borov</text>
-91|<text>Pendrive de Toupeira</text>
+91|<text>Pendrive de Mole</text>
 94|<text>Assistente digital pessoal. Indispensavel na Zona.</text>
-97|<text>PDA de Sortudo</text>
+97|<text>PDA de Lucky</text>
 100|<text>Assistente digital pessoal. Indispensavel na Zona.</text>
-103|<text>PDA de Tirano</text>
+103|<text>PDA de Tyran</text>
 106|<text>Uma pasta a prova de fogo com documentos.</text>
 109|<text>Documentos militares</text>
 112|<text>Documentos do posto avancado</text>

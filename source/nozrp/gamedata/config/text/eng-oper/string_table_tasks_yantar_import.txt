@@ -1,4 +1,4 @@
-2|<text>Pegue os documentos de Fantasma</text>
+2|<text>Pegue os documentos de Ghost</text>
 5|<text>Pegue os documentos</text>
 8|<text>Entre no laboratorio</text>
 11|<text>Entre no Lab X16</text>
@@ -7,8 +7,8 @@
 20|<text>Desligue a emissao psi</text>
 23|<text>Desconecte o mecanismo</text>
 26|<text>Saia do laboratorio</text>
-29|<text>Fale com Guia</text>
-32|<text>Encontre Guia</text>
+29|<text>Fale com Guide</text>
+32|<text>Encontre Guide</text>
 35|<text>Escolte Kruglov ate o local de medicao</text>
 38|<text>Escolte Semenov ate o local de medicao</text>
 41|<text>Traga os resultados para Sakharov</text>

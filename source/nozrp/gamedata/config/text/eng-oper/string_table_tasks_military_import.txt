@@ -1,5 +1,5 @@
 2|<text>Ajude no posto avancado da Barreira da Freedom.</text>
-5|<text>Dedo-duro.</text>
+5|<text>Snitch.</text>
 8|<text>Lide com o dedo-duro.</text>
 11|<text>Chegue a fazenda.</text>
 14|<text>Espere ate que o dedo-duro traga seu agente.</text>
@@ -12,18 +12,18 @@
 35|<text>Mate Lukash</text>
 38|<text>Livre-se do sniper</text>
 41|<text>Volte para a fazenda da Duty e receba minha taxa</text>
-44|<text>Volte para Cranio</text>
+44|<text>Volte para Skull</text>
 47|<text>Comandante do posto avancado Cap</text>
 50|<text>Ajude a destruir o esquadrao de ataque da Monolith</text>
 53|<text>Fale com o comandante do posto avancado da Barreira</text>
 56|<text>Encontre o cozinheiro na base da Freedom</text>
 59|<text>Obtenha um Bulldog 6 da Freedom</text>
 62|<text>Relate a Max.</text>
-65|<text>Va para a base da Freedom para ver Avarento e receber uma recompensa</text>
+65|<text>Va para a base da Freedom para ver Skinflint e receber uma recompensa</text>
 68|<text>Receba uma recompensa pelos sanguessugas destruidos</text>
-71|<text>Encontre Sombra na vila</text>
+71|<text>Encontre Murk na vila</text>
 74|<text>Mate os sanguessugas</text>
-77|<text>Volte para Avarento pelo artefato</text>
+77|<text>Volte para Skinflint pelo artefato</text>
 80|<text>Mate os sanguessugas na vila</text>
 83|<text>Mate os sanguessugas</text>
 86|<text>Mate os sanguessugas</text>
@@ -34,7 +34,7 @@
 101|<text>Mate o sniper da torre</text>
 104|<text>Relate sobre a missao para o esquadrao da Duty</text>
 107|<text>Volte para Lukash.</text>
-110|<text>Relate a Sombra sobre a missao</text>
+110|<text>Relate a Murk sobre a missao</text>
 113|<text>Traga o Bulldog 6 para o General Voronin</text>
 116|<text>Encontre o Bulldog 6</text>
 119|<text>Esconderijo de bandidos.</text>
@@ -46,5 +46,5 @@
 137|<text>Entre no restritor 2</text>
 140|<text>Levante o Bulldog 6 no ar se a missao for concluida, o TRs 301 em caso de falha</text>
 143|<text>Missao de teste</text>
-146|<text>Sombra.</text>
+146|<text>Murk.</text>
 149|<text>Destrua a companhia da Duty</text>

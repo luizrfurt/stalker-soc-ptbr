@@ -127,7 +127,7 @@
 		<text>Encontre o artefato Peixinho Dourado</text>
 	</string>
 	<string id="barmen_find_artefact_5_text">
-		<text>Marca, voce conhece a historia do conto de fadas sobre o Peixinho Dourado? Sim, sim, e essa mesmo. Ha um monte de piadas sobre isso tambem. De qualquer forma, ha esse velho que continua querendo pega-lo. Resumindo, preciso do artefato unico chamado Peixinho Dourado, o cliente e de fora, respeitavel. Voce vai ajudar?</text>
+		<text>Marked One, voce conhece a historia do conto de fadas sobre o Peixinho Dourado? Sim, sim, e essa mesmo. Ha um monte de piadas sobre isso tambem. De qualquer forma, ha esse velho que continua querendo pega-lo. Resumindo, preciso do artefato unico chamado Peixinho Dourado, o cliente e de fora, respeitavel. Voce vai ajudar?</text>
 	</string>
 	<string id="barmen_find_item_1">
 		<text>Encontre o traje psi</text>
@@ -181,25 +181,25 @@
 		<text>Encontre o ex-amigo do trader e ajude-o a morrer.</text>
 	</string>
 	<string id="barmen_kill_stalker_3_text">
-		<text>Eu costumava ter um amigo... dificil de acreditar, hein? Ah! nos viemos para a Zona juntos quando nada disso estava aqui... As coisas que costumavamos fazer, os lugares que costumavamos ir... bem, eramos jovens, nao nos importavamos com nada... Mas ele nunca se contentava. Ele queria ir para o centro da Zona e estava me convencendo a ir, mas eu recusei, e fiz a coisa certa... Tivemos uma briga muito feia e ele foi embora sozinho... E agora ouco dizer que alguem o viu la... ele esta com a Monolith agora. Entao o acordo e, Marca... Como amigo, faca isso por mim, encontre-o e... bem, nao o faca sofrer, ja deve ser ruim o suficiente... Ele era como um irmao para mim, sabe?</text>
+		<text>Eu costumava ter um amigo... dificil de acreditar, hein? Ah! nos viemos para a Zona juntos quando nada disso estava aqui... As coisas que costumavamos fazer, os lugares que costumavamos ir... bem, eramos jovens, nao nos importavamos com nada... Mas ele nunca se contentava. Ele queria ir para o centro da Zona e estava me convencendo a ir, mas eu recusei, e fiz a coisa certa... Tivemos uma briga muito feia e ele foi embora sozinho... E agora ouco dizer que alguem o viu la... ele esta com a Monolith agora. Entao o acordo e, Marked One... Como amigo, faca isso por mim, encontre-o e... bem, nao o faca sofrer, ja deve ser ruim o suficiente... Ele era como um irmao para mim, sabe?</text>
 	</string>
 	<string id="barmen_kill_stalker_4">
-		<text>Mate o stalker chamado Vampiro</text>
+		<text>Mate o stalker chamado Vampire</text>
 	</string>
 	<string id="barmen_kill_stalker_4_descr">
-		<text>Encontre e mate o stalker chamado Vampiro.</text>
+		<text>Encontre e mate o stalker chamado Vampire.</text>
 	</string>
 	<string id="barmen_kill_stalker_4_text">
-		<text>Chega, nao aguento mais esse canalha! Quero dizer Vampiro; voce o conhece? Aquele bastardo! Sugando a sorte das pessoas em vez de sangue. Quem quer que va com ele, todos morrem, todos sem excecao, mas ele sempre volta sao e salvo! Ja aconteceu cinco vezes! Isso e maldade, nao acha? Eu adoraria colocar algumas flores no tumulo desse Vampiro... Entao, voce aceita o trabalho?</text>
+		<text>Chega, nao aguento mais esse canalha! Quero dizer Vampire; voce o conhece? Aquele bastardo! Sugando a sorte das pessoas em vez de sangue. Quem quer que va com ele, todos morrem, todos sem excecao, mas ele sempre volta sao e salvo! Ja aconteceu cinco vezes! Isso e maldade, nao acha? Eu adoraria colocar algumas flores no tumulo desse Vampire... Entao, voce aceita o trabalho?</text>
 	</string>
 	<string id="barmen_kill_stalker_5">
-		<text>Mate o stalker chamado Pardal</text>
+		<text>Mate o stalker chamado Sparrow</text>
 	</string>
 	<string id="barmen_kill_stalker_5_descr">
-		<text>Encontre Pardal e vingue a morte de outro stalker.</text>
+		<text>Encontre Sparrow e vingue a morte de outro stalker.</text>
 	</string>
 	<string id="barmen_kill_stalker_5_text">
-		<text>Malditos mosqueteiros! Brincando de D'Artagnan, idiotas! Como se surfar em anomalias e curvar-se as balas nao fosse suficiente, os tolos agora comecaram a lutar em duelos! Entenda isso: houve uma briga... ninguem consegue mais se lembrar do que a iniciou. Entao esses dois cabecas-duras decidiram derramar sangue. E ai esta, um caiu morto... um bom stalker ele era, tambem! E o outro, Pardal, fugiu, porque eu seria o primeiro a colocar uma bala na cabeca dele. Encontre-o. Tenho certeza de que ele ainda esta na Zona. Voce vai fazer isso?</text>
+		<text>Malditos mosqueteiros! Brincando de D'Artagnan, idiotas! Como se surfar em anomalias e curvar-se as balas nao fosse suficiente, os tolos agora comecaram a lutar em duelos! Entenda isso: houve uma briga... ninguem consegue mais se lembrar do que a iniciou. Entao esses dois cabecas-duras decidiram derramar sangue. E ai esta, um caiu morto... um bom stalker ele era, tambem! E o outro, Sparrow, fugiu, porque eu seria o primeiro a colocar uma bala na cabeca dele. Encontre-o. Tenho certeza de que ele ainda esta na Zona. Voce vai fazer isso?</text>
 	</string>
 	<string id="barmen_monster_part_1">
 		<text>Obtenha o olho do Carniceiro</text>
@@ -367,10 +367,10 @@
 		<text>Neutralize o bandido</text>
 	</string>
 	<string id="dolg_kill_stalker_1_descr">
-		<text>Neutralize o bandido Poquer.</text>
+		<text>Neutralize o bandido Poker.</text>
 	</string>
 	<string id="dolg_kill_stalker_1_text">
-		<text>Apelido do sujeito - Poquer. Um dos lideres de bandidos mais crueis, porco e estuprador... Evidentemente sua cabeca nao esta boa: dizem que ele contraiu uma doenca rara na Zona. Agora ele sofre lapsos de memoria bastante frequentes e, quando recupera a consciencia, nao consegue se lembrar de quem e onde esta. No entanto, ele esta sempre armado e muito agressivo. Localizacao presumivel: Dark Valley. Pronto para a tarefa?</text>
+		<text>Apelido do sujeito - Poker. Um dos lideres de bandidos mais crueis, porco e estuprador... Evidentemente sua cabeca nao esta boa: dizem que ele contraiu uma doenca rara na Zona. Agora ele sofre lapsos de memoria bastante frequentes e, quando recupera a consciencia, nao consegue se lembrar de quem e onde esta. No entanto, ele esta sempre armado e muito agressivo. Localizacao presumivel: Dark Valley. Pronto para a tarefa?</text>
 	</string>
 	<string id="drunk_dolg_find_item">
 		<text>Encontre a arma do dutyer.</text>
@@ -658,13 +658,13 @@
 		<text>Pagarei pela cabeca de qualquer lider da Duty! Derrube um e volte para a recompensa.</text>
 	</string>
 	<string id="freedom_kill_stalker_6">
-		<text>Mate o stalker chamado Espantalho.</text>
+		<text>Mate o stalker chamado Scarecrow.</text>
 	</string>
 	<string id="freedom_kill_stalker_6_descr">
-		<text>Elimine o stalker chamado Espantalho</text>
+		<text>Elimine o stalker chamado Scarecrow</text>
 	</string>
 	<string id="freedom_kill_stalker_6_text">
-		<text>Eliminamos monstros, exceto que para nos e uma questao de sobrevivencia, nao de lucro. As populacoes de mutantes nao sao tao numerosas; alem disso, eles tambem sao seres vivos, entao nao podemos permitir sua aniquilacao. Alguns individuos se recusam a entender isso. Uma ilustracao adequada e o stalker chamado Espantalho. Ele recebeu seu apelido por um motivo, vendendo mutantes empalhados. Nos o avisamos antes, mas tudo em vao. Entao, voce pode fazer uma boa acao para a mae Terra?</text>
+		<text>Eliminamos monstros, exceto que para nos e uma questao de sobrevivencia, nao de lucro. As populacoes de mutantes nao sao tao numerosas; alem disso, eles tambem sao seres vivos, entao nao podemos permitir sua aniquilacao. Alguns individuos se recusam a entender isso. Uma ilustracao adequada e o stalker chamado Scarecrow. Ele recebeu seu apelido por um motivo, vendendo mutantes empalhados. Nos o avisamos antes, mas tudo em vao. Entao, voce pode fazer uma boa acao para a mae Terra?</text>
 	</string>
 	<string id="freedom_kill_stalker_7">
 		<text>Mate o stalker chamado Barin.</text>
@@ -700,10 +700,10 @@
 		<text>Mate o traidor.</text>
 	</string>
 	<string id="lisiy_kill_stalker_descr">
-		<text>O Careca quer que voce mate um stalker que fugiu com um artefato muito raro.</text>
+		<text>O Baldy quer que voce mate um stalker que fugiu com um artefato muito raro.</text>
 	</string>
 	<string id="lisiy_kill_stalker_text">
-		<text>Ha algum tempo, outro stalker e eu fomos procurar um artefato bem ao lado do Brain Scorcher. Encontramos tanta coisa, ate encontramos um par de artefatos que eu nunca tinha visto antes, nem mesmo fotos deles. Entao aquele canalha me enganou. Durante a ultima noite, ele fugiu sorrateiramente e escondeu os artefatos mais valiosos. E entao tentou me dizer que eles desapareceram sozinhos. Ha alguns dias, vi um daqueles artefatos muito raros no Bartender. Fiquei tao irritado... Enfim, stalker, se voce pudesse encontra-lo, mande-lhe um cumprimento de chumbo meu. E enquanto voce esta nisso, talvez possa descobrir onde esta seu esconderijo secreto e pegar o segundo artefato. Vale a pena, acredite em mim.</text>
+		<text>Ha algum tempo, outro stalker e eu fomos procurar um artefato bem ao lado do Brain Scorcher. Encontramos tanta coisa, ate encontramos um par de artefatos que eu nunca tinha visto antes, nem mesmo fotos deles. Entao aquele canalha me enganou. Durante a ultima noite, ele fugiu sorrateiramente e escondeu os artefatos mais valiosos. E entao tentou me dizer que eles desapareceram sozinhos. Ha alguns dias, vi um daqueles artefatos muito raros no Barkeep. Fiquei tao irritado... Enfim, stalker, se voce pudesse encontra-lo, mande-lhe um cumprimento de chumbo meu. E enquanto voce esta nisso, talvez possa descobrir onde esta seu esconderijo secreto e pegar o segundo artefato. Vale a pena, acredite em mim.</text>
 	</string>
 	<string id="mercenary_kill_stalker">
 		<text>Mate o stalker mestre.</text>
@@ -736,7 +736,7 @@
 		<text>Encontre o traje aperfeicoado.</text>
 	</string>
 	<string id="shustriy_find_item_descr">
-		<text>Agil nos contou sobre o esconderijo dos bandidos onde eles esconderam o saque. Ele esta pedindo para trazer de volta o traje roubado, por uma recompensa, e claro.</text>
+		<text>Nimble nos contou sobre o esconderijo dos bandidos onde eles esconderam o saque. Ele esta pedindo para trazer de volta o traje roubado, por uma recompensa, e claro.</text>
 	</string>
 	<string id="shustriy_find_item_text">
 		<text>Enquanto eu estava em cativeiro, ouvi os bandidos falando sobre seu esconderijo secreto, onde eles guardam o saque. Ouvi dizer que eles esconderam um casaco legal la, e no dia seguinte algum monstro colocou o olho no esconderijo. E ele ficou tao interessado nisso que agora eles tem medo de ir la. Faca-me um favor, traga-me o traje, e eu lhe pagarei bem.</text>
@@ -982,7 +982,7 @@
 		<text>O Demonio, tambem conhecido como Oleg Gusarov... costumava servir no Spetsnaz. Enquanto ele cuidasse da propria vida, eu nao tinha nada contra ele, um loner e um loner. Mas ouvi dizer que ele esta reunindo uma gangue para esmagar o Cordon e assumir o controle das operacoes de contrabando da Zona. Agora este e um grande problema e precisa ser resolvido rapidamente. Entao, voce vai fazer isso?</text>
 	</string>
 	<string id="tm_kill_stalker_5">
-		<text>Mate o Padre Diodor</text>
+		<text>Mate o Father Diodor</text>
 	</string>
 	<string id="tm_kill_stalker_5_descr">
 		<text>Matar um homem que prega na Zona contra a coleta e venda de artefatos? Exatamente.</text>
@@ -1141,7 +1141,7 @@
 		<text>Destrua o covil de javalis</text>
 	</string>
 	<string id="wolf_eliminate_lager_1_descr">
-		<text>Os javalis fizeram um covil perto do local onde Lobo e seu amigo fizeram um deposito. Lobo pede para limpar o covil e prometeu recompensa-lo generosamente.</text>
+		<text>Os javalis fizeram um covil perto do local onde Wolf e seu amigo fizeram um deposito. Wolf pede para limpar o covil e prometeu recompensa-lo generosamente.</text>
 	</string>
 	<string id="wolf_eliminate_lager_1_text">
 		<text>Meu amigo e eu tinhamos um deposito aqui nao muito longe do estacionamento, onde a floresta e mais densa. Basicamente, exatamente o que voce precisa. Mas recentemente os javalis fizeram um covil la e agora nao podemos chegar ao deposito. Ajude - mate os javalis e eu lhe agradecerei, por mim e pelo meu amigo.</text>
@@ -1150,7 +1150,7 @@
 		<text>Destrua os mutantes na fazenda</text>
 	</string>
 	<string id="wolf_eliminate_lager_2_descr">
-		<text>Lobo pede para limpar a fazenda de mutantes, quer montar um acampamento de posto avancado la.</text>
+		<text>Wolf pede para limpar a fazenda de mutantes, quer montar um acampamento de posto avancado la.</text>
 	</string>
 	<string id="wolf_eliminate_lager_2_text">
 		<text>Embora esta seja a fronteira da Zona, os novatos tem dificuldades ate aqui. Os bandidos sao apenas metade do problema - pelo menos eles entendem russo. Mas os mutantes - e muito dificil com eles. Eles fizeram um covil na fazenda abandonada, tomaram o unico lugar bom para um acampamento de posto avancado. Se voce conseguir limpar a fazenda dos mutantes, eu lhe devo uma.</text>

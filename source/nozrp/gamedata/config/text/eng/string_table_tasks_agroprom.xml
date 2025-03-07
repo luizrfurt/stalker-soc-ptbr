@@ -1,20 +1,20 @@
 	<string id="agr_find_ghost">
-		<text>Descubra o que aconteceu com Fantasma</text>
+		<text>Descubra o que aconteceu com Ghost</text>
 	</string>
 	<string id="agr_gunslinger_cache">
 		<text>Esconderijo de Strelok</text>
 	</string>
 	<string id="agr_help_krot">
-		<text>Salve Toupeira</text>
+		<text>Salve Mole</text>
 	</string>
 	<string id="agr_help_krot_0">
-		<text>Ajude Toupeira a lutar contra os soldados</text>
+		<text>Ajude Mole a lutar contra os soldados</text>
 	</string>
 	<string id="agr_help_krot_1">
 		<text>Mate os soldados</text>
 	</string>
 	<string id="agr_help_krot_2">
-		<text>Salve Toupeira</text>
+		<text>Salve Mole</text>
 	</string>
 	<string id="agr_help_stalkers">
 		<text>Ajude os stalkers</text>
@@ -35,13 +35,13 @@
 		<text>Obtenha informacoes sobre Strelok</text>
 	</string>
 	<string id="agr_meet_krot_band_0">
-		<text>Obtenha informacoes de Toupeira</text>
+		<text>Obtenha informacoes de Mole</text>
 	</string>
 	<string id="agr_meet_krot_band_1">
-		<text>Encontre o grupo de Toupeira</text>
+		<text>Encontre o grupo de Mole</text>
 	</string>
 	<string id="agr_meet_krot_band_2">
-		<text>Obtenha informacoes de Toupeira</text>
+		<text>Obtenha informacoes de Mole</text>
 	</string>
 	<string id="agroprom_find_gunslinger_cache">
 		<text>Encontre o esconderijo do grupo de Strelok</text>
@@ -59,10 +59,10 @@
 		<text>Encontre a saida do subterraneo</text>
 	</string>
 	<string id="agroprom_find_stalker_phantom">
-		<text>Encontre Fantasma</text>
+		<text>Encontre Ghost</text>
 	</string>
 	<string id="agroprom_find_stalker_phantom_0">
-		<text>Fantasma sabe onde Strelok esta.</text>
+		<text>Ghost sabe onde Strelok esta.</text>
 	</string>
 	<string id="agroprom_get_military_documents">
 		<text>Encontre os documentos dos militares</text>
@@ -74,5 +74,5 @@
 		<text>Roube os documentos dos militares</text>
 	</string>
 	<string id="agroprom_get_military_documents_2">
-		<text>Leve os documentos para Bartender</text>
+		<text>Leve os documentos para Barkeep</text>
 	</string>

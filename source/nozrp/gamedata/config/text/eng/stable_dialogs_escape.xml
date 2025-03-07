@@ -25,7 +25,7 @@
 		<text>Entao volte de onde voce veio e pegue. E nao tente passar sorrateiramente por nos, ouviu? Confie em mim, nao vale a pena morrer por isso.</text>
 	</string>
 	<string id="esc_lager_no_talk_11">
-		<text>Saia daqui, Marca. Va embora ou rasteje, a escolha e sua.</text>
+		<text>Saia daqui, Marked One. Va embora ou rasteje, a escolha e sua.</text>
 	</string>
 	<string id="esc_lager_no_talk_111">
 		<text>O que deu em voce?</text>
@@ -40,16 +40,16 @@
 		<text>Ola, irmao.</text>
 	</string>
 	<string id="esc_provodnik_start_12">
-		<text>Guia, preciso ver o Doutor.</text>
+		<text>Guide, preciso ver o Doc.</text>
 	</string>
 	<string id="esc_provodnik_start_13">
-		<text>Olha so. Como voce sabe sobre o Doutor?</text>
+		<text>Olha so. Como voce sabe sobre o Doc?</text>
 	</string>
 	<string id="esc_provodnik_start_14">
-		<text>Fantasma me mandou. Ajude-me a entrar em contato com o Doutor. E urgente.</text>
+		<text>Ghost me mandou. Ajude-me a entrar em contato com o Doc. E urgente.</text>
 	</string>
 	<string id="esc_provodnik_start_15">
-		<text>Bem, por que voce nao disse isso antes! O Doutor esta no esconderijo de Strelok. Se voce e quem diz ser, provavelmente sabe onde fica.</text>
+		<text>Bem, por que voce nao disse isso antes! O Doc esta no esconderijo de Strelok. Se voce e quem diz ser, provavelmente sabe onde fica.</text>
 	</string>
 	<string id="esc_provodnik_start_16">
 		<text>Obrigado.</text>
@@ -76,13 +76,13 @@
 		<text>O Garbage, isso sim. Um lugar deprimente. Tanta merda contaminada em alguns pontos que nadar seria mais facil do que andar.</text>
 	</string>
 	<string id="escape_factory_assault_start_31">
-		<text>Ola. Lobo ja mandou noticias suas. Voce tem alguma pergunta?</text>
+		<text>Ola. Wolf ja mandou noticias suas. Voce tem alguma pergunta?</text>
 	</string>
 	<string id="escape_factory_assault_start_311">
 		<text>Sim. Quantos bandidos no acampamento?</text>
 	</string>
 	<string id="escape_factory_assault_start_3111">
-		<text>Sete ou oito pessoas. Dois no portao, mais dois no predio a direita perto da fogueira, e outros dois no da esquerda - e onde eles estao mantendo Agil. Alguem geralmente fica rondando o patio tambem. E mais ou menos isso. Devemos fazer uma oracao e ir?</text>
+		<text>Sete ou oito pessoas. Dois no portao, mais dois no predio a direita perto da fogueira, e outros dois no da esquerda - e onde eles estao mantendo Nimble. Alguem geralmente fica rondando o patio tambem. E mais ou menos isso. Devemos fazer uma oracao e ir?</text>
 	</string>
 	<string id="escape_factory_assault_start_31111">
 		<text>Vamos. Reuna seus homens.</text>
@@ -94,7 +94,7 @@
 		<text>Bem, faca como quiser. Grite se algo acontecer... Que se dane voce, aspirante a Rambo!</text>
 	</string>
 	<string id="escape_factory_assault_start_41">
-		<text>Nos fomos cacar e cacamos. Aposto que Lobo ficara satisfeito.</text>
+		<text>Nos fomos cacar e cacamos. Aposto que Wolf ficara satisfeito.</text>
 	</string>
 	<string id="escape_factory_assault_start_51">
 		<text>Ha mais deles! Encontre os bastardos e derrube-os!</text>
@@ -154,7 +154,7 @@
 		<text>Nosso chefe aqui queria te ver. Mas isso nao faz de voce um convidado bem-vindo. Continue andando.</text>
 	</string>
 	<string id="escape_lager_guard_start_dialog_2">
-		<text>Espere, Marca! Ninguem no acampamento vai falar com voce agora.</text>
+		<text>Espere, Marked One! Ninguem no acampamento vai falar com voce agora.</text>
 	</string>
 	<string id="escape_lager_guard_start_dialog_21">
 		<text>Por que?</text>
@@ -166,7 +166,7 @@
 		<text>Que "caminhao da morte?" Do que voce esta falando?</text>
 	</string>
 	<string id="escape_lager_guard_start_dialog_21211">
-		<text>Ah, so o inferno sabe o que realmente e. Mas seja la o que for, e ruim, tao ruim quanto pode ser... Por que estou falando com voce sobre isso, afinal! Talvez eu seja apenas supersticioso, mas voce, Marca, deveria realmente ir embora antes que algo aconteca com voce.</text>
+		<text>Ah, so o inferno sabe o que realmente e. Mas seja la o que for, e ruim, tao ruim quanto pode ser... Por que estou falando com voce sobre isso, afinal! Talvez eu seja apenas supersticioso, mas voce, Marked One, deveria realmente ir embora antes que algo aconteca com voce.</text>
 	</string>
 	<string id="escape_lager_guard_start_dialog_2122">
 		<text>O que posso fazer para que as pessoas acreditem em mim?</text>
@@ -178,16 +178,16 @@
 		<text>Tudo bem, que assim seja.</text>
 	</string>
 	<string id="escape_lager_guard_start_dialog_3">
-		<text>Ola, Marca. O que voce quer?</text>
+		<text>Ola, Marked One. O que voce quer?</text>
 	</string>
 	<string id="escape_lager_leader_hello_11">
-		<text>Escuta, Marca, voce sera util! Nos realmente poderiamos usar alguma ajuda.</text>
+		<text>Escuta, Marked One, voce sera util! Nos realmente poderiamos usar alguma ajuda.</text>
 	</string>
 	<string id="escape_lager_leader_hello_111">
 		<text>Continue.</text>
 	</string>
 	<string id="escape_lager_leader_hello_1111">
-		<text>Eu sou Fanatico, e estou substituindo o lider desde que Lobo saiu. Alguns Mercs passaram por aqui ontem... e eles eram uns bastardos duroes, deixe-me te dizer. Eles vem aqui e comecam a fazer exigencias serias - "Voces tem um dia para limpar este acampamento. Sera nossa nova base." Hoje a noite eles estao voltando e, como voce pode imaginar, eles nao estarao com humor para conversar.</text>
+		<text>Eu sou Fanatic, e estou substituindo o lider desde que Wolf saiu. Alguns Mercs passaram por aqui ontem... e eles eram uns bastardos duroes, deixe-me te dizer. Eles vem aqui e comecam a fazer exigencias serias - "Voces tem um dia para limpar este acampamento. Sera nossa nova base." Hoje a noite eles estao voltando e, como voce pode imaginar, eles nao estarao com humor para conversar.</text>
 	</string>
 	<string id="escape_lager_leader_hello_11111">
 		<text>Entao, o que voces vao fazer?</text>
@@ -214,22 +214,22 @@
 		<text>Esperando por esses escoteiros. Tenho a sensacao de que eles estao logo ali.</text>
 	</string>
 	<string id="escape_lager_leader_hello_31">
-		<text>Voce e um verdadeiro assassino, Marca! Eu nao gostaria de ficar no seu caminho. Nunca!</text>
+		<text>Voce e um verdadeiro assassino, Marked One! Eu nao gostaria de ficar no seu caminho. Nunca!</text>
 	</string>
 	<string id="escape_lager_leader_hello_311">
 		<text>Sim, algo assim.</text>
 	</string>
 	<string id="escape_lager_leader_hello_3111">
-		<text>Aqui, espero que voce nao se esqueca de nos. E a proposito... um milhao de agradecimentos pela ajuda. Salvamos os jovens, Marca.</text>
+		<text>Aqui, espero que voce nao se esqueca de nos. E a proposito... um milhao de agradecimentos pela ajuda. Salvamos os jovens, Marked One.</text>
 	</string>
 	<string id="escape_lager_leader_hello_41">
-		<text>Ei, Marca, que bom te ver!</text>
+		<text>Ei, Marked One, que bom te ver!</text>
 	</string>
 	<string id="escape_lager_leader_hello_411">
 		<text>Ola para voce tambem.</text>
 	</string>
 	<string id="escape_lager_leader_hello_412">
-		<text>A proposito, para onde Lobo foi?</text>
+		<text>A proposito, para onde Wolf foi?</text>
 	</string>
 	<string id="escape_lager_leader_hello_4121">
 		<text>Ah, ele recebeu uma mensagem de um stalker que estava passando. Ele arrumou suas coisas, pegou uma caixa de dinamite e foi para o fundo da Zona. Ainda estou me recuperando dos ferimentos que sofri no Cordon, entao ele me pediu para cuidar das criancas.</text>
@@ -295,10 +295,10 @@
 		<text>Diga. Por que voce esta aqui?</text>
 	</string>
 	<string id="escape_lager_volk_talk_111">
-		<text>E ai. Preciso ver Agil. Voce saberia onde posso encontra-lo?</text>
+		<text>E ai. Preciso ver Nimble. Voce saberia onde posso encontra-lo?</text>
 	</string>
 	<string id="escape_lager_volk_talk_1111">
-		<text>Agil se deu mal. O grupo dele foi atacado por alguns bandidos um pouco longe daqui. Tudo o que ele podia fazer era me mandar uma mensagem de SOS. Parecia que seus amigos cairam. Meus caras me disseram que esses bastardos estao agora no antigo estacionamento, aquele do outro lado da rua.</text>
+		<text>Nimble se deu mal. O grupo dele foi atacado por alguns bandidos um pouco longe daqui. Tudo o que ele podia fazer era me mandar uma mensagem de SOS. Parecia que seus amigos cairam. Meus caras me disseram que esses bastardos estao agora no antigo estacionamento, aquele do outro lado da rua.</text>
 	</string>
 	<string id="escape_lager_volk_talk_11111">
 		<text>Voce nao resgata seu proprio pessoal da prisao? Nao e o que eu chamaria de amigavel. Ou e que voce e simplesmente fraco demais para fazer isso?</text>
@@ -355,7 +355,7 @@
 		<text>Entendi, nao sou estupido.</text>
 	</string>
 	<string id="escape_lager_volk_talk_41">
-		<text>Ola, Marca. Qual e a ocasiao?</text>
+		<text>Ola, Marked One. Qual e a ocasiao?</text>
 	</string>
 	<string id="escape_lager_volk_talk_51">
 		<text>Me diga algo novo, stalker.</text>
@@ -430,10 +430,10 @@
 		<text>Nao, nao posso aceitar ainda.</text>
 	</string>
 	<string id="escape_trader_jobs_521">
-		<text>Vamos la, cara, nao e tao ruim quanto parece. Um bando de recrutas bebados e verdes como grama com um unico oficial nao comissionado... Bem, OK, mas eu estava realmente contando com voce, Marca...</text>
+		<text>Vamos la, cara, nao e tao ruim quanto parece. Um bando de recrutas bebados e verdes como grama com um unico oficial nao comissionado... Bem, OK, mas eu estava realmente contando com voce, Marked One...</text>
 	</string>
 	<string id="escape_trader_jobs_6">
-		<text>Escuta, Marca... Eu pensei um pouco, e aqui esta o que eu gostaria de oferecer... De modo geral, o que voce realmente precisa e encontrar Strelok. Certo?</text>
+		<text>Escuta, Marked One... Eu pensei um pouco, e aqui esta o que eu gostaria de oferecer... De modo geral, o que voce realmente precisa e encontrar Strelok. Certo?</text>
 	</string>
 	<string id="escape_trader_jobs_61">
 		<text>Vamos supor que sim.</text>
@@ -451,7 +451,7 @@
 		<text>Acho que sim.</text>
 	</string>
 	<string id="escape_trader_jobs_6111111">
-		<text>Depois que voce tiver a pasta, nao a traga aqui. Leve-a direto para o Bartender. Ele administra o bar dos stalkers, o 100 Rads, vou carregar as coordenadas e todos os dados que voce precisa no seu PDA. Entendido?</text>
+		<text>Depois que voce tiver a pasta, nao a traga aqui. Leve-a direto para o Barkeep. Ele administra o bar dos stalkers, o 100 Rads, vou carregar as coordenadas e todos os dados que voce precisa no seu PDA. Entendido?</text>
 	</string>
 	<string id="escape_trader_jobs_61111111">
 		<text>Entendi.</text>
@@ -460,16 +460,16 @@
 		<text>Voce tera que ir para o norte pelo Garbage, depois virar para o oeste. Voce vai acabar no Agroprom Research Institute depois de alguns quilometros. E tenha cuidado, o nivel de radiacao e muito alto no Garbage. Entao, sugiro que voce desembolse algum antirrad ou vodka. Bem, boa sorte.</text>
 	</string>
 	<string id="escape_trader_start_dialog_111">
-		<text>Tenho um trabalho para voce, Marca... Quero que voce encontre um stalker chamado Agil, ele estava carregando algumas informacoes muito importantes. Ele desapareceu em algum lugar perto da ponte. Encontre-o, morto ou vivo - nao me importo, preciso do pendrive com as informacoes. Visite Lobo no acampamento local e pergunte a ele. Ele certamente sabe onde esse cara pode estar.</text>
+		<text>Tenho um trabalho para voce, Marked One... Quero que voce encontre um stalker chamado Nimble, ele estava carregando algumas informacoes muito importantes. Ele desapareceu em algum lugar perto da ponte. Encontre-o, morto ou vivo - nao me importo, preciso do pendrive com as informacoes. Visite Wolf no acampamento local e pergunte a ele. Ele certamente sabe onde esse cara pode estar.</text>
 	</string>
 	<string id="escape_trader_start_dialog_1111">
 		<text>E so isso?</text>
 	</string>
 	<string id="escape_trader_start_dialog_171">
-		<text>Ei Marca, e ai?</text>
+		<text>Ei Marked One, e ai?</text>
 	</string>
 	<string id="escape_trader_start_dialog_181">
-		<text>Marca, o que voce esta fazendo aqui? Eu te disse para encontrar Agil!</text>
+		<text>Marked One, o que voce esta fazendo aqui? Eu te disse para encontrar Nimble!</text>
 	</string>
 	<string id="escape_trader_start_dialog_191">
 		<text>Entao, voce visitou o X18? Pegou os documentos?</text>
@@ -478,7 +478,7 @@
 		<text>Sim. Aqui estao eles.</text>
 	</string>
 	<string id="escape_trader_start_dialog_19111">
-		<text>Bem, bem... Entendo... Isso e interessante, muito interessante! Se eu contasse para alguem, eles nao acreditariam em mim! Hmm... Sim... Oh! Olha so isso! Eu nao esperava por isso... e bem ruim, hein... Bem, aqui, pegue de volta e de para o Bartender. Ah, e eu te devo pelos seus esforcos.</text>
+		<text>Bem, bem... Entendo... Isso e interessante, muito interessante! Se eu contasse para alguem, eles nao acreditariam em mim! Hmm... Sim... Oh! Olha so isso! Eu nao esperava por isso... e bem ruim, hein... Bem, aqui, pegue de volta e de para o Barkeep. Ah, e eu te devo pelos seus esforcos.</text>
 	</string>
 	<string id="escape_trader_start_dialog_199">
 		<text>Espere. Aqui, pegue esta pistola e municao. Voce nao duraria dois segundos na Zona sem uma arma! A proposito, quando voce foi trazido para ca, voce tinha uma faca. Eu tirei de voce por precaucao, caso sua cabeca nao estivesse funcionando direito. Voce parece bem, entao aqui esta.</text>
@@ -487,13 +487,13 @@
 		<text>Obrigado.</text>
 	</string>
 	<string id="escape_trader_start_dialog_200">
-		<text>Entao, Marca, algum progresso em nosso negocio mutuo?</text>
+		<text>Entao, Marked One, algum progresso em nosso negocio mutuo?</text>
 	</string>
 	<string id="escape_trader_start_dialog_3">
 		<text>A escolha e sua. Ou eu lavo seu cerebro como costumo fazer com todos os novatos ou te trato como um stalker de verdade e te dou uma missao direto.</text>
 	</string>
 	<string id="escape_trader_start_dialog_300">
-		<text>Ei, Marca! Bom timing, tenho um pequeno trabalho para voce.</text>
+		<text>Ei, Marked One! Bom timing, tenho um pequeno trabalho para voce.</text>
 	</string>
 	<string id="escape_trader_start_dialog_31">
 		<text>Me trate como um novato, nao me lembro de merda nenhuma.</text>
@@ -502,7 +502,7 @@
 		<text>Apenas me de uma missao.</text>
 	</string>
 	<string id="escape_trader_start_dialog_321">
-		<text>Tenho um trabalho para voce, Marca... Quero que voce encontre um stalker chamado Agil, ele estava carregando algumas informacoes muito importantes. Ele desapareceu em algum lugar perto da ponte. Encontre-o, morto ou vivo - nao me importo, preciso do pendrive com as informacoes. Visite Lobo no acampamento local e pergunte a ele. Ele certamente sabe onde esse cara pode estar.</text>
+		<text>Tenho um trabalho para voce, Marked One... Quero que voce encontre um stalker chamado Nimble, ele estava carregando algumas informacoes muito importantes. Ele desapareceu em algum lugar perto da ponte. Encontre-o, morto ou vivo - nao me importo, preciso do pendrive com as informacoes. Visite Wolf no acampamento local e pergunte a ele. Ele certamente sabe onde esse cara pode estar.</text>
 	</string>
 	<string id="escape_trader_start_dialog_3211">
 		<text>Continue.</text>
@@ -514,16 +514,16 @@
 		<text>OK, eu vou tentar.</text>
 	</string>
 	<string id="escape_trader_start_dialog_4">
-		<text>Ei, Marca. Que bom te ver vivo.</text>
+		<text>Ei, Marked One. Que bom te ver vivo.</text>
 	</string>
 	<string id="escape_trader_start_dialog_5">
-		<text>Saudacoes, Marca! Voce conseguiu?</text>
+		<text>Saudacoes, Marked One! Voce conseguiu?</text>
 	</string>
 	<string id="escape_trader_start_dialog_51">
 		<text>Tarefa completa. Aqui esta o artefato.</text>
 	</string>
 	<string id="escape_trader_start_dialog_511">
-		<text>Otimo, Marca. Mais um pequeno favor e estamos quites.</text>
+		<text>Otimo, Marked One. Mais um pequeno favor e estamos quites.</text>
 	</string>
 	<string id="escape_trader_start_dialog_5111">
 		<text>Que favor?</text>
@@ -544,7 +544,7 @@
 		<text>Eu nao tenho ele.</text>
 	</string>
 	<string id="escape_trader_start_dialog_5211121">
-		<text>Que pena, Marca, uma pena real. Nao podemos falar de negocios ate voce me trazer ele...</text>
+		<text>Que pena, Marked One, uma pena real. Nao podemos falar de negocios ate voce me trazer ele...</text>
 	</string>
 	<string id="escape_trader_start_dialog_521211">
 		<text>Aqui, pegue.</text>
@@ -565,10 +565,10 @@
 		<text>Bem, ate voce trazer, nao temos nada para conversar. Entendeu?</text>
 	</string>
 	<string id="escape_trader_start_dialog_6">
-		<text>Marca, eu ja te disse tudo. Suma daqui!</text>
+		<text>Marked One, eu ja te disse tudo. Suma daqui!</text>
 	</string>
 	<string id="escape_trader_start_dialog_661">
-		<text>Entao, Marca, alguma novidade?</text>
+		<text>Entao, Marked One, alguma novidade?</text>
 	</string>
 	<string id="escape_trader_talk_info_0">
 		<text>Preciso de respostas para algumas perguntas.</text>
@@ -625,7 +625,7 @@
 		<text>Sim, ja ouvi falar de um stalker com esse nome. Dizem que ele e um dos poucos que foi ao centro da Zona e voltou. Ainda assim, temos tantas dessas historias lendarias sobre herois stalkers que nao posso garantir nada. De qualquer forma, nunca lidei com ele pessoalmente. Parece que ele tem seus proprios canais de comercio. De qualquer forma, basta perguntar ao pessoal aqui na Zona e voce certamente aprendera muito mais.</text>
 	</string>
 	<string id="escape_trader_talk_info_6">
-		<text>Quem e esse stalker Fantasma?</text>
+		<text>Quem e esse stalker Ghost?</text>
 	</string>
 	<string id="escape_trader_talk_info_61">
 		<text>Heh, essa e outra lenda local. Nao temos noticias dele ha muito tempo. Suponho que ele tenha perecido em algum lugar profundo na Zona.</text>
@@ -715,10 +715,10 @@
 		<text>O que diabos aconteceu?</text>
 	</string>
 	<string id="tutorial_wounded_give_medkit_2111">
-		<text>Estavamos voltando de uma missao de reconhecimento... Encontramos alguns gangsters. Um dos nossos caras foi morto ali mesmo. Eles pegaram Agil porque ele inventou uma bela historia sobre um esconderijo cheio de artefatos. Eu me fingi de morto e isso salvou minha pele.</text>
+		<text>Estavamos voltando de uma missao de reconhecimento... Encontramos alguns gangsters. Um dos nossos caras foi morto ali mesmo. Eles pegaram Nimble porque ele inventou uma bela historia sobre um esconderijo cheio de artefatos. Eu me fingi de morto e isso salvou minha pele.</text>
 	</string>
 	<string id="tutorial_wounded_give_medkit_21111">
-		<text>Preciso ver Agil... Vou atras dele. Quer me fazer companhia?</text>
+		<text>Preciso ver Nimble... Vou atras dele. Quer me fazer companhia?</text>
 	</string>
 	<string id="tutorial_wounded_give_medkit_211111">
 		<text>Ah, cara... Agora eu sou um lutador tao bom quanto um par de meias velhas. Preciso recuperar minhas forcas e voltar para o acampamento. Vou avisar as pessoas o quanto voce me ajudou! Obrigado de novo.</text>

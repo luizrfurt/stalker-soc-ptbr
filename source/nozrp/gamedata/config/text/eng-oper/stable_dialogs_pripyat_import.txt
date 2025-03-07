@@ -1,6 +1,6 @@
 4|<text>Vamos subir a rua. Se algo acontecer, me cubra.</text>
 7|<text>OK.</text>
-10|<text>Obrigado pela ajuda, Marca. Foi uma luta dificil. Podemos descansar aqui. Se voce quiser continuar, vou te contar mais sobre a area. Se voce voltar e virar a direita, chegara a rodoviaria. Essa area e aberta e nao muito segura. Se voce seguir em frente, vai parar em frente ao hotel. A direita dele fica a base da Monolith. Aqueles caras nao tem limites. Atras da base fica o estadio. Estavamos planejando chegar a estacao por ele. E tudo.</text>
+10|<text>Obrigado pela ajuda, Marked One. Foi uma luta dificil. Podemos descansar aqui. Se voce quiser continuar, vou te contar mais sobre a area. Se voce voltar e virar a direita, chegara a rodoviaria. Essa area e aberta e nao muito segura. Se voce seguir em frente, vai parar em frente ao hotel. A direita dele fica a base da Monolith. Aqueles caras nao tem limites. Atras da base fica o estadio. Estavamos planejando chegar a estacao por ele. E tudo.</text>
 13|<text>Obrigado.</text>
 16|<text>Obrigado pela ajuda. Boa sorte.</text>
 19|<text>Tchau.</text>

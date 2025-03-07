@@ -88,19 +88,19 @@
 		<text>Chave de Borov</text>
 	</string>
 	<string id="item_krot_flash">
-		<text>Pendrive de Toupeira</text>
+		<text>Pendrive de Mole</text>
 	</string>
 	<string id="item_PDA_lucky_desc">
 		<text>Assistente digital pessoal. Indispensavel na Zona.</text>
 	</string>
 	<string id="item_PDA_lucky_name">
-		<text>PDA de Sortudo</text>
+		<text>PDA de Lucky</text>
 	</string>
 	<string id="item_PDA_tiran_desc">
 		<text>Assistente digital pessoal. Indispensavel na Zona.</text>
 	</string>
 	<string id="item_PDA_tiran_name">
-		<text>PDA de Tirano</text>
+		<text>PDA de Tyran</text>
 	</string>
 	<string id="item_quest_case_02_desc">
 		<text>Uma pasta a prova de fogo com documentos.</text>

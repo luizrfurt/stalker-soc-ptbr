@@ -32,10 +32,10 @@
 		<text>A luta comecou!</text>
 	</string>
 	<string id="bar_arena_fight_bloodsucker">
-		<text>Atencao! Atencao! Uma nova luta esta prestes a comecar na Arena! No canto esquerdo - o pesadelo mais temido da Zona, o faminto Sanguessuga! E no canto direito... Um homem? Sim, e um homem! Seus aplausos para o Marca!</text>
+		<text>Atencao! Atencao! Uma nova luta esta prestes a comecar na Arena! No canto esquerdo - o pesadelo mais temido da Zona, o faminto Sanguessuga! E no canto direito... Um homem? Sim, e um homem! Seus aplausos para o Marked One!</text>
 	</string>
 	<string id="bar_arena_fight_burer">
-		<text>Atencao! Atencao! Uma nova luta esta prestes a comecar na Arena! No canto esquerdo - o proprio mestre do kung-fu que dobra colheres - o Lancador! E no canto direito - o homem constantemente em alerta! Eles o chamam de Marca!</text>
+		<text>Atencao! Atencao! Uma nova luta esta prestes a comecar na Arena! No canto esquerdo - o proprio mestre do kung-fu que dobra colheres - o Lancador! E no canto direito - o homem constantemente em alerta! Eles o chamam de Marked One!</text>
 	</string>
 	<string id="bar_arena_fight_dead">
 		<text>Entao, o desafiante foi morto! Que surpresa!</text>
@@ -44,13 +44,13 @@
 		<text>Bem, o desafiante matou seu oponente, mas nao fez isso a tempo. Ele perde a luta!</text>
 	</string>
 	<string id="bar_arena_fight_pseudodog">
-		<text>Atencao! Atencao! Uma nova luta esta prestes a comecar na Arena. No canto esquerdo - e branco, e fofo e esta irritado como o inferno... O Pseudocao! E no canto direito - ele veio do nada e e exatamente para onde esta indo. Eles o chamam de Marca!</text>
+		<text>Atencao! Atencao! Uma nova luta esta prestes a comecar na Arena. No canto esquerdo - e branco, e fofo e esta irritado como o inferno... O Pseudocao! E no canto direito - ele veio do nada e e exatamente para onde esta indo. Eles o chamam de Marked One!</text>
 	</string>
 	<string id="bar_arena_fight_savage">
-		<text>Atencao! Atencao! Uma nova luta esta prestes a comecar na Arena. No canto esquerdo - voce o conhece, voce o ama, e ele te odeia de volta! E a Fera! E no canto direito - vivo e chutando, pelo menos por enquanto - o Marca!</text>
+		<text>Atencao! Atencao! Uma nova luta esta prestes a comecar na Arena. No canto esquerdo - voce o conhece, voce o ama, e ele te odeia de volta! E a Beast! E no canto direito - vivo e chutando, pelo menos por enquanto - o Marked One!</text>
 	</string>
 	<string id="bar_arena_fight_snork">
-		<text>Atencao! Atencao! Uma nova luta esta prestes a comecar na Arena! No canto esquerdo - o guru das artes marciais e especialista em saude - o Snorkel! E no canto direito - o homem sem passado e sem futuro. Eles o chamam de Marca!</text>
+		<text>Atencao! Atencao! Uma nova luta esta prestes a comecar na Arena! No canto esquerdo - o guru das artes marciais e especialista em saude - o Snorkel! E no canto direito - o homem sem passado e sem futuro. Eles o chamam de Marked One!</text>
 	</string>
 	<string id="bar_arena_fight_timeout">
 		<text>O tempo acabou! O desafiante perdeu, mas ainda esta lutando por sua vida!</text>
@@ -68,13 +68,13 @@
 		<text>Ha! Onde esta seu helicoptero agora, ratos do governo? Seu tempo acabou!</text>
 	</string>
 	<string id="bar_ecolog_crush_start_heli">
-		<text>Voce realmente conseguiu desta vez, Galgo. Um helicoptero militar esta a caminho. Eles vao fazer picadinho de voce!</text>
+		<text>Voce realmente conseguiu desta vez, Wolfhound. Um helicoptero militar esta a caminho. Eles vao fazer picadinho de voce!</text>
 	</string>
 	<string id="bar_ecolog_escape">
 		<text>Kruglov escapou! Encontre-o! Ele nao pode ter ido muito longe.</text>
 	</string>
 	<string id="bar_ecolog_hit">
-		<text>Ajude-me, Marca! Eles estao me matando!!!</text>
+		<text>Ajude-me, Marked One! Eles estao me matando!!!</text>
 	</string>
 	<string id="bar_ecolog_spam_1">
 		<text>Continue sonhando, cachorro! Volte para a escola antes de comecar a dar ultimatos.</text>
@@ -86,7 +86,7 @@
 		<text>Se voce nao quer que eu destrua os materiais de pesquisa, e melhor ficar longe!</text>
 	</string>
 	<string id="bar_ecolog_spam_4">
-		<text>Pegue seus caes, Galgo, e saia daqui enquanto ainda pode andar.</text>
+		<text>Pegue seus caes, Wolfhound, e saia daqui enquanto ainda pode andar.</text>
 	</string>
 	<string id="bar_freedom_attack">
 		<text>Chega de conversa. Vamos matar!</text>
@@ -95,10 +95,10 @@
 		<text>Ei, venha aqui, cara! Podemos acabar com os ratos do governo juntos.</text>
 	</string>
 	<string id="bar_freedom_attack_spy">
-		<text>Seu bastardo! Voce vai pagar por nos armar. Nao se esqueca disso, Marca.</text>
+		<text>Seu bastardo! Voce vai pagar por nos armar. Nao se esqueca disso, Marked One.</text>
 	</string>
 	<string id="bar_freedom_chase">
-		<text>Eles estao nos seguindo?! Marca, voce deve para-los!</text>
+		<text>Eles estao nos seguindo?! Marked One, voce deve para-los!</text>
 	</string>
 	<string id="bar_freedom_spam_1">
 		<text>Pensei que voces, cientistas, fossem inteligentes. Vou simplificar: ou voce me da os documentos, ou sai daqui em um saco plastico.</text>
@@ -116,22 +116,22 @@
 		<text>Venha aqui rapido! Meus rapazes pegaram um stalker louco na Red Forest. Estamos tentando obter algumas informacoes dele agora mesmo!</text>
 	</string>
 	<string id="bar_territory_dolg_1_hit">
-		<text>Marca, voce e louco?! Pare de atirar AGORA! Isso e uma ordem!</text>
+		<text>Marked One, voce e louco?! Pare de atirar AGORA! Isso e uma ordem!</text>
 	</string>
 	<string id="bar_territory_dolg_2_hit">
-		<text>Pare de atirar AGORA, Marca! Faca o que eu digo ou voce e um homem morto!</text>
+		<text>Pare de atirar AGORA, Marked One! Faca o que eu digo ou voce e um homem morto!</text>
 	</string>
 	<string id="bar_territory_dolg_3_hit">
-		<text>Voce esta expulso do grupo por quebrar o Codigo, Marca. Voce nao tem amigos na Duty agora.</text>
+		<text>Voce esta expulso do grupo por quebrar o Codigo, Marked One. Voce nao tem amigos na Duty agora.</text>
 	</string>
 	<string id="bar_territory_dolg_kill">
-		<text>Marca, voce desobedeceu uma ordem direta. O Duty nao perdoa coisas assim. Voce e carne morta.</text>
+		<text>Marked One, voce desobedeceu uma ordem direta. O Duty nao perdoa coisas assim. Voce e carne morta.</text>
 	</string>
 	<string id="bar_territory_nodolg_1_hit">
 		<text>Pare de atirar! Nao atire em territorio da Duty! Aqueles que quebrarem as regras serao punidos!</text>
 	</string>
 	<string id="bar_territory_nodolg_2_hit">
-		<text>Atencao! O Marca foi declarado criminoso por quebrar a lei e atirar dentro do territorio da Duty.</text>
+		<text>Atencao! O Marked One foi declarado criminoso por quebrar a lei e atirar dentro do territorio da Duty.</text>
 	</string>
 	<string id="bar_territory_nodolg_kill">
 		<text>Atencao! Ha um assassino em territorio da Duty. Encontre-o e mate-o!</text>
@@ -140,5 +140,5 @@
 		<text>Voce, stalker, nos ajude! Fomos atacados por Mercs e metade de nossa equipe foi morta. Ajude-nos e prometo que voce nao se arrependera.</text>
 	</string>
 	<string id="rostok_kruglov_spam_2">
-		<text>Ajude-nos a lutar contra a emboscada na fabrica. Transfiri as coordenadas para voce. Apenas tenha cuidado, Galgo e seus assassinos estao perto do helicoptero.</text>
+		<text>Ajude-nos a lutar contra a emboscada na fabrica. Transfiri as coordenadas para voce. Apenas tenha cuidado, Wolfhound e seus assassinos estao perto do helicoptero.</text>
 	</string>

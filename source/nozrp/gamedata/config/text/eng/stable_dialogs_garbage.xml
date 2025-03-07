@@ -16,16 +16,16 @@
 		<text>Essas sao as regras.</text>
 	</string>
 	<string id="gar_dolg_blokpost_11112">
-		<text>Eu preciso passar, tenho negocios com o Bartender.</text>
+		<text>Eu preciso passar, tenho negocios com o Barkeep.</text>
 	</string>
 	<string id="gar_dolg_blokpost_111121">
-		<text>Sim, o Bartender nos falou sobre voce. Voce pode passar.</text>
+		<text>Sim, o Barkeep nos falou sobre voce. Voce pode passar.</text>
 	</string>
 	<string id="gar_dolg_blokpost_1111211">
 		<text>Eu prefiro pagar. Aqui.</text>
 	</string>
 	<string id="gar_dolg_blokpost_11112111">
-		<text>Bom! Voce pode ir, mas e melhor voce ter negocios realmente importantes com o Bartender, ouviu? E tenha cuidado - ha muitas anomalias a frente.</text>
+		<text>Bom! Voce pode ir, mas e melhor voce ter negocios realmente importantes com o Barkeep, ouviu? E tenha cuidado - ha muitas anomalias a frente.</text>
 	</string>
 	<string id="gar_dolg_blokpost_1111212">
 		<text>Qual e o favor?</text>
@@ -70,10 +70,10 @@
 		<text>Sim, eu matei todos eles.</text>
 	</string>
 	<string id="gar_dolg_blokpost_2221">
-		<text>OK, va em frente. E diga "oi" para o Bartender por mim, quer?</text>
+		<text>OK, va em frente. E diga "oi" para o Barkeep por mim, quer?</text>
 	</string>
 	<string id="gar_dolg_blokpost_33">
-		<text>Diga "oi" para o Bartender por mim quando voce o vir. Ah, e nao se esqueca - ha muitas anomalias no caminho, entao tenha cuidado.</text>
+		<text>Diga "oi" para o Barkeep por mim quando voce o vir. Ah, e nao se esqueca - ha muitas anomalias no caminho, entao tenha cuidado.</text>
 	</string>
 	<string id="gar_dramm_novice_start_0">
 		<text>Obrigado, cara - voce realmente me ajudou. Nao vou esquecer.</text>
@@ -193,7 +193,7 @@
 		<text>O trabalho nao esta terminado. Vamos termina-lo e conversar mais tarde.</text>
 	</string>
 	<string id="gar_hellcar_start_51">
-		<text>Ei, Marca.</text>
+		<text>Ei, Marked One.</text>
 	</string>
 	<string id="gar_seriy_start_11">
 		<text>Droga, cara, esta nao e hora de conversar! Em alguns segundos, as unicas coisas que falarao serao armas. Ajude-me a lutar contra eles e podemos conversar depois.</text>
@@ -202,10 +202,10 @@
 		<text>Obrigado pela ajuda, as coisas ficaram bem tensas. O que voce esta fazendo aqui, afinal?</text>
 	</string>
 	<string id="gar_seriy_start_221">
-		<text>Estou procurando informacoes sobre Strelok. Raposo me falou sobre voce, entao vim conversar.</text>
+		<text>Estou procurando informacoes sobre Strelok. Fox me falou sobre voce, entao vim conversar.</text>
 	</string>
 	<string id="gar_seriy_start_2211">
-		<text>OK, voce me ajudou de graca, entao vou te contar. Um dos caras, um ex-"escavador" chamado Toupeira, esta me esperando. Ele desenterrou o esconderijo de Strelok, mas nao sei se encontrou alguma coisa la. Aqui estao as coordenadas do nosso ponto de encontro. Diga a ele que eu te mandei. Eles estarao me procurando agora, entao vou desaparecer por um tempo. Aqui esta um dinheiro pela sua ajuda tambem.</text>
+		<text>OK, voce me ajudou de graca, entao vou te contar. Um dos caras, um ex-"escavador" chamado Mole, esta me esperando. Ele desenterrou o esconderijo de Strelok, mas nao sei se encontrou alguma coisa la. Aqui estao as coordenadas do nosso ponto de encontro. Diga a ele que eu te mandei. Eles estarao me procurando agora, entao vou desaparecer por um tempo. Aqui esta um dinheiro pela sua ajuda tambem.</text>
 	</string>
 	<string id="gar_seriy_start_2212">
 		<text>Obrigado pela informacao.</text>
@@ -214,7 +214,7 @@
 		<text>Estou procurando informacoes sobre Strelok, talvez voce saiba de alguma coisa?</text>
 	</string>
 	<string id="gar_seriy_start_2221">
-		<text>OK, voce me ajudou de graca, entao vou te contar. Um dos caras, um ex-"escavador" chamado Toupeira, esta me esperando. Ele desenterrou o esconderijo de Strelok e encontrou documentos que explicam algumas coisas. Ele tinha alguns bandidos no seu encalco, entao teve que deixar os documentos, mas se lembrou do lugar. Eles estarao me procurando agora, entao vou desaparecer por um tempo. Aqui estao as coordenadas do ponto de encontro com Toupeira. Diga a ele que eu te mandei. Vou carregar algumas informacoes no seu PDA. Aqui esta um dinheiro pela sua ajuda tambem.</text>
+		<text>OK, voce me ajudou de graca, entao vou te contar. Um dos caras, um ex-"escavador" chamado Mole, esta me esperando. Ele desenterrou o esconderijo de Strelok e encontrou documentos que explicam algumas coisas. Ele tinha alguns bandidos no seu encalco, entao teve que deixar os documentos, mas se lembrou do lugar. Eles estarao me procurando agora, entao vou desaparecer por um tempo. Aqui estao as coordenadas do ponto de encontro com Mole. Diga a ele que eu te mandei. Vou carregar algumas informacoes no seu PDA. Aqui esta um dinheiro pela sua ajuda tambem.</text>
 	</string>
 	<string id="gar_seriy_start_2222">
 		<text>Obrigado pela informacao.</text>

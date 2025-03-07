@@ -5,7 +5,7 @@
 14|<text>Entre sorrateiramente na base</text>
 17|<text>Encontre os documentos em X18</text>
 20|<text>Encontre os documentos</text>
-23|<text>Leve os documentos para Bartender</text>
+23|<text>Leve os documentos para Barkeep</text>
 26|<text>Encontre a porta com codigo</text>
 29|<text>Descubra o codigo que abre a porta</text>
 32|<text>Abra a porta usando o codigo</text>
@@ -13,7 +13,7 @@
 38|<text>Descubra o codigo que abre a porta</text>
 41|<text>Abra a porta usando o codigo</text>
 44|<text>Liberte o dutyer</text>
-47|<text>Siga Bala ate o local da emboscada</text>
+47|<text>Siga Bullet ate o local da emboscada</text>
 50|<text>Mate os bandidos e resgate o dutyer</text>
 53|<text>Volte para o trader</text>
 56|<text>Volte para o trader</text>

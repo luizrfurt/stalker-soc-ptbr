@@ -3,10 +3,10 @@
 10|<text>Porque este e o nosso territorio - territorio da Duty; e somos muito exigentes sobre quem deixamos passar para nossa base. Se voce nao tem nada importante para discutir com nossos lideres, voce nao vai passar daqui.</text>
 13|<text>Entendo.</text>
 16|<text>Essas sao as regras.</text>
-19|<text>Eu preciso passar, tenho negocios com o Bartender.</text>
-22|<text>Sim, o Bartender nos falou sobre voce. Voce pode passar.</text>
+19|<text>Eu preciso passar, tenho negocios com o Barkeep.</text>
+22|<text>Sim, o Barkeep nos falou sobre voce. Voce pode passar.</text>
 25|<text>Eu prefiro pagar. Aqui.</text>
-28|<text>Bom! Voce pode ir, mas e melhor voce ter negocios realmente importantes com o Bartender, ouviu? E tenha cuidado - ha muitas anomalias a frente.</text>
+28|<text>Bom! Voce pode ir, mas e melhor voce ter negocios realmente importantes com o Barkeep, ouviu? E tenha cuidado - ha muitas anomalias a frente.</text>
 31|<text>Qual e o favor?</text>
 34|<text>Nada demais. Ha uma manada de javalis vagando por perto que precisa ser morta. Elimine-os e considere sua passagem paga.</text>
 37|<text>Fechado.</text>
@@ -21,8 +21,8 @@
 64|<text>Ainda nao.</text>
 67|<text>Que pena. Quando voce comecar a corta-los para bifes, traga um para mim, quer?</text>
 70|<text>Sim, eu matei todos eles.</text>
-73|<text>OK, va em frente. E diga "oi" para o Bartender por mim, quer?</text>
-76|<text>Diga "oi" para o Bartender por mim quando voce o vir. Ah, e nao se esqueca - ha muitas anomalias no caminho, entao tenha cuidado.</text>
+73|<text>OK, va em frente. E diga "oi" para o Barkeep por mim, quer?</text>
+76|<text>Diga "oi" para o Barkeep por mim quando voce o vir. Ah, e nao se esqueca - ha muitas anomalias no caminho, entao tenha cuidado.</text>
 79|<text>Obrigado, cara - voce realmente me ajudou. Nao vou esquecer.</text>
 82|<text>O que esta acontecendo aqui?</text>
 85|<text>OK.</text>
@@ -62,14 +62,14 @@
 187|<text>Obrigado, nao preciso de nada de voce.</text>
 190|<text>Eu sei bastante, poderia compartilhar algumas informacoes com voce.</text>
 193|<text>O trabalho nao esta terminado. Vamos termina-lo e conversar mais tarde.</text>
-196|<text>Ei, Marca.</text>
+196|<text>Ei, Marked One.</text>
 199|<text>Droga, cara, esta nao e hora de conversar! Em alguns segundos, as unicas coisas que falarao serao armas. Ajude-me a lutar contra eles e podemos conversar depois.</text>
 202|<text>Obrigado pela ajuda, as coisas ficaram bem tensas. O que voce esta fazendo aqui, afinal?</text>
-205|<text>Estou procurando informacoes sobre Strelok. Raposo me falou sobre voce, entao vim conversar.</text>
-208|<text>OK, voce me ajudou de graca, entao vou te contar. Um dos caras, um ex-"escavador" chamado Toupeira, esta me esperando. Ele desenterrou o esconderijo de Strelok, mas nao sei se encontrou alguma coisa la. Aqui estao as coordenadas do nosso ponto de encontro. Diga a ele que eu te mandei. Eles estarao me procurando agora, entao vou desaparecer por um tempo. Aqui esta um dinheiro pela sua ajuda tambem.</text>
+205|<text>Estou procurando informacoes sobre Strelok. Fox me falou sobre voce, entao vim conversar.</text>
+208|<text>OK, voce me ajudou de graca, entao vou te contar. Um dos caras, um ex-"escavador" chamado Mole, esta me esperando. Ele desenterrou o esconderijo de Strelok, mas nao sei se encontrou alguma coisa la. Aqui estao as coordenadas do nosso ponto de encontro. Diga a ele que eu te mandei. Eles estarao me procurando agora, entao vou desaparecer por um tempo. Aqui esta um dinheiro pela sua ajuda tambem.</text>
 211|<text>Obrigado pela informacao.</text>
 214|<text>Estou procurando informacoes sobre Strelok, talvez voce saiba de alguma coisa?</text>
-217|<text>OK, voce me ajudou de graca, entao vou te contar. Um dos caras, um ex-"escavador" chamado Toupeira, esta me esperando. Ele desenterrou o esconderijo de Strelok e encontrou documentos que explicam algumas coisas. Ele tinha alguns bandidos no seu encalco, entao teve que deixar os documentos, mas se lembrou do lugar. Eles estarao me procurando agora, entao vou desaparecer por um tempo. Aqui estao as coordenadas do ponto de encontro com Toupeira. Diga a ele que eu te mandei. Vou carregar algumas informacoes no seu PDA. Aqui esta um dinheiro pela sua ajuda tambem.</text>
+217|<text>OK, voce me ajudou de graca, entao vou te contar. Um dos caras, um ex-"escavador" chamado Mole, esta me esperando. Ele desenterrou o esconderijo de Strelok e encontrou documentos que explicam algumas coisas. Ele tinha alguns bandidos no seu encalco, entao teve que deixar os documentos, mas se lembrou do lugar. Eles estarao me procurando agora, entao vou desaparecer por um tempo. Aqui estao as coordenadas do ponto de encontro com Mole. Diga a ele que eu te mandei. Vou carregar algumas informacoes no seu PDA. Aqui esta um dinheiro pela sua ajuda tambem.</text>
 220|<text>Obrigado pela informacao.</text>
 223|<text>Ei, cara! As coisas ficaram bem tensas aqui agora ha pouco, tenho que dizer. O que voce esta fazendo aqui, afinal?</text>
 226|<text>Um caminho seguro, stalker. Um caminho seguro pelas anomalias e direto para os artefatos.</text>

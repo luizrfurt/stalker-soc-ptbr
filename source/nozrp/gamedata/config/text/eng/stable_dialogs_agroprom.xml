@@ -34,7 +34,7 @@
 		<text>O que esta acontecendo aqui?</text>
 	</string>
 	<string id="agr_factory_stalker_about_1">
-		<text>Estamos lutando, ou mais especificamente, acampando como patos sentados. Fale com Toupeira se quiser saber mais - ele e o lider.</text>
+		<text>Estamos lutando, ou mais especificamente, acampando como patos sentados. Fale com Mole se quiser saber mais - ele e o lider.</text>
 	</string>
 	<string id="agr_factory_stalker_start_0">
 		<text>Cara, essa foi uma luta e tanto - voce nao desejaria algo assim nem para o seu pior inimigo. Aqueles soldados do exercito estao ficando bem arrogantes!</text>
@@ -148,13 +148,13 @@
 		<text>Algo interessante acontecendo aqui?</text>
 	</string>
 	<string id="agr_stalker_talk_about_ratcatcher1_1">
-		<text>Voce conhece o Ratoeiro? A informacao vai te custar 30.</text>
+		<text>Voce conhece o Ratcatcher? A informacao vai te custar 30.</text>
 	</string>
 	<string id="agr_stalker_talk_about_ratcatcher1_11">
 		<text>Fechado.</text>
 	</string>
 	<string id="agr_stalker_talk_about_ratcatcher1_111">
-		<text>Temos um heroi local por aqui chamado Ratoeiro. Ele mora nos pantanos. O homem criou tantos ratos nos coletores que eles logo comerao aqueles bastardos do exercito.</text>
+		<text>Temos um heroi local por aqui chamado Ratcatcher. Ele mora nos pantanos. O homem criou tantos ratos nos coletores que eles logo comerao aqueles bastardos do exercito.</text>
 	</string>
 	<string id="agr_stalker_talk_about_ratcatcher1_1111">
 		<text>Otimo. Obrigado.</text>
@@ -274,7 +274,7 @@
 		<text>Eu moro aqui, se e que voce pode chamar isso de vida. Crio ratos no coletor para irritar os militares do Instituto.</text>
 	</string>
 	<string id="agr_swamp_ratcatcher_talks1_0135">
-		<text>Eu sou o Ratoeiro.</text>
+		<text>Eu sou o Ratcatcher.</text>
 	</string>
 	<string id="agr_swamp_ratcatcher_talks1_01351">
 		<text>O que voce esta fazendo neste pantano?</text>

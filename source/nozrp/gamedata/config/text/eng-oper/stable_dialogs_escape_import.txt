@@ -6,15 +6,15 @@
 19|<text>Tudo bem, continue andando! Tire sua bunda daqui, antes que mudemos de ideia.</text>
 22|<text>Eu nao tenho esse tipo de dinheiro.</text>
 25|<text>Entao volte de onde voce veio e pegue. E nao tente passar sorrateiramente por nos, ouviu? Confie em mim, nao vale a pena morrer por isso.</text>
-28|<text>Saia daqui, Marca. Va embora ou rasteje, a escolha e sua.</text>
+28|<text>Saia daqui, Marked One. Va embora ou rasteje, a escolha e sua.</text>
 31|<text>O que deu em voce?</text>
 34|<text>Ola. O que voce precisa?</text>
 37|<text>Nosso chefe aqui queria te ver. Mas isso nao faz de voce um convidado bem-vindo. Continue andando.</text>
 40|<text>Ola, irmao.</text>
-43|<text>Guia, preciso ver o Doutor.</text>
-46|<text>Olha so. Como voce sabe sobre o Doutor?</text>
-49|<text>Fantasma me mandou. Ajude-me a entrar em contato com o Doutor. E urgente.</text>
-52|<text>Bem, por que voce nao disse isso antes! O Doutor esta no esconderijo de Strelok. Se voce e quem diz ser, provavelmente sabe onde fica.</text>
+43|<text>Guide, preciso ver o Doc.</text>
+46|<text>Olha so. Como voce sabe sobre o Doc?</text>
+49|<text>Ghost me mandou. Ajude-me a entrar em contato com o Doc. E urgente.</text>
+52|<text>Bem, por que voce nao disse isso antes! O Doc esta no esconderijo de Strelok. Se voce e quem diz ser, provavelmente sabe onde fica.</text>
 55|<text>Obrigado.</text>
 58|<text>Ola, irmao.</text>
 61|<text>Voce poderia me contar mais sobre este lugar?</text>
@@ -23,13 +23,13 @@
 70|<text>Tudo bem, voce tem duas opcoes. Se Kuznetsov estiver de plantao, lembre-se de que ele gosta muito de dinheiro. Boas chances de ele te deixar passar por um suborno. Mas se voce estiver sem dinheiro ou se for o turno de outra pessoa, ha uma maneira diferente. Va para o lado esquerdo da ponte, ao longo da ferrovia. Apenas certifique-se de que eles nao te vejam! Voce encontrara um pequeno tunel que passa pelo aterro. E outra coisa: voce tambem pode ter um encontro com alguns zumbis la embaixo.</text>
 73|<text>O que ha mais ao norte, alem do posto avancado do exercito?</text>
 76|<text>O Garbage, isso sim. Um lugar deprimente. Tanta merda contaminada em alguns pontos que nadar seria mais facil do que andar.</text>
-79|<text>Ola. Lobo ja mandou noticias suas. Voce tem alguma pergunta?</text>
+79|<text>Ola. Wolf ja mandou noticias suas. Voce tem alguma pergunta?</text>
 82|<text>Sim. Quantos bandidos no acampamento?</text>
-85|<text>Sete ou oito pessoas. Dois no portao, mais dois no predio a direita perto da fogueira, e outros dois no da esquerda - e onde eles estao mantendo Agil. Alguem geralmente fica rondando o patio tambem. E mais ou menos isso. Devemos fazer uma oracao e ir?</text>
+85|<text>Sete ou oito pessoas. Dois no portao, mais dois no predio a direita perto da fogueira, e outros dois no da esquerda - e onde eles estao mantendo Nimble. Alguem geralmente fica rondando o patio tambem. E mais ou menos isso. Devemos fazer uma oracao e ir?</text>
 88|<text>Vamos. Reuna seus homens.</text>
 91|<text>Nao. Fariamos muito barulho. Eu vou sozinho.</text>
 94|<text>Bem, faca como quiser. Grite se algo acontecer... Que se dane voce, aspirante a Rambo!</text>
-97|<text>Nos fomos cacar e cacamos. Aposto que Lobo ficara satisfeito.</text>
+97|<text>Nos fomos cacar e cacamos. Aposto que Wolf ficara satisfeito.</text>
 100|<text>Ha mais deles! Encontre os bastardos e derrube-os!</text>
 103|<text>Uau, cara! Isso foi algo! Voce os eliminou e nao deixou nada para nos. Eu nunca acreditaria se nao tivesse visto com meus proprios olhos! Isso me impressionou, cara...</text>
 106|<text>Entao, onde estao as pilhas de inimigos que voce matou? Voce fala muito, mas nao faz nada. Suma daqui!</text>
@@ -49,18 +49,18 @@
 148|<text>Ei, cara, voce me salvou duas vezes, e isso nao e algo que eu esqueco. Pegue isso... e tudo que eu tenho!</text>
 151|<text>Obrigado.</text>
 154|<text>Nosso chefe aqui queria te ver. Mas isso nao faz de voce um convidado bem-vindo. Continue andando.</text>
-157|<text>Espere, Marca! Ninguem no acampamento vai falar com voce agora.</text>
+157|<text>Espere, Marked One! Ninguem no acampamento vai falar com voce agora.</text>
 160|<text>Por que?</text>
 163|<text>Que tipo de idiota conversaria com um ex-passageiro do "caminhao da morte"? Primeiro, voce tem que provar que e confiavel.</text>
 166|<text>Que "caminhao da morte?" Do que voce esta falando?</text>
-169|<text>Ah, so o inferno sabe o que realmente e. Mas seja la o que for, e ruim, tao ruim quanto pode ser... Por que estou falando com voce sobre isso, afinal! Talvez eu seja apenas supersticioso, mas voce, Marca, deveria realmente ir embora antes que algo aconteca com voce.</text>
+169|<text>Ah, so o inferno sabe o que realmente e. Mas seja la o que for, e ruim, tao ruim quanto pode ser... Por que estou falando com voce sobre isso, afinal! Talvez eu seja apenas supersticioso, mas voce, Marked One, deveria realmente ir embora antes que algo aconteca com voce.</text>
 172|<text>O que posso fazer para que as pessoas acreditem em mim?</text>
 175|<text>Passe no teste do Trader enquanto observamos. Se voce estiver bem - se voce nao for um gatilho facil e usar sua cabeca - entao definitivamente encontraremos um terreno comum. Nao se preocupe.</text>
 178|<text>Tudo bem, que assim seja.</text>
-181|<text>Ola, Marca. O que voce quer?</text>
-184|<text>Escuta, Marca, voce sera util! Nos realmente poderiamos usar alguma ajuda.</text>
+181|<text>Ola, Marked One. O que voce quer?</text>
+184|<text>Escuta, Marked One, voce sera util! Nos realmente poderiamos usar alguma ajuda.</text>
 187|<text>Continue.</text>
-190|<text>Eu sou Fanatico, e estou substituindo o lider desde que Lobo saiu. Alguns Mercs passaram por aqui ontem... e eles eram uns bastardos duroes, deixe-me te dizer. Eles vem aqui e comecam a fazer exigencias serias - "Voces tem um dia para limpar este acampamento. Sera nossa nova base." Hoje a noite eles estao voltando e, como voce pode imaginar, eles nao estarao com humor para conversar.</text>
+190|<text>Eu sou Fanatic, e estou substituindo o lider desde que Wolf saiu. Alguns Mercs passaram por aqui ontem... e eles eram uns bastardos duroes, deixe-me te dizer. Eles vem aqui e comecam a fazer exigencias serias - "Voces tem um dia para limpar este acampamento. Sera nossa nova base." Hoje a noite eles estao voltando e, como voce pode imaginar, eles nao estarao com humor para conversar.</text>
 193|<text>Entao, o que voces vao fazer?</text>
 196|<text>Vamos montar uma emboscada porque um ataque direto provavelmente seria o nosso fim. Eles tem o equipamento de combate e tudo mais, alem de serem treinados em taticas que voce nem imagina. E tudo o que temos aqui sao garotinhos. Entao, decidimos apenas ficar quietos nessas casas e fingir que fomos embora. Entao, quando chegar a hora certa, atacamos. Lutadores como voce sao exatamente o que poderiamos usar agora. E nos fariamos questao de te agradecer adequadamente depois que tudo acabasse. Voce sabe que cumprimos o que prometemos! Entao, o que voce diz, voce vai nos ajudar?</text>
 199|<text>Eu vou.</text>
@@ -69,12 +69,12 @@
 208|<text>Nao, ainda nao estou pronto.</text>
 211|<text>Que pena. Nos realmente poderiamos usar um lutador como voce. Acho que teremos que fazer isso sozinhos...</text>
 214|<text>Esperando por esses escoteiros. Tenho a sensacao de que eles estao logo ali.</text>
-217|<text>Voce e um verdadeiro assassino, Marca! Eu nao gostaria de ficar no seu caminho. Nunca!</text>
+217|<text>Voce e um verdadeiro assassino, Marked One! Eu nao gostaria de ficar no seu caminho. Nunca!</text>
 220|<text>Sim, algo assim.</text>
-223|<text>Aqui, espero que voce nao se esqueca de nos. E a proposito... um milhao de agradecimentos pela ajuda. Salvamos os jovens, Marca.</text>
-226|<text>Ei, Marca, que bom te ver!</text>
+223|<text>Aqui, espero que voce nao se esqueca de nos. E a proposito... um milhao de agradecimentos pela ajuda. Salvamos os jovens, Marked One.</text>
+226|<text>Ei, Marked One, que bom te ver!</text>
 229|<text>Ola para voce tambem.</text>
-232|<text>A proposito, para onde Lobo foi?</text>
+232|<text>A proposito, para onde Wolf foi?</text>
 235|<text>Ah, ele recebeu uma mensagem de um stalker que estava passando. Ele arrumou suas coisas, pegou uma caixa de dinamite e foi para o fundo da Zona. Ainda estou me recuperando dos ferimentos que sofri no Cordon, entao ele me pediu para cuidar das criancas.</text>
 238|<text>Eu tenho perguntas.</text>
 241|<text>Va em frente, vou tentar ajudar.</text>
@@ -96,8 +96,8 @@
 289|<text>O que voce sabe sobre "caminhoes da morte?"</text>
 292|<text>Eu nao sei de nada e esta tudo bem para mim, obrigado! Desculpe, eu sei sobre sua situacao. Misticismo demais sobre isso. Voce passa um mes nessas partes e nao pode deixar de se tornar supersticioso sobre a vida. Pessoas mortas no porta-malas, pessoas mortas ao volante... Quem sao elas, de onde vieram e por que? So posso esperar que eles nao tenham se levantado da sepultura.</text>
 295|<text>Diga. Por que voce esta aqui?</text>
-298|<text>E ai. Preciso ver Agil. Voce saberia onde posso encontra-lo?</text>
-301|<text>Agil se deu mal. O grupo dele foi atacado por alguns bandidos um pouco longe daqui. Tudo o que ele podia fazer era me mandar uma mensagem de SOS. Parecia que seus amigos cairam. Meus caras me disseram que esses bastardos estao agora no antigo estacionamento, aquele do outro lado da rua.</text>
+298|<text>E ai. Preciso ver Nimble. Voce saberia onde posso encontra-lo?</text>
+301|<text>Nimble se deu mal. O grupo dele foi atacado por alguns bandidos um pouco longe daqui. Tudo o que ele podia fazer era me mandar uma mensagem de SOS. Parecia que seus amigos cairam. Meus caras me disseram que esses bastardos estao agora no antigo estacionamento, aquele do outro lado da rua.</text>
 304|<text>Voce nao resgata seu proprio pessoal da prisao? Nao e o que eu chamaria de amigavel. Ou e que voce e simplesmente fraco demais para fazer isso?</text>
 307|<text>Eu te daria um soco, mas qual e o sentido? Nao e tao simples. Eu tenho poucas pessoas, e mesmo aqueles que tenho sao principalmente novatos. Nao posso correr esse risco. Se perdermos este acampamento, as coisas vao piorar ainda mais para todos os stalkers por ai. E quanto a voce? Se voce nao estiver com muito medo, nao deixarei meu orgulho me fazer dizer nao a uma mao amiga. Entao, voce vai me ajudar a lidar com esses bandidos?</text>
 310|<text>Acha que eu poderia fazer isso sozinho?</text>
@@ -116,7 +116,7 @@
 349|<text>Mantenha-me informado, ok?</text>
 352|<text>Nao posso perder tempo com conversa fiada. Va embora.</text>
 355|<text>Entendi, nao sou estupido.</text>
-358|<text>Ola, Marca. Qual e a ocasiao?</text>
+358|<text>Ola, Marked One. Qual e a ocasiao?</text>
 361|<text>Me diga algo novo, stalker.</text>
 364|<text>O que posso te dizer? Havia bandidos no estacionamento, entao fizemos uma limpeza. E so isso.</text>
 367|<text>Voce nao e do tipo que se gaba, ne! Olha, ja que voce lidou com esses bandidos, nao posso simplesmente te deixar ir assim...</text>
@@ -141,53 +141,53 @@
 424|<text>Eu vou tentar.</text>
 427|<text>Vou preparar o dinheiro - voce nunca me decepcionou. So mais uma coisa... mantenha um perfil baixo. Se os militares ficarem irritados, todos nos teremos muitos problemas.</text>
 430|<text>Nao, nao posso aceitar ainda.</text>
-433|<text>Vamos la, cara, nao e tao ruim quanto parece. Um bando de recrutas bebados e verdes como grama com um unico oficial nao comissionado... Bem, OK, mas eu estava realmente contando com voce, Marca...</text>
-436|<text>Escuta, Marca... Eu pensei um pouco, e aqui esta o que eu gostaria de oferecer... De modo geral, o que voce realmente precisa e encontrar Strelok. Certo?</text>
+433|<text>Vamos la, cara, nao e tao ruim quanto parece. Um bando de recrutas bebados e verdes como grama com um unico oficial nao comissionado... Bem, OK, mas eu estava realmente contando com voce, Marked One...</text>
+436|<text>Escuta, Marked One... Eu pensei um pouco, e aqui esta o que eu gostaria de oferecer... De modo geral, o que voce realmente precisa e encontrar Strelok. Certo?</text>
 439|<text>Vamos supor que sim.</text>
 442|<text>De qualquer forma, aqui esta a questao sobre Strelok. Ha um stalker que atende por esse nome. Dizem que ele encontrou um caminho para as regioes do norte da Zona. E essa e uma area virgem, uma verdadeira mina de ouro para artefatos... Sim... De qualquer forma, posso te ajudar a encontra-lo... No entanto... Como voce pode imaginar, nao sera uma viagem gratuita. Voce tera que trabalhar para isso... Mas a longo prazo, ambos nos beneficiaremos: voce vai se livrar desse sujeito Strelok e descobrir o que aconteceu com voce... E eu vou encontrar... bem, quero dizer... vou receber minha parte do nosso lucro mutuo, he-he... Entao, o que voce diz? Fechado?</text>
 445|<text>Continue.</text>
 448|<text>Tudo bem, escuta... Voce esta falando serio, eu posso ver isso... E eu... quero dizer, nos precisamos de caras como voce. Estamos fazendo uma especie de investigacao com alguns outros traders. Queremos abrir o caminho para o norte, para o centro da Zona. E perto do centro, alguem ou algo esta tentando atrapalhar nosso progresso... Como diabos esse Strelok conseguiu passar, eu nao sei... Veja bem, ha uma area onde seu cerebro comeca a ferver. Um lugar estranho... De qualquer forma, para encurtar a historia - um par de caras tem espionado esses grunhidos para mim, nao muito longe daqui. Aparentemente, os do Agroprom Research Institute desenterraram algo. Algo importante. Tenho certeza de que tem algo a ver com o centro da Zona. De qualquer forma, o que quer que tenham desenterrado, esta guardado em algum lugar no terceiro andar do Instituto. E nos realmente precisamos disso. Entende o que quero dizer?</text>
 451|<text>Acho que sim.</text>
-454|<text>Depois que voce tiver a pasta, nao a traga aqui. Leve-a direto para o Bartender. Ele administra o bar dos stalkers, o 100 Rads, vou carregar as coordenadas e todos os dados que voce precisa no seu PDA. Entendido?</text>
+454|<text>Depois que voce tiver a pasta, nao a traga aqui. Leve-a direto para o Barkeep. Ele administra o bar dos stalkers, o 100 Rads, vou carregar as coordenadas e todos os dados que voce precisa no seu PDA. Entendido?</text>
 457|<text>Entendi.</text>
 460|<text>Voce tera que ir para o norte pelo Garbage, depois virar para o oeste. Voce vai acabar no Agroprom Research Institute depois de alguns quilometros. E tenha cuidado, o nivel de radiacao e muito alto no Garbage. Entao, sugiro que voce desembolse algum antirrad ou vodka. Bem, boa sorte.</text>
-463|<text>Tenho um trabalho para voce, Marca... Quero que voce encontre um stalker chamado Agil, ele estava carregando algumas informacoes muito importantes. Ele desapareceu em algum lugar perto da ponte. Encontre-o, morto ou vivo - nao me importo, preciso do pendrive com as informacoes. Visite Lobo no acampamento local e pergunte a ele. Ele certamente sabe onde esse cara pode estar.</text>
+463|<text>Tenho um trabalho para voce, Marked One... Quero que voce encontre um stalker chamado Nimble, ele estava carregando algumas informacoes muito importantes. Ele desapareceu em algum lugar perto da ponte. Encontre-o, morto ou vivo - nao me importo, preciso do pendrive com as informacoes. Visite Wolf no acampamento local e pergunte a ele. Ele certamente sabe onde esse cara pode estar.</text>
 466|<text>E so isso?</text>
-469|<text>Ei Marca, e ai?</text>
-472|<text>Marca, o que voce esta fazendo aqui? Eu te disse para encontrar Agil!</text>
+469|<text>Ei Marked One, e ai?</text>
+472|<text>Marked One, o que voce esta fazendo aqui? Eu te disse para encontrar Nimble!</text>
 475|<text>Entao, voce visitou o X18? Pegou os documentos?</text>
 478|<text>Sim. Aqui estao eles.</text>
-481|<text>Bem, bem... Entendo... Isso e interessante, muito interessante! Se eu contasse para alguem, eles nao acreditariam em mim! Hmm... Sim... Oh! Olha so isso! Eu nao esperava por isso... e bem ruim, hein... Bem, aqui, pegue de volta e de para o Bartender. Ah, e eu te devo pelos seus esforcos.</text>
+481|<text>Bem, bem... Entendo... Isso e interessante, muito interessante! Se eu contasse para alguem, eles nao acreditariam em mim! Hmm... Sim... Oh! Olha so isso! Eu nao esperava por isso... e bem ruim, hein... Bem, aqui, pegue de volta e de para o Barkeep. Ah, e eu te devo pelos seus esforcos.</text>
 484|<text>Espere. Aqui, pegue esta pistola e municao. Voce nao duraria dois segundos na Zona sem uma arma! A proposito, quando voce foi trazido para ca, voce tinha uma faca. Eu tirei de voce por precaucao, caso sua cabeca nao estivesse funcionando direito. Voce parece bem, entao aqui esta.</text>
 487|<text>Obrigado.</text>
-490|<text>Entao, Marca, algum progresso em nosso negocio mutuo?</text>
+490|<text>Entao, Marked One, algum progresso em nosso negocio mutuo?</text>
 493|<text>A escolha e sua. Ou eu lavo seu cerebro como costumo fazer com todos os novatos ou te trato como um stalker de verdade e te dou uma missao direto.</text>
-496|<text>Ei, Marca! Bom timing, tenho um pequeno trabalho para voce.</text>
+496|<text>Ei, Marked One! Bom timing, tenho um pequeno trabalho para voce.</text>
 499|<text>Me trate como um novato, nao me lembro de merda nenhuma.</text>
 502|<text>Apenas me de uma missao.</text>
-505|<text>Tenho um trabalho para voce, Marca... Quero que voce encontre um stalker chamado Agil, ele estava carregando algumas informacoes muito importantes. Ele desapareceu em algum lugar perto da ponte. Encontre-o, morto ou vivo - nao me importo, preciso do pendrive com as informacoes. Visite Lobo no acampamento local e pergunte a ele. Ele certamente sabe onde esse cara pode estar.</text>
+505|<text>Tenho um trabalho para voce, Marked One... Quero que voce encontre um stalker chamado Nimble, ele estava carregando algumas informacoes muito importantes. Ele desapareceu em algum lugar perto da ponte. Encontre-o, morto ou vivo - nao me importo, preciso do pendrive com as informacoes. Visite Wolf no acampamento local e pergunte a ele. Ele certamente sabe onde esse cara pode estar.</text>
 508|<text>Continue.</text>
 511|<text>E so isso por enquanto. Traga-me o pendrive e consideraremos o fato de que voce me pagou parcialmente por te salvar.</text>
 514|<text>OK, eu vou tentar.</text>
-517|<text>Ei, Marca. Que bom te ver vivo.</text>
-520|<text>Saudacoes, Marca! Voce conseguiu?</text>
+517|<text>Ei, Marked One. Que bom te ver vivo.</text>
+520|<text>Saudacoes, Marked One! Voce conseguiu?</text>
 523|<text>Tarefa completa. Aqui esta o artefato.</text>
-526|<text>Otimo, Marca. Mais um pequeno favor e estamos quites.</text>
+526|<text>Otimo, Marked One. Mais um pequeno favor e estamos quites.</text>
 529|<text>Que favor?</text>
 532|<text>A situacao ficou esclarecida.</text>
 535|<text>Onde esta o pendrive com as informacoes?</text>
 538|<text>Aqui esta.</text>
 541|<text>Otimo.</text>
 544|<text>Eu nao tenho ele.</text>
-547|<text>Que pena, Marca, uma pena real. Nao podemos falar de negocios ate voce me trazer ele...</text>
+547|<text>Que pena, Marked One, uma pena real. Nao podemos falar de negocios ate voce me trazer ele...</text>
 550|<text>Aqui, pegue.</text>
 553|<text>Bom... Consideraremos que voce passou no teste. Eu sugiro que voce evite ir ao acampamento de novatos.</text>
 556|<text>Nada ainda.</text>
 559|<text>Entao, voce trouxe o artefato?</text>
 562|<text>Ainda nao.</text>
 565|<text>Bem, ate voce trazer, nao temos nada para conversar. Entendeu?</text>
-568|<text>Marca, eu ja te disse tudo. Suma daqui!</text>
-571|<text>Entao, Marca, alguma novidade?</text>
+568|<text>Marked One, eu ja te disse tudo. Suma daqui!</text>
+571|<text>Entao, Marked One, alguma novidade?</text>
 574|<text>Preciso de respostas para algumas perguntas.</text>
 577|<text>Pergunte, mas eu nao sei de tudo. Eu fico aqui o dia todo enquanto a vida continua la fora, na Zona. Posso te contar sobre a Zona em geral e um pouco sobre as areas proximas onde eu mesmo estive.</text>
 580|<text>Fale-me sobre a Zona em geral.</text>
@@ -206,7 +206,7 @@
 619|<text>Que tipo de pergunta e essa? Veja bem, isso e um negocio obscuro... Eles te encontraram em um "caminhao da morte", que e um... um tipo de transportador de cadaveres, certo? Esses caminhoes vem do centro da Zona de vez em quando, carregados de corpos. Ninguem sabe ao certo para onde eles estao indo. Entao, um deles bateu em alguma coisa e voce foi encontrado por perto. Esta e a coisa mais incrivel de todas. Ja encontramos transportadores de cadaveres quebrados antes, mas ninguem nunca saiu deles vivo. Sinto muito, irmao, e tudo o que posso te ajudar. O resto voce tera que descobrir sozinho.</text>
 622|<text>Quem e Strelok?</text>
 625|<text>Sim, ja ouvi falar de um stalker com esse nome. Dizem que ele e um dos poucos que foi ao centro da Zona e voltou. Ainda assim, temos tantas dessas historias lendarias sobre herois stalkers que nao posso garantir nada. De qualquer forma, nunca lidei com ele pessoalmente. Parece que ele tem seus proprios canais de comercio. De qualquer forma, basta perguntar ao pessoal aqui na Zona e voce certamente aprendera muito mais.</text>
-628|<text>Quem e esse stalker Fantasma?</text>
+628|<text>Quem e esse stalker Ghost?</text>
 631|<text>Heh, essa e outra lenda local. Nao temos noticias dele ha muito tempo. Suponho que ele tenha perecido em algum lugar profundo na Zona.</text>
 634|<text>O que esta acontecendo nesta vizinhanca?</text>
 637|<text>Huh! Esta e a entrada da Zona, uma especie de antessala. Temos um cordao do exercito aqui. E relativamente tranquilo, com excecao de alguns caras do exercito que gostam de se divertir, fazem incursoes de revista. Stalkers experientes nao aparecem com muita frequencia, entao sao principalmente novatos. Alguns se estabelecem aqui para sempre, sim... Um pouco longe daqui, ha uma fazenda transformada em um acampamento de novatos. Cuidado, eles nao tem medo de puxar o gatilho quando a situacao aperta. O que mais? Voce nao vai ter um lucro enorme aqui, com certeza. Ha uma fabrica deserta do outro lado da rua. Ao norte, atras do aterro ferroviario, estao as ruinas de uma fazenda. Um posto avancado do exercito fica ao sul daqui. E cuidado: os militares deixaram algumas minas no chao. Alem disso, costumava haver uma ponte no centro, mas ela caiu de alguma forma. E basicamente isso.</text>
@@ -236,8 +236,8 @@
 709|<text>Aqui esta.</text>
 712|<text>Obrigado, amigo. Mais um pouco e eu... te devo uma.</text>
 715|<text>O que diabos aconteceu?</text>
-718|<text>Estavamos voltando de uma missao de reconhecimento... Encontramos alguns gangsters. Um dos nossos caras foi morto ali mesmo. Eles pegaram Agil porque ele inventou uma bela historia sobre um esconderijo cheio de artefatos. Eu me fingi de morto e isso salvou minha pele.</text>
-721|<text>Preciso ver Agil... Vou atras dele. Quer me fazer companhia?</text>
+718|<text>Estavamos voltando de uma missao de reconhecimento... Encontramos alguns gangsters. Um dos nossos caras foi morto ali mesmo. Eles pegaram Nimble porque ele inventou uma bela historia sobre um esconderijo cheio de artefatos. Eu me fingi de morto e isso salvou minha pele.</text>
+721|<text>Preciso ver Nimble... Vou atras dele. Quer me fazer companhia?</text>
 724|<text>Ah, cara... Agora eu sou um lutador tao bom quanto um par de meias velhas. Preciso recuperar minhas forcas e voltar para o acampamento. Vou avisar as pessoas o quanto voce me ajudou! Obrigado de novo.</text>
 727|<text>OK, faca isso. Melhore.</text>
 730|<text>Desculpe, cara. Nao tenho kit medico.</text>

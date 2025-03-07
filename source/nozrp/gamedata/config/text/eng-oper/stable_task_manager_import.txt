@@ -40,7 +40,7 @@
 121|<text>A tarefa e simples e o pagamento e bom. Voce tem que encontrar o artefato Relampago. Nem pergunte quem encomendou e por que. Bem, voce vai fazer isso?</text>
 124|<text>Encontre o artefato Peixinho Dourado</text>
 127|<text>Encontre o artefato Peixinho Dourado</text>
-130|<text>Marca, voce conhece a historia do conto de fadas sobre o Peixinho Dourado? Sim, sim, e essa mesmo. Ha um monte de piadas sobre isso tambem. De qualquer forma, ha esse velho que continua querendo pega-lo. Resumindo, preciso do artefato unico chamado Peixinho Dourado, o cliente e de fora, respeitavel. Voce vai ajudar?</text>
+130|<text>Marked One, voce conhece a historia do conto de fadas sobre o Peixinho Dourado? Sim, sim, e essa mesmo. Ha um monte de piadas sobre isso tambem. De qualquer forma, ha esse velho que continua querendo pega-lo. Resumindo, preciso do artefato unico chamado Peixinho Dourado, o cliente e de fora, respeitavel. Voce vai ajudar?</text>
 133|<text>Encontre o traje psi</text>
 136|<text>Encontre o traje que fornece protecao eficiente contra psi-emissoes. O lugar para procura-lo sao os laboratorios desertos no Dark Valley.</text>
 139|<text>Naqueles laboratorios no Dark Valley, eles estavam tentando encontrar uma maneira de proteger o cerebro humano de psi-emissoes. Eles estavam demorando, com certeza... De qualquer forma, uma de suas tentativas foi realmente um sucesso, e deve haver esse traje em algum lugar que voce pode usar e ate beijar o controlador. Sim, e tao bom assim. Entao, se voce me conseguir esse troco, nunca vou esquecer.</text>
@@ -58,13 +58,13 @@
 175|<text>Voce sabe, ha esse tipo de homem que voce nunca diria uma palavra ruim sobre... voce confia nele como confia em si mesmo, certo? Voce aposta nele... Mas de repente voce descobre que ele e o pior e mais mesquinho... Entao aqui esta o acordo: ha um caso que precisa ser resolvido. Faca isso e eu cuido do resto.</text>
 178|<text>Mate o stalker do grupo Monolith</text>
 181|<text>Encontre o ex-amigo do trader e ajude-o a morrer.</text>
-184|<text>Eu costumava ter um amigo... dificil de acreditar, hein? Ah! nos viemos para a Zona juntos quando nada disso estava aqui... As coisas que costumavamos fazer, os lugares que costumavamos ir... bem, eramos jovens, nao nos importavamos com nada... Mas ele nunca se contentava. Ele queria ir para o centro da Zona e estava me convencendo a ir, mas eu recusei, e fiz a coisa certa... Tivemos uma briga muito feia e ele foi embora sozinho... E agora ouco dizer que alguem o viu la... ele esta com a Monolith agora. Entao o acordo e, Marca... Como amigo, faca isso por mim, encontre-o e... bem, nao o faca sofrer, ja deve ser ruim o suficiente... Ele era como um irmao para mim, sabe?</text>
-187|<text>Mate o stalker chamado Vampiro</text>
-190|<text>Encontre e mate o stalker chamado Vampiro.</text>
-193|<text>Chega, nao aguento mais esse canalha! Quero dizer Vampiro; voce o conhece? Aquele bastardo! Sugando a sorte das pessoas em vez de sangue. Quem quer que va com ele, todos morrem, todos sem excecao, mas ele sempre volta sao e salvo! Ja aconteceu cinco vezes! Isso e maldade, nao acha? Eu adoraria colocar algumas flores no tumulo desse Vampiro... Entao, voce aceita o trabalho?</text>
-196|<text>Mate o stalker chamado Pardal</text>
-199|<text>Encontre Pardal e vingue a morte de outro stalker.</text>
-202|<text>Malditos mosqueteiros! Brincando de D'Artagnan, idiotas! Como se surfar em anomalias e curvar-se as balas nao fosse suficiente, os tolos agora comecaram a lutar em duelos! Entenda isso: houve uma briga... ninguem consegue mais se lembrar do que a iniciou. Entao esses dois cabecas-duras decidiram derramar sangue. E ai esta, um caiu morto... um bom stalker ele era, tambem! E o outro, Pardal, fugiu, porque eu seria o primeiro a colocar uma bala na cabeca dele. Encontre-o. Tenho certeza de que ele ainda esta na Zona. Voce vai fazer isso?</text>
+184|<text>Eu costumava ter um amigo... dificil de acreditar, hein? Ah! nos viemos para a Zona juntos quando nada disso estava aqui... As coisas que costumavamos fazer, os lugares que costumavamos ir... bem, eramos jovens, nao nos importavamos com nada... Mas ele nunca se contentava. Ele queria ir para o centro da Zona e estava me convencendo a ir, mas eu recusei, e fiz a coisa certa... Tivemos uma briga muito feia e ele foi embora sozinho... E agora ouco dizer que alguem o viu la... ele esta com a Monolith agora. Entao o acordo e, Marked One... Como amigo, faca isso por mim, encontre-o e... bem, nao o faca sofrer, ja deve ser ruim o suficiente... Ele era como um irmao para mim, sabe?</text>
+187|<text>Mate o stalker chamado Vampire</text>
+190|<text>Encontre e mate o stalker chamado Vampire.</text>
+193|<text>Chega, nao aguento mais esse canalha! Quero dizer Vampire; voce o conhece? Aquele bastardo! Sugando a sorte das pessoas em vez de sangue. Quem quer que va com ele, todos morrem, todos sem excecao, mas ele sempre volta sao e salvo! Ja aconteceu cinco vezes! Isso e maldade, nao acha? Eu adoraria colocar algumas flores no tumulo desse Vampire... Entao, voce aceita o trabalho?</text>
+196|<text>Mate o stalker chamado Sparrow</text>
+199|<text>Encontre Sparrow e vingue a morte de outro stalker.</text>
+202|<text>Malditos mosqueteiros! Brincando de D'Artagnan, idiotas! Como se surfar em anomalias e curvar-se as balas nao fosse suficiente, os tolos agora comecaram a lutar em duelos! Entenda isso: houve uma briga... ninguem consegue mais se lembrar do que a iniciou. Entao esses dois cabecas-duras decidiram derramar sangue. E ai esta, um caiu morto... um bom stalker ele era, tambem! E o outro, Sparrow, fugiu, porque eu seria o primeiro a colocar uma bala na cabeca dele. Encontre-o. Tenho certeza de que ele ainda esta na Zona. Voce vai fazer isso?</text>
 205|<text>Obtenha o olho do Carniceiro</text>
 208|<text>Obtenha o olho do Carniceiro</text>
 211|<text>Em breve teremos uma festa, havera um jantar sofisticado e certos gourmets locais que estao especialmente animados (nao precisamos apontar o dedo) definitivamente vao querer experimentar minha receita especial - olhos de "carniceiro" sob um molho de porco. Ou seja, em seus proprios sucos com maionese. Basicamente, preciso do olho dessa besta, e rapidamente.</text>
@@ -120,8 +120,8 @@
 361|<text>Encontre a amostra de TRs 301 aprimorado perto dos armazens militares.</text>
 364|<text>Alguem ajuda os mercs. Recentemente, eles foram equipados com metralhadoras, aprimoradas para tiro de sniper. Voce entende que e um brinquedo perigoso? Bem, estou interessado em uma arma dessas. Minha gratidao sera pertinente, tenha certeza.</text>
 367|<text>Neutralize o bandido</text>
-370|<text>Neutralize o bandido Poquer.</text>
-373|<text>Apelido do sujeito - Poquer. Um dos lideres de bandidos mais crueis, porco e estuprador... Evidentemente sua cabeca nao esta boa: dizem que ele contraiu uma doenca rara na Zona. Agora ele sofre lapsos de memoria bastante frequentes e, quando recupera a consciencia, nao consegue se lembrar de quem e onde esta. No entanto, ele esta sempre armado e muito agressivo. Localizacao presumivel: Dark Valley. Pronto para a tarefa?</text>
+370|<text>Neutralize o bandido Poker.</text>
+373|<text>Apelido do sujeito - Poker. Um dos lideres de bandidos mais crueis, porco e estuprador... Evidentemente sua cabeca nao esta boa: dizem que ele contraiu uma doenca rara na Zona. Agora ele sofre lapsos de memoria bastante frequentes e, quando recupera a consciencia, nao consegue se lembrar de quem e onde esta. No entanto, ele esta sempre armado e muito agressivo. Localizacao presumivel: Dark Valley. Pronto para a tarefa?</text>
 376|<text>Encontre a arma do dutyer.</text>
 379|<text>O dutyer esta pedindo que voce encontre sua arma, ele a perdeu em algum lugar no Dark Valley durante outra expedicao de reconhecimento.</text>
 382|<text>Nao deveria ter enlouquecido assim. Como a zona mexe com sua cabeca. Pensei que tinha bons nervos, nunca tive medo de nada, e aqui esta isso. Esse uivo nos ouvidos. Tudo estava indo como de costume. Houve uma expedicao de reconhecimento ao Dark Valley, descemos na trincheira com Krivoi para cobrir o resto do grupo, e entao, uma vez que ouvi o uivo, fui tomado pelo medo. Droga, nem me lembro como cheguei a coordenada. Quando voltei para a base, Voronin quase me acertou em cheio: ele tinha acabado de me dar um canhao aprimorado, por bom servico, por assim dizer. E aqui... eu entrei em panico e sai tao rapido que deixei o canhao la. Voce poderia traze-lo de volta para mim, senao para onde vou agora sem uma arma decente.</text>
@@ -217,9 +217,9 @@
 652|<text>Mate um dos comandantes da Duty</text>
 655|<text>Mate um dos comandantes da Duty</text>
 658|<text>Pagarei pela cabeca de qualquer lider da Duty! Derrube um e volte para a recompensa.</text>
-661|<text>Mate o stalker chamado Espantalho.</text>
-664|<text>Elimine o stalker chamado Espantalho</text>
-667|<text>Eliminamos monstros, exceto que para nos e uma questao de sobrevivencia, nao de lucro. As populacoes de mutantes nao sao tao numerosas; alem disso, eles tambem sao seres vivos, entao nao podemos permitir sua aniquilacao. Alguns individuos se recusam a entender isso. Uma ilustracao adequada e o stalker chamado Espantalho. Ele recebeu seu apelido por um motivo, vendendo mutantes empalhados. Nos o avisamos antes, mas tudo em vao. Entao, voce pode fazer uma boa acao para a mae Terra?</text>
+661|<text>Mate o stalker chamado Scarecrow.</text>
+664|<text>Elimine o stalker chamado Scarecrow</text>
+667|<text>Eliminamos monstros, exceto que para nos e uma questao de sobrevivencia, nao de lucro. As populacoes de mutantes nao sao tao numerosas; alem disso, eles tambem sao seres vivos, entao nao podemos permitir sua aniquilacao. Alguns individuos se recusam a entender isso. Uma ilustracao adequada e o stalker chamado Scarecrow. Ele recebeu seu apelido por um motivo, vendendo mutantes empalhados. Nos o avisamos antes, mas tudo em vao. Entao, voce pode fazer uma boa acao para a mae Terra?</text>
 670|<text>Mate o stalker chamado Barin.</text>
 673|<text>Mate o stalker chamado Barin, chefe intendente da faccao Duty.</text>
 676|<text>Um canalha, bajulador, hipocrita e covarde... esse e o stalker Barin para voce. Como voce pode ver, um homem com um carater maravilhoso, que o ajudou a chegar ao topo da Duty. Atualmente fornece suprimentos e alimentos para a faccao, embora participe de ataques de vez em quando. Precisamos nos livrar dele, especialmente porque todas as pistas sobre a logistica da Duty levam a Barin.</text>
@@ -231,8 +231,8 @@
 694|<text>Voce ja encontrou um sanguessuga? Coisa horrivel, nao e? Bem, outro dia fui a vila perto dos armazens militares, pensei em procurar alguns artefatos. E imagine isso: de repente vejo um sanguessuga, preto e com cicatrizes por todo o corpo. Ele esta sentado sobre o cadaver, nao me ve. Eu entrei em panico e fugi. Eu nao deveria ter comecado a correr, porque ele me ouviu e foi atras de mim, e havia todo esse uivo ao meu redor e entao entendi que ele nao estava sozinho. Acho que eles tem um covil la. Se voce pudesse expulsa-los de la, eu lhe daria um artefato raro que encontrei ha alguns dias.</text>
 697|<text>Mate o stalker.</text>
 700|<text>Mate o traidor.</text>
-703|<text>O Careca quer que voce mate um stalker que fugiu com um artefato muito raro.</text>
-706|<text>Ha algum tempo, outro stalker e eu fomos procurar um artefato bem ao lado do Brain Scorcher. Encontramos tanta coisa, ate encontramos um par de artefatos que eu nunca tinha visto antes, nem mesmo fotos deles. Entao aquele canalha me enganou. Durante a ultima noite, ele fugiu sorrateiramente e escondeu os artefatos mais valiosos. E entao tentou me dizer que eles desapareceram sozinhos. Ha alguns dias, vi um daqueles artefatos muito raros no Bartender. Fiquei tao irritado... Enfim, stalker, se voce pudesse encontra-lo, mande-lhe um cumprimento de chumbo meu. E enquanto voce esta nisso, talvez possa descobrir onde esta seu esconderijo secreto e pegar o segundo artefato. Vale a pena, acredite em mim.</text>
+703|<text>O Baldy quer que voce mate um stalker que fugiu com um artefato muito raro.</text>
+706|<text>Ha algum tempo, outro stalker e eu fomos procurar um artefato bem ao lado do Brain Scorcher. Encontramos tanta coisa, ate encontramos um par de artefatos que eu nunca tinha visto antes, nem mesmo fotos deles. Entao aquele canalha me enganou. Durante a ultima noite, ele fugiu sorrateiramente e escondeu os artefatos mais valiosos. E entao tentou me dizer que eles desapareceram sozinhos. Ha alguns dias, vi um daqueles artefatos muito raros no Barkeep. Fiquei tao irritado... Enfim, stalker, se voce pudesse encontra-lo, mande-lhe um cumprimento de chumbo meu. E enquanto voce esta nisso, talvez possa descobrir onde esta seu esconderijo secreto e pegar o segundo artefato. Vale a pena, acredite em mim.</text>
 709|<text>Mate o stalker mestre.</text>
 712|<text>O merc deve pagar pelo assassinato de cada mestre. Quanto menos mestres houver, mais facil sera para os mercs.</text>
 715|<text>Nao nos interessa o fato de que dreadnoughts ambulantes possam vagar pela Zona: stalkers em exoesqueletos armados ate os dentes. O trabalho se torna ainda mais perigoso e dificil com isso. Quanto menos deles houver, melhor para nos. Mate um deles e receba sua recompensa.</text>
@@ -243,7 +243,7 @@
 730|<text>Volte para a recompensa.</text>
 733|<text>Traga ao cliente o que foi prometido.</text>
 736|<text>Encontre o traje aperfeicoado.</text>
-739|<text>Agil nos contou sobre o esconderijo dos bandidos onde eles esconderam o saque. Ele esta pedindo para trazer de volta o traje roubado, por uma recompensa, e claro.</text>
+739|<text>Nimble nos contou sobre o esconderijo dos bandidos onde eles esconderam o saque. Ele esta pedindo para trazer de volta o traje roubado, por uma recompensa, e claro.</text>
 742|<text>Enquanto eu estava em cativeiro, ouvi os bandidos falando sobre seu esconderijo secreto, onde eles guardam o saque. Ouvi dizer que eles esconderam um casaco legal la, e no dia seguinte algum monstro colocou o olho no esconderijo. E ele ficou tao interessado nisso que agora eles tem medo de ir la. Faca-me um favor, traga-me o traje, e eu lhe pagarei bem.</text>
 745|<text>Nao posso oferecer nada no momento.</text>
 748|<text>E sobre o que voce quer falar?</text>
@@ -325,7 +325,7 @@
 976|<text>Mate o stalker chamado Demonio</text>
 979|<text>Elimine um dos rivais do trader Sidorovich, um stalker chamado Demonio.</text>
 982|<text>O Demonio, tambem conhecido como Oleg Gusarov... costumava servir no Spetsnaz. Enquanto ele cuidasse da propria vida, eu nao tinha nada contra ele, um loner e um loner. Mas ouvi dizer que ele esta reunindo uma gangue para esmagar o Cordon e assumir o controle das operacoes de contrabando da Zona. Agora este e um grande problema e precisa ser resolvido rapidamente. Entao, voce vai fazer isso?</text>
-985|<text>Mate o Padre Diodor</text>
+985|<text>Mate o Father Diodor</text>
 988|<text>Matar um homem que prega na Zona contra a coleta e venda de artefatos? Exatamente.</text>
 991|<text>Sempre disse que negocios e religiao nao podem andar juntos, eles nunca podem se cruzar e nunca devem se intrometer nos assuntos um do outro! E que este padre, que Deus me perdoe, Diodor... bem... ele simplesmente nao consegue ver esta verdade simples. Ele continua delirando sobre a caca de artefatos, diz que o comercio deles leva as pessoas ao pecado nao apenas na Zona, mas no mundo inteiro, e assim por diante. Entenda isso, ele prega a destruicao dos artefatos completamente! Veja o que ele esta tramando? O pior e que ele realmente conseguiu alguns convertidos! Tentei abordar este Diodor desta forma e de outras, mas ele continua nisso. Aqui esta o acordo: voce vai manda-lo para cima, onde ele pode pregar o quanto quiser... voce entendeu, certo? E eu lhe darei um artefato legal. Entao, temos um acordo?</text>
 994|<text>Mate o "representante de vendas"</text>
@@ -378,10 +378,10 @@
 1135|<text>E sobre a tarefa?</text>
 1138|<text>Ha algo:</text>
 1141|<text>Destrua o covil de javalis</text>
-1144|<text>Os javalis fizeram um covil perto do local onde Lobo e seu amigo fizeram um deposito. Lobo pede para limpar o covil e prometeu recompensa-lo generosamente.</text>
+1144|<text>Os javalis fizeram um covil perto do local onde Wolf e seu amigo fizeram um deposito. Wolf pede para limpar o covil e prometeu recompensa-lo generosamente.</text>
 1147|<text>Meu amigo e eu tinhamos um deposito aqui nao muito longe do estacionamento, onde a floresta e mais densa. Basicamente, exatamente o que voce precisa. Mas recentemente os javalis fizeram um covil la e agora nao podemos chegar ao deposito. Ajude - mate os javalis e eu lhe agradecerei, por mim e pelo meu amigo.</text>
 1150|<text>Destrua os mutantes na fazenda</text>
-1153|<text>Lobo pede para limpar a fazenda de mutantes, quer montar um acampamento de posto avancado la.</text>
+1153|<text>Wolf pede para limpar a fazenda de mutantes, quer montar um acampamento de posto avancado la.</text>
 1156|<text>Embora esta seja a fronteira da Zona, os novatos tem dificuldades ate aqui. Os bandidos sao apenas metade do problema - pelo menos eles entendem russo. Mas os mutantes - e muito dificil com eles. Eles fizeram um covil na fazenda abandonada, tomaram o unico lugar bom para um acampamento de posto avancado. Se voce conseguir limpar a fazenda dos mutantes, eu lhe devo uma.</text>
 1159|<text>Limpe o covil de caes</text>
 1162|<text>Ha um bando de caes no posto de controle sul do Bar. O chefe do posto de controle pede para limpar o covil deles. Promete recompensar.</text>

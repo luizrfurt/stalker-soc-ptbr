@@ -31,12 +31,12 @@
 94|<text>Aqui esta o pendrive que o professor Kruglov me deu.</text>
 97|<text>Bom garoto. Acho que a Duty ficara muito grato por esta informacao. Aqui esta sua recompensa.</text>
 100|<text>Bem, bem. Informacao? Diretamente do professor Kruglov? Voce esta me zoando ou o que? "Eu sou o professor Kruglov e estou excluindo relatorios sobre nossa pesquisa pelo bem da ciencia e da humanidade..." E esta e a informacao que voce deveria ter obtido!? Bem, merda... Tenho certeza de que a Duty ficara "feliz" com isso.</text>
-103|<text>Cumpri minha missao. Aqui esta o PDA de Tirano.</text>
-106|<text>Uau, Marca. Otimo trabalho! O que posso dizer? Voce me fez feliz, cara. Eu nao tinha certeza de que voce conseguiria, para ser honesto... mas voce esta vivo e eles nao!</text>
+103|<text>Cumpri minha missao. Aqui esta o PDA de Tyran.</text>
+106|<text>Uau, Marked One. Otimo trabalho! O que posso dizer? Voce me fez feliz, cara. Eu nao tinha certeza de que voce conseguiria, para ser honesto... mas voce esta vivo e eles nao!</text>
 109|<text>E a minha recompensa?</text>
 112|<text>Aqui. Sua recompensa conforme prometido.</text>
-115|<text>Aqui esta o PDA de Sortudo. Fiz o que voce pediu.</text>
-118|<text>Legal, Marca. Otimo trabalho! O que posso dizer? Voce me fez feliz, cara. Eu nao tinha certeza de que voce conseguiria, para ser honesto... mas voce esta vivo e eles nao!</text>
+115|<text>Aqui esta o PDA de Lucky. Fiz o que voce pediu.</text>
+118|<text>Legal, Marked One. Otimo trabalho! O que posso dizer? Voce me fez feliz, cara. Eu nao tinha certeza de que voce conseguiria, para ser honesto... mas voce esta vivo e eles nao!</text>
 121|<text>E a recompensa?</text>
 124|<text>Voce e um heroi, cara, um heroi de verdade. Aqui, isso deve te deixar feliz.</text>
 127|<text>Voce tem algum trabalho especial?</text>
@@ -45,35 +45,35 @@
 136|<text>Nao, nao tenho nada hoje.</text>
 139|<text>Tenho uma missao seria. Um grupo de assassinos veteranos apareceu novamente no Wild Territory. Algumas pessoas da Duty vieram ate mim e pediram para eu lidar com esses veteranos. O Duty tem provas solidas de que eles sao responsaveis pelas mortes de stalkers solitarios. O problema e que esses veteranos e a Duty tem um acordo antigo e a Duty nao pode quebra-lo, mas esses caras estao realmente forcando a barra. Basicamente, a Duty quer que eles sejam eliminados, de forma discreta. Nao vai ser facil, mas o trabalho vale muita grana.</text>
 142|<text>Algo mais? Parece estranho que a Duty esteja deixando eles escaparem impunes.</text>
-145|<text>O Duty valoriza sua reputacao, e e por isso que eles precisam que isso seja feito discretamente. Tudo o que voce precisa fazer e matar o lider deles, Sortudo, e me trazer o PDA dele como prova.</text>
+145|<text>O Duty valoriza sua reputacao, e e por isso que eles precisam que isso seja feito discretamente. Tudo o que voce precisa fazer e matar o lider deles, Lucky, e me trazer o PDA dele como prova.</text>
 148|<text>Eu vou fazer isso. Espero nao me arrepender de ter aceitado.</text>
 151|<text>Boa decisao, cara. Nao ha nada para se arrepender.</text>
 154|<text>Nao, nao estou pronto para isso.</text>
 157|<text>Voce decide, mas lembre-se que esta e uma boa oportunidade de ganhar a gratidao da Duty.</text>
 160|<text>Va direto ao ponto. O que eu tenho que fazer?</text>
-163|<text>Sua missao e matar Tirano, o lider dos Mercs. A equipe dele entrou no Wild Territory e montou uma base no canteiro de obras. Tenha cuidado, alguns dos lutadores deles montaram emboscadas no caminho para o local. Traga-me o PDA de Tirano e a recompensa e sua.</text>
+163|<text>Sua missao e matar Tyran, o lider dos Mercs. A equipe dele entrou no Wild Territory e montou uma base no canteiro de obras. Tenha cuidado, alguns dos lutadores deles montaram emboscadas no caminho para o local. Traga-me o PDA de Tyran e a recompensa e sua.</text>
 166|<text>Eu vou fazer isso. Espero nao me arrepender de ter aceitado.</text>
 169|<text>Boa decisao, cara. Nao ha nada para se arrepender.</text>
 172|<text>Nao, nao estou pronto para isso.</text>
 175|<text>Como desejar.</text>
 178|<text>Nao, nao tenho nada hoje.</text>
-181|<text>Sua missao e matar Tirano, o lider dos Mercs. A equipe dele entrou no Wild Territory e montou uma base no canteiro de obras. Tenha cuidado, alguns dos lutadores deles montaram emboscadas no caminho para o local. Traga-me o PDA de Tirano e a recompensa e sua.</text>
+181|<text>Sua missao e matar Tyran, o lider dos Mercs. A equipe dele entrou no Wild Territory e montou uma base no canteiro de obras. Tenha cuidado, alguns dos lutadores deles montaram emboscadas no caminho para o local. Traga-me o PDA de Tyran e a recompensa e sua.</text>
 184|<text>Eu vou fazer isso. Espero nao me arrepender de ter aceitado.</text>
 187|<text>Boa decisao, cara. Nao ha nada para se arrepender.</text>
 190|<text>Nao, nao estou pronto para isso.</text>
 193|<text>Como desejar.</text>
 196|<text>Nao, nao tenho nada hoje.</text>
-199|<text>Nao se deixe levar, Marca. Voce esta procurando mais trabalho, mas ainda nem lidou com os veteranos...</text>
+199|<text>Nao se deixe levar, Marked One. Voce esta procurando mais trabalho, mas ainda nem lidou com os veteranos...</text>
 202|<text>Nao, nada hoje.</text>
 205|<text>Tenho uma missao seria. Um grupo de assassinos veteranos apareceu novamente no Wild Territory. Algumas pessoas da Duty vieram ate mim e pediram para eu lidar com esses veteranos. O Duty tem provas solidas de que eles sao responsaveis pelas mortes de stalkers solitarios. O problema e que esses veteranos e a Duty tem um acordo antigo e a Duty nao pode quebra-lo, mas esses caras estao realmente forcando a barra. Basicamente, a Duty quer que eles sejam eliminados, de forma discreta. Nao vai ser facil, mas o trabalho vale muita grana.</text>
 208|<text>Algo mais?</text>
-211|<text>O Duty valoriza sua reputacao, e e por isso que eles precisam que isso seja feito discretamente. Tudo o que voce precisa fazer e matar o lider deles, Sortudo, e me trazer o PDA dele como prova.</text>
+211|<text>O Duty valoriza sua reputacao, e e por isso que eles precisam que isso seja feito discretamente. Tudo o que voce precisa fazer e matar o lider deles, Lucky, e me trazer o PDA dele como prova.</text>
 214|<text>Eu vou fazer isso.</text>
 217|<text>Boa decisao, cara. Nao ha nada para se arrepender.</text>
 220|<text>Nao, nao estou pronto para isso.</text>
 223|<text>Voce decide, mas lembre-se que esta e uma boa oportunidade de ganhar a gratidao da Duty.</text>
 226|<text>texto padrao</text>
-229|<text>Sua missao e matar Tirano, o lider dos Mercs. A equipe dele entrou no Wild Territory e montou uma base no canteiro de obras. Tenha cuidado, alguns dos lutadores deles montaram emboscadas no caminho para o local. Traga-me o PDA de Tirano e a recompensa e sua.</text>
+229|<text>Sua missao e matar Tyran, o lider dos Mercs. A equipe dele entrou no Wild Territory e montou uma base no canteiro de obras. Tenha cuidado, alguns dos lutadores deles montaram emboscadas no caminho para o local. Traga-me o PDA de Tyran e a recompensa e sua.</text>
 232|<text>Eu vou fazer isso.</text>
 235|<text>Boa decisao, cara. Nao ha nada para se arrepender.</text>
 238|<text>Nao, nao estou pronto para isso.</text>
@@ -85,7 +85,7 @@
 256|<text>Ainda nao, da proxima vez.</text>
 259|<text>Tenho um trabalho para um profissional.</text>
 262|<text>Va direto ao ponto. O que eu tenho que fazer?</text>
-265|<text>Sua missao e matar Tirano, o lider dos Mercs. A equipe dele entrou no Wild Territory e montou uma base no canteiro de obras. Tenha cuidado, alguns dos lutadores deles montaram emboscadas no caminho para o local. Traga-me o PDA de Tirano e a recompensa e sua.</text>
+265|<text>Sua missao e matar Tyran, o lider dos Mercs. A equipe dele entrou no Wild Territory e montou uma base no canteiro de obras. Tenha cuidado, alguns dos lutadores deles montaram emboscadas no caminho para o local. Traga-me o PDA de Tyran e a recompensa e sua.</text>
 268|<text>Eu vou fazer isso. Espero nao me arrepender de ter aceitado.</text>
 271|<text>Boa decisao, cara. Nao ha nada para se arrepender.</text>
 274|<text>Nao, nao estou pronto para isso.</text>
@@ -98,20 +98,20 @@
 295|<text>Nao, nao tenho nada hoje.</text>
 298|<text>Vamos comecar. Voce esta pronto?</text>
 301|<text>Hmm... De onde voce veio?</text>
-304|<text>Entao, Marca, voce pegou os documentos do X16?</text>
+304|<text>Entao, Marked One, voce pegou os documentos do X16?</text>
 307|<text>Sim. Aqui.</text>
 310|<text>Nao.</text>
 313|<text>Droga! Estou aqui, me matando de trabalhar enquanto voce esta vagando pela floresta! Va pegar esses malditos documentos ou nao faremos nenhum progresso!</text>
 316|<text>OK.</text>
-319|<text>Bem, Marca, agora so precisamos lidar com o Brain Scorcher e abrir o caminho para o norte! Voce esta pronto para ir agora?</text>
+319|<text>Bem, Marked One, agora so precisamos lidar com o Brain Scorcher e abrir o caminho para o norte! Voce esta pronto para ir agora?</text>
 322|<text>Sim.</text>
-325|<text>OK, Marca, voce tem o prototipo de protecao, entao estara seguro das emissoes. Eu tenho as coordenadas do bunker. Nao se esqueca de que o prototipo nao o protegera para sempre, entao voce precisa chegar ao bunker o mais rapido possivel e desligar o Brain Scorcher. Nao sei o que acontecera depois disso, mas tenho certeza de que valera a pena. A unica coisa de que podemos ter certeza e que a estrada para o centro da Zona estara aberta.</text>
+325|<text>OK, Marked One, voce tem o prototipo de protecao, entao estara seguro das emissoes. Eu tenho as coordenadas do bunker. Nao se esqueca de que o prototipo nao o protegera para sempre, entao voce precisa chegar ao bunker o mais rapido possivel e desligar o Brain Scorcher. Nao sei o que acontecera depois disso, mas tenho certeza de que valera a pena. A unica coisa de que podemos ter certeza e que a estrada para o centro da Zona estara aberta.</text>
 328|<text>Continue.</text>
 331|<text>Tudo o que precisamos fazer e chegar as antenas e desativa-las. Entendido?</text>
 334|<text>Entendido.</text>
 337|<text>Ah, sim, mais uma coisa! O lider da Duty, marquei ele no mapa, precisa de um voluntario para realizar algum tipo de tarefa nos armazens militares. Se voce estiver interessado, pode dar uma passada la. Vou falar com os guardas, eles vao deixar voce entrar.</text>
 340|<text>Nao, ainda nao estou pronto.</text>
-343|<text>Prepare-se, Marca! Esta tarefa nao pode esperar!</text>
+343|<text>Prepare-se, Marked One! Esta tarefa nao pode esperar!</text>
 346|<text>OK, os documentos que voce trouxe do Instituto esclarecem algumas coisas, mas ainda estamos perdendo as informacoes de que precisamos para ter uma visao completa. Um laboratorio designado X18 e mencionado e sua descricao corresponde aos cofres subterraneos abandonados no Dark Valley. Parece que voce tera que ir la e obter as informacoes de que precisamos. O laboratorio esta fechado e voce precisara de duas chaves eletronicas para entrar. Eu te darei uma, mas voce tera que pegar a outra com Javali no Dark Valley.</text>
 349|<text>Continue.</text>
 352|<text>Tudo o que voce precisa fazer e adquirir a segunda chave para o Lab X18, entrar e recuperar o segundo lote de documentos. Nao se esqueca de conseguir um traje de protecao ou voce nao tera a menor chance de chegar ao laboratorio. Entao, voce vai fazer isso?</text>
@@ -119,9 +119,9 @@
 358|<text>Otimo! Estarei esperando.</text>
 361|<text>Nao, nao quero fazer isso ainda.</text>
 364|<text>Voce decide, mas lembre-se: esta e a unica maneira que pode nos ajudar a abrir a estrada para o norte.</text>
-367|<text>O que voce quer, Marca?</text>
-370|<text>Ei, Marca! Os tempos mudam, mas voce continua rabugento e distante. Aqui, sente-se, beba um gole - pode te deixar mais legal...</text>
-373|<text>Entao, Marca, voce trouxe os documentos do X18?</text>
+367|<text>O que voce quer, Marked One?</text>
+370|<text>Ei, Marked One! Os tempos mudam, mas voce continua rabugento e distante. Aqui, sente-se, beba um gole - pode te deixar mais legal...</text>
+373|<text>Entao, Marked One, voce trouxe os documentos do X18?</text>
 376|<text>Sim. Aqui.</text>
 379|<text>Bom, a situacao esta ficando mais clara. Como eu esperava, este Brain Scorcher e feito pelo homem. E um emissor experimental Kaymanov e seus componentes foram feitos exatamente no X18. Esses documentos se referem ao laboratorio X16, onde enviaram alguns componentes. De acordo com isso, o X16 esta localizado na area do complexo de producao perto do Lago Yantar. Os cientistas montaram um laboratorio movel por la, entao talvez eles possam ajudar.</text>
 382|<text>Continue.</text>
@@ -129,30 +129,30 @@
 388|<text>Sim.</text>
 391|<text>Otimo! Estarei esperando.</text>
 394|<text>Nao, ainda nao estou pronto.</text>
-397|<text>Entao se prepare rapido, Marca! Esse tipo de negocio nao pode esperar.</text>
+397|<text>Entao se prepare rapido, Marked One! Esse tipo de negocio nao pode esperar.</text>
 400|<text>Nao.</text>
 403|<text>Por que voce esta perdendo tempo? Va pegar esses malditos documentos ou nao faremos nenhum progresso!</text>
-406|<text>O que voce quer, Marca?</text>
-409|<text>Ei, Marca! Os tempos mudam, mas voce continua rabugento e distante. Aqui, sente-se, beba um gole - pode te deixar mais legal...</text>
-412|<text>Ei, Marca! Voce trouxe os documentos do Instituto?</text>
+406|<text>O que voce quer, Marked One?</text>
+409|<text>Ei, Marked One! Os tempos mudam, mas voce continua rabugento e distante. Aqui, sente-se, beba um gole - pode te deixar mais legal...</text>
+412|<text>Ei, Marked One! Voce trouxe os documentos do Instituto?</text>
 415|<text>Nao, ainda nao peguei os documentos do Instituto.</text>
-418|<text>Isso nao e bom, Marca, nao e nada bom... Voce entende o quanto precisamos deles, nao e? Precisamos deles muito, acredite em mim. O Brain Scorcher esta bem debaixo do nosso nariz, mas nem sabemos o que e! Va pegar os documentos agora mesmo - conversamos depois disso.</text>
+418|<text>Isso nao e bom, Marked One, nao e nada bom... Voce entende o quanto precisamos deles, nao e? Precisamos deles muito, acredite em mim. O Brain Scorcher esta bem debaixo do nosso nariz, mas nem sabemos o que e! Va pegar os documentos agora mesmo - conversamos depois disso.</text>
 421|<text>Acho que entendi.</text>
 424|<text>Aqui estao os documentos do Instituto.</text>
-427|<text>Otimo trabalho, Marca! Finalmente temos os documentos. Preciso dar uma olhada neles agora e talvez descubra como ir para o norte. Enquanto isso, se voce tiver problemas com dinheiro, pode lutar na Arena. O dono da Arena e Arni, carreguei as coordenadas dele.</text>
+427|<text>Otimo trabalho, Marked One! Finalmente temos os documentos. Preciso dar uma olhada neles agora e talvez descubra como ir para o norte. Enquanto isso, se voce tiver problemas com dinheiro, pode lutar na Arena. O dono da Arena e Arni, carreguei as coordenadas dele.</text>
 430|<text>OK.</text>
 433|<text>Agora escute!</text>
-436|<text>O que voce quer, Marca?</text>
-439|<text>Ei, Marca! Os tempos mudam, mas voce continua rabugento e distante. Aqui, sente-se, beba um gole - pode te deixar mais legal...</text>
+436|<text>O que voce quer, Marked One?</text>
+439|<text>Ei, Marked One! Os tempos mudam, mas voce continua rabugento e distante. Aqui, sente-se, beba um gole - pode te deixar mais legal...</text>
 442|<text>Quero saber uma coisa.</text>
 445|<text>O que e?</text>
 448|<text>Obrigado.</text>
 451|<text>O que voce sabe sobre Strelok?</text>
 454|<text>Um stalker experiente, pelo que sei. Ele costumava "trabalhar" pelas saidas do norte da Zona. Quase nunca era visto por aqui, mas ha rumores de que ele levou seu grupo direto para o centro da Zona.</text>
-457|<text>O que voce sabe sobre um stalker chamado Fantasma?</text>
-460|<text>Ele e um dos homens de Strelok. Dizem que ele pode entrar em qualquer lugar sem ser notado. Ouvi dizer que ele eliminou o lider de um grupo maluco... qual era o nome? Ah, 'Ultimo Dia', isso mesmo. Eles eram bem selvagens aqueles caras... Ah, a proposito, ouvi dizer que Fantasma esta fazendo um trabalho para os cientistas, entao, se voce estiver procurando por ele, tente perto do Lago Yantar, no laboratorio movel.</text>
+457|<text>O que voce sabe sobre um stalker chamado Ghost?</text>
+460|<text>Ele e um dos homens de Strelok. Dizem que ele pode entrar em qualquer lugar sem ser notado. Ouvi dizer que ele eliminou o lider de um grupo maluco... qual era o nome? Ah, 'Ultimo Dia', isso mesmo. Eles eram bem selvagens aqueles caras... Ah, a proposito, ouvi dizer que Ghost esta fazendo um trabalho para os cientistas, entao, se voce estiver procurando por ele, tente perto do Lago Yantar, no laboratorio movel.</text>
 463|<text>Ele e um velho stalker aposentado. Ele mora nos pantanos, vou marcar no mapa para voce. Ele costumava fazer parte do grupo de Strelok antigamente.</text>
-466|<text>O que voce sabe sobre um stalker chamado Presa?</text>
+466|<text>O que voce sabe sobre um stalker chamado Fang?</text>
 469|<text>Havia um homem com esse nome, falava com a lingua presa... Ele era um pouco estranho, com certeza - falava sozinho e tal... mas parecia um cara legal. Nao o vejo no Bar ha tempos.</text>
 472|<text>Fale-me sobre os laboratorios cientificos moveis.</text>
 475|<text>Os cientistas os montam de vez em quando. Bunkers de metal isolados com tudo o que voce precisa para viver. Estamos em contato com um desses laboratorios em Yantar. Os cientistas sao caras legais - eles nos contam muitas coisas interessantes e nos os ajudamos quando podemos... Uma troca, digamos...</text>
@@ -185,14 +185,14 @@
 556|<text>Tenho um grande problema, cara! Eu... eu perdi meu rifle de familia no Wild Territory. Eu queria atirar em alguns sanguessugas, mas mal consegui escapar. Droga! Escuta, irmao... se voce o trouxer de volta, eu te pago. Ganhei um pouco de dinheiro aqui e vou te dar tudo, so traga meu rifle de volta. E um rifle de familia, sabe, passado de pai para filho... E eu o perdi! Me acostumei com ele, e como uma extensao do meu braco agora...</text>
 559|<text>Ei! Alguma novidade? Voce o encontrou?!</text>
 562|<text>Obrigado, irmao! Nunca vou esquecer que voce me ajudou!</text>
-565|<text>Galgo disse que voce tem algo para mim.</text>
+565|<text>Wolfhound disse que voce tem algo para mim.</text>
 568|<text>Claro. Aqui esta um lancador de granadas por ajuda-lo com Kruglov, e 1000 em dinheiro por cima. Vou te dar algumas informacoes uteis de graca para adocar o negocio tambem.</text>
 571|<text>Obrigado.</text>
 574|<text>Aqui esta o que eu tenho a dizer. Voce ajudou a Freedom e fez a escolha certa. Seu destino agora esta ligado ao da Freedom, e a Duty esta de olho em voce. Eu diria que voce deveria ir para a base militar abandonada e se juntar as fileiras da Freedom - eles precisam de bons lutadores. Havera tiroteios entre os grupos em breve e quem escolher o lado certo nao se arrependera.</text>
 577|<text>Trabalho como negociante de informacoes. Vendo informacoes importantes e compro mapas, documentos e registros de laboratorio. Minhas informacoes sao valiosas e muito uteis para quem as possui!</text>
-580|<text>Ola, Marca. Voce ajudou a Freedom e fez a escolha certa. Seu destino agora esta ligado ao da Freedom e a Duty esta de olho em voce. Eu sugiro que voce va para a base militar abandonada e se junte a Freedom - eles precisam de bons lutadores.</text>
+580|<text>Ola, Marked One. Voce ajudou a Freedom e fez a escolha certa. Seu destino agora esta ligado ao da Freedom e a Duty esta de olho em voce. Eu sugiro que voce va para a base militar abandonada e se junte a Freedom - eles precisam de bons lutadores.</text>
 583|<text>Vou pensar nisso.</text>
-586|<text>Entao, Marca, o que te traz aqui? Quer comprar alguma informacao ou esta vendendo hoje?</text>
+586|<text>Entao, Marked One, o que te traz aqui? Quer comprar alguma informacao ou esta vendendo hoje?</text>
 589|<text>Entao voce esta conectado com a Freedom?</text>
 592|<text>Nao posso responder a essa pergunta agora. Tudo o que posso dizer e que nao sou membro de nenhum grupo.</text>
 595|<text>Fale-me sobre a faccao Freedom.</text>
@@ -208,7 +208,7 @@
 625|<text>Voce decide. Venha ao bar quando decidir o contrario - estou sempre aqui.</text>
 628|<text>Agora, tenho algumas informacoes sobre um grupo que chegou ao centro da Zona. Estou praticamente dando de graca - apenas 2000 rublos.</text>
 631|<text>OK, vou comprar. Aqui estao 2000.</text>
-634|<text>Strelok, Fantasma e Presa foram para o centro da Zona. O que eles encontraram la, ninguem sabe, mas Strelok desapareceu enquanto Fantasma e Presa voltaram perturbados. As ultimas noticias sobre Fantasma sao que ele foi para o laboratorio movel perto do Lago Yantar. As coordenadas do acampamento dos cientistas estao anexadas.</text>
+634|<text>Strelok, Ghost e Fang foram para o centro da Zona. O que eles encontraram la, ninguem sabe, mas Strelok desapareceu enquanto Ghost e Fang voltaram perturbados. As ultimas noticias sobre Ghost sao que ele foi para o laboratorio movel perto do Lago Yantar. As coordenadas do acampamento dos cientistas estao anexadas.</text>
 637|<text>Nao, mudei de ideia.</text>
 640|<text>Voce decide. Venha ao bar quando decidir o contrario - estou sempre aqui.</text>
 643|<text>Tenho algumas informacoes sobre o segredo do Lago Yantar. O preco e de apenas 3500 rublos - qualquer valor menor e eu estaria te pagando!</text>
@@ -249,15 +249,15 @@
 748|<text>Voce pode me dizer algo que seria util para um novato?</text>
 751|<text>Se voce nao esteve na Arena, eu recomendo - e uma boa maneira de ganhar dinheiro e mostrar a todos do que voce e capaz. Nem todo mundo tem coragem de lutar contra o proximo monstro e isso e uma pena! Cara, assim que eu juntar dinheiro suficiente para uma armadura decente, vou la.</text>
 754|<text>O que voce quer?</text>
-757|<text>Voce e Careca? Preciso falar com voce.</text>
+757|<text>Voce e Baldy? Preciso falar com voce.</text>
 760|<text>Suponha que sim. O que voce quer?</text>
-763|<text>Sardento foi salvo da Red Forest, mas Corcunda esta morto.</text>
+763|<text>Spotty foi salvo da Red Forest, mas Corcunda esta morto.</text>
 766|<text>Droga!</text>
-769|<text>Sardento esta em mau estado, seu cerebro nao funciona mais. Talvez voce possa falar com ele? Precisamos descobrir o cronograma do Brain Scorcher.</text>
-772|<text>Nao! Nao me peca para fazer isso. Corcunda esta morto por minha causa e o que aconteceu com Sardento tambem e minha culpa. Eu os deixei, os trai, os abandonei e fugi! Nao posso olhar Sardento nos olhos depois do que fiz!</text>
+769|<text>Spotty esta em mau estado, seu cerebro nao funciona mais. Talvez voce possa falar com ele? Precisamos descobrir o cronograma do Brain Scorcher.</text>
+772|<text>Nao! Nao me peca para fazer isso. Corcunda esta morto por minha causa e o que aconteceu com Spotty tambem e minha culpa. Eu os deixei, os trai, os abandonei e fugi! Nao posso olhar Spotty nos olhos depois do que fiz!</text>
 775|<text>Vamos la, relaxa cara. Me conte o que aconteceu.</text>
-778|<text>Nos tres estavamos nos preparando para tentar chegar ao norte. Nao sabiamos quando as emissoes do Brain Scorcher eram mais baixas, mas Sardento conseguiu a informacao em algum lugar... Nao sei onde... Estavamos na metade do setor, quando o Brain Scorcher de repente ligou de novo. Sardento desmaiou na hora e caiu na encosta. Entrei em panico e disse que deveriamos deixar tudo e voltar. Corcunda conseguiu se recompor e disse que tinhamos que tirar Sardento de la... Eu disse: "Voce e um idiota, nao quer viver? Acabou para ele, como vamos carrega-lo de volta?" Assim que ele conseguiu me convencer e comecou a descer para pegar Sardento... outra onda veio. Quando voltei a mim, estava na base militar... Achei que Corcunda e Sardento tinham ficado la... mas Corcunda o tirou e nao conseguiu sair... ele o tirou...</text>
-781|<text>OK, Careca, OK. Calma, cara. Obrigado por me contar o que aconteceu. Eu mesmo vou falar com Sardento.</text>
+778|<text>Nos tres estavamos nos preparando para tentar chegar ao norte. Nao sabiamos quando as emissoes do Brain Scorcher eram mais baixas, mas Spotty conseguiu a informacao em algum lugar... Nao sei onde... Estavamos na metade do setor, quando o Brain Scorcher de repente ligou de novo. Spotty desmaiou na hora e caiu na encosta. Entrei em panico e disse que deveriamos deixar tudo e voltar. Corcunda conseguiu se recompor e disse que tinhamos que tirar Spotty de la... Eu disse: "Voce e um idiota, nao quer viver? Acabou para ele, como vamos carrega-lo de volta?" Assim que ele conseguiu me convencer e comecou a descer para pegar Spotty... outra onda veio. Quando voltei a mim, estava na base militar... Achei que Corcunda e Spotty tinham ficado la... mas Corcunda o tirou e nao conseguiu sair... ele o tirou...</text>
+781|<text>OK, Baldy, OK. Calma, cara. Obrigado por me contar o que aconteceu. Eu mesmo vou falar com Spotty.</text>
 784|<text>Desculpe. Nao estou com vontade de conversar... Prefiro apenas tomar outra bebida.</text>
 787|<text>O que voce quer?</text>
 790|<text>O que ha de novo?</text>
@@ -297,13 +297,13 @@
 892|<text>Certo, aqui esta seu passe. Va ver Petrenko, o administrador. Marquei no seu mapa.</text>
 895|<text>Nao, mudei de ideia.</text>
 898|<text>Voce decide, cara. Ate logo.</text>
-901|<text>Porque nao ha lugar para esses bandidos da Freedom na Zona - eles devem ser destruidos. Se voce estiver interessado, peca ao Bartender para explicar tudo. Estou ocupado.</text>
+901|<text>Porque nao ha lugar para esses bandidos da Freedom na Zona - eles devem ser destruidos. Se voce estiver interessado, peca ao Barkeep para explicar tudo. Estou ocupado.</text>
 904|<text>Pague 1000 rublos e voce recebera um passe. Leve isso para o administrador da Duty e ele providenciara testes para voce.</text>
 907|<text>OK, aqui esta o dinheiro.</text>
 910|<text>Certo, aqui esta seu passe. Va ver Petrenko, o administrador. Marquei no seu mapa.</text>
 913|<text>Nao, mudei de ideia.</text>
 916|<text>Voce decide, cara. Ate logo.</text>
-919|<text>Bartender me disse que sua lideranca tem algum tipo de tarefa para mim.</text>
+919|<text>Barkeep me disse que sua lideranca tem algum tipo de tarefa para mim.</text>
 922|<text>Sim, ele nos avisou sobre voce, mas antes de deixarmos voce entrar, quero informa-lo sobre nossas regras. Entao ouca, nossas regras sao simples. Primeira regra - e proibido atirar em nosso territorio. Se voce quebrar a regra duas vezes, nossa patrulha abrira fogo contra voce. Mesmo que voce fuja, voce nao aparecera mais em nosso territorio - nossos guardas garantirao isso. Se voce agir com calma, nao tera problemas.</text>
 925|<text>Entendi. Algo mais?</text>
 928|<text>Sim, isso e o suficiente. Voce pode passar.</text>
@@ -315,7 +315,7 @@
 946|<text>Por que voces nao deixam estranhos entrarem?</text>
 949|<text>De onde voces, meninos ingenuos, vieram? Ha uma guerra acontecendo, certo? Estamos lutando contra bandidos da Freedom! Temos conflitos regulares com seus lutadores no Wild Territory.</text>
 952|<text>Uma guerra com a Freedom? Por que?</text>
-955|<text>Porque nao ha lugar para esses bandidos da Freedom na Zona - eles devem ser destruidos. Se voce estiver interessado, peca ao Bartender para explicar tudo. Estou ocupado.</text>
+955|<text>Porque nao ha lugar para esses bandidos da Freedom na Zona - eles devem ser destruidos. Se voce estiver interessado, peca ao Barkeep para explicar tudo. Estou ocupado.</text>
 958|<text>Pare! Apenas membros podem entrar la! Nao podemos deixa-lo entrar no bunker sem um passe especial. Se voce quiser obter um, va ver o Coronel Petrenko. Ele esta na area administrativa do outro lado do patio.</text>
 961|<text>Por que voce esta parado ai? Continue andando.</text>
 964|<text>Va em frente. Lembre-se: a missao da Duty e limpar.</text>
@@ -323,18 +323,18 @@
 970|<text>Estou ouvindo.</text>
 973|<text>Ola, amigo.</text>
 976|<text>O que posso fazer pelo Duty?</text>
-979|<text>Essa e uma boa pergunta, Marca, e ha uma resposta igualmente boa para ela - matar anarquistas da Freedom. Voce recebera uma recompensa por cada PDA deles que trouxer e podera ser promovido tambem. Leve todos os PDAs que conseguir para Petrenko - ele entrega as recompensas.</text>
-982|<text>Bartender me disse que voce tem uma tarefa para mim nos armazens militares...</text>
+979|<text>Essa e uma boa pergunta, Marked One, e ha uma resposta igualmente boa para ela - matar anarquistas da Freedom. Voce recebera uma recompensa por cada PDA deles que trouxer e podera ser promovido tambem. Leve todos os PDAs que conseguir para Petrenko - ele entrega as recompensas.</text>
+982|<text>Barkeep me disse que voce tem uma tarefa para mim nos armazens militares...</text>
 985|<text>Quero pedir que voce faca uma coisa, pessoalmente para mim, entende? Estamos no meio de uma guerra territorial com a faccao Freedom e precisamos de armas mais poderosas do que as que temos. A Freedom tem alguns excelentes lancadores de granadas Bulldog 6. Se voce pudesse penetrar em seu territorio e roubar pelo menos um desses lancadores de granadas, eu o recompensaria generosamente. Como voce nao esta em nossa faccao, pode ganhar rapidamente a confianca da Freedom e, se tiver sorte, pegar um Bulldog 6.</text>
 988|<text>Continue.</text>
 991|<text>Vou carregar a localizacao da base da Freedom para voce. Voce precisara encontrar o Chef. Ele e membro da Freedom. Ele sabe onde os RG-6 sao mantidos. E ele gosta de beber, entao leve muita vodka com voce. Entao, o que voce diz?</text>
 994|<text>OK, vou tentar roubar um Bulldog 6 da Freedom.</text>
-997|<text>Ah, e mais uma coisa. O Coronel Cranio e seus rapazes desobedeceram minha ordem e decidiram atacar a base da Freedom sem autorizacao. Bem, eles que colham o que plantaram... bastardos suicidas. Nao se envolva na luta deles. Apenas tente me conseguir o Bulldog 6 - nada mais importa.</text>
+997|<text>Ah, e mais uma coisa. O Coronel Skull e seus rapazes desobedeceram minha ordem e decidiram atacar a base da Freedom sem autorizacao. Bem, eles que colham o que plantaram... bastardos suicidas. Nao se envolva na luta deles. Apenas tente me conseguir o Bulldog 6 - nada mais importa.</text>
 1000|<text>Ainda nao estou pronto para tais feitos.</text>
 1003|<text>Voce decide.</text>
 1006|<text>Estou pronto para prestar o juramento.</text>
-1009|<text>Bom homem! Repita depois de mim: "Eu, um stalker conhecido como Marca, juro defender os objetivos e ideais da Duty."</text>
-1012|<text>Eu, um stalker conhecido como Marca, juro defender os objetivos e ideais da Duty.</text>
+1009|<text>Bom homem! Repita depois de mim: "Eu, um stalker conhecido como Marked One, juro defender os objetivos e ideais da Duty."</text>
+1012|<text>Eu, um stalker conhecido como Marked One, juro defender os objetivos e ideais da Duty.</text>
 1015|<text>Proteger a Terra dos perigos da Zona, procurar e destruir tudo o que ela gera dentro e fora de suas fronteiras.</text>
 1018|<text>Proteger a Terra dos perigos da Zona, procurar e destruir tudo o que ela gera dentro e fora de suas fronteiras.</text>
 1021|<text>Lutar contra quaisquer inconformistas, sejam eles stalkers individuais ou grupos.</text>
@@ -343,17 +343,17 @@
 1030|<text>E dar minha vida em nome da justica e da ordem na Terra!</text>
 1033|<text>Parabens! Agora voce e um membro pleno da Duty.</text>
 1036|<text>Completei a missao. Trouxe o Bulldog 6.</text>
-1039|<text>Bom trabalho, stalker. E exatamente disso que precisamos. Bem, Marca, voce cumpriu meu pedido e, em troca, pode pegar este traje. Acho que voce vai gostar.</text>
+1039|<text>Bom trabalho, stalker. E exatamente disso que precisamos. Bem, Marked One, voce cumpriu meu pedido e, em troca, pode pegar este traje. Acho que voce vai gostar.</text>
 1042|<text>Estou ouvindo.</text>
 1045|<text>O que te traz aqui, irmao?</text>
 1048|<text>Voce trouxe o Bulldog 6?</text>
 1051|<text>Sim, aqui esta o Bulldog 6.</text>
-1054|<text>Bom trabalho, stalker. E exatamente disso que precisamos. Bem, Marca, voce cumpriu meu pedido e, em troca, pode pegar este traje. Acho que voce vai gostar.</text>
+1054|<text>Bom trabalho, stalker. E exatamente disso que precisamos. Bem, Marked One, voce cumpriu meu pedido e, em troca, pode pegar este traje. Acho que voce vai gostar.</text>
 1057|<text>O que te trouxe ate mim, irmao?</text>
-1060|<text>A guerra com a Freedom esta chegando ao fim, Marca. Voce desempenhou seu papel na luta pela causa e agora quero terminar esta guerra. Quero que voce mate o lider da Freedom.</text>
+1060|<text>A guerra com a Freedom esta chegando ao fim, Marked One. Voce desempenhou seu papel na luta pela causa e agora quero terminar esta guerra. Quero que voce mate o lider da Freedom.</text>
 1063|<text>O que te traz aqui, irmao? Voce matou o lider daqueles anarquistas da Freedom e o grupo deles desmoronou. A guerra nao acabou, mas seu resultado e certo. Suas conquistas sao grandes e nao serao esquecidas.</text>
 1066|<text>Ola, stalker. Junte-se ao Duty! Precisamos de bons lutadores! Acabei de me juntar e veja o uniforme legal que eles me deram!</text>
-1069|<text>Ola, Marca. Fico feliz que voce esteja conosco. O Duty realmente precisara de bons lutadores em breve.</text>
+1069|<text>Ola, Marked One. Fico feliz que voce esteja conosco. O Duty realmente precisara de bons lutadores em breve.</text>
 1072|<text>Ei, colega stalker.</text>
 1075|<text>Fale-me sobre a Duty.</text>
 1078|<text>Estamos aqui desde o inicio. O primeiro grupo era formado pelos membros sobreviventes de unidades especiais enviadas para a Zona para descobrir o que causou seu surgimento. Nos encontramos em circunstancias muito dificeis. Depois que metade da unidade morreu horrivelmente, aqueles que sobreviveram juraram que nao sairiam daqui ate entenderem o que esta acontecendo na Zona... ate derrota-la.</text>
@@ -389,8 +389,8 @@
 1168|<text>Eu abati um porco no caminho para ca. Dizem que e valioso.</text>
 1171|<text>Ouvi dizer que voce atirou em Borov. Voce merece ganhar algum dinheiro e uma arma decente por isso. Faca justica a sua nova arma!</text>
 1174|<text>Nao se preocupe com isso.</text>
-1177|<text>Tive uma pequena "conversa" com Tirano da Freedom. Basicamente, ele entendeu seu erro e prometeu se comportar no futuro. Tenho quase certeza de que ele nao vai quebrar sua palavra - os mortos nao mentem.</text>
-1180|<text>Tirano era uma verdadeira dor de cabeca para nos! Fico feliz que voce o tenha eliminado. Aqui esta sua recompensa - um S14 Thunder, nossa arma de marca registrada.</text>
+1177|<text>Tive uma pequena "conversa" com Tyran da Freedom. Basicamente, ele entendeu seu erro e prometeu se comportar no futuro. Tenho quase certeza de que ele nao vai quebrar sua palavra - os mortos nao mentem.</text>
+1180|<text>Tyran era uma verdadeira dor de cabeca para nos! Fico feliz que voce o tenha eliminado. Aqui esta sua recompensa - um S14 Thunder, nossa arma de marca registrada.</text>
 1183|<text>Nada mal. Vou fazer mais do mesmo. Ate logo.</text>
 1186|<text>Voronin nao te disse nada?</text>
 1189|<text>Uau, parabens! E uma grande conquista matar o lider da Freedom. Cara, queria ser tao durao quanto voce.</text>
@@ -398,7 +398,7 @@
 1195|<text>Gostaria de saber uma coisa.</text>
 1198|<text>O que voce quer saber?</text>
 1201|<text>Quem e voce e como voce veio parar aqui?</text>
-1204|<text>Meu nome e Kruglov. Sou professor de biologia, estudo a Zona. Ontem, por exemplo, encontrei um animal de particular interesse - Antropomorphus Dendromutantus Vulgaris. Eu encontro e documento principalmente novas especies de animais mutantes, suas caracteristicas e tracos distintivos. As informacoes sao entao minuciosamente estudadas e transferidas para o mundo exterior. Parte disso, e claro, vai para o Bartender. Minhas descobertas ajudaram a salvar a vida de muitos stalkers. Eu estava apenas transportando os resultados da minha pesquisa mais recente para o laboratorio perto do Lago Yantar quando o helicoptero foi atacado.</text>
+1204|<text>Meu nome e Kruglov. Sou professor de biologia, estudo a Zona. Ontem, por exemplo, encontrei um animal de particular interesse - Antropomorphus Dendromutantus Vulgaris. Eu encontro e documento principalmente novas especies de animais mutantes, suas caracteristicas e tracos distintivos. As informacoes sao entao minuciosamente estudadas e transferidas para o mundo exterior. Parte disso, e claro, vai para o Barkeep. Minhas descobertas ajudaram a salvar a vida de muitos stalkers. Eu estava apenas transportando os resultados da minha pesquisa mais recente para o laboratorio perto do Lago Yantar quando o helicoptero foi atacado.</text>
 1207|<text>Fale-me sobre a Zona.</text>
 1210|<text>A Zona e um presente maravilhoso para a humanidade. E claro que a existencia normal aqui nao e possivel devido aos altos niveis de radiacao e aos mutantes agressivos. Todas essas coisas sao obviamente extremamente perigosas, mas tambem sao coisas de grande valor cientifico. A Zona e quase um experimento natural, um tesouro para os cientistas! A extensao em que o conhecimento da humanidade poderia ser aumentado atraves do estudo da Zona e insondavel. Tecnologia, medicina, novas plantas - medicinais e comestiveis, biotecnologia, curas para doencas incuraveis... qualquer coisa! Talvez possamos resolver o problema da alimentacao para todo o planeta. Se as pessoas nao interferissem, a ciencia poderia levar a humanidade a uma nova Era de Ouro!</text>
 1213|<text>O Duty pensa o contrario e nem a Freedom parece querer te ajudar.</text>
@@ -410,34 +410,34 @@
 1231|<text>Estou procurando o Lab X16. Voce poderia me dizer onde ele fica?</text>
 1234|<text>Lab X16? Hmm... Sakharov mencionou algo do tipo de passagem, mas nao me lembro exatamente do que ele disse. Talvez seja melhor perguntar a ele mesmo... Ele esta atualmente no laboratorio movel perto do Lago Yantar.</text>
 1237|<text>Infelizmente, tenho que ir. Boa sorte.</text>
-1240|<text>Marca, pare eles ou eles nos matarao!</text>
+1240|<text>Marked One, pare eles ou eles nos matarao!</text>
 1243|<text>Fique tranquilo. Nos lidaremos com eles.</text>
 1246|<text>OK.</text>
 1249|<text>Vamos nos mover. Vamos tentar passar...</text>
 1252|<text>Vamos nos apressar.</text>
-1255|<text>Stalker, eu imploro! Estavamos voltando de Yantar quando os Mercs derrubaram nosso helicoptero. Ouvi dizer que eles estao procurando informacoes, mas sei que nos matarao. Ajude-me a chegar ao lago e eu lhe contarei tudo o que sei sobre o que voce chama de Brain Scorcher. O Bartender vai te pagar bem.</text>
+1255|<text>Stalker, eu imploro! Estavamos voltando de Yantar quando os Mercs derrubaram nosso helicoptero. Ouvi dizer que eles estao procurando informacoes, mas sei que nos matarao. Ajude-me a chegar ao lago e eu lhe contarei tudo o que sei sobre o que voce chama de Brain Scorcher. O Barkeep vai te pagar bem.</text>
 1258|<text>OK.</text>
 1261|<text>Obrigado, stalker. Eu nao sou muito lutador, mas conheco o caminho, entao vou liderar e voce nos dara cobertura.</text>
 1264|<text>Nao. Tente sair daqui sozinho.</text>
 1267|<text>Nao. Tenho certeza de que voce nao quer dizer isso. Nunca vou sair daqui sozinho. Se voce mudar de ideia, estarei aqui... se eu viver.</text>
 1270|<text>Apresse-se, temos que sair daqui rapidamente.</text>
-1273|<text>Ufa! Nos realmente chegamos em seguranca? Finalmente! Muito obrigado pela sua ajuda. Estou em divida com voce, mas por enquanto, por favor, aceite este pendrive. Ele contem os resultados da minha ultima expedicao. Tenho certeza de que o Bartender pagaria bem por ele.</text>
+1273|<text>Ufa! Nos realmente chegamos em seguranca? Finalmente! Muito obrigado pela sua ajuda. Estou em divida com voce, mas por enquanto, por favor, aceite este pendrive. Ele contem os resultados da minha ultima expedicao. Tenho certeza de que o Barkeep pagaria bem por ele.</text>
 1276|<text>Sim, estamos aqui.</text>
-1279|<text>Marca, se voce visitar nosso laboratorio movel, daremos a voce um traje cientifico.</text>
+1279|<text>Marked One, se voce visitar nosso laboratorio movel, daremos a voce um traje cientifico.</text>
 1282|<text>Veremos.</text>
 1285|<text>Ola, stalker. Permita-me expressar minha gratidao em nome da ciencia global!</text>
-1288|<text>Marca, pare eles ou eles nos matarao!</text>
+1288|<text>Marked One, pare eles ou eles nos matarao!</text>
 1291|<text>Fique tranquilo. Nos lidaremos com eles.</text>
 1294|<text>OK.</text>
 1297|<text>Vamos nos mover. Vamos tentar passar...</text>
 1300|<text>Vamos la.</text>
-1303|<text>Marca, pare eles ou eles nos matarao!</text>
+1303|<text>Marked One, pare eles ou eles nos matarao!</text>
 1306|<text>Fique tranquilo. Nos lidaremos com eles.</text>
 1309|<text>OK, vou esperar aqui.</text>
 1312|<text>Vamos nos mover. Vamos tentar passar...</text>
 1315|<text>OK, vamos nos apressar.</text>
-1318|<text>Tenha cuidado com o Queimador, Marca. Meu traje me protegera, mas e melhor voce evita-lo.</text>
+1318|<text>Tenha cuidado com o Queimador, Marked One. Meu traje me protegera, mas e melhor voce evita-lo.</text>
 1321|<text>Obrigado pelo seu conselho.</text>
-1324|<text>Apresse-se, Marca. Agora nao e hora de conversar.</text>
+1324|<text>Apresse-se, Marked One. Agora nao e hora de conversar.</text>
 1327|<text>Stalker, fale com o professor Kruglov, ajude-o a sair.</text>
 1330|<text>Acabou. Eles mataram Kruglov!</text>

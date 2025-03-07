@@ -258,8 +258,8 @@
 775|<text>Tesouro na garagem</text>
 778|<text>Dizem que ha um bau no jardim de infancia com uma tonelada de mercadorias dentro</text>
 781|<text>Esconderijo secreto antigo</text>
-784|<text>Eles enterraram Presa em Prypiat sob um monumento. Deixaram todas as suas mercadorias com ele - nao e certo tirar dos mortos.</text>
-787|<text>Mercadorias de Presa</text>
+784|<text>Eles enterraram Fang em Prypiat sob um monumento. Deixaram todas as suas mercadorias com ele - nao e certo tirar dos mortos.</text>
+787|<text>Mercadorias de Fang</text>
 790|<text>A ultima coisa que sabiam sobre ele e que ele foi o unico sobrevivente apos o Brain Scorcher. Ele deixou todos os suprimentos em um supermercado antigo e seguiu em frente. Tudo nao saiu como planejado, e ele foi o melhor lider da Freedom em toda a nossa historia.</text>
 793|<text>Suprimentos do lider da Freedom</text>
 796|<text>A cruz esta a caminho do Brain Scorcher, nao fui mais longe, escondi tudo la embaixo.</text>
@@ -305,7 +305,7 @@
 916|<text>Eles esconderam os suprimentos extras sob o concreto no canteiro de obras</text>
 919|<text>Esconderijo secreto sob o concreto</text>
 922|<text>Caso precisemos fugir rapidamente, colocaremos o habar no bau no canteiro de obras.</text>
-925|<text>Esconderijo secreto do Sortudo</text>
+925|<text>Esconderijo secreto do Lucky</text>
 928|<text>Escondi em uma das ruas laterais no canteiro de obras</text>
 931|<text>Nychka</text>
 934|<text>Enfiei tudo em algum cano - pego depois</text>

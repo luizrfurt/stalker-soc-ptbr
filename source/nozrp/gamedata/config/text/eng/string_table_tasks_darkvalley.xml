@@ -20,7 +20,7 @@
 		<text>Encontre os documentos</text>
 	</string>
 	<string id="bar_darklab_documents2_2">
-		<text>Leve os documentos para Bartender</text>
+		<text>Leve os documentos para Barkeep</text>
 	</string>
 	<string id="dar_codedoor_1">
 		<text>Encontre a porta com codigo</text>
@@ -44,7 +44,7 @@
 		<text>Liberte o dutyer</text>
 	</string>
 	<string id="val_captive_help_1">
-		<text>Siga Bala ate o local da emboscada</text>
+		<text>Siga Bullet ate o local da emboscada</text>
 	</string>
 	<string id="val_captive_help_2">
 		<text>Mate os bandidos e resgate o dutyer</text>

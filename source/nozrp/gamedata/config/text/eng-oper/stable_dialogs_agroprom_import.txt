@@ -9,7 +9,7 @@
 28|<text>Obrigado.</text>
 31|<text>Sim, nos tambem procuramos, mas nao encontramos. Vou te enviar algumas informacoes sobre isso. E tudo o que temos sobre o esconderijo.</text>
 34|<text>O que esta acontecendo aqui?</text>
-37|<text>Estamos lutando, ou mais especificamente, acampando como patos sentados. Fale com Toupeira se quiser saber mais - ele e o lider.</text>
+37|<text>Estamos lutando, ou mais especificamente, acampando como patos sentados. Fale com Mole se quiser saber mais - ele e o lider.</text>
 40|<text>Cara, essa foi uma luta e tanto - voce nao desejaria algo assim nem para o seu pior inimigo. Aqueles soldados do exercito estao ficando bem arrogantes!</text>
 43|<text>Onde fica o Agroprom Research Institute?</text>
 46|<text>Nao muito longe daqui. Siga a estrada para o oeste e voce chegara aos portoes do Instituto.</text>
@@ -47,9 +47,9 @@
 142|<text>A saida do tunel ferroviario fica proxima. E razoavelmente seguro no beco sem saida. Pelo menos ninguem foi comido enquanto dormia... ainda. Alem disso, a noroeste da fabrica, voce encontrara um pantano com uma carroca dentro. Mas tenha cuidado, ha uma quantidade enorme de radiacao ao redor dela, entao e melhor aborda-la pelo lado oeste. Ah, e mais uma coisa: um soldado foi visto la. Ele provavelmente e da base militar no Instituto. O pobre bastardo provavelmente esta louco - ele esta la ha alguns dias e duvido que sobreviva muito mais tempo sozinho.</text>
 145|<text>Tchau!</text>
 148|<text>Algo interessante acontecendo aqui?</text>
-151|<text>Voce conhece o Ratoeiro? A informacao vai te custar 30.</text>
+151|<text>Voce conhece o Ratcatcher? A informacao vai te custar 30.</text>
 154|<text>Fechado.</text>
-157|<text>Temos um heroi local por aqui chamado Ratoeiro. Ele mora nos pantanos. O homem criou tantos ratos nos coletores que eles logo comerao aqueles bastardos do exercito.</text>
+157|<text>Temos um heroi local por aqui chamado Ratcatcher. Ele mora nos pantanos. O homem criou tantos ratos nos coletores que eles logo comerao aqueles bastardos do exercito.</text>
 160|<text>Otimo. Obrigado.</text>
 163|<text>Conte-me mais sobre os coletores.</text>
 166|<text>Coletores sao seus esgotos fedorentos padrao que levam o lixo do Instituto e o despejam no reservatorio de agua mais proximo.</text>
@@ -89,6 +89,6 @@
 268|<text>Nada. Ate logo.</text>
 271|<text>Quem e voce?</text>
 274|<text>Eu moro aqui, se e que voce pode chamar isso de vida. Crio ratos no coletor para irritar os militares do Instituto.</text>
-277|<text>Eu sou o Ratoeiro.</text>
+277|<text>Eu sou o Ratcatcher.</text>
 280|<text>O que voce esta fazendo neste pantano?</text>
 283|<text>Oh... entendi.... bem, eu sou de outra historia. Ha-ha-ha...</text>

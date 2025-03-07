@@ -7,47 +7,47 @@
 20|<text>Stalker militar. Bem armado e altamente perigoso. Detalhes nao disponiveis.</text>
 23|<text>Detalhes nao disponiveis.</text>
 26|<text>Spetsnaz do Exercito. Bem equipado. Detalhes nao disponiveis.</text>
-29|<text>Vasil "Sem sorte"</text>
+29|<text>Vasil "Luckless"</text>
 32|<text>Spetsnaz do Exercito. Bem equipado. Detalhes nao disponiveis.</text>
 35|<text>Ex-escavador que invade todos os laboratorios e bunkers desertos que ele e seus associados encontram.</text>
-38|<text>Toupeira</text>
+38|<text>Mole</text>
 41|<text>Um dos participantes das lutas mortais na Arena. Detalhes nao disponiveis.</text>
 44|<text>Contrabandista experiente. Ganhou fama contrabandeando varias centenas de mutantes empalhados para fora da area restrita em um curto periodo de tempo.</text>
 47|<text>Arnie</text>
-50|<text>Seguranca no bar. Ou guarda-costas do Bartender, se preferir. Nada se sabe sobre seu presente ou seu passado.</text>
+50|<text>Seguranca no bar. Ou guarda-costas do Barkeep, se preferir. Nada se sabe sobre seu presente ou seu passado.</text>
 53|<text>Garik</text>
 56|<text>Irmao gemeo de Garik. Seguranca no bar. Tao calado quanto seu irmao.</text>
 59|<text>Zhorik</text>
-62|<text>Nem santo, nem canalha. O Bartender conhece seu valor e e respeitado por todos os stalkers. Corre o boato de que ele esta se escondendo na Zona de alguns eventos sombrios em seu passado. Apos um encontro com a anomalia, ele comecou a mancar levemente e decidiu mudar de emprego. Ele montou um bar perto da faccao Duty, e o local gradualmente se transformou no ponto de encontro para todos os veteranos da Zona. O Bartender tem inumeras conexoes tanto na Zona quanto no mundo exterior.</text>
-65|<text>Bartender</text>
-68|<text>Fera</text>
+62|<text>Nem santo, nem canalha. O Barkeep conhece seu valor e e respeitado por todos os stalkers. Corre o boato de que ele esta se escondendo na Zona de alguns eventos sombrios em seu passado. Apos um encontro com a anomalia, ele comecou a mancar levemente e decidiu mudar de emprego. Ele montou um bar perto da faccao Duty, e o local gradualmente se transformou no ponto de encontro para todos os veteranos da Zona. O Barkeep tem inumeras conexoes tanto na Zona quanto no mundo exterior.</text>
+65|<text>Barkeep</text>
+68|<text>Beast</text>
 71|<text>Membro da faccao Duty, mais vezes fora do vagao do que nele. O Duty deu a ele sua ultima chance de redencao ao realizar uma missao. No entanto, ele estava muito bebado para se recompor e realiza-la.</text>
-74|<text>Bromo</text>
-77|<text>Cara bem-humorado e alegre cujo unico problema e que ele nao consegue atirar com nada alem de um rifle de caca. Cacador nem experimentou outras armas ultimamente. Ele recentemente se envolveu em uma briga no Wild Territory e perdeu seu rifle de familia. Agora ele esta descansando no bar esperando que alguem devolva seu rifle.</text>
-80|<text>Cacador</text>
+74|<text>Brome</text>
+77|<text>Cara bem-humorado e alegre cujo unico problema e que ele nao consegue atirar com nada alem de um rifle de caca. Hunter nem experimentou outras armas ultimamente. Ele recentemente se envolveu em uma briga no Wild Territory e perdeu seu rifle de familia. Agora ele esta descansando no bar esperando que alguem devolva seu rifle.</text>
+80|<text>Hunter</text>
 83|<text>Stalker misterioso e sabichao. Troca informacoes no bar.</text>
-86|<text>Dedo-duro</text>
+86|<text>Snitch</text>
 89|<text>Comandante de todas as incursoes punitivas e expedicoes contra qualquer horda de mutantes.</text>
 92|<text>Capitao Ivantsov</text>
 95|<text>Sargento Kitsenko</text>
 98|<text>Guarda-costas do dono da Arena. Nao se sabe muito sobre seu passado, mas tudo e ruim. Ele odeia seus irmaos.</text>
 101|<text>Liolik</text>
-104|<text>Careca</text>
+104|<text>Baldy</text>
 107|<text>Um dos fundadores da Duty e seu principal idealizador ao mesmo tempo. Responsavel pelo codigo sagrado da faccao, ele recrutou basicamente todos os membros-chave da Duty.</text>
 110|<text>Coronel Petrenko</text>
 113|<text>Chefe da seguranca do territorio da Duty</text>
 116|<text>Sargento Plichko</text>
 119|<text>Estranho afetado pelo Brain Scorcher.</text>
-122|<text>Sardento</text>
+122|<text>Spotty</text>
 125|<text>Um dos fundadores da Duty e seu principal idealizador. Responsavel pelo codigo sagrado da faccao. Ele recrutou quase todos os membros-chave da Duty.</text>
 128|<text>General Voronin</text>
-131|<text>Bebado.</text>
+131|<text>Alkie.</text>
 134|<text>Stalker desconhecido. Reputacao desagradavel. Detalhes nao disponiveis.</text>
 137|<text>Stalker desconhecido. Reputacao desagradavel. Detalhes nao disponiveis.</text>
 140|<text>Um dos lideres dos bandidos. Bem armado e altamente perigoso. Detalhes nao disponiveis.</text>
 143|<text>Borziy</text>
-146|<text>Dr.</text>
-149|<text>Doutor</text>
+146|<text>Doc.</text>
+149|<text>Doc</text>
 152|<text>Merc desconhecido. Bem armado e altamente perigoso. Detalhes nao disponiveis.</text>
 155|<text>Merc desconhecido. Possivelmente bem armado. Detalhes nao disponiveis.</text>
 158|<text>Lider da gangue Merc. Bem armado e altamente perigoso. Detalhes nao disponiveis.</text>
@@ -56,24 +56,24 @@
 167|<text>Vasily Petrovich</text>
 170|<text>Nenhuma informacao disponivel.</text>
 173|<text>Stalker experiente. Sempre mantem os olhos abertos.</text>
-176|<text>Zheka Dupleto</text>
+176|<text>Zheka Doublet</text>
 179|<text>Kalugin P.I.</text>
 182|<text>Sargento regular do Exercito Ucraniano. Detalhes nao disponiveis.</text>
 185|<text>Soldado raso regular do Exercito Ucraniano. Detalhes nao disponiveis.</text>
 188|<text>Stalker desconhecido. Reputacao desagradavel. Detalhes nao disponiveis.</text>
 191|<text>Capitao de longa data do Exercito Ucraniano. Detalhes nao disponiveis.</text>
-194|<text>Assumiu a lideranca no acampamento de novatos depois de Lobo. Cheio de proposito, agressivo e tem autoridade bem merecida sobre os recem-chegados.</text>
-197|<text>Fanatico</text>
+194|<text>Assumiu a lideranca no acampamento de novatos depois de Wolf. Cheio de proposito, agressivo e tem autoridade bem merecida sobre os recem-chegados.</text>
+197|<text>Fanatic</text>
 200|<text>Loner velho endurecido pela Zona.</text>
-203|<text>Raposo</text>
+203|<text>Fox</text>
 206|<text>Merc desconhecido. Possivelmente bem armado. Detalhes nao disponiveis.</text>
-209|<text>Novato esperto. Lobo parece gostar dele e muitas vezes o envia em missoes importantes.</text>
+209|<text>Novato esperto. Wolf parece gostar dele e muitas vezes o envia em missoes importantes.</text>
 212|<text>Petruha</text>
 215|<text>Uma lenda viva, de certa forma. Dizem que ele pode leva-lo a absolutamente qualquer lugar na Zona. Seus servicos sao caros e nao estao disponiveis para qualquer um. Se ele nao gostar de voce, nao o levara por todo o dinheiro do mundo. Um veterano, percorreu toda a Zona.</text>
-218|<text>Guia</text>
+218|<text>Guide</text>
 221|<text>Sargento regular do Exercito Ucraniano. Detalhes nao disponiveis.</text>
 224|<text>Stalker que recebeu seu nome por ser quase invisivel e verdadeiramente indispensavel. O trader recorre a ele para missoes delicadas, como espionar alguem, bisbilhotar e escutar.</text>
-227|<text>Agil</text>
+227|<text>Nimble</text>
 230|<text>Major comandando o posto avancado do exercito perto da ponte. Conhecido por aceitar subornos de stalkers para deixa-los passar pela ponte.</text>
 233|<text>Major Kuznetsov</text>
 236|<text>Soldado raso regular do Exercito Ucraniano. Detalhes nao disponiveis.</text>
@@ -83,11 +83,11 @@
 248|<text>Stalker tipico.</text>
 251|<text>Tolik</text>
 254|<text>Chefe do acampamento de novatos. Um velho stalker planejando fugir.</text>
-257|<text>Lobo</text>
+257|<text>Wolf</text>
 260|<text>Tem ganhado a vida desde a infancia negociando. No jardim de infancia, ele vendia giz de cera. No ensino medio, passou a vender chiclete. No Instituto, lidava com drogas leves. Assim que a Zona surgiu, ele percebeu seu potencial de ganhar dinheiro. Famoso por ser capaz de construir fortes relacoes comerciais com qualquer tipo de cliente mal classificado.</text>
 263|<text>Sidorovich</text>
 266|<text>Tem certa autoridade com os bandidos na Zona. Comparsa de Borov.</text>
-269|<text>Vasya Javali</text>
+269|<text>Vasya Boar</text>
 272|<text>Um stalker da faccao Duty. Detalhes nao disponiveis.</text>
 275|<text>Oficial da faccao Duty. Detalhes nao disponiveis.</text>
 278|<text>Suboficial</text>
@@ -101,7 +101,7 @@
 302|<text>Um stalker experiente. Detalhes nao disponiveis.</text>
 305|<text>Militante da faccao Duty. Geralmente bem equipado. Detalhes nao disponiveis.</text>
 308|<text>Comandante das forcas especiais da faccao Duty. Geralmente bem equipado.</text>
-311|<text>Cranio</text>
+311|<text>Skull</text>
 314|<text>Um combatente da faccao Duty. Geralmente bem equipado. Detalhes nao disponiveis.</text>
 317|<text>Um dedo-duro conhecido em toda a Zona.</text>
 320|<text>Ara</text>
@@ -118,21 +118,21 @@
 353|<text>O cozinheiro da faccao Freedom. Um beberrao e brigao, mas um excelente cozinheiro.</text>
 356|<text>Chef</text>
 359|<text>Um mecanico renomado em toda a Zona. Pode fazer um tanque de um trator ou assim diz a historia.</text>
-362|<text>Durao</text>
+362|<text>Screw</text>
 365|<text>Lider da faccao Freedom.</text>
 368|<text>Lukash</text>
 371|<text>Comandante da faccao Freedom. Detalhes nao disponiveis.</text>
 374|<text>Guarda da faccao Freedom. Um fanatico. Muito bem equipado e altamente perigoso. Detalhes nao disponiveis.</text>
 377|<text>Max</text>
 380|<text>Guarda da faccao Freedom. Muito bem equipado e altamente perigoso. Detalhes nao disponiveis.</text>
-383|<text>Sombra</text>
+383|<text>Murk</text>
 386|<text>Stalker da faccao Freedom. Detalhes nao disponiveis.</text>
 389|<text>Sniper da faccao Freedom. Detalhes nao disponiveis.</text>
 392|<text>Militante da faccao Freedom. Geralmente bem equipado. Detalhes nao disponiveis.</text>
 395|<text>Stalker da faccao Freedom. Detalhes nao disponiveis.</text>
 398|<text>Pavlik</text>
 401|<text>Infame por sua ganancia e nao conformidade, mas dizem que ele pode conseguir qualquer coisa para voce.</text>
-404|<text>Avarento</text>
+404|<text>Skinflint</text>
 407|<text>Stalker da faccao Freedom. Detalhes nao disponiveis.</text>
 410|<text>Stalker insano da faccao Freedom.</text>
 413|<text>Militante da faccao Freedom. Geralmente bem equipado. Detalhes nao disponiveis.</text>
@@ -141,7 +141,7 @@
 422|<text>Stalker do grupo Monolith. Detalhes nao disponiveis.</text>
 425|<text>Stalker de elite do grupo Monolith. Detalhes nao disponiveis.</text>
 428|<text>Lider do grupo Monolith. Detalhes nao disponiveis.</text>
-431|<text>Caronte</text>
+431|<text>Charon</text>
 434|<text>Stalker regular do grupo Monolith. Detalhes nao disponiveis.</text>
 437|<text>Stalker das forcas especiais do grupo Monolith. Detalhes nao disponiveis.</text>
 440|<text>Soldado regular. Detalhes nao disponiveis.</text>
@@ -164,57 +164,57 @@
 491|<text>Cientista, especialista em fenomenos anomalos. Trabalhou na America em projetos ultrassecretos. Dado como desaparecido ha algum tempo.</text>
 494|<text>Freeman</text>
 497|<text>Saqueador e assassino. Uma recompensa foi colocada por sua cabeca. Anteriormente em bons termos com a Duty, ajudou-os a conquistar seu territorio. Agora habita o Wild Territory e assalta stalkers solitarios com sua gangue.</text>
-500|<text>Sortudo</text>
-503|<text>Doutor em biologia. Estudou mutacoes patogenicas em animais fora da Zona. Veio para a Zona para estudar mutacoes de caes cegos.</text>
+500|<text>Lucky</text>
+503|<text>Doc em biologia. Estudou mutacoes patogenicas em animais fora da Zona. Veio para a Zona para estudar mutacoes de caes cegos.</text>
 506|<text>Professor Kruglov</text>
 509|<text>Um dos "herois" da gangue Merc. Um veterano com balas de todos os calibres em seu corpo. Um psicopata e sadico raro.</text>
-512|<text>Tirano</text>
+512|<text>Tyran</text>
 515|<text>Um dos primeiros comandantes de campo dos Mercs. O lider da gangue que se autodenomina "Curs". Um anarquista que despreza todas as leis, exceto a lei da selva.</text>
-518|<text>Galgo</text>
+518|<text>Wolfhound</text>
 521|<text>Stalker do grupo Monolith. Detalhes nao disponiveis.</text>
 524|<text>Stalker do grupo especial "Crystal" da Monolith, responsavel pela seguranca do proprio Monolito.</text>
 527|<text>Arnie</text>
-530|<text>Fera</text>
-533|<text>Vasya "Javali"</text>
+530|<text>Beast</text>
+533|<text>Vasya "Boar"</text>
 536|<text>Uma forma psicomaterial criada pelo Monolito.</text>
 539|<text>Borov</text>
 542|<text>Stalker insano.</text>
 545|<text>Suboficial</text>
 548|<text>Chefe de seguranca</text>
-551|<text>"Cranio"</text>
+551|<text>"Skull"</text>
 554|<text>Comandante do posto avancado</text>
 557|<text>Yurik</text>
-560|<text>Zheka "Dupleto"</text>
-563|<text>"Fanatico"</text>
-566|<text>"Raposo"</text>
+560|<text>Zheka "Doublet"</text>
+563|<text>"Fanatic"</text>
+566|<text>"Fox"</text>
 569|<text>Gordon</text>
-572|<text>Caronte</text>
+572|<text>Charon</text>
 575|<text>Bes</text>
 578|<text>Ara</text>
 581|<text>Capitao Ivantsov</text>
-584|<text>Stalker Toupeira</text>
+584|<text>Stalker Mole</text>
 587|<text>Professor Kruglov</text>
 590|<text>Major Kuznetsov</text>
-593|<text>Sortudo</text>
+593|<text>Lucky</text>
 596|<text>Coronel Petrenko</text>
 599|<text>Zhorik</text>
 602|<text>Professor Sakharov</text>
-605|<text>Sardento</text>
+605|<text>Spotty</text>
 608|<text>"Seriy"</text>
 611|<text>"Cap"</text>
 614|<text>"Kaput"</text>
 617|<text>"Chef"</text>
-620|<text>Durao</text>
+620|<text>Screw</text>
 623|<text>"Lukash"</text>
 626|<text>"Max"</text>
 629|<text>Pavlik</text>
-632|<text>"Avarento"</text>
-635|<text>"Sombra"</text>
-638|<text>Tirano</text>
+632|<text>"Skinflint"</text>
+635|<text>"Murk"</text>
+638|<text>Tyran</text>
 641|<text>Tolik</text>
-644|<text>Galgo</text>
+644|<text>Wolfhound</text>
 647|<text>General Voronin</text>
-650|<text>"Lobo"</text>
+650|<text>"Wolf"</text>
 653|<text>Stalker desconhecido. Reputacao desagradavel. Detalhes nao disponiveis.</text>
 656|<text>Stalker desconhecido. Reputacao desagradavel. Detalhes nao disponiveis.</text>
 659|<text>Veio para a Zona em busca de aventura. Imita os personagens dos quadrinhos populares dos anos 60. Usa nomes diferentes: Badman, Macho, o Casaco Preto, Banderos. Mesmo tendo sobrevivido na Zona por dois anos inteiros, ninguem o leva a serio e isso o deixa constantemente louco.</text>
@@ -247,15 +247,15 @@
 740|<text>Um dos veteranos. Conhece a Zona como a palma da mao. Geralmente bem equipado e altamente perigoso. Detalhes nao disponiveis.</text>
 743|<text>Contrabandista experiente. Por muito tempo, exerceu seu comercio na Africa e na America do Sul. A noticia do desastre de Chernobyl o trouxe para a Ucrania. Em pouco tempo, ele conseguiu contrabandear centenas de mutantes empalhados para fora da area restrita e ganhou o apelido de "Taxidermista". Quando nao esta "trabalhando" na Zona, ele e um trader de sucesso. Adora ternos elegantes e gravatas sofisticadas, mas prefere armas sovieticas.</text>
 746|<text>Participou da guerra no Afeganistao. Anteriormente ateu, mas depois de sobreviver a uma emboscada dos Mujahideen, tornou-se um homem religioso. Apos a guerra no Afeganistao, emigrou para a Polonia, onde se matriculou em um seminario teologico. Depois de se formar no seminario, pregou na igreja catolica em Lvov. Apos a explosao na Chernobyl NPP, ele se ofereceu para ajudar as vitimas. Nos ultimos anos, tem pregado na Zona.</text>
-749|<text>Anteriormente mecanico na fabrica "KholodMach". Depois que sua esposa o deixou, ele decidiu tirar a propria vida. No entanto, sendo profundamente religioso, escolheu a Zona como um metodo de suicidio nao convencional. Contrariando suas expectativas, ele sobreviveu. Ele ganhou experiencia inestimavel e conquistou o respeito de outros stalkers gracas as suas habilidades profissionais. Mestre e provavelmente o mecanico mais qualificado da Zona e repara equipamentos e veiculos. Instalar sistemas de seguranca em bunkers de gangues e o que ele faz de melhor. Ele e bem-vindo em todos os lugares que vai. Um homem simples e severo, um pouco rude as vezes.</text>
+749|<text>Anteriormente mecanico na fabrica "KholodMach". Depois que sua esposa o deixou, ele decidiu tirar a propria vida. No entanto, sendo profundamente religioso, escolheu a Zona como um metodo de suicidio nao convencional. Contrariando suas expectativas, ele sobreviveu. Ele ganhou experiencia inestimavel e conquistou o respeito de outros stalkers gracas as suas habilidades profissionais. Master e provavelmente o mecanico mais qualificado da Zona e repara equipamentos e veiculos. Instalar sistemas de seguranca em bunkers de gangues e o que ele faz de melhor. Ele e bem-vindo em todos os lugares que vai. Um homem simples e severo, um pouco rude as vezes.</text>
 752|<text>Ex-stalker militar, tenente-coronel das tropas do Ministerio do Interior. O unico soldado a retornar de uma operacao desastrosa nas profundezas da Zona, mais tarde descobriu que a missao era inutil e suicida para comecar. Foi quando ele decidiu nao voltar, forjou a propria morte e se juntou aos stalkers. Quieto, cinico, determinado.</text>
 755|<text>Novato. Novo na Zona. Detalhes nao disponiveis.</text>
-758|<text>Desastrado tem 20 anos. Ele perdeu tudo e todos na Grande Terra antes de decidir vir para ca. Ele mal ganha a vida na Zona, mas simplesmente nao tem outro lugar para ir. Deve dinheiro a muitos stalkers. Frequenta a Zona, mas nunca vai la sozinho. Sempre tentando se agarrar a um grupo de stalkers experientes. Nao e um companheiro popular, pois na maioria das vezes ele e simplesmente inutil. Quase nao ganha dinheiro. Vive de esmolas de outros stalkers e esta profundamente endividado.</text>
+758|<text>Clumsy tem 20 anos. Ele perdeu tudo e todos na Grande Terra antes de decidir vir para ca. Ele mal ganha a vida na Zona, mas simplesmente nao tem outro lugar para ir. Deve dinheiro a muitos stalkers. Frequenta a Zona, mas nunca vai la sozinho. Sempre tentando se agarrar a um grupo de stalkers experientes. Nao e um companheiro popular, pois na maioria das vezes ele e simplesmente inutil. Quase nao ganha dinheiro. Vive de esmolas de outros stalkers e esta profundamente endividado.</text>
 761|<text>Stalker veterano. Possivelmente bem equipado. Detalhes nao disponiveis.</text>
 764|<text>Stalker veterano. Possivelmente bem equipado. Detalhes nao disponiveis.</text>
-767|<text>Oleg "Demonio" Gusarov. Um ex-"Boina Negra", serviu na brigada de Spetsnaz Belotserkovskaya. Serviu em varias missoes, tornou-se sargento mestre. Um sniper e tecnico de bombas. Um solitario de coracao, nunca se aventura na Zona em grupo, preferindo agir sozinho. Foi oferecido para se juntar aos clas varias vezes, mas sempre recusou.</text>
+767|<text>Oleg "Fiend" Gusarov. Um ex-"Boina Negra", serviu na brigada de Spetsnaz Belotserkovskaya. Serviu em varias missoes, tornou-se sargento mestre. Um sniper e tecnico de bombas. Um solitario de coracao, nunca se aventura na Zona em grupo, preferindo agir sozinho. Foi oferecido para se juntar aos clas varias vezes, mas sempre recusou.</text>
 770|<text>Um estudante do Departamento de Fisica que desistiu no ultimo ano. Ele foi para a Zona em busca de dinheiro facil. Gosta de exibir seu conhecimento "cientifico" e discursar sobre questoes filosoficas abstratas. E razao suficiente para outros stalkers nao gostarem dele. No geral, um sujeito bem decente. Uma especie de idealista.</text>
-773|<text>Pardal tem 27 anos, e astuto e previdente, mas tambem capaz dos piores erros. Pode ser mesquinho. Uma pessoa bastante duvidosa. Um tipo magricela e palido. Veio para a Zona por curiosidade, prometendo a si mesmo que voltaria para casa depois de dois meses. Ele nunca voltou. Em sua primeira incursao na Zona, Pardal conseguiu atravessar um campo repleto de anomalias com as maos nuas e sem nocao do quao perigoso era aquilo. Assim que descobriu o que havia feito, desmaiou. Desde entao, celebra essa data (9 de outubro) como seu segundo aniversario.</text>
+773|<text>Sparrow tem 27 anos, e astuto e previdente, mas tambem capaz dos piores erros. Pode ser mesquinho. Uma pessoa bastante duvidosa. Um tipo magricela e palido. Veio para a Zona por curiosidade, prometendo a si mesmo que voltaria para casa depois de dois meses. Ele nunca voltou. Em sua primeira incursao na Zona, Sparrow conseguiu atravessar um campo repleto de anomalias com as maos nuas e sem nocao do quao perigoso era aquilo. Assim que descobriu o que havia feito, desmaiou. Desde entao, celebra essa data (9 de outubro) como seu segundo aniversario.</text>
 776|<text>Mestre da faccao Freedom. Detalhes nao disponiveis.</text>
 779|<text>Stalker da faccao Freedom. Detalhes nao disponiveis.</text>
 782|<text>Stalker da faccao Freedom. Detalhes nao disponiveis.</text>
@@ -276,32 +276,32 @@
 827|<text>Stalker da faccao Duty. Detalhes nao disponiveis.</text>
 830|<text>Sergei Cabeludo</text>
 833|<text>Stalker da faccao Duty. Detalhes nao disponiveis.</text>
-836|<text>Bala</text>
+836|<text>Bullet</text>
 839|<text>Soldado regular. Detalhes nao disponiveis.</text>
 842|<text>Spetsnaz. Bem equipado. Detalhes nao disponiveis.</text>
 845|<text>Stalker experiente. Detalhes nao disponiveis.</text>
 848|<text>Novato. Novo na Zona. Detalhes nao disponiveis.</text>
-851|<text>Fantasma</text>
+851|<text>Ghost</text>
 854|<text>Pesquisador veterano da Zona. Participou das primeiras expedicoes em 2007.</text>
 857|<text>Professor Sakharov</text>
 860|<text>Assistente de pesquisa no laboratorio movel. Detalhes nao disponiveis.</text>
 863|<text>Assistente Semenov</text>
 866|<text>Vasiliev</text>
 869|<text>Stalker zumbificado</text>
-872|<text>Marca</text>
-875|<text>Frade</text>
-878|<text>Poquer</text>
+872|<text>Marked One</text>
+875|<text>Friar</text>
+878|<text>Poker</text>
 881|<text>Barin</text>
 884|<text>Suboficial</text>
-887|<text>Corte</text>
-890|<text>Vampiro</text>
-893|<text>Espantalho</text>
-896|<text>Padre Diodor</text>
-899|<text>Mestre</text>
+887|<text>Crop</text>
+890|<text>Vampire</text>
+893|<text>Scarecrow</text>
+896|<text>Father Diodor</text>
+899|<text>Master</text>
 902|<text>Polkan</text>
-905|<text>Desastrado</text>
-908|<text>Oleg "Demonio" Gusarov</text>
-911|<text>Espertinho</text>
-914|<text>Pardal</text>
+905|<text>Clumsy</text>
+908|<text>Oleg "Fiend" Gusarov</text>
+911|<text>Smartass</text>
+914|<text>Sparrow</text>
 917|<text>Leshiy</text>
-920|<text>Galho</text>
+920|<text>Twig</text>

@@ -1,176 +1,176 @@
 	<string id="lname_bandit_0">
-		<text>Cinza</text>
+		<text>Gray</text>
 	</string>
 	<string id="lname_bandit_1">
-		<text>Frenetico</text>
+		<text>Frantic</text>
 	</string>
 	<string id="lname_bandit_10">
-		<text>Podre</text>
+		<text>Rotten</text>
 	</string>
 	<string id="lname_bandit_100">
-		<text>Cirurgiao</text>
+		<text>Surgeon</text>
 	</string>
 	<string id="lname_bandit_101">
-		<text>Espiao</text>
+		<text>Spy</text>
 	</string>
 	<string id="lname_bandit_102">
-		<text>Bufalo</text>
+		<text>Buffalo</text>
 	</string>
 	<string id="lname_bandit_103">
-		<text>Castor</text>
+		<text>Beaver</text>
 	</string>
 	<string id="lname_bandit_104">
-		<text>Bulldogue</text>
+		<text>Bulldog</text>
 	</string>
 	<string id="lname_bandit_105">
-		<text>Touro</text>
+		<text>Bull</text>
 	</string>
 	<string id="lname_bandit_106">
-		<text>Pardal</text>
+		<text>Sparrow</text>
 	</string>
 	<string id="lname_bandit_107">
-		<text>Pica-pau</text>
+		<text>Woodpecker</text>
 	</string>
 	<string id="lname_bandit_108">
-		<text>Fera</text>
+		<text>Beast</text>
 	</string>
 	<string id="lname_bandit_109">
-		<text>Cobra</text>
+		<text>Snake</text>
 	</string>
 	<string id="lname_bandit_11">
-		<text>Corcunda</text>
+		<text>Hunchback</text>
 	</string>
 	<string id="lname_bandit_110">
-		<text>Javali</text>
+		<text>Boar</text>
 	</string>
 	<string id="lname_bandit_111">
-		<text>Carpa</text>
+		<text>Carp</text>
 	</string>
 	<string id="lname_bandit_112">
-		<text>Canario</text>
+		<text>Canary</text>
 	</string>
 	<string id="lname_bandit_113">
-		<text>Percevejo</text>
+		<text>Bedbug</text>
 	</string>
 	<string id="lname_bandit_114">
-		<text>Porco</text>
+		<text>Pig</text>
 	</string>
 	<string id="lname_bandit_115">
-		<text>Alce</text>
+		<text>Moose</text>
 	</string>
 	<string id="lname_bandit_116">
 		<text>Patsyuk</text>
 	</string>
 	<string id="lname_bandit_117">
-		<text>Jiboia</text>
+		<text>Boa</text>
 	</string>
 	<string id="lname_bandit_118">
-		<text>Cassetete</text>
+		<text>Baton</text>
 	</string>
 	<string id="lname_bandit_119">
-		<text>Espancado</text>
+		<text>Beaten</text>
 	</string>
 	<string id="lname_bandit_12">
-		<text>Longo</text>
+		<text>Long</text>
 	</string>
 	<string id="lname_bandit_120">
-		<text>Caos</text>
+		<text>Mayhem</text>
 	</string>
 	<string id="lname_bandit_121">
-		<text>Parafuso</text>
+		<text>Bolt</text>
 	</string>
 	<string id="lname_bandit_122">
-		<text>Navalha</text>
+		<text>Razor</text>
 	</string>
 	<string id="lname_bandit_123">
-		<text>Pandeiro</text>
+		<text>Tambourine</text>
 	</string>
 	<string id="lname_bandit_124">
-		<text>Macaco</text>
+		<text>Jack</text>
 	</string>
 	<string id="lname_bandit_125">
-		<text>Broca</text>
+		<text>Drill</text>
 	</string>
 	<string id="lname_bandit_126">
-		<text>Dinamite</text>
+		<text>Dynamite</text>
 	</string>
 	<string id="lname_bandit_127">
-		<text>Trunfo</text>
+		<text>Trump</text>
 	</string>
 	<string id="lname_bandit_128">
-		<text>Manoplas</text>
+		<text>Knuckles</text>
 	</string>
 	<string id="lname_bandit_129">
-		<text>Baseado</text>
+		<text>Spliff</text>
 	</string>
 	<string id="lname_bandit_13">
-		<text>Cadaver</text>
+		<text>Corpse</text>
 	</string>
 	<string id="lname_bandit_130">
-		<text>Cruz</text>
+		<text>Cross</text>
 	</string>
 	<string id="lname_bandit_131">
-		<text>Gancho</text>
+		<text>Hook</text>
 	</string>
 	<string id="lname_bandit_132">
-		<text>Goteira</text>
+		<text>Drip</text>
 	</string>
 	<string id="lname_bandit_133">
-		<text>Pe de cabra</text>
+		<text>Crowbar</text>
 	</string>
 	<string id="lname_bandit_134">
 		<text>Panadol</text>
 	</string>
 	<string id="lname_bandit_135">
-		<text>Pena</text>
+		<text>Feather</text>
 	</string>
 	<string id="lname_bandit_136">
-		<text>Pistao</text>
+		<text>Piston</text>
 	</string>
 	<string id="lname_bandit_137">
-		<text>Niquel</text>
+		<text>Nickel</text>
 	</string>
 	<string id="lname_bandit_138">
-		<text>Caras</text>
+		<text>Tails</text>
 	</string>
 	<string id="lname_bandit_139">
-		<text>Morte</text>
+		<text>Death</text>
 	</string>
 	<string id="lname_bandit_14">
-		<text>Poleiro</text>
+		<text>Percher</text>
 	</string>
 	<string id="lname_bandit_140">
-		<text>Moedor</text>
+		<text>Grinder</text>
 	</string>
 	<string id="lname_bandit_141">
-		<text>As</text>
+		<text>Ace</text>
 	</string>
 	<string id="lname_bandit_142">
-		<text>Formao</text>
+		<text>Chisel</text>
 	</string>
 	<string id="lname_bandit_143">
-		<text>Manequim</text>
+		<text>Dummy</text>
 	</string>
 	<string id="lname_bandit_144">
-		<text>Sovela</text>
+		<text>Awl</text>
 	</string>
 	<string id="lname_bandit_145">
-		<text>Gravata</text>
+		<text>Tie</text>
 	</string>
 	<string id="lname_bandit_146">
-		<text>Pivo</text>
+		<text>Pintle</text>
 	</string>
 	<string id="lname_bandit_147">
-		<text>Pulgas</text>
+		<text>Jiggers</text>
 	</string>
 	<string id="lname_bandit_148">
-		<text>Punho</text>
+		<text>Fist</text>
 	</string>
 	<string id="lname_bandit_149">
-		<text>Verme</text>
+		<text>Worm</text>
 	</string>
 	<string id="lname_bandit_15">
-		<text>Cabide</text>
+		<text>Hatrack</text>
 	</string>
 	<string id="lname_bandit_150">
 		<text>Barmaley</text>
@@ -188,7 +188,7 @@
 		<text>Susanin</text>
 	</string>
 	<string id="lname_bandit_155">
-		<text>Exterminador</text>
+		<text>Terminator</text>
 	</string>
 	<string id="lname_bandit_156">
 		<text>Chapay</text>
@@ -200,166 +200,166 @@
 		<text>Banana</text>
 	</string>
 	<string id="lname_bandit_159">
-		<text>Cassetete</text>
+		<text>Baton</text>
 	</string>
 	<string id="lname_bandit_16">
-		<text>Furada</text>
+		<text>Holey</text>
 	</string>
 	<string id="lname_bandit_160">
-		<text>Chefe</text>
+		<text>Gaffer</text>
 	</string>
 	<string id="lname_bandit_161">
-		<text>Acordeao</text>
+		<text>Accordion</text>
 	</string>
 	<string id="lname_bandit_162">
-		<text>Botao</text>
+		<text>Bud</text>
 	</string>
 	<string id="lname_bandit_163">
-		<text>Gangrena</text>
+		<text>Gangrene</text>
 	</string>
 	<string id="lname_bandit_164">
-		<text>Falha</text>
+		<text>Glitch</text>
 	</string>
 	<string id="lname_bandit_165">
-		<text>Granizo</text>
+		<text>Grad</text>
 	</string>
 	<string id="lname_bandit_166">
-		<text>Nevoa</text>
+		<text>Fog</text>
 	</string>
 	<string id="lname_bandit_167">
-		<text>Fragmentado</text>
+		<text>Fragged</text>
 	</string>
 	<string id="lname_bandit_168">
-		<text>Paria</text>
+		<text>Outcast</text>
 	</string>
 	<string id="lname_bandit_169">
-		<text>Manoplas</text>
+		<text>Knuckles</text>
 	</string>
 	<string id="lname_bandit_17">
-		<text>Queimado</text>
+		<text>Burnt</text>
 	</string>
 	<string id="lname_bandit_170">
-		<text>Trunfo</text>
+		<text>Trump</text>
 	</string>
 	<string id="lname_bandit_171">
-		<text>Baseado</text>
+		<text>Spliff</text>
 	</string>
 	<string id="lname_bandit_172">
-		<text>Goteira</text>
+		<text>Drip</text>
 	</string>
 	<string id="lname_bandit_173">
 		<text>Leshiy</text>
 	</string>
 	<string id="lname_bandit_174">
-		<text>Mouro</text>
+		<text>Moor</text>
 	</string>
 	<string id="lname_bandit_175">
-		<text>Nada</text>
+		<text>Nothing</text>
 	</string>
 	<string id="lname_bandit_176">
-		<text>Vagabundo</text>
+		<text>Bummer</text>
 	</string>
 	<string id="lname_bandit_177">
-		<text>Bolinho</text>
+		<text>Dumpling</text>
 	</string>
 	<string id="lname_bandit_178">
-		<text>Pimenta</text>
+		<text>Pepper</text>
 	</string>
 	<string id="lname_bandit_179">
-		<text>Ralador</text>
+		<text>Grater</text>
 	</string>
 	<string id="lname_bandit_18">
-		<text>Dirigivel</text>
+		<text>Blimp</text>
 	</string>
 	<string id="lname_bandit_180">
-		<text>Bolacha</text>
+		<text>Cracker</text>
 	</string>
 	<string id="lname_bandit_181">
-		<text>Carnical</text>
+		<text>Ghoul</text>
 	</string>
 	<string id="lname_bandit_19">
-		<text>Rancor</text>
+		<text>Grudge</text>
 	</string>
 	<string id="lname_bandit_2">
-		<text>Espancado</text>
+		<text>Beaten</text>
 	</string>
 	<string id="lname_bandit_20">
-		<text>Avarento</text>
+		<text>Tightwad</text>
 	</string>
 	<string id="lname_bandit_21">
 		<text>Zmur</text>
 	</string>
 	<string id="lname_bandit_22">
-		<text>Monstro</text>
+		<text>Monster</text>
 	</string>
 	<string id="lname_bandit_23">
-		<text>Aleijado</text>
+		<text>Cripple</text>
 	</string>
 	<string id="lname_bandit_24">
-		<text>Calafrio</text>
+		<text>Chill</text>
 	</string>
 	<string id="lname_bandit_25">
-		<text>Rodo</text>
+		<text>Squeegee</text>
 	</string>
 	<string id="lname_bandit_26">
-		<text>Vesgo</text>
+		<text>Boss-eyed</text>
 	</string>
 	<string id="lname_bandit_27">
-		<text>Trapaceiro</text>
+		<text>Corner-cutter</text>
 	</string>
 	<string id="lname_bandit_28">
-		<text>Careca</text>
+		<text>Baldy</text>
 	</string>
 	<string id="lname_bandit_29">
-		<text>Feroz</text>
+		<text>Fierce</text>
 	</string>
 	<string id="lname_bandit_3">
-		<text>Vigarista</text>
+		<text>Rogue</text>
 	</string>
 	<string id="lname_bandit_30">
 		<text>Local</text>
 	</string>
 	<string id="lname_bandit_31">
-		<text>Enlameado</text>
+		<text>Muddy</text>
 	</string>
 	<string id="lname_bandit_32">
-		<text>Enrugado</text>
+		<text>Wrinkled</text>
 	</string>
 	<string id="lname_bandit_33">
-		<text>Caolho</text>
+		<text>One-eyed</text>
 	</string>
 	<string id="lname_bandit_34">
-		<text>Abetarda</text>
+		<text>Bustard</text>
 	</string>
 	<string id="lname_bandit_35">
-		<text>Parasita</text>
+		<text>Parasite</text>
 	</string>
 	<string id="lname_bandit_36">
 		<text>Hipster</text>
 	</string>
 	<string id="lname_bandit_37">
-		<text>Chacal</text>
+		<text>Jackal</text>
 	</string>
 	<string id="lname_bandit_38">
-		<text>Decadente</text>
+		<text>Decadent</text>
 	</string>
 	<string id="lname_bandit_39">
-		<text>Lunatico</text>
+		<text>Loony</text>
 	</string>
 	<string id="lname_bandit_4">
-		<text>Tagarela</text>
+		<text>Yakker</text>
 	</string>
 	<string id="lname_bandit_40">
-		<text>Esfarrapado</text>
+		<text>Ragged</text>
 	</string>
 	<string id="lname_bandit_41">
-		<text>Agarrador</text>
+		<text>Grabber</text>
 	</string>
 	<string id="lname_bandit_42">
-		<text>Cego</text>
+		<text>Blind</text>
 	</string>
 	<string id="lname_bandit_43">
-		<text>Ranho</text>
+		<text>Snot</text>
 	</string>
 	<string id="lname_bandit_44">
 		<text>Teddy</text>
@@ -371,178 +371,178 @@
 		<text>Spam</text>
 	</string>
 	<string id="lname_bandit_47">
-		<text>Retalhador</text>
+		<text>Slasher</text>
 	</string>
 	<string id="lname_bandit_48">
-		<text>Orelhudo</text>
+		<text>Eared</text>
 	</string>
 	<string id="lname_bandit_49">
-		<text>Coringa</text>
+		<text>Joker</text>
 	</string>
 	<string id="lname_bandit_5">
-		<text>Idiota</text>
+		<text>Prick</text>
 	</string>
 	<string id="lname_bandit_50">
 		<text>Lamer</text>
 	</string>
 	<string id="lname_bandit_51">
-		<text>Cronico</text>
+		<text>Chronic</text>
 	</string>
 	<string id="lname_bandit_52">
-		<text>Rabugento</text>
+		<text>Cranky</text>
 	</string>
 	<string id="lname_bandit_53">
-		<text>Esteta</text>
+		<text>Aesthete</text>
 	</string>
 	<string id="lname_bandit_54">
-		<text>Robusto</text>
+		<text>Stout</text>
 	</string>
 	<string id="lname_bandit_55">
-		<text>Advogado</text>
+		<text>Attorney</text>
 	</string>
 	<string id="lname_bandit_56">
 		<text>Dolittle</text>
 	</string>
 	<string id="lname_bandit_57">
-		<text>Artista</text>
+		<text>Artist</text>
 	</string>
 	<string id="lname_bandit_58">
-		<text>Vigarista</text>
+		<text>Conman</text>
 	</string>
 	<string id="lname_bandit_59">
-		<text>Banqueiro</text>
+		<text>Banker</text>
 	</string>
 	<string id="lname_bandit_6">
-		<text>Vagabundo</text>
+		<text>Tramp</text>
 	</string>
 	<string id="lname_bandit_60">
-		<text>Barao</text>
+		<text>Baron</text>
 	</string>
 	<string id="lname_bandit_61">
-		<text>Traficante</text>
+		<text>Pusher</text>
 	</string>
 	<string id="lname_bandit_62">
-		<text>Gentio</text>
+		<text>Gentile</text>
 	</string>
 	<string id="lname_bandit_63">
-		<text>Vagabundo</text>
+		<text>Bum</text>
 	</string>
 	<string id="lname_bandit_64">
-		<text>Contramestre</text>
+		<text>Boatswain</text>
 	</string>
 	<string id="lname_bandit_65">
-		<text>Vagabundo</text>
+		<text>Vagabond</text>
 	</string>
 	<string id="lname_bandit_66">
 		<text>Bourbon</text>
 	</string>
 	<string id="lname_bandit_67">
-		<text>Burgues</text>
+		<text>Bourgeois</text>
 	</string>
 	<string id="lname_bandit_68">
-		<text>Transportador</text>
+		<text>Transporter</text>
 	</string>
 	<string id="lname_bandit_69">
-		<text>Ladrao</text>
+		<text>Thief</text>
 	</string>
 	<string id="lname_bandit_7">
-		<text>Raspado</text>
+		<text>Shaved</text>
 	</string>
 	<string id="lname_bandit_70">
-		<text>Gangster</text>
+		<text>Gagster</text>
 	</string>
 	<string id="lname_bandit_71">
-		<text>Mensageiro</text>
+		<text>Messenger</text>
 	</string>
 	<string id="lname_bandit_72">
-		<text>Grafico</text>
+		<text>Graph</text>
 	</string>
 	<string id="lname_bandit_73">
-		<text>Despota</text>
+		<text>Despot</text>
 	</string>
 	<string id="lname_bandit_74">
-		<text>Cavernicola</text>
+		<text>Caveman</text>
 	</string>
 	<string id="lname_bandit_75">
-		<text>Estrangulador</text>
+		<text>Choker</text>
 	</string>
 	<string id="lname_bandit_76">
-		<text>Legalista</text>
+		<text>Legalist</text>
 	</string>
 	<string id="lname_bandit_77">
-		<text>Jogador</text>
+		<text>Player</text>
 	</string>
 	<string id="lname_bandit_78">
-		<text>Arremessador</text>
+		<text>Chucker</text>
 	</string>
 	<string id="lname_bandit_79">
-		<text>Padrinho</text>
+		<text>Godfather</text>
 	</string>
 	<string id="lname_bandit_8">
 		<text>Leary</text>
 	</string>
 	<string id="lname_bandit_80">
-		<text>Cocheiro</text>
+		<text>Coachman</text>
 	</string>
 	<string id="lname_bandit_81">
 		<text>Major</text>
 	</string>
 	<string id="lname_bandit_82">
-		<text>Maniaco</text>
+		<text>Maniac</text>
 	</string>
 	<string id="lname_bandit_83">
-		<text>Coveiro</text>
+		<text>Gravedigger</text>
 	</string>
 	<string id="lname_bandit_84">
-		<text>Acougueiro</text>
+		<text>Butcher</text>
 	</string>
 	<string id="lname_bandit_85">
 		<text>Ninja</text>
 	</string>
 	<string id="lname_bandit_86">
-		<text>Carrasco</text>
+		<text>Hangman</text>
 	</string>
 	<string id="lname_bandit_87">
 		<text>Punk</text>
 	</string>
 	<string id="lname_bandit_88">
-		<text>Partidario</text>
+		<text>Partisan</text>
 	</string>
 	<string id="lname_bandit_89">
-		<text>Pacifista</text>
+		<text>Pacifist</text>
 	</string>
 	<string id="lname_bandit_9">
-		<text>Bloco</text>
+		<text>Block</text>
 	</string>
 	<string id="lname_bandit_90">
-		<text>Pirata</text>
+		<text>Pirate</text>
 	</string>
 	<string id="lname_bandit_91">
-		<text>Incendiario</text>
+		<text>Arsonist</text>
 	</string>
 	<string id="lname_bandit_92">
-		<text>Principe</text>
+		<text>Prince</text>
 	</string>
 	<string id="lname_bandit_93">
-		<text>Bandido</text>
+		<text>Brigand</text>
 	</string>
 	<string id="lname_bandit_94">
-		<text>Criminoso</text>
+		<text>Perp</text>
 	</string>
 	<string id="lname_bandit_95">
-		<text>Cafetao</text>
+		<text>Pimp</text>
 	</string>
 	<string id="lname_bandit_96">
 		<text>Tiranas</text>
 	</string>
 	<string id="lname_bandit_97">
-		<text>Assassino</text>
+		<text>Killer</text>
 	</string>
 	<string id="lname_bandit_98">
 		<text>Flamen</text>
 	</string>
 	<string id="lname_bandit_99">
-		<text>Quimico</text>
+		<text>Chemist</text>
 	</string>
 	<string id="lname_captain_0">
 		<text>Abdurhmanov</text>
@@ -3032,46 +3032,46 @@
 		<text>Gatsula</text>
 	</string>
 	<string id="lname_stalker_0">
-		<text>Branco</text>
+		<text>White</text>
 	</string>
 	<string id="lname_stalker_1">
-		<text>Verde</text>
+		<text>Green</text>
 	</string>
 	<string id="lname_stalker_10">
-		<text>Imortal</text>
+		<text>Immortal</text>
 	</string>
 	<string id="lname_stalker_100">
-		<text>Enferrujado</text>
+		<text>Rusty</text>
 	</string>
 	<string id="lname_stalker_101">
-		<text>Romantico</text>
+		<text>Romantic</text>
 	</string>
 	<string id="lname_stalker_102">
-		<text>Truculento</text>
+		<text>Truculent</text>
 	</string>
 	<string id="lname_stalker_103">
-		<text>Musculoso</text>
+		<text>Muscleman</text>
 	</string>
 	<string id="lname_stalker_104">
-		<text>Fantasista</text>
+		<text>Fantasist</text>
 	</string>
 	<string id="lname_stalker_105">
-		<text>Cego</text>
+		<text>Blind</text>
 	</string>
 	<string id="lname_stalker_106">
-		<text>Bravo</text>
+		<text>Brave</text>
 	</string>
 	<string id="lname_stalker_107">
-		<text>Meleca</text>
+		<text>Snot</text>
 	</string>
 	<string id="lname_stalker_108">
-		<text>Brigao</text>
+		<text>Wrangler</text>
 	</string>
 	<string id="lname_stalker_109">
-		<text>Veterano</text>
+		<text>Oldtimer</text>
 	</string>
 	<string id="lname_stalker_11">
-		<text>Frenetico</text>
+		<text>Frantic</text>
 	</string>
 	<string id="lname_stalker_110">
 		<text>Teddy</text>
@@ -3080,784 +3080,784 @@
 		<text>Capital</text>
 	</string>
 	<string id="lname_stalker_112">
-		<text>Severo</text>
+		<text>Stern</text>
 	</string>
 	<string id="lname_stalker_113">
-		<text>Corcunda</text>
+		<text>Stooped</text>
 	</string>
 	<string id="lname_stalker_114">
-		<text>Seco</text>
+		<text>Dry</text>
 	</string>
 	<string id="lname_stalker_115">
-		<text>Sortudo</text>
+		<text>Lucky</text>
 	</string>
 	<string id="lname_stalker_116">
-		<text>Quieto</text>
+		<text>Quiet</text>
 	</string>
 	<string id="lname_stalker_117">
-		<text>Gordo</text>
+		<text>Fat</text>
 	</string>
 	<string id="lname_stalker_118">
-		<text>Gorducho</text>
+		<text>Fatty</text>
 	</string>
 	<string id="lname_stalker_119">
 		<text>Spam</text>
 	</string>
 	<string id="lname_stalker_12">
-		<text>Espancado</text>
+		<text>Beaten</text>
 	</string>
 	<string id="lname_stalker_120">
-		<text>Espertinho</text>
+		<text>Smartass</text>
 	</string>
 	<string id="lname_stalker_121">
-		<text>Retalhador</text>
+		<text>Slasher</text>
 	</string>
 	<string id="lname_stalker_122">
-		<text>Orelhudo</text>
+		<text>Eared</text>
 	</string>
 	<string id="lname_stalker_123">
-		<text>Bobo</text>
+		<text>Buffoon</text>
 	</string>
 	<string id="lname_stalker_124">
-		<text>Coringa</text>
+		<text>Joker</text>
 	</string>
 	<string id="lname_stalker_125">
 		<text>Lamer</text>
 	</string>
 	<string id="lname_stalker_126">
-		<text>Cronico</text>
+		<text>Chronic</text>
 	</string>
 	<string id="lname_stalker_127">
-		<text>Magrelo</text>
+		<text>Skinny</text>
 	</string>
 	<string id="lname_stalker_128">
-		<text>Cinico</text>
+		<text>Cynic</text>
 	</string>
 	<string id="lname_stalker_129">
-		<text>Camarada</text>
+		<text>Buddy</text>
 	</string>
 	<string id="lname_stalker_13">
-		<text>Abencoado</text>
+		<text>Blessed</text>
 	</string>
 	<string id="lname_stalker_130">
-		<text>Rabugento</text>
+		<text>Cranky</text>
 	</string>
 	<string id="lname_stalker_131">
-		<text>Destro</text>
+		<text>Dexter</text>
 	</string>
 	<string id="lname_stalker_132">
-		<text>Esteta</text>
+		<text>Aesthete</text>
 	</string>
 	<string id="lname_stalker_133">
-		<text>Robusto</text>
+		<text>Stout</text>
 	</string>
 	<string id="lname_stalker_134">
 		<text>Grad</text>
 	</string>
 	<string id="lname_stalker_135">
-		<text>Nativo</text>
+		<text>Native</text>
 	</string>
 	<string id="lname_stalker_136">
-		<text>Aviador</text>
+		<text>Aviator</text>
 	</string>
 	<string id="lname_stalker_137">
-		<text>Agente</text>
+		<text>Agent</text>
 	</string>
 	<string id="lname_stalker_138">
-		<text>Advogado</text>
+		<text>Attorney</text>
 	</string>
 	<string id="lname_stalker_139">
 		<text>Dolittle</text>
 	</string>
 	<string id="lname_stalker_14">
-		<text>Vigarista</text>
+		<text>Rogue</text>
 	</string>
 	<string id="lname_stalker_140">
-		<text>Apostolo</text>
+		<text>Apostle</text>
 	</string>
 	<string id="lname_stalker_141">
-		<text>Artista</text>
+		<text>Artist</text>
 	</string>
 	<string id="lname_stalker_142">
-		<text>Asceta</text>
+		<text>Ascetic</text>
 	</string>
 	<string id="lname_stalker_143">
-		<text>Vigarista</text>
+		<text>Conman</text>
 	</string>
 	<string id="lname_stalker_144">
-		<text>Banqueiro</text>
+		<text>Banker</text>
 	</string>
 	<string id="lname_stalker_145">
-		<text>Bardo</text>
+		<text>Bard</text>
 	</string>
 	<string id="lname_stalker_146">
-		<text>Barao</text>
+		<text>Baron</text>
 	</string>
 	<string id="lname_stalker_147">
-		<text>Traficante</text>
+		<text>Pusher</text>
 	</string>
 	<string id="lname_stalker_148">
-		<text>Gentio</text>
+		<text>Gentile</text>
 	</string>
 	<string id="lname_stalker_149">
-		<text>Corredor</text>
+		<text>Runner</text>
 	</string>
 	<string id="lname_stalker_15">
-		<text>Heroi</text>
+		<text>Hero</text>
 	</string>
 	<string id="lname_stalker_150">
-		<text>Guerreiro</text>
+		<text>Warrior</text>
 	</string>
 	<string id="lname_stalker_151">
-		<text>Vagabundo</text>
+		<text>Bum</text>
 	</string>
 	<string id="lname_stalker_152">
-		<text>Contramestre</text>
+		<text>Boatswain</text>
 	</string>
 	<string id="lname_stalker_153">
-		<text>Vagabundo</text>
+		<text>Vagabond</text>
 	</string>
 	<string id="lname_stalker_154">
 		<text>Bourbon</text>
 	</string>
 	<string id="lname_stalker_155">
-		<text>Burgues</text>
+		<text>Bourgeois</text>
 	</string>
 	<string id="lname_stalker_156">
-		<text>Burocrata</text>
+		<text>Bureaucrat</text>
 	</string>
 	<string id="lname_stalker_157">
-		<text>Vandalo</text>
+		<text>Vandal</text>
 	</string>
 	<string id="lname_stalker_158">
-		<text>Barbaro</text>
+		<text>Barbarian</text>
 	</string>
 	<string id="lname_stalker_159">
-		<text>Carregador</text>
+		<text>Porter</text>
 	</string>
 	<string id="lname_stalker_16">
-		<text>Atrevido</text>
+		<text>Pert</text>
 	</string>
 	<string id="lname_stalker_160">
-		<text>Bruxo</text>
+		<text>Witcher</text>
 	</string>
 	<string id="lname_stalker_161">
-		<text>Visitante</text>
+		<text>Visitor</text>
 	</string>
 	<string id="lname_stalker_162">
 		<text>Viking</text>
 	</string>
 	<string id="lname_stalker_163">
-		<text>Transportador</text>
+		<text>Transporter</text>
 	</string>
 	<string id="lname_stalker_164">
-		<text>Mergulhador</text>
+		<text>Diver</text>
 	</string>
 	<string id="lname_stalker_165">
-		<text>Chefe</text>
+		<text>Chief</text>
 	</string>
 	<string id="lname_stalker_166">
-		<text>Ladrao</text>
+		<text>Thief</text>
 	</string>
 	<string id="lname_stalker_167">
-		<text>Viajante</text>
+		<text>Traveler</text>
 	</string>
 	<string id="lname_stalker_168">
-		<text>Charlatao</text>
+		<text>Quack</text>
 	</string>
 	<string id="lname_stalker_169">
-		<text>Cavaleiro</text>
+		<text>Rider</text>
 	</string>
 	<string id="lname_stalker_17">
-		<text>Falador</text>
+		<text>Yakker</text>
 	</string>
 	<string id="lname_stalker_170">
-		<text>Gangster</text>
+		<text>Gagster</text>
 	</string>
 	<string id="lname_stalker_171">
-		<text>Geologo</text>
+		<text>Geologist</text>
 	</string>
 	<string id="lname_stalker_172">
-		<text>Gladiador</text>
+		<text>Gladiator</text>
 	</string>
 	<string id="lname_stalker_173">
-		<text>Mensageiro</text>
+		<text>Messenger</text>
 	</string>
 	<string id="lname_stalker_174">
-		<text>Convidado</text>
+		<text>Guest</text>
 	</string>
 	<string id="lname_stalker_175">
-		<text>Grafico</text>
+		<text>Graph</text>
 	</string>
 	<string id="lname_stalker_176">
-		<text>Carregador</text>
+		<text>Loader</text>
 	</string>
 	<string id="lname_stalker_177">
-		<text>Vovo</text>
+		<text>Gramps</text>
 	</string>
 	<string id="lname_stalker_178">
-		<text>Desertor</text>
+		<text>Deserter</text>
 	</string>
 	<string id="lname_stalker_179">
-		<text>Traficante</text>
+		<text>Dealer</text>
 	</string>
 	<string id="lname_stalker_18">
-		<text>Idiota</text>
+		<text>Prick</text>
 	</string>
 	<string id="lname_stalker_180">
-		<text>Dandi</text>
+		<text>Dandy</text>
 	</string>
 	<string id="lname_stalker_181">
-		<text>Vice</text>
+		<text>Deputy</text>
 	</string>
 	<string id="lname_stalker_182">
-		<text>Despota</text>
+		<text>Despot</text>
 	</string>
 	<string id="lname_stalker_183">
-		<text>Cavernicola</text>
+		<text>Caveman</text>
 	</string>
 	<string id="lname_stalker_184">
-		<text>Diplomata</text>
+		<text>Diplomat</text>
 	</string>
 	<string id="lname_stalker_185">
-		<text>Doca</text>
+		<text>Dock</text>
 	</string>
 	<string id="lname_stalker_186">
-		<text>Doutor</text>
+		<text>Doctor</text>
 	</string>
 	<string id="lname_stalker_187">
-		<text>Docente</text>
+		<text>Docent</text>
 	</string>
 	<string id="lname_stalker_188">
-		<text>Estrangulador</text>
+		<text>Choker</text>
 	</string>
 	<string id="lname_stalker_189">
-		<text>Guarda-florestal</text>
+		<text>Ranger</text>
 	</string>
 	<string id="lname_stalker_19">
-		<text>Vagabundo</text>
+		<text>Tramp</text>
 	</string>
 	<string id="lname_stalker_190">
-		<text>Legalista</text>
+		<text>Legalist</text>
 	</string>
 	<string id="lname_stalker_191">
 		<text>AA-Gun</text>
 	</string>
 	<string id="lname_stalker_192">
-		<text>Charlatao</text>
+		<text>Quack</text>
 	</string>
 	<string id="lname_stalker_193">
-		<text>Jogador</text>
+		<text>Player</text>
 	</string>
 	<string id="lname_stalker_194">
-		<text>Indiano</text>
+		<text>Indian</text>
 	</string>
 	<string id="lname_stalker_195">
-		<text>Moicano</text>
+		<text>Mohawk</text>
 	</string>
 	<string id="lname_stalker_196">
-		<text>Capitao</text>
+		<text>Captain</text>
 	</string>
 	<string id="lname_stalker_197">
-		<text>Arremessador</text>
+		<text>Chucker</text>
 	</string>
 	<string id="lname_stalker_198">
-		<text>Palhaco</text>
+		<text>Clown</text>
 	</string>
 	<string id="lname_stalker_199">
-		<text>Principe</text>
+		<text>Prince</text>
 	</string>
 	<string id="lname_stalker_2">
-		<text>Vermelho</text>
+		<text>Red</text>
 	</string>
 	<string id="lname_stalker_20">
-		<text>Raspado</text>
+		<text>Shaved</text>
 	</string>
 	<string id="lname_stalker_200">
-		<text>Cossaco</text>
+		<text>Cossack</text>
 	</string>
 	<string id="lname_stalker_201">
-		<text>Girador</text>
+		<text>Spinner</text>
 	</string>
 	<string id="lname_stalker_202">
-		<text>Feiticeiro</text>
+		<text>Sorcerer</text>
 	</string>
 	<string id="lname_stalker_203">
 		<text>Comanche</text>
 	</string>
 	<string id="lname_stalker_204">
-		<text>Rei</text>
+		<text>King</text>
 	</string>
 	<string id="lname_stalker_205">
-		<text>Padrinho</text>
+		<text>Godfather</text>
 	</string>
 	<string id="lname_stalker_206">
-		<text>Mercador</text>
+		<text>Merchant</text>
 	</string>
 	<string id="lname_stalker_207">
-		<text>Fumante</text>
+		<text>Smoker</text>
 	</string>
 	<string id="lname_stalker_208">
-		<text>Mensageiro</text>
+		<text>Courier</text>
 	</string>
 	<string id="lname_stalker_209">
-		<text>Cocheiro</text>
+		<text>Coachman</text>
 	</string>
 	<string id="lname_stalker_21">
 		<text>Leary</text>
 	</string>
 	<string id="lname_stalker_210">
-		<text>Legionario</text>
+		<text>Legionary</text>
 	</string>
 	<string id="lname_stalker_211">
-		<text>Curandeiro</text>
+		<text>Healer</text>
 	</string>
 	<string id="lname_stalker_212">
-		<text>Guarda-florestal</text>
+		<text>Forester</text>
 	</string>
 	<string id="lname_stalker_213">
-		<text>Lorde</text>
+		<text>Lord</text>
 	</string>
 	<string id="lname_stalker_214">
-		<text>Magnata</text>
+		<text>Magnate</text>
 	</string>
 	<string id="lname_stalker_215">
 		<text>Major</text>
 	</string>
 	<string id="lname_stalker_216">
-		<text>Maniaco</text>
+		<text>Maniac</text>
 	</string>
 	<string id="lname_stalker_217">
-		<text>Marciano</text>
+		<text>Martian</text>
 	</string>
 	<string id="lname_stalker_218">
-		<text>Macom</text>
+		<text>Mason</text>
 	</string>
 	<string id="lname_stalker_219">
-		<text>Mecanico</text>
+		<text>Mechanic</text>
 	</string>
 	<string id="lname_stalker_22">
-		<text>Importante</text>
+		<text>Important</text>
 	</string>
 	<string id="lname_stalker_220">
-		<text>Coveiro</text>
+		<text>Gravedigger</text>
 	</string>
 	<string id="lname_stalker_221">
-		<text>Moderador</text>
+		<text>Moderator</text>
 	</string>
 	<string id="lname_stalker_222">
-		<text>Leiteiro</text>
+		<text>Milkman</text>
 	</string>
 	<string id="lname_stalker_223">
-		<text>Acougueiro</text>
+		<text>Butcher</text>
 	</string>
 	<string id="lname_stalker_224">
-		<text>Merc</text>
+		<text>Hireling</text>
 	</string>
 	<string id="lname_stalker_225">
-		<text>Afinador</text>
+		<text>Tuner</text>
 	</string>
 	<string id="lname_stalker_226">
-		<text>Chefe</text>
+		<text>Chief</text>
 	</string>
 	<string id="lname_stalker_227">
 		<text>Ninja</text>
 	</string>
 	<string id="lname_stalker_228">
-		<text>Operador</text>
+		<text>Operator</text>
 	</string>
 	<string id="lname_stalker_229">
-		<text>Armeiro</text>
+		<text>Armorer</text>
 	</string>
 	<string id="lname_stalker_23">
-		<text>Sortudo</text>
+		<text>Luckster</text>
 	</string>
 	<string id="lname_stalker_230">
 		<text>Padishah</text>
 	</string>
 	<string id="lname_stalker_231">
-		<text>Carrasco</text>
+		<text>Hangman</text>
 	</string>
 	<string id="lname_stalker_232">
-		<text>Coronel</text>
+		<text>Colonel</text>
 	</string>
 	<string id="lname_stalker_233">
 		<text>Punk</text>
 	</string>
 	<string id="lname_stalker_234">
-		<text>Pai</text>
+		<text>Dad</text>
 	</string>
 	<string id="lname_stalker_235">
-		<text>Partidario</text>
+		<text>Partisan</text>
 	</string>
 	<string id="lname_stalker_236">
 		<text>Pastor</text>
 	</string>
 	<string id="lname_stalker_237">
-		<text>Pastor</text>
+		<text>Herdsman</text>
 	</string>
 	<string id="lname_stalker_238">
-		<text>Reverendo</text>
+		<text>Reverend</text>
 	</string>
 	<string id="lname_stalker_239">
-		<text>Lavrador</text>
+		<text>Plowman</text>
 	</string>
 	<string id="lname_stalker_24">
-		<text>Sortudo</text>
+		<text>Jammy</text>
 	</string>
 	<string id="lname_stalker_240">
-		<text>Pacifista</text>
+		<text>Pacifist</text>
 	</string>
 	<string id="lname_stalker_241">
-		<text>Transportador</text>
+		<text>Carrier</text>
 	</string>
 	<string id="lname_stalker_242">
-		<text>Pianista</text>
+		<text>Pianist</text>
 	</string>
 	<string id="lname_stalker_243">
-		<text>Piloto</text>
+		<text>Pilot</text>
 	</string>
 	<string id="lname_stalker_244">
-		<text>Pioneiro</text>
+		<text>Pioneer</text>
 	</string>
 	<string id="lname_stalker_245">
-		<text>Pirata</text>
+		<text>Pirate</text>
 	</string>
 	<string id="lname_stalker_246">
-		<text>Carpinteiro</text>
+		<text>Carpenter</text>
 	</string>
 	<string id="lname_stalker_247">
-		<text>Incendiario</text>
+		<text>Arsonist</text>
 	</string>
 	<string id="lname_stalker_248">
-		<text>Bombeiro</text>
+		<text>Fireman</text>
 	</string>
 	<string id="lname_stalker_249">
-		<text>Planador</text>
+		<text>Glider</text>
 	</string>
 	<string id="lname_stalker_25">
-		<text>Cara Grande</text>
+		<text>Big Fellow</text>
 	</string>
 	<string id="lname_stalker_250">
-		<text>Explorador polar</text>
+		<text>Polar explorer</text>
 	</string>
 	<string id="lname_stalker_251">
-		<text>Embaixador</text>
+		<text>Ambassador</text>
 	</string>
 	<string id="lname_stalker_252">
-		<text>Carteiro</text>
+		<text>Postman</text>
 	</string>
 	<string id="lname_stalker_253">
-		<text>Poeta</text>
+		<text>Poet</text>
 	</string>
 	<string id="lname_stalker_254">
-		<text>Principe</text>
+		<text>Prince</text>
 	</string>
 	<string id="lname_stalker_255">
-		<text>Profeta</text>
+		<text>Prophet</text>
 	</string>
 	<string id="lname_stalker_256">
 		<text>Professor</text>
 	</string>
 	<string id="lname_stalker_257">
-		<text>Saltador</text>
+		<text>Jumper</text>
 	</string>
 	<string id="lname_stalker_258">
-		<text>Apicultor</text>
+		<text>Beekeeper</text>
 	</string>
 	<string id="lname_stalker_259">
-		<text>Trabalhador</text>
+		<text>Plodder</text>
 	</string>
 	<string id="lname_stalker_26">
-		<text>Leal</text>
+		<text>Loyal</text>
 	</string>
 	<string id="lname_stalker_260">
-		<text>Rabino</text>
+		<text>Rabbi</text>
 	</string>
 	<string id="lname_stalker_261">
-		<text>Telegrafista</text>
+		<text>Telegraphist</text>
 	</string>
 	<string id="lname_stalker_262">
-		<text>Bandido</text>
+		<text>Brigand</text>
 	</string>
 	<string id="lname_stalker_263">
 		<text>Rasta</text>
 	</string>
 	<string id="lname_stalker_264">
-		<text>Guerreiro</text>
+		<text>Warrior</text>
 	</string>
 	<string id="lname_stalker_265">
 		<text>Rocker</text>
 	</string>
 	<string id="lname_stalker_266">
-		<text>Mineiro</text>
+		<text>Miner</text>
 	</string>
 	<string id="lname_stalker_267">
 		<text>Samurai</text>
 	</string>
 	<string id="lname_stalker_268">
-		<text>Catador de minas</text>
+		<text>Minepicker</text>
 	</string>
 	<string id="lname_stalker_269">
-		<text>Contato</text>
+		<text>Contact</text>
 	</string>
 	<string id="lname_stalker_27">
-		<text>De olhos grandes</text>
+		<text>Big-eyed</text>
 	</string>
 	<string id="lname_stalker_270">
-		<text>Padre</text>
+		<text>Priest</text>
 	</string>
 	<string id="lname_stalker_271">
-		<text>Secretario</text>
+		<text>Secretary</text>
 	</string>
 	<string id="lname_stalker_272">
-		<text>Gala</text>
+		<text>Heartthrob</text>
 	</string>
 	<string id="lname_stalker_273">
-		<text>Simulador</text>
+		<text>Simulator</text>
 	</string>
 	<string id="lname_stalker_274">
-		<text>Esquife</text>
+		<text>Skiff</text>
 	</string>
 	<string id="lname_stalker_275">
-		<text>Pioneiro</text>
+		<text>Trailblazer</text>
 	</string>
 	<string id="lname_stalker_276">
-		<text>Serralheiro</text>
+		<text>Locksmith</text>
 	</string>
 	<string id="lname_stalker_277">
-		<text>Criminoso</text>
+		<text>Perp</text>
 	</string>
 	<string id="lname_stalker_278">
-		<text>Homem-cao</text>
+		<text>Dogman</text>
 	</string>
 	<string id="lname_stalker_279">
-		<text>Guarda-vidas</text>
+		<text>Lifeguard</text>
 	</string>
 	<string id="lname_stalker_28">
-		<text>Bloco</text>
+		<text>Block</text>
 	</string>
 	<string id="lname_stalker_280">
-		<text>Atleta</text>
+		<text>Athlete</text>
 	</string>
 	<string id="lname_stalker_281">
-		<text>Estrangeiro</text>
+		<text>Stranger</text>
 	</string>
 	<string id="lname_stalker_282">
-		<text>Estudante</text>
+		<text>Student</text>
 	</string>
 	<string id="lname_stalker_283">
-		<text>Juiz</text>
+		<text>Judge</text>
 	</string>
 	<string id="lname_stalker_284">
-		<text>Sultao</text>
+		<text>Sultan</text>
 	</string>
 	<string id="lname_stalker_285">
-		<text>Cafetao</text>
+		<text>Pimp</text>
 	</string>
 	<string id="lname_stalker_286">
-		<text>Contador</text>
+		<text>Accountant</text>
 	</string>
 	<string id="lname_stalker_287">
-		<text>Tanqueiro</text>
+		<text>Tanker</text>
 	</string>
 	<string id="lname_stalker_288">
-		<text>Dancarino</text>
+		<text>Dancer</text>
 	</string>
 	<string id="lname_stalker_289">
 		<text>Tiranas</text>
 	</string>
 	<string id="lname_stalker_29">
-		<text>Podre</text>
+		<text>Rotten</text>
 	</string>
 	<string id="lname_stalker_290">
-		<text>Negociador</text>
+		<text>Haggler</text>
 	</string>
 	<string id="lname_stalker_291">
-		<text>Faxineiro</text>
+		<text>Cleaner</text>
 	</string>
 	<string id="lname_stalker_292">
-		<text>Limpador de chamines</text>
+		<text>Chimneysweep</text>
 	</string>
 	<string id="lname_stalker_293">
-		<text>Guerrilheiro</text>
+		<text>Bushwhacker</text>
 	</string>
 	<string id="lname_stalker_294">
-		<text>Turista</text>
+		<text>Tourist</text>
 	</string>
 	<string id="lname_stalker_295">
-		<text>Assassino</text>
+		<text>Killer</text>
 	</string>
 	<string id="lname_stalker_296">
 		<text>Flamen</text>
 	</string>
 	<string id="lname_stalker_297">
-		<text>Jogador de futebol</text>
+		<text>Footballer</text>
 	</string>
 	<string id="lname_stalker_298">
 		<text>Sniper</text>
 	</string>
 	<string id="lname_stalker_299">
-		<text>Quimico</text>
+		<text>Chemist</text>
 	</string>
 	<string id="lname_stalker_3">
-		<text>Enferrujado</text>
+		<text>Rusty</text>
 	</string>
 	<string id="lname_stalker_30">
-		<text>Tagarela</text>
+		<text>Babbler</text>
 	</string>
 	<string id="lname_stalker_300">
-		<text>Cirurgiao</text>
+		<text>Surgeon</text>
 	</string>
 	<string id="lname_stalker_301">
-		<text>Pintor</text>
+		<text>Painter</text>
 	</string>
 	<string id="lname_stalker_302">
-		<text>Pastor</text>
+		<text>Shepherd</text>
 	</string>
 	<string id="lname_stalker_303">
-		<text>Xama</text>
+		<text>Shaman</text>
 	</string>
 	<string id="lname_stalker_304">
-		<text>Mineiro</text>
+		<text>Pitman</text>
 	</string>
 	<string id="lname_stalker_305">
-		<text>Mineiro</text>
+		<text>Miner</text>
 	</string>
 	<string id="lname_stalker_306">
-		<text>Xerife</text>
+		<text>Sheriff</text>
 	</string>
 	<string id="lname_stalker_307">
-		<text>Chefe</text>
+		<text>Boss</text>
 	</string>
 	<string id="lname_stalker_308">
-		<text>Erudito</text>
+		<text>Scholar</text>
 	</string>
 	<string id="lname_stalker_309">
-		<text>Motorista</text>
+		<text>Driver</text>
 	</string>
 	<string id="lname_stalker_31">
-		<text>Corcunda</text>
+		<text>Hunchback</text>
 	</string>
 	<string id="lname_stalker_310">
-		<text>Espiao</text>
+		<text>Spy</text>
 	</string>
 	<string id="lname_stalker_311">
-		<text>Eletricista</text>
+		<text>Electrician</text>
 	</string>
 	<string id="lname_stalker_312">
-		<text>Marinheiro</text>
+		<text>Shipboy</text>
 	</string>
 	<string id="lname_stalker_313">
-		<text>Pagao</text>
+		<text>Pagan</text>
 	</string>
 	<string id="lname_stalker_314">
-		<text>Jacare</text>
+		<text>Alligator</text>
 	</string>
 	<string id="lname_stalker_315">
 		<text>Anaconda</text>
 	</string>
 	<string id="lname_stalker_316">
-		<text>Babuino</text>
+		<text>Baboon</text>
 	</string>
 	<string id="lname_stalker_317">
-		<text>Bufalo</text>
+		<text>Buffalo</text>
 	</string>
 	<string id="lname_stalker_318">
-		<text>Lemingue</text>
+		<text>Lemming</text>
 	</string>
 	<string id="lname_stalker_319">
-		<text>Pietista</text>
+		<text>Pietist</text>
 	</string>
 	<string id="lname_stalker_32">
-		<text>Orgulhoso</text>
+		<text>Proud</text>
 	</string>
 	<string id="lname_stalker_320">
 		<text>Bulldog</text>
 	</string>
 	<string id="lname_stalker_321">
-		<text>Esquilo</text>
+		<text>Chipmunk</text>
 	</string>
 	<string id="lname_stalker_322">
-		<text>Touro</text>
+		<text>Bull</text>
 	</string>
 	<string id="lname_stalker_323">
-		<text>Porco</text>
+		<text>Hog</text>
 	</string>
 	<string id="lname_stalker_324">
-		<text>Pardal</text>
+		<text>Sparrow</text>
 	</string>
 	<string id="lname_stalker_325">
-		<text>Corvo</text>
+		<text>Raven</text>
 	</string>
 	<string id="lname_stalker_326">
-		<text>Rato almiscarado</text>
+		<text>Muskrat</text>
 	</string>
 	<string id="lname_stalker_327">
-		<text>Tetraz</text>
+		<text>Grouse</text>
 	</string>
 	<string id="lname_stalker_328">
 		<text>Goblin</text>
 	</string>
 	<string id="lname_stalker_329">
-		<text>Torre</text>
+		<text>Rook</text>
 	</string>
 	<string id="lname_stalker_33">
-		<text>Amargo</text>
+		<text>Bitter</text>
 	</string>
 	<string id="lname_stalker_330">
-		<text>Abutre</text>
+		<text>Vulture</text>
 	</string>
 	<string id="lname_stalker_331">
-		<text>Ganso</text>
+		<text>Goose</text>
 	</string>
 	<string id="lname_stalker_332">
-		<text>Golfinho</text>
+		<text>Dolphin</text>
 	</string>
 	<string id="lname_stalker_333">
-		<text>Dinossauro</text>
+		<text>Dinosaur</text>
 	</string>
 	<string id="lname_stalker_334">
 		<text>Robin</text>
 	</string>
 	<string id="lname_stalker_335">
-		<text>Pica-pau</text>
+		<text>Woodpecker</text>
 	</string>
 	<string id="lname_stalker_336">
-		<text>Ourico</text>
+		<text>Hedgehog</text>
 	</string>
 	<string id="lname_stalker_337">
-		<text>Inseto</text>
+		<text>Bug</text>
 	</string>
 	<string id="lname_stalker_338">
-		<text>Coelho</text>
+		<text>Rabbit</text>
 	</string>
 	<string id="lname_stalker_339">
-		<text>Fera</text>
+		<text>Beast</text>
 	</string>
 	<string id="lname_stalker_34">
-		<text>Formidavel</text>
+		<text>Formidable</text>
 	</string>
 	<string id="lname_stalker_340">
-		<text>Cobra</text>
+		<text>Snake</text>
 	</string>
 	<string id="lname_stalker_341">
-		<text>Auroque</text>
+		<text>Auroch</text>
 	</string>
 	<string id="lname_stalker_342">
-		<text>Peru</text>
+		<text>Turkey</text>
 	</string>
 	<string id="lname_stalker_343">
-		<text>Javali</text>
+		<text>Boar</text>
 	</string>
 	<string id="lname_stalker_344">
-		<text>Carpa</text>
+		<text>Carp</text>
 	</string>
 	<string id="lname_stalker_345">
-		<text>Canario</text>
+		<text>Canary</text>
 	</string>
 	<string id="lname_stalker_346">
-		<text>Percevejo</text>
+		<text>Bedbug</text>
 	</string>
 	<string id="lname_stalker_347">
 		<text>Cobra</text>
@@ -3866,55 +3866,55 @@
 		<text>Mosquito</text>
 	</string>
 	<string id="lname_stalker_349">
-		<text>Cavalo</text>
+		<text>Horse</text>
 	</string>
 	<string id="lname_stalker_35">
-		<text>Destruidor</text>
+		<text>Trasher</text>
 	</string>
 	<string id="lname_stalker_350">
-		<text>Gato</text>
+		<text>Cat</text>
 	</string>
 	<string id="lname_stalker_351">
-		<text>Crocodilo</text>
+		<text>Crocodile</text>
 	</string>
 	<string id="lname_stalker_352">
-		<text>Gafanhoto</text>
+		<text>Grasshopper</text>
 	</string>
 	<string id="lname_stalker_353">
-		<text>Tira</text>
+		<text>Narc</text>
 	</string>
 	<string id="lname_stalker_354">
-		<text>Alce</text>
+		<text>Moose</text>
 	</string>
 	<string id="lname_stalker_355">
-		<text>Mamute</text>
+		<text>Mammoth</text>
 	</string>
 	<string id="lname_stalker_356">
-		<text>Urso</text>
+		<text>Bear</text>
 	</string>
 	<string id="lname_stalker_357">
-		<text>Microbio</text>
+		<text>Microbe</text>
 	</string>
 	<string id="lname_stalker_358">
-		<text>Mosquito</text>
+		<text>Gnat</text>
 	</string>
 	<string id="lname_stalker_359">
-		<text>Formiga</text>
+		<text>Ant</text>
 	</string>
 	<string id="lname_stalker_36">
-		<text>Longo</text>
+		<text>Long</text>
 	</string>
 	<string id="lname_stalker_360">
-		<text>Mutuca</text>
+		<text>Gadfly</text>
 	</string>
 	<string id="lname_stalker_361">
-		<text>Aranha</text>
+		<text>Spider</text>
 	</string>
 	<string id="lname_stalker_362">
 		<text>Patsyuk</text>
 	</string>
 	<string id="lname_stalker_363">
-		<text>Peregrino</text>
+		<text>Pilgrim</text>
 	</string>
 	<string id="lname_stalker_364">
 		<text>Piranha</text>
@@ -3923,454 +3923,454 @@
 		<text>Piton</text>
 	</string>
 	<string id="lname_stalker_366">
-		<text>Lebre</text>
+		<text>Hare</text>
 	</string>
 	<string id="lname_stalker_367">
-		<text>Coruja</text>
+		<text>Owl</text>
 	</string>
 	<string id="lname_stalker_368">
-		<text>Falcao</text>
+		<text>Falcon</text>
 	</string>
 	<string id="lname_stalker_369">
-		<text>Marmota</text>
+		<text>Marmot</text>
 	</string>
 	<string id="lname_stalker_37">
-		<text>Molenga</text>
+		<text>Softy</text>
 	</string>
 	<string id="lname_stalker_370">
-		<text>Esquilo</text>
+		<text>Gopher</text>
 	</string>
 	<string id="lname_stalker_371">
-		<text>Mocho-orelhudo</text>
+		<text>Horned owl</text>
 	</string>
 	<string id="lname_stalker_372">
-		<text>Barata</text>
+		<text>Cockroach</text>
 	</string>
 	<string id="lname_stalker_373">
 		<text>Tarantula</text>
 	</string>
 	<string id="lname_stalker_374">
-		<text>Gerbo</text>
+		<text>Jerboa</text>
 	</string>
 	<string id="lname_stalker_375">
-		<text>Jiboia</text>
+		<text>Boa</text>
 	</string>
 	<string id="lname_stalker_376">
-		<text>Coruja-real</text>
+		<text>Eagle owl</text>
 	</string>
 	<string id="lname_stalker_377">
-		<text>Furao</text>
+		<text>Ferret</text>
 	</string>
 	<string id="lname_stalker_378">
-		<text>Verme</text>
+		<text>Worm</text>
 	</string>
 	<string id="lname_stalker_379">
-		<text>Mineiro</text>
+		<text>Pitman</text>
 	</string>
 	<string id="lname_stalker_38">
-		<text>Morto</text>
+		<text>Dead</text>
 	</string>
 	<string id="lname_stalker_380">
-		<text>Absoluto</text>
+		<text>Absolute</text>
 	</string>
 	<string id="lname_stalker_381">
-		<text>Anomalia</text>
+		<text>Anomaly</text>
 	</string>
 	<string id="lname_stalker_382">
-		<text>Amortecedor</text>
+		<text>Bumper</text>
 	</string>
 	<string id="lname_stalker_383">
-		<text>Cassetete</text>
+		<text>Baton</text>
 	</string>
 	<string id="lname_stalker_384">
-		<text>Espancado</text>
+		<text>Beaten</text>
 	</string>
 	<string id="lname_stalker_385">
-		<text>Caos</text>
+		<text>Mayhem</text>
 	</string>
 	<string id="lname_stalker_386">
-		<text>Bola de fogo</text>
+		<text>Fireball</text>
 	</string>
 	<string id="lname_stalker_387">
-		<text>Raio</text>
+		<text>Bolt</text>
 	</string>
 	<string id="lname_stalker_388">
-		<text>Navalha</text>
+		<text>Razor</text>
 	</string>
 	<string id="lname_stalker_389">
-		<text>Pandeiro</text>
+		<text>Tambourine</text>
 	</string>
 	<string id="lname_stalker_39">
-		<text>Poleiro</text>
+		<text>Percher</text>
 	</string>
 	<string id="lname_stalker_390">
-		<text>Rosquinha</text>
+		<text>Bagel</text>
 	</string>
 	<string id="lname_stalker_391">
-		<text>Vacuo</text>
+		<text>Vacuum</text>
 	</string>
 	<string id="lname_stalker_392">
-		<text>Macaco</text>
+		<text>Jack</text>
 	</string>
 	<string id="lname_stalker_393">
-		<text>Pedregulho</text>
+		<text>Boulder</text>
 	</string>
 	<string id="lname_stalker_394">
-		<text>Ventilador</text>
+		<text>Ventilator</text>
 	</string>
 	<string id="lname_stalker_395">
-		<text>Picador</text>
+		<text>Chopper</text>
 	</string>
 	<string id="lname_stalker_396">
-		<text>Vento</text>
+		<text>Wind</text>
 	</string>
 	<string id="lname_stalker_397">
-		<text>Broca</text>
+		<text>Drill</text>
 	</string>
 	<string id="lname_stalker_398">
-		<text>Coleira</text>
+		<text>Collar</text>
 	</string>
 	<string id="lname_stalker_399">
-		<text>Prego</text>
+		<text>Nail</text>
 	</string>
 	<string id="lname_stalker_4">
-		<text>Ruivo</text>
+		<text>Red-haired</text>
 	</string>
 	<string id="lname_stalker_40">
-		<text>Cabide</text>
+		<text>Hatrack</text>
 	</string>
 	<string id="lname_stalker_400">
-		<text>Concha</text>
+		<text>Shell</text>
 	</string>
 	<string id="lname_stalker_401">
-		<text>Globo</text>
+		<text>Globe</text>
 	</string>
 	<string id="lname_stalker_402">
-		<text>Bloco</text>
+		<text>Block</text>
 	</string>
 	<string id="lname_stalker_403">
-		<text>Granada</text>
+		<text>Grenade</text>
 	</string>
 	<string id="lname_stalker_404">
-		<text>Pente</text>
+		<text>Comb</text>
 	</string>
 	<string id="lname_stalker_405">
-		<text>Caixao</text>
+		<text>Coffin</text>
 	</string>
 	<string id="lname_stalker_406">
-		<text>Caseiro</text>
+		<text>Cottager</text>
 	</string>
 	<string id="lname_stalker_407">
 		<text>Cursor</text>
 	</string>
 	<string id="lname_stalker_408">
-		<text>Dinamite</text>
+		<text>Dynamite</text>
 	</string>
 	<string id="lname_stalker_409">
-		<text>Ciclomotor</text>
+		<text>Moped</text>
 	</string>
 	<string id="lname_stalker_41">
-		<text>Furada</text>
+		<text>Holey</text>
 	</string>
 	<string id="lname_stalker_410">
-		<text>Lei</text>
+		<text>Law</text>
 	</string>
 	<string id="lname_stalker_411">
-		<text>Fechadura</text>
+		<text>Lock</text>
 	</string>
 	<string id="lname_stalker_412">
-		<text>Remo</text>
+		<text>Paddle</text>
 	</string>
 	<string id="lname_stalker_413">
-		<text>Isotopo</text>
+		<text>Isotope</text>
 	</string>
 	<string id="lname_stalker_414">
-		<text>Pedra</text>
+		<text>Stone</text>
 	</string>
 	<string id="lname_stalker_415">
-		<text>Armadilha</text>
+		<text>Trap</text>
 	</string>
 	<string id="lname_stalker_416">
 		<text>Cardan</text>
 	</string>
 	<string id="lname_stalker_417">
-		<text>Carma</text>
+		<text>Karma</text>
 	</string>
 	<string id="lname_stalker_418">
-		<text>Tijolo</text>
+		<text>Brick</text>
 	</string>
 	<string id="lname_stalker_419">
-		<text>Cola</text>
+		<text>Glue</text>
 	</string>
 	<string id="lname_stalker_42">
-		<text>Gula</text>
+		<text>Glutton</text>
 	</string>
 	<string id="lname_stalker_420">
-		<text>Chave</text>
+		<text>Key</text>
 	</string>
 	<string id="lname_stalker_421">
-		<text>Chicote</text>
+		<text>Whip</text>
 	</string>
 	<string id="lname_stalker_422">
-		<text>Trunfo</text>
+		<text>Trump</text>
 	</string>
 	<string id="lname_stalker_423">
-		<text>Capuz</text>
+		<text>Hood</text>
 	</string>
 	<string id="lname_stalker_424">
-		<text>Marmota</text>
+		<text>Woodchuck</text>
 	</string>
 	<string id="lname_stalker_425">
-		<text>Conhaque</text>
+		<text>Cognac</text>
 	</string>
 	<string id="lname_stalker_426">
-		<text>Raiz</text>
+		<text>Root</text>
 	</string>
 	<string id="lname_stalker_427">
-		<text>Foice</text>
+		<text>Scythe</text>
 	</string>
 	<string id="lname_stalker_428">
 		<text>Cosmos</text>
 	</string>
 	<string id="lname_stalker_429">
-		<text>Soco ingles</text>
+		<text>Knuckles</text>
 	</string>
 	<string id="lname_stalker_43">
-		<text>Abjeto</text>
+		<text>Abject</text>
 	</string>
 	<string id="lname_stalker_430">
-		<text>Baseado</text>
+		<text>Spliff</text>
 	</string>
 	<string id="lname_stalker_431">
-		<text>Cruz</text>
+		<text>Cross</text>
 	</string>
 	<string id="lname_stalker_432">
-		<text>Gancho</text>
+		<text>Hook</text>
 	</string>
 	<string id="lname_stalker_433">
-		<text>Gatilho</text>
+		<text>Trigger</text>
 	</string>
 	<string id="lname_stalker_434">
-		<text>Gotejamento</text>
+		<text>Drip</text>
 	</string>
 	<string id="lname_stalker_435">
-		<text>Pe de cabra</text>
+		<text>Crowbar</text>
 	</string>
 	<string id="lname_stalker_436">
-		<text>Maquina</text>
+		<text>Machine</text>
 	</string>
 	<string id="lname_stalker_437">
-		<text>Alvo</text>
+		<text>Target</text>
 	</string>
 	<string id="lname_stalker_438">
 		<text>Motor</text>
 	</string>
 	<string id="lname_stalker_439">
-		<text>Tubo</text>
+		<text>Pipe</text>
 	</string>
 	<string id="lname_stalker_44">
-		<text>Ferro</text>
+		<text>Iron</text>
 	</string>
 	<string id="lname_stalker_440">
-		<text>Noturno</text>
+		<text>Nocturnal</text>
 	</string>
 	<string id="lname_stalker_441">
-		<text>Espingarda de cano serrado</text>
+		<text>Sawn-off gun</text>
 	</string>
 	<string id="lname_stalker_442">
 		<text>Panadol</text>
 	</string>
 	<string id="lname_stalker_443">
-		<text>Paraquedas</text>
+		<text>Parachute</text>
 	</string>
 	<string id="lname_stalker_444">
-		<text>Patrao</text>
+		<text>Patron</text>
 	</string>
 	<string id="lname_stalker_445">
-		<text>Quebra</text>
+		<text>Break</text>
 	</string>
 	<string id="lname_stalker_446">
-		<text>Pena</text>
+		<text>Feather</text>
 	</string>
 	<string id="lname_stalker_447">
-		<text>Pistao</text>
+		<text>Piston</text>
 	</string>
 	<string id="lname_stalker_448">
-		<text>Massinha</text>
+		<text>Plasticine</text>
 	</string>
 	<string id="lname_stalker_449">
-		<text>Polvora</text>
+		<text>Gunpowder</text>
 	</string>
 	<string id="lname_stalker_45">
-		<text>Zunido</text>
+		<text>Whiz</text>
 	</string>
 	<string id="lname_stalker_450">
-		<text>Niquel</text>
+		<text>Nickel</text>
 	</string>
 	<string id="lname_stalker_451">
-		<text>Foguete</text>
+		<text>Rocket</text>
 	</string>
 	<string id="lname_stalker_452">
-		<text>Armacao</text>
+		<text>Frame</text>
 	</string>
 	<string id="lname_stalker_453">
-		<text>Reator</text>
+		<text>Reactor</text>
 	</string>
 	<string id="lname_stalker_454">
-		<text>Cortador</text>
+		<text>Cutter</text>
 	</string>
 	<string id="lname_stalker_455">
-		<text>Peneira</text>
+		<text>Sieve</text>
 	</string>
 	<string id="lname_stalker_456">
-		<text>Caudas</text>
+		<text>Tails</text>
 	</string>
 	<string id="lname_stalker_457">
-		<text>Robo</text>
+		<text>Robot</text>
 	</string>
 	<string id="lname_stalker_458">
-		<text>Besouro</text>
+		<text>Beetle</text>
 	</string>
 	<string id="lname_stalker_459">
-		<text>Colher</text>
+		<text>Scoop</text>
 	</string>
 	<string id="lname_stalker_46">
-		<text>Queimado</text>
+		<text>Burnt</text>
 	</string>
 	<string id="lname_stalker_460">
-		<text>Cerveja caseira</text>
+		<text>Homebrew</text>
 	</string>
 	<string id="lname_stalker_461">
-		<text>Bota</text>
+		<text>Boot</text>
 	</string>
 	<string id="lname_stalker_462">
-		<text>Sidra</text>
+		<text>Cider</text>
 	</string>
 	<string id="lname_stalker_463">
-		<text>Morte</text>
+		<text>Death</text>
 	</string>
 	<string id="lname_stalker_464">
-		<text>Espirito</text>
+		<text>Spirit</text>
 	</string>
 	<string id="lname_stalker_465">
-		<text>Formao</text>
+		<text>Chisel</text>
 	</string>
 	<string id="lname_stalker_466">
-		<text>Barril</text>
+		<text>Barrel</text>
 	</string>
 	<string id="lname_stalker_467">
-		<text>Bau</text>
+		<text>Chest</text>
 	</string>
 	<string id="lname_stalker_468">
-		<text>Machado</text>
+		<text>Axe</text>
 	</string>
 	<string id="lname_stalker_469">
-		<text>Bunda</text>
+		<text>Butt</text>
 	</string>
 	<string id="lname_stalker_47">
-		<text>Intrometido</text>
+		<text>Busybody</text>
 	</string>
 	<string id="lname_stalker_470">
-		<text>Moedor</text>
+		<text>Grinder</text>
 	</string>
 	<string id="lname_stalker_471">
-		<text>As</text>
+		<text>Ace</text>
 	</string>
 	<string id="lname_stalker_472">
-		<text>Pacote</text>
+		<text>Bundle</text>
 	</string>
 	<string id="lname_stalker_473">
-		<text>Fator</text>
+		<text>Factor</text>
 	</string>
 	<string id="lname_stalker_474">
-		<text>Lanterna</text>
+		<text>Lantern</text>
 	</string>
 	<string id="lname_stalker_475">
-		<text>Formao</text>
+		<text>Chisel</text>
 	</string>
 	<string id="lname_stalker_476">
-		<text>Larvas</text>
+		<text>Maggots</text>
 	</string>
 	<string id="lname_stalker_477">
-		<text>Alho</text>
+		<text>Garlic</text>
 	</string>
 	<string id="lname_stalker_478">
-		<text>Manequim</text>
+		<text>Dummy</text>
 	</string>
 	<string id="lname_stalker_479">
 		<text>Chance</text>
 	</string>
 	<string id="lname_stalker_48">
-		<text>Dirigivel</text>
+		<text>Blimp</text>
 	</string>
 	<string id="lname_stalker_480">
-		<text>Sovela</text>
+		<text>Awl</text>
 	</string>
 	<string id="lname_stalker_481">
-		<text>Espinho</text>
+		<text>Thorn</text>
 	</string>
 	<string id="lname_stalker_482">
-		<text>Armario</text>
+		<text>Closet</text>
 	</string>
 	<string id="lname_stalker_483">
-		<text>Gravata</text>
+		<text>Tie</text>
 	</string>
 	<string id="lname_stalker_484">
-		<text>Junta</text>
+		<text>Joint</text>
 	</string>
 	<string id="lname_stalker_485">
-		<text>Bocal</text>
+		<text>Nozzle</text>
 	</string>
 	<string id="lname_stalker_486">
-		<text>Baioneta</text>
+		<text>Bayonet</text>
 	</string>
 	<string id="lname_stalker_487">
-		<text>Pivo</text>
+		<text>Pintle</text>
 	</string>
 	<string id="lname_stalker_488">
-		<text>Parafuso</text>
+		<text>Screw</text>
 	</string>
 	<string id="lname_stalker_489">
-		<text>Bichos-de-pe</text>
+		<text>Jiggers</text>
 	</string>
 	<string id="lname_stalker_49">
-		<text>Rancor</text>
+		<text>Grudge</text>
 	</string>
 	<string id="lname_stalker_490">
-		<text>Cabeca</text>
+		<text>Head</text>
 	</string>
 	<string id="lname_stalker_491">
 		<text>Presa</text>
 	</string>
 	<string id="lname_stalker_492">
-		<text>Garra</text>
+		<text>Claw</text>
 	</string>
 	<string id="lname_stalker_493">
-		<text>Osso</text>
+		<text>Bone</text>
 	</string>
 	<string id="lname_stalker_494">
-		<text>Punho</text>
+		<text>Fist</text>
 	</string>
 	<string id="lname_stalker_495">
-		<text>Nervo</text>
+		<text>Nerve</text>
 	</string>
 	<string id="lname_stalker_496">
-		<text>Esqueleto</text>
+		<text>Skeleton</text>
 	</string>
 	<string id="lname_stalker_497">
-		<text>Cauda</text>
+		<text>Tail</text>
 	</string>
 	<string id="lname_stalker_498">
-		<text>Espinha dorsal</text>
+		<text>Backbone</text>
 	</string>
 	<string id="lname_stalker_499">
-		<text>Verme</text>
+		<text>Worm</text>
 	</string>
 	<string id="lname_stalker_5">
-		<text>Cinzento</text>
+		<text>Hoary</text>
 	</string>
 	<string id="lname_stalker_50">
-		<text>Avarento</text>
+		<text>Tightwad</text>
 	</string>
 	<string id="lname_stalker_500">
 		<text>Barmaley</text>
@@ -4379,25 +4379,25 @@
 		<text>Batiy</text>
 	</string>
 	<string id="lname_stalker_502">
-		<text>Heroi</text>
+		<text>Hero</text>
 	</string>
 	<string id="lname_stalker_503">
-		<text>Pinoquio</text>
+		<text>Pinocchio</text>
 	</string>
 	<string id="lname_stalker_504">
-		<text>Bruxo</text>
+		<text>Witcher</text>
 	</string>
 	<string id="lname_stalker_505">
 		<text>Voland</text>
 	</string>
 	<string id="lname_stalker_506">
-		<text>Homero</text>
+		<text>Homer</text>
 	</string>
 	<string id="lname_stalker_507">
 		<text>Gorynich</text>
 	</string>
 	<string id="lname_stalker_508">
-		<text>Formidavel</text>
+		<text>Formidable</text>
 	</string>
 	<string id="lname_stalker_509">
 		<text>Gioconda</text>
@@ -4409,10 +4409,10 @@
 		<text>Duremar</text>
 	</string>
 	<string id="lname_stalker_511">
-		<text>Pedra de ferro</text>
+		<text>Ironstone</text>
 	</string>
 	<string id="lname_stalker_512">
-		<text>Icaro</text>
+		<text>Icarus</text>
 	</string>
 	<string id="lname_stalker_513">
 		<text>Casanova</text>
@@ -4421,40 +4421,40 @@
 		<text>Kaschey</text>
 	</string>
 	<string id="lname_stalker_515">
-		<text>Cesar</text>
+		<text>Caesar</text>
 	</string>
 	<string id="lname_stalker_516">
-		<text>Garoto redondo</text>
+		<text>Roundboy</text>
 	</string>
 	<string id="lname_stalker_517">
 		<text>Kutuzov</text>
 	</string>
 	<string id="lname_stalker_518">
-		<text>Homenzinho</text>
+		<text>Little Man</text>
 	</string>
 	<string id="lname_stalker_519">
-		<text>Napoleao</text>
+		<text>Napoleon</text>
 	</string>
 	<string id="lname_stalker_52">
-		<text>Pensativo</text>
+		<text>Thoughtful</text>
 	</string>
 	<string id="lname_stalker_520">
 		<text>Nelson</text>
 	</string>
 	<string id="lname_stalker_521">
-		<text>Netuno</text>
+		<text>Neptune</text>
 	</string>
 	<string id="lname_stalker_522">
 		<text>Oscar</text>
 	</string>
 	<string id="lname_stalker_523">
-		<text>Prometeu</text>
+		<text>Prometheus</text>
 	</string>
 	<string id="lname_stalker_524">
 		<text>Pushkin</text>
 	</string>
 	<string id="lname_stalker_525">
-		<text>Sexta-feira</text>
+		<text>Friday</text>
 	</string>
 	<string id="lname_stalker_526">
 		<text>Rambo</text>
@@ -4466,16 +4466,16 @@
 		<text>Susanin</text>
 	</string>
 	<string id="lname_stalker_529">
-		<text>Exterminador</text>
+		<text>Terminator</text>
 	</string>
 	<string id="lname_stalker_53">
-		<text>Chato</text>
+		<text>Bore</text>
 	</string>
 	<string id="lname_stalker_530">
-		<text>Pederneira</text>
+		<text>Flint</text>
 	</string>
 	<string id="lname_stalker_531">
-		<text>Cesar</text>
+		<text>Caesar</text>
 	</string>
 	<string id="lname_stalker_532">
 		<text>Chapayev</text>
@@ -4502,22 +4502,22 @@
 		<text>Banana</text>
 	</string>
 	<string id="lname_stalker_54">
-		<text>De visao agucada</text>
+		<text>Sharp-sighted</text>
 	</string>
 	<string id="lname_stalker_540">
 		<text>Barabashka</text>
 	</string>
 	<string id="lname_stalker_541">
-		<text>Cassetete</text>
+		<text>Baton</text>
 	</string>
 	<string id="lname_stalker_542">
-		<text>Chefe</text>
+		<text>Gaffer</text>
 	</string>
 	<string id="lname_stalker_543">
-		<text>Acordeao</text>
+		<text>Accordion</text>
 	</string>
 	<string id="lname_stalker_544">
-		<text>Camarada</text>
+		<text>Buddy</text>
 	</string>
 	<string id="lname_stalker_545">
 		<text>Bulkin</text>
@@ -4526,7 +4526,7 @@
 		<text>Bulldozer</text>
 	</string>
 	<string id="lname_stalker_547">
-		<text>Amortecedor</text>
+		<text>Buffer</text>
 	</string>
 	<string id="lname_stalker_548">
 		<text>Ravioli</text>
@@ -4535,22 +4535,22 @@
 		<text>Whist</text>
 	</string>
 	<string id="lname_stalker_55">
-		<text>Dentes afiados</text>
+		<text>Sharptoothed</text>
 	</string>
 	<string id="lname_stalker_550">
-		<text>Gangrena</text>
+		<text>Gangrene</text>
 	</string>
 	<string id="lname_stalker_551">
-		<text>Hibrido</text>
+		<text>Hybrid</text>
 	</string>
 	<string id="lname_stalker_552">
-		<text>Falha</text>
+		<text>Glitch</text>
 	</string>
 	<string id="lname_stalker_553">
 		<text>Goblin</text>
 	</string>
 	<string id="lname_stalker_554">
-		<text>Alpinista</text>
+		<text>Mountaineer</text>
 	</string>
 	<string id="lname_stalker_555">
 		<text>Grad</text>
@@ -4559,278 +4559,278 @@
 		<text>Gremlin</text>
 	</string>
 	<string id="lname_stalker_557">
-		<text>Espirito</text>
+		<text>Spirit</text>
 	</string>
 	<string id="lname_stalker_558">
-		<text>Cara</text>
+		<text>Dude</text>
 	</string>
 	<string id="lname_stalker_559">
-		<text>Fragmentado</text>
+		<text>Fragged</text>
 	</string>
 	<string id="lname_stalker_56">
-		<text>Frio</text>
+		<text>Chilly</text>
 	</string>
 	<string id="lname_stalker_560">
-		<text>Paria</text>
+		<text>Outcast</text>
 	</string>
 	<string id="lname_stalker_561">
 		<text>Kagor</text>
 	</string>
 	<string id="lname_stalker_562">
-		<text>Repolho</text>
+		<text>Cabbage</text>
 	</string>
 	<string id="lname_stalker_563">
-		<text>Carbureto</text>
+		<text>Carbide</text>
 	</string>
 	<string id="lname_stalker_564">
-		<text>Soco ingles</text>
+		<text>Knuckles</text>
 	</string>
 	<string id="lname_stalker_565">
-		<text>Trunfo</text>
+		<text>Trump</text>
 	</string>
 	<string id="lname_stalker_566">
-		<text>Comodoro</text>
+		<text>Commodore</text>
 	</string>
 	<string id="lname_stalker_567">
-		<text>Rei</text>
+		<text>King</text>
 	</string>
 	<string id="lname_stalker_568">
-		<text>Baseado</text>
+		<text>Spliff</text>
 	</string>
 	<string id="lname_stalker_569">
-		<text>Gotejamento</text>
+		<text>Drip</text>
 	</string>
 	<string id="lname_stalker_57">
-		<text>Monstro</text>
+		<text>Monster</text>
 	</string>
 	<string id="lname_stalker_570">
-		<text>Gelo</text>
+		<text>Ice</text>
 	</string>
 	<string id="lname_stalker_571">
 		<text>Leshiy</text>
 	</string>
 	<string id="lname_stalker_572">
-		<text>Mouro</text>
+		<text>Moor</text>
 	</string>
 	<string id="lname_stalker_573">
-		<text>Madeira</text>
+		<text>Madera</text>
 	</string>
 	<string id="lname_stalker_574">
-		<text>Espaguete</text>
+		<text>Spaghetti</text>
 	</string>
 	<string id="lname_stalker_575">
-		<text>Mestre</text>
+		<text>Master</text>
 	</string>
 	<string id="lname_stalker_576">
-		<text>Mutante</text>
+		<text>Mutant</text>
 	</string>
 	<string id="lname_stalker_577">
-		<text>Nada</text>
+		<text>Nothing</text>
 	</string>
 	<string id="lname_stalker_578">
-		<text>Chateacao</text>
+		<text>Bummer</text>
 	</string>
 	<string id="lname_stalker_579">
-		<text>Redemoinho</text>
+		<text>Whirlpool</text>
 	</string>
 	<string id="lname_stalker_58">
-		<text>Deficiente</text>
+		<text>Handicapped</text>
 	</string>
 	<string id="lname_stalker_580">
-		<text>Oficial da SWAT</text>
+		<text>SWAT officer</text>
 	</string>
 	<string id="lname_stalker_581">
-		<text>Bolinho</text>
+		<text>Dumpling</text>
 	</string>
 	<string id="lname_stalker_582">
-		<text>Pimenta</text>
+		<text>Pepper</text>
 	</string>
 	<string id="lname_stalker_583">
-		<text>Dragona</text>
+		<text>Epaulet</text>
 	</string>
 	<string id="lname_stalker_584">
-		<text>Rosquinha</text>
+		<text>Doughnut</text>
 	</string>
 	<string id="lname_stalker_585">
-		<text>Bolha</text>
+		<text>Bubble</text>
 	</string>
 	<string id="lname_stalker_586">
-		<text>Ralador</text>
+		<text>Grater</text>
 	</string>
 	<string id="lname_stalker_587">
-		<text>Rebarba</text>
+		<text>Burr</text>
 	</string>
 	<string id="lname_stalker_588">
 		<text>Ryazansky</text>
 	</string>
 	<string id="lname_stalker_589">
-		<text>Cerveja caseira</text>
+		<text>Homebrew</text>
 	</string>
 	<string id="lname_stalker_59">
-		<text>Aleijado</text>
+		<text>Cripple</text>
 	</string>
 	<string id="lname_stalker_590">
-		<text>Camarao</text>
+		<text>Shrimp</text>
 	</string>
 	<string id="lname_stalker_591">
-		<text>Bolacha</text>
+		<text>Cracker</text>
 	</string>
 	<string id="lname_stalker_592">
-		<text>Tabaco</text>
+		<text>Tobacco</text>
 	</string>
 	<string id="lname_stalker_593">
-		<text>Folha de ponto</text>
+		<text>Timesheet</text>
 	</string>
 	<string id="lname_stalker_594">
-		<text>As</text>
+		<text>Ace</text>
 	</string>
 	<string id="lname_stalker_595">
-		<text>Abobora</text>
+		<text>Pumpkin</text>
 	</string>
 	<string id="lname_stalker_596">
-		<text>Carnical</text>
+		<text>Ghoul</text>
 	</string>
 	<string id="lname_stalker_597">
 		<text>Flamen</text>
 	</string>
 	<string id="lname_stalker_598">
-		<text>Fantasma</text>
+		<text>Phantom</text>
 	</string>
 	<string id="lname_stalker_599">
-		<text>Truque</text>
+		<text>Trick</text>
 	</string>
 	<string id="lname_stalker_6">
-		<text>Cinza</text>
+		<text>Gray</text>
 	</string>
 	<string id="lname_stalker_60">
-		<text>Calafrio</text>
+		<text>Chill</text>
 	</string>
 	<string id="lname_stalker_61">
-		<text>Comatoso</text>
+		<text>Comatose</text>
 	</string>
 	<string id="lname_stalker_62">
-		<text>Vesgo</text>
+		<text>Squint-eyed</text>
 	</string>
 	<string id="lname_stalker_63">
-		<text>Desastrado</text>
+		<text>Clumsy</text>
 	</string>
 	<string id="lname_stalker_64">
-		<text>Ossudo</text>
+		<text>Bony</text>
 	</string>
 	<string id="lname_stalker_65">
-		<text>Zarolho</text>
+		<text>Cross-eyed</text>
 	</string>
 	<string id="lname_stalker_66">
-		<text>Pernas arqueadas</text>
+		<text>Bowlegged</text>
 	</string>
 	<string id="lname_stalker_67">
-		<text>Trapaceiro</text>
+		<text>Corner-cutter</text>
 	</string>
 	<string id="lname_stalker_68">
-		<text>Cabeludo</text>
+		<text>Shaggy</text>
 	</string>
 	<string id="lname_stalker_69">
-		<text>Careca</text>
+		<text>Baldy</text>
 	</string>
 	<string id="lname_stalker_7">
 		<text>Siniy</text>
 	</string>
 	<string id="lname_stalker_70">
-		<text>Favorito</text>
+		<text>Favorite</text>
 	</string>
 	<string id="lname_stalker_71">
-		<text>Feroz</text>
+		<text>Fierce</text>
 	</string>
 	<string id="lname_stalker_72">
-		<text>Homenzinho</text>
+		<text>Little Man</text>
 	</string>
 	<string id="lname_stalker_73">
-		<text>Cadaver</text>
+		<text>Corpse</text>
 	</string>
 	<string id="lname_stalker_74">
-		<text>Morto</text>
+		<text>Dead</text>
 	</string>
 	<string id="lname_stalker_75">
 		<text>Local</text>
 	</string>
 	<string id="lname_stalker_76">
-		<text>Sombrio</text>
+		<text>Gloomy</text>
 	</string>
 	<string id="lname_stalker_77">
-		<text>Enlameado</text>
+		<text>Muddy</text>
 	</string>
 	<string id="lname_stalker_78">
-		<text>Enrugado</text>
+		<text>Wrinkled</text>
 	</string>
 	<string id="lname_stalker_79">
-		<text>Narciso</text>
+		<text>Narcissus</text>
 	</string>
 	<string id="lname_stalker_8">
-		<text>Preto</text>
+		<text>Black</text>
 	</string>
 	<string id="lname_stalker_80">
-		<text>Frouxo</text>
+		<text>Lax</text>
 	</string>
 	<string id="lname_stalker_81">
-		<text>Perdedor</text>
+		<text>Loser</text>
 	</string>
 	<string id="lname_stalker_82">
 		<text>Butters</text>
 	</string>
 	<string id="lname_stalker_83">
-		<text>Patife</text>
+		<text>Blighter</text>
 	</string>
 	<string id="lname_stalker_84">
-		<text>Chorao</text>
+		<text>Whiner</text>
 	</string>
 	<string id="lname_stalker_85">
-		<text>Caolho</text>
+		<text>One-eyed</text>
 	</string>
 	<string id="lname_stalker_86">
-		<text>Abetarda</text>
+		<text>Bustard</text>
 	</string>
 	<string id="lname_stalker_87">
-		<text>Parasita</text>
+		<text>Parasite</text>
 	</string>
 	<string id="lname_stalker_88">
-		<text>Paranoico</text>
+		<text>Paranoid</text>
 	</string>
 	<string id="lname_stalker_89">
 		<text>Hipster</text>
 	</string>
 	<string id="lname_stalker_9">
-		<text>Invencivel</text>
+		<text>Invincible</text>
 	</string>
 	<string id="lname_stalker_90">
-		<text>Trapaceiro</text>
+		<text>Cheat</text>
 	</string>
 	<string id="lname_stalker_91">
-		<text>Chacal</text>
+		<text>Jackal</text>
 	</string>
 	<string id="lname_stalker_92">
-		<text>Decadente</text>
+		<text>Decadent</text>
 	</string>
 	<string id="lname_stalker_93">
-		<text>Justo</text>
+		<text>Righteous</text>
 	</string>
 	<string id="lname_stalker_94">
-		<text>Simplorio</text>
+		<text>Simpleton</text>
 	</string>
 	<string id="lname_stalker_95">
-		<text>Lunatico</text>
+		<text>Loony</text>
 	</string>
 	<string id="lname_stalker_96">
-		<text>Trabalhador</text>
+		<text>Plodder</text>
 	</string>
 	<string id="lname_stalker_97">
-		<text>Esfarrapado</text>
+		<text>Ragged</text>
 	</string>
 	<string id="lname_stalker_98">
-		<text>Agarrador</text>
+		<text>Grabber</text>
 	</string>
 	<string id="lname_stalker_99">
-		<text>Afiado</text>
+		<text>Sharp</text>
 	</string>
 	<string id="Osoznanie">
-		<text>Representante da C-Consciousness</text>
+		<text>C-Consciousness representative</text>
 	</string>

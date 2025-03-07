@@ -2,7 +2,7 @@
 		<text>Pasta com documentos</text>
 	</string>
 	<string id="esc_fox">
-		<text>Raposo ferido.</text>
+		<text>Fox ferido.</text>
 	</string>
 	<string id="esc_mill">
 		<text>Moinho abandonado. O irmao ferido foi visto pela ultima vez por aqui.</text>
@@ -35,14 +35,14 @@
 		<text>Esconderijo de stalker morto.</text>
 	</string>
 	<string id="tutorial_secret_shustryi">
-		<text>Esconderijo de Agil.</text>
+		<text>Esconderijo de Nimble.</text>
 	</string>
 	<string id="tutorial_wounded">
-		<text>Agil, um prisioneiro.</text>
+		<text>Nimble, um prisioneiro.</text>
 	</string>
 	<string id="volk">
-		<text>Lobo, o lider do acampamento de novatos.</text>
+		<text>Wolf, o lider do acampamento de novatos.</text>
 	</string>
 	<string id="wolfs_rangers">
-		<text>Batedores de Lobo.</text>
+		<text>Batedores de Wolf.</text>
 	</string>

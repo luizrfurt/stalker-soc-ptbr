@@ -353,9 +353,9 @@
 1080|<text>Andreas Herbertz</text>
 1084|<text>GERENCIAMENTO DE MARCA GLOBAL</text>
 1087|<text>Bob Aniello</text>
-1091|<text>Diretor, Marca Global</text>
+1091|<text>Diretor, Marked One Global</text>
 1094|<text>Brad Carraway</text>
-1097|<text>Gerente de Marca</text>
+1097|<text>Gerente de Marked One</text>
 1100|<text>Monica Robinson</text>
 1103|<text>Vice-Presidente,</text>
 1106|<text>Comunicacoes Corporativas</text>
@@ -388,13 +388,13 @@
 1192|<text>THQ INTERNACIONAL</text>
 1195|<text>Vice-Presidente Senior de Publicacao Europeia</text>
 1198|<text>Ian Curran</text>
-1201|<text>Diretor, Gerenciamento de Marca Global</text>
+1201|<text>Diretor, Gerenciamento de Marked One Global</text>
 1204|<text>Michael Pattison</text>
-1208|<text>Gerente Senior de Marca Global</text>
+1208|<text>Gerente Senior de Marked One Global</text>
 1211|<text>Mickey Torode</text>
-1214|<text>Gerente de Marca Global</text>
+1214|<text>Gerente de Marked One Global</text>
 1217|<text>Claudia Kuehl</text>
-1220|<text>Gerente Assistente de Marca Global</text>
+1220|<text>Gerente Assistente de Marked One Global</text>
 1223|<text>Anthony Newall</text>
 1227|<text>Gerente Online</text>
 1231|<text>Huw Beynon</text>

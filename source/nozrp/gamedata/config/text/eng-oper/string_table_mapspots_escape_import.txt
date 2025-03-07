@@ -1,5 +1,5 @@
 2|<text>Pasta com documentos</text>
-5|<text>Raposo ferido.</text>
+5|<text>Fox ferido.</text>
 8|<text>Moinho abandonado. O irmao ferido foi visto pela ultima vez por aqui.</text>
 11|<text>Trader.</text>
 14|<text>Bandidos na fabrica.</text>
@@ -10,7 +10,7 @@
 29|<text>Bandidos que pararam nosso batedor.</text>
 32|<text>Esconderijo de stalker morto.</text>
 35|<text>Esconderijo de stalker morto.</text>
-38|<text>Esconderijo de Agil.</text>
-41|<text>Agil, um prisioneiro.</text>
-44|<text>Lobo, o lider do acampamento de novatos.</text>
-47|<text>Batedores de Lobo.</text>
+38|<text>Esconderijo de Nimble.</text>
+41|<text>Nimble, um prisioneiro.</text>
+44|<text>Wolf, o lider do acampamento de novatos.</text>
+47|<text>Batedores de Wolf.</text>

@@ -1,5 +1,5 @@
 	<string id="yan_find_ghost">
-		<text>Pegue os documentos de Fantasma</text>
+		<text>Pegue os documentos de Ghost</text>
 	</string>
 	<string id="yan_find_ghost_task">
 		<text>Pegue os documentos</text>
@@ -26,10 +26,10 @@
 		<text>Saia do laboratorio</text>
 	</string>
 	<string id="yan_provodnik_about_doctor">
-		<text>Fale com Guia</text>
+		<text>Fale com Guide</text>
 	</string>
 	<string id="yan_provodnik_task">
-		<text>Encontre Guia</text>
+		<text>Encontre Guide</text>
 	</string>
 	<string id="yan_psi_zone_find">
 		<text>Escolte Kruglov ate o local de medicao</text>

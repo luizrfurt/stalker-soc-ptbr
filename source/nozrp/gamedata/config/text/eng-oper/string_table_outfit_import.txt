@@ -5,7 +5,7 @@
 16|<text>Produzido por um dos institutos de pesquisa de defesa de Kiev e encomendado pela faccao Duty. E tao simples e confiavel quanto o modelo PSZ-9 padrao, mas devido aos novos materiais, fornece boa protecao contra varios impactos nocivos, incluindo danos por armas de fogo. O colete ainda precisa de algum trabalho porque nao possui sistema de protecao respiratoria.</text>
 19|<text>Traje de armadura da Duty com parametros aprimorados de protecao contra mordidas e cortes.</text>
 22|<text>Armadura da Duty PSZ-9d</text>
-25|<text>Cacador PSZ-9d</text>
+25|<text>Hunter PSZ-9d</text>
 28|<text>Um maravilhoso traje de protecao para a Zona. Stalkers apreciam porque combina excelentes qualidades a prova de anomalias e a prova de balas. Inclui o traje PSZ-9d, um sistema de respiracao de ciclo fechado e um sistema integrado de supressao de campo anomalo. Fornece protecao de qualidade contra balas e estilhacos.</text>
 31|<text>Protecao Universal PSZ-9Md</text>
 34|<text>Um traje de protecao quimica SSP-99 especialmente projetado para as condicoes da Zona. E usado por expedicoes cientificas e pelos eco-stalkers que cooperam com elas. Possui um sistema integrado de filtragem de ar e ar-condicionado. E resistente ao calor e eletricidade, fornece boa protecao contra radiacao e anomalias biologicas. E resistente a ambientes quimicamente agressivos. Nao e projetado para combate, portanto, nao fornece protecao contra balas ou estilhacos.</text>
@@ -37,7 +37,7 @@
 112|<text>Corre o boato de que o stalker fantasma nunca carrega um kit de primeiros socorros com ele. Tudo cicatriza nele como em um cao. Dizem que ele tem um traje incomum que conseguiu em uma anomalia.</text>
 115|<text>O antigo dono desta coisa era um verdadeiro turista e, ao que parece, frequentemente fazia caminhadas muito dificeis, no limite da resistencia humana. Ele sabia como distribuir corretamente o peso que carregava e quais coisas priorizar. Os bolsos do casaco e a escolha educada da mochila permitem que seu dono carregue um peso pesado.</text>
 118|<text>Traje de stalker</text>
-121|<text>Traje Fantasma</text>
+121|<text>Traje Ghost</text>
 124|<text>Traje de Turista</text>
 127|<text>Traje de stalker reforcado produzido pelos armeiros da faccao Freedom. E composto por um colete militar medio a prova de balas revestido com elementos de zirconio de reforco que fornecem boa protecao contra balas de rifle e estilhacos de medio e longo alcance. O material do traje consiste em duas camadas: couro especialmente tratado e tecido com fio de asbestos. O traje fornece boa protecao contra radiacao e varias anomalias fracas.</text>
 130|<text>Traje Guardiao da Freedom</text>
