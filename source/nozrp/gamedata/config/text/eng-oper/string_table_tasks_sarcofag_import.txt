@@ -1,7 +1,7 @@
-2|<text>Concessor de Desejos</text>
+2|<text>Wish Granter</text>
 5|<text>Chegue ao Monolito</text>
 8|<text>Entre sorrateiramente no sarcofago</text>
-11|<text>Encontre o Concessor de Desejos</text>
+11|<text>Encontre o Wish Granter</text>
 14|<text>O segredo do Monolito.</text>
 17|<text>Infiltre-se no laboratorio secreto.</text>
 20|<text>Resolva o segredo do Monolito.</text>

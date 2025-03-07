@@ -156,8 +156,8 @@
 469|<text>Havia um homem com esse nome, falava com a lingua presa... Ele era um pouco estranho, com certeza - falava sozinho e tal... mas parecia um cara legal. Nao o vejo no Bar ha tempos.</text>
 472|<text>Fale-me sobre os laboratorios cientificos moveis.</text>
 475|<text>Os cientistas os montam de vez em quando. Bunkers de metal isolados com tudo o que voce precisa para viver. Estamos em contato com um desses laboratorios em Yantar. Os cientistas sao caras legais - eles nos contam muitas coisas interessantes e nos os ajudamos quando podemos... Uma troca, digamos...</text>
-478|<text>O que e o Concessor de Desejos?</text>
-481|<text>Oh! Essa e uma pergunta interessante... Quem dera eu soubesse a resposta. Posso te contar a lenda sobre o Concessor, se quiser, mas voce decide por si mesmo quanta verdade ha nela. Quer ouvir?</text>
+478|<text>O que e o Wish Granter?</text>
+481|<text>Oh! Essa e uma pergunta interessante... Quem dera eu soubesse a resposta. Posso te contar a lenda sobre o Granter, se quiser, mas voce decide por si mesmo quanta verdade ha nela. Quer ouvir?</text>
 484|<text>Bem, isso e muito interessante.</text>
 487|<text>Esta lenda e sobre o Monolito, que pode ser o que causou o surgimento da Zona. Quando a Zona explodiu em 2006, eles evacuaram as pessoas que moravam perto dela e a propria Zona foi isolada pelo Exercito. Todo mundo estava em panico, ninguem sabia o que estava acontecendo, a Zona estava se expandindo e os laboratorios de campo nao podiam fazer nada! Muitas pessoas morreram la. Todo mundo tinha medo da radiacao, que poderia afetar metade da Europa. Depois que alguns anos se passaram, alguns caras imprudentes como voce apareceram. Eles se chamavam stalkers. Eles comecaram a passar pelos cordoes do exercito acreditando que havia coisas na Zona que os tornariam ricos. Pouco a pouco, eles trouxeram coisas estranhas, artefatos, o que acabou se transformando em uma corrida por eles. Os cientistas foram atras deles como loucos. Eles pagavam dinheiro fantastico por apenas uma bugiganga naquela epoca, nao como agora.</text>
 490|<text>Continue...</text>
