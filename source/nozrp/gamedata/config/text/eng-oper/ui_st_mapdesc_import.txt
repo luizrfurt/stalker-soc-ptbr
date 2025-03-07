@@ -14,8 +14,8 @@
 43|<text>Uma base militar desafeicoada com caminhoes quebrados e APCs deixados para apodrecer, alguns quarteis e um centro de comando arruinado.</text>
 46|<text>Esta antiga vila e um lugar sinistro e uma armadilha mortal. Mas, se voce chegou tao longe apesar de todos os riscos, esteja preparado para morrer de repente. Ja que nenhum lugar e seguro aqui, que sua mira e seu silenciador o mantenham inteiro.</text>
 49|<text>Esta antiga vila e um lugar sinistro e uma armadilha mortal. Mas, se voce chegou tao longe apesar de todos os riscos, esteja preparado para morrer de repente.</text>
-52|<text>A cidade de Prypiat e a antiga residencia dos trabalhadores da Usina Nuclear de Chernobyl, ou o que restou dela. As ruinas deste esqueleto industrial contem um perigo imediato. Voce realmente precisa proteger sua vida aqui.</text>
-55|<text>A cidade de Prypiat nao fica longe da Usina Nuclear de Chernobyl - a heranca da catastrofe de Chernobyl.</text>
+52|<text>A cidade de Prypiat e a antiga residencia dos trabalhadores da Chernobyl NPP, ou o que restou dela. As ruinas deste esqueleto industrial contem um perigo imediato. Voce realmente precisa proteger sua vida aqui.</text>
+55|<text>A cidade de Prypiat nao fica longe da Chernobyl NPP - a heranca da catastrofe de Chernobyl.</text>
 58|<text>Uma pequena estacao ferroviaria na fabrica Rostok.</text>
 61|<text>Uma pequena estacao ferroviaria na fabrica Rostok. Os vagoes de trem enferrujados e as locomotivas a diesel agora estao em uma bifurcacao eterna na estrada. Os muitos artefatos encontrados aqui atraem stalkers desesperados de toda a Zona.</text>
 64|<text>Sob pilhas de metal e atras de paredes de concreto, esta fabrica guarda um tipo especial de silencio. No seculo passado, fervilhava de atividade com os trabalhadores correndo para seu turno com slogans ecoando dos alto-falantes... Mas agora a fabrica ja fez sua parte do trabalho.</text>

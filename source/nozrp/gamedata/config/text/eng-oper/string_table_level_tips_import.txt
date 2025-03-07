@@ -16,7 +16,7 @@
 49|<text>Missao atualizada:</text>
 52|<text>Mover objeto ($$ACTION_USE$$)</text>
 55|<text>Fechadura de combinacao ($$ACTION_USE$$)</text>
-58|<text>Para Usina Nuclear de Chernobyl</text>
+58|<text>Para Chernobyl NPP</text>
 61|<text>Para Agroprom</text>
 64|<text>Para as catacumbas</text>
 67|<text>Para Rostok</text>

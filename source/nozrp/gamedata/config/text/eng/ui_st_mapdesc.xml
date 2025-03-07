@@ -49,10 +49,10 @@
 		<text>Esta antiga vila e um lugar sinistro e uma armadilha mortal. Mas, se voce chegou tao longe apesar de todos os riscos, esteja preparado para morrer de repente.</text>
 	</string>
 	<string id="ui_map_desc_mp_prypiat_large">
-		<text>A cidade de Prypiat e a antiga residencia dos trabalhadores da Usina Nuclear de Chernobyl, ou o que restou dela. As ruinas deste esqueleto industrial contem um perigo imediato. Voce realmente precisa proteger sua vida aqui.</text>
+		<text>A cidade de Prypiat e a antiga residencia dos trabalhadores da Chernobyl NPP, ou o que restou dela. As ruinas deste esqueleto industrial contem um perigo imediato. Voce realmente precisa proteger sua vida aqui.</text>
 	</string>
 	<string id="ui_map_desc_mp_prypiat_short">
-		<text>A cidade de Prypiat nao fica longe da Usina Nuclear de Chernobyl - a heranca da catastrofe de Chernobyl.</text>
+		<text>A cidade de Prypiat nao fica longe da Chernobyl NPP - a heranca da catastrofe de Chernobyl.</text>
 	</string>
 	<string id="ui_map_desc_mp_railraod_short">
 		<text>Uma pequena estacao ferroviaria na fabrica Rostok.</text>

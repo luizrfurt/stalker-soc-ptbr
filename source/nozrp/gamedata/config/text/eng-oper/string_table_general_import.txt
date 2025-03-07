@@ -26,8 +26,8 @@
 79|<text>Yantar</text>
 82|<text>Red Forest</text>
 85|<text>Prypiat</text>
-88|<text>Usina Nuclear de Chernobyl</text>
-91|<text>Usina Nuclear de Chernobyl</text>
+88|<text>Chernobyl NPP</text>
+91|<text>Chernobyl NPP</text>
 94|<text>especialista</text>
 97|<text>Militar</text>
 100|<text>Monolith</text>
