@@ -20,7 +20,7 @@
 61|<text>Para Agroprom</text>
 64|<text>Para as catacumbas</text>
 67|<text>Para Rostok</text>
-70|<text>Para o Vale Sombrio</text>
+70|<text>Para o Dark Valley</text>
 73|<text>Para o Cordon</text>
 76|<text>Para o Garbage</text>
 79|<text>Para os armazens</text>

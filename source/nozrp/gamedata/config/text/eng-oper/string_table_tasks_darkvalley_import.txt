@@ -17,7 +17,7 @@
 50|<text>Mate os bandidos e resgate o dutyer</text>
 53|<text>Volte para o trader</text>
 56|<text>Volte para o trader</text>
-59|<text>Saia do Vale Sombrio</text>
+59|<text>Saia do Dark Valley</text>
 62|<text>Mostre os documentos para o trader</text>
 65|<text>Liberte o dutyer da prisao</text>
 68|<text>Tire o dutyer da prisao dos bandidos</text>

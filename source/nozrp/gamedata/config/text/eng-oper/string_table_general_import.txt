@@ -19,7 +19,7 @@
 58|<text>Cordon</text>
 61|<text>Garbage</text>
 64|<text>Agroprom Research Institute</text>
-67|<text>Vale Sombrio</text>
+67|<text>Dark Valley</text>
 70|<text>Bar</text>
 73|<text>Territorio Selvagem</text>
 76|<text>Armazens militares</text>

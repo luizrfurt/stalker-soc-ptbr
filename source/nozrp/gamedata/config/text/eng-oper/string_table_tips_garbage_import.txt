@@ -3,7 +3,7 @@
 8|<text>Excelente, Marca, voce realmente nos ajudou la. Eu digo que isso e pagamento suficiente para sua passagem. Va para o Bar.</text>
 11|<text>Deixe-os se aproximarem para que ninguem escape. Eu atiro primeiro, voce segue meu exemplo.</text>
 14|<text>Voce esta em territorio da Duty, stalker. Lutar nao e tolerado aqui.</text>
-17|<text>Atencao!! Este e o posto de controle da Duty. Uma horda de mutantes esta se movendo do Vale Sombrio em direcao ao Bar. Quem nos ajudar a parar os monstros nao se arrependera.</text>
+17|<text>Atencao!! Este e o posto de controle da Duty. Uma horda de mutantes esta se movendo do Dark Valley em direcao ao Bar. Quem nos ajudar a parar os monstros nao se arrependera.</text>
 20|<text>Voce esta em territorio da Duty, stalker. Comece a baguncar e voce estara comendo por um canudo pelo resto da sua vida.</text>
 23|<text>Bem feito, rapazes, pegamos todos eles. Voces podem fazer uma pequena pausa agora. Voce, stalker, venha aqui. Vamos bater um papo.</text>
 26|<text>Pessoal, este e o comandante de um grupo neutro. Expulsamos os bandidos do estacionamento de veiculos abandonados, mas eles provavelmente tentarao retoma-lo. Estamos com poucos numeros, entao, se voce quiser ajudar, guardaremos um lugar para voce.</text>

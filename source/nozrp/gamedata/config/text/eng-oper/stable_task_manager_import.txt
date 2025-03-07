@@ -23,9 +23,9 @@
 70|<text>Destrua o grupo de bandidos em Agroprom.</text>
 73|<text>Destrua o grupo de bandidos em Agroprom.</text>
 76|<text>Lembro-me de como em '94 os extorsionarios me atacaram - desembolse, eles disseram. Cara, eu passei pelo inferno entao, eu tinha um restaurante e tudo mais. Naquela epoca nao havia processo contra eles! E aqui eu descubro que a mesma gangue esta trabalhando em Agroprom, lucrando com os artefatos que encontram la. Mas aqui eu posso fazer algo. Eu ate sei exatamente onde eles estao se escondendo. Faca-me um favor, puna-os.</text>
-79|<text>Destrua o covil de snorks no Vale Sombrio</text>
-82|<text>Destrua o covil de snorks no Vale Sombrio</text>
-85|<text>Sim... Parece que aqueles que dizem que a zona esta se expandindo estao certos. Eles avistaram alguns snorks no Vale Sombrio, mas antes nunca os viram la. E aqui alguns comecaram a entrar em panico. Os Dutiers prometeram destruir os snorks, mas parece que nao conseguem fazer isso. Voce vai assumir?</text>
+79|<text>Destrua o covil de snorks no Dark Valley</text>
+82|<text>Destrua o covil de snorks no Dark Valley</text>
+85|<text>Sim... Parece que aqueles que dizem que a zona esta se expandindo estao certos. Eles avistaram alguns snorks no Dark Valley, mas antes nunca os viram la. E aqui alguns comecaram a entrar em panico. Os Dutiers prometeram destruir os snorks, mas parece que nao conseguem fazer isso. Voce vai assumir?</text>
 88|<text>Encontre o artefato Pedaco de Carne</text>
 91|<text>Encontre o artefato Pedaco de Carne que cura doencas e ferimentos.</text>
 94|<text>Alguns padres pararam por aqui, deixaram um pedido de um Pedaco de Carne. Voce sabe, eles tem um certo interesse neste artefato de cura... aqueles curandeiros podres! De qualquer forma... Voce vai fazer isso? A escolha e sua.</text>
@@ -42,8 +42,8 @@
 127|<text>Encontre o artefato Peixinho Dourado</text>
 130|<text>Marca, voce conhece a historia do conto de fadas sobre o Peixinho Dourado? Sim, sim, e essa mesmo. Ha um monte de piadas sobre isso tambem. De qualquer forma, ha esse velho que continua querendo pega-lo. Resumindo, preciso do artefato unico chamado Peixinho Dourado, o cliente e de fora, respeitavel. Voce vai ajudar?</text>
 133|<text>Encontre o traje psi</text>
-136|<text>Encontre o traje que fornece protecao eficiente contra psi-emissoes. O lugar para procura-lo sao os laboratorios desertos no Vale Sombrio.</text>
-139|<text>Naqueles laboratorios no Vale Sombrio, eles estavam tentando encontrar uma maneira de proteger o cerebro humano de psi-emissoes. Eles estavam demorando, com certeza... De qualquer forma, uma de suas tentativas foi realmente um sucesso, e deve haver esse traje em algum lugar que voce pode usar e ate beijar o controlador. Sim, e tao bom assim. Entao, se voce me conseguir esse troco, nunca vou esquecer.</text>
+136|<text>Encontre o traje que fornece protecao eficiente contra psi-emissoes. O lugar para procura-lo sao os laboratorios desertos no Dark Valley.</text>
+139|<text>Naqueles laboratorios no Dark Valley, eles estavam tentando encontrar uma maneira de proteger o cerebro humano de psi-emissoes. Eles estavam demorando, com certeza... De qualquer forma, uma de suas tentativas foi realmente um sucesso, e deve haver esse traje em algum lugar que voce pode usar e ate beijar o controlador. Sim, e tao bom assim. Entao, se voce me conseguir esse troco, nunca vou esquecer.</text>
 142|<text>Encontre a arma do estrangeiro.</text>
 145|<text>Uma tarefa interessante. O nome me soa familiar... mas de onde eu o conheco?</text>
 148|<text>Uma vez houve um estrangeiro em nossa regiao... Gordon era o nome dele? Toda a sua maneira denunciava um stalker experiente, mas ele disse que nunca tinha estado na Zona. Mas, de qualquer forma, esse nao e o ponto. Ele desapareceu em algum lugar na Zona eventualmente. Mas ele tinha essa coisa bastante curiosa, a Pipa Negra. Se eu pudesse apenas dar uma olhada mais de perto...</text>
@@ -73,7 +73,7 @@
 220|<text>Voce sabe que preparamos chifres e cascos? Isso e uma grande raridade. Eles fazem otimas joias com os cascos mutantes locais - conheco um joalheiro, ele esta interessado. Entao va em frente, encontre o casco do javali, e havera dinheiro no seu bolso.</text>
 223|<text>Proteja o posto de seguranca da Duty</text>
 226|<text>Proteja o posto de seguranca da Duty no Garbage.</text>
-229|<text>Entao, voce provavelmente encontrou nossos caras no Garbage. Eles estao la como uma especie de posto externo protegendo o bar dos mutantes que vem do Vale Sombrio. Chegou a informacao de que a manada doente de javalis esta se aproximando deles. Ajude-os a lutar contra os mutantes e eu lhe devo uma.</text>
+229|<text>Entao, voce provavelmente encontrou nossos caras no Garbage. Eles estao la como uma especie de posto externo protegendo o bar dos mutantes que vem do Dark Valley. Chegou a informacao de que a manada doente de javalis esta se aproximando deles. Ajude-os a lutar contra os mutantes e eu lhe devo uma.</text>
 232|<text>Destrua o zumbi</text>
 235|<text>Destrua os zumbis longevos em Yantar.</text>
 238|<text>Recentemente enviamos um grupo para Yantar. Infelizmente, ninguem do grupo retornou. Fui informado de que eles viram alguns stalkers zumbificados do grupo nao muito longe do laboratorio movel dos cientistas em Yantar. Nao podemos permitir que eles permanecam nesse estado horrivel. Sua tarefa: encontre e destrua aquilo em que eles se transformaram.</text>
@@ -87,8 +87,8 @@
 262|<text>Destrua o destacamento de Mercs em Rostok</text>
 265|<text>Entao aqui esta a tarefa: voce precisa destruir o destacamento de snipers do grupo Mercs. A situacao: esses snipers estao segurando o ultimo andar do complexo do canteiro de obras. Quantidade estimada: nao menos que dois, nem mais que cinco. Eles estao armados, a julgar por tudo, com rifles de sniper. Sugestao: nao mostre seu rosto la durante o dia.</text>
 268|<text>Proteja a base dos bandidos</text>
-271|<text>Proteja a base principal dos bandidos no Vale Sombrio.</text>
-274|<text>E imperativo invadir a base principal dos bandidos e destruir a quantidade maxima de forca viva do inimigo. Isso e no Vale Sombrio, onde ha um centro de ciencias inacabado. O inimigo esta em numero de trinta combatentes; armados com armas automaticas leves, pistolas, espingardas. Tudo claro?</text>
+271|<text>Proteja a base principal dos bandidos no Dark Valley.</text>
+274|<text>E imperativo invadir a base principal dos bandidos e destruir a quantidade maxima de forca viva do inimigo. Isso e no Dark Valley, onde ha um centro de ciencias inacabado. O inimigo esta em numero de trinta combatentes; armados com armas automaticas leves, pistolas, espingardas. Tudo claro?</text>
 277|<text>Elimine os snorks.</text>
 280|<text>Elimine os snorks nos tuneis do setor Yantar.</text>
 283|<text>Desta vez voce precisara fazer uma limpeza. Os tuneis em Yantar estao simplesmente cheios de snorks: ha cerca de dez deles la. Sim, agora voce nao pode mais enfrentar a tempestade la como antes...</text>
@@ -115,16 +115,16 @@
 346|<text>Tem havido um aumento na atividade da patrulha da Freedom na vila abandonada perto dos armazens militares. Limpe a vila dos combatentes. Apos realizar esta tarefa, uma recompensa especial o aguarda.</text>
 349|<text>Destrua os bandidos</text>
 352|<text>Destrua os bandidos no Garbage.</text>
-355|<text>A situacao atual e desfavoravel, os bandidos estao se reunindo nas areas do Garbage e do Vale Sombrio. A melhor solucao e realizar dois ataques preventivos ao mesmo tempo! Nossos combatentes cuidarao do vale, e voce cuidara do Garbage.</text>
+355|<text>A situacao atual e desfavoravel, os bandidos estao se reunindo nas areas do Garbage e do Dark Valley. A melhor solucao e realizar dois ataques preventivos ao mesmo tempo! Nossos combatentes cuidarao do vale, e voce cuidara do Garbage.</text>
 358|<text>Encontre o rifle aprimorado</text>
 361|<text>Encontre a amostra de TRs 301 aprimorado perto dos armazens militares.</text>
 364|<text>Alguem ajuda os mercs. Recentemente, eles foram equipados com metralhadoras, aprimoradas para tiro de sniper. Voce entende que e um brinquedo perigoso? Bem, estou interessado em uma arma dessas. Minha gratidao sera pertinente, tenha certeza.</text>
 367|<text>Neutralize o bandido</text>
 370|<text>Neutralize o bandido Poquer.</text>
-373|<text>Apelido do sujeito - Poquer. Um dos lideres de bandidos mais crueis, porco e estuprador... Evidentemente sua cabeca nao esta boa: dizem que ele contraiu uma doenca rara na Zona. Agora ele sofre lapsos de memoria bastante frequentes e, quando recupera a consciencia, nao consegue se lembrar de quem e onde esta. No entanto, ele esta sempre armado e muito agressivo. Localizacao presumivel: Vale Sombrio. Pronto para a tarefa?</text>
+373|<text>Apelido do sujeito - Poquer. Um dos lideres de bandidos mais crueis, porco e estuprador... Evidentemente sua cabeca nao esta boa: dizem que ele contraiu uma doenca rara na Zona. Agora ele sofre lapsos de memoria bastante frequentes e, quando recupera a consciencia, nao consegue se lembrar de quem e onde esta. No entanto, ele esta sempre armado e muito agressivo. Localizacao presumivel: Dark Valley. Pronto para a tarefa?</text>
 376|<text>Encontre a arma do dutyer.</text>
-379|<text>O dutyer esta pedindo que voce encontre sua arma, ele a perdeu em algum lugar no Vale Sombrio durante outra expedicao de reconhecimento.</text>
-382|<text>Nao deveria ter enlouquecido assim. Como a zona mexe com sua cabeca. Pensei que tinha bons nervos, nunca tive medo de nada, e aqui esta isso. Esse uivo nos ouvidos. Tudo estava indo como de costume. Houve uma expedicao de reconhecimento ao Vale Sombrio, descemos na trincheira com Krivoi para cobrir o resto do grupo, e entao, uma vez que ouvi o uivo, fui tomado pelo medo. Droga, nem me lembro como cheguei a coordenada. Quando voltei para a base, Voronin quase me acertou em cheio: ele tinha acabado de me dar um canhao aprimorado, por bom servico, por assim dizer. E aqui... eu entrei em panico e sai tao rapido que deixei o canhao la. Voce poderia traze-lo de volta para mim, senao para onde vou agora sem uma arma decente.</text>
+379|<text>O dutyer esta pedindo que voce encontre sua arma, ele a perdeu em algum lugar no Dark Valley durante outra expedicao de reconhecimento.</text>
+382|<text>Nao deveria ter enlouquecido assim. Como a zona mexe com sua cabeca. Pensei que tinha bons nervos, nunca tive medo de nada, e aqui esta isso. Esse uivo nos ouvidos. Tudo estava indo como de costume. Houve uma expedicao de reconhecimento ao Dark Valley, descemos na trincheira com Krivoi para cobrir o resto do grupo, e entao, uma vez que ouvi o uivo, fui tomado pelo medo. Droga, nem me lembro como cheguei a coordenada. Quando voltei para a base, Voronin quase me acertou em cheio: ele tinha acabado de me dar um canhao aprimorado, por bom servico, por assim dizer. E aqui... eu entrei em panico e sai tao rapido que deixei o canhao la. Voce poderia traze-lo de volta para mim, senao para onde vou agora sem uma arma decente.</text>
 385|<text>Limpe o covil dos snorks</text>
 388|<text>Destrua o covil dos snorks em Yantar.</text>
 391|<text>Quero oferecer-lhe uma pequena quantia de dinheiro que voce recebera se os snorks que vivem nos pantanos pararem de incomodar a mim e aos meus colegas. As vezes, quando estamos realizando nossos experimentos, nao conseguimos nem nos concentrar.</text>
@@ -250,9 +250,9 @@
 751|<text>Otimo trabalho, premio bem merecido!</text>
 754|<text>E ai?</text>
 757|<text>Olha o que temos agora:</text>
-760|<text>Cubra o destacamento da Duty do ataque dos bandidos no Vale Sombrio</text>
-763|<text>Cubra o destacamento da Duty do ataque dos bandidos no Vale Sombrio</text>
-766|<text>Finalmente consegui colocar na cabeca dura dos dutyers que ja passou da hora de limpar o Garbage dos bandidos. O Duty ampliara seu territorio e nao prejudicara meus clientes regulares com tanta frequencia. Bem, aqui esta o acordo - a lideranca da Duty decidiu, para comecar, cortar o fluxo de bandidos do Vale Sombrio. Entao eles enviaram um destacamento de bloqueio e descobriram que os bandidos nao gostaram disso. Quem diria! Entao, o que eu estou me perguntando e, voce poderia ajuda-los a garantir a entrada do Vale? Eu lhe agradecerei generosamente.</text>
+760|<text>Cubra o destacamento da Duty do ataque dos bandidos no Dark Valley</text>
+763|<text>Cubra o destacamento da Duty do ataque dos bandidos no Dark Valley</text>
+766|<text>Finalmente consegui colocar na cabeca dura dos dutyers que ja passou da hora de limpar o Garbage dos bandidos. O Duty ampliara seu territorio e nao prejudicara meus clientes regulares com tanta frequencia. Bem, aqui esta o acordo - a lideranca da Duty decidiu, para comecar, cortar o fluxo de bandidos do Dark Valley. Entao eles enviaram um destacamento de bloqueio e descobriram que os bandidos nao gostaram disso. Quem diria! Entao, o que eu estou me perguntando e, voce poderia ajuda-los a garantir a entrada do Vale? Eu lhe agradecerei generosamente.</text>
 769|<text>Nao ha trabalhos disponiveis no momento.</text>
 772|<text>Sobre o que voce quer discutir?</text>
 775|<text>Bom garoto! Trabalho bem feito.</text>
@@ -283,9 +283,9 @@
 850|<text>Elimine dois bandidos no Garbage.</text>
 853|<text>Torne a estrada para um dos melhores lugares da Zona acessivel a todos.</text>
 856|<text>Recentemente, um dos melhores lugares da Zona tornou-se inacessivel para os amantes do maravilhoso. No Garbage... sim, o Garbage, ha um lugar pitoresco como nenhum outro, onde toda a sua tristeza o deixa, onde voce se esquece da sujeira, do dinheiro, do sangue. Esqueceu, isto e, porque agora ha dois aberracoes sujas sentadas la, que ameacam matar qualquer um que nao lhes pague para poder entrar no lugar. Livre-se deles - nao tenho outro lugar para levar os turistas.</text>
-859|<text>Mate o sanguessuga no Vale Sombrio</text>
-862|<text>Mate o sanguessuga no Vale Sombrio</text>
-865|<text>Dizem que as tropas deixaram o Vale Sombrio. E entao os monstros comecaram a sair de cada fenda. Os stalkers ja avistaram um sanguessuga la, e um extraordinario - ele nao tem medo de espacos abertos. De qualquer forma, assim que a noticia chegar aos cientistas, eles definitivamente vao querer estudar este sanguessuga. E eu quero ser a pessoa que lhes entrega o corpo. Seu trabalho e matar o sanguessuga, e eu cuido do resto.</text>
+859|<text>Mate o sanguessuga no Dark Valley</text>
+862|<text>Mate o sanguessuga no Dark Valley</text>
+865|<text>Dizem que as tropas deixaram o Dark Valley. E entao os monstros comecaram a sair de cada fenda. Os stalkers ja avistaram um sanguessuga la, e um extraordinario - ele nao tem medo de espacos abertos. De qualquer forma, assim que a noticia chegar aos cientistas, eles definitivamente vao querer estudar este sanguessuga. E eu quero ser a pessoa que lhes entrega o corpo. Seu trabalho e matar o sanguessuga, e eu cuido do resto.</text>
 868|<text>Encontre o artefato Agua-viva</text>
 871|<text>Encontre o artefato Agua-viva formado na anomalia Trampolim</text>
 874|<text>Um cara da Terra Grande pediu uma Agua-viva. Nao e muito dinheiro, mas e uma corrida facil. Aceite!</text>

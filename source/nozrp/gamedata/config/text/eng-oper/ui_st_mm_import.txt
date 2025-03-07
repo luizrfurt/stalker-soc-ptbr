@@ -25,7 +25,7 @@
 76|<text>Jogo em equipe</text>
 79|<text>Fabrica "Agroprom"</text>
 82|<text>Estacao de veiculos</text>
-85|<text>Vale Sombrio</text>
+85|<text>Dark Valley</text>
 88|<text>Fabrica "Yantar"</text>
 91|<text>Vila desolada</text>
 94|<text>Armazens militares</text>
