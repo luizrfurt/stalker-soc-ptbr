@@ -1,4 +1,4 @@
-4|<text>Errante</text>
+4|<text>Loner</text>
 7|<text>Duty</text>
 10|<text>Freedom</text>
 13|<text>Merc</text>
@@ -35,7 +35,7 @@
 106|<text>Novato</text>
 109|<text>Nenhuma missao ativa</text>
 112|<text>Tempo ate a explosao</text>
-115|<text>Errante</text>
+115|<text>Loner</text>
 118|<text>terrivel</text>
 121|<text>Comerciante</text>
 124|<text>grupo</text>

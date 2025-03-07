@@ -64,7 +64,7 @@
 191|<text>Capitao de longa data do Exercito Ucraniano. Detalhes nao disponiveis.</text>
 194|<text>Assumiu a lideranca no acampamento de novatos depois de Lobo. Cheio de proposito, agressivo e tem autoridade bem merecida sobre os recem-chegados.</text>
 197|<text>Fanatico</text>
-200|<text>Errante velho endurecido pela Zona.</text>
+200|<text>Loner velho endurecido pela Zona.</text>
 203|<text>Raposo</text>
 206|<text>Mercenario desconhecido. Possivelmente bem armado. Detalhes nao disponiveis.</text>
 209|<text>Novato esperto. Lobo parece gostar dele e muitas vezes o envia em missoes importantes.</text>

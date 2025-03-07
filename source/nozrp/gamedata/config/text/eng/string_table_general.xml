@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="windows-1251" ?>
 <string_table>
 	<string id="actor">
-		<text>Errante</text>
+		<text>Loner</text>
 	</string>
 	<string id="actor_dolg">
 		<text>Duty</text>
@@ -112,7 +112,7 @@
 		<text>Tempo ate a explosao</text>
 	</string>
 	<string id="stalker">
-		<text>Errante</text>
+		<text>Loner</text>
 	</string>
 	<string id="terrible">
 		<text>terrivel</text>

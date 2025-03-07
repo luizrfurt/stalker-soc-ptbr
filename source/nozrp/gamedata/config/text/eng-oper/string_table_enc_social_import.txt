@@ -14,7 +14,7 @@
 43|<text>Almas pobres sujeitas a exposicao prolongada em Yantar e alguns outros setores altamente irradiados. Stalkers descuidados enlouqueceram e se transformaram em cadaveres ambulantes. Muitos desses cadaveres vagam pela Zona, alguns vagam ate o perimetro. Eles estao alem da ajuda porque o processo destrutivo e irreversivel. Stalkers zumbificados ainda sao capazes de usar suas armas, mas sao bastante burros e podem ser ouvidos murmurando frases fragmentadas e sem sentido para si mesmos. Eles gradualmente perdem todas as suas habilidades e se transformam em zumbis. Eles geralmente sao muito agressivos e podem representar uma ameaca seria em grande numero.</text>
 46|<text>Faccao Freedom</text>
 49|<text>Mercs</text>
-52|<text>Stalkers Errantes</text>
+52|<text>Stalkers Loners</text>
 55|<text>Unidades militarizadas</text>
 58|<text>Stalkers militares</text>
 61|<text>Grupos de pesquisa</text>

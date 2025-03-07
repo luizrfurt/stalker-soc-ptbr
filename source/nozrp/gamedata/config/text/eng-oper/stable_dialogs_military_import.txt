@@ -90,7 +90,7 @@
 271|<text>S-serio? Uau, esses... i-idiotas...</text>
 274|<text>Ola, irmao. Sou um membro da Duty e estamos aqui em missao. Gostaria de se juntar a nos?</text>
 277|<text>Nao estou particularmente interessado.</text>
-280|<text>Entao saia do nosso caminho... errante.</text>
+280|<text>Entao saia do nosso caminho... loner.</text>
 283|<text>Eu topo.</text>
 286|<text>Excelente. La, atras daquela colina, esta o principal criadouro daqueles bastardos - os "Livres" - e eu e meus rapazes vamos agitar as coisas como deve ser. Ha apenas um pequeno problema. A base tem apenas uma entrada e e bem guardada. Pensamos em abrir um buraco na cerca, mas o atirador deles na torre nao vai deixar. Nao quero mandar meus caras para pegar as balas dele... mas voce - ele vai deixar voce chegar perto e definitivamente nao vai atirar a primeira vista. Se voce elimina-lo, ficaremos te devendo. Alem disso, se tudo correr como planejado, voce podera pegar qualquer equipamento na base, o que quiser.</text>
 289|<text>Continue.</text>
