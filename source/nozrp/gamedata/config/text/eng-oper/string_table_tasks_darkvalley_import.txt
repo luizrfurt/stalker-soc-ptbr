@@ -12,13 +12,13 @@
 35|<text>Abra a porta para o centro de controle</text>
 38|<text>Descubra o codigo que abre a porta</text>
 41|<text>Abra a porta usando o codigo</text>
-44|<text>Liberte o Deverista</text>
+44|<text>Liberte o deverista</text>
 47|<text>Siga Bala ate o local da emboscada</text>
-50|<text>Mate os bandidos e resgate o Deverista</text>
+50|<text>Mate os bandidos e resgate o deverista</text>
 53|<text>Volte para o comerciante</text>
 56|<text>Volte para o comerciante</text>
 59|<text>Saia do Vale Sombrio</text>
 62|<text>Mostre os documentos para o comerciante</text>
-65|<text>Liberte o Deverista da prisao</text>
-68|<text>Tire o Deverista da prisao dos bandidos</text>
+65|<text>Liberte o deverista da prisao</text>
+68|<text>Tire o deverista da prisao dos bandidos</text>
 71|<text>Liberte o membro do Dever da prisao dos bandidos</text>

@@ -41,13 +41,13 @@
 		<text>Abra a porta usando o codigo</text>
 	</string>
 	<string id="val_captive_help">
-		<text>Liberte o Deverista</text>
+		<text>Liberte o deverista</text>
 	</string>
 	<string id="val_captive_help_1">
 		<text>Siga Bala ate o local da emboscada</text>
 	</string>
 	<string id="val_captive_help_2">
-		<text>Mate os bandidos e resgate o Deverista</text>
+		<text>Mate os bandidos e resgate o deverista</text>
 	</string>
 	<string id="val_come_to_trader">
 		<text>Volte para o comerciante</text>
@@ -62,10 +62,10 @@
 		<text>Mostre os documentos para o comerciante</text>
 	</string>
 	<string id="val_prisoner_help">
-		<text>Liberte o Deverista da prisao</text>
+		<text>Liberte o deverista da prisao</text>
 	</string>
 	<string id="val_prisoner_help_0">
-		<text>Tire o Deverista da prisao dos bandidos</text>
+		<text>Tire o deverista da prisao dos bandidos</text>
 	</string>
 	<string id="val_prisoner_help_main">
 		<text>Liberte o membro do Dever da prisao dos bandidos</text>
