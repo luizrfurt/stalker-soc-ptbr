@@ -1,21 +1,21 @@
 2|<text>Devolva o rifle de familia do cacador</text>
 5|<text>Traga o PDA do lider para Bartender</text>
 8|<text>Mate os veteranos loucos</text>
-11|<text>Registre-se com o comandante da guarda do Dever</text>
+11|<text>Registre-se com o comandante da guarda da Duty</text>
 14|<text>Volte para Bartender</text>
-17|<text>Encontre o comandante da guarda do Dever e registre-se</text>
+17|<text>Encontre o comandante da guarda da Duty e registre-se</text>
 20|<text>Obtenha um Bulldog 6 para o General Voronin</text>
-23|<text>Junte-se a faccao Dever</text>
+23|<text>Junte-se a faccao Duty</text>
 26|<text>Faca o juramento</text>
 29|<text>Obtenha uma referencia do Capitao Ivantsov</text>
-32|<text>Prove sua lealdade ao Dever</text>
+32|<text>Prove sua lealdade ao Duty</text>
 35|<text>Ganhe a confianca do cozinheiro da Liberdade e descubra onde os Bulldogs 6 estao armazenados</text>
 38|<text>Infiltre-se na base da Liberdade, encontre e roube um Bulldog 6</text>
 41|<text>Encontre as informacoes interceptadas sobre o Lab X18</text>
 44|<text>Mate Tirano, o lider do esquadrao</text>
 47|<text>Devolva as informacoes sobre o Lab X18 para o General Voronin</text>
 50|<text>Traga o Bulldog 6 para o General Voronin</text>
-53|<text>Missao necessaria para se juntar ao Dever</text>
+53|<text>Missao necessaria para se juntar ao Duty</text>
 56|<text>Elimine os Mercs</text>
 59|<text>Entregue as listras para o General Voronin</text>
 62|<text>Pegue o PDA de Tirano</text>

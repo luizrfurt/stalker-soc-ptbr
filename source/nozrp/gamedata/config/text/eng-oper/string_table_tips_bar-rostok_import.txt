@@ -39,10 +39,10 @@
 116|<text>Venha aqui rapido! Meus rapazes pegaram um stalker louco na Floresta Vermelha. Estamos tentando obter algumas informacoes dele agora mesmo!</text>
 119|<text>Marca, voce e louco?! Pare de atirar AGORA! Isso e uma ordem!</text>
 122|<text>Pare de atirar AGORA, Marca! Faca o que eu digo ou voce e um homem morto!</text>
-125|<text>Voce esta expulso do grupo por quebrar o Codigo, Marca. Voce nao tem amigos no Dever agora.</text>
-128|<text>Marca, voce desobedeceu uma ordem direta. O Dever nao perdoa coisas assim. Voce e carne morta.</text>
-131|<text>Pare de atirar! Nao atire em territorio do Dever! Aqueles que quebrarem as regras serao punidos!</text>
-134|<text>Atencao! O Marca foi declarado criminoso por quebrar a lei e atirar dentro do territorio do Dever.</text>
-137|<text>Atencao! Ha um assassino em territorio do Dever. Encontre-o e mate-o!</text>
+125|<text>Voce esta expulso do grupo por quebrar o Codigo, Marca. Voce nao tem amigos na Duty agora.</text>
+128|<text>Marca, voce desobedeceu uma ordem direta. O Duty nao perdoa coisas assim. Voce e carne morta.</text>
+131|<text>Pare de atirar! Nao atire em territorio da Duty! Aqueles que quebrarem as regras serao punidos!</text>
+134|<text>Atencao! O Marca foi declarado criminoso por quebrar a lei e atirar dentro do territorio da Duty.</text>
+137|<text>Atencao! Ha um assassino em territorio da Duty. Encontre-o e mate-o!</text>
 140|<text>Voce, stalker, nos ajude! Fomos atacados por Mercs e metade de nossa equipe foi morta. Ajude-nos e prometo que voce nao se arrependera.</text>
 143|<text>Ajude-nos a lutar contra a emboscada na fabrica. Transfiri as coordenadas para voce. Apenas tenha cuidado, Galgo e seus assassinos estao perto do helicoptero.</text>

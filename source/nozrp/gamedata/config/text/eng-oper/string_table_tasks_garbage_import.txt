@@ -6,10 +6,10 @@
 17|<text>Repila o ataque de bandidos.</text>
 20|<text>Ajude o novato do Lixao</text>
 23|<text>Destrua o ataque de bandidos</text>
-26|<text>Ajude o posto de controle do Dever</text>
+26|<text>Ajude o posto de controle da Duty</text>
 29|<text>Mate os javalis.</text>
-32|<text>Fale com o comandante do Dever</text>
-35|<text>Dever: "Ola, a faccao Dever esta falando do Lixao. Ha uma onda de mutantes indo do Vale Sombrio em direcao ao bar. Garantimos nossa gratidao a todos que ajudarem a matar a escoria. Na palavra do Dever."</text>
+32|<text>Fale com o comandante da Duty</text>
+35|<text>Duty: "Ola, a faccao Duty esta falando do Lixao. Ha uma onda de mutantes indo do Vale Sombrio em direcao ao bar. Garantimos nossa gratidao a todos que ajudarem a matar a escoria. Na palavra da Duty."</text>
 38|<text>A missao para chegar ao bar.</text>
 41|<text>Aprenda algo sobre Strelok com Seriy.</text>
 44|<text>Bes: "A escoria dos bandidos esta tentando ganhar controle sobre o Lixao. Houve uma briga aqui ha meia hora. Matamos tres dos aberracoes. O resto dos caras recuou, mas tenho a sensacao de que eles voltarao a qualquer minuto com reforcos. Somos poucos e um cano extra nao faria mal. Se voce nos ajudar a destruir seus reforcos, retribuirei o favor."</text>

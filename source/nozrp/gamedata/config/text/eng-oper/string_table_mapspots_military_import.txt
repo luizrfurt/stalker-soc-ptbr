@@ -4,11 +4,11 @@
 11|<text>Mate o dedo-duro</text>
 14|<text>Mate o informante</text>
 17|<text>Pegue o pendrive do stalker louco dele</text>
-20|<text>Fazenda do Dever</text>
+20|<text>Fazenda da Duty</text>
 23|<text>Mate o sniper</text>
 26|<text>Fale com Sombra</text>
 29|<text>Volte para Avarento</text>
-32|<text>Destrua o esquadrao do Dever</text>
+32|<text>Destrua o esquadrao da Duty</text>
 35|<text>Mate Lukash</text>
 38|<text>Avarento</text>
 41|<text>Reporte-se a Max</text>

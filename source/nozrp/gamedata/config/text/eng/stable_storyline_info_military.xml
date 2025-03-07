@@ -17,13 +17,13 @@
 		<text>... hoje fomos a vila novamente para cacar. Tudo igual de sempre. \n\n De onde veio aquela fera? Deve ter entrado sorrateiramente perto da Floresta Vermelha. Todos os caras cairam, sou o unico de pe... Vou tentar sair sorrateiramente a noite... \n\n Nao me lembro de como sai. Foi um inferno... Minha cabeca esta explodindo - imagens, sons, nao sei de onde estao vindo. Radiacao maldita. Alem disso, o detector sangrento esta kaputt. Preciso descansar e me sentirei melhor.</text>
 	</string>
 	<string id="mil_dolg_kill_lukash_descr">
-		<text>Entre na base com os membros do Dever.\nElimine tres snipers. \nMate Lukash.</text>
+		<text>Entre na base com os membros da Duty.\nElimine tres snipers. \nMate Lukash.</text>
 	</string>
 	<string id="mil_dolg_kill_sniper_descr">
 		<text>Mate o sniper na torre. Tenha cuidado, nao leve um tiro entre os olhos.</text>
 	</string>
 	<string id="mil_flash_bandit_descr">
-		<text>Droga, aqueles idiotas do Dever nos expulsaram de um lugar bom. Eles se entrincheiraram perto de nossa fazenda. Nem tivemos tempo de pegar nossas coisas no sotao. Mas nao e grande coisa - a base da Liberdade esta perto, entao eles nao vao durar muito.</text>
+		<text>Droga, aqueles idiotas da Duty nos expulsaram de um lugar bom. Eles se entrincheiraram perto de nossa fazenda. Nem tivemos tempo de pegar nossas coisas no sotao. Mas nao e grande coisa - a base da Liberdade esta perto, entao eles nao vao durar muito.</text>
 	</string>
 	<string id="mil_flash_max_descr">
 		<text>Hoje sacudimos alguns soldados a caminho da Floresta Vermelha - conseguimos alguns Bulldog 6. Eles sao incriveis. Lukash pegou um, e Sombra escondeu o outro na vila, em um dos poroes.</text>
@@ -44,7 +44,7 @@
 		<text>Limpe os sanguessugas na vila. Tenho que ter cuidado ou eles vao beber todo o meu sangue e me deixar para morrer.</text>
 	</string>
 	<string id="mil_lukash_job_descr">
-		<text>Lukash decidiu realizar um contra-ataque ao destacamento do Dever na cabana. Max, um dos veteranos da Liberdade, liderara a operacao. Meu trabalho e ajuda-los.</text>
+		<text>Lukash decidiu realizar um contra-ataque ao destacamento da Duty na cabana. Max, um dos veteranos da Liberdade, liderara a operacao. Meu trabalho e ajuda-los.</text>
 	</string>
 	<string id="mil_mad_flash_job_descr">
 		<text>Eu me pergunto o que esse cara louco no pantano pode saber. Vou descobrir. O importante e evitar todas aquelas minas antigas. Mas - elas devem estar enferrujadas o suficiente para explodir com um parafuso.</text>

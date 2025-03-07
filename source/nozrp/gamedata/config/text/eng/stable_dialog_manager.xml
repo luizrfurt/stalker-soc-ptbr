@@ -31,10 +31,10 @@
 		<text>Voce sabia que no que agora e o Vale Sombrio, antes da catastrofe costumava haver um complexo de pesquisa cientifica subterraneo? Nao sei para que servia, mas tenho certeza de que nao era para nada de bom. Dizem coisas diferentes sobre isso, mas principalmente coisas ruins. Coisa terrivel.</text>
 	</string>
 	<string id="dm_action_info_17">
-		<text>E dai? O que voce quer ouvir? Vou te dizer o seguinte: os "deveristas" sao definitivamente os policiais, mas eles sabem como manter a ordem, com certeza. Mas, no geral, nao gosto muito deles. Eles sao como os proprietarios em todos os lugares - nao pegue isso, nao tire aquilo da Zona... Alem disso, eles ja determinaram o que voce pode dizer na Terra Grande e o que voce deve manter em segredo! Eles falam demais e realmente querem destruir a Zona, aos poucos. Bem, isso nao me surpreende, vindo de ex-soldados... eles sao todos sonhadores. O pior e que, dizem, o apoio deles vem de cima.</text>
+		<text>E dai? O que voce quer ouvir? Vou te dizer o seguinte: os "dutyers" sao definitivamente os policiais, mas eles sabem como manter a ordem, com certeza. Mas, no geral, nao gosto muito deles. Eles sao como os proprietarios em todos os lugares - nao pegue isso, nao tire aquilo da Zona... Alem disso, eles ja determinaram o que voce pode dizer na Terra Grande e o que voce deve manter em segredo! Eles falam demais e realmente querem destruir a Zona, aos poucos. Bem, isso nao me surpreende, vindo de ex-soldados... eles sao todos sonhadores. O pior e que, dizem, o apoio deles vem de cima.</text>
 	</string>
 	<string id="dm_action_info_18">
-		<text>Este territorio agora e controlado pelo Dever, e as regras do Dever sao a lei da terra. Controlamos as fronteiras da zona e acalmamos os animos: os pobres tolos vem aqui em caravanas inteiras, amadores, romanticos... e depois morrem em grupos no primeiro dia.</text>
+		<text>Este territorio agora e controlado pelo Duty, e as regras da Duty sao a lei da terra. Controlamos as fronteiras da zona e acalmamos os animos: os pobres tolos vem aqui em caravanas inteiras, amadores, romanticos... e depois morrem em grupos no primeiro dia.</text>
 	</string>
 	<string id="dm_action_info_19">
 		<text>Voce esteve em nosso acampamento intermediario? E claro que nao e so nosso - voce pode encontrar quase qualquer pessoa aqui. O importante e que e um bom lugar, sem lixo, e todas as noticias sobre a Zona chegam aqui. Quase sempre da para ouvir algo util, ou pelo menos conversar com as pessoas sobre nada em particular. Que pena que Careca e seu grupo foram embora anteontem - entao desta vez nem consegui ve-lo.</text>
@@ -46,16 +46,16 @@
 		<text>No momento, stalker, este lugar e seguro e estamos tentando mante-lo assim. Ha muitas pessoas aqui: algumas que fizeram dele sua casa e nao vao alem da area circundante, outras que estao se preparando para mais uma incursao. Que pena que Irokez nao voltou. Ele adorava colocar novatos como voce no caminho dos justos. </text>
 	</string>
 	<string id="dm_action_info_21">
-		<text>Voce ouviu que o Dever anunciou que esta recrutando novos membros? Pensei nisso por um minuto, mas depois decidi - que se dane. Logo eles vao me recrutar... Nao preciso desse tipo de disciplina. Cumpri meus dois anos e isso foi o suficiente para mim...</text>
+		<text>Voce ouviu que a Duty anunciou que esta recrutando novos membros? Pensei nisso por um minuto, mas depois decidi - que se dane. Logo eles vao me recrutar... Nao preciso desse tipo de disciplina. Cumpri meus dois anos e isso foi o suficiente para mim...</text>
 	</string>
 	<string id="dm_action_info_22">
 		<text>Se voce ainda nao ouviu, estou te avisando: estamos recrutando novos membros. Se voce tiver alguma experiencia, venha, voce nao vai se arrepender. Na base, procure por Petrenko.</text>
 	</string>
 	<string id="dm_action_info_23">
-		<text>Voce tambem veio ver as lutas - quer fazer uma aposta ou algo assim? Bem, olha so! Tem uma arena por aqui, e voce e um zero a esquerda! Entao, veja so: membros do esquadrao do Dever capturam mutantes, certo? Apos a pesquisa, se as feras ainda estiverem vivas, eles as soltam na arena. E essas belezuras vem em todos os formatos e tamanhos - algumas, voce vai olhar para elas e morrer de rir, outras - voce vai molhar as calcas.</text>
+		<text>Voce tambem veio ver as lutas - quer fazer uma aposta ou algo assim? Bem, olha so! Tem uma arena por aqui, e voce e um zero a esquerda! Entao, veja so: membros do esquadrao da Duty capturam mutantes, certo? Apos a pesquisa, se as feras ainda estiverem vivas, eles as soltam na arena. E essas belezuras vem em todos os formatos e tamanhos - algumas, voce vai olhar para elas e morrer de rir, outras - voce vai molhar as calcas.</text>
 	</string>
 	<string id="dm_action_info_24">
-		<text>Eles acabaram de fornecer carne nova para a arena. Entretenimento para o povo e, para nos, uma boa maneira de ganhar alguns por cento das apostas. Vamos provar aos stalkers que o Dever nao esta apenas falando pelos cotovelos, mas que fazemos o trabalho de verdade.</text>
+		<text>Eles acabaram de fornecer carne nova para a arena. Entretenimento para o povo e, para nos, uma boa maneira de ganhar alguns por cento das apostas. Vamos provar aos stalkers que a Duty nao esta apenas falando pelos cotovelos, mas que fazemos o trabalho de verdade.</text>
 	</string>
 	<string id="dm_action_info_25">
 		<text>Ei, ouca, voce ja foi a Rostok? Costumava ser tranquilo la, mas agora e dificil ir sozinho - um campo selvagem comum, mutantes demais agora. Vamos juntos, o que voce acha?... Por outro lado... Eu nao te conheco e voce nao me conhece. E se... E, cara, desculpe. Vamos nos separar.</text>
@@ -70,7 +70,7 @@
 		<text>Eles estavam purgando a zona de Yantar recentemente... e, limparam bem! Ha laboratorios de pesquisa la, mas muitos zumbis por perto. Entao, temos que ir la regularmente para ajudar os cientistas.</text>
 	</string>
 	<string id="dm_action_info_29">
-		<text>Perto dos antigos armazens, voce sabe - a base da Liberdade. Eles sao caras felizes, tem alma; e um prazer conversar com eles tomando uma garrafa de vinho. E o Dever nao esta la o tempo todo como perto do bar.</text>
+		<text>Perto dos antigos armazens, voce sabe - a base da Liberdade. Eles sao caras felizes, tem alma; e um prazer conversar com eles tomando uma garrafa de vinho. E a Duty nao esta la o tempo todo como perto do bar.</text>
 	</string>
 	<string id="dm_action_info_3">
 		<text>Ha uma fabrica antiga por perto e continuamos limpando-a de bandidos, e cada vez eles voltam! Nem faz um mes desde a ultima vez e eles ja estao de volta. E melhor voce ter mais cuidado la...</text>
@@ -91,7 +91,7 @@
 		<text>Bem, amigo, parece que voce nao esta atualizado? Durante a noite, voce tem que cochilar em algum lugar bem longe daqui. Aqui, durante a noite, nem um lancador de granadas sempre ajuda.</text>
 	</string>
 	<string id="dm_action_info_35">
-		<text>Quer saber, deixe os caras do Dever e os caras da Liberdade e os saqueadores descobrirem a quem esta parte pertence. O que isso tem a ver comigo? Que se dane tudo...</text>
+		<text>Quer saber, deixe os caras da Duty e os caras da Liberdade e os saqueadores descobrirem a quem esta parte pertence. O que isso tem a ver comigo? Que se dane tudo...</text>
 	</string>
 	<string id="dm_action_info_36">
 		<text>Estamos trabalhando aqui agora, stalker. Nao so ha um monte desses miseraveis se reproduzindo aqui, mas tambem aqueles idiotas dos mercs e os retardados da faccao Liberdade atrapalham...</text>
@@ -100,10 +100,10 @@
 		<text>Tenho que te avisar que nao e muito seguro aqui nem durante o dia. De vez em quando rola um tiroteio, pelo que entendi, sao alguns conflitos antigos entre as varias faccoes de bandidos locais.</text>
 	</string>
 	<string id="dm_action_info_38">
-		<text>Escuta, por que voce nao me diz - este e o nosso territorio, certo? E mais facil para nos conter os miseraveis que vem aqui do centro da Zona, nao e? Os cabecas de ovo podem ficar por ai tentando descobrir quem os esta incomodando, mas o Dever e os saqueadores podem vazar daqui.</text>
+		<text>Escuta, por que voce nao me diz - este e o nosso territorio, certo? E mais facil para nos conter os miseraveis que vem aqui do centro da Zona, nao e? Os cabecas de ovo podem ficar por ai tentando descobrir quem os esta incomodando, mas a Duty e os saqueadores podem vazar daqui.</text>
 	</string>
 	<string id="dm_action_info_39">
-		<text>E voce nao sabe? Eles abriram um novo caminho aqui para poderem passar pela patrulha do Dever direto para o perimetro com todos os bens. Venha aqui de Yantar e, usando os atalhos, ate Agroprom - e voce chegou la!</text>
+		<text>E voce nao sabe? Eles abriram um novo caminho aqui para poderem passar pela patrulha da Duty direto para o perimetro com todos os bens. Venha aqui de Yantar e, usando os atalhos, ate Agroprom - e voce chegou la!</text>
 	</string>
 	<string id="dm_action_info_4">
 		<text>Nada. Eu nao sei porcaria nenhuma. Eu pego um lanche aqui e ali, tentando ganhar o suficiente para o meu pao de cada dia. E muito assustador entrar na propria Zona - que se dane. E nao ha trabalho em casa, minha esposa esta no meu pe - tenho que viver de alguma forma. Aqui no Lixao, se voce procurar por um dia, pode juntar alguns artefatos. E isso vai servir para o seu pao com manteiga.</text>
@@ -115,7 +115,7 @@
 		<text>Nao vou esconder o fato de que aqui seus colegas stalkers nos oferecem de vez em quando algumas formacoes anomalas bastante interessantes - artefatos e como voces chamam. Por causa do... digamos... nivel incerto de controle sobre eles... esses lugares formam uma especie de rota de contrabando altamente ativa. </text>
 	</string>
 	<string id="dm_action_info_42">
-		<text>Qual e o seu problema, cara? Nos abrimos um caminho so para nao termos que encontrar os caras da faccao Dever se quisermos ir para a Terra Grande para alguma coisa. Embora eles ainda aparecam por aqui de vez em quando, pelo menos eles nao sabem de nada por enquanto e voce pode passar por eles.</text>
+		<text>Qual e o seu problema, cara? Nos abrimos um caminho so para nao termos que encontrar os caras da faccao Duty se quisermos ir para a Terra Grande para alguma coisa. Embora eles ainda aparecam por aqui de vez em quando, pelo menos eles nao sabem de nada por enquanto e voce pode passar por eles.</text>
 	</string>
 	<string id="dm_action_info_43">
 		<text>Acabei de voltar de Yantar. Pensei em passar algo para a ciencia como de costume, mas eles estao todos trancados em seus bunkers, nao saem nem durante o dia, nem que seja para outro helicoptero. Entao, se voce esta planejando ir nessa direcao, e melhor mudar de rumo...</text>
@@ -169,7 +169,7 @@
 		<text>Eu me divirto com nossa ciencia feliz! Eu simplesmente adoro, cara. Geralmente nao mostra a cara fora do bunker. E mesmo que mostre a cara, como fez outro dia - meu Deus! Tropas por toda parte, helicopteros, tecnologia de blindagem! Eles bem que poderiam trazer um encouracado para ca, ou pelo menos um trem blindado.</text>
 	</string>
 	<string id="dm_action_info_59">
-		<text>Ja e o terceiro dia que estou aqui, observando. Tem um laboratorio aqui, certo? Ninguem entrou nele desde o comeco, os deveristas costumavam purgar zumbis so na superficie, e agora pararam completamente, certo? Mas a ciencia teve que entrar la. Isso significa que eles encontraram uma maneira de se proteger, o diabo sabe de que. Entao estou pensando, por que nao dar uma olhada, descobrir - aposto que ha tantas coisas boas la que voce pode pega-las com uma pa.</text>
+		<text>Ja e o terceiro dia que estou aqui, observando. Tem um laboratorio aqui, certo? Ninguem entrou nele desde o comeco, os dutyers costumavam purgar zumbis so na superficie, e agora pararam completamente, certo? Mas a ciencia teve que entrar la. Isso significa que eles encontraram uma maneira de se proteger, o diabo sabe de que. Entao estou pensando, por que nao dar uma olhada, descobrir - aposto que ha tantas coisas boas la que voce pode pega-las com uma pa.</text>
 	</string>
 	<string id="dm_action_info_6">
 		<text>Nos ultimos dias, bandos inteiros de animais estao saindo do Vale Sombrio. O que os esta forcando a sair de la nao esta claro, mas eles estao realmente saindo de la, como se fugissem de um incendio. E no setor leste, os mutantes estao se reproduzindo como moscas. Tudo o que podemos fazer e continuar atirando neles. Entao, essas sao as noticias.</text>
@@ -190,7 +190,7 @@
 		<text>Voce nao e muito amigavel com a Liberdade, nao e? Tudo bem, tudo bem, nao fique todo chateado. Acho que logo vamos expulsa-los dos armazens. Eles nao tem organizacao nem disciplina - um grande rebanho. Um bando, na melhor das hipoteses. E eles ousam enfrentar nos, esses novatos da OTAN.</text>
 	</string>
 	<string id="dm_action_info_65">
-		<text>Eu me encontro com um dos caras do Dever quando ha um cessar-fogo. Nos compartilhamos. O cara e realmente esperto, mas, droga, mente fechada como seu tanque. Veja bem, nossa filosofia e completamente diferente da deles: voce so pode domar a Zona, assimila-la, mas nao destrui-la. Para isso, precisamos de acesso aberto a todas as informacoes: alguem vai inventar alguma coisa eventualmente. Mas eles so pensam em "fechar" e "trancar" e "nao espalhar"... Retardados, retardados completos. Por outro lado, faz sentido: quando toda a maquina politica esta por tras de voce, voce nao deve pensar fora da caixa.</text>
+		<text>Eu me encontro com um dos caras da Duty quando ha um cessar-fogo. Nos compartilhamos. O cara e realmente esperto, mas, droga, mente fechada como seu tanque. Veja bem, nossa filosofia e completamente diferente da deles: voce so pode domar a Zona, assimila-la, mas nao destrui-la. Para isso, precisamos de acesso aberto a todas as informacoes: alguem vai inventar alguma coisa eventualmente. Mas eles so pensam em "fechar" e "trancar" e "nao espalhar"... Retardados, retardados completos. Por outro lado, faz sentido: quando toda a maquina politica esta por tras de voce, voce nao deve pensar fora da caixa.</text>
 	</string>
 	<string id="dm_action_info_66">
 		<text>Tem uma casinha aqui, costumava ser calma, mas agora tem uns monstros se reproduzindo aqui. E melhor dar a volta, por isso que estou dando a volta... Ei cara, eu te avisei.</text>
@@ -238,7 +238,7 @@
 		<text>Deixe-me explicar. Tem Prypiat. Atras dela - Usina Nuclear de Chernobyl. O que esta acontecendo la e quem esta habitando essas partes, e desconhecido. Este e o lugar para nos. Vamos encontrar alguma coisa, como de costume.</text>
 	</string>
 	<string id="dm_action_info_8">
-		<text>Nao esta atualizado! E eu estou indo para o bar, para conversar com as pessoas. O que, voce nunca esteve la? Meu Deus! Entao e o seguinte: do jeito que voce esta, continue seguindo para o norte. O bar fica logo ali. E muito util passar por la, especialmente para novatos como voce, e como prescrito pelo medico: ha homens experientes la, quem sabe, eles podem ajudar, te dizer alguma coisa, como e o que. Uma coisa, voce vai encontrar nossos amigos do Dever no caminho... e aqui depende - se voce tiver sorte, eles vao gostar de voce. Se nao, bem, entao nao vao.</text>
+		<text>Nao esta atualizado! E eu estou indo para o bar, para conversar com as pessoas. O que, voce nunca esteve la? Meu Deus! Entao e o seguinte: do jeito que voce esta, continue seguindo para o norte. O bar fica logo ali. E muito util passar por la, especialmente para novatos como voce, e como prescrito pelo medico: ha homens experientes la, quem sabe, eles podem ajudar, te dizer alguma coisa, como e o que. Uma coisa, voce vai encontrar nossos amigos da Duty no caminho... e aqui depende - se voce tiver sorte, eles vao gostar de voce. Se nao, bem, entao nao vao.</text>
 	</string>
 	<string id="dm_action_info_80">
 		<text>Prypiat! Me belisca, droga! Finalmente! Daqui e so um pouco ate a estacao. Droga, dificil saber com quem voce pode encontrar aqui - que criatura esta afiando os dentes esperando por voce.</text>
@@ -277,7 +277,7 @@
 		<text>Escuta, quem conhece esse Concessor... talvez nao seja eterno, entao nao vai ter o suficiente para todo mundo? E o que fazer? Cair de quatro? E voce, cara, eu te prometo o seguinte: se chegarmos la, voce vai atras de mim...</text>
 	</string>
 	<string id="dm_action_info_98">
-		<text>O Dever tem que chegar ao centro, se nao for o primeiro, que seja um dos primeiros! Imagine, stalker, que algum psicopata - e todos voces aqui sao fisicos, paranoicos ou oligofrenicos - chega a coisa que realmente pode realizar qualquer desejo, hein? E ai?</text>
+		<text>O Duty tem que chegar ao centro, se nao for o primeiro, que seja um dos primeiros! Imagine, stalker, que algum psicopata - e todos voces aqui sao fisicos, paranoicos ou oligofrenicos - chega a coisa que realmente pode realizar qualquer desejo, hein? E ai?</text>
 	</string>
 	<string id="dm_action_info_99">
 		<text>Noticia do seculo: todo mundo que consegue andar e carregar uma arma esta aqui agora! Qualquer coisa pode acontecer aqui! Coloque isso na sua cabeca: Qualquer coisa que voce desejar! E ai alguem vai chegar e dizer "Eu quero que a Zona desapareca de agora em diante e para sempre". Hein? Voce entende a dimensao da tragedia? Vamos todos acabar no meio do nada, todos nos!</text>
@@ -304,7 +304,7 @@
 		<text>Ultimamente os mercs estao muito mais ativos. Tambem os chamamos de saqueadores. Tem outro tipo de porco aqui, nao sei se voce ouviu falar. Meio que bandidos, so que especialistas em guerra. Estranho, eles costumavam preferir atacar stalkers, mas ultimamente estao mais interessados em cientistas. Mas fique esperto de qualquer forma, eu nao duvido que eles atirem na sua cabeca tambem.</text>
 	</string>
 	<string id="dm_cool_info_14">
-		<text>Ouvi um boato de que os cabecas de ovo desenterraram algo incrivel. E de repente todo mundo enlouqueceu: as tropas e os mercs, e ate os caras do Dever nao estao muito atras.</text>
+		<text>Ouvi um boato de que os cabecas de ovo desenterraram algo incrivel. E de repente todo mundo enlouqueceu: as tropas e os mercs, e ate os caras da Duty nao estao muito atras.</text>
 	</string>
 	<string id="dm_cool_info_15">
 		<text>Se voce quer saber sobre a mesma coisa que todo mundo esta me enchendo o saco nos ultimos dois dias, entao eu te digo: va tomar um banho! Se eu soubesse e eles nao me proibissem, eu teria dito. Mas como esta, eu nao sei - nao sei porcaria nenhuma! O que aqueles cientistas encontraram? Para onde nossa lideranca foi? O que eu tenho a ver com isso?! Eles estao de ferias e nao precisam nos responder e se explicar.</text>
@@ -364,22 +364,22 @@
 		<text>Os cabecas de ovo estao farejando alguma coisa. O diabo sabe que segredo eles ja encontraram, mas eles certamente tem as tropas enroladas no dedo mindinho. E eles estao procurando por todo Agroprom e Vale Sombrio, procurando, procurando, tentando encontrar algo...</text>
 	</string>
 	<string id="dm_cool_info_32">
-		<text>A cada dia sai mais e mais porcaria do Desintegrador, e os caras do Dever e da Liberdade decidiram brigar de novo. Entao eles vao se matar, e ai? Quanto tempo podemos segurar a fronteira sozinhos?</text>
+		<text>A cada dia sai mais e mais porcaria do Desintegrador, e os caras da Duty e da Liberdade decidiram brigar de novo. Entao eles vao se matar, e ai? Quanto tempo podemos segurar a fronteira sozinhos?</text>
 	</string>
 	<string id="dm_cool_info_33">
 		<text>Os mutantes estao tentando cada vez mais passar pela barreira. Ultimamente tem sido muito dificil. Se algumas pessoas parassem com suas idiotices, teriamos mais sucesso!</text>
 	</string>
 	<string id="dm_cool_info_34">
-		<text>O Dever continua gritando sobre seus feitos super-heroicos na barreira. Se ao menos alguem acreditasse neles... Nos comecamos essa parada e somos nos que a mantemos funcionando, e ainda por cima muitos errantes como voce ficaram para tras voluntariamente. Mas aqueles caras do Dever... os idiotas... que se danem!</text>
+		<text>O Duty continua gritando sobre seus feitos super-heroicos na barreira. Se ao menos alguem acreditasse neles... Nos comecamos essa parada e somos nos que a mantemos funcionando, e ainda por cima muitos errantes como voce ficaram para tras voluntariamente. Mas aqueles caras da Duty... os idiotas... que se danem!</text>
 	</string>
 	<string id="dm_cool_info_35">
-		<text>Ouvi dizer que o Dever se vendeu completamente. Eles ficam dizendo algo como "somos todos voluntarios que querem estabelecer seguranca e ordem na Zona"... aham, voluntarios! Algum patrocinador deu a esses tais voluntarios tanta municao, tantos canos, que voce morreria de inveja. E ai eles se venderam.</text>
+		<text>Ouvi dizer que a Duty se vendeu completamente. Eles ficam dizendo algo como "somos todos voluntarios que querem estabelecer seguranca e ordem na Zona"... aham, voluntarios! Algum patrocinador deu a esses tais voluntarios tanta municao, tantos canos, que voce morreria de inveja. E ai eles se venderam.</text>
 	</string>
 	<string id="dm_cool_info_36">
 		<text>Que boatos estao rolando? Vou te dizer sem boatos: logo havera mais ordem. Vamos purgar a Zona de todo tipo de fera e de certos idiotas tambem...</text>
 	</string>
 	<string id="dm_cool_info_37">
-		<text>Voce ouviu o que os caras do Dever estao dizendo que vao fazer conosco? "Transforma-los em po" - e isso e o minimo. Essa historia toda me preocupa... Principalmente porque, dizem, eles se rearmaram com equipamentos de ultima geracao.</text>
+		<text>Voce ouviu o que os caras da Duty estao dizendo que vao fazer conosco? "Transforma-los em po" - e isso e o minimo. Essa historia toda me preocupa... Principalmente porque, dizem, eles se rearmaram com equipamentos de ultima geracao.</text>
 	</string>
 	<string id="dm_cool_info_38">
 		<text>Que noticias? Nos sentamos aqui, os animais vem para cima de nos, nos atiramos neles, ai eles vem de novo, so que mais fortes. E claro que algumas vezes os helicopteros militares passaram, e parece que eles voaram ate depois do Desintegrador.</text>
@@ -421,7 +421,7 @@
 		<text>Imagine so - eles encontraram nosso Mikluha! E os caras que estavam com ele tambem sobreviveram. Eles passaram sorrateiramente pelo apagador de cerebros e depois passaram um mes matando tempo, nao conseguiam voltar.</text>
 	</string>
 	<string id="dm_cool_info_5">
-		<text>Tem algo suspeito acontecendo. Estao rolando boatos de que o lider da faccao Dever, o chefao, nao apenas deixou a Zona a negocios, mas fez um acordo com a faccao Liberdade. Bem, eles poderiam ter feito o mesmo acordo abertamente, porque agora esta tudo confuso. As coisas nao parecem boas. Por outro lado, os caras experientes dizem que eles comecaram a brigar antigamente sem motivo nenhum. So espero que os malucos do gabinete da Terra Grande nao nos arrastem todos para outro moedor de carne.</text>
+		<text>Tem algo suspeito acontecendo. Estao rolando boatos de que o lider da faccao Duty, o chefao, nao apenas deixou a Zona a negocios, mas fez um acordo com a faccao Liberdade. Bem, eles poderiam ter feito o mesmo acordo abertamente, porque agora esta tudo confuso. As coisas nao parecem boas. Por outro lado, os caras experientes dizem que eles comecaram a brigar antigamente sem motivo nenhum. So espero que os malucos do gabinete da Terra Grande nao nos arrastem todos para outro moedor de carne.</text>
 	</string>
 	<string id="dm_cool_info_50">
 		<text>Voce ouviu?! As tropas vieram para o que ja estava pronto. Elas estarao aqui em breve! Eles descobriram que o desintegrador quebrou e decidiram pegar todos os bens para si mesmos!...</text>
@@ -469,7 +469,7 @@
 		<text>Parece que voce ainda nao conhece bem o lugar, entao vou te avisar como um amigo: nao tenha nada a ver com os militares. Assim que voce vir um, saia de la o mais rapido possivel porque eles nao tem cerebro. Primeiro eles vao te dar um tiro ou dez, e depois vao verificar os documentos para ver seu nome.</text>
 	</string>
 	<string id="dm_intro_10">
-		<text>Aqui os caras do Dever mandam. Nossa querida e amada forca policial, ou algo assim. Tenha isso em mente para evitar problemas. </text>
+		<text>Aqui os caras da Duty mandam. Nossa querida e amada forca policial, ou algo assim. Tenha isso em mente para evitar problemas. </text>
 	</string>
 	<string id="dm_intro_100">
 		<text>Bom dia.</text>
@@ -502,7 +502,7 @@
 		<text>Saudacoes, stalker.</text>
 	</string>
 	<string id="dm_intro_11">
-		<text>Voce esta localizado em uma area onde a ordem e mantida pelo grupo Dever. Toda exigencia da patrulha deve ser cumprida sem resistencia; todas as explicacoes necessarias serao dadas, se necessario. Embora o codigo de conduta aqui seja simples: trate todos com cortesia comum e tudo ficara bem.</text>
+		<text>Voce esta localizado em uma area onde a ordem e mantida pelo grupo Duty. Toda exigencia da patrulha deve ser cumprida sem resistencia; todas as explicacoes necessarias serao dadas, se necessario. Embora o codigo de conduta aqui seja simples: trate todos com cortesia comum e tudo ficara bem.</text>
 	</string>
 	<string id="dm_intro_110">
 		<text>E ai, stalker!</text>

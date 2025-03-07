@@ -7,7 +7,7 @@
 22|<text>Quando eles estavam me levando por ai, notei uma grade de esgoto embaixo da escada no primeiro andar... Se voce conseguisse abrir a cela, seria possivel sair daqui usando esse esgoto... E melhor ir para o oeste e entao voce pode usar o tunel para chegar a Liberdade.</text>
 25|<text>Obrigado pela informacao.</text>
 28|<text>Quem nos capturou?</text>
-31|<text>Estamos sendo mantidos pelos Mercs. Ninguem sabe ao certo quem eles sao, mas ha rumores de que trabalham em conjunto com servicos de inteligencia estrangeiros. A localizacao desta base e ultrassecreta - ninguem sabe como entrar na Cidade Morta. Muitas pessoas estao muito interessadas nessas informacoes, especialmente a Liberdade e o Dever.</text>
+31|<text>Estamos sendo mantidos pelos Mercs. Ninguem sabe ao certo quem eles sao, mas ha rumores de que trabalham em conjunto com servicos de inteligencia estrangeiros. A localizacao desta base e ultrassecreta - ninguem sabe como entrar na Cidade Morta. Muitas pessoas estao muito interessadas nessas informacoes, especialmente a Liberdade e a Duty.</text>
 34|<text>Continue.</text>
 37|<text>Se voce conseguir um mapa da Cidade Morta, um ataque bem-sucedido sera possivel. Os Mercs ou os bandidos provavelmente tem um. Voce poderia tentar conseguir.</text>
 40|<text>Obrigado pela informacao.</text>

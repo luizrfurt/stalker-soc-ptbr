@@ -59,7 +59,7 @@
 		<text>Zhorik</text>
 	</string>
 	<string id="bar_barmen_bio">
-		<text>Nem santo, nem canalha. O Bartender conhece seu valor e e respeitado por todos os stalkers. Corre o boato de que ele esta se escondendo na Zona de alguns eventos sombrios em seu passado. Apos um encontro com a anomalia, ele comecou a mancar levemente e decidiu mudar de emprego. Ele montou um bar perto da faccao Dever, e o local gradualmente se transformou no ponto de encontro para todos os veteranos da Zona. O Bartender tem inumeras conexoes tanto na Zona quanto no mundo exterior.</text>
+		<text>Nem santo, nem canalha. O Bartender conhece seu valor e e respeitado por todos os stalkers. Corre o boato de que ele esta se escondendo na Zona de alguns eventos sombrios em seu passado. Apos um encontro com a anomalia, ele comecou a mancar levemente e decidiu mudar de emprego. Ele montou um bar perto da faccao Duty, e o local gradualmente se transformou no ponto de encontro para todos os veteranos da Zona. O Bartender tem inumeras conexoes tanto na Zona quanto no mundo exterior.</text>
 	</string>
 	<string id="bar_barmen_name">
 		<text>Bartender</text>
@@ -68,7 +68,7 @@
 		<text>Fera</text>
 	</string>
 	<string id="bar_drunk_bio">
-		<text>Membro da faccao Dever, mais vezes fora do vagao do que nele. O Dever deu a ele sua ultima chance de redencao ao realizar uma missao. No entanto, ele estava muito bebado para se recompor e realiza-la.</text>
+		<text>Membro da faccao Duty, mais vezes fora do vagao do que nele. O Duty deu a ele sua ultima chance de redencao ao realizar uma missao. No entanto, ele estava muito bebado para se recompor e realiza-la.</text>
 	</string>
 	<string id="bar_drunk_name">
 		<text>Bromo</text>
@@ -104,13 +104,13 @@
 		<text>Careca</text>
 	</string>
 	<string id="bar_petrenko_bio">
-		<text>Um dos fundadores do Dever e seu principal idealizador ao mesmo tempo. Responsavel pelo codigo sagrado da faccao, ele recrutou basicamente todos os membros-chave do Dever.</text>
+		<text>Um dos fundadores da Duty e seu principal idealizador ao mesmo tempo. Responsavel pelo codigo sagrado da faccao, ele recrutou basicamente todos os membros-chave da Duty.</text>
 	</string>
 	<string id="bar_petrenko_name">
 		<text>Coronel Petrenko</text>
 	</string>
 	<string id="bar_plichko_bio">
-		<text>Chefe da seguranca do territorio do Dever</text>
+		<text>Chefe da seguranca do territorio da Duty</text>
 	</string>
 	<string id="bar_plichko_name">
 		<text>Sargento Plichko</text>
@@ -122,7 +122,7 @@
 		<text>Sardento</text>
 	</string>
 	<string id="bar_voronin_bio">
-		<text>Um dos fundadores do Dever e seu principal idealizador. Responsavel pelo codigo sagrado da faccao. Ele recrutou quase todos os membros-chave do Dever.</text>
+		<text>Um dos fundadores da Duty e seu principal idealizador. Responsavel pelo codigo sagrado da faccao. Ele recrutou quase todos os membros-chave da Duty.</text>
 	</string>
 	<string id="bar_voronin_name">
 		<text>General Voronin</text>
@@ -269,10 +269,10 @@
 		<text>Vasya Javali</text>
 	</string>
 	<string id="gar_dolg_blokpost_bio">
-		<text>Um stalker da faccao Dever. Detalhes nao disponiveis.</text>
+		<text>Um stalker da faccao Duty. Detalhes nao disponiveis.</text>
 	</string>
 	<string id="gar_dolg_blokpost_leader_bio">
-		<text>Oficial da faccao Dever. Detalhes nao disponiveis.</text>
+		<text>Oficial da faccao Duty. Detalhes nao disponiveis.</text>
 	</string>
 	<string id="gar_dolg_blokpost_leader_name">
 		<text>Suboficial</text>
@@ -302,16 +302,16 @@
 		<text>Um stalker experiente. Detalhes nao disponiveis.</text>
 	</string>
 	<string id="mil_Dolg_specnaz_bio">
-		<text>Militante da faccao Dever. Geralmente bem equipado. Detalhes nao disponiveis.</text>
+		<text>Militante da faccao Duty. Geralmente bem equipado. Detalhes nao disponiveis.</text>
 	</string>
 	<string id="mil_Dolg_specnaz_cherep_bio">
-		<text>Comandante das forcas especiais da faccao Dever. Geralmente bem equipado.</text>
+		<text>Comandante das forcas especiais da faccao Duty. Geralmente bem equipado.</text>
 	</string>
 	<string id="mil_Dolg_specnaz_cherep_name">
 		<text>Cranio</text>
 	</string>
 	<string id="mil_Dolg_specnaz_silence_bio">
-		<text>Um combatente da faccao Dever. Geralmente bem equipado. Detalhes nao disponiveis.</text>
+		<text>Um combatente da faccao Duty. Geralmente bem equipado. Detalhes nao disponiveis.</text>
 	</string>
 	<string id="mil_Killer_informator_bio">
 		<text>Um dedo-duro conhecido em toda a Zona.</text>
@@ -449,7 +449,7 @@
 		<text>Stalker zumbificado</text>
 	</string>
 	<string id="rad_dolg_master_bio">
-		<text>Comandante da faccao Dever. Muito bem equipado. Detalhes nao disponiveis.</text>
+		<text>Comandante da faccao Duty. Muito bem equipado. Detalhes nao disponiveis.</text>
 	</string>
 	<string id="rad_ecolog_bio">
 		<text>Cientista. Detalhes nao disponiveis.</text>
@@ -494,7 +494,7 @@
 		<text>Freeman</text>
 	</string>
 	<string id="ros_happy_bio">
-		<text>Saqueador e assassino. Uma recompensa foi colocada por sua cabeca. Anteriormente em bons termos com o Dever, ajudou-os a conquistar seu territorio. Agora habita o Territorio Selvagem e assalta stalkers solitarios com sua gangue.</text>
+		<text>Saqueador e assassino. Uma recompensa foi colocada por sua cabeca. Anteriormente em bons termos com a Duty, ajudou-os a conquistar seu territorio. Agora habita o Territorio Selvagem e assalta stalkers solitarios com sua gangue.</text>
 	</string>
 	<string id="ros_happy_name">
 		<text>Sortudo</text>
@@ -668,19 +668,19 @@
 		<text>Stalker desconhecido. Reputacao desagradavel. Detalhes nao disponiveis.</text>
 	</string>
 	<string id="sim_dolg_master_bio">
-		<text>Guarda da faccao Dever. Se voce nao e amigo deles, fique longe deles. Detalhes nao disponiveis.</text>
+		<text>Guarda da faccao Duty. Se voce nao e amigo deles, fique longe deles. Detalhes nao disponiveis.</text>
 	</string>
 	<string id="sim_dolg_regular_bio">
-		<text>Stalker da faccao Dever. Detalhes nao disponiveis.</text>
+		<text>Stalker da faccao Duty. Detalhes nao disponiveis.</text>
 	</string>
 	<string id="sim_dolg_sniper_bio">
-		<text>Militante da faccao Dever. Geralmente bem equipado. Detalhes nao disponiveis.</text>
+		<text>Militante da faccao Duty. Geralmente bem equipado. Detalhes nao disponiveis.</text>
 	</string>
 	<string id="sim_dolg_veteran_barin_bio">
 		<text>Um canalha, bajulador, hipocrita e covarde. O lema de Barin bem poderia ser: "Depois de nos, o Diluvio". Aproveita-se de qualquer situacao. Extremamente ambicioso e melindroso. Ele veio para a Zona, sem surpresa, por dinheiro. Ha dois anos, ele tem adquirido bens materiais por todos os meios possiveis.</text>
 	</string>
 	<string id="sim_dolg_veteran_bio">
-		<text>Militante da faccao Dever. Geralmente bem equipado. Detalhes nao disponiveis.</text>
+		<text>Militante da faccao Duty. Geralmente bem equipado. Detalhes nao disponiveis.</text>
 	</string>
 	<string id="sim_dolg_veteran_prapor_bio">
 		<text>Recrutador oficial do Servico de Seguranca Ucraniano. Um visitante frequente do bar. Todos sabem quem ele e, assim como o fato de que ele e o homem a quem recorrer quando voce cai em tempos dificeis. No entanto, uma vez que voce cruza essa linha, nao ha como voltar as fileiras dos stalkers honestos.</text>
@@ -818,19 +818,19 @@
 		<text>Borov</text>
 	</string>
 	<string id="val_dolg_common_bio">
-		<text>Stalker da faccao Dever. Detalhes nao disponiveis.</text>
+		<text>Stalker da faccao Duty. Detalhes nao disponiveis.</text>
 	</string>
 	<string id="val_monolith_common_bio">
 		<text>Stalker do grupo Monolito. Detalhes nao disponiveis.</text>
 	</string>
 	<string id="val_prisoner_bio">
-		<text>Stalker da faccao Dever. Detalhes nao disponiveis.</text>
+		<text>Stalker da faccao Duty. Detalhes nao disponiveis.</text>
 	</string>
 	<string id="val_prisoner_name">
 		<text>Sergei Cabeludo</text>
 	</string>
 	<string id="val_pulia_bio">
-		<text>Stalker da faccao Dever. Detalhes nao disponiveis.</text>
+		<text>Stalker da faccao Duty. Detalhes nao disponiveis.</text>
 	</string>
 	<string id="val_pulia_name">
 		<text>Bala</text>

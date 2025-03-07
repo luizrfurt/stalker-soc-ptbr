@@ -7,7 +7,7 @@
 		<text>Por que?</text>
 	</string>
 	<string id="gar_dolg_blokpost_1111">
-		<text>Porque este e o nosso territorio - territorio do Dever; e somos muito exigentes sobre quem deixamos passar para nossa base. Se voce nao tem nada importante para discutir com nossos lideres, voce nao vai passar daqui.</text>
+		<text>Porque este e o nosso territorio - territorio da Duty; e somos muito exigentes sobre quem deixamos passar para nossa base. Se voce nao tem nada importante para discutir com nossos lideres, voce nao vai passar daqui.</text>
 	</string>
 	<string id="gar_dolg_blokpost_11111">
 		<text>Entendo.</text>
@@ -94,7 +94,7 @@
 		<text>Voce pode me dizer alguma coisa sobre o Lixao?</text>
 	</string>
 	<string id="gar_dramm_novice_start_31">
-		<text>Nao ha muito para contar, cara. O Lixao e... um lixao. Combatentes do Dever guardam a estrada do norte para o Bar. Voce pode querer evita-los - o Dever esta cheio de tipos realmente desagradaveis. A direita estao os caminhos para o Vale Sombrio, mas os niveis de radiacao sao muito altos la. Um pouco mais perto esta o Pantano de Grimpen - pantanos terriveis cheios de anomalias. Dizem que e facil encontrar alguns artefatos decentes la, mas ainda mais facil encontrar muitos problemas. Ah, bem, pelo menos nao ha nenhum Cao dos Baskervilles no Pantano!</text>
+		<text>Nao ha muito para contar, cara. O Lixao e... um lixao. Combatentes da Duty guardam a estrada do norte para o Bar. Voce pode querer evita-los - a Duty esta cheio de tipos realmente desagradaveis. A direita estao os caminhos para o Vale Sombrio, mas os niveis de radiacao sao muito altos la. Um pouco mais perto esta o Pantano de Grimpen - pantanos terriveis cheios de anomalias. Dizem que e facil encontrar alguns artefatos decentes la, mas ainda mais facil encontrar muitos problemas. Ah, bem, pelo menos nao ha nenhum Cao dos Baskervilles no Pantano!</text>
 	</string>
 	<string id="gar_dramm_novice_start_311">
 		<text>Continue.</text>
@@ -157,10 +157,10 @@
 		<text>Meu nome e Bes. Vim para estas partes ha tres anos. Como muitos dos caras na Zona, sou um fugitivo, procurado por dois assassinatos e lesoes corporais graves. Ha alguns anos, um amigo meu foi espancado muito feio - eles tiveram que literalmente costura-lo de volta no hospital. Entao, fiz uma pequena "visita" aos bastardos que fizeram isso. Quando os policiais apareceram, tive que atirar em um deles e pular da janela do terceiro andar - estou aqui desde entao. Me sai bem neste lugar, mas a lista dos meus crimes tambem ficou um pouco maior. Tento lutar contra os sem lei, assim como fazia la fora. Treino novatos e ensino-os a sobreviver na Zona.</text>
 	</string>
 	<string id="gar_hellcar_start_3111311">
-		<text>Entao, por que voce nao se junta ao Dever se voce se sente assim?</text>
+		<text>Entao, por que voce nao se junta ao Duty se voce se sente assim?</text>
 	</string>
 	<string id="gar_hellcar_start_31113111">
-		<text>O Dever luta contra a Zona, eu luto pelas pessoas. Alem disso, eles estao muito ligados ao governo e ao exercito. Nao quero acordar em uma cela fria um dia.</text>
+		<text>O Duty luta contra a Zona, eu luto pelas pessoas. Alem disso, eles estao muito ligados ao governo e ao exercito. Nao quero acordar em uma cela fria um dia.</text>
 	</string>
 	<string id="gar_hellcar_start_311131111">
 		<text>Boa sorte para voce.</text>
@@ -169,7 +169,7 @@
 		<text>Que lugar e este?</text>
 	</string>
 	<string id="gar_hellcar_start_311141">
-		<text>O Lixao. Estamos em casa aqui. Voce ve as pilhas de lixo? Voce nao quer ir la, confie em mim. Tao cheio de lixo radioativo, os contadores Geiger saem da escala. Esta e a unica maneira decente de entrar na Zona e os bandidos tem estado cada vez mais ativos aqui ultimamente. Eles estao com medo de ir mais fundo na Zona, para o territorio do Dever, como os stalkers experientes. Mas essas hienas adoram roubar os novatos aqui. Entao, se ninguem mais se importa, temos que defender nosso territorio e lutar sozinhos.</text>
+		<text>O Lixao. Estamos em casa aqui. Voce ve as pilhas de lixo? Voce nao quer ir la, confie em mim. Tao cheio de lixo radioativo, os contadores Geiger saem da escala. Esta e a unica maneira decente de entrar na Zona e os bandidos tem estado cada vez mais ativos aqui ultimamente. Eles estao com medo de ir mais fundo na Zona, para o territorio da Duty, como os stalkers experientes. Mas essas hienas adoram roubar os novatos aqui. Entao, se ninguem mais se importa, temos que defender nosso territorio e lutar sozinhos.</text>
 	</string>
 	<string id="gar_hellcar_start_3111411">
 		<text>Continue.</text>
@@ -229,7 +229,7 @@
 		<text>O que se pode encontrar no Lixao?</text>
 	</string>
 	<string id="gar_seriy_start_4411">
-		<text>Voce pode encontrar muitos problemas rapidamente, com certeza. Mas ja que voce e um explorador, vou te contar o que sei. Para o leste, ha uma pequena floresta. Nada de interessante la e esta cheia de caes, entao tenha cuidado. Esta linha ferrea o levara a um tunel. Ha muitas anomalias la, talvez outra coisa tambem, mas nao sei - nunca procurei muito. Voce provavelmente sabe sobre o posto de controle do Dever no norte. Isso e basicamente tudo o que sei sobre este lugar.</text>
+		<text>Voce pode encontrar muitos problemas rapidamente, com certeza. Mas ja que voce e um explorador, vou te contar o que sei. Para o leste, ha uma pequena floresta. Nada de interessante la e esta cheia de caes, entao tenha cuidado. Esta linha ferrea o levara a um tunel. Ha muitas anomalias la, talvez outra coisa tambem, mas nao sei - nunca procurei muito. Voce provavelmente sabe sobre o posto de controle da Duty no norte. Isso e basicamente tudo o que sei sobre este lugar.</text>
 	</string>
 	<string id="gar_seriy_start_44112">
 		<text>Obrigado pela informacao.</text>
@@ -238,7 +238,7 @@
 		<text>Escuta, cara, o que posso encontrar neste Lixao?</text>
 	</string>
 	<string id="gar_seryi_about_garbage_1">
-		<text>Voce pode encontrar muitos problemas rapidamente, com certeza. Mas ja que voce e um explorador, vou te contar o que sei. Para o leste, ha uma pequena floresta. Nada de interessante la e esta cheia de caes, entao tenha cuidado. Esta linha ferrea o levara a um tunel. Ha muitas anomalias la, talvez outra coisa tambem, mas nao sei - nunca procurei muito. Voce provavelmente sabe sobre o posto de controle do Dever no norte. Isso e basicamente tudo o que sei sobre este lugar.</text>
+		<text>Voce pode encontrar muitos problemas rapidamente, com certeza. Mas ja que voce e um explorador, vou te contar o que sei. Para o leste, ha uma pequena floresta. Nada de interessante la e esta cheia de caes, entao tenha cuidado. Esta linha ferrea o levara a um tunel. Ha muitas anomalias la, talvez outra coisa tambem, mas nao sei - nunca procurei muito. Voce provavelmente sabe sobre o posto de controle da Duty no norte. Isso e basicamente tudo o que sei sobre este lugar.</text>
 	</string>
 	<string id="gar_seryi_about_garbage_11">
 		<text>Obrigado pela informacao. Vou me lembrar disso.</text>

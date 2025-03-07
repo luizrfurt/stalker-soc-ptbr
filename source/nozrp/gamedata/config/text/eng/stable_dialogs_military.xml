@@ -10,10 +10,10 @@
 		<text>Ah, e quao importante e isso?</text>
 	</string>
 	<string id="mil_bodyguard_dialog_5">
-		<text>Encontrei um grupo de membros do Dever nao muito longe da sua base.</text>
+		<text>Encontrei um grupo de membros da Duty nao muito longe da sua base.</text>
 	</string>
 	<string id="mil_bodyguard_dialog_6">
-		<text>Uh-oh... Parece que o Dever esta tentando se igualar de novo... Ok, voce pode entrar, mas certifique-se de guardar essa arma. Nem pense em fazer bagunca aqui, ou voce saira daqui com os pes na frente.</text>
+		<text>Uh-oh... Parece que a Duty esta tentando se igualar de novo... Ok, voce pode entrar, mas certifique-se de guardar essa arma. Nem pense em fazer bagunca aqui, ou voce saira daqui com os pes na frente.</text>
 	</string>
 	<string id="mil_bodyguard_dialog_7">
 		<text>OK.</text>
@@ -271,7 +271,7 @@
 		<text>S-serio? Uau, esses... i-idiotas...</text>
 	</string>
 	<string id="mil_dolg_skull_dialog_100">
-		<text>Ola, irmao. Sou um membro do Dever e estamos aqui em missao. Gostaria de se juntar a nos?</text>
+		<text>Ola, irmao. Sou um membro da Duty e estamos aqui em missao. Gostaria de se juntar a nos?</text>
 	</string>
 	<string id="mil_dolg_skull_dialog_1001">
 		<text>Nao estou particularmente interessado.</text>
@@ -547,7 +547,7 @@
 		<text>Por que voces fazem isso?</text>
 	</string>
 	<string id="mil_freedom_commander_common2_5">
-		<text>Quem mais, senao nos? Dever? Eles sao os melhores quando se trata de erradicar monstros e eliminar stalkers indesejados, mas voce deveria tentar faze-los realmente fazerem algo util! Voce os ve aqui? Nao? E isso que quero dizer. Nos, por outro lado, nao pretendemos destruir as criaturas que vivem aqui. Uma barreira, uma barreira normal - isso deve ser suficiente. Desde que nenhum lado cruze a linha...</text>
+		<text>Quem mais, senao nos? Duty? Eles sao os melhores quando se trata de erradicar monstros e eliminar stalkers indesejados, mas voce deveria tentar faze-los realmente fazerem algo util! Voce os ve aqui? Nao? E isso que quero dizer. Nos, por outro lado, nao pretendemos destruir as criaturas que vivem aqui. Uma barreira, uma barreira normal - isso deve ser suficiente. Desde que nenhum lado cruze a linha...</text>
 	</string>
 	<string id="mil_freedom_commander_common2_6">
 		<text>E se alguem cruzar?</text>
@@ -733,7 +733,7 @@
 		<text>Entao vamos sair daqui, OK? Tempo e dinheiro.</text>
 	</string>
 	<string id="mil_leader_start_dialog_1100">
-		<text>Eu vi um grupo de membros do Dever em uma fazenda perto da sua base. Cerca de oito homens, bem equipados.</text>
+		<text>Eu vi um grupo de membros da Duty em uma fazenda perto da sua base. Cerca de oito homens, bem equipados.</text>
 	</string>
 	<string id="mil_leader_start_dialog_11001">
 		<text>Por que diabos voce saiu da Barreira? Saia daqui e nao deixe que eu te veja perto da minha base nunca mais.</text>
@@ -862,7 +862,7 @@
 		<text>Eu te disse - va para a Barreira.</text>
 	</string>
 	<string id="mil_max_dialog_10001">
-		<text>Nos conversaremos depois que derrubarmos aqueles idiotas do Dever.</text>
+		<text>Nos conversaremos depois que derrubarmos aqueles idiotas da Duty.</text>
 	</string>
 	<string id="mil_max_dialog_10002">
 		<text>OK.</text>
@@ -874,7 +874,7 @@
 		<text>Nao.</text>
 	</string>
 	<string id="mil_max_dialog_1101">
-		<text>Droga... O Dever tem algo no traseiro de novo! Ah, bem. Vem com a gente, quer?</text>
+		<text>Droga... O Duty tem algo no traseiro de novo! Ah, bem. Vem com a gente, quer?</text>
 	</string>
 	<string id="mil_max_dialog_1102">
 		<text>OK.</text>
@@ -898,7 +898,7 @@
 		<text>Tem alguma pergunta?</text>
 	</string>
 	<string id="mil_max_dialog_3002">
-		<text>Sim. Lukash me disse para interceptar o mensageiro do Dever a caminho da Floresta Vermelha para a Cidade Morta. Voce poderia me dizer o melhor lugar para fazer isso?</text>
+		<text>Sim. Lukash me disse para interceptar o mensageiro da Duty a caminho da Floresta Vermelha para a Cidade Morta. Voce poderia me dizer o melhor lugar para fazer isso?</text>
 	</string>
 	<string id="mil_max_dialog_3003">
 		<text>Hmm. O melhor seria pega-lo antes que ele chegasse a fazenda perto da passagem para a Cidade Morta. Reforcos certamente estarao esperando por ele la, entao voce teria problemas para lidar com todos eles. Alem disso, assim voce teria que passar pela vila, o que e ruim. E melhor ir para o leste da vila, e rapido.</text>
@@ -1111,7 +1111,7 @@
 		<text>Interessante...</text>
 	</string>
 	<string id="mil_trader_dialog_3005">
-		<text>Posso te dar um Cristal se voce me fizer um favor em particular. Uma situacao desagradavel se desenvolveu... Ultimamente, ninguem tem trazido nenhum artefato da vila - eles estao com muito medo. Eles dizem que sanguessugas se instalaram la. Hoje em dia, nem consigo mandar ninguem - na verdade, estou quase pedindo ajuda ao Dever!</text>
+		<text>Posso te dar um Cristal se voce me fizer um favor em particular. Uma situacao desagradavel se desenvolveu... Ultimamente, ninguem tem trazido nenhum artefato da vila - eles estao com muito medo. Eles dizem que sanguessugas se instalaram la. Hoje em dia, nem consigo mandar ninguem - na verdade, estou quase pedindo ajuda ao Duty!</text>
 	</string>
 	<string id="mil_trader_dialog_3006">
 		<text>Continue.</text>

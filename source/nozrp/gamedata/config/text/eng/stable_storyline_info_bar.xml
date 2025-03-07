@@ -1,8 +1,8 @@
 	<string id="descr_bar_crazy_veterans_quest">
-		<text>Bartender: "O Dever tem uma reputacao a zelar. E por isso que eles querem que isso seja feito silenciosamente. Tudo o que voce precisa fazer e matar o lider chamado Sortudo e trazer o PDA dele como prova."</text>
+		<text>Bartender: "O Duty tem uma reputacao a zelar. E por isso que eles querem que isso seja feito silenciosamente. Tudo o que voce precisa fazer e matar o lider chamado Sortudo e trazer o PDA dele como prova."</text>
 	</string>
 	<string id="descr_bar_dolg_community_quest">
-		<text>Para se juntar ao Dever, voce precisara da aprovacao de um dos lutadores mais respeitados do grupo e tambem provar ao lider do Dever que voce e digno de seu lugar em suas fileiras.</text>
+		<text>Para se juntar ao Duty, voce precisara da aprovacao de um dos lutadores mais respeitados do grupo e tambem provar ao lider da Duty que voce e digno de seu lugar em suas fileiras.</text>
 	</string>
 	<string id="descr_bar_dolg_svoboda_ambush_quest">
 		<text>Bartender: "Sua missao e matar Tirano, o lider dos Mercs. Sua equipe chegou ao Territorio Selvagem e montou uma base no canteiro de obras. Tenha cuidado, alguns de seus lutadores montaram emboscadas no caminho para o local. Traga-me o PDA de Tirano e a recompensa e sua."</text>
@@ -11,7 +11,7 @@
 		<text>General Voronin: "A guerra com a Liberdade esta chegando ao fim, Marca. Voce desempenhou seu papel na luta pela causa! Agora quero terminar esta guerra. O lider da Liberdade deve ser eliminado."</text>
 	</string>
 	<string id="descr_bar_dolg_test_quest">
-		<text>Capitao Ivantsov: "...antes de chegarmos as conclusoes, passe em um teste facil. Voce tem que pegar uma pasta do predio abandonado em frente. Nao e dificil, basta entrar, pegar a pasta e traze-la para mim. Moleza, certo? Quando eu tiver a pasta, decidiremos se voce esta apto a se juntar ao Dever ou nao."</text>
+		<text>Capitao Ivantsov: "...antes de chegarmos as conclusoes, passe em um teste facil. Voce tem que pegar uma pasta do predio abandonado em frente. Nao e dificil, basta entrar, pegar a pasta e traze-la para mim. Moleza, certo? Quando eu tiver a pasta, decidiremos se voce esta apto a se juntar ao Duty ou nao."</text>
 	</string>
 	<string id="descr_bar_hunter_rifle">
 		<text>Cacador: "Traga o rifle de volta. Perdi-o no lugar onde os sanguessugas vivem. Vou enviar as coordenadas para voce. E tenha cuidado, aqueles bastardos nao sao brincadeira."</text>
@@ -41,7 +41,7 @@
 		<text>Hmm... Os comerciantes desenterraram muitas informacoes sobre esses laboratorios. Bartender nao ficou surpreso ao descobrir sobre os emissores e o X16. Agora ele esta convencido de que este Desintegrador Psiquico e feito pelo homem. Ele acha que o Lab X16 esta perto do acampamento dos cientistas perto do Lago Yantar. E interessante que eles estejam estudando emissoes que se assemelham aos efeitos do Desintegrador. Entao agora devo fazer uma visita a comunidade cientifica da Zona.</text>
 	</string>
 	<string id="journal_before_darklab_documents">
-		<text>Encontrei-me com Bartender. Depois de examinar os documentos do Instituto, ele acha que este X18 esta no chamado Vale Sombrio e me pediu para ir la procurar informacoes e documentos. Ele diz que enviou batedores do Dever para entrar nos cofres subterraneos la, mas eles desapareceram. Bartender acha que eles foram capturados por bandidos que tem uma base proxima. Se isso for verdade, tudo o que aqueles caras do Dever encontraram estara nas maos de Borov, o lider dos bandidos. Bartender me disse para ter cuidado e... claramente nao me disse tudo sobre esses cofres subterraneos. Ah, bem, hora de trabalhar: primeiro de tudo, preciso fazer uma visita a Borov e, se a "conversa" correr bem, explorarei o subterraneo.</text>
+		<text>Encontrei-me com Bartender. Depois de examinar os documentos do Instituto, ele acha que este X18 esta no chamado Vale Sombrio e me pediu para ir la procurar informacoes e documentos. Ele diz que enviou batedores da Duty para entrar nos cofres subterraneos la, mas eles desapareceram. Bartender acha que eles foram capturados por bandidos que tem uma base proxima. Se isso for verdade, tudo o que aqueles caras da Duty encontraram estara nas maos de Borov, o lider dos bandidos. Bartender me disse para ter cuidado e... claramente nao me disse tudo sobre esses cofres subterraneos. Ah, bem, hora de trabalhar: primeiro de tudo, preciso fazer uma visita a Borov e, se a "conversa" correr bem, explorarei o subterraneo.</text>
 	</string>
 	<string id="journal_before_radar_task">
 		<text>Bem, estou pronto para ir ao Desintegrador. Descobri com Louco os horarios em que os niveis de emissao diminuem. Ele tambem me contou sobre um lugar seguro onde posso esperar por esses periodos. Minha protecao psi nao funcionara em outros momentos de qualquer maneira. Terei que encontrar uma maneira de entrar no bunker subterraneo do Lab X19. La dentro, devo encontrar os controles para as antenas do Desintegrador Psiquico.</text>

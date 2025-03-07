@@ -26,10 +26,10 @@
 		<text>Stalker louco.</text>
 	</string>
 	<string id="mil_dolg">
-		<text>Faccao Dever</text>
+		<text>Faccao Duty</text>
 	</string>
 	<string id="mil_dolg_assault_freedom">
-		<text>Ajude a faccao Dever a eliminar Lukash</text>
+		<text>Ajude a faccao Duty a eliminar Lukash</text>
 	</string>
 	<string id="mil_kill_lukash">
 		<text>Mate Lukash</text>
@@ -38,7 +38,7 @@
 		<text>Livre-se do sniper</text>
 	</string>
 	<string id="mil_dolg_return_to_khutor">
-		<text>Volte para a fazenda do Dever e receba minha taxa</text>
+		<text>Volte para a fazenda da Duty e receba minha taxa</text>
 	</string>
 	<string id="mil_dolg_return_to_skull">
 		<text>Volte para Cranio</text>
@@ -86,7 +86,7 @@
 		<text>Mate os sanguessugas</text>
 	</string>
 	<string id="mil_kill_dolg">
-		<text>Destrua o esquadrao do Dever.</text>
+		<text>Destrua o esquadrao da Duty.</text>
 	</string>
 	<string id="mil_lukash">
 		<text>Lukash.</text>
@@ -101,7 +101,7 @@
 		<text>Mate o sniper da torre</text>
 	</string>
 	<string id="mil_quest_report_dolg">
-		<text>Relate sobre a missao para o esquadrao do Dever</text>
+		<text>Relate sobre a missao para o esquadrao da Duty</text>
 	</string>
 	<string id="mil_return_lukash">
 		<text>Volte para Lukash.</text>
@@ -146,5 +146,5 @@
 		<text>Sombra.</text>
 	</string>
 	<string id="mil_lukash_job">
-		<text>Destrua a companhia do Dever</text>
+		<text>Destrua a companhia da Duty</text>
 	</string>

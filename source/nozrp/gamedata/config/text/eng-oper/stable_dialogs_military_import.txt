@@ -1,8 +1,8 @@
 4|<text>O que voce quer?</text>
 7|<text>Estou procurando o lider da Liberdade. Tenho informacoes extremamente importantes para ele.</text>
 10|<text>Ah, e quao importante e isso?</text>
-13|<text>Encontrei um grupo de membros do Dever nao muito longe da sua base.</text>
-16|<text>Uh-oh... Parece que o Dever esta tentando se igualar de novo... Ok, voce pode entrar, mas certifique-se de guardar essa arma. Nem pense em fazer bagunca aqui, ou voce saira daqui com os pes na frente.</text>
+13|<text>Encontrei um grupo de membros da Duty nao muito longe da sua base.</text>
+16|<text>Uh-oh... Parece que a Duty esta tentando se igualar de novo... Ok, voce pode entrar, mas certifique-se de guardar essa arma. Nem pense em fazer bagunca aqui, ou voce saira daqui com os pes na frente.</text>
 19|<text>OK.</text>
 22|<text>Boa tarde.</text>
 25|<text>Uh-huh!</text>
@@ -88,7 +88,7 @@
 265|<text>Soluco! Bulldog 6, hein?</text>
 268|<text>Q-que?.. Oh! Bem, ele... ele esta na vila! Nos tinhamos... dois deles... mas aqueles... r-retardados! Eles perderam... desperdicaram!</text>
 271|<text>S-serio? Uau, esses... i-idiotas...</text>
-274|<text>Ola, irmao. Sou um membro do Dever e estamos aqui em missao. Gostaria de se juntar a nos?</text>
+274|<text>Ola, irmao. Sou um membro da Duty e estamos aqui em missao. Gostaria de se juntar a nos?</text>
 277|<text>Nao estou particularmente interessado.</text>
 280|<text>Entao saia do nosso caminho... errante.</text>
 283|<text>Eu topo.</text>
@@ -180,7 +180,7 @@
 541|<text>O que ha alem dele?</text>
 544|<text>Apenas morte... ou servir o Monolito. "Nosso Monolito! Em seu nome nos..." Droga! Em resumo, ninguem precisa ir la. E por isso que estamos baseados aqui, tentando evitar que a sujeira infeste a Zona. Como uma especie de Jedis, hehe. Tambem detemos os realmente estupidos - ou pelo menos tentamos nao deixa-los entrar no centro.</text>
 547|<text>Por que voces fazem isso?</text>
-550|<text>Quem mais, senao nos? Dever? Eles sao os melhores quando se trata de erradicar monstros e eliminar stalkers indesejados, mas voce deveria tentar faze-los realmente fazerem algo util! Voce os ve aqui? Nao? E isso que quero dizer. Nos, por outro lado, nao pretendemos destruir as criaturas que vivem aqui. Uma barreira, uma barreira normal - isso deve ser suficiente. Desde que nenhum lado cruze a linha...</text>
+550|<text>Quem mais, senao nos? Duty? Eles sao os melhores quando se trata de erradicar monstros e eliminar stalkers indesejados, mas voce deveria tentar faze-los realmente fazerem algo util! Voce os ve aqui? Nao? E isso que quero dizer. Nos, por outro lado, nao pretendemos destruir as criaturas que vivem aqui. Uma barreira, uma barreira normal - isso deve ser suficiente. Desde que nenhum lado cruze a linha...</text>
 553|<text>E se alguem cruzar?</text>
 556|<text>Tudo pode acontecer. Tudo. Eu nao quero...</text>
 559|<text>Pare! O acesso ao arsenal e restrito apenas a membros da Liberdade.</text>
@@ -242,7 +242,7 @@
 727|<text>Ei, stalker. O que voce precisa?</text>
 730|<text>Nada demais, na verdade.</text>
 733|<text>Entao vamos sair daqui, OK? Tempo e dinheiro.</text>
-736|<text>Eu vi um grupo de membros do Dever em uma fazenda perto da sua base. Cerca de oito homens, bem equipados.</text>
+736|<text>Eu vi um grupo de membros da Duty em uma fazenda perto da sua base. Cerca de oito homens, bem equipados.</text>
 739|<text>Por que diabos voce saiu da Barreira? Saia daqui e nao deixe que eu te veja perto da minha base nunca mais.</text>
 742|<text>Droga, esses punks nao vao se acalmar! Tudo bem, teremos que dar uma licao neles. Ei, stalker, quer nos ajudar por uma recompensa? Fale com Max, nosso chefe. Voces dois vao montar uma equipe e eliminar esses otarios.</text>
 745|<text>OK.</text>
@@ -285,11 +285,11 @@
 856|<text>Tem algum trabalho?</text>
 859|<text>Nao agora.</text>
 862|<text>Eu te disse - va para a Barreira.</text>
-865|<text>Nos conversaremos depois que derrubarmos aqueles idiotas do Dever.</text>
+865|<text>Nos conversaremos depois que derrubarmos aqueles idiotas da Duty.</text>
 868|<text>OK.</text>
 871|<text>Lukash disse que voce faria. Voce viu aqueles... na fazenda?</text>
 874|<text>Nao.</text>
-877|<text>Droga... O Dever tem algo no traseiro de novo! Ah, bem. Vem com a gente, quer?</text>
+877|<text>Droga... O Duty tem algo no traseiro de novo! Ah, bem. Vem com a gente, quer?</text>
 880|<text>OK.</text>
 883|<text>Sim.</text>
 886|<text>Ha muitos deles?</text>
@@ -297,7 +297,7 @@
 892|<text>Cerca de seis a oito pessoas. Razoavelmente equipados.</text>
 895|<text>Va falar com Lukash.</text>
 898|<text>Tem alguma pergunta?</text>
-901|<text>Sim. Lukash me disse para interceptar o mensageiro do Dever a caminho da Floresta Vermelha para a Cidade Morta. Voce poderia me dizer o melhor lugar para fazer isso?</text>
+901|<text>Sim. Lukash me disse para interceptar o mensageiro da Duty a caminho da Floresta Vermelha para a Cidade Morta. Voce poderia me dizer o melhor lugar para fazer isso?</text>
 904|<text>Hmm. O melhor seria pega-lo antes que ele chegasse a fazenda perto da passagem para a Cidade Morta. Reforcos certamente estarao esperando por ele la, entao voce teria problemas para lidar com todos eles. Alem disso, assim voce teria que passar pela vila, o que e ruim. E melhor ir para o leste da vila, e rapido.</text>
 907|<text>O que tem na vila?</text>
 910|<text>Acredite em mim - nem uma unica coisa boa. Muitos monstros vagando por ai, e anomalias tambem. Eu te conto sobre isso mais tarde.</text>
@@ -368,7 +368,7 @@
 1105|<text>Nada... so olhando em volta.</text>
 1108|<text>Voce deveria fazer algo util, em vez disso. Especialmente porque tenho algo que pode te interessar... Quer ganhar um dinheiro, hein?</text>
 1111|<text>Interessante...</text>
-1114|<text>Posso te dar um Cristal se voce me fizer um favor em particular. Uma situacao desagradavel se desenvolveu... Ultimamente, ninguem tem trazido nenhum artefato da vila - eles estao com muito medo. Eles dizem que sanguessugas se instalaram la. Hoje em dia, nem consigo mandar ninguem - na verdade, estou quase pedindo ajuda ao Dever!</text>
+1114|<text>Posso te dar um Cristal se voce me fizer um favor em particular. Uma situacao desagradavel se desenvolveu... Ultimamente, ninguem tem trazido nenhum artefato da vila - eles estao com muito medo. Eles dizem que sanguessugas se instalaram la. Hoje em dia, nem consigo mandar ninguem - na verdade, estou quase pedindo ajuda ao Duty!</text>
 1117|<text>Continue.</text>
 1120|<text>Um par de caras foi para a vila e nao voltou, e os outros tres estao apenas sentados la nos arredores. Se voce destruir os sanguessugas, eu te darei um Cristal. O que voce diz?</text>
 1123|<text>Nao agora.</text>

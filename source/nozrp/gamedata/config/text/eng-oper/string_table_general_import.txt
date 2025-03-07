@@ -1,10 +1,10 @@
 4|<text>Errante</text>
-7|<text>Dever</text>
+7|<text>Duty</text>
 10|<text>Liberdade</text>
 13|<text>Merc</text>
 16|<text>ruim</text>
 19|<text>Bandido</text>
-22|<text>Dever</text>
+22|<text>Duty</text>
 25|<text>Ecologista</text>
 28|<text>inimigo</text>
 31|<text>excelente</text>

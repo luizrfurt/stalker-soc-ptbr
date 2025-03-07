@@ -8,19 +8,19 @@
 		<text>Mate os veteranos loucos</text>
 	</string>
 	<string id="bar_dolg_base_rules">
-		<text>Registre-se com o comandante da guarda do Dever</text>
+		<text>Registre-se com o comandante da guarda da Duty</text>
 	</string>
 	<string id="bar_dolg_base_rules_fin">
 		<text>Volte para Bartender</text>
 	</string>
 	<string id="bar_dolg_base_rules_talk">
-		<text>Encontre o comandante da guarda do Dever e registre-se</text>
+		<text>Encontre o comandante da guarda da Duty e registre-se</text>
 	</string>
 	<string id="bar_dolg_bring_rg6">
 		<text>Obtenha um Bulldog 6 para o General Voronin</text>
 	</string>
 	<string id="bar_dolg_community_quest">
-		<text>Junte-se a faccao Dever</text>
+		<text>Junte-se a faccao Duty</text>
 	</string>
 	<string id="bar_dolg_community_quest_prisyaga">
 		<text>Faca o juramento</text>
@@ -29,7 +29,7 @@
 		<text>Obtenha uma referencia do Capitao Ivantsov</text>
 	</string>
 	<string id="bar_dolg_community_quest_vernost">
-		<text>Prove sua lealdade ao Dever</text>
+		<text>Prove sua lealdade ao Duty</text>
 	</string>
 	<string id="bar_dolg_find_cook">
 		<text>Ganhe a confianca do cozinheiro da Liberdade e descubra onde os Bulldogs 6 estao armazenados</text>
@@ -50,7 +50,7 @@
 		<text>Traga o Bulldog 6 para o General Voronin</text>
 	</string>
 	<string id="bar_dolg_rg6_quest">
-		<text>Missao necessaria para se juntar ao Dever</text>
+		<text>Missao necessaria para se juntar ao Duty</text>
 	</string>
 	<string id="bar_dolg_svoboda_ambush_quest">
 		<text>Elimine os Mercs</text>

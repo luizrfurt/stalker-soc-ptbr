@@ -13,9 +13,9 @@
 38|<text>cao rato</text>
 41|<text>cao albino</text>
 44|<text>cao selvagem</text>
-47|<text>Dever, experiente</text>
-50|<text>Dever, especialista</text>
-53|<text>Dever, veterano</text>
+47|<text>Duty, experiente</text>
+50|<text>Duty, especialista</text>
+53|<text>Duty, veterano</text>
 56|<text>cientista, instruido</text>
 59|<text>cientista, assistente</text>
 62|<text>carniceiro da floresta</text>

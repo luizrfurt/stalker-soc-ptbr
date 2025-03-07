@@ -7,11 +7,11 @@
 20|<text>Livre-se do agente.</text>
 23|<text>Relate a Lukash sobre a missao.</text>
 26|<text>Stalker louco.</text>
-29|<text>Faccao Dever</text>
-32|<text>Ajude a faccao Dever a eliminar Lukash</text>
+29|<text>Faccao Duty</text>
+32|<text>Ajude a faccao Duty a eliminar Lukash</text>
 35|<text>Mate Lukash</text>
 38|<text>Livre-se do sniper</text>
-41|<text>Volte para a fazenda do Dever e receba minha taxa</text>
+41|<text>Volte para a fazenda da Duty e receba minha taxa</text>
 44|<text>Volte para Cranio</text>
 47|<text>Comandante do posto avancado Cap</text>
 50|<text>Ajude a destruir o esquadrao de ataque do Monolito</text>
@@ -27,12 +27,12 @@
 80|<text>Mate os sanguessugas na vila</text>
 83|<text>Mate os sanguessugas</text>
 86|<text>Mate os sanguessugas</text>
-89|<text>Destrua o esquadrao do Dever.</text>
+89|<text>Destrua o esquadrao da Duty.</text>
 92|<text>Lukash.</text>
 95|<text>Max.</text>
 98|<text>De o pendrive para Max.</text>
 101|<text>Mate o sniper da torre</text>
-104|<text>Relate sobre a missao para o esquadrao do Dever</text>
+104|<text>Relate sobre a missao para o esquadrao da Duty</text>
 107|<text>Volte para Lukash.</text>
 110|<text>Relate a Sombra sobre a missao</text>
 113|<text>Traga o Bulldog 6 para o General Voronin</text>
@@ -47,4 +47,4 @@
 140|<text>Levante o Bulldog 6 no ar se a missao for concluida, o TRs 301 em caso de falha</text>
 143|<text>Missao de teste</text>
 146|<text>Sombra.</text>
-149|<text>Destrua a companhia do Dever</text>
+149|<text>Destrua a companhia da Duty</text>

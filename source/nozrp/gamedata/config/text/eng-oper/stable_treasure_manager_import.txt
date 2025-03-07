@@ -64,7 +64,7 @@
 193|<text>Coisas boas do stalker</text>
 196|<text>Desenterrei algumas coisas boas aqui. Um local inteligente para meu esconderijo secreto. Nao tem como voce encontrar em um barril amarelo.</text>
 199|<text>Buraco de toupeira</text>
-202|<text>Escondi a mochila perto da base do Dever. Pego depois.</text>
+202|<text>Escondi a mochila perto da base da Duty. Pego depois.</text>
 205|<text>Mochila escondida</text>
 208|<text>Uma grande matilha de caes veio atras de mim. Se eu nao tivesse deixado minha mochila, nao teria chegado ao portao.</text>
 211|<text>A mochila que foi deixada para tras</text>
@@ -72,17 +72,17 @@
 217|<text>Esconderijo secreto sob a cruz</text>
 220|<text>Deixei minha mochila cair aqui - sera mais facil assim</text>
 223|<text>Mochila</text>
-226|<text>A municao do posto de seguranca do Dever e armazenada em um bunker, mas ninguem esta de olho no bau</text>
+226|<text>A municao do posto de seguranca da Duty e armazenada em um bunker, mas ninguem esta de olho no bau</text>
 229|<text>Suprimentos no bunker</text>
-232|<text>Eu vi um membro do Dever enfiar algo no cano perto do portao</text>
+232|<text>Eu vi um membro da Duty enfiar algo no cano perto do portao</text>
 235|<text>Esconderijo secreto</text>
 238|<text>Tudo isso pertencia a ele, pode muito bem ficar aqui por enquanto</text>
 241|<text>Esconderijo secreto sob a cruz</text>
 244|<text>Vou para o bar, deixei a mochila no hangar</text>
 247|<text>Mochila</text>
-250|<text>Dizem que ha algo valioso escondido no territorio do Dever na central telefonica.</text>
+250|<text>Dizem que ha algo valioso escondido no territorio da Duty na central telefonica.</text>
 253|<text>Central telefonica com um esconderijo secreto</text>
-256|<text>Enfiei o bau no topo da torre em frente ao Dever - ninguem vai notar</text>
+256|<text>Enfiei o bau no topo da torre em frente ao Duty - ninguem vai notar</text>
 259|<text>Esconderijo secreto na torre</text>
 262|<text>Escondi no cano sob a escada</text>
 265|<text>Esconderijo secreto</text>
@@ -184,7 +184,7 @@
 553|<text>Cano perto do onibus</text>
 556|<text>E facil esconder a mochila nas ruinas. Espero que nao seja dificil pega-la, se os bandidos nao atrapalharem.</text>
 559|<text>Mochila nas ruinas</text>
-562|<text>Enquanto os membros do Dever estavam atirando, escondi o habar no vagao de trem. De alguma forma, tenho que entrar para pega-lo. E para agradecer ao Dever.</text>
+562|<text>Enquanto os membros da Duty estavam atirando, escondi o habar no vagao de trem. De alguma forma, tenho que entrar para pega-lo. E para agradecer ao Duty.</text>
 565|<text>Bau no posto de controle militar fortemente armado</text>
 568|<text>Dizem que o Fraco morreu no Lixao - preciso passar para verificar as mercadorias. Caso contrario, havera muitos interessados chegando.</text>
 571|<text>Mochila do Fraco</text>
@@ -269,7 +269,7 @@
 808|<text>Dizem que ha um cofre meio enterrado na floresta e ha um monte de mercadorias dentro</text>
 811|<text>Mercadorias no cofre</text>
 814|<text>Eles foram avisados para nao voar sobre o Desintegrador Psiquico, e veja o que aconteceu. Eles pousaram no meio da floresta, e e improvavel que alguem tenha sobrevivido. Deveriamos pegar as coisas que estavam com eles.</text>
-817|<text>Pacote para o Dever</text>
+817|<text>Pacote para a Duty</text>
 820|<text>Dizem que os suprimentos da faccao, que estavam tentando chegar ao centro da Zona, ainda estao sob a radiacao do Desintegrador Psiquico. Nenhum deles retornou, e os suprimentos permaneceram la esperando que alguem os pegasse.</text>
 823|<text>Suprimentos do grupo imprudente</text>
 826|<text>Dizem que o lider de alguma faccao anterior morreu aqui, e havia uma quantidade valiosa de mercadorias com ele</text>

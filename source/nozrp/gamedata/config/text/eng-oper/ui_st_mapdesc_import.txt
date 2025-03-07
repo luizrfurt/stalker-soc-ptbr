@@ -20,5 +20,5 @@
 61|<text>Uma pequena estacao ferroviaria na fabrica Rostok. Os vagoes de trem enferrujados e as locomotivas a diesel agora estao em uma bifurcacao eterna na estrada. Os muitos artefatos encontrados aqui atraem stalkers desesperados de toda a Zona.</text>
 64|<text>Sob pilhas de metal e atras de paredes de concreto, esta fabrica guarda um tipo especial de silencio. No seculo passado, fervilhava de atividade com os trabalhadores correndo para seu turno com slogans ecoando dos alto-falantes... Mas agora a fabrica ja fez sua parte do trabalho.</text>
 67|<text>A fabrica abandonada guarda um profundo silencio sob pilhas de metal e atras de paredes de concreto.</text>
-70|<text>Os arredores da fabrica Rostok antes da chegada do Dever. Esta area dilapidada e, no entanto, muito rica em artefatos. Os hangares e armazens vazios fervilham de cem perigos a cada passo do caminho. Seja extremamente cuidadoso e fique de olho na torre branca.</text>
-73|<text>Os arredores da fabrica Rostok antes da chegada do Dever. Esta area dilapidada e, no entanto, muito rica em artefatos.</text>
+70|<text>Os arredores da fabrica Rostok antes da chegada da Duty. Esta area dilapidada e, no entanto, muito rica em artefatos. Os hangares e armazens vazios fervilham de cem perigos a cada passo do caminho. Seja extremamente cuidadoso e fique de olho na torre branca.</text>
+73|<text>Os arredores da fabrica Rostok antes da chegada da Duty. Esta area dilapidada e, no entanto, muito rica em artefatos.</text>

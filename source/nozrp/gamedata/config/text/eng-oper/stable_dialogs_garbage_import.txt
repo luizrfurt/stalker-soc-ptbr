@@ -1,6 +1,6 @@
 4|<text>Pare, stalker. Voce nao pode ir mais longe!</text>
 7|<text>Por que?</text>
-10|<text>Porque este e o nosso territorio - territorio do Dever; e somos muito exigentes sobre quem deixamos passar para nossa base. Se voce nao tem nada importante para discutir com nossos lideres, voce nao vai passar daqui.</text>
+10|<text>Porque este e o nosso territorio - territorio da Duty; e somos muito exigentes sobre quem deixamos passar para nossa base. Se voce nao tem nada importante para discutir com nossos lideres, voce nao vai passar daqui.</text>
 13|<text>Entendo.</text>
 16|<text>Essas sao as regras.</text>
 19|<text>Eu preciso passar, tenho negocios com o Bartender.</text>
@@ -29,7 +29,7 @@
 88|<text>Estamos tentando limpar o Lixao de bandidos. Meus amigos vao emboscar um esquadrao de bandidos por perto. Se nao os pararmos, eles vao assumir o controle do Lixao e ninguem podera ir mais fundo na Zona. Fale com nosso comandante. Ele e seus homens estao perto daqui, no ferro-velho de maquinas. Eu mesmo estou indo para la - podemos ir juntos se voce quiser.</text>
 91|<text>Vamos la.</text>
 94|<text>Voce pode me dizer alguma coisa sobre o Lixao?</text>
-97|<text>Nao ha muito para contar, cara. O Lixao e... um lixao. Combatentes do Dever guardam a estrada do norte para o Bar. Voce pode querer evita-los - o Dever esta cheio de tipos realmente desagradaveis. A direita estao os caminhos para o Vale Sombrio, mas os niveis de radiacao sao muito altos la. Um pouco mais perto esta o Pantano de Grimpen - pantanos terriveis cheios de anomalias. Dizem que e facil encontrar alguns artefatos decentes la, mas ainda mais facil encontrar muitos problemas. Ah, bem, pelo menos nao ha nenhum Cao dos Baskervilles no Pantano!</text>
+97|<text>Nao ha muito para contar, cara. O Lixao e... um lixao. Combatentes da Duty guardam a estrada do norte para o Bar. Voce pode querer evita-los - a Duty esta cheio de tipos realmente desagradaveis. A direita estao os caminhos para o Vale Sombrio, mas os niveis de radiacao sao muito altos la. Um pouco mais perto esta o Pantano de Grimpen - pantanos terriveis cheios de anomalias. Dizem que e facil encontrar alguns artefatos decentes la, mas ainda mais facil encontrar muitos problemas. Ah, bem, pelo menos nao ha nenhum Cao dos Baskervilles no Pantano!</text>
 100|<text>Continue.</text>
 103|<text>A direita, perto dos pantanos, ha um esconderijo secreto. Voce vera uma construcao metalica pendurada sobre uma poca. Meu esconderijo esta logo abaixo dela... Eu o coloquei la ha um tempo, mas voce salvou minha vida e provavelmente precisa dele mais do que eu de qualquer maneira. Entao, fique a vontade para usa-lo.</text>
 106|<text>Obrigado, cara, essa informacao e util.</text>
@@ -50,11 +50,11 @@
 151|<text>Obrigado.</text>
 154|<text>Fale-me sobre voce.</text>
 157|<text>Meu nome e Bes. Vim para estas partes ha tres anos. Como muitos dos caras na Zona, sou um fugitivo, procurado por dois assassinatos e lesoes corporais graves. Ha alguns anos, um amigo meu foi espancado muito feio - eles tiveram que literalmente costura-lo de volta no hospital. Entao, fiz uma pequena "visita" aos bastardos que fizeram isso. Quando os policiais apareceram, tive que atirar em um deles e pular da janela do terceiro andar - estou aqui desde entao. Me sai bem neste lugar, mas a lista dos meus crimes tambem ficou um pouco maior. Tento lutar contra os sem lei, assim como fazia la fora. Treino novatos e ensino-os a sobreviver na Zona.</text>
-160|<text>Entao, por que voce nao se junta ao Dever se voce se sente assim?</text>
-163|<text>O Dever luta contra a Zona, eu luto pelas pessoas. Alem disso, eles estao muito ligados ao governo e ao exercito. Nao quero acordar em uma cela fria um dia.</text>
+160|<text>Entao, por que voce nao se junta ao Duty se voce se sente assim?</text>
+163|<text>O Duty luta contra a Zona, eu luto pelas pessoas. Alem disso, eles estao muito ligados ao governo e ao exercito. Nao quero acordar em uma cela fria um dia.</text>
 166|<text>Boa sorte para voce.</text>
 169|<text>Que lugar e este?</text>
-172|<text>O Lixao. Estamos em casa aqui. Voce ve as pilhas de lixo? Voce nao quer ir la, confie em mim. Tao cheio de lixo radioativo, os contadores Geiger saem da escala. Esta e a unica maneira decente de entrar na Zona e os bandidos tem estado cada vez mais ativos aqui ultimamente. Eles estao com medo de ir mais fundo na Zona, para o territorio do Dever, como os stalkers experientes. Mas essas hienas adoram roubar os novatos aqui. Entao, se ninguem mais se importa, temos que defender nosso territorio e lutar sozinhos.</text>
+172|<text>O Lixao. Estamos em casa aqui. Voce ve as pilhas de lixo? Voce nao quer ir la, confie em mim. Tao cheio de lixo radioativo, os contadores Geiger saem da escala. Esta e a unica maneira decente de entrar na Zona e os bandidos tem estado cada vez mais ativos aqui ultimamente. Eles estao com medo de ir mais fundo na Zona, para o territorio da Duty, como os stalkers experientes. Mas essas hienas adoram roubar os novatos aqui. Entao, se ninguem mais se importa, temos que defender nosso territorio e lutar sozinhos.</text>
 175|<text>Continue.</text>
 178|<text>Em todos os lugares, e especialmente aqui, voce tem que agir como um ser humano, nao como um animal movido pela ganancia. Essa e a minha visao da vida.</text>
 181|<text>Existem grandes edificios no Lixao?</text>
@@ -74,10 +74,10 @@
 223|<text>Ei, cara! As coisas ficaram bem tensas aqui agora ha pouco, tenho que dizer. O que voce esta fazendo aqui, afinal?</text>
 226|<text>Um caminho seguro, stalker. Um caminho seguro pelas anomalias e direto para os artefatos.</text>
 229|<text>O que se pode encontrar no Lixao?</text>
-232|<text>Voce pode encontrar muitos problemas rapidamente, com certeza. Mas ja que voce e um explorador, vou te contar o que sei. Para o leste, ha uma pequena floresta. Nada de interessante la e esta cheia de caes, entao tenha cuidado. Esta linha ferrea o levara a um tunel. Ha muitas anomalias la, talvez outra coisa tambem, mas nao sei - nunca procurei muito. Voce provavelmente sabe sobre o posto de controle do Dever no norte. Isso e basicamente tudo o que sei sobre este lugar.</text>
+232|<text>Voce pode encontrar muitos problemas rapidamente, com certeza. Mas ja que voce e um explorador, vou te contar o que sei. Para o leste, ha uma pequena floresta. Nada de interessante la e esta cheia de caes, entao tenha cuidado. Esta linha ferrea o levara a um tunel. Ha muitas anomalias la, talvez outra coisa tambem, mas nao sei - nunca procurei muito. Voce provavelmente sabe sobre o posto de controle da Duty no norte. Isso e basicamente tudo o que sei sobre este lugar.</text>
 235|<text>Obrigado pela informacao.</text>
 238|<text>Escuta, cara, o que posso encontrar neste Lixao?</text>
-241|<text>Voce pode encontrar muitos problemas rapidamente, com certeza. Mas ja que voce e um explorador, vou te contar o que sei. Para o leste, ha uma pequena floresta. Nada de interessante la e esta cheia de caes, entao tenha cuidado. Esta linha ferrea o levara a um tunel. Ha muitas anomalias la, talvez outra coisa tambem, mas nao sei - nunca procurei muito. Voce provavelmente sabe sobre o posto de controle do Dever no norte. Isso e basicamente tudo o que sei sobre este lugar.</text>
+241|<text>Voce pode encontrar muitos problemas rapidamente, com certeza. Mas ja que voce e um explorador, vou te contar o que sei. Para o leste, ha uma pequena floresta. Nada de interessante la e esta cheia de caes, entao tenha cuidado. Esta linha ferrea o levara a um tunel. Ha muitas anomalias la, talvez outra coisa tambem, mas nao sei - nunca procurei muito. Voce provavelmente sabe sobre o posto de controle da Duty no norte. Isso e basicamente tudo o que sei sobre este lugar.</text>
 244|<text>Obrigado pela informacao. Vou me lembrar disso.</text>
 247|<text>Voce pode me dizer alguma coisa sobre este lugar?</text>
 250|<text>Bem, escuta. Em todo lugar que voce olha, e um grande lixao fedido. Apos o acidente em 1986, eles trouxeram lixo radioativo, guindastes e todas as maquinas destruidas para ca. Basicamente, esta cheio de porcaria inutil e algumas anomalias aqui e ali. Voce pode ate encontrar alguns artefatos, mas eles nao sao espetaculares, entao e por isso que voce encontrara principalmente novatos neste lugar. Muitos novatos significam muitos bandidos, entao e melhor nao ficar por perto por muito tempo. Mais para o leste, ha muitos bolsoes de radiacao; voce nao pode ir la sem protecao. Indo para o sul, voce chegara a fronteira da Zona. Va para o norte e voce eventualmente chegara a fabrica de Rostok e ao bar dos stalkers. Para o leste fica o Vale Sombrio, um lugar sombrio e nebuloso. Para o oeste fica o Instituto de Pesquisa Agroprom. Vou marcar caminhos seguros no seu mapa.</text>

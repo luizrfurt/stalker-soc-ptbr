@@ -8,7 +8,7 @@
 23|<text>Prisioneiro</text>
 26|<text>Portao Sul</text>
 29|<text>Comerciante</text>
-32|<text>Membro do Dever cativo</text>
+32|<text>Membro da Duty cativo</text>
 35|<text>Stalker ferido</text>
 38|<text>Acampamento de bandidos</text>
 41|<text>Fazenda.\nCompre Gauss.</text>

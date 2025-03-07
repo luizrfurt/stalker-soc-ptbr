@@ -14,7 +14,7 @@
 43|<text>Voce tem uma luta especial hoje. Ate o exercito ouviu falar de voce! Nao se surpreenda, eles lutam aqui tambem - tem ate um general na multidao. Esses caras sao das Forcas Especiais ou da OMON. Eles estao bem armados e a armadura deles e tao boa quanto voce esperaria. Nao se preocupe, eu tambem nao vou te deixar na chuva. Voce vai ganhar um colete usado pela Liberdade - e leve, entao nao vai te deixar lento. Va la, mostre a eles que os stalkers nao sao meninos de recados. Boa sorte!</text>
 46|<text>Estou pronto.</text>
 49|<text>Nao estou pronto.</text>
-52|<text>Hora de voce mostrar do que e capaz. O Dever capturou um grupo de bandidos que estavam causando problemas para os stalkers perto de Rostok. O Dever os pegou a noite, entao a maioria dos bandidos foi pega viva. Eles seriam todos executados de qualquer maneira, entao convenci o Dever a dar a eles uma chance. Se algum deles sobreviver, vai para a cadeia fora da Zona, o que e melhor do que morrer aqui. Eles nao estao bem armados - apenas algumas pistolas e serradas - mas sao seis, entao tome cuidado. Va agora!</text>
+52|<text>Hora de voce mostrar do que e capaz. O Duty capturou um grupo de bandidos que estavam causando problemas para os stalkers perto de Rostok. O Duty os pegou a noite, entao a maioria dos bandidos foi pega viva. Eles seriam todos executados de qualquer maneira, entao convenci a Duty a dar a eles uma chance. Se algum deles sobreviver, vai para a cadeia fora da Zona, o que e melhor do que morrer aqui. Eles nao estao bem armados - apenas algumas pistolas e serradas - mas sao seis, entao tome cuidado. Va agora!</text>
 55|<text>Estou pronto.</text>
 58|<text>Nao estou pronto.</text>
 61|<text>Bem, voce esta quase na final. Agora voce vai lutar contra um stalker de verdade. Ele esta sozinho, mas tem uma FT 200M e esta dentro de um exoesqueleto. Pegue um disparo e voce vira torrada. Havera uma surpresa que nao posso te contar tambem... Aqui esta meu conselho: esteja preparado, vai ser dificil. O vencedor passa para a final. Lute ate a morte, va!</text>
@@ -29,8 +29,8 @@
 88|<text>Voce venceu! Aqui esta sua recompensa.</text>
 91|<text>Voce nao e experiente o suficiente para esta luta.</text>
 94|<text>Aqui esta o pendrive que o professor Kruglov me deu.</text>
-97|<text>Bom garoto. Acho que o Dever ficara muito grato por esta informacao. Aqui esta sua recompensa.</text>
-100|<text>Bem, bem. Informacao? Diretamente do professor Kruglov? Voce esta me zoando ou o que? "Eu sou o professor Kruglov e estou excluindo relatorios sobre nossa pesquisa pelo bem da ciencia e da humanidade..." E esta e a informacao que voce deveria ter obtido!? Bem, merda... Tenho certeza de que o Dever ficara "feliz" com isso.</text>
+97|<text>Bom garoto. Acho que a Duty ficara muito grato por esta informacao. Aqui esta sua recompensa.</text>
+100|<text>Bem, bem. Informacao? Diretamente do professor Kruglov? Voce esta me zoando ou o que? "Eu sou o professor Kruglov e estou excluindo relatorios sobre nossa pesquisa pelo bem da ciencia e da humanidade..." E esta e a informacao que voce deveria ter obtido!? Bem, merda... Tenho certeza de que a Duty ficara "feliz" com isso.</text>
 103|<text>Cumpri minha missao. Aqui esta o PDA de Tirano.</text>
 106|<text>Uau, Marca. Otimo trabalho! O que posso dizer? Voce me fez feliz, cara. Eu nao tinha certeza de que voce conseguiria, para ser honesto... mas voce esta vivo e eles nao!</text>
 109|<text>E a minha recompensa?</text>
@@ -43,13 +43,13 @@
 130|<text>Nao, nao tenho nada hoje.</text>
 133|<text>Va direto ao ponto. O que eu tenho que fazer?</text>
 136|<text>Nao, nao tenho nada hoje.</text>
-139|<text>Tenho uma missao seria. Um grupo de assassinos veteranos apareceu novamente no Territorio Selvagem. Algumas pessoas do Dever vieram ate mim e pediram para eu lidar com esses veteranos. O Dever tem provas solidas de que eles sao responsaveis pelas mortes de stalkers solitarios. O problema e que esses veteranos e o Dever tem um acordo antigo e o Dever nao pode quebra-lo, mas esses caras estao realmente forcando a barra. Basicamente, o Dever quer que eles sejam eliminados, de forma discreta. Nao vai ser facil, mas o trabalho vale muita grana.</text>
-142|<text>Algo mais? Parece estranho que o Dever esteja deixando eles escaparem impunes.</text>
-145|<text>O Dever valoriza sua reputacao, e e por isso que eles precisam que isso seja feito discretamente. Tudo o que voce precisa fazer e matar o lider deles, Sortudo, e me trazer o PDA dele como prova.</text>
+139|<text>Tenho uma missao seria. Um grupo de assassinos veteranos apareceu novamente no Territorio Selvagem. Algumas pessoas da Duty vieram ate mim e pediram para eu lidar com esses veteranos. O Duty tem provas solidas de que eles sao responsaveis pelas mortes de stalkers solitarios. O problema e que esses veteranos e a Duty tem um acordo antigo e a Duty nao pode quebra-lo, mas esses caras estao realmente forcando a barra. Basicamente, a Duty quer que eles sejam eliminados, de forma discreta. Nao vai ser facil, mas o trabalho vale muita grana.</text>
+142|<text>Algo mais? Parece estranho que a Duty esteja deixando eles escaparem impunes.</text>
+145|<text>O Duty valoriza sua reputacao, e e por isso que eles precisam que isso seja feito discretamente. Tudo o que voce precisa fazer e matar o lider deles, Sortudo, e me trazer o PDA dele como prova.</text>
 148|<text>Eu vou fazer isso. Espero nao me arrepender de ter aceitado.</text>
 151|<text>Boa decisao, cara. Nao ha nada para se arrepender.</text>
 154|<text>Nao, nao estou pronto para isso.</text>
-157|<text>Voce decide, mas lembre-se que esta e uma boa oportunidade de ganhar a gratidao do Dever.</text>
+157|<text>Voce decide, mas lembre-se que esta e uma boa oportunidade de ganhar a gratidao da Duty.</text>
 160|<text>Va direto ao ponto. O que eu tenho que fazer?</text>
 163|<text>Sua missao e matar Tirano, o lider dos Mercs. A equipe dele entrou no Territorio Selvagem e montou uma base no canteiro de obras. Tenha cuidado, alguns dos lutadores deles montaram emboscadas no caminho para o local. Traga-me o PDA de Tirano e a recompensa e sua.</text>
 166|<text>Eu vou fazer isso. Espero nao me arrepender de ter aceitado.</text>
@@ -65,13 +65,13 @@
 196|<text>Nao, nao tenho nada hoje.</text>
 199|<text>Nao se deixe levar, Marca. Voce esta procurando mais trabalho, mas ainda nem lidou com os veteranos...</text>
 202|<text>Nao, nada hoje.</text>
-205|<text>Tenho uma missao seria. Um grupo de assassinos veteranos apareceu novamente no Territorio Selvagem. Algumas pessoas do Dever vieram ate mim e pediram para eu lidar com esses veteranos. O Dever tem provas solidas de que eles sao responsaveis pelas mortes de stalkers solitarios. O problema e que esses veteranos e o Dever tem um acordo antigo e o Dever nao pode quebra-lo, mas esses caras estao realmente forcando a barra. Basicamente, o Dever quer que eles sejam eliminados, de forma discreta. Nao vai ser facil, mas o trabalho vale muita grana.</text>
+205|<text>Tenho uma missao seria. Um grupo de assassinos veteranos apareceu novamente no Territorio Selvagem. Algumas pessoas da Duty vieram ate mim e pediram para eu lidar com esses veteranos. O Duty tem provas solidas de que eles sao responsaveis pelas mortes de stalkers solitarios. O problema e que esses veteranos e a Duty tem um acordo antigo e a Duty nao pode quebra-lo, mas esses caras estao realmente forcando a barra. Basicamente, a Duty quer que eles sejam eliminados, de forma discreta. Nao vai ser facil, mas o trabalho vale muita grana.</text>
 208|<text>Algo mais?</text>
-211|<text>O Dever valoriza sua reputacao, e e por isso que eles precisam que isso seja feito discretamente. Tudo o que voce precisa fazer e matar o lider deles, Sortudo, e me trazer o PDA dele como prova.</text>
+211|<text>O Duty valoriza sua reputacao, e e por isso que eles precisam que isso seja feito discretamente. Tudo o que voce precisa fazer e matar o lider deles, Sortudo, e me trazer o PDA dele como prova.</text>
 214|<text>Eu vou fazer isso.</text>
 217|<text>Boa decisao, cara. Nao ha nada para se arrepender.</text>
 220|<text>Nao, nao estou pronto para isso.</text>
-223|<text>Voce decide, mas lembre-se que esta e uma boa oportunidade de ganhar a gratidao do Dever.</text>
+223|<text>Voce decide, mas lembre-se que esta e uma boa oportunidade de ganhar a gratidao da Duty.</text>
 226|<text>texto padrao</text>
 229|<text>Sua missao e matar Tirano, o lider dos Mercs. A equipe dele entrou no Territorio Selvagem e montou uma base no canteiro de obras. Tenha cuidado, alguns dos lutadores deles montaram emboscadas no caminho para o local. Traga-me o PDA de Tirano e a recompensa e sua.</text>
 232|<text>Eu vou fazer isso.</text>
@@ -109,7 +109,7 @@
 328|<text>Continue.</text>
 331|<text>Tudo o que precisamos fazer e chegar as antenas e desativa-las. Entendido?</text>
 334|<text>Entendido.</text>
-337|<text>Ah, sim, mais uma coisa! O lider do Dever, marquei ele no mapa, precisa de um voluntario para realizar algum tipo de tarefa nos armazens militares. Se voce estiver interessado, pode dar uma passada la. Vou falar com os guardas, eles vao deixar voce entrar.</text>
+337|<text>Ah, sim, mais uma coisa! O lider da Duty, marquei ele no mapa, precisa de um voluntario para realizar algum tipo de tarefa nos armazens militares. Se voce estiver interessado, pode dar uma passada la. Vou falar com os guardas, eles vao deixar voce entrar.</text>
 340|<text>Nao, ainda nao estou pronto.</text>
 343|<text>Prepare-se, Marca! Esta tarefa nao pode esperar!</text>
 346|<text>OK, os documentos que voce trouxe do Instituto esclarecem algumas coisas, mas ainda estamos perdendo as informacoes de que precisamos para ter uma visao completa. Um laboratorio designado X18 e mencionado e sua descricao corresponde aos cofres subterraneos abandonados no Vale Sombrio. Parece que voce tera que ir la e obter as informacoes de que precisamos. O laboratorio esta fechado e voce precisara de duas chaves eletronicas para entrar. Eu te darei uma, mas voce tera que pegar a outra com Javali no Vale Sombrio.</text>
@@ -168,10 +168,10 @@
 505|<text>Nao sei o que e verdade nesta historia e o que nao e, mas a questao e que o cara fez um desejo que se tornou realidade, enquanto a Zona cresceu 5 quilometros. Parece que a Zona engole mais terra para cada desejo que e concedido... Mas isso nao vai impedir os valentoes como voce. Eles continuam tentando chegar la com seus preciosos desejos em seus coracoes...</text>
 508|<text>Estou mais interessado em outras coisas no momento.</text>
 511|<text>E problema seu, cara. O que exatamente voce quer saber?</text>
-514|<text>Soluco... droga! Sim, estou bebado, estou bebado! Eles querem... eles... querem me expulsar do Dever se eu falhar nesta tarefa tambem... sabe? Mas eu nao estou... soluco... nao me sentindo muito... soluco... bem no momento... sabe...</text>
+514|<text>Soluco... droga! Sim, estou bebado, estou bebado! Eles querem... eles... querem me expulsar da Duty se eu falhar nesta tarefa tambem... sabe? Mas eu nao estou... soluco... nao me sentindo muito... soluco... bem no momento... sabe...</text>
 517|<text>Eu sinto muito por voce.</text>
 520|<text>E ai? Alguma novidade? Voce nao detonou o pedacinho de merda, posso ver nos seus olhos. A vida e uma merda... Escuta, pelo menos bebe um gole comigo, quer, amigo?</text>
-523|<text>Cara... soluco... voce... voce... voce me ajudou! Vamos beber pelo Dever... eu acho! E... Oh!</text>
+523|<text>Cara... soluco... voce... voce... voce me ajudou! Vamos beber pelo Duty... eu acho! E... Oh!</text>
 526|<text>Eu encontrei. Aqui esta seu rifle.</text>
 529|<text>Uau?! Voce encontrou meu rifle?! Fiquei sem palavras, cara! Muito obrigado! OBRIGADO! Estou muito grato! Voce realmente me ajudou, voce realmente ajudou. Caramba. Aqui, pegue isto - nao e muito, mas e tudo o que tenho. Nao vou esquecer sua ajuda e espero retribuir com o tempo. Escuta, vou te contar uma coisa. Ha uma casa estranha e tapada perto daquele lugar onde voce encontrou meu rifle. Ninguem sabe o que realmente tem la dentro, mas voce pode ver pelas janelas que ha anomalias la, muitas delas. Pode haver artefatos la dentro tambem... Nao sei como chegar la, no entanto.</text>
 532|<text>Continue.</text>
@@ -188,17 +188,17 @@
 565|<text>Galgo disse que voce tem algo para mim.</text>
 568|<text>Claro. Aqui esta um lancador de granadas por ajuda-lo com Kruglov, e 1000 em dinheiro por cima. Vou te dar algumas informacoes uteis de graca para adocar o negocio tambem.</text>
 571|<text>Obrigado.</text>
-574|<text>Aqui esta o que eu tenho a dizer. Voce ajudou a Liberdade e fez a escolha certa. Seu destino agora esta ligado ao da Liberdade, e o Dever esta de olho em voce. Eu diria que voce deveria ir para a base militar abandonada e se juntar as fileiras da Liberdade - eles precisam de bons lutadores. Havera tiroteios entre os grupos em breve e quem escolher o lado certo nao se arrependera.</text>
+574|<text>Aqui esta o que eu tenho a dizer. Voce ajudou a Liberdade e fez a escolha certa. Seu destino agora esta ligado ao da Liberdade, e a Duty esta de olho em voce. Eu diria que voce deveria ir para a base militar abandonada e se juntar as fileiras da Liberdade - eles precisam de bons lutadores. Havera tiroteios entre os grupos em breve e quem escolher o lado certo nao se arrependera.</text>
 577|<text>Trabalho como negociante de informacoes. Vendo informacoes importantes e compro mapas, documentos e registros de laboratorio. Minhas informacoes sao valiosas e muito uteis para quem as possui!</text>
-580|<text>Ola, Marca. Voce ajudou a Liberdade e fez a escolha certa. Seu destino agora esta ligado ao da Liberdade e o Dever esta de olho em voce. Eu sugiro que voce va para a base militar abandonada e se junte a Liberdade - eles precisam de bons lutadores.</text>
+580|<text>Ola, Marca. Voce ajudou a Liberdade e fez a escolha certa. Seu destino agora esta ligado ao da Liberdade e a Duty esta de olho em voce. Eu sugiro que voce va para a base militar abandonada e se junte a Liberdade - eles precisam de bons lutadores.</text>
 583|<text>Vou pensar nisso.</text>
 586|<text>Entao, Marca, o que te traz aqui? Quer comprar alguma informacao ou esta vendendo hoje?</text>
 589|<text>Entao voce esta conectado com a Liberdade?</text>
 592|<text>Nao posso responder a essa pergunta agora. Tudo o que posso dizer e que nao sou membro de nenhum grupo.</text>
 595|<text>Fale-me sobre a faccao Liberdade.</text>
 598|<text>Claro, sem problema! A Liberdade e um dos grupos mais antigos da Zona e o unico que se opoe abertamente as tropas do governo e as equipes de pesquisa. Seus fundadores estao mortos - foram mortos durante um grande banho de sangue depois que o exercito lancou uma grande forca de ataque na Zona, mas a capacidade de controlar a Zona de fora foi destruida ao mesmo tempo. Ha algumas evidencias que sugerem que a primeira Zona foi usada como um local secreto de testes de armas do exercito. Se isso for verdade, eles devem ter usado algumas merdas poderosas. Enfim, o que eu estava dizendo...? Ah, sim, a Liberdade e o unico grupo que esta tentando impedir que o governo recupere o controle do local de testes. Deus sabe o que acontecera se eles comecarem a testar suas merdas novamente, entao a Liberdade esta tentando resistir a todo custo.</text>
-601|<text>E o Dever?</text>
-604|<text>O Dever e basicamente controlado de fora pelo governo. O objetivo atual deles e limpar o territorio de mutantes e destruir a Liberdade, que e o que eles estao fazendo no momento. Quando chegar a hora certa, eles lancarao uma grande forca de ataque na Zona e assumirao o controle da area.</text>
+601|<text>E a Duty?</text>
+604|<text>O Duty e basicamente controlado de fora pelo governo. O objetivo atual deles e limpar o territorio de mutantes e destruir a Liberdade, que e o que eles estao fazendo no momento. Quando chegar a hora certa, eles lancarao uma grande forca de ataque na Zona e assumirao o controle da area.</text>
 607|<text>Obrigado pela informacao.</text>
 610|<text>Quero comprar algumas informacoes.</text>
 613|<text>Agora, posso te vender informacoes sobre o grupo de Strelok praticamente de graca - 4000 rublos.</text>
@@ -221,9 +221,9 @@
 664|<text>Sim, ja estava na hora.</text>
 667|<text>...alguem realmente irritou a Liberdade: ouvi dizer que um dos grupos deles foi destruido no Territorio Selvagem... quem sera que fez isso?</text>
 670|<text>Sim, quem dera eu soubesse...</text>
-673|<text>...finalmente alguem teve coragem de limpar os sanguessugas no Territorio Selvagem... O que o Dever estava fazendo todo esse tempo?</text>
-676|<text>O que o Dever estava fazendo? Eles estavam fazendo a Liberdade, o que mais?</text>
-679|<text>...ouvi dizer que alguem detonou o lider da Liberdade. Eles vao passar por momentos dificeis, eu acho. O Dever vai realmente apertar eles...</text>
+673|<text>...finalmente alguem teve coragem de limpar os sanguessugas no Territorio Selvagem... O que a Duty estava fazendo todo esse tempo?</text>
+676|<text>O que a Duty estava fazendo? Eles estavam fazendo a Liberdade, o que mais?</text>
+679|<text>...ouvi dizer que alguem detonou o lider da Liberdade. Eles vao passar por momentos dificeis, eu acho. O Duty vai realmente apertar eles...</text>
 682|<text>Esperemos que sim.</text>
 685|<text>Entao voce eliminou aqueles veteranos? Bem feito, amigo! Seis stalkers desapareceram naquela area recentemente... todos nos suspeitavamos daqueles veteranos loucos. E bom que eles tenham sido eliminados.</text>
 688|<text>Sim, muitas pessoas queriam que aqueles veteranos "partissem".</text>
@@ -231,11 +231,11 @@
 694|<text>Quero acreditar que o Desintegrador Psiquico pode ser desligado.</text>
 697|<text>O que voce quer? Voce nao ve que estou tentando relaxar aqui...</text>
 700|<text>O que ha de novo?</text>
-703|<text>Ouvi dizer que Strelok voltou. Ele tem todo o equipamento que voce precisa para chegar a Maquina... Ele esta escondido agora porque muita gente esta atras dele. Alguns sao abertos sobre isso, enquanto outros estao tentando manter seu interesse em segredo. Ha rumores de que ate o Dever e a Liberdade se juntaram a cacada... cada um com sua propria agenda.</text>
+703|<text>Ouvi dizer que Strelok voltou. Ele tem todo o equipamento que voce precisa para chegar a Maquina... Ele esta escondido agora porque muita gente esta atras dele. Alguns sao abertos sobre isso, enquanto outros estao tentando manter seu interesse em segredo. Ha rumores de que ate a Duty e a Liberdade se juntaram a cacada... cada um com sua propria agenda.</text>
 706|<text>Parece que Strelok esta certo em se esconder.</text>
 709|<text>O que voce quer?</text>
 712|<text>Voce pode me dizer algo que seria util para um novato?</text>
-715|<text>Util para um novato? Bem, ouca. Ao norte, nao muito longe do Desintegrador Psiquico, a Liberdade montou seu QG em uma antiga base militar. Eles sao notorios niilistas, anarquistas e criminosos - combatentes da liberdade, guerrilheiros loucos, todos eles. Tudo o que fazem e sabotar grupos de pesquisa, atacar unidades do exercito e constantemente entrar em conflito com o Dever. Esses conflitos agora estao se transformando em uma guerra de pequena escala pela sobrevivencia. Deixe-me dar um conselho: nunca se envolva com eles. Eles so vao te aceitar se voce for totalmente louco e houver uma recompensa pela sua cabeca. Ha-ha-ha. Voce acredita nisso?</text>
+715|<text>Util para um novato? Bem, ouca. Ao norte, nao muito longe do Desintegrador Psiquico, a Liberdade montou seu QG em uma antiga base militar. Eles sao notorios niilistas, anarquistas e criminosos - combatentes da liberdade, guerrilheiros loucos, todos eles. Tudo o que fazem e sabotar grupos de pesquisa, atacar unidades do exercito e constantemente entrar em conflito com a Duty. Esses conflitos agora estao se transformando em uma guerra de pequena escala pela sobrevivencia. Deixe-me dar um conselho: nunca se envolva com eles. Eles so vao te aceitar se voce for totalmente louco e houver uma recompensa pela sua cabeca. Ha-ha-ha. Voce acredita nisso?</text>
 718|<text>Obrigado pelo seu conselho.</text>
 721|<text>O que voce quer?</text>
 724|<text>Voce pode me dizer algo que seria util para um novato?</text>
@@ -265,7 +265,7 @@
 796|<text>Eu me pergunto onde ele esta agora.</text>
 799|<text>O que voce quer?</text>
 802|<text>O que ha de novo?</text>
-805|<text>O Territorio Selvagem esta infestado de sanguessugas agora! Eles saem a noite. Ouvi dizer que ha algo muito importante na fabrica que fica ali perto, algo essencial para alguem. O Dever mandou uns caras la recentemente, mas todos morreram e seus gritos foram ouvidos a quilometros de distancia.</text>
+805|<text>O Territorio Selvagem esta infestado de sanguessugas agora! Eles saem a noite. Ouvi dizer que ha algo muito importante na fabrica que fica ali perto, algo essencial para alguem. O Duty mandou uns caras la recentemente, mas todos morreram e seus gritos foram ouvidos a quilometros de distancia.</text>
 808|<text>Obrigado pela informacao.</text>
 811|<text>O que voce quer?</text>
 814|<text>O que voce ouviu?</text>
@@ -277,7 +277,7 @@
 832|<text>Interessante...</text>
 835|<text>O que voce quer?</text>
 838|<text>O que voce ouviu?</text>
-841|<text>Stalkers desaparecidos voltam de vez em quando. E uma visao assustadora, eu te digo: eles murmuram algo e procuram por suas armas, que perderam em algum lugar... Um veio para um posto avancado do Dever ha algum tempo e uma multidao se reuniu para olha-lo. Alguem ate o reconheceu... Ele era assustador... olhos vermelhos, todos injetados de sangue e machucados... nao conseguia dizer uma palavra, apenas gemia como um animal e andava em circulos. O Dever o acolheu, mas ele morreu depois de alguns dias de qualquer maneira. Algo acontece com as pessoas na Zona, mas o que e?</text>
+841|<text>Stalkers desaparecidos voltam de vez em quando. E uma visao assustadora, eu te digo: eles murmuram algo e procuram por suas armas, que perderam em algum lugar... Um veio para um posto avancado da Duty ha algum tempo e uma multidao se reuniu para olha-lo. Alguem ate o reconheceu... Ele era assustador... olhos vermelhos, todos injetados de sangue e machucados... nao conseguia dizer uma palavra, apenas gemia como um animal e andava em circulos. O Duty o acolheu, mas ele morreu depois de alguns dias de qualquer maneira. Algo acontece com as pessoas na Zona, mas o que e?</text>
 844|<text>Eu tambem gostaria de saber.</text>
 847|<text>O que voce quer?</text>
 850|<text>O que voce ouviu?</text>
@@ -291,14 +291,14 @@
 874|<text>O que voce ouviu?</text>
 877|<text>Todo mundo que acredita no Monolito e completamente maluco. Eles ficam falando sobre isso, mas ninguem realmente sabe o que esta no centro da Zona. Um cristal invisivel que caiu dos ceus... ha-ha-ha! Acho que um dos laboratorios secretos explodiu - quero dizer, alguns stalkers costumavam trabalhar em alguns deles. Mas, obviamente, voce nao pode bombardear a Zona. Nao apenas a radiacao se espalhara por todo o mundo, mas metade da Europa seria achatada pela reacao da Zona. "Alguem" ficou totalmente louco ultimamente - ouvi dizer que estao matando stalkers normais sem motivo algum. O que voce acha disso? Malditos fanaticos.</text>
 880|<text>Acho que merece alguma atencao.</text>
-883|<text>Quero me juntar ao Dever. O que preciso fazer?</text>
+883|<text>Quero me juntar ao Duty. O que preciso fazer?</text>
 886|<text>Pague 1000 rublos. Voce recebera um passe. Leve isso para Voronin no bunker e ele providenciara um teste para voce.</text>
 889|<text>OK, aqui esta o dinheiro.</text>
 892|<text>Certo, aqui esta seu passe. Va ver Petrenko, o administrador. Marquei no seu mapa.</text>
 895|<text>Nao, mudei de ideia.</text>
 898|<text>Voce decide, cara. Ate logo.</text>
 901|<text>Porque nao ha lugar para esses bandidos da Liberdade na Zona - eles devem ser destruidos. Se voce estiver interessado, peca ao Bartender para explicar tudo. Estou ocupado.</text>
-904|<text>Pague 1000 rublos e voce recebera um passe. Leve isso para o administrador do Dever e ele providenciara testes para voce.</text>
+904|<text>Pague 1000 rublos e voce recebera um passe. Leve isso para o administrador da Duty e ele providenciara testes para voce.</text>
 907|<text>OK, aqui esta o dinheiro.</text>
 910|<text>Certo, aqui esta seu passe. Va ver Petrenko, o administrador. Marquei no seu mapa.</text>
 913|<text>Nao, mudei de ideia.</text>
@@ -308,21 +308,21 @@
 925|<text>Entendi. Algo mais?</text>
 928|<text>Sim, isso e o suficiente. Voce pode passar.</text>
 931|<text>Entendi. Algo mais?</text>
-934|<text>E so isso. Se voce quiser tentar se juntar ao Dever, fique a vontade. Precisamos de bons homens, mas estou avisando: antes de ser aceito, voce tera que fazer alguns trabalhos perigosos. Nao precisamos de covardes, entao todos sao testados.</text>
-937|<text>Pare! Estranhos nao sao permitidos na base do Dever!</text>
+934|<text>E so isso. Se voce quiser tentar se juntar ao Duty, fique a vontade. Precisamos de bons homens, mas estou avisando: antes de ser aceito, voce tera que fazer alguns trabalhos perigosos. Nao precisamos de covardes, entao todos sao testados.</text>
+937|<text>Pare! Estranhos nao sao permitidos na base da Duty!</text>
 940|<text>Por que voce esta parado ai? Continue andando.</text>
-943|<text>Va em frente, irmao. Lembre-se: a missao do Dever e limpar.</text>
+943|<text>Va em frente, irmao. Lembre-se: a missao da Duty e limpar.</text>
 946|<text>Por que voces nao deixam estranhos entrarem?</text>
 949|<text>De onde voces, meninos ingenuos, vieram? Ha uma guerra acontecendo, certo? Estamos lutando contra bandidos da Liberdade! Temos conflitos regulares com seus lutadores no Territorio Selvagem.</text>
 952|<text>Uma guerra com a Liberdade? Por que?</text>
 955|<text>Porque nao ha lugar para esses bandidos da Liberdade na Zona - eles devem ser destruidos. Se voce estiver interessado, peca ao Bartender para explicar tudo. Estou ocupado.</text>
 958|<text>Pare! Apenas membros podem entrar la! Nao podemos deixa-lo entrar no bunker sem um passe especial. Se voce quiser obter um, va ver o Coronel Petrenko. Ele esta na area administrativa do outro lado do patio.</text>
 961|<text>Por que voce esta parado ai? Continue andando.</text>
-964|<text>Va em frente. Lembre-se: a missao do Dever e limpar.</text>
+964|<text>Va em frente. Lembre-se: a missao da Duty e limpar.</text>
 967|<text>O que voce quer?</text>
 970|<text>Estou ouvindo.</text>
 973|<text>Ola, amigo.</text>
-976|<text>O que posso fazer pelo Dever?</text>
+976|<text>O que posso fazer pelo Duty?</text>
 979|<text>Essa e uma boa pergunta, Marca, e ha uma resposta igualmente boa para ela - matar anarquistas da Liberdade. Voce recebera uma recompensa por cada PDA deles que trouxer e podera ser promovido tambem. Leve todos os PDAs que conseguir para Petrenko - ele entrega as recompensas.</text>
 982|<text>Bartender me disse que voce tem uma tarefa para mim nos armazens militares...</text>
 985|<text>Quero pedir que voce faca uma coisa, pessoalmente para mim, entende? Estamos no meio de uma guerra territorial com a faccao Liberdade e precisamos de armas mais poderosas do que as que temos. A Liberdade tem alguns excelentes lancadores de granadas Bulldog 6. Se voce pudesse penetrar em seu territorio e roubar pelo menos um desses lancadores de granadas, eu o recompensaria generosamente. Como voce nao esta em nossa faccao, pode ganhar rapidamente a confianca da Liberdade e, se tiver sorte, pegar um Bulldog 6.</text>
@@ -333,15 +333,15 @@
 1000|<text>Ainda nao estou pronto para tais feitos.</text>
 1003|<text>Voce decide.</text>
 1006|<text>Estou pronto para prestar o juramento.</text>
-1009|<text>Bom homem! Repita depois de mim: "Eu, um stalker conhecido como Marca, juro defender os objetivos e ideais do Dever."</text>
-1012|<text>Eu, um stalker conhecido como Marca, juro defender os objetivos e ideais do Dever.</text>
+1009|<text>Bom homem! Repita depois de mim: "Eu, um stalker conhecido como Marca, juro defender os objetivos e ideais da Duty."</text>
+1012|<text>Eu, um stalker conhecido como Marca, juro defender os objetivos e ideais da Duty.</text>
 1015|<text>Proteger a Terra dos perigos da Zona, procurar e destruir tudo o que ela gera dentro e fora de suas fronteiras.</text>
 1018|<text>Proteger a Terra dos perigos da Zona, procurar e destruir tudo o que ela gera dentro e fora de suas fronteiras.</text>
 1021|<text>Lutar contra quaisquer inconformistas, sejam eles stalkers individuais ou grupos.</text>
 1024|<text>Lutar contra quaisquer inconformistas, sejam eles stalkers individuais ou grupos.</text>
 1027|<text>E dar minha vida em nome da justica e da ordem na Terra!</text>
 1030|<text>E dar minha vida em nome da justica e da ordem na Terra!</text>
-1033|<text>Parabens! Agora voce e um membro pleno do Dever.</text>
+1033|<text>Parabens! Agora voce e um membro pleno da Duty.</text>
 1036|<text>Completei a missao. Trouxe o Bulldog 6.</text>
 1039|<text>Bom trabalho, stalker. E exatamente disso que precisamos. Bem, Marca, voce cumpriu meu pedido e, em troca, pode pegar este traje. Acho que voce vai gostar.</text>
 1042|<text>Estou ouvindo.</text>
@@ -352,10 +352,10 @@
 1057|<text>O que te trouxe ate mim, irmao?</text>
 1060|<text>A guerra com a Liberdade esta chegando ao fim, Marca. Voce desempenhou seu papel na luta pela causa e agora quero terminar esta guerra. Quero que voce mate o lider da Liberdade.</text>
 1063|<text>O que te traz aqui, irmao? Voce matou o lider daqueles anarquistas da Liberdade e o grupo deles desmoronou. A guerra nao acabou, mas seu resultado e certo. Suas conquistas sao grandes e nao serao esquecidas.</text>
-1066|<text>Ola, stalker. Junte-se ao Dever! Precisamos de bons lutadores! Acabei de me juntar e veja o uniforme legal que eles me deram!</text>
-1069|<text>Ola, Marca. Fico feliz que voce esteja conosco. O Dever realmente precisara de bons lutadores em breve.</text>
+1066|<text>Ola, stalker. Junte-se ao Duty! Precisamos de bons lutadores! Acabei de me juntar e veja o uniforme legal que eles me deram!</text>
+1069|<text>Ola, Marca. Fico feliz que voce esteja conosco. O Duty realmente precisara de bons lutadores em breve.</text>
 1072|<text>Ei, colega stalker.</text>
-1075|<text>Fale-me sobre o Dever.</text>
+1075|<text>Fale-me sobre a Duty.</text>
 1078|<text>Estamos aqui desde o inicio. O primeiro grupo era formado pelos membros sobreviventes de unidades especiais enviadas para a Zona para descobrir o que causou seu surgimento. Nos encontramos em circunstancias muito dificeis. Depois que metade da unidade morreu horrivelmente, aqueles que sobreviveram juraram que nao sairiam daqui ate entenderem o que esta acontecendo na Zona... ate derrota-la.</text>
 1081|<text>Fale-me sobre a Liberdade.</text>
 1084|<text>Sao bandidos que nao entendem que a Zona e uma ulcera no corpo da Terra. Eles querem espalha-la por todo o mundo, um pedaco em cada casa. Eles farao qualquer coisa para atingir esse objetivo e mal posso esperar para acabar com isso.</text>
@@ -369,15 +369,15 @@
 1108|<text>Va em frente, continue andando. O que voce esta olhando?</text>
 1111|<text>Ei cara! Fico feliz que voce ainda nao tenha sido comido por mutantes.</text>
 1114|<text>Houve um massacre no posto avancado. O que aconteceu?</text>
-1117|<text>Essa e a ultima onda de mutantes que veio antes da explosao. Fica quieto por tres ou quatro dias e depois vem outra onda. Se nao fosse por nos, nao haveria Bar, nao haveria Dever; somos a ultima barreira no caminho desses mutantes loucos. Muitos dos nossos rapazes encontraram seu fim aqui.</text>
+1117|<text>Essa e a ultima onda de mutantes que veio antes da explosao. Fica quieto por tres ou quatro dias e depois vem outra onda. Se nao fosse por nos, nao haveria Bar, nao haveria Duty; somos a ultima barreira no caminho desses mutantes loucos. Muitos dos nossos rapazes encontraram seu fim aqui.</text>
 1120|<text>Gostaria de saber uma coisa.</text>
 1123|<text>O que voce quer saber?</text>
 1126|<text>E minha primeira vez aqui. Voce poderia me contar um pouco sobre este lugar?</text>
-1129|<text>Antes do acidente em 86, esta era uma area industrial. Como voce pode ver, nao sobrou muita coisa agora... No porao perto do hangar, voce encontrara o bar 100 Rads. O lugar e administrado pelo comerciante local, que tambem e bartender. Se voce quiser negociar, conversar, conseguir uma missao ou saber as ultimas noticias, esse e o lugar certo. Ha tambem a Arena, onde voce pode lutar e ganhar algum dinheiro. A base do Dever nao fica longe da Arena. Se voce quiser se juntar ao Dever, va direto para la - eles dirao com quem falar. Ah, a proposito, toda esta area e protegida pelo Dever, entao comporte-se e mantenha suas armas embainhadas. Se voce comecar a atirar, a patrulha vai "te acalmar" bem rapido.</text>
+1129|<text>Antes do acidente em 86, esta era uma area industrial. Como voce pode ver, nao sobrou muita coisa agora... No porao perto do hangar, voce encontrara o bar 100 Rads. O lugar e administrado pelo comerciante local, que tambem e bartender. Se voce quiser negociar, conversar, conseguir uma missao ou saber as ultimas noticias, esse e o lugar certo. Ha tambem a Arena, onde voce pode lutar e ganhar algum dinheiro. A base da Duty nao fica longe da Arena. Se voce quiser se juntar ao Duty, va direto para la - eles dirao com quem falar. Ah, a proposito, toda esta area e protegida pelo Duty, entao comporte-se e mantenha suas armas embainhadas. Se voce comecar a atirar, a patrulha vai "te acalmar" bem rapido.</text>
 1132|<text>Voce disse que tem um bar aqui. Pode me dizer onde exatamente ele fica?</text>
 1135|<text>No porao atras do hangar... vou marcar no seu mapa.</text>
 1138|<text>Obrigado pela informacao.</text>
-1141|<text>Voce disse que a base do Dever fica aqui. Como faco para chegar la?</text>
+1141|<text>Voce disse que a base da Duty fica aqui. Como faco para chegar la?</text>
 1144|<text>Nao fica longe da Arena. Marquei no mapa para voce.</text>
 1147|<text>Obrigado pela informacao.</text>
 1150|<text>Voce disse que tem uma Arena aqui? Onde exatamente ela fica?</text>
@@ -401,7 +401,7 @@
 1204|<text>Meu nome e Kruglov. Sou professor de biologia, estudo a Zona. Ontem, por exemplo, encontrei um animal de particular interesse - Antropomorphus Dendromutantus Vulgaris. Eu encontro e documento principalmente novas especies de animais mutantes, suas caracteristicas e tracos distintivos. As informacoes sao entao minuciosamente estudadas e transferidas para o mundo exterior. Parte disso, e claro, vai para o Bartender. Minhas descobertas ajudaram a salvar a vida de muitos stalkers. Eu estava apenas transportando os resultados da minha pesquisa mais recente para o laboratorio perto do Lago Yantar quando o helicoptero foi atacado.</text>
 1207|<text>Fale-me sobre a Zona.</text>
 1210|<text>A Zona e um presente maravilhoso para a humanidade. E claro que a existencia normal aqui nao e possivel devido aos altos niveis de radiacao e aos mutantes agressivos. Todas essas coisas sao obviamente extremamente perigosas, mas tambem sao coisas de grande valor cientifico. A Zona e quase um experimento natural, um tesouro para os cientistas! A extensao em que o conhecimento da humanidade poderia ser aumentado atraves do estudo da Zona e insondavel. Tecnologia, medicina, novas plantas - medicinais e comestiveis, biotecnologia, curas para doencas incuraveis... qualquer coisa! Talvez possamos resolver o problema da alimentacao para todo o planeta. Se as pessoas nao interferissem, a ciencia poderia levar a humanidade a uma nova Era de Ouro!</text>
-1213|<text>O Dever pensa o contrario e nem a Liberdade parece querer te ajudar.</text>
+1213|<text>O Duty pensa o contrario e nem a Liberdade parece querer te ajudar.</text>
 1216|<text>Voce simplesmente e incapaz de compreender o quadro geral. Seus problemas de "aqui e agora" sao muito mais importantes para voce do que o futuro da humanidade!</text>
 1219|<text>Talvez haja alguma utilidade em estudar a Zona.</text>
 1222|<text>Entao voce entende isso tambem? E maravilhoso descobrir que existem aqueles entre voces que nao sao pessoas praticas de mente estreita. Sempre disse que e importante olhar para todo o conjunto de questoes de uma perspectiva mais ampla, distanciar-nos das simples medidas humanas. Mesmo que a Zona tenha prejudicado a humanidade, ela ainda pode ser de grande utilidade para nos!</text>

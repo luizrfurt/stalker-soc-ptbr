@@ -4,7 +4,7 @@
 		<text>Errante</text>
 	</string>
 	<string id="actor_dolg">
-		<text>Dever</text>
+		<text>Duty</text>
 	</string>
 	<string id="actor_freedom">
 		<text>Liberdade</text>
@@ -19,7 +19,7 @@
 		<text>Bandido</text>
 	</string>
 	<string id="dolg">
-		<text>Dever</text>
+		<text>Duty</text>
 	</string>
 	<string id="ecolog">
 		<text>Ecologista</text>

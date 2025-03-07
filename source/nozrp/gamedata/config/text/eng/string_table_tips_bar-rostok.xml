@@ -122,19 +122,19 @@
 		<text>Pare de atirar AGORA, Marca! Faca o que eu digo ou voce e um homem morto!</text>
 	</string>
 	<string id="bar_territory_dolg_3_hit">
-		<text>Voce esta expulso do grupo por quebrar o Codigo, Marca. Voce nao tem amigos no Dever agora.</text>
+		<text>Voce esta expulso do grupo por quebrar o Codigo, Marca. Voce nao tem amigos na Duty agora.</text>
 	</string>
 	<string id="bar_territory_dolg_kill">
-		<text>Marca, voce desobedeceu uma ordem direta. O Dever nao perdoa coisas assim. Voce e carne morta.</text>
+		<text>Marca, voce desobedeceu uma ordem direta. O Duty nao perdoa coisas assim. Voce e carne morta.</text>
 	</string>
 	<string id="bar_territory_nodolg_1_hit">
-		<text>Pare de atirar! Nao atire em territorio do Dever! Aqueles que quebrarem as regras serao punidos!</text>
+		<text>Pare de atirar! Nao atire em territorio da Duty! Aqueles que quebrarem as regras serao punidos!</text>
 	</string>
 	<string id="bar_territory_nodolg_2_hit">
-		<text>Atencao! O Marca foi declarado criminoso por quebrar a lei e atirar dentro do territorio do Dever.</text>
+		<text>Atencao! O Marca foi declarado criminoso por quebrar a lei e atirar dentro do territorio da Duty.</text>
 	</string>
 	<string id="bar_territory_nodolg_kill">
-		<text>Atencao! Ha um assassino em territorio do Dever. Encontre-o e mate-o!</text>
+		<text>Atencao! Ha um assassino em territorio da Duty. Encontre-o e mate-o!</text>
 	</string>
 	<string id="rostok_kruglov_spam_1">
 		<text>Voce, stalker, nos ajude! Fomos atacados por Mercs e metade de nossa equipe foi morta. Ajude-nos e prometo que voce nao se arrependera.</text>

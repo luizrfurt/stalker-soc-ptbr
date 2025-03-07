@@ -1,5 +1,5 @@
 	<string id="bar_darklab_documents_txt">
-		<text>Bartender: "De acordo com os documentos que voce trouxe de Agroprom, as coisas estao comecando a clarear, mas alguns dados estao faltando. Ha evidencias que sugerem a presenca de um Desintegrador Psiquico que bloqueia a estrada para o Norte, mas ninguem sabe exatamente o que e. Alem disso, ha mencao ao Lab X18, cuja descricao corresponde a de estruturas subterraneas abandonadas no Vale Sombrio. Sua atividade atual e desconhecida e, alem disso, bandidos agora estabeleceram sua base no Vale Sombrio.\n Varios batedores do Dever foram para la recentemente, mas ate agora nao ha noticias deles.\n Para entrar no laboratorio, voce precisara de duas chaves eletronicas; eu lhe darei uma, mas a segunda voce tera que pegar de Borov, o lider dos bandidos. \n\n Entao, voce precisa pegar a segunda chave do laboratorio de Borov, entao entrar sorrateiramente no laboratorio e pegar os documentos.</text>
+		<text>Bartender: "De acordo com os documentos que voce trouxe de Agroprom, as coisas estao comecando a clarear, mas alguns dados estao faltando. Ha evidencias que sugerem a presenca de um Desintegrador Psiquico que bloqueia a estrada para o Norte, mas ninguem sabe exatamente o que e. Alem disso, ha mencao ao Lab X18, cuja descricao corresponde a de estruturas subterraneas abandonadas no Vale Sombrio. Sua atividade atual e desconhecida e, alem disso, bandidos agora estabeleceram sua base no Vale Sombrio.\n Varios batedores da Duty foram para la recentemente, mas ate agora nao ha noticias deles.\n Para entrar no laboratorio, voce precisara de duas chaves eletronicas; eu lhe darei uma, mas a segunda voce tera que pegar de Borov, o lider dos bandidos. \n\n Entao, voce precisa pegar a segunda chave do laboratorio de Borov, entao entrar sorrateiramente no laboratorio e pegar os documentos.</text>
 	</string>
 	<string id="bar_darklab_documents2_txt">
 		<text>E necessario encontrar os documentos sobre as pesquisas feitas anteriormente no laboratorio x-18. Eles podem lancar alguma luz sobre o "Desintegrador Psiquico".</text>
@@ -62,10 +62,10 @@
 		<text>Tive um sonho estranho. A colossal usina nuclear de Chernobyl surge no crepusculo. Tudo parece pacifico. Um homem solitario aparece. Eu o vejo por tras contra o fundo da usina. O vento comeca a soprar. De repente, hordas de ratos comecam a fugir da estacao em todas as direcoes. O homem, com as costas ainda viradas para mim, atira nos ratos. Ha um grito abrupto: "Strelok!". O homem estremece, congela por um momento, entao comeca a virar lentamente em minha direcao, mas... apenas um instante antes de eu dar uma olhada em seu rosto, eu acordo. O que esse sonho significa? Nao sei, mas acho que e algo que ja vi antes.</text>
 	</string>
 	<string id="val_captive_help_txt">
-		<text>O membro do Dever Bala quer que eu resgate seu parceiro que foi capturado por bandidos. Ele sera escoltado em breve para a fabrica abandonada.</text>
+		<text>O membro da Duty Bala quer que eu resgate seu parceiro que foi capturado por bandidos. Ele sera escoltado em breve para a fabrica abandonada.</text>
 	</string>
 	<string id="val_prisoner_help_art_txt">
-		<text>Deverista: "Eles tem outro dos nossos: Serega. Eles o estao mantendo no porao... ha um predio grande la... inacabado... Ajude-o, ok? Ou eles vao acabar com ele tambem..."</text>
+		<text>Dutyer: "Eles tem outro dos nossos: Serega. Eles o estao mantendo no porao... ha um predio grande la... inacabado... Ajude-o, ok? Ou eles vao acabar com ele tambem..."</text>
 	</string>
 	<string id="val_x18_conclusion">
 		<text>Lab X18</text>

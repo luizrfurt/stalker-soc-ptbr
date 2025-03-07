@@ -199,7 +199,7 @@
 		<text>Buraco de toupeira</text>
 	</string>
 	<string id="bar_secret_0000_description">
-		<text>Escondi a mochila perto da base do Dever. Pego depois.</text>
+		<text>Escondi a mochila perto da base da Duty. Pego depois.</text>
 	</string>
 	<string id="bar_secret_0000_name">
 		<text>Mochila escondida</text>
@@ -223,13 +223,13 @@
 		<text>Mochila</text>
 	</string>
 	<string id="bar_secret_0004_description">
-		<text>A municao do posto de seguranca do Dever e armazenada em um bunker, mas ninguem esta de olho no bau</text>
+		<text>A municao do posto de seguranca da Duty e armazenada em um bunker, mas ninguem esta de olho no bau</text>
 	</string>
 	<string id="bar_secret_0004_name">
 		<text>Suprimentos no bunker</text>
 	</string>
 	<string id="bar_secret_0005_description">
-		<text>Eu vi um membro do Dever enfiar algo no cano perto do portao</text>
+		<text>Eu vi um membro da Duty enfiar algo no cano perto do portao</text>
 	</string>
 	<string id="bar_secret_0005_name">
 		<text>Esconderijo secreto</text>
@@ -247,13 +247,13 @@
 		<text>Mochila</text>
 	</string>
 	<string id="bar_secret_0008_description">
-		<text>Dizem que ha algo valioso escondido no territorio do Dever na central telefonica.</text>
+		<text>Dizem que ha algo valioso escondido no territorio da Duty na central telefonica.</text>
 	</string>
 	<string id="bar_secret_0008_name">
 		<text>Central telefonica com um esconderijo secreto</text>
 	</string>
 	<string id="bar_secret_0009_description">
-		<text>Enfiei o bau no topo da torre em frente ao Dever - ninguem vai notar</text>
+		<text>Enfiei o bau no topo da torre em frente ao Duty - ninguem vai notar</text>
 	</string>
 	<string id="bar_secret_0009_name">
 		<text>Esconderijo secreto na torre</text>
@@ -559,7 +559,7 @@
 		<text>Mochila nas ruinas</text>
 	</string>
 	<string id="gar_secret_0020_descr">
-		<text>Enquanto os membros do Dever estavam atirando, escondi o habar no vagao de trem. De alguma forma, tenho que entrar para pega-lo. E para agradecer ao Dever.</text>
+		<text>Enquanto os membros da Duty estavam atirando, escondi o habar no vagao de trem. De alguma forma, tenho que entrar para pega-lo. E para agradecer ao Duty.</text>
 	</string>
 	<string id="gar_secret_0020_name">
 		<text>Bau no posto de controle militar fortemente armado</text>
@@ -814,7 +814,7 @@
 		<text>Eles foram avisados para nao voar sobre o Desintegrador Psiquico, e veja o que aconteceu. Eles pousaram no meio da floresta, e e improvavel que alguem tenha sobrevivido. Deveriamos pegar as coisas que estavam com eles.</text>
 	</string>
 	<string id="rad_secret_0003_name">
-		<text>Pacote para o Dever</text>
+		<text>Pacote para a Duty</text>
 	</string>
 	<string id="rad_secret_0004_description">
 		<text>Dizem que os suprimentos da faccao, que estavam tentando chegar ao centro da Zona, ainda estao sob a radiacao do Desintegrador Psiquico. Nenhum deles retornou, e os suprimentos permaneceram la esperando que alguem os pegasse.</text>

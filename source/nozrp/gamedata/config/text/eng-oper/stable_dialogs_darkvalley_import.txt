@@ -31,7 +31,7 @@
 94|<text>Obrigado pela sua ajuda! O que mais voce queria saber?</text>
 97|<text>Voce se recusou a ajudar quando eu pedi. Nao temos nada para discutir. Suma daqui.</text>
 100|<text>Tchau.</text>
-103|<text>Ei, amigo! Me ajuda! Sou um batedor do Dever. Me ajuda a sair daqui!</text>
+103|<text>Ei, amigo! Me ajuda! Sou um batedor da Duty. Me ajuda a sair daqui!</text>
 106|<text>Vou tentar.</text>
 109|<text>Nao ha nada que eu possa fazer por voce.</text>
 112|<text>Obrigado, irmao! Te devo uma. Olha o que consegui descobrir - pode ser util para voce, quem sabe... Borov - aquele que manda em tudo - coletou muitos itens. Ele tem um pedaco da chave para o nivel inferior da velha fabrica. Ouvi os guardas tagarelando, eles disseram que costumava haver algum tipo de laboratorio la. A questao e que se aproximar de Borov nao e tao simples.</text>

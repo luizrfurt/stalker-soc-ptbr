@@ -23,16 +23,16 @@
 		<text>Destrua o ataque de bandidos</text>
 	</string>
 	<string id="gar_kill_boars">
-		<text>Ajude o posto de controle do Dever</text>
+		<text>Ajude o posto de controle da Duty</text>
 	</string>
 	<string id="gar_kill_boars_1">
 		<text>Mate os javalis.</text>
 	</string>
 	<string id="gar_kill_boars_2">
-		<text>Fale com o comandante do Dever</text>
+		<text>Fale com o comandante da Duty</text>
 	</string>
 	<string id="gar_kill_boars_descr">
-		<text>Dever: "Ola, a faccao Dever esta falando do Lixao. Ha uma onda de mutantes indo do Vale Sombrio em direcao ao bar. Garantimos nossa gratidao a todos que ajudarem a matar a escoria. Na palavra do Dever."</text>
+		<text>Duty: "Ola, a faccao Duty esta falando do Lixao. Ha uma onda de mutantes indo do Vale Sombrio em direcao ao bar. Garantimos nossa gratidao a todos que ajudarem a matar a escoria. Na palavra da Duty."</text>
 	</string>
 	<string id="gar_kill_boars_main">
 		<text>A missao para chegar ao bar.</text>

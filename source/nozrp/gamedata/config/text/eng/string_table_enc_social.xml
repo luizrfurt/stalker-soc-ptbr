@@ -7,7 +7,7 @@
 		<text>Bandidos</text>
 	</string>
 	<string id="Duty">
-		<text>Faccao Dever</text>
+		<text>Faccao Duty</text>
 	</string>
 	<string id="enc_social_military_army">
 		<text>Soldados regulares do exercito. Eles guardam todas as estradas para a Zona, patrulham seu perimetro, matam mutantes e cacam saqueadores. \nForcas Especiais - tropas de elite do exercito, geralmente enviadas para a Zona para realizar operacoes de resgate e outras missoes especiais.</text>
@@ -25,10 +25,10 @@
 		<text>Membros do submundo do crime que vieram para a Zona por diferentes motivos: ganhar dinheiro vendendo artefatos, esconder-se da lei ou negociar armas. A Zona 1  esta cheia de bandidos, desde bandidos comuns a criminosos serios, a maioria dos quais sao membros de uma gangue ou outra. Embora as gangues da Zona frequentemente lutem entre si, o elemento criminoso ainda representa um problema serio para os stalkers normais.</text>
 	</string>
 	<string id="enc_social_stalker-clans_duty">
-		<text>Um grupo paramilitar conhecido por sua disciplina, cujos membros vivem de acordo com um codigo estrito. Os membros do Dever sao o unico grupo que se recusa a negociar itens exclusivos da Zona com o mundo exterior. Segundo rumores, todos os artefatos encontrados pelo grupo sao repassados aos cientistas. Seus membros consideram a protecao do mundo exterior dos perigos da Zona seu principal objetivo. A maioria das operacoes do grupo diz respeito a destruicao de monstros, portanto, as incursoes do Dever frequentemente salvam os stalkers normais de problemas serios. A faccao esta em guerra com a Liberdade ha muito tempo.</text>
+		<text>Um grupo paramilitar conhecido por sua disciplina, cujos membros vivem de acordo com um codigo estrito. Os membros da Duty sao o unico grupo que se recusa a negociar itens exclusivos da Zona com o mundo exterior. Segundo rumores, todos os artefatos encontrados pelo grupo sao repassados aos cientistas. Seus membros consideram a protecao do mundo exterior dos perigos da Zona seu principal objetivo. A maioria das operacoes do grupo diz respeito a destruicao de monstros, portanto, as incursoes da Duty frequentemente salvam os stalkers normais de problemas serios. A faccao esta em guerra com a Liberdade ha muito tempo.</text>
 	</string>
 	<string id="enc_social_stalker-clans_freedom">
-		<text>Anarquistas e aventureiros que se declaram lutadores pelo livre acesso a Zona e, consequentemente, se encontram em conflito constante com o exercito, stalkers militares e a faccao Dever. Esses chamados guerreiros da liberdade acreditam em compartilhar todas as informacoes sobre a Zona com o resto do mundo e desafiam o monopolio do estado sobre os segredos e maravilhas da Zona.</text>
+		<text>Anarquistas e aventureiros que se declaram lutadores pelo livre acesso a Zona e, consequentemente, se encontram em conflito constante com o exercito, stalkers militares e a faccao Duty. Esses chamados guerreiros da liberdade acreditam em compartilhar todas as informacoes sobre a Zona com o resto do mundo e desafiam o monopolio do estado sobre os segredos e maravilhas da Zona.</text>
 	</string>
 	<string id="enc_social_stalker-clans_killers">
 		<text>A faccao mais clandestina e secreta da Zona; alguns nem acreditam em sua existencia. Ha aqueles que usam regularmente os servicos dos Mercs, pois sao verdadeiros profissionais, capazes de lidar rapidamente com qualquer stalker e ate aniquilar um pequeno grupo de oponentes. Seus servicos nao sao baratos - os Mercs exigem um resgate real por seus servicos em dinheiro ou artefatos. A localizacao de sua base permanece um segredo, sugerindo que esta no fundo da Zona.</text>

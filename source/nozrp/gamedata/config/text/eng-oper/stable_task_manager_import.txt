@@ -7,10 +7,10 @@
 22|<text>Entao, aqui esta o acordo. Recentemente, um grupo de stalkers foi para Agroprom. A ultima vez que entraram em contato, disseram que havia algo valioso no subsolo, mas estavam sendo pressionados pelos bandidos. Eles estao aguentando, mas nao conseguem limpar a area. Voce os ajudara?</text>
 25|<text>Elimine os bandidos no Lixao.</text>
 28|<text>Extermine a gangue de bandidos que se estabeleceu no Lixao. Tem que ser uma operacao rapida e eficiente.</text>
-31|<text>Um trabalho, hein? Vamos ver o que temos... Aha! Aqui esta: voce pode nocautear aquele bando de bandidos no Lixao? O Dever, com todos os seus discursos sobre lei e ordem, simplesmente nao consegue fazer isso. Sao uns escroques raros, entao nao durarao muito de qualquer maneira. Mas quem pega-los primeiro vai marcar pontos... e a bebida e por minha conta, e claro.</text>
+31|<text>Um trabalho, hein? Vamos ver o que temos... Aha! Aqui esta: voce pode nocautear aquele bando de bandidos no Lixao? O Duty, com todos os seus discursos sobre lei e ordem, simplesmente nao consegue fazer isso. Sao uns escroques raros, entao nao durarao muito de qualquer maneira. Mas quem pega-los primeiro vai marcar pontos... e a bebida e por minha conta, e claro.</text>
 34|<text>Elimine os Mercs e bandidos em Rostok.</text>
 37|<text>Destrua o grupo de Mercs e bandidos que bloqueiam a passagem por Rostok.</text>
-40|<text>Ha uma gangue de Mercs nao muito longe, em Rostok. Eles se deram bem com os bandidos, entao agora estao tramando bloquear a passagem pela fabrica. Nao preciso dizer o que e um incomodo, tem que ser resolvido imediatamente. Os caras do Dever e alguns dos veteranos ja foram dar uma licao neles, mas nao ouvimos falar deles ha um tempo... Entao, por que voce nao... eh... vai dar uma olhada neles? O dinheiro e bom tambem.</text>
+40|<text>Ha uma gangue de Mercs nao muito longe, em Rostok. Eles se deram bem com os bandidos, entao agora estao tramando bloquear a passagem pela fabrica. Nao preciso dizer o que e um incomodo, tem que ser resolvido imediatamente. Os caras da Duty e alguns dos veteranos ja foram dar uma licao neles, mas nao ouvimos falar deles ha um tempo... Entao, por que voce nao... eh... vai dar uma olhada neles? O dinheiro e bom tambem.</text>
 43|<text>Elimine os bandidos na fazenda.</text>
 46|<text>E tudo simples: limpe a fazenda dos bandidos.</text>
 49|<text>Ha a fazenda perto dos antigos armazens. Costumava ser um lugar perfeito para um encontro, para trocar mercadorias, sabe... esse tipo de coisa. Mas agora os bandidos a ocuparam e, pelo que parece, nao estao prestes a ir embora. Agora, isso nao me agrada nem um pouco. Preciso dessa fazenda o mais rapido possivel. Nao me importo com o que acontece com os inquilinos.</text>
@@ -71,8 +71,8 @@
 214|<text>Traga o casco de um javali</text>
 217|<text>Traga o casco de um javali</text>
 220|<text>Voce sabe que preparamos chifres e cascos? Isso e uma grande raridade. Eles fazem otimas joias com os cascos mutantes locais - conheco um joalheiro, ele esta interessado. Entao va em frente, encontre o casco do javali, e havera dinheiro no seu bolso.</text>
-223|<text>Proteja o posto de seguranca do Dever</text>
-226|<text>Proteja o posto de seguranca do Dever no Lixao.</text>
+223|<text>Proteja o posto de seguranca da Duty</text>
+226|<text>Proteja o posto de seguranca da Duty no Lixao.</text>
 229|<text>Entao, voce provavelmente encontrou nossos caras no Lixao. Eles estao la como uma especie de posto externo protegendo o bar dos mutantes que vem do Vale Sombrio. Chegou a informacao de que a manada doente de javalis esta se aproximando deles. Ajude-os a lutar contra os mutantes e eu lhe devo uma.</text>
 232|<text>Destrua o zumbi</text>
 235|<text>Destrua os zumbis longevos em Yantar.</text>
@@ -122,8 +122,8 @@
 367|<text>Neutralize o bandido</text>
 370|<text>Neutralize o bandido Poquer.</text>
 373|<text>Apelido do sujeito - Poquer. Um dos lideres de bandidos mais crueis, porco e estuprador... Evidentemente sua cabeca nao esta boa: dizem que ele contraiu uma doenca rara na Zona. Agora ele sofre lapsos de memoria bastante frequentes e, quando recupera a consciencia, nao consegue se lembrar de quem e onde esta. No entanto, ele esta sempre armado e muito agressivo. Localizacao presumivel: Vale Sombrio. Pronto para a tarefa?</text>
-376|<text>Encontre a arma do deverista.</text>
-379|<text>O deverista esta pedindo que voce encontre sua arma, ele a perdeu em algum lugar no Vale Sombrio durante outra expedicao de reconhecimento.</text>
+376|<text>Encontre a arma do dutyer.</text>
+379|<text>O dutyer esta pedindo que voce encontre sua arma, ele a perdeu em algum lugar no Vale Sombrio durante outra expedicao de reconhecimento.</text>
 382|<text>Nao deveria ter enlouquecido assim. Como a zona mexe com sua cabeca. Pensei que tinha bons nervos, nunca tive medo de nada, e aqui esta isso. Esse uivo nos ouvidos. Tudo estava indo como de costume. Houve uma expedicao de reconhecimento ao Vale Sombrio, descemos na trincheira com Krivoi para cobrir o resto do grupo, e entao, uma vez que ouvi o uivo, fui tomado pelo medo. Droga, nem me lembro como cheguei a coordenada. Quando voltei para a base, Voronin quase me acertou em cheio: ele tinha acabado de me dar um canhao aprimorado, por bom servico, por assim dizer. E aqui... eu entrei em panico e sai tao rapido que deixei o canhao la. Voce poderia traze-lo de volta para mim, senao para onde vou agora sem uma arma decente.</text>
 385|<text>Limpe o covil dos snorks</text>
 388|<text>Destrua o covil dos snorks em Yantar.</text>
@@ -178,12 +178,12 @@
 535|<text>Destrua o acampamento dos Mercs</text>
 538|<text>Destrua o acampamento dos Mercs perto dos armazens.</text>
 541|<text>Escute, aqui esta o acordo. O acampamento dos Mercs precisa ser destruido. Poderiamos deixa-los em paz, eles sao bons atiradores... exceto que eles realmente pediram por isso, entrando sorrateiramente em nosso territorio, tentando subornar meu pessoal. E hora de dar uma licao a eles. Voce pode fazer isso?</text>
-544|<text>Destrua o destacamento do Dever</text>
-547|<text>Destrua a faccao de limpeza do Dever em Rostok.</text>
-550|<text>Que tal ir a uma cacada? O destacamento de limpeza do Dever apareceu em Rostok. Esta e uma grande chance de pega-los de surpresa. O Dever continua enviando caras para cacar os monstros, mas no processo eles nao hesitam em atirar em quem nao gosta deles. Este destacamento precisa ser eliminado antes que o Dever chegue a Rostok. Nao deve haver muita gente: tres ou quatro veteranos e alguns novatos.</text>
-553|<text>Destrua o posto avancado do Dever</text>
-556|<text>Destrua o posto avancado do Dever no Lixao o mais rapido possivel.</text>
-559|<text>Ha um trabalho muito urgente. A passagem do Lixao para o Bar precisa ser limpa da unidade do Dever... Eles comecaram a se esconder la e roubar os transeuntes. Estamos esperando um pacote muito importante, mas agora nao se pode descartar que o Dever ja saiba sobre nosso mensageiro e tente embosca-lo. Precisamos eliminar esse bloqueio, mesmo que por um curto periodo. Ok?</text>
+544|<text>Destrua o destacamento da Duty</text>
+547|<text>Destrua a faccao de limpeza da Duty em Rostok.</text>
+550|<text>Que tal ir a uma cacada? O destacamento de limpeza da Duty apareceu em Rostok. Esta e uma grande chance de pega-los de surpresa. O Duty continua enviando caras para cacar os monstros, mas no processo eles nao hesitam em atirar em quem nao gosta deles. Este destacamento precisa ser eliminado antes que a Duty chegue a Rostok. Nao deve haver muita gente: tres ou quatro veteranos e alguns novatos.</text>
+553|<text>Destrua o posto avancado da Duty</text>
+556|<text>Destrua o posto avancado da Duty no Lixao o mais rapido possivel.</text>
+559|<text>Ha um trabalho muito urgente. A passagem do Lixao para o Bar precisa ser limpa da unidade da Duty... Eles comecaram a se esconder la e roubar os transeuntes. Estamos esperando um pacote muito importante, mas agora nao se pode descartar que a Duty ja saiba sobre nosso mensageiro e tente embosca-lo. Precisamos eliminar esse bloqueio, mesmo que por um curto periodo. Ok?</text>
 562|<text>Limpe a vila.</text>
 565|<text>Limpe a vila dos sanguessugas e, se possivel, elimine o controlador.</text>
 568|<text>Cara, voce viu todos aqueles monstros sanguessugas pululando na vila! Ninguem chega a cem metros dela, exceto completos idiotas. E alguns dizem que viram coisas la... um controlador e tudo o que precisamos agora! De qualquer forma, ja passou da hora de darmos um fim nisso. Nao estou te forcando, para falar a verdade eu mesmo nao iria la. Mas se voce nao tem medo, entao minha gratidao nao tera limites.</text>
@@ -194,35 +194,35 @@
 583|<text>Destrua a manada de roedores no Territorio Selvagem.</text>
 586|<text>Nao ha roedores perto de nossa base, essas criaturas podem chegar a qualquer lugar. E recentemente havia tantos deles aqui - voce nao acreditaria. Dois meses lidamos com eles... hehehe. Entao, descobrimos de onde os roedores vieram para nossa base. Do Territorio Selvagem, entendeu? Ha um medo de que esses ratos saltadores se multipliquem e voltem. Precisamos de um homem para cuidar deles para nos. Voce vai?</text>
 589|<text>Roube o rifle de sniper</text>
-592|<text>Roube o SVDm 2 modificado do armazem do Dever.</text>
-595|<text>Ha uma tarefa especial. E bem dificil, tambem... Entao, voce precisara recuperar um Dragunov aprimorado do armazem do Dever. Esta peca tem ate um nome proprio, mas deixe para la. O principal e que com sua luneta incrivel e cancelador de recuo voce pode atirar em um esquilo no olho a 400 metros. Entao, confio que voce fara isso!</text>
+592|<text>Roube o SVDm 2 modificado do armazem da Duty.</text>
+595|<text>Ha uma tarefa especial. E bem dificil, tambem... Entao, voce precisara recuperar um Dragunov aprimorado do armazem da Duty. Esta peca tem ate um nome proprio, mas deixe para la. O principal e que com sua luneta incrivel e cancelador de recuo voce pode atirar em um esquilo no olho a 400 metros. Entao, confio que voce fara isso!</text>
 598|<text>Obtenha o Chaser 13 modificado</text>
 601|<text>Obtenha o Chaser 13 modificado dos cientistas.</text>
 604|<text>Ouvi dizer que os cabecas de ovo conseguiram melhorar a espingarda Chaser usando um artefato. O poder de nocaute dessa coisa e o mesmo de um obus. Entao, por que voce nao os visita e ve se consegue fazer um acordo? Eu cobrirei todas as despesas!</text>
 607|<text>Traga o colete a prova de balas</text>
 610|<text>Traga o novo modelo do colete a prova de balas.</text>
 613|<text>Alguns dos soldados estao usando um novo tipo de colete a prova de balas. O revestimento interno e embebido em alguma pomada curativa ou algo assim... de qualquer forma, faz com que pequenos ferimentos cicatrizem muito rapido. E imagine que sorte: outro dia dez daqueles caras entraram em Yantar e apenas seis voltaram, com tres em seus ombros. Entendeu? Um deles ficou para tras. Se voce nos trouxer o colete a prova de balas dele, vamos examina-lo e fazer muitos deles tambem.</text>
-616|<text>Mate o chefe de seguranca do Dever</text>
-619|<text>Mate o chefe de seguranca do Dever e tente faze-lo o mais silenciosamente possivel.</text>
-622|<text>Seria bom que o chefe de seguranca do Dever desaparecesse silenciosamente. E quando eles estiverem em uma grande confusao, poderei plantar alguns dos meus caras na gangue deles. E entao, o diabo pode fazer qualquer truque... tudo bem, e melhor eu calar a boca. Sugiro que voce cuide dele a distancia, sem fazer alarde.</text>
+616|<text>Mate o chefe de seguranca da Duty</text>
+619|<text>Mate o chefe de seguranca da Duty e tente faze-lo o mais silenciosamente possivel.</text>
+622|<text>Seria bom que o chefe de seguranca da Duty desaparecesse silenciosamente. E quando eles estiverem em uma grande confusao, poderei plantar alguns dos meus caras na gangue deles. E entao, o diabo pode fazer qualquer truque... tudo bem, e melhor eu calar a boca. Sugiro que voce cuide dele a distancia, sem fazer alarde.</text>
 625|<text>Mate o Capitao Ivantsov</text>
-628|<text>Mate o Capitao Ivantsov, o auxiliar mais proximo do lider do Dever.</text>
-631|<text>E um trabalho dificil, estou avisando desde ja, mas vale a pena. Ivantsov, um auxiliar proximo do lider do Dever, esta pedindo por isso. Ele faz os trabalhos mais sujos: operacoes punitivas, ataques... Se voce soubesse quantos dos nossos caras ele matou! Ja passou da hora de nos livrarmos desse verme. Entao, se voce decidir faze-lo, sugiro que se arme bem.</text>
+628|<text>Mate o Capitao Ivantsov, o auxiliar mais proximo do lider da Duty.</text>
+631|<text>E um trabalho dificil, estou avisando desde ja, mas vale a pena. Ivantsov, um auxiliar proximo do lider da Duty, esta pedindo por isso. Ele faz os trabalhos mais sujos: operacoes punitivas, ataques... Se voce soubesse quantos dos nossos caras ele matou! Ja passou da hora de nos livrarmos desse verme. Entao, se voce decidir faze-lo, sugiro que se arme bem.</text>
 634|<text>Mate o Coronel Petrenko</text>
-637|<text>Mate o Coronel Petrenko, um dos fundadores da faccao Dever.</text>
-640|<text>Coronel Petrenko... Nao sei se voce ja ouviu o nome ou o encontrou, mas seria bom que voces dois se encontrassem. Este homem e um dos fundadores do Dever e um dos nossos piores inimigos. Tente garantir que sua conversa termine o mais rapido possivel... para ele. Voce consegue lidar com isso?</text>
+637|<text>Mate o Coronel Petrenko, um dos fundadores da faccao Duty.</text>
+640|<text>Coronel Petrenko... Nao sei se voce ja ouviu o nome ou o encontrou, mas seria bom que voces dois se encontrassem. Este homem e um dos fundadores da Duty e um dos nossos piores inimigos. Tente garantir que sua conversa termine o mais rapido possivel... para ele. Voce consegue lidar com isso?</text>
 643|<text>Destrua o stalker neutro</text>
 646|<text>Encontre e destrua o stalker neutro</text>
 649|<text>Ha um sujeito andando por aqui perto. Ele abateu um dos nossos uma vez. E algo assim nao pode ser perdoado. Voce aceita o trabalho? Nos pagaremos, nao se preocupe.</text>
-652|<text>Mate um dos comandantes do Dever</text>
-655|<text>Mate um dos comandantes do Dever</text>
-658|<text>Pagarei pela cabeca de qualquer lider do Dever! Derrube um e volte para a recompensa.</text>
+652|<text>Mate um dos comandantes da Duty</text>
+655|<text>Mate um dos comandantes da Duty</text>
+658|<text>Pagarei pela cabeca de qualquer lider da Duty! Derrube um e volte para a recompensa.</text>
 661|<text>Mate o stalker chamado Espantalho.</text>
 664|<text>Elimine o stalker chamado Espantalho</text>
 667|<text>Eliminamos monstros, exceto que para nos e uma questao de sobrevivencia, nao de lucro. As populacoes de mutantes nao sao tao numerosas; alem disso, eles tambem sao seres vivos, entao nao podemos permitir sua aniquilacao. Alguns individuos se recusam a entender isso. Uma ilustracao adequada e o stalker chamado Espantalho. Ele recebeu seu apelido por um motivo, vendendo mutantes empalhados. Nos o avisamos antes, mas tudo em vao. Entao, voce pode fazer uma boa acao para a mae Terra?</text>
 670|<text>Mate o stalker chamado Barin.</text>
-673|<text>Mate o stalker chamado Barin, chefe intendente da faccao Dever.</text>
-676|<text>Um canalha, bajulador, hipocrita e covarde... esse e o stalker Barin para voce. Como voce pode ver, um homem com um carater maravilhoso, que o ajudou a chegar ao topo do Dever. Atualmente fornece suprimentos e alimentos para a faccao, embora participe de ataques de vez em quando. Precisamos nos livrar dele, especialmente porque todas as pistas sobre a logistica do Dever levam a Barin.</text>
+673|<text>Mate o stalker chamado Barin, chefe intendente da faccao Duty.</text>
+676|<text>Um canalha, bajulador, hipocrita e covarde... esse e o stalker Barin para voce. Como voce pode ver, um homem com um carater maravilhoso, que o ajudou a chegar ao topo da Duty. Atualmente fornece suprimentos e alimentos para a faccao, embora participe de ataques de vez em quando. Precisamos nos livrar dele, especialmente porque todas as pistas sobre a logistica da Duty levam a Barin.</text>
 679|<text>Traga uma perna de javali</text>
 682|<text>Traga uma perna de javali</text>
 685|<text>Estamos planejando um jantar para comemorar o aniversario de Bob Marley. Entao, por que voce nao nos traz um pouco de presunto delicioso? Quanto mais, melhor! Jah nunca se esquecera de voce!</text>
@@ -238,7 +238,7 @@
 715|<text>Nao nos interessa o fato de que dreadnoughts ambulantes possam vagar pela Zona: stalkers em exoesqueletos armados ate os dentes. O trabalho se torna ainda mais perigoso e dificil com isso. Quanto menos deles houver, melhor para nos. Mate um deles e receba sua recompensa.</text>
 718|<text>Obtenha uma parte do corpo de um monstro.</text>
 721|<text>Destrua o stalker da Liberdade.</text>
-724|<text>Um stalker, um ex-deverista, que tinha muitas informacoes importantes sobre objetos em Prypiat, recentemente mudou para o lado da Liberdade. Ele precisa ser morto antes que diga demais.</text>
+724|<text>Um stalker, um ex-dutyer, que tinha muitas informacoes importantes sobre objetos em Prypiat, recentemente mudou para o lado da Liberdade. Ele precisa ser morto antes que diga demais.</text>
 727|<text>Escute aqui. Temos mapas de Prypiat - nao os atuais, mas os antigos, feitos no inicio dos anos 90. A coisa mais importante neles e a marcacao de todos os objetos militares: armazens subterraneos, abrigos antiaereos. Agora ha pouco uso disso, e claro, mas se encontrarmos uma estrada para Prypiat, essa informacao se tornara inestimavel. No entanto, aqui esta o problema. Um dos oficiais passou para o lado da Liberdade e ele sabia sobre essas informacoes. Resumindo, ele precisa ser silenciado antes que diga demais.</text>
 730|<text>Volte para a recompensa.</text>
 733|<text>Traga ao cliente o que foi prometido.</text>
@@ -250,9 +250,9 @@
 751|<text>Otimo trabalho, premio bem merecido!</text>
 754|<text>E ai?</text>
 757|<text>Olha o que temos agora:</text>
-760|<text>Cubra o destacamento do Dever do ataque dos bandidos no Vale Sombrio</text>
-763|<text>Cubra o destacamento do Dever do ataque dos bandidos no Vale Sombrio</text>
-766|<text>Finalmente consegui colocar na cabeca dura dos deveristas que ja passou da hora de limpar o Lixao dos bandidos. O Dever ampliara seu territorio e nao prejudicara meus clientes regulares com tanta frequencia. Bem, aqui esta o acordo - a lideranca do Dever decidiu, para comecar, cortar o fluxo de bandidos do Vale Sombrio. Entao eles enviaram um destacamento de bloqueio e descobriram que os bandidos nao gostaram disso. Quem diria! Entao, o que eu estou me perguntando e, voce poderia ajuda-los a garantir a entrada do Vale? Eu lhe agradecerei generosamente.</text>
+760|<text>Cubra o destacamento da Duty do ataque dos bandidos no Vale Sombrio</text>
+763|<text>Cubra o destacamento da Duty do ataque dos bandidos no Vale Sombrio</text>
+766|<text>Finalmente consegui colocar na cabeca dura dos dutyers que ja passou da hora de limpar o Lixao dos bandidos. O Duty ampliara seu territorio e nao prejudicara meus clientes regulares com tanta frequencia. Bem, aqui esta o acordo - a lideranca da Duty decidiu, para comecar, cortar o fluxo de bandidos do Vale Sombrio. Entao eles enviaram um destacamento de bloqueio e descobriram que os bandidos nao gostaram disso. Quem diria! Entao, o que eu estou me perguntando e, voce poderia ajuda-los a garantir a entrada do Vale? Eu lhe agradecerei generosamente.</text>
 769|<text>Nao ha trabalhos disponiveis no momento.</text>
 772|<text>Sobre o que voce quer discutir?</text>
 775|<text>Bom garoto! Trabalho bem feito.</text>

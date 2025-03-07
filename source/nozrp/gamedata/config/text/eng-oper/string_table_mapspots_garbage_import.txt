@@ -5,7 +5,7 @@
 14|<text>Horda de javalis.</text>
 17|<text>Ferro velho de veiculos.</text>
 20|<text>Floresta infestada de caes</text>
-23|<text>Posto de controle do Dever na estrada para o Bar.</text>
+23|<text>Posto de controle da Duty na estrada para o Bar.</text>
 26|<text>Um grupo de stalkers neutros pedindo ajuda.</text>
 29|<text>Um novato assustado e cansado.</text>
 32|<text>O esconderijo secreto do novato.</text>

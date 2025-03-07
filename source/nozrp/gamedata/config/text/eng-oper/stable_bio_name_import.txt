@@ -18,10 +18,10 @@
 53|<text>Garik</text>
 56|<text>Irmao gemeo de Garik. Seguranca no bar. Tao calado quanto seu irmao.</text>
 59|<text>Zhorik</text>
-62|<text>Nem santo, nem canalha. O Bartender conhece seu valor e e respeitado por todos os stalkers. Corre o boato de que ele esta se escondendo na Zona de alguns eventos sombrios em seu passado. Apos um encontro com a anomalia, ele comecou a mancar levemente e decidiu mudar de emprego. Ele montou um bar perto da faccao Dever, e o local gradualmente se transformou no ponto de encontro para todos os veteranos da Zona. O Bartender tem inumeras conexoes tanto na Zona quanto no mundo exterior.</text>
+62|<text>Nem santo, nem canalha. O Bartender conhece seu valor e e respeitado por todos os stalkers. Corre o boato de que ele esta se escondendo na Zona de alguns eventos sombrios em seu passado. Apos um encontro com a anomalia, ele comecou a mancar levemente e decidiu mudar de emprego. Ele montou um bar perto da faccao Duty, e o local gradualmente se transformou no ponto de encontro para todos os veteranos da Zona. O Bartender tem inumeras conexoes tanto na Zona quanto no mundo exterior.</text>
 65|<text>Bartender</text>
 68|<text>Fera</text>
-71|<text>Membro da faccao Dever, mais vezes fora do vagao do que nele. O Dever deu a ele sua ultima chance de redencao ao realizar uma missao. No entanto, ele estava muito bebado para se recompor e realiza-la.</text>
+71|<text>Membro da faccao Duty, mais vezes fora do vagao do que nele. O Duty deu a ele sua ultima chance de redencao ao realizar uma missao. No entanto, ele estava muito bebado para se recompor e realiza-la.</text>
 74|<text>Bromo</text>
 77|<text>Cara bem-humorado e alegre cujo unico problema e que ele nao consegue atirar com nada alem de um rifle de caca. Cacador nem experimentou outras armas ultimamente. Ele recentemente se envolveu em uma briga no Territorio Selvagem e perdeu seu rifle de familia. Agora ele esta descansando no bar esperando que alguem devolva seu rifle.</text>
 80|<text>Cacador</text>
@@ -33,13 +33,13 @@
 98|<text>Guarda-costas do dono da Arena. Nao se sabe muito sobre seu passado, mas tudo e ruim. Ele odeia seus irmaos.</text>
 101|<text>Liolik</text>
 104|<text>Careca</text>
-107|<text>Um dos fundadores do Dever e seu principal idealizador ao mesmo tempo. Responsavel pelo codigo sagrado da faccao, ele recrutou basicamente todos os membros-chave do Dever.</text>
+107|<text>Um dos fundadores da Duty e seu principal idealizador ao mesmo tempo. Responsavel pelo codigo sagrado da faccao, ele recrutou basicamente todos os membros-chave da Duty.</text>
 110|<text>Coronel Petrenko</text>
-113|<text>Chefe da seguranca do territorio do Dever</text>
+113|<text>Chefe da seguranca do territorio da Duty</text>
 116|<text>Sargento Plichko</text>
 119|<text>Estranho afetado pelo Desintegrador Psiquico.</text>
 122|<text>Sardento</text>
-125|<text>Um dos fundadores do Dever e seu principal idealizador. Responsavel pelo codigo sagrado da faccao. Ele recrutou quase todos os membros-chave do Dever.</text>
+125|<text>Um dos fundadores da Duty e seu principal idealizador. Responsavel pelo codigo sagrado da faccao. Ele recrutou quase todos os membros-chave da Duty.</text>
 128|<text>General Voronin</text>
 131|<text>Bebado.</text>
 134|<text>Stalker desconhecido. Reputacao desagradavel. Detalhes nao disponiveis.</text>
@@ -88,8 +88,8 @@
 263|<text>Sidorovich</text>
 266|<text>Tem certa autoridade com os bandidos na Zona. Comparsa de Borov.</text>
 269|<text>Vasya Javali</text>
-272|<text>Um stalker da faccao Dever. Detalhes nao disponiveis.</text>
-275|<text>Oficial da faccao Dever. Detalhes nao disponiveis.</text>
+272|<text>Um stalker da faccao Duty. Detalhes nao disponiveis.</text>
+275|<text>Oficial da faccao Duty. Detalhes nao disponiveis.</text>
 278|<text>Suboficial</text>
 281|<text>Novato. Esta abrindo caminho na Zona.</text>
 284|<text>Yurik</text>
@@ -99,10 +99,10 @@
 296|<text>Stalker com um rosto tao sujo quanto sua consciencia.</text>
 299|<text>Seriy</text>
 302|<text>Um stalker experiente. Detalhes nao disponiveis.</text>
-305|<text>Militante da faccao Dever. Geralmente bem equipado. Detalhes nao disponiveis.</text>
-308|<text>Comandante das forcas especiais da faccao Dever. Geralmente bem equipado.</text>
+305|<text>Militante da faccao Duty. Geralmente bem equipado. Detalhes nao disponiveis.</text>
+308|<text>Comandante das forcas especiais da faccao Duty. Geralmente bem equipado.</text>
 311|<text>Cranio</text>
-314|<text>Um combatente da faccao Dever. Geralmente bem equipado. Detalhes nao disponiveis.</text>
+314|<text>Um combatente da faccao Duty. Geralmente bem equipado. Detalhes nao disponiveis.</text>
 317|<text>Um dedo-duro conhecido em toda a Zona.</text>
 320|<text>Ara</text>
 323|<text>Mercenario desconhecido. Bem armado e altamente perigoso. Detalhes nao disponiveis.</text>
@@ -148,7 +148,7 @@
 443|<text>Soldado zumbificado</text>
 446|<text>Um dos stalkers que ficaram sem sorte.</text>
 449|<text>Stalker zumbificado</text>
-452|<text>Comandante da faccao Dever. Muito bem equipado. Detalhes nao disponiveis.</text>
+452|<text>Comandante da faccao Duty. Muito bem equipado. Detalhes nao disponiveis.</text>
 455|<text>Cientista. Detalhes nao disponiveis.</text>
 458|<text>Seguranca dos cientistas. Detalhes nao disponiveis.</text>
 461|<text>Assistente de pesquisa.</text>
@@ -163,7 +163,7 @@
 488|<text>Um pesquisador do laboratorio movel. Detalhes nao disponiveis.</text>
 491|<text>Cientista, especialista em fenomenos anomalos. Trabalhou na America em projetos ultrassecretos. Dado como desaparecido ha algum tempo.</text>
 494|<text>Freeman</text>
-497|<text>Saqueador e assassino. Uma recompensa foi colocada por sua cabeca. Anteriormente em bons termos com o Dever, ajudou-os a conquistar seu territorio. Agora habita o Territorio Selvagem e assalta stalkers solitarios com sua gangue.</text>
+497|<text>Saqueador e assassino. Uma recompensa foi colocada por sua cabeca. Anteriormente em bons termos com a Duty, ajudou-os a conquistar seu territorio. Agora habita o Territorio Selvagem e assalta stalkers solitarios com sua gangue.</text>
 500|<text>Sortudo</text>
 503|<text>Doutor em biologia. Estudou mutacoes patogenicas em animais fora da Zona. Veio para a Zona para estudar mutacoes de caes cegos.</text>
 506|<text>Professor Kruglov</text>
@@ -221,11 +221,11 @@
 662|<text>Feroz, perverso, rude, egoista, cruel, insensivel, frio. Ninguem sabe quando e como ele chegou a Zona. Todos o temem e ele nao tem amigos. Ele simplesmente vive na Zona, sem futuro e sem passado. Apos uma de suas numerosas incursoes na Zona, ele perdeu a memoria, esquecendo quase tudo. Ele nao se lembra de onde vem, nao se lembra de seu nome verdadeiro, sofre de lapsos de memoria frequentes. Conhecido por esquecer completamente seu novo conhecido em uma hora, toma-lo por inimigo e mata-lo.</text>
 665|<text>Stalker desconhecido. Reputacao desagradavel. Detalhes nao disponiveis.</text>
 668|<text>Stalker desconhecido. Reputacao desagradavel. Detalhes nao disponiveis.</text>
-671|<text>Guarda da faccao Dever. Se voce nao e amigo deles, fique longe deles. Detalhes nao disponiveis.</text>
-674|<text>Stalker da faccao Dever. Detalhes nao disponiveis.</text>
-677|<text>Militante da faccao Dever. Geralmente bem equipado. Detalhes nao disponiveis.</text>
+671|<text>Guarda da faccao Duty. Se voce nao e amigo deles, fique longe deles. Detalhes nao disponiveis.</text>
+674|<text>Stalker da faccao Duty. Detalhes nao disponiveis.</text>
+677|<text>Militante da faccao Duty. Geralmente bem equipado. Detalhes nao disponiveis.</text>
 680|<text>Um canalha, bajulador, hipocrita e covarde. O lema de Barin bem poderia ser: "Depois de nos, o Diluvio". Aproveita-se de qualquer situacao. Extremamente ambicioso e melindroso. Ele veio para a Zona, sem surpresa, por dinheiro. Ha dois anos, ele tem adquirido bens materiais por todos os meios possiveis.</text>
-683|<text>Militante da faccao Dever. Geralmente bem equipado. Detalhes nao disponiveis.</text>
+683|<text>Militante da faccao Duty. Geralmente bem equipado. Detalhes nao disponiveis.</text>
 686|<text>Recrutador oficial do Servico de Seguranca Ucraniano. Um visitante frequente do bar. Todos sabem quem ele e, assim como o fato de que ele e o homem a quem recorrer quando voce cai em tempos dificeis. No entanto, uma vez que voce cruza essa linha, nao ha como voltar as fileiras dos stalkers honestos.</text>
 689|<text>Na vida cotidiana, um fleumatico que guarda suas emocoes para si e sempre permanece calmo. No entanto, quando sob estresse, ele fica irritadico e agressivo. Altamente intelectual. Um materialista que se arrepende de ter vindo para a Zona em primeiro lugar. Depois de se formar na universidade de medicina, foi enviado para a Zona, onde o acampamento de cientistas precisava de um assistente de neurocirurgiao. Disseca cerebros de mutantes e pesquisa suas propriedades psicocineticas. Ansioso por sua aposentadoria, quando podera voltar para a capital, o mais longe possivel deste lugar podre.</text>
 692|<text>Um dos stalkers que ficaram sem sorte.</text>
@@ -271,11 +271,11 @@
 812|<text>Bandido experiente. Reputacao desagradavel. Detalhes nao disponiveis.</text>
 815|<text>Lider dos bandidos.</text>
 818|<text>Borov</text>
-821|<text>Stalker da faccao Dever. Detalhes nao disponiveis.</text>
+821|<text>Stalker da faccao Duty. Detalhes nao disponiveis.</text>
 824|<text>Stalker do grupo Monolito. Detalhes nao disponiveis.</text>
-827|<text>Stalker da faccao Dever. Detalhes nao disponiveis.</text>
+827|<text>Stalker da faccao Duty. Detalhes nao disponiveis.</text>
 830|<text>Sergei Cabeludo</text>
-833|<text>Stalker da faccao Dever. Detalhes nao disponiveis.</text>
+833|<text>Stalker da faccao Duty. Detalhes nao disponiveis.</text>
 836|<text>Bala</text>
 839|<text>Soldado regular. Detalhes nao disponiveis.</text>
 842|<text>Forcas Especiais. Bem equipado. Detalhes nao disponiveis.</text>
