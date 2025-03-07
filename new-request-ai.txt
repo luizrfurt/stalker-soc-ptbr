@@ -11,7 +11,7 @@ Chernobyl NPP -> Usina Nuclear de Chernobyl, Agroprom Underground -> Agroprom Su
 Sarcophagus -> Sarcofago, Brain Scorcher -> Desintegrador Psiquico, Psi-Brain -> Psi-Amp, C-Consciousness -> C-Consciencia, Wish Granter -> Concessor de Desejos
 --
 Personagens: Marked One -> Marca, Strelok -> Strelok, Luckless -> Sem sorte, Mole -> Toupeira, Barkeep -> Bartender, Brome -> Bromo, Beast -> Fera, Hunter -> Cacador, Snitch -> Dedo-duro, Baldy -> Careca, Alkie -> Bebado,
-Doc. -> Dr., Doc -> Doutor, Fanatic -> Fanatico, Fox -> Raposo, Guide -> Guia, Nimble -> Esperto, Wolf -> Lobo, Skull -> Cranio, Doublet -> Dupleto, Screw (personagem) -> Durao, Murk -> Sombra,
+Doc. -> Dr., Doc -> Doutor, Fanatic -> Fanatico, Fox -> Raposo, Guide -> Guia, Nimble -> Agil, Wolf -> Lobo, Skull -> Cranio, Doublet -> Dupleto, Screw (personagem) -> Durao, Murk -> Sombra,
 Skinflint -> Avarento, Charon -> Caronte, Lucky -> Sortudo, Tyran -> Tirano, Wolfhound -> Galgo, Vasya Boar / Vasya "Boar" -> Vasya Javali, Spotty -> Sardento, Bullet (personagem) -> Bala, Ghost -> Fantasma,
 Friar -> Frade, Poker -> Poquer, Crop (personagem) -> Corte, Vampire -> Vampiro, Scarecrow -> Espantalho, Father -> Padre, Master (personagem) -> Mestre, Clumsy -> Desastrado, Oleg "Fiend" Gusarov -> Oleg "Demonio" Gusarov,
 Smartass -> Espertinho, Sparrow -> Pardal, Twig -> Galho, Ratcatcher -> Ratoeiro, Fang -> Presa
