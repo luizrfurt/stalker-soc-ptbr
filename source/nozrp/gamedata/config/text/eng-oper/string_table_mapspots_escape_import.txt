@@ -1,7 +1,7 @@
 2|<text>Pasta com documentos</text>
 5|<text>Raposo ferido.</text>
 8|<text>Moinho abandonado. O irmao ferido foi visto pela ultima vez por aqui.</text>
-11|<text>Comerciante.</text>
+11|<text>Trader.</text>
 14|<text>Bandidos na fabrica.</text>
 17|<text>Um grupo desconhecido de Mercs.</text>
 20|<text>Lider do acampamento de novatos.</text>

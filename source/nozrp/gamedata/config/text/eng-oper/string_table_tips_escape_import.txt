@@ -13,7 +13,7 @@
 38|<text>Para ativar o mapa, pressione ($$ACTION_MAP$$).</text>
 41|<text>Para ativar o PDA, pressione ($$ACTION_ACTIVE_JOBS$$).</text>
 44|<text>Para falar com alguem, mire neles e pressione ($$ACTION_USE$$).</text>
-47|<text>Encontre o artefato na area marcada no mapa e leve-o ao comerciante.</text>
+47|<text>Encontre o artefato na area marcada no mapa e leve-o ao trader.</text>
 50|<text>Preste atencao, Marca. Da proxima vez pode ser voce.</text>
 53|<text>De um kit medico para este idiota.</text>
 56|<text>Marca! Esqueca o artefato, voce o deixara mais tarde. Va para o trailer na estrada o mais rapido possivel. Meus rapazes precisam de ajuda la. Os idiotas abriram fogo contra um helicoptero que passava. Enviei as coordenadas para voce.</text>

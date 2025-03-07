@@ -8,7 +8,7 @@
 23|<text>O grafico detalha as patrulhas, sentinelas e torres de guarda. O QG fica no terceiro andar do Instituto. E la que os documentos sao mantidos. Durante o dia, a area e infestada de patrulhas. Ha menos delas a noite e os guardas sao substituidos as 23h. Ha poucas pessoas no predio principal neste momento. Se voce quiser entrar na base, deve escolher as catacumbas, o portao nao e uma opcao.</text>
 26|<text>Grafico de guarda do Instituto de Pesquisa Agroprom</text>
 29|<text>O exercito esta irritado com os ratos que saem dos coletores. Eles punem os soldados enviando-os para os coletores.</text>
-32|<text>Comerciante: "Assim que voce roubar a pasta do Instituto, leve-a para Bartender. Ele administra o 100 Rads - o bar dos stalkers. Ele esta localizado no local da antiga fabrica Rostok."</text>
+32|<text>Trader: "Assim que voce roubar a pasta do Instituto, leve-a para Bartender. Ele administra o 100 Rads - o bar dos stalkers. Ele esta localizado no local da antiga fabrica Rostok."</text>
 35|<text>SOS, o exercito esta matando um companheiro stalker! Pessoal, se voces puderem me ouvir - ajudem!</text>
 38|<text>Encontro com Toupeira</text>
 41|<text>Toupeira: "Me ajude, vou ser morto!"</text>

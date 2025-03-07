@@ -285,7 +285,7 @@
 856|<text>Sim, eu nao gostaria de me juntar a eles.</text>
 859|<text>O que voce quer?</text>
 862|<text>O que voce ouviu?</text>
-865|<text>Os comerciantes dizem que ha um verdadeiro tesouro de artefatos no centro da Zona, entao qualquer um que passar vai ganhar dinheiro suficiente para duas vidas. Pessoalmente, acho que ha mais nisso. Obviamente, os comerciantes pensam em seus proprios interesses, mas ha rumores estranhos circulando. Aparentemente, ha algo melhor do que artefatos la - algo que nao e deste mundo, algo alienigena ou de outra dimensao! Eles chamam isso de maquina de concessao de desejos. Ouvi uma lenda sobre um stalker que conseguiu passar. So que toda vez que alguem faz um desejo, a Zona cresce e ninguem que chega la usa seu desejo para faze-la desaparecer. Acho que quando voce chega a Maquina, voce nao se importa com mais ninguem.</text>
+865|<text>Os traders dizem que ha um verdadeiro tesouro de artefatos no centro da Zona, entao qualquer um que passar vai ganhar dinheiro suficiente para duas vidas. Pessoalmente, acho que ha mais nisso. Obviamente, os traders pensam em seus proprios interesses, mas ha rumores estranhos circulando. Aparentemente, ha algo melhor do que artefatos la - algo que nao e deste mundo, algo alienigena ou de outra dimensao! Eles chamam isso de maquina de concessao de desejos. Ouvi uma lenda sobre um stalker que conseguiu passar. So que toda vez que alguem faz um desejo, a Zona cresce e ninguem que chega la usa seu desejo para faze-la desaparecer. Acho que quando voce chega a Maquina, voce nao se importa com mais ninguem.</text>
 868|<text>Isso e triste.</text>
 871|<text>O que voce quer?</text>
 874|<text>O que voce ouviu?</text>
@@ -373,7 +373,7 @@
 1120|<text>Gostaria de saber uma coisa.</text>
 1123|<text>O que voce quer saber?</text>
 1126|<text>E minha primeira vez aqui. Voce poderia me contar um pouco sobre este lugar?</text>
-1129|<text>Antes do acidente em 86, esta era uma area industrial. Como voce pode ver, nao sobrou muita coisa agora... No porao perto do hangar, voce encontrara o bar 100 Rads. O lugar e administrado pelo comerciante local, que tambem e bartender. Se voce quiser negociar, conversar, conseguir uma missao ou saber as ultimas noticias, esse e o lugar certo. Ha tambem a Arena, onde voce pode lutar e ganhar algum dinheiro. A base da Duty nao fica longe da Arena. Se voce quiser se juntar ao Duty, va direto para la - eles dirao com quem falar. Ah, a proposito, toda esta area e protegida pelo Duty, entao comporte-se e mantenha suas armas embainhadas. Se voce comecar a atirar, a patrulha vai "te acalmar" bem rapido.</text>
+1129|<text>Antes do acidente em 86, esta era uma area industrial. Como voce pode ver, nao sobrou muita coisa agora... No porao perto do hangar, voce encontrara o bar 100 Rads. O lugar e administrado pelo trader local, que tambem e bartender. Se voce quiser negociar, conversar, conseguir uma missao ou saber as ultimas noticias, esse e o lugar certo. Ha tambem a Arena, onde voce pode lutar e ganhar algum dinheiro. A base da Duty nao fica longe da Arena. Se voce quiser se juntar ao Duty, va direto para la - eles dirao com quem falar. Ah, a proposito, toda esta area e protegida pelo Duty, entao comporte-se e mantenha suas armas embainhadas. Se voce comecar a atirar, a patrulha vai "te acalmar" bem rapido.</text>
 1132|<text>Voce disse que tem um bar aqui. Pode me dizer onde exatamente ele fica?</text>
 1135|<text>No porao atras do hangar... vou marcar no seu mapa.</text>
 1138|<text>Obrigado pela informacao.</text>

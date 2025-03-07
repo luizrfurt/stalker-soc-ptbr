@@ -8,7 +8,7 @@
 		<text>PDA do bandido da fabrica</text>
 	</string>
 	<string id="blokpost_case_text">
-		<text>Comerciante: entre no posto avancado do exercito e roube a pasta contendo o relatorio da expedicao militar a parte norte da Zona.</text>
+		<text>Trader: entre no posto avancado do exercito e roube a pasta contendo o relatorio da expedicao militar a parte norte da Zona.</text>
 	</string>
 	<string id="Dead novice's flash">
 		<text>PDA do novato morto</text>
@@ -29,7 +29,7 @@
 		<text>OK, vou me encontrar com o homem de Fantasma. Estarei esperando por ele no esconderijo de Strelok. Se ele for um dos nossos, sabera onde me procurar. Doutor.</text>
 	</string>
 	<string id="esc_flash_task_descr">
-		<text>Comerciante: "...meus caras estavam voltando de uma missao e desapareceram. Um deles - chamado Agil - estava me trazendo algumas informacoes... E todos desapareceram muito perto porque perderam a ponte. Nao sei o que pensar. De qualquer forma: encontre Agil, morto ou vivo, desde que ele tenha o pendrive. Traga-o para mim. Agil era um dos homens de Lobo - e Lobo esta aqui no acampamento. Pergunte a ele, ele provavelmente sabe de alguma coisa. Ele o ajudara com armas e equipamentos."</text>
+		<text>Trader: "...meus caras estavam voltando de uma missao e desapareceram. Um deles - chamado Agil - estava me trazendo algumas informacoes... E todos desapareceram muito perto porque perderam a ponte. Nao sei o que pensar. De qualquer forma: encontre Agil, morto ou vivo, desde que ele tenha o pendrive. Traga-o para mim. Agil era um dos homens de Lobo - e Lobo esta aqui no acampamento. Pergunte a ele, ele provavelmente sabe de alguma coisa. Ele o ajudara com armas e equipamentos."</text>
 	</string>
 	<string id="esc_fox_info">
 		<text>Seriy para Raposo: um amigo quer que eu ajude um grupo de stalkers que desenterraram o esconderijo de Strelok. Vou para o hangar no Lixao com meus rapazes. E la que voce pode me encontrar.</text>
@@ -50,19 +50,19 @@
 		<text>...acordei na toca de um cara, nao me lembro de nada. So tenho um PDA comigo com a foto de outro cara. Ha apenas uma mensagem no PDA - mate Strelok.</text>
 	</string>
 	<string id="help_to_fox">
-		<text>Comerciante: Raposo voltou de sua incursao e esta pedindo ajuda. Talvez ele saiba algo sobre Strelok.</text>
+		<text>Trader: Raposo voltou de sua incursao e esta pedindo ajuda. Talvez ele saiba algo sobre Strelok.</text>
 	</string>
 	<string id="meet_seryi_text">
 		<text>Raposo: Seriy esta sentado no hangar no Lixao, ele sabe mais sobre Strelok.</text>
 	</string>
 	<string id="military_case_text">
-		<text>Comerciante: roube o relatorio da expedicao dos militares no Instituto de Pesquisa Agroprom, leve-o para o bar 100 Rads e entregue-o para Bartender.</text>
+		<text>Trader: roube o relatorio da expedicao dos militares no Instituto de Pesquisa Agroprom, leve-o para o bar 100 Rads e entregue-o para Bartender.</text>
 	</string>
 	<string id="Seryi flash">
 		<text>PDA de Raposo</text>
 	</string>
 	<string id="storyline_fox_flash_info">
-		<text>Diario de Tolik. O comerciante nos enviou para espionar os militares no Instituto de Pesquisa Agroprom. Cheguei la e atirei em todos, bandidos e militares. Desenterrei algumas coisas interessantes, estou codificando o resto texto confuso que parece uma cifra</text>
+		<text>Diario de Tolik. O trader nos enviou para espionar os militares no Instituto de Pesquisa Agroprom. Cheguei la e atirei em todos, bandidos e militares. Desenterrei algumas coisas interessantes, estou codificando o resto texto confuso que parece uma cifra</text>
 	</string>
 	<string id="storyline_seryi_info">
 		<text>Seriy para Raposo: um cara que conheco pediu para encontrar um grupo de stalkers que farejaram o esconderijo de Strelok. Estarei no Lixao, apareca se quiser.</text>
@@ -71,7 +71,7 @@
 		<text>PDA de Tolik</text>
 	</string>
 	<string id="tutorial_artefact_find">
-		<text>Comerciante: ha um campo de anomalia Redemoinho por perto. Ha um artefato em seu centro. Pegue-o.</text>
+		<text>Trader: ha um campo de anomalia Redemoinho por perto. Ha um artefato em seu centro. Pegue-o.</text>
 	</string>
 	<string id="tutorial_moving_anomaly_text">
 		<text>Ha uma anomalia muito estranha aqui. Parece que esta se movendo. Vou tentar calcular seus tempos de movimento e caminho, porque nao tenho dinheiro para pagar aos soldados pela passagem.</text>

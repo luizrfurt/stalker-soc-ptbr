@@ -37,7 +37,7 @@
 112|<text>Tempo ate a explosao</text>
 115|<text>Loner</text>
 118|<text>terrivel</text>
-121|<text>Comerciante</text>
+121|<text>Trader</text>
 124|<text>grupo</text>
 127|<text>Preco</text>
 130|<text>posicao</text>

@@ -8,7 +8,7 @@
 		<text>Mate todos os bandidos na fabrica</text>
 	</string>
 	<string id="esc_bandits_on_factory_2">
-		<text>Fale com o comerciante</text>
+		<text>Fale com o trader</text>
 	</string>
 	<string id="esc_bandits_on_factory_3">
 		<text>Fale com Lobo</text>
@@ -23,7 +23,7 @@
 		<text>Roube a caixa do posto avancado do exercito</text>
 	</string>
 	<string id="esc_blockpost_case_to_trader_2">
-		<text>Leve a caixa para o comerciante</text>
+		<text>Leve a caixa para o trader</text>
 	</string>
 	<string id="esc_defend_lager">
 		<text>Proteja o acampamento de novatos dos Mercs</text>
@@ -65,10 +65,10 @@
 		<text>Obtenha informacoes sobre Strelok</text>
 	</string>
 	<string id="esc_wounded_to_trader_gift">
-		<text>Entregue o pacote ao comerciante.</text>
+		<text>Entregue o pacote ao trader.</text>
 	</string>
 	<string id="esc_wounded_to_trader_gift_0">
-		<text>Entregue o pacote ao comerciante. Ele podera ajuda-lo.</text>
+		<text>Entregue o pacote ao trader. Ele podera ajuda-lo.</text>
 	</string>
 	<string id="garbage_meet_stalker">
 		<text>Encontre-se com Seriy.</text>
@@ -101,13 +101,13 @@
 		<text>Encontre um artefato</text>
 	</string>
 	<string id="tutorial_find_artefact_2">
-		<text>Leve o artefato para o comerciante.</text>
+		<text>Leve o artefato para o trader.</text>
 	</string>
 	<string id="tutorial_help_wounded">
 		<text>Obtenha informacoes do batedor</text>
 	</string>
 	<string id="tutorial_help_wounded_0">
-		<text>Leve as informacoes para o comerciante</text>
+		<text>Leve as informacoes para o trader</text>
 	</string>
 	<string id="tutorial_help_wounded_1">
 		<text>Fale com Lobo</text>
@@ -116,13 +116,13 @@
 		<text>Pegue o pendrive de Agil</text>
 	</string>
 	<string id="tutorial_help_wounded_3">
-		<text>Leve o pendrive para o comerciante</text>
+		<text>Leve o pendrive para o trader</text>
 	</string>
 	<string id="esc_trader_job">
-		<text>Trabalhe para o comerciante</text>
+		<text>Trabalhe para o trader</text>
 	</string>
 	<string id="esc_trader_job_text">
-		<text>Pegue a tarefa especial do comerciante</text>
+		<text>Pegue a tarefa especial do trader</text>
 	</string>
 	<string id="bar_barman_job">
 		<text>Trabalhe para Bartender</text>

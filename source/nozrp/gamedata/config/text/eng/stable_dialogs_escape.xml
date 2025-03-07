@@ -127,7 +127,7 @@
 		<text>Obrigado. OK, agora estou ouvindo com muita atencao.</text>
 	</string>
 	<string id="escape_fox_hello_dialog_31">
-		<text>O Comerciante me disse que voce poderia saber algo sobre Strelok.</text>
+		<text>O Trader me disse que voce poderia saber algo sobre Strelok.</text>
 	</string>
 	<string id="escape_fox_hello_dialog_311">
 		<text>Por que todo mundo esta demonstrando tanto interesse nele ultimamente? OK, nao posso dizer que o conheco pessoalmente. Nos "nos comunicamos", no entanto: meus caras atiraram nele uma vez. Ninguem se machucou - estava claro que o grupo dele estava esperando por outra pessoa, entao nos separamos em paz. Nos xingamos atraves de uma ravina e seguimos nossos caminhos separados. Seriy, meu irmao, esta agora no hangar no Lixao - vou te dar as coordenadas dele para que voces dois possam conversar. Ele sabe mais sobre Strelok. Tenha cuidado na saida, uma pequena gangue se instalou nessas partes. A proposito, tenho alguns monstros me perseguindo e nao parece que eles desistiram ainda. Voce se importa de me ajudar a lidar com eles? E moleza, na verdade.</text>
@@ -172,7 +172,7 @@
 		<text>O que posso fazer para que as pessoas acreditem em mim?</text>
 	</string>
 	<string id="escape_lager_guard_start_dialog_21221">
-		<text>Passe no teste do Comerciante enquanto observamos. Se voce estiver bem - se voce nao for um gatilho facil e usar sua cabeca - entao definitivamente encontraremos um terreno comum. Nao se preocupe.</text>
+		<text>Passe no teste do Trader enquanto observamos. Se voce estiver bem - se voce nao for um gatilho facil e usar sua cabeca - entao definitivamente encontraremos um terreno comum. Nao se preocupe.</text>
 	</string>
 	<string id="escape_lager_guard_start_dialog_22">
 		<text>Tudo bem, que assim seja.</text>
@@ -370,7 +370,7 @@
 		<text>Obrigado, irmao! Voce nos prestou um grande servico! Eu nem sei como te agradecer...</text>
 	</string>
 	<string id="escape_shustryi_start_111">
-		<text>Escuta, preciso daquele pendrive que voce estava levando para o comerciante. Voce tem ele?</text>
+		<text>Escuta, preciso daquele pendrive que voce estava levando para o trader. Voce tem ele?</text>
 	</string>
 	<string id="escape_shustryi_start_1111">
 		<text>Sim, eu tenho... Aqueles idiotas nem conseguem fazer uma busca decente. Bem, que se dane, pegue! Afinal, voce salvou minha vida. Estava bem escondido, mas esses bandidos nao sabem revistar merda nenhuma.</text>
@@ -379,7 +379,7 @@
 		<text>Obrigado. Onde voce guardou, afinal? Quem sabe, pode ser util.</text>
 	</string>
 	<string id="escape_shustryi_start_111111">
-		<text>Eu nao guardei LA EMBAIXO, entao nao se preocupe. Eu trabalho para o Comerciante ha muito tempo, entao posso armazenar informacoes com seguranca! A proposito, contei aos bandidos uma historinha sobre um esconderijo cheio de artefatos e eles ordenaram que um cara fosse la. O esconderijo existe, mas so tem um artefato. Posso te dar as coordenadas se quiser.</text>
+		<text>Eu nao guardei LA EMBAIXO, entao nao se preocupe. Eu trabalho para o Trader ha muito tempo, entao posso armazenar informacoes com seguranca! A proposito, contei aos bandidos uma historinha sobre um esconderijo cheio de artefatos e eles ordenaram que um cara fosse la. O esconderijo existe, mas so tem um artefato. Posso te dar as coordenadas se quiser.</text>
 	</string>
 	<string id="escape_shustryi_start_21">
 		<text>Tenha uma viagem segura, stalker!</text>
@@ -445,7 +445,7 @@
 		<text>Continue.</text>
 	</string>
 	<string id="escape_trader_jobs_61111">
-		<text>Tudo bem, escuta... Voce esta falando serio, eu posso ver isso... E eu... quero dizer, nos precisamos de caras como voce. Estamos fazendo uma especie de investigacao com alguns outros comerciantes. Queremos abrir o caminho para o norte, para o centro da Zona. E perto do centro, alguem ou algo esta tentando atrapalhar nosso progresso... Como diabos esse Strelok conseguiu passar, eu nao sei... Veja bem, ha uma area onde seu cerebro comeca a ferver. Um lugar estranho... De qualquer forma, para encurtar a historia - um par de caras tem espionado esses grunhidos para mim, nao muito longe daqui. Aparentemente, os do Instituto de Pesquisa Agroprom desenterraram algo. Algo importante. Tenho certeza de que tem algo a ver com o centro da Zona. De qualquer forma, o que quer que tenham desenterrado, esta guardado em algum lugar no terceiro andar do Instituto. E nos realmente precisamos disso. Entende o que quero dizer?</text>
+		<text>Tudo bem, escuta... Voce esta falando serio, eu posso ver isso... E eu... quero dizer, nos precisamos de caras como voce. Estamos fazendo uma especie de investigacao com alguns outros traders. Queremos abrir o caminho para o norte, para o centro da Zona. E perto do centro, alguem ou algo esta tentando atrapalhar nosso progresso... Como diabos esse Strelok conseguiu passar, eu nao sei... Veja bem, ha uma area onde seu cerebro comeca a ferver. Um lugar estranho... De qualquer forma, para encurtar a historia - um par de caras tem espionado esses grunhidos para mim, nao muito longe daqui. Aparentemente, os do Instituto de Pesquisa Agroprom desenterraram algo. Algo importante. Tenho certeza de que tem algo a ver com o centro da Zona. De qualquer forma, o que quer que tenham desenterrado, esta guardado em algum lugar no terceiro andar do Instituto. E nos realmente precisamos disso. Entende o que quero dizer?</text>
 	</string>
 	<string id="escape_trader_jobs_611111">
 		<text>Acho que sim.</text>

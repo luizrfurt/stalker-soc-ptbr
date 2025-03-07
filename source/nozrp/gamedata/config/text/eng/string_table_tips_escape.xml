@@ -44,7 +44,7 @@
 		<text>Para falar com alguem, mire neles e pressione ($$ACTION_USE$$).</text>
 	</string>
 	<string id="tips_esc_trader_quest_1">
-		<text>Encontre o artefato na area marcada no mapa e leve-o ao comerciante.</text>
+		<text>Encontre o artefato na area marcada no mapa e leve-o ao trader.</text>
 	</string>
 	<string id="tutorial_flash_anomaly_alarm">
 		<text>Preste atencao, Marca. Da proxima vez pode ser voce.</text>

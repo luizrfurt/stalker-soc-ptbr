@@ -169,7 +169,7 @@
 		<text>Mate o stalker</text>
 	</string>
 	<string id="barmen_kill_stalker_2_descr">
-		<text>Acabe com um dos stalkers. Morte ao trapaceiro, essa e a vinganca do comerciante.</text>
+		<text>Acabe com um dos stalkers. Morte ao trapaceiro, essa e a vinganca do trader.</text>
 	</string>
 	<string id="barmen_kill_stalker_2_text">
 		<text>Voce sabe, ha esse tipo de homem que voce nunca diria uma palavra ruim sobre... voce confia nele como confia em si mesmo, certo? Voce aposta nele... Mas de repente voce descobre que ele e o pior e mais mesquinho... Entao aqui esta o acordo: ha um caso que precisa ser resolvido. Faca isso e eu cuido do resto.</text>
@@ -178,7 +178,7 @@
 		<text>Mate o stalker do grupo Monolito</text>
 	</string>
 	<string id="barmen_kill_stalker_3_descr">
-		<text>Encontre o ex-amigo do comerciante e ajude-o a morrer.</text>
+		<text>Encontre o ex-amigo do trader e ajude-o a morrer.</text>
 	</string>
 	<string id="barmen_kill_stalker_3_text">
 		<text>Eu costumava ter um amigo... dificil de acreditar, hein? Ah! nos viemos para a Zona juntos quando nada disso estava aqui... As coisas que costumavamos fazer, os lugares que costumavamos ir... bem, eramos jovens, nao nos importavamos com nada... Mas ele nunca se contentava. Ele queria ir para o centro da Zona e estava me convencendo a ir, mas eu recusei, e fiz a coisa certa... Tivemos uma briga muito feia e ele foi embora sozinho... E agora ouco dizer que alguem o viu la... ele esta com o Monolito agora. Entao o acordo e, Marca... Como amigo, faca isso por mim, encontre-o e... bem, nao o faca sofrer, ja deve ser ruim o suficiente... Ele era como um irmao para mim, sabe?</text>
@@ -814,7 +814,7 @@
 		<text>Destrua o acampamento de bandidos no Lixao.</text>
 	</string>
 	<string id="tm_eliminate_camp_1_descr">
-		<text>Elimine os bandidos no Lixao que roubam os stalkers no caminho de volta da Zona. O comerciante ficara feliz.</text>
+		<text>Elimine os bandidos no Lixao que roubam os stalkers no caminho de volta da Zona. O trader ficara feliz.</text>
 	</string>
 	<string id="tm_eliminate_camp_1_text">
 		<text>Os bandidos se reuniram ultimamente, atrapalhando o comercio de pessoas honestas... Entao, va direto para o Lixao, me disseram que esses canalhas se estabeleceram perto do ferro-velho. Voce investiga esse assunto e todos ficarao gratos a voce, e eu serei generoso com a recompensa. Concorda?</text>
@@ -832,7 +832,7 @@
 		<text>Elimine os bandidos perto do Instituto de Pesquisa Agroprom.</text>
 	</string>
 	<string id="tm_eliminate_camp_3_descr">
-		<text>Elimine os bandidos perto do Instituto de Pesquisa Agroprom. E melhor manter boas relacoes com o comerciante.</text>
+		<text>Elimine os bandidos perto do Instituto de Pesquisa Agroprom. E melhor manter boas relacoes com o trader.</text>
 	</string>
 	<string id="tm_eliminate_camp_3_text">
 		<text>Alguns bandidos apareceram perto do Instituto de Pesquisa Agroprom. Eles estao perturbando meus escavadores quando eles vasculham o lixo. Voce resolve o problema, eu lhe devo uma.</text>
@@ -949,19 +949,19 @@
 		<text>Mate o lider dos bandidos</text>
 	</string>
 	<string id="tm_kill_stalker_1_descr">
-		<text>Mate o lider dos bandidos que cruzou o caminho do comerciante. Provavelmente ele nao estara sozinho... Trabalho dificil, mas o pagamento cobre tudo. O Lixao e o lugar para procura-lo.</text>
+		<text>Mate o lider dos bandidos que cruzou o caminho do trader. Provavelmente ele nao estara sozinho... Trabalho dificil, mas o pagamento cobre tudo. O Lixao e o lugar para procura-lo.</text>
 	</string>
 	<string id="tm_kill_stalker_1_text">
 		<text>Voce tera que acabar com este dandi, um dos lideres dos bandidos. Outro dia, os bandidos, por ordem dele, interceptaram meu mensageiro e o sacudiram e eu nao perco palavras com aqueles que tocam no meu pessoal... Em uma palavra, se voce conseguir, eu retribuirei o favor. Entao, voce topa?</text>
 	</string>
 	<string id="tm_kill_stalker_2">
-		<text>Mate o stalker comerciante</text>
+		<text>Mate o stalker trader</text>
 	</string>
 	<string id="tm_kill_stalker_2_descr">
 		<text>Mate um stalker... Bem, esse nao e o melhor trabalho, levantar a mao contra um colega de trabalho. Mas o pagamento e muito bom, e isso pode ser o que mais importa.</text>
 	</string>
 	<string id="tm_kill_stalker_2_text">
-		<text>Estou tendo um confronto com este comerciante. Bem, se ele nao quer cooperar, que se dane! Mas nao vou deixar ninguem comecar rumores sujos. Resumindo, ele precisa ser eliminado para que os outros nao saiam do controle. Que todos saibam quem manda aqui...</text>
+		<text>Estou tendo um confronto com este trader. Bem, se ele nao quer cooperar, que se dane! Mas nao vou deixar ninguem comecar rumores sujos. Resumindo, ele precisa ser eliminado para que os outros nao saiam do controle. Que todos saibam quem manda aqui...</text>
 	</string>
 	<string id="tm_kill_stalker_3">
 		<text>Mate o stalker novato</text>
@@ -976,7 +976,7 @@
 		<text>Mate o stalker chamado Demonio</text>
 	</string>
 	<string id="tm_kill_stalker_4_descr">
-		<text>Elimine um dos rivais do comerciante Sidorovich, um stalker chamado Demonio.</text>
+		<text>Elimine um dos rivais do trader Sidorovich, um stalker chamado Demonio.</text>
 	</string>
 	<string id="tm_kill_stalker_4_text">
 		<text>O Demonio, tambem conhecido como Oleg Gusarov... costumava servir no Spetsnaz. Enquanto ele cuidasse da propria vida, eu nao tinha nada contra ele, um loner e um loner. Mas ouvi dizer que ele esta reunindo uma gangue para esmagar o Cordon e assumir o controle das operacoes de contrabando da Zona. Agora este e um grande problema e precisa ser resolvido rapidamente. Entao, voce vai fazer isso?</text>
@@ -994,7 +994,7 @@
 		<text>Mate o "representante de vendas"</text>
 	</string>
 	<string id="tm_kill_stalker_6_descr">
-		<text>Mate o "representante de vendas". O comerciante esta cuidando de sua reputacao</text>
+		<text>Mate o "representante de vendas". O trader esta cuidando de sua reputacao</text>
 	</string>
 	<string id="tm_kill_stalker_6_text">
 		<text>Imagine isso: tem um esquisito correndo por aqui que se apresenta como meu representante de vendas, usa minha reputacao e depois tenta passar coisas de segunda categoria! Canos quebrados, armaduras que estao se desfazendo, conservas vencidas. Ja tive que lidar com alguns clientes insatisfeitos. Resumindo, preciso de um homem para bater um papo com aquele "representante de vendas", custe o que custar.</text>

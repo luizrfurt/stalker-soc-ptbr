@@ -15,10 +15,10 @@
 44|<text>Liberte o dutyer</text>
 47|<text>Siga Bala ate o local da emboscada</text>
 50|<text>Mate os bandidos e resgate o dutyer</text>
-53|<text>Volte para o comerciante</text>
-56|<text>Volte para o comerciante</text>
+53|<text>Volte para o trader</text>
+56|<text>Volte para o trader</text>
 59|<text>Saia do Vale Sombrio</text>
-62|<text>Mostre os documentos para o comerciante</text>
+62|<text>Mostre os documentos para o trader</text>
 65|<text>Liberte o dutyer da prisao</text>
 68|<text>Tire o dutyer da prisao dos bandidos</text>
 71|<text>Liberte o membro da Duty da prisao dos bandidos</text>
