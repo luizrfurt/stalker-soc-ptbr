@@ -288,7 +288,7 @@
 865|<text>Dizem que as tropas deixaram o Dark Valley. E entao os monstros comecaram a sair de cada fenda. Os stalkers ja avistaram um sanguessuga la, e um extraordinario - ele nao tem medo de espacos abertos. De qualquer forma, assim que a noticia chegar aos cientistas, eles definitivamente vao querer estudar este sanguessuga. E eu quero ser a pessoa que lhes entrega o corpo. Seu trabalho e matar o sanguessuga, e eu cuido do resto.</text>
 868|<text>Encontre o artefato Agua-viva</text>
 871|<text>Encontre o artefato Agua-viva formado na anomalia Trampolim</text>
-874|<text>Um cara da Terra Grande pediu uma Agua-viva. Nao e muito dinheiro, mas e uma corrida facil. Aceite!</text>
+874|<text>Um cara da Grande Terra pediu uma Agua-viva. Nao e muito dinheiro, mas e uma corrida facil. Aceite!</text>
 877|<text>Encontre o artefato Flor de Pedra</text>
 880|<text>Encontre o artefato Flor de Pedra formado na anomalia Trampolim. O pagamento deve ser muito bom.</text>
 883|<text>Tenho um pedido para a Flor de Pedra. A encomenda e dos joalheiros, alias, entao vamos tentar deixar as mocas felizes, hein? Se voce conseguir, voce recebera o dinheiro e uma garrafa para beber a saude delas...</text>
@@ -346,7 +346,7 @@
 1039|<text>Ouvi uma supersticao de que o dente de um sanguessuga traz boa sorte. Como se quem usasse esse dente no pescoco passasse pelas anomalias e os artefatos caissem direto em suas maos. Enfim, e tudo besteira, mas ha alguns idiotas que acreditam em tudo e estao prontos para pagar bem por isso. Se voce trouxer a mandibula de um sanguessuga, eu lhe pagarei bem.</text>
 1042|<text>Traga a cauda do pseudocao</text>
 1045|<text>Traga a cauda do pseudocao</text>
-1048|<text>O inverno esta chegando em breve. E o que as garotas gostam de usar la na Terra Grande durante o inverno? Isso mesmo - peles. Entao, agora ha uma nova moda, fazendo varios acessorios com as caudas de pseudocaes. E algum tipo de pele especial! Resumindo, ha um pedido para tal cauda. Voce vai aceitar?</text>
+1048|<text>O inverno esta chegando em breve. E o que as garotas gostam de usar la na Grande Terra durante o inverno? Isso mesmo - peles. Entao, agora ha uma nova moda, fazendo varios acessorios com as caudas de pseudocaes. E algum tipo de pele especial! Resumindo, ha um pedido para tal cauda. Voce vai aceitar?</text>
 1051|<text>No momento nao ha nada.</text>
 1054|<text>Sobre qual tarefa voce quer falar?</text>
 1057|<text>Tarefa concluida - e aqui esta a recompensa!</text>

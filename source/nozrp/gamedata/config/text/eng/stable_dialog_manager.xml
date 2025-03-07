@@ -4,7 +4,7 @@
 		<text>Como pode haver algo novo aqui? Pense nisso como jardim de infancia, pre-escola ate. E claro que, se voce nao ficar por aqui, sera demitido em cinco minutos na Zona, entao pronto. Os espertos ficam aqui um pouco e depois vao para onde o diabo sabe. Alem disso, voce pode ganhar dinheiro aqui com municao ou armas, nao ha duvida sobre isso. Todo mundo faz isso.</text>
 	</string>
 	<string id="dm_action_info_1">
-		<text>Tudo o que tenho que fazer e esperar aqueles bundoes de uniforme sairem para almocar... Nao faz sentido ficar aqui, preciso ir para a Terra Grande, mas eles nao me deixam, de jeito nenhum. Tambem nao sou o unico tentando sair, mas ainda nao conseguimos passar por eles.</text>
+		<text>Tudo o que tenho que fazer e esperar aqueles bundoes de uniforme sairem para almocar... Nao faz sentido ficar aqui, preciso ir para a Grande Terra, mas eles nao me deixam, de jeito nenhum. Tambem nao sou o unico tentando sair, mas ainda nao conseguimos passar por eles.</text>
 	</string>
 	<string id="dm_action_info_10">
 		<text>Nao muito longe daqui, os caras de uniforme precisavam de alguma coisa. Eles nao costumavam vir aqui - limparam tudo tim-tim por tim-tim antes de mim, ate cortando os cabos. E agora parece que encontraram... Nao consegui nem chegar perto do predio - eles me notaram na hora e comecaram a atirar. Ainda bem que sai sem um buraco na pele. </text>
@@ -31,7 +31,7 @@
 		<text>Voce sabia que no que agora e o Dark Valley, antes da catastrofe costumava haver um complexo de pesquisa cientifica subterraneo? Nao sei para que servia, mas tenho certeza de que nao era para nada de bom. Dizem coisas diferentes sobre isso, mas principalmente coisas ruins. Coisa terrivel.</text>
 	</string>
 	<string id="dm_action_info_17">
-		<text>E dai? O que voce quer ouvir? Vou te dizer o seguinte: os "dutyers" sao definitivamente os policiais, mas eles sabem como manter a ordem, com certeza. Mas, no geral, nao gosto muito deles. Eles sao como os proprietarios em todos os lugares - nao pegue isso, nao tire aquilo da Zona... Alem disso, eles ja determinaram o que voce pode dizer na Terra Grande e o que voce deve manter em segredo! Eles falam demais e realmente querem destruir a Zona, aos poucos. Bem, isso nao me surpreende, vindo de ex-soldados... eles sao todos sonhadores. O pior e que, dizem, o apoio deles vem de cima.</text>
+		<text>E dai? O que voce quer ouvir? Vou te dizer o seguinte: os "dutyers" sao definitivamente os policiais, mas eles sabem como manter a ordem, com certeza. Mas, no geral, nao gosto muito deles. Eles sao como os proprietarios em todos os lugares - nao pegue isso, nao tire aquilo da Zona... Alem disso, eles ja determinaram o que voce pode dizer na Grande Terra e o que voce deve manter em segredo! Eles falam demais e realmente querem destruir a Zona, aos poucos. Bem, isso nao me surpreende, vindo de ex-soldados... eles sao todos sonhadores. O pior e que, dizem, o apoio deles vem de cima.</text>
 	</string>
 	<string id="dm_action_info_18">
 		<text>Este territorio agora e controlado pelo Duty, e as regras da Duty sao a lei da terra. Controlamos as fronteiras da zona e acalmamos os animos: os pobres tolos vem aqui em caravanas inteiras, amadores, romanticos... e depois morrem em grupos no primeiro dia.</text>
@@ -115,7 +115,7 @@
 		<text>Nao vou esconder o fato de que aqui seus colegas stalkers nos oferecem de vez em quando algumas formacoes anomalas bastante interessantes - artefatos e como voces chamam. Por causa do... digamos... nivel incerto de controle sobre eles... esses lugares formam uma especie de rota de contrabando altamente ativa. </text>
 	</string>
 	<string id="dm_action_info_42">
-		<text>Qual e o seu problema, cara? Nos abrimos um caminho so para nao termos que encontrar os caras da faccao Duty se quisermos ir para a Terra Grande para alguma coisa. Embora eles ainda aparecam por aqui de vez em quando, pelo menos eles nao sabem de nada por enquanto e voce pode passar por eles.</text>
+		<text>Qual e o seu problema, cara? Nos abrimos um caminho so para nao termos que encontrar os caras da faccao Duty se quisermos ir para a Grande Terra para alguma coisa. Embora eles ainda aparecam por aqui de vez em quando, pelo menos eles nao sabem de nada por enquanto e voce pode passar por eles.</text>
 	</string>
 	<string id="dm_action_info_43">
 		<text>Acabei de voltar de Yantar. Pensei em passar algo para a ciencia como de costume, mas eles estao todos trancados em seus bunkers, nao saem nem durante o dia, nem que seja para outro helicoptero. Entao, se voce esta planejando ir nessa direcao, e melhor mudar de rumo...</text>
@@ -322,7 +322,7 @@
 		<text>E bem possivel que eles nao estejam mentindo sobre os sanguessugas na fronteira da Zona. Mas o que isso tem a ver com a expansao da Zona? Entao um bando vagou para a fronteira, entao eles passaram. As vezes temos que passar alguns dias seguidos patrulhando! E nos trabalhamos muito bem. Porque alem dos perimetros ninguem esta gritando "Socorro, estamos sendo cercados por mutantes!".</text>
 	</string>
 	<string id="dm_cool_info_2">
-		<text>E, e meio triste, afinal. Outro dia Lontra morreu, totalmente a toa. Nao da para acreditar... e voce nunca ouviu falar de Lontra, ne? Bem, ele era praticamente um professor - aqui desde o primeiro ano, conhecia a Zona como a palma da mao... e ai, do nada, assim! Tem uns stalkers muito experientes por ai, mas a Zona ainda os pega. Tem outros que acabam voltando para a Terra Grande. </text>
+		<text>E, e meio triste, afinal. Outro dia Lontra morreu, totalmente a toa. Nao da para acreditar... e voce nunca ouviu falar de Lontra, ne? Bem, ele era praticamente um professor - aqui desde o primeiro ano, conhecia a Zona como a palma da mao... e ai, do nada, assim! Tem uns stalkers muito experientes por ai, mas a Zona ainda os pega. Tem outros que acabam voltando para a Grande Terra. </text>
 	</string>
 	<string id="dm_cool_info_20">
 		<text>O que voce acha, o bartender sabe os detalhes sobre o que os cientistas desenterraram? Escuta, talvez ele ate tenha se ligado a ciencia? Parece que ultimamente ele encontra stalkers mais experientes e da a eles missoes estranhas. Nao explica nada, so diz, va para la e para ca... e os lugares sao perigosos e nao tem nada de bom a vista. E o que diabos ele esta procurando la?</text>
@@ -358,7 +358,7 @@
 		<text>Esta tudo triste, isso eu sei. Sempre houve muita gente na periferia, mas metade nunca foi fundo na Zona e nao ha artefatos suficientes para todos. Eles ate arrancaram e levaram tudo o que podiam dos laboratorios e fabricas. Logo nao havera mais nada para fazer aqui a nao ser abrir um restaurante... com vista e culinaria exoticas.</text>
 	</string>
 	<string id="dm_cool_info_30">
-		<text>Eu nem sei o que te dizer... Sempre tem alguma coisa acontecendo aqui, mas dentro dos limites da razao. Embora eles nao pensem assim na Terra Grande, mas voce e eu estamos, por assim dizer, em uma zona anomala agora.</text>
+		<text>Eu nem sei o que te dizer... Sempre tem alguma coisa acontecendo aqui, mas dentro dos limites da razao. Embora eles nao pensem assim na Grande Terra, mas voce e eu estamos, por assim dizer, em uma zona anomala agora.</text>
 	</string>
 	<string id="dm_cool_info_31">
 		<text>Os cabecas de ovo estao farejando alguma coisa. O diabo sabe que segredo eles ja encontraram, mas eles certamente tem as tropas enroladas no dedo mindinho. E eles estao procurando por todo Agroprom e Dark Valley, procurando, procurando, tentando encontrar algo...</text>
@@ -412,7 +412,7 @@
 		<text>Voce nao sabe? Dois dos nossos caras - alguns dos primeiros que chegaram ao centro - realmente chegaram ao Wish Granter e fizeram desejos! A vida toda eles sonharam com ilhas em um mar quente, entao agora devem estar tomando sol em algum lugar nos tropicos.</text>
 	</string>
 	<string id="dm_cool_info_47">
-		<text>Encontramos um heroi - o cara principal da Freedom. Todo mundo pensou que ele tinha voltado para a Terra Grande, mas na verdade ele pegou uma pequena equipe e de alguma forma passou pelo desintegrador. Agora sim e um homem.</text>
+		<text>Encontramos um heroi - o cara principal da Freedom. Todo mundo pensou que ele tinha voltado para a Grande Terra, mas na verdade ele pegou uma pequena equipe e de alguma forma passou pelo desintegrador. Agora sim e um homem.</text>
 	</string>
 	<string id="dm_cool_info_48">
 		<text>Na zona antes inacessivel, uma das unidades da Freedom foi descoberta. Como eles conseguiram passar ilesos e depois sobreviver algumas semanas aqui? Nem consigo imaginar. Acho que subestimamos esses caras.</text>
@@ -421,7 +421,7 @@
 		<text>Imagine so - eles encontraram nosso Mikluha! E os caras que estavam com ele tambem sobreviveram. Eles passaram sorrateiramente pelo apagador de cerebros e depois passaram um mes matando tempo, nao conseguiam voltar.</text>
 	</string>
 	<string id="dm_cool_info_5">
-		<text>Tem algo suspeito acontecendo. Estao rolando boatos de que o lider da faccao Duty, o chefao, nao apenas deixou a Zona a negocios, mas fez um acordo com a faccao Freedom. Bem, eles poderiam ter feito o mesmo acordo abertamente, porque agora esta tudo confuso. As coisas nao parecem boas. Por outro lado, os caras experientes dizem que eles comecaram a brigar antigamente sem motivo nenhum. So espero que os malucos do gabinete da Terra Grande nao nos arrastem todos para outro moedor de carne.</text>
+		<text>Tem algo suspeito acontecendo. Estao rolando boatos de que o lider da faccao Duty, o chefao, nao apenas deixou a Zona a negocios, mas fez um acordo com a faccao Freedom. Bem, eles poderiam ter feito o mesmo acordo abertamente, porque agora esta tudo confuso. As coisas nao parecem boas. Por outro lado, os caras experientes dizem que eles comecaram a brigar antigamente sem motivo nenhum. So espero que os malucos do gabinete da Grande Terra nao nos arrastem todos para outro moedor de carne.</text>
 	</string>
 	<string id="dm_cool_info_50">
 		<text>Voce ouviu?! As tropas vieram para o que ja estava pronto. Elas estarao aqui em breve! Eles descobriram que o desintegrador quebrou e decidiram pegar todos os bens para si mesmos!...</text>
