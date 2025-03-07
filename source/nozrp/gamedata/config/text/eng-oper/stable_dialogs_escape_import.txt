@@ -95,8 +95,8 @@
 286|<text>Parece que me lembro que ele e um dos duroes. Nunca conheci o homem pessoalmente. Bem, eu nao chego perto do centro ha um tempo e tudo o que recebemos aqui sao novatos. Voce deveria encontrar alguem que frequenta as profundezas da Zona e conversar com ele.</text>
 289|<text>O que voce sabe sobre "caminhoes da morte?"</text>
 292|<text>Eu nao sei de nada e esta tudo bem para mim, obrigado! Desculpe, eu sei sobre sua situacao. Misticismo demais sobre isso. Voce passa um mes nessas partes e nao pode deixar de se tornar supersticioso sobre a vida. Pessoas mortas no porta-malas, pessoas mortas ao volante... Quem sao elas, de onde vieram e por que? So posso esperar que eles nao tenham se levantado da sepultura.</text>
-295|<text>Oi. Por que voce esta aqui?</text>
-298|<text>Oi. Preciso ver Agil. Voce saberia onde posso encontra-lo?</text>
+295|<text>Diga. Por que voce esta aqui?</text>
+298|<text>E ai. Preciso ver Agil. Voce saberia onde posso encontra-lo?</text>
 301|<text>Agil se deu mal. O grupo dele foi atacado por alguns bandidos um pouco longe daqui. Tudo o que ele podia fazer era me mandar uma mensagem de SOS. Parecia que seus amigos cairam. Meus caras me disseram que esses bastardos estao agora no antigo estacionamento, aquele do outro lado da rua.</text>
 304|<text>Voce nao resgata seu proprio pessoal da prisao? Nao e o que eu chamaria de amigavel. Ou e que voce e simplesmente fraco demais para fazer isso?</text>
 307|<text>Eu te daria um soco, mas qual e o sentido? Nao e tao simples. Eu tenho poucas pessoas, e mesmo aqueles que tenho sao principalmente novatos. Nao posso correr esse risco. Se perdermos este acampamento, as coisas vao piorar ainda mais para todos os stalkers por ai. E quanto a voce? Se voce nao estiver com muito medo, nao deixarei meu orgulho me fazer dizer nao a uma mao amiga. Entao, voce vai me ajudar a lidar com esses bandidos?</text>
