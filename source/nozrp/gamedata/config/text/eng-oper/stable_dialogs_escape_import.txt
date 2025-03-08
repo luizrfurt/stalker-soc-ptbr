@@ -174,7 +174,7 @@
 523|<text>Tarefa completa. Aqui esta o artefato.</text>
 526|<text>Otimo, Marked One. Mais um pequeno favor e estamos quites.</text>
 529|<text>Que favor?</text>
-532|<text>A situacao ficou esclarecida.</text>
+532|<text>A situacao foi resolvida.</text>
 535|<text>Onde esta o pendrive com as informacoes?</text>
 538|<text>Aqui esta.</text>
 541|<text>Otimo.</text>
