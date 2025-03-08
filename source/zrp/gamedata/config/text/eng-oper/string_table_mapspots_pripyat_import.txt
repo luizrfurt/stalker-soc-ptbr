@@ -1,0 +1,4 @@
+2|<text>Estacao de onibus</text>
+5|<text>Hotel</text>
+8|<text>Base da Monolith</text>
+11|<text>Estadio</text>

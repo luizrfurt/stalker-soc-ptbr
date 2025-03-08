@@ -1,0 +1,24 @@
+2|<text>Encontre os documentos no laboratorio subterraneo</text>
+5|<text>Pegue a chave do laboratorio de Borov</text>
+8|<text>Saia da base dos bandidos</text>
+11|<text>Encontre a entrada do laboratorio</text>
+14|<text>Entre sorrateiramente na base</text>
+17|<text>Encontre os documentos em X18</text>
+20|<text>Encontre os documentos</text>
+23|<text>Leve os documentos para Barkeep</text>
+26|<text>Encontre a porta com codigo</text>
+29|<text>Descubra o codigo que abre a porta</text>
+32|<text>Abra a porta usando o codigo</text>
+35|<text>Abra a porta para o centro de controle</text>
+38|<text>Descubra o codigo que abre a porta</text>
+41|<text>Abra a porta usando o codigo</text>
+44|<text>Liberte o dutyer</text>
+47|<text>Siga Bullet ate o local da emboscada</text>
+50|<text>Mate os bandidos e resgate o dutyer</text>
+53|<text>Volte para o trader</text>
+56|<text>Volte para o trader</text>
+59|<text>Saia do Dark Valley</text>
+62|<text>Mostre os documentos para o trader</text>
+65|<text>Liberte o dutyer da prisao</text>
+68|<text>Tire o dutyer da prisao dos bandidos</text>
+71|<text>Liberte o membro da Duty da prisao dos bandidos</text>

@@ -1,0 +1,8 @@
+2|<text>Ajuda! Se alguem puder me ouvir! Os militares nos encurralaram na fabrica!</text>
+5|<text>Os porcos me encurralaram no patio. Ajuda!</text>
+8|<text>Todos os meus homens cairam!</text>
+11|<text>.....</text>
+14|<text>.....</text>
+17|<text>Saia daqui, Marked One. Voce nao passara por aqueles bastardos do exercito sem lutar. Eu falei com o Barkeep sobre voce. Ele fara um acordo com a Duty, e eles deixarao voce passar.</text>
+20|<text>Capitao Maximenko</text>
+23|<text>Strelok, tenho mas noticias. Fang morreu. Nao pude encontra-lo. Que pena que voce foi para o centro sozinho. Foi sua escolha, no entanto. Eu sei onde procurar por voce e a quem perguntar. Ghost.</text>

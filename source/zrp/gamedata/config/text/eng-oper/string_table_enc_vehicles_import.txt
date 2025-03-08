@@ -1,0 +1,13 @@
+4|<text>BTR-70</text>
+7|<text>Um veiculo blindado de transporte de pessoal.</text>
+10|<text>Um caminhao sovietico comumente usado.</text>
+13|<text>Um helicoptero de ataque do exercito.</text>
+16|<text>Um carro fora da estrada.</text>
+19|<text>Jeep do exercito sovietico.</text>
+22|<text>Um pequeno carro sovietico.</text>
+25|<text>Caminhao KAMAZ</text>
+28|<text>Helicoptero Mi-24</text>
+31|<text>Niva</text>
+34|<text>UAZ</text>
+37|<text>Transporte</text>
+40|<text>Zaporozhets</text>

@@ -1,0 +1,49 @@
+4|<text>Antiradiation drugs</text>
+7|<text>Heavy stalker gear</text>
+10|<text>Light stalker gear</text>
+13|<text>Medium stalker gear</text>
+16|<text>Bandages</text>
+19|<text>Binoculars</text>
+22|<text>Bread</text>
+25|<text>A detailed map of the Dead City including Merc positions</text>
+28|<text>Map of the Dead City</text>
+31|<text>Doctor's key to a secret stash in Pripyat</text>
+34|<text>Doctor's key</text>
+37|<text>Tourist's Delight</text>
+40|<text>Anomaly detector (DA-2)</text>
+43|<text>Instruments and devices</text>
+46|<text>PDA</text>
+49|<text>Flashlight</text>
+52|<text>Protective suit. Weight: 18kg. Details: Protects the body from Jelly, Burnt Fuzz, most anomalies and physical damage. The torso and back are protected by built-in bio-metallic plates. The suit is equipped with an airtight, reinforced plastic helmet and two oxygen bottles. Note: During extended periods of use the suit tears through and gradually deteriorates beyond use.</text>
+55|<text>Protective suit. Weight: 8 kg. Details: Protects the body from weak anomalies and physical damage. Equipped with an oxygen mask. Note: During extended periods of use the suit tears through and gradually deteriorates beyond use.</text>
+58|<text>Protective suit. Weight: 12 kg. Details: Protects the user from Jelly, Burnt Fuzz, many anomalies and physical damage. Equipped with an airtight helmet and an oxygen bottle. Note: During extended periods of use the suit tears through and gradually deteriorates beyond use.</text>
+61|<text>A red S.C.A.P.E suit with an airtight helmet. Weight: 11kg. Description: Protects the body from fire, acid, toxic gas, various anomalies, Burnt Fuzz and physical damage. Equipped with two oxygen bottles. Note: During extended periods of use the suit tears through and gradually deteriorates beyond use.</text>
+64|<text>Military field binoculars</text>
+67|<text>A device for detecting anomaly fields and disturbances. Notifies of their presence with a sound. Needs to be attached to the belt and turned on to operate correctly.</text>
+70|<text>Personal digital assistant - indispensable in the Zone.</text>
+73|<text>A powerful flashlight. Quite useful in areas with insufficient lighting.</text>
+76|<text>A powerful flashlight. Battery recharge time has been reduced thanks to a modernized transformer.</text>
+79|<text>This is an excellent energy drink consisting of caffeine, taurine and a mixture of rejuvenating vitamins. Just the ticket when you're too tired to push forward!</text>
+82|<text>Hard to say who manages to bake these loaves in the Zone, but the bread isn't contaminated and is perfectly edible. Well, at least none of the stalkers have complained about it.</text>
+85|<text>Canned food from an army warehouse raided by stalkers. The best-before period hasn't expired yet.</text>
+88|<text>Made from a mix of chicken and soya, the "diet" sausage is often, for lack of other options, a stalker's breakfast, lunch and dinner in one.</text>
+91|<text>Vodka made by the GSC company. Goes down easily and significantly reduces the effects of radiation, but for obvious reasons should be enjoyed in moderation.</text>
+94|<text>Reduces the effects of radiation.</text>
+97|<text>Bandages. Help stop bleeding.</text>
+100|<text>An all-purpose medkit. Used to treat injuries of various types and severities - wounds, burns, poisonings, etc.</text>
+103|<text>A specialized medical set to fight against physical damage and blood loss. In it is included a component for blood coagulation, antibiotics, immunal stimulators, and painkillers.</text>
+106|<text>Medical set, designed especially for work in the Zone. The set includes means of healing wounds as well as means of eliminating radionucleodes from the body. Prevents the development of radiowave sickness and lowers the dose of accumulated radiation.</text>
+109|<text>Energy drink</text>
+112|<text>Energy drink</text>
+115|<text>Gear and food</text>
+118|<text>Food</text>
+121|<text>Diet sausage</text>
+124|<text>Medicaments</text>
+127|<text>Medkit</text>
+130|<text>Army first aid kit</text>
+133|<text>Scientific first aid kit</text>
+136|<text>Scientific EXP-4</text>
+139|<text>Cossacks vodka</text>
+142|<text>Anomaly detector</text>
+145|<text>Intended for the detection of anomalous zones as well as hotbeds of radioactive pollution.</text>
+148|<text>Smoke grenade</text>

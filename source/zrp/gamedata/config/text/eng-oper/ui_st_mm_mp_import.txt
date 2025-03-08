@@ -1,0 +1,79 @@
+4|<text>TIPO DE JOGO</text>
+7|<text>ICONOS</text>
+10|<text>MAPA</text>
+13|<text>Permitir votacao</text>
+16|<text>Tempo de anomalia (min)</text>
+19|<text>Captura de artefato</text>
+22|<text>Atraso do artefato (seg)</text>
+25|<text>Numero de artefatos</text>
+28|<text>Vida do artefato (min)</text>
+31|<text>Balanceamento automatico de equipe</text>
+34|<text>Troca automatica de equipe</text>
+37|<text>MAPAS DISPONIVEIS</text>
+40|<text>Cancelar</text>
+43|<text>Chave de CD</text>
+46|<text>Cliente</text>
+49|<text>Criar</text>
+52|<text>Invulnerabilidade</text>
+55|<text>Indicador de invulnerabilidade</text>
+58|<text>Mortes</text>
+61|<text>Dedicado</text>
+64|<text>Vazio</text>
+67|<text>Filtros</text>
+70|<text>Renascimento forcado (s)</text>
+73|<text>Limite de abates</text>
+76|<text>Abates</text>
+79|<text>Tempo de congelamento</text>
+82|<text>Dano amigo</text>
+85|<text>Indicadores de aliados</text>
+88|<text>Nomes de aliados</text>
+91|<text>Cheio</text>
+94|<text>Modo</text>
+97|<text>IP/host:porta</text>
+100|<text>Internet</text>
+103|<text>Entrar</text>
+106|<text>LAN</text>
+109|<text>Ouvir</text>
+112|<text>Lista de mapas</text>
+115|<text>Maximo de jogadores</text>
+118|<text>Conexao de rede</text>
+121|<text>Sem anomalias</text>
+124|<text>Opcoes</text>
+127|<text>Senha</text>
+130|<text>Nome do jogador:</text>
+133|<text>Jogadores</text>
+136|<text>Servidor publico</text>
+139|<text>Atualizacao rapida</text>
+142|<text>Mudar coeficiente</text>
+145|<text>Atualizar tudo</text>
+148|<text>Reforcos (s)</text>
+151|<text>Opcoes de renascimento</text>
+154|<text>MAPAS SELECIONADOS</text>
+157|<text>Servidor</text>
+160|<text>Lista de servidores</text>
+163|<text>Propriedades do servidor</text>
+166|<text>Informacao do servidor</text>
+169|<text>Servidor</text>
+172|<text>Nome do servidor</text>
+175|<text>Configuracoes do servidor</text>
+178|<text>Espectador</text>
+181|<text>Primeira pessoa</text>
+184|<text>Camera livre</text>
+187|<text>Livre-travado</text>
+190|<text>Terceira pessoa</text>
+193|<text>Configuracoes do espectador</text>
+196|<text>Apenas equipe</text>
+199|<text>Clima inicial</text>
+202|<text>Limite de tempo (min)</text>
+205|<text>Aquecimento (seg)</text>
+208|<text>Opcoes de clima</text>
+211|<text>Sem fogo amigo</text>
+214|<text>Sem senha</text>
+217|<text>Sem PunkBuster</text>
+220|<text>Usar senha</text>
+223|<text>Votar A FAVOR-[$$ACTION_VOTE_YES$$]\nVotar CONTRA-[$$ACTION_VOTE_NO$$]\nResultados-[$$ACTION_VOTE$$]</text>
+226|<text>PING</text>
+229|<text>JOGADORES</text>
+232|<text>NOME DO SERVIDOR</text>
+235|<text>Versao</text>
+238|<text>Filtrar:</text>

@@ -1,0 +1,12 @@
+2|<text>You're approaching the Barrier. Don't even think about messing around. We'll be more than happy to accept any help though.</text>
+5|<text>Marked One, get over here for your share and further instructions</text>
+8|<text>Marked One, go back to your position</text>
+11|<text>If you spend the whole night at the Tower in the village something is GUARANTEED to happen...</text>
+14|<text>Don't forget the mines! One mistake and you're toast...</text>
+17|<text>Be careful, Marked One. Apparently there's a new anomaly in the village. The bastard's fast and invisible!</text>
+20|<text>Attention all those wishing to liquefy their brains: the road to the Red forest is protected by a Monolith unit and as you probably know those guys shoot first and don't ask questions later. Good luck.</text>
+23|<text>Charge! Let's waste the bastards!</text>
+26|<text>Our job here is done. Retreat to the farmstead. We will sort out the payment there.</text>
+29|<text>Forward boys! The way is clear!</text>
+32|<text>Marked One, take down those snipers!</text>
+35|<text>Be careful, Marked One, or you'll catch a bullet...</text>

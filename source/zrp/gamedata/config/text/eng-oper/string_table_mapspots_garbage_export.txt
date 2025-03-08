@@ -1,0 +1,16 @@
+2|<text>Abandoned hangar.</text>
+5|<text>Bandit camp by the exit from Agroprom.</text>
+8|<text>Bandit base on the road to Agroprom.</text>
+11|<text>Bandit raid led by the boss.</text>
+14|<text>Horde of boars.</text>
+17|<text>Vehicle scrapyard.</text>
+20|<text>Dog-infested forest</text>
+23|<text>Duty checkpoint on the road to the Bar.</text>
+26|<text>A group of neutral stalkers calling for help.</text>
+29|<text>A scared and tired rookie.</text>
+32|<text>The rookie's secret stash.</text>
+35|<text>Seriy's group.</text>
+38|<text>The Grimpen Mire.</text>
+41|<text>Piles of rubbish with anomalies and artifacts.</text>
+44|<text>Railroad tunnel.</text>
+47|<text>SOS signal. Probably a wounded stalker.</text>

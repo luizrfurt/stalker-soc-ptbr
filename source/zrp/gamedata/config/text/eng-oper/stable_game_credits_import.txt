@@ -1,0 +1,697 @@
+4|<text>GSC:</text>
+7|<text>Produtor</text>
+10|<text>Sergiy -GSC- Grygorovych</text>
+13|<text>Lider de Projeto</text>
+16|<text>Anton Bolshakov</text>
+19|<text>Designer Lider</text>
+22|<text>Andrew Prof Prokhorov</text>
+25|<text>Yuriy Negrobov</text>
+28|<text>Programadores Lideres</text>
+31|<text>Oles Shyshkovtsov</text>
+34|<text>Alexander Maksymchuk</text>
+37|<text>Dmitriy Iassenev</text>
+40|<text>Andrew Kolomiets</text>
+43|<text>DEPARTAMENTO DE ARTE</text>
+46|<text>Nivel</text>
+49|<text>Design</text>
+52|<text>Andrew Rainbow</text>
+55|<text>Tkachenko</text>
+58|<text>Sergey "Mike"</text>
+61|<text>Kurbatov</text>
+64|<text>Veniamin</text>
+67|<text>Tuz</text>
+70|<text>Kim</text>
+73|<text>Demidenko</text>
+76|<text>Evgeniy</text>
+79|<text>Zaitsev</text>
+82|<text>Alexander SU-27</text>
+85|<text>Pavlenko</text>
+88|<text>Vladimir A.</text>
+91|<text>Efimov</text>
+94|<text>Dmitriy</text>
+97|<text>Shpilevoy</text>
+100|<text>Bogdan</text>
+103|<text>Suprun</text>
+106|<text>Sergiy Karma</text>
+109|<text>Karmalskiy</text>
+112|<text>Yuriy Jip</text>
+115|<text>Petrovskiy</text>
+118|<text>Maxim ghouL</text>
+121|<text>Shelekhov</text>
+124|<text>Alexander LEX</text>
+127|<text>Pshenichniy</text>
+130|<text>Yaroslav</text>
+133|<text>Grabovskiy</text>
+136|<text>Eugene Frodo</text>
+139|<text>Karpenko</text>
+142|<text>Animacao</text>
+145|<text>Animador Lider</text>
+148|<text>Animadores</text>
+151|<text>Vladimir</text>
+154|<text>Korunchak</text>
+157|<text>Valeria</text>
+160|<text>Kravcova</text>
+163|<text>Sergiy</text>
+166|<text>Volchanov</text>
+169|<text>Olga</text>
+172|<text>Volchanova</text>
+175|<text>Modelos de Personagens</text>
+178|<text>Modelos</text>
+181|<text>Slava Glory</text>
+184|<text>Goncharenko</text>
+187|<text>Ruslan</text>
+190|<text>Konovalchuk</text>
+193|<text>Texturas</text>
+196|<text>Anatoliy</text>
+199|<text>Podorvaniy</text>
+202|<text>Alexander</text>
+205|<text>Kovach</text>
+208|<text>Arte</text>
+211|<text>Victor</text>
+214|<text>Lukash</text>
+217|<text>Ivan</text>
+220|<text>Khivrenko</text>
+223|<text>IU</text>
+226|<text>Arte</text>
+229|<text>Roman</text>
+232|<text>Nesin</text>
+235|<text>Olga</text>
+238|<text>Troekurova</text>
+241|<text>Vladimir</text>
+244|<text>Kotov</text>
+247|<text>DEPARTAMENTO DE PROGRAMACAO</text>
+250|<text>DEPARTAMENTO</text>
+253|<text>DEPARTAMENTO DE PROGRAMACAO</text>
+256|<text>Motor</text>
+259|<text>Oles Shyshkovtsov</text>
+262|<text>- Renderizacao</text>
+265|<text>Alexander Maksymchuk</text>
+268|<text>- Editores</text>
+271|<text>Dmitriy Iassenev</text>
+274|<text>- IA/Vida-A</text>
+277|<text>Andrew Kolomiets</text>
+280|<text>- Jogabilidade</text>
+283|<text>Vitaly Maximov</text>
+286|<text>- Rede</text>
+289|<text>Konstantin Slipchenko</text>
+292|<text>- Fisica</text>
+295|<text>Sergiy Gemeitsev</text>
+298|<text>- IA dos Monstros</text>
+301|<text>Serguei Ivantsov</text>
+304|<text>- Otimizacao</text>
+307|<text>Yuriy Dobronravin</text>
+310|<text>- Jogabilidade, IU</text>
+313|<text>Ferramentas e Scripts de Jogabilidade</text>
+316|<text>Ruslan</text>
+319|<text>Didenko</text>
+322|<text>Alexander</text>
+325|<text>Chugai</text>
+328|<text>Andrew</text>
+331|<text>Fidrya</text>
+334|<text>Oleg</text>
+337|<text>Khryptul</text>
+340|<text>Eugene</text>
+343|<text>Negrobov</text>
+346|<text>Alexander</text>
+349|<text>Plichko</text>
+352|<text>Vladimir</text>
+355|<text>Tunduk</text>
+358|<text>Programacao Adicional</text>
+361|<text>Programacao</text>
+364|<text>Andrew</text>
+367|<text>Nikolaev</text>
+370|<text>Sergiy</text>
+373|<text>Vinnichenko</text>
+376|<text>Victor</text>
+379|<text>Reutsky</text>
+382|<text>Roman</text>
+385|<text>Marchenko</text>
+388|<text>DEPARTAMENTO DE DESIGN DE JOGO</text>
+391|<text>DEPARTAMENTO</text>
+394|<text>Alexey</text>
+397|<text>Sityanov</text>
+400|<text>Vyacheslav must_die</text>
+403|<text>Aristov</text>
+406|<text>Ivan E1</text>
+409|<text>Veretiannikov</text>
+412|<text>Andrey</text>
+415|<text>Verpahovskiy</text>
+418|<text>Denis</text>
+421|<text>Volvach</text>
+424|<text>Peter</text>
+427|<text>Dushynsky</text>
+430|<text>Yuriy</text>
+433|<text>Konstantinov</text>
+436|<text>Konstantin</text>
+439|<text>Kuzmin</text>
+442|<text>Dmitriy Krondor</text>
+445|<text>Lekhno</text>
+448|<text>Konstantin</text>
+451|<text>Nekhaychuk</text>
+454|<text>Roman</text>
+457|<text>Shyshkin</text>
+460|<text>Produtor de Som</text>
+463|<text>Dmitry Kuzmenko</text>
+466|<text>Musica Original</text>
+469|<text>MoozE</text>
+472|<text>Musica Adicional</text>
+475|<text>FireLake</text>
+478|<text>Marcus Holler</text>
+481|<text>Addaraya</text>
+484|<text>DEPARTAMENTO DE LOCALIZACAO</text>
+487|<text>Eugene Smile Kuchma</text>
+490|<text>Vladimir Litvinenko</text>
+493|<text>DEPARTAMENTO DE QA</text>
+496|<text>Petr</text>
+499|<text>Dyukov</text>
+502|<text>Dmitriy</text>
+505|<text>Krivets</text>
+508|<text>Yury</text>
+511|<text>Scripal</text>
+514|<text>Kiril</text>
+517|<text>Bragin</text>
+520|<text>Denis</text>
+523|<text>Naprasniy</text>
+526|<text>DEPARTAMENTO DE RP</text>
+529|<text>Oleg Yava Yavorsky</text>
+532|<text>Valentin Atem Yeltyshev</text>
+535|<text>Denis Blackbird Ananyev</text>
+538|<text>Yury Gagarin Besarab</text>
+541|<text>Sergey Terlyuk</text>
+544|<text>DEPARTAMENTO DE VENDAS</text>
+547|<text>Sergiy Grushko</text>
+550|<text>Victoria Boyko</text>
+554|<text>Dubladores (Russo)</text>
+557|<text>Aleksandr </text>
+560|<text>Vilkov</text>
+563|<text>Anatoliy</text>
+566|<text> Bogush</text>
+569|<text>Andrey </text>
+572|<text>Podubinskiy</text>
+575|<text>Angelika </text>
+578|<text>Girich</text>
+581|<text>Evgeniy </text>
+584|<text>Malukha</text>
+587|<text>Grigoriy </text>
+590|<text>German</text>
+593|<text>Ivan </text>
+596|<text>Rozin</text>
+599|<text>Juriy </text>
+602|<text> Borisenok</text>
+605|<text>Oleg </text>
+608|<text>Stalchuk</text>
+611|<text>Ruslan </text>
+614|<text>Gofurov</text>
+617|<text>Vladimir </text>
+620|<text>Tereschuk</text>
+627|<text>THQ:</text>
+630|<text>THQ</text>
+633|<text>QA</text>
+636|<text>Diretora, Garantia de Qualidade</text>
+639|<text>Monica Vallejo</text>
+642|<text>Gerentes de QA</text>
+645|<text>Mario Waibel</text>
+648|<text>Michael Motoda</text>
+651|<text>Supervisor de Teste</text>
+654|<text>David Sapienza</text>
+657|<text>Lideres de Teste</text>
+660|<text>Warren Wong</text>
+664|<text>Testadores</text>
+667|<text>Adam</text>
+670|<text>Blais</text>
+673|<text>Aaron</text>
+676|<text>Lopez</text>
+679|<text>Andrew </text>
+682|<text>Aarsvold</text>
+685|<text>Carlos</text>
+688|<text>Aguilar</text>
+691|<text>Casey </text>
+694|<text>Letwinch</text>
+697|<text>Dustin </text>
+700|<text>Wiemer </text>
+703|<text>Eric</text>
+706|<text>Deerson</text>
+709|<text>Eric</text>
+712|<text>Whitebread</text>
+715|<text>Eric</text>
+718|<text>Swartz</text>
+721|<text>Evin </text>
+724|<text>Fiorentine</text>
+727|<text>Herb </text>
+730|<text>Rand</text>
+733|<text>Ian</text>
+736|<text>Tharpe</text>
+739|<text>John</text>
+742|<text>Padovan</text>
+745|<text>Jose </text>
+748|<text>Castaneda</text>
+751|<text>Chalermchai "Kata"</text>
+754|<text>Plianpho</text>
+757|<text>Kayron </text>
+760|<text>Moore</text>
+763|<text>Kevin </text>
+766|<text>Heeter</text>
+769|<text>Matt </text>
+772|<text>Oldfield</text>
+775|<text>Osvaldo</text>
+778|<text>Mejia</text>
+781|<text>Rory </text>
+784|<text>O'Donnell</text>
+787|<text>Rudy </text>
+790|<text>Escobar</text>
+793|<text>Ryan </text>
+796|<text>Johnson</text>
+799|<text>Scott </text>
+802|<text>Allman</text>
+805|<text>Scott </text>
+808|<text>Tester </text>
+811|<text>Selvin</text>
+814|<text>Wright</text>
+817|<text>Steven </text>
+820|<text>Malloy </text>
+823|<text>Tim</text>
+826|<text>Thurman</text>
+829|<text>Trevor </text>
+832|<text>Fong </text>
+835|<text>Walter </text>
+838|<text>Sexton</text>
+841|<text>Willis </text>
+844|<text>Kemp</text>
+848|<text>Especialista em PC</text>
+851|<text>Ruben Gonzalez</text>
+855|<text>Jonathan Bloch</text>
+858|<text>Bloch</text>
+862|<text>Christopher Leippi</text>
+865|<text>Leippi</text>
+871|<text>Supervisor de PC</text>
+874|<text>Jim Krenz</text>
+877|<text>Tecnicos de QA</text>
+880|<text>Richard Jones</text>
+883|<text>Michael Zlotnicki</text>
+886|<text>Justin Drolet</text>
+890|<text>Supervisor do Laboratorio de Masterizacao</text>
+893|<text>Anthony</text>
+896|<text>Dunnet</text>
+899|<text>Tecnicos do Laboratorio de Masterizacao</text>
+902|<text>Glen</text>
+905|<text>Peters</text>
+908|<text>T.Ryan</text>
+911|<text>Arnold</text>
+914|<text>Heidi</text>
+917|<text>Salguero</text>
+920|<text>Ryan</text>
+923|<text>Fell</text>
+926|<text>Gerente de Projeto de Remasterizacao</text>
+929|<text>Charles</text>
+932|<text>Batarse</text>
+936|<text>Administrador de Banco de Dados</text>
+939|<text>Jonathan Gill</text>
+942|<text>Engenheiro de Aplicacoes de Banco de Dados</text>
+945|<text>Brian Kincaid</text>
+949|<text>Equipe de Avaliacao de Jogos</text>
+952|<text>Scott</text>
+955|<text>Frazier</text>
+958|<text>Matt</text>
+961|<text>Elzie</text>
+964|<text>Eric</text>
+967|<text>Weiss</text>
+970|<text>Chris</text>
+973|<text>Emerson</text>
+976|<text>Especialista em Design de Fatores Humanos</text>
+979|<text>Ray</text>
+982|<text>Kowalewski</text>
+985|<text>David</text>
+988|<text>Wilson</text>
+992|<text>Coordenador de Operacoes de QA</text>
+995|<text>Steve Nelson</text>
+998|<text>Generalista de RH</text>
+1001|<text>Eve Waldman</text>
+1005|<text>Agradecimentos Especiais de QA</text>
+1008|<text>Mark Wagman</text>
+1012|<text>SEDE</text>
+1015|<text>EQUIPE EXECUTIVA</text>
+1018|<text>Vice-Presidente Executivo</text>
+1021|<text>Estudios Mundiais</text>
+1024|<text>Jack Sorenson</text>
+1027|<text>Publicacao Mundial</text>
+1030|<text>Kelly Flock</text>
+1034|<text>DESENVOLVIMENTO DE PRODUTOS</text>
+1037|<text>Vice-Presidente Senior,</text>
+1040|<text>Desenvolvimento de Produtos</text>
+1043|<text>Steve Dauterman</text>
+1047|<text>Produtor Executivo</text>
+1050|<text>Dean Sharpe</text>
+1053|<text>Produtor Associado</text>
+1056|<text>Evan Icenbice</text>
+1059|<text>Gerente Senior de Localizacao Global</text>
+1062|<text>Amy Small</text>
+1065|<text>Diretor de Localizacao Europeia</text>
+1068|<text>Susanne Dieck</text>
+1071|<text>Engenheiro de Localizacao Europeia</text>
+1074|<text>Bernd Kurtz</text>
+1077|<text>Tecnico de Localizacao</text>
+1080|<text>Andreas Herbertz</text>
+1084|<text>GERENCIAMENTO DE MARCA GLOBAL</text>
+1087|<text>Bob Aniello</text>
+1091|<text>Diretor, Marked One Global</text>
+1094|<text>Brad Carraway</text>
+1097|<text>Gerente de Marked One</text>
+1100|<text>Monica Robinson</text>
+1103|<text>Vice-Presidente,</text>
+1106|<text>Comunicacoes Corporativas</text>
+1109|<text>Liz Pieri</text>
+1112|<text>Gerente de RP Global</text>
+1115|<text>Guy Cunis</text>
+1119|<text>Gerente de Relacoes com a Midia</text>
+1122|<text>Rob Cassel</text>
+1125|<text>Vanessa Vanasin</text>
+1128|<text>Coordenador de Relacoes com a Midia</text>
+1131|<text>Craig Mitchell</text>
+1135|<text>Juridico</text>
+1138|<text>Brandy</text>
+1141|<text>Carrillo</text>
+1144|<text>Debbie</text>
+1147|<text>Fingerman</text>
+1150|<text>Jenni</text>
+1153|<text>Carlson</text>
+1156|<text>Jim</text>
+1159|<text>Kennedy</text>
+1163|<text>SERVICOS CRIATIVOS</text>
+1166|<text>Diretor - Servicos Criativos</text>
+1169|<text>Howard Liebeskind</text>
+1172|<text>Gerente de Servicos Criativos</text>
+1175|<text>Kirk Somdal</text>
+1179|<text>Gerente de Producao de Video</text>
+1182|<text>Christopher Folino</text>
+1185|<text>Coordenador de Producao de Video</text>
+1188|<text>Melissa Rivas</text>
+1192|<text>THQ INTERNACIONAL</text>
+1195|<text>Vice-Presidente Senior de Publicacao Europeia</text>
+1198|<text>Ian Curran</text>
+1201|<text>Diretor, Gerenciamento de Marked One Global</text>
+1204|<text>Michael Pattison</text>
+1208|<text>Gerente Senior de Marked One Global</text>
+1211|<text>Mickey Torode</text>
+1214|<text>Gerente de Marked One Global</text>
+1217|<text>Claudia Kuehl</text>
+1220|<text>Gerente Assistente de Marked One Global</text>
+1223|<text>Anthony Newall</text>
+1227|<text>Gerente Online</text>
+1231|<text>Huw Beynon</text>
+1235|<text>Gerente de Produto do Reino Unido</text>
+1240|<text>Laura Disney</text>
+1244|<text>Gerente de RP do Reino Unido</text>
+1248|<text>Helen Jones</text>
+1252|<text>Gerente de Marketing de Exportacao</text>
+1255|<text>Gayle Shepherd</text>
+1258|<text>Luke Keighran</text>
+1261|<text>Gerente de Produto, Alemanha</text>
+1264|<text>Melanie Skrok</text>
+1267|<text>Chefe de RP, Alemanha</text>
+1270|<text>Georg Reckenthaler</text>
+1274|<text>Gerente de Marketing, Nordico</text>
+1277|<text>Henrik Viby</text>
+1280|<text>Gerente de RP, Nordico</text>
+1283|<text>Peter Jakobsen</text>
+1286|<text>Gerente Senior de Produto, Franca</text>
+1289|<text>Jeremy Goldstein</text>
+1292|<text>Gerente de RP, Franca</text>
+1295|<text>Jerome Benzadon</text>
+1299|<text>Gerente de Produto, Espanha</text>
+1302|<text>Javier Manu</text>
+1305|<text>Gerente de RP, Espanha</text>
+1308|<text>Jorge Nicolas Vazquez</text>
+1311|<text>Gerente de Marketing e RP, Benelux</text>
+1314|<text>Robin Wolff</text>
+1318|<text>Gerente de Produto, Asia-Pacifico</text>
+1321|<text>Chris Wright</text>
+1324|<text>Coordenador de RP e Promocoes,</text>
+1327|<text>Asia-Pacifico</text>
+1330|<text>Drew Taylor</text>
+1333|<text>Gerente de Produto da Coreia</text>
+1336|<text>James Jung</text>
+1339|<text>Gerente de Produto do Japao</text>
+1342|<text>Takahiro Morita</text>
+1346|<text>Diretor de Arte Internacional</text>
+1349|<text>Till Enzmann</text>
+1352|<text>Operador de DTP (ICS)</text>
+1355|<text>Anja</text>
+1358|<text>Johnen</text>
+1361|<text>Detlef</text>
+1364|<text>Tapper</text>
+1367|<text>Dirk</text>
+1370|<text>Offenberg</text>
+1373|<text>Jens</text>
+1376|<text>Spangenberg</text>
+1379|<text>Jorg</text>
+1382|<text>Stauvermann</text>
+1385|<text>Ramona</text>
+1388|<text>Sackers</text>
+1391|<text>Ramona</text>
+1394|<text>Stell</text>
+1398|<text>CENTRO DE LOCALIZACAO CD PROJEKT</text>
+1401|<text>Gerente de Projeto</text>
+1404|<text>Pawel Grzywaczewski</text>
+1407|<text>Testadores Lideres</text>
+1410|<text>Lukasz Watroba</text>
+1413|<text>Elzbieta Pustul</text>
+1416|<text>Zbigniew Wojtania</text>
+1419|<text>Marcin Stranowski</text>
+1424|<text>Testadores</text>
+1427|<text>Jan</text>
+1430|<text>Piotrowski</text>
+1433|<text>Kamil</text>
+1436|<text>Spolny</text>
+1439|<text>Artur</text>
+1442|<text>Skoczek</text>
+1445|<text>Michal</text>
+1448|<text>Slupecki</text>
+1451|<text>Mateusz</text>
+1454|<text>Dybiec</text>
+1457|<text>Michal</text>
+1460|<text>Wielebski</text>
+1463|<text>Lukasz</text>
+1466|<text>Chorek</text>
+1469|<text>Sylwester</text>
+1472|<text>Zajdel</text>
+1475|<text>Hubert</text>
+1478|<text>Jadczak</text>
+1481|<text>Karol</text>
+1484|<text>Falak</text>
+1487|<text>Przemyslaw</text>
+1490|<text>Sulkowski</text>
+1493|<text>Wojciech</text>
+1496|<text>Krukowski</text>
+1499|<text>Blazej</text>
+1502|<text>Jozwik</text>
+1505|<text>Arkadiusz</text>
+1508|<text>Szczytowski</text>
+1511|<text>Mateusz</text>
+1514|<text>Pomianowski</text>
+1517|<text>Marek</text>
+1520|<text>Przyjemski</text>
+1523|<text>Andrzej</text>
+1526|<text>Bucko</text>
+1529|<text>Aleksandra</text>
+1532|<text>Iwanow</text>
+1535|<text>Karol</text>
+1538|<text>Krol</text>
+1541|<text>Maciej </text>
+1544|<text>Roguski</text>
+1547|<text>Piotr</text>
+1550|<text>Wonko</text>
+1553|<text>Michal </text>
+1556|<text>Jedrzejewski</text>
+1559|<text>Grzegorz</text>
+1562|<text>Kohorewicz</text>
+1565|<text>Damian</text>
+1568|<text>Polkowski</text>
+1571|<text>Jacek</text>
+1574|<text>Rzadca</text>
+1577|<text>Pawel</text>
+1580|<text>Gorzkowski</text>
+1583|<text>Maciej </text>
+1586|<text>Dobrodziej</text>
+1589|<text>Dominik </text>
+1592|<text>Rzeznicki</text>
+1595|<text>Arkadiusz</text>
+1598|<text>Pawlowski</text>
+1601|<text>Lukasz </text>
+1604|<text>Chotnicki</text>
+1607|<text>Agradecimentos especiais da CD Projekt para:</text>
+1610|<text>Maciej Graj</text>
+1613|<text>Jacek Dabrowski</text>
+1616|<text>Dominika Szulc-Lewandowska </text>
+1619|<text>Dariusz Centkowski</text>
+1623|<text>Escrita Adicional</text>
+1626|<text>Ernest Adams</text>
+1629|<text>Teste Linguistico realizado</text>
+1632|<text>pela Babel Media Ltd.</text>
+1635|<text>Norbert Cleve</text>
+1638|<text>Igor Lungo</text>
+1641|<text>Hoang-Minh Luu</text>
+1644|<text>Bruno Diez</text>
+1647|<text>Som projetado</text>
+1650|<text>pela Bob and Barn Ltd.</text>
+1653|<text>Audio em Ingles gravado</text>
+1656|<text>pela VoiceWorks Productions</text>
+1659|<text>Supervisores de Som</text>
+1662|<text>Andrew Barnabas</text>
+1665|<text>Paul Arnold</text>
+1668|<text>Designers de Som</text>
+1671|<text>Andrew Brock</text>
+1674|<text>Dave Sullivan</text>
+1678|<text>Armas gravadas em:</text>
+1681|<text>Crawford Private Range, Roundrock, Texas </text>
+1684|<text>Texas Tactical Outdoor Range, Henley, Texas </text>
+1687|<text>Stevens' Farm, Bay, Arkansas </text>
+1690|<text>Disused Gravel Pit, Bono, Arkansas </text>
+1694|<text>Manipuladores de Armas:</text>
+1697|<text>Clark Crawford</text>
+1700|<text>Aaron Marco</text>
+1703|<text>Steve Ou, para Spreadfire Arms</text>
+1706|<text>Steve Stevens</text>
+1709|<text>Gary Meeker</text>
+1712|<text>Gravacao e Pos-Producao por Andrew Brock </text>
+1715|<text>Performances Vocais de Criaturas por Paul Arnold e Andrew Brock</text>
+1718|<text>Artistas de Foley - Andrew Barnabas e Dave Sullivan</text>
+1724|<text>CERA PLASTICA:</text>
+1727|<text>Diretor</text>
+1730|<text>Nathan Maddams</text>
+1733|<text>Produtor Executivo</text>
+1736|<text>Tony Pittorino</text>
+1739|<text>Produtores</text>
+1742|<text>Tim Kreibig</text>
+1745|<text>Rebecca Tolliday</text>
+1748|<text>Rodney Whitham</text>
+1751|<text>Gerente de Producao</text>
+1754|<text>Kirsty Simmons</text>
+1757|<text>Lider de Modelagem</text>
+1760|<text>Guy Robinson</text>
+1763|<text>Modelagem</text>
+1766|<text>Damien</text>
+1769|<text>Mahoney</text>
+1772|<text>Michael</text>
+1775|<text>Paget</text>
+1778|<text>Shamus</text>
+1781|<text>Baker</text>
+1784|<text>David</text>
+1787|<text>Little</text>
+1790|<text>Dean</text>
+1793|<text>Wood</text>
+1796|<text>Richard</text>
+1799|<text>Pritchard</text>
+1802|<text>Lider de Textura e Pintura Matte</text>
+1805|<text>Kris Pedlow</text>
+1808|<text>Artista de Textura</text>
+1811|<text>Tyrone Maddams</text>
+1814|<text>Mocap</text>
+1817|<text>Sina Azad</text>
+1820|<text>Animacao, Mocap</text>
+1823|<text>Samuel Maniscalco</text>
+1826|<text>Lider de Animacao</text>
+1829|<text>Damien </text>
+1832|<text> Simper</text>
+1835|<text>Animacao</text>
+1838|<text>Chris</text>
+1841|<text>Wilson</text>
+1844|<text>Kate </text>
+1847|<text> Kerrigan</text>
+1850|<text>Philip </text>
+1853|<text> To</text>
+1856|<text>Ray </text>
+1859|<text> Willis</text>
+1862|<text>Lider de Renderizacao de Iluminacao</text>
+1865|<text>David Brown</text>
+1868|<text>Renderizacao de Iluminacao</text>
+1871|<text>Ian Douglass</text>
+1874|<text>Lider de Composicao</text>
+1877|<text>Ron Roberts</text>
+1880|<text>Composicao</text>
+1883|<text>Adam Jones</text>
+1886|<text>Matthew French</text>
+1889|<text>Peter Spinaze</text>
+1892|<text>FX</text>
+1895|<text>Hugh </text>
+1898|<text> Carrick-Allan</text>
+1901|<text>Sidney </text>
+1904|<text> Cheng</text>
+1907|<text>Christopher </text>
+1910|<text> Harris</text>
+1913|<text>Adam </text>
+1916|<text> MacGowan</text>
+1919|<text>Cloth FX</text>
+1922|<text>Animacao Eye Candy</text>
+1925|<text>Design de Som e Composicao</text>
+1928|<text>Stuart Spoard</text>
+1935|<text>Agradecimentos especiais:</text>
+1938|<text>Vladimir Avdeev</text>
+1941|<text>Sveta</text>
+1944|<text>Ladimir</text>
+1947|<text>Menno Wittebrood</text>
+1950|<text>Jason Meyer</text>
+1955|<text>Alexander Novikov, Igor Gramotkin</text>
+1958|<text>e o restante da equipe da Usina de Chernobyl</text>
+1961|<text>e administracao pelo seu apoio</text>
+1964|<text>Administracao da Zona de Exclusao de Chernobyl</text>
+1967|<text>por nos permitir fazer nossas exploracoes malucas</text>
+1970|<text>Rimma Kiselitsa , Marina Polyakova</text>
+1973|<text>e o restante da equipe da agencia Chernobylinterinform</text>
+1976|<text>por cuidar bem de nos e nos alimentar</text>
+1979|<text>com muita informacao e almocos nutritivos</text>
+1982|<text>________________</text>
+1985|<text>|</text>
+1988|<text>Alexander Naumov por sua grande</text>
+1991|<text>contribuicao informativa e sua nobre missao</text>
+1994|<text>Thomas Boecker, Markus Holler</text>
+1997|<text>e o restante da Merregnon Studios</text>
+2000|<text>(http://merregnon-studios.com/)</text>
+2003|<text>por seus esforcos na criacao</text>
+2006|<text>de otimas musicas orquestrais para nos</text>
+2009|<text>banda FIRELAKE (www.firelake.kiev.ua)</text>
+2012|<text>e seus amigos Addaraya</text>
+2015|<text>pelas trilhas sonoras de rock</text>
+2018|<text>-= BASE DE FAS! =-</text>
+2021|<text>Agradecemos de coracao Waquar HeadHunter Tariq,</text>
+2024|<text>Alexey Don Reba Badalov, Emile aka Redrick,</text>
+2027|<text>Peter Sjoberg, Pixel, Michi, nasa800, LPKorn3324,</text>
+2030|<text>Leks, Cpcat, Rad-X, Sosed, Amoki, Claws,</text>
+2033|<text>Siro/Dennis, Nicklas Ridewing, Otto Bahmann </text>
+2036|<text>e Mike Bretschneider, cractus01, Marcel Kleffmann,</text>
+2039|<text>Nikolay Dashevsky, Abe, Anton Brovko, Mario, fen1x,</text>
+2043|<text>Dima Kudryavcev, Ruben Cos, Soeren Haraldsted,</text>
+2046|<text>Lev Sokolov aka Davinci, Max Popenker, Matthias Krahenbuhl,</text>
+2049|<text>DEICIDE[NBF], Martin Diermayr, Markus Rothhammer, Stefan Aumann</text>
+2052|<text>Stefan Herr (BADBOY) P-90, Blake Sherrill, THOMAS KRAUSE,</text>
+2055|<text>Jeremias "aevirex" Yehdegho, Holoduk, Vyacheslav Romanchenko,</text>
+2058|<text>Yan Oleshkovskiy aka Mad Dog, Samael aka Arimanov, RVCool,</text>
+2061|<text>Lestat, Sergey Pivin, Gall, Critic, Dmitriy DoN Rumata Kozlov,</text>
+2064|<text>Kondratiev S.A., Dmitriy Kalinin, Max Tarasov, Andrey Rogozin aka Raga,</text>
+2067|<text>Michael Alesich, Piedimonte Alessandro, Bad, Marf, Vantala,</text>
+2070|<text>Behringer, DA_Star, STALKER Sanek, Dave Miller (P R E Y)</text>
+2074|<text>Goodspeed, Ian_C, Grisly Silence, Midnight Rambler, Dale Oleverio,</text>
+2077|<text>ruintertained, UltimateGecko, Snowgim, Franz La Zerte, Chickenballz,</text>
+2081|<text>Alan Nogueira da Gama e muitos mais de voces </text>
+2084|<text>ao redor do mundo que apoiaram apaixonadamente</text>
+2087|<text>S.T.A.L.K.E.R. durante todos esses anos</text>
+2090|<text>De toda a equipe, OBRIGADO a todos voces que</text>
+2093|<text>ja nos ajudaram a fazer S.T.A.L.K.E.R. acontecer</text>
+2096|<text>e nos encorajaram, nao importa o que!</text>
+2099|<text>Seus bons esforcos nao serao esquecidos!</text>
+2104|<text>Gostariamos de agradecer aos projetos de codigo aberto:</text>
+2108|<text>ode.org pelo motor de fisica (Open Dynamic Engine, ODE)</text>
+2111|<text>lua.org pela linguagem de script (Lua)</text>
+2114|<text>luajit.luaforge.net pelo compilador Lua just-in-time (LuaJIT)</text>
+2117|<text>www.rasterbar.com/produtos/luabind.html pela biblioteca de ligacao Lua (Luabind)</text>
+2120|<text>xiph.org para codecs de video (Theora) e audio (Vorbis)</text>
+2123|<text>jrsoftware.org para instalador (Inno Setup)</text>
+2126|<text>openal.org para biblioteca de audio (OpenAL)</text>
+2129|<text>boost.org para biblioteca de modelos (Boost)</text>
+2132|<text>sourceforge.net/projetos/loki-lib para biblioteca de modelos (Loki)</text>
+2135|<text>Don Clugston (codeproject.com/cpp/FastDelegate.asp http://www.codeproject.com/cpp/FastDelegate.asp)</text>
+2138|<text>para sua biblioteca fastdelegate (fastdelegate)</text>
+2142|<text>intelle-soft.com para biblioteca gratuita de captura de bugs BugTrap</text>
+2146|<text>Tambem agradecemos as empresas que ajudaram na otimizacao do jogo:</text>
+2150|<text>Intel</text>
+2153|<text>AMD</text>
+2156|<text>nVidia</text>

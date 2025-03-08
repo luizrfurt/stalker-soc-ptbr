@@ -1,0 +1,43 @@
+4|<text>Preciso de respostas para varias perguntas.</text>
+7|<text>Pergunte, vou tentar ajudar.</text>
+10|<text>Onde estao minhas coisas?</text>
+13|<text>O lider geralmente guarda todas as coisas confiscadas. O quarto dele fica no ultimo andar. Minhas coisas foram levadas para la quando me pegaram.</text>
+16|<text>Obrigado!</text>
+19|<text>Como posso sair daqui?</text>
+22|<text>Quando eles estavam me levando por ai, notei uma grade de esgoto embaixo da escada no primeiro andar... Se voce conseguisse abrir a cela, seria possivel sair daqui usando esse esgoto... E melhor ir para o oeste e entao voce pode usar o tunel para chegar a Freedom.</text>
+25|<text>Obrigado pela informacao.</text>
+28|<text>Quem nos capturou?</text>
+31|<text>Estamos sendo mantidos pelos Mercs. Ninguem sabe ao certo quem eles sao, mas ha rumores de que trabalham em conjunto com servicos de inteligencia estrangeiros. A localizacao desta base e ultrassecreta - ninguem sabe como entrar na Dead City. Muitas pessoas estao muito interessadas nessas informacoes, especialmente a Freedom e a Duty.</text>
+34|<text>Continue.</text>
+37|<text>Se voce conseguir um mapa da Dead City, um ataque bem-sucedido sera possivel. Os Mercs ou os bandidos provavelmente tem um. Voce poderia tentar conseguir.</text>
+40|<text>Obrigado pela informacao.</text>
+43|<text>O que voce sabe sobre este lugar?</text>
+46|<text>A cidade esta dividida em duas secoes. Estamos do lado dos Mercs. Ao sul, alem da praca, e onde os bandidos estao. Eles estao entrincheirados no predio da escola a sudoeste da cidade. Entre as bases, ha um predio de cinco andares em ruinas e alguns relativamente intactos. Se a merda bater no ventilador, voce pode esperar la. Ha tambem algumas garagens e algumas pequenas casas ao redor dessa area. Ha um par de predios de cinco andares e uma duzia de garagens do lado dos bandidos tambem. O antigo predio do conselho municipal fica do outro lado da praca.</text>
+49|<text>Obrigado pela informacao.</text>
+52|<text>Quem esta no comando aqui?</text>
+55|<text>Um cara realmente desagradavel chamado Dushman. Eu o vi carregando uma pasta com alguns documentos algumas vezes. Acho que ha algo interessante la dentro.</text>
+58|<text>Obrigado pela informacao.</text>
+61|<text>Nao, nada.</text>
+64|<text>Strelok! Onde diabos voce esteve??? Nao vejo voce nem os caras desde o ultimo ataque! Eu estava ficando preocupado!</text>
+67|<text>Entao, voce esta se sentindo melhor? Pensando claramente?</text>
+70|<text>Strelok???</text>
+73|<text>Sim, voce e Strelok! Quem mais voce seria? Eu sou Doc, voce nao me reconhece? O que aconteceu com voce, amigo? Voce nao parece bem. Nos entramos na Zona juntos por 2 anos. Voce realmente nao se lembra de mim?</text>
+76|<text>Nao, eu nao me lembro.</text>
+79|<text>Voce nao se lembra??? Strelok, o que...? Voce nao esta brincando, esta? Cara... E os caras, nossos caras? Fang, Ghost? Voce se lembra deles, nao lembra?</text>
+82|<text>Nao me lembro de Fang, e Ghost esta morto - encontrei o corpo dele em Yantar.</text>
+85|<text>Ghost!!?!?! Morto??!!! Droga, como isso pode acontecer?! Eles... eles eram os melhores. O que aconteceu com voce?</text>
+88|<text>Nao sei o que aconteceu, nao me lembro.</text>
+91|<text>Espere, preciso me acalmar. Isso e uma noticia de merda, cara. Acho que esta tudo ligado a sua ultima viagem a Zona. Quando nos vimos pela ultima vez, voce me deixou a chave do esconderijo em Prypiat e o mapa de como encontra-lo. Consegui guarda-lo - escondi dos Mercs. Aqui, pegue, esconda bem. Talvez voce encontre algo la. Voce estava dizendo que havia algum truque com o Monolito. Mas eu nao entendi do que se tratava, e voce tambem nao.</text>
+94|<text>Entendo. Onde estamos? Nao me lembro de como cheguei aqui.</text>
+97|<text>Estamos na Dead City! No acampamento dos Mercs.</text>
+100|<text>Estamos na Dead City!.. No acampamento dos Mercs...</text>
+103|<text>A proposito, tenho informacoes sobre os Mercs. Interessado?</text>
+106|<text>Depende da informacao.</text>
+109|<text>Tenho um mapa que detalha a localizacao da base deles, postos de guarda, a maneira de entrar sem ser notado e muito mais.</text>
+112|<text>Parece valioso. Te dou 3000 por ele.</text>
+115|<text>Fechado. Aqui esta.</text>
+118|<text>Otimo! Aqui esta sua recompensa. Em breve, os stalkers discutirao se os Mercs sequer existiram!</text>
+121|<text>Nao, isso nao e suficiente.</text>
+124|<text>Como quiser, nao vou te dar mais nada.</text>
+127|<text>Nada que valha a pena. Apenas a fofoca de sempre. Desculpe.</text>
+130|<text>Se voce descobrir algo mais especifico, volte. Eu te pago.</text>

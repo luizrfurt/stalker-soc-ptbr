@@ -1,0 +1,17 @@
+4|<text>Ataquem!</text>
+7|<text>Vou pegar o artefato! Me cubram.</text>
+10|<text>Me sigam!</text>
+13|<text>Guardem o artefato. Ainda nao ataquem!</text>
+16|<text>Estou mantendo a posicao</text>
+19|<text>Mantenham a posicao!</text>
+22|<text>Vao pegar o artefato! Eu cubro voces.</text>
+25|<text>Preciso de ajuda</text>
+28|<text>Sem dinheiro, comprem algum equipamento</text>
+31|<text>Nao</text>
+34|<text>Ninguem por perto</text>
+37|<text>Relatorio da situacao!</text>
+40|<text>Recuar!</text>
+43|<text>Entendido</text>
+46|<text>Silencio, todos!</text>
+49|<text>Fiquem juntos</text>
+52|<text>Vao pegar o artefato!</text>

@@ -1,0 +1,94 @@
+4|<text>Thanks for your help, stalker! If you hadn't shown up, I'd be a dead man by now.</text>
+7|<text>I am looking for information about Strelok, maybe you know something?</text>
+10|<text>How do I get into the basement?</text>
+13|<text>Strelok's secret stash?</text>
+16|<text>Thanks for the information.</text>
+19|<text>Yes, I heard about that. They even say he used to "work" in these parts and Strelok's stash is in the local basements. Rumor has it that his group's base was here too.</text>
+22|<text>This is one of the many exits which will lead you into the interconnected basements. Once you're in there, you're on your own - I don't have a map and the basement network is huge and confusing.</text>
+25|<text>I'm looking for info on Strelok. Seriy told me you know something about him.</text>
+28|<text>Thank you.</text>
+31|<text>Yeah, we looked for it too but couldn't find it. I'll send you some info about it. That's everything we have on the stash.</text>
+34|<text>What's going on here?</text>
+37|<text>We're fighting, or more specifically, camping out like sitting ducks. Talk to Mole if you want to know more - he's the leader.</text>
+40|<text>Man, that was a fight and a half - you wouldn't wish something like that on your worst enemy. Those army boys are getting pretty cocky!</text>
+43|<text>Where is the Agroprom Research Institute?</text>
+46|<text>Not far from here. Follow the road to the West and you'll come to the Institute's gates.</text>
+49|<text>I hear the military have set up a base there, right?</text>
+52|<text>Thanks for the information.</text>
+55|<text>Yeah, there's a military base. I'm not sure how many of them there are exactly but it's at least a platoon. They're well-armed and you've got no chance of breaking through - they'll take you down before you can say "hello, comrades". The best way of getting in is during the night 'cause the base is well-guarded during the day - they got checkpoints everywhere and anyway, I heard a deserter-soldier from that base is hiding in the marshes. If you can find him I'm sure you can shake some useful info out of him.</text>
+58|<text>What's going on?</text>
+61|<text>Me and my boys found a nice little area full of artifacts but those army bastards attacked us for some reason. I don't know what the hell they wanted from us...</text>
+64|<text>Yeah, I've heard about him. I think he used to "make his living" in this area - it's quite a good place, actually. He left a long time ago; I don't know when it was exactly and I've got no clue where he was headed. That's everything I can tell you.</text>
+67|<text>You weren't waiting here for no reason, were you? Otherwise why would the Spetsnaz show up here?</text>
+70|<text>OK, I know something about Strelok.</text>
+73|<text>Yeah? I really need to know that!</text>
+76|<text>If you lied to me, I'll find you and finish what the soldiers couldn't!</text>
+79|<text>I'm not lying. I know that nobody trusts anyone here so you have little choice.</text>
+82|<text>Seriy? Well, OK, listen. They say Strelok used to sneak around here. On top of that, his stash is somewhere around here below ground. I heard his group even has its base here. We also looked for the stash but we found jack shit. I'll give you the info about the stash, maybe you'll be luckier. This is everything we have on the stash.</text>
+85|<text>What else do you know?</text>
+88|<text>I don't know anything else. I told you everything I knew and now you have to work it out on your own. Good luck to you.</text>
+91|<text>Help me, stalker!!!</text>
+94|<text>OK.</text>
+97|<text>Don't shoot, man!</text>
+100|<text>What are you doing?</text>
+103|<text>I'm coming back from the factory which is a bit further down the road. I don't know how but the army found out about our group. I didn't wait for them to show up and took off as quickly as I could. I hope our boys got out of there 'cause otherwise they won't be alive for much longer - you saw the choppers yourself.</text>
+106|<text>I see, thanks.</text>
+109|<text>I see, thanks.</text>
+112|<text>I've got a couple of questions.</text>
+115|<text>What do you want to know?</text>
+118|<text>Anything interesting in the area?</text>
+121|<text>How much do you need?</text>
+124|<text>Here, take the money. Now tell me where it is.</text>
+127|<text>Piss off!</text>
+130|<text>Thank you.</text>
+133|<text>Yeah, there are a couple of places but you'll have to share some of your wealth, buddy.</text>
+136|<text>It used to be pretty quiet but now the army has got all excited and started wasting everyone. They smoked the bandits out recently and I hear some managed to escape into the catacombs.</text>
+139|<text>Thirty, deal?</text>
+142|<text>The exit from the railway tunnel is nearby. It's fairly safe in the dead end. At least nobody has been eaten while sleeping...yet.  Also, to the Northwest of the factory you'll find a marsh with a wagon in it.  But be careful, there's a shitload of radiation around it, so it's best to approach it from the western side. Oh, and one more thing: a soldier has been spotted there. He's likely to be from the military base at the Institute. The poor bastard is probably crazy - he's been there for a couple of days and I doubt he'll survive much longer on his own.</text>
+145|<text>Bye!</text>
+148|<text>Anything interesting happening here?</text>
+151|<text>Do you know about Ratcatcher? The info will cost you 30.</text>
+154|<text>Deal.</text>
+157|<text>We have a local hero around here called Ratcatcher. He lives in the marshes. The man bred so many rats in the collectors that they'll soon eat those army bastards.</text>
+160|<text>Great. Thanks.</text>
+163|<text>Tell me more about the collectors.</text>
+166|<text>Collectors are your standard shit-stinking sewers that take waste from the Institute and dumps it in the nearest water reservoir. </text>
+169|<text>Great. See you and take care of yourself.</text>
+172|<text>I know that already. Thanks.</text>
+175|<text>I don't have anything else to tell you.</text>
+178|<text>I don't have enough cash.</text>
+181|<text>I'm not interested.</text>
+184|<text>Anything interesting happening here?</text>
+187|<text>Nothing. Absolutely nothing.</text>
+190|<text>I see. Bye!</text>
+193|<text>Tell me about this place.</text>
+196|<text>This is the area around the Agroprom Research Institute. The Institute itself is to the Southwest. The factory, which served as the Institute's technical production facility, is to the North. The buildings have been abandoned for a long time and there's nothing to be found there, but the army has been searching there very actively recently.</text>
+199|<text>Tell me more about the Institute.</text>
+202|<text>There are loads of legends about the Institute. Before the accident in 1986 the only thing here was the Institute of Crop Selection and Genetics. The area where the factory is now was used for experimental crop fields. After the accident, they closed the Institute and burned the fields. Then they remembered about it, they whitewashes the building, put up a fence around it and built some barracks. I don't know what they did at the Institute but they didn't have any shortage of funding, that's for sure.</text>
+205|<text>Tell me more about the factory.</text>
+208|<text>The factory was built at the end of the 80s. They said it was going to be used to build and test machines that could treat soil affected by radiation. As far as I know, nobody ever saw a single machine come out of that plant. It's totally empty now, which makes it a favorite spot for stalkers. I hear the place is pretty safe as long as you avoid the dark corners.</text>
+211|<text>Thank you.</text>
+214|<text>What are you doing?</text>
+217|<text>I'm hiding here, I don't want no trouble.</text>
+220|<text>Who are you hiding from?</text>
+223|<text>Catacombs?</text>
+226|<text>Do you know where they keep documents at the Institute?</text>
+229|<text>What are you going to do now?</text>
+232|<text>What are you going to do now?</text>
+235|<text>I am from the recon unit. They sent us into the catacombs to see what's going on below the base. It's hell down there, I'm telling you. I was the only one to get out of there... everyone else is probably dead by now. I don't want to go back to the base - those bastards are always using us to plug up all the holes in this damn Zone.</text>
+238|<text>Underground tunnels. They go from the Institute to the area around it - I'll show you the entrances. I don't have maps of the catacombs themselves.</text>
+241|<text>At the HQ. It's on the third floor of the Institute. That's where they keep those damn papers. But it's a mission getting there. By day, the area is teaming with patrols but not as much at night. I'll tell you this for free: if you wanna get inside you'll have to go through the catacombs - you stand no chance at the gate.</text>
+244|<text>Hmm. I don't know. I am a deserter according to the military code and I need to get out of the Zone somehow. When we first got here there was a Zaporozhets in the garage that was almost working. I brought it back to life in half an hour but that damn captain took it for himself claiming he should have it according to the code. He drove it along this road and dumped it in the rain by the gate. If only I could get that car - making a run for it is much safer on wheels!</text>
+247|<text>Hello.</text>
+250|<text>What's up?</text>
+253|<text>Tell me about the collector. How do I get inside? Where are the exits and entrances?</text>
+256|<text>It's dangerous inside the collector. There are six entrances and two of them are in the area around the Institute where the military have set up a base. That area is patrolled and the captain keeps the patrol schedule in his armory.</text>
+259|<text>How do you know all that?</text>
+262|<text>The rats told me.</text>
+265|<text>I see. Bye! Good luck to you.</text>
+268|<text>Nothing. See you.</text>
+271|<text>Who are you?</text>
+274|<text>I live here, if you can call this a life. I breed rats in the collector to annoy the military at the Institute.</text>
+277|<text>I am Ratcatcher.</text>
+280|<text>What are you doing in this marsh?</text>
+283|<text>Oh... I get it.... well, I'm from another story. Ha-ha-ha...</text>

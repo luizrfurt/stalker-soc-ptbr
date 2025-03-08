@@ -1,0 +1,13 @@
+2|<text>Captain's armory</text>
+5|<text>Catacomb entrance</text>
+8|<text>Factory</text>
+11|<text>Find Strelok's secret stash in the catacombs</text>
+14|<text>Give the documents to the Barkeep</text>
+17|<text>Save Mole</text>
+20|<text>Save the stalkers</text>
+23|<text>Meet Mole</text>
+26|<text>Agroprom Research Institute. Military base</text>
+29|<text>Safe place</text>
+32|<text>Steal the documents</text>
+35|<text>Get information about the stash from Mole</text>
+38|<text>Zaporozhets</text>

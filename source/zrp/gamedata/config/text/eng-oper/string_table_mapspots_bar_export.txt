@@ -1,0 +1,7 @@
+2|<text>Arena.</text>
+5|<text>100 Rads Bar.</text>
+8|<text>Duty faction base</text>
+11|<text>Wolfhound and his cutthroats by the chopper</text>
+14|<text>Professor Kruglov</text>
+17|<text>Ambush by the factory</text>
+20|<text>Wolfhound.</text>

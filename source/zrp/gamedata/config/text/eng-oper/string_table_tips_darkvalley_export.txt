@@ -1,0 +1,3 @@
+2|<text>Help save a friend.</text>
+5|<text>The bandit base was attacked by the military. The entrance to the Garbage is blocked, but there is an old road to the South. You can use it, but you want to be careful. Good luck.</text>
+8|<text>Help, I'm dying.</text>

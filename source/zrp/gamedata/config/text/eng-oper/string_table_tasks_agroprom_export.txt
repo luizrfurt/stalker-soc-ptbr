@@ -1,0 +1,26 @@
+2|<text>Find out what happened to Ghost</text>
+5|<text>Strelok's stash</text>
+8|<text>Save Mole</text>
+11|<text>Help Mole fight off the soldiers</text>
+14|<text>Kill the soldiers</text>
+17|<text>Save Mole</text>
+20|<text>Help the stalkers</text>
+23|<text>Help the stalkers fight off the soldiers</text>
+26|<text>Kill the soldiers</text>
+29|<text>Help the stalkers fight off the soldiers</text>
+32|<text>Meet the stalkers</text>
+35|<text>Get information about Strelok</text>
+38|<text>Get information from Mole</text>
+41|<text>Meet Mole's group</text>
+44|<text>Get info from Mole</text>
+47|<text>Find Strelok's group's stash</text>
+50|<text>Find Strelok's group's stash</text>
+53|<text>Find the stash</text>
+56|<text>Find information about Strelok in the stash</text>
+59|<text>Find the way out of the underground</text>
+62|<text>Find Ghost</text>
+65|<text>Ghost knows where Strelok is.</text>
+68|<text>Find the militaries' documents</text>
+71|<text>Agroprom Research Institute</text>
+74|<text>Steal the militaries' documents</text>
+77|<text>Take the documents to the Barkeep</text>

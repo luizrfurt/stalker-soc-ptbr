@@ -1,0 +1,49 @@
+4|<text>Ei!</text>
+7|<text>Ei!</text>
+10|<text>Onde esta o dinheiro da missao?</text>
+13|<text>Encontre meu vice e voce recebera seu dinheiro!</text>
+16|<text>OK, mas nao minta para mim desta vez!</text>
+19|<text>Quem e voce?</text>
+22|<text>Leha Queixada e meu nome! Esses bandidos sao minha equipe!</text>
+25|<text>O que voce esta fazendo aqui?</text>
+28|<text>Meus rapazes e eu estamos descansando! Quando terminarmos, iremos para Prypiat!</text>
+31|<text>O que voce sabe sobre Prypiat?</text>
+34|<text>E uma velha cidade abandonada da era comunista! Da historia! Acho que esta cheia de monstros e hordas de combatentes da Monolith agora! Ninguem que foi la antes voltou!</text>
+37|<text>Voce acha que e perigoso?</text>
+40|<text>Sem duvida - ninguem nunca voltou de la.</text>
+43|<text>Voce viu algum soldado por perto?</text>
+46|<text>Nao, nao vejo nenhum soldado ha muito tempo.</text>
+49|<text>E stalkers militares?</text>
+52|<text>Ha rumores de que eles apareceram perto da Red Forest, perto das antenas! Quando foram desligadas, muitas pessoas foram para a Red Forest e mais adiante em Prypiat! Estamos aqui ha um dia e nao vimos ninguem. Alguem provavelmente bloqueou a estrada aqui.</text>
+55|<text>Voce acha que os militares bloquearam a estrada para a Red Forest?</text>
+58|<text>Nao acho que foram os militares, nao vejo nenhum ha muito tempo, mas os stalkers militares poderiam ter feito isso! Eles nao perdem tempo. Eles sao do tipo direto, trabalham de forma rapida e eficiente em suas equipes ou sozinhos... e estranho que eles nao tenham bloqueado a estrada aqui antes.</text>
+61|<text>Por que eles nao foram para Prypiat ou bloquearam a estrada la?</text>
+64|<text>Nao sei. Talvez estejam com medo ou se preparando para algo. So posso adivinhar.</text>
+67|<text>Talvez voce tenha uma missao para mim?</text>
+70|<text>Bem, eu tenho uma, mas nao e facil... voce faria?</text>
+73|<text>Dizer que nao e facil nao me assusta!</text>
+76|<text>Nao, de jeito nenhum. Nao tenho tempo!</text>
+79|<text>Entendo. Eu mesmo estou com medo... preferiria gastar algum dinheiro em vez de mandar meus caras ou ir eu mesmo.</text>
+82|<text>Bom! O trabalho e encontrar meus batedores, Pe de Cabra e Lenhador! Eles foram para Prypiat, ja que decidi nao me apressar e mandei meus melhores caras em vez disso! Encontre-os vivos e traga-os aqui. Se estiverem mortos, traga-me suas armas! Faca isso por mim e voce recebera 2000!!!</text>
+85|<text>OK, fechado!</text>
+88|<text>Nao e o suficiente. Que tal 4000 e fechamos negocio?</text>
+91|<text>Isso e tudo que posso oferecer para este trabalho!</text>
+94|<text>OK, vou esperar por voce aqui!</text>
+97|<text>Missao cumprida!</text>
+100|<text>Otimo, me de o PDA dele!</text>
+103|<text>Aqui. Agora o dinheiro!</text>
+106|<text>Voce esta tentando me enganar. Ele nao tinha nada!</text>
+109|<text>Vou te desperdicar agora mesmo!</text>
+112|<text>Se eu te vir de novo, voce e homem morto!</text>
+115|<text>OK, entendo. Boa sorte!</text>
+118|<text>Nao posso te dar nada, nao tenho dinheiro. Pode ficar com as coisas dele, se quiser.</text>
+121|<text>Nao tenho dinheiro! Va embora!</text>
+124|<text>Nao consegui encontra-lo!</text>
+127|<text>Encontre-o rapido se quiser seu dinheiro!</text>
+130|<text>Encontrei seus rapazes. Eles morreram, mas aqui estao suas armas!</text>
+133|<text>Obrigado, entao eles estao mortos. Acho que nao faz sentido ir para Prypiat agora! Ha um problema, porem - nao tenho seu dinheiro. Meu vice desapareceu e ele tinha todo o dinheiro!</text>
+136|<text>OK, eu vou encontra-lo! Diga-me onde procura-lo. E nem pense em tentar me enganar de novo!!!</text>
+139|<text>Acho que ele nao foi muito longe. Ele provavelmente esta aqui ou aqui, vou marcar no mapa para voce! Quando encontra-lo, traga-o ou seu PDA de volta para ca!</text>
+142|<text>OK, espere por mim!!!</text>
+145|<text>Nao consegui encontra-los.</text>
+148|<text>Encontre-os rapido! Nao posso esperar para sempre!!! Boa sorte!</text>

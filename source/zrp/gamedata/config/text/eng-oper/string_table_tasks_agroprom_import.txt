@@ -1,0 +1,26 @@
+2|<text>Descubra o que aconteceu com Ghost</text>
+5|<text>Esconderijo de Strelok</text>
+8|<text>Salve Mole</text>
+11|<text>Ajude Mole a lutar contra os soldados</text>
+14|<text>Mate os soldados</text>
+17|<text>Salve Mole</text>
+20|<text>Ajude os stalkers</text>
+23|<text>Ajude os stalkers a lutar contra os soldados</text>
+26|<text>Mate os soldados</text>
+29|<text>Ajude os stalkers a lutar contra os soldados</text>
+32|<text>Encontre os stalkers</text>
+35|<text>Obtenha informacoes sobre Strelok</text>
+38|<text>Obtenha informacoes de Mole</text>
+41|<text>Encontre o grupo de Mole</text>
+44|<text>Obtenha informacoes de Mole</text>
+47|<text>Encontre o esconderijo do grupo de Strelok</text>
+50|<text>Encontre o esconderijo do grupo de Strelok</text>
+53|<text>Encontre o esconderijo</text>
+56|<text>Encontre informacoes sobre Strelok no esconderijo</text>
+59|<text>Encontre a saida do subterraneo</text>
+62|<text>Encontre Ghost</text>
+65|<text>Ghost sabe onde Strelok esta.</text>
+68|<text>Encontre os documentos dos militares</text>
+71|<text>Agroprom Research Institute</text>
+74|<text>Roube os documentos dos militares</text>
+77|<text>Leve os documentos para Barkeep</text>

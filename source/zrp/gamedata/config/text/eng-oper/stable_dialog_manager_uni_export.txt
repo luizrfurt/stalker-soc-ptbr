@@ -1,0 +1,9 @@
+4|<text>What are you doing here?</text>
+7|<text>Can you tell me something interesting?</text>
+10|<text>Don't know anything else.</text>
+13|<text>Take the bandage.</text>
+16|<text>Take the first aid kit.</text>
+19|<text>Interested in information. For money.</text>
+22|<text>I can offer the following:</text>
+25|<text>Can't offer anything.</text>
+28|<text>Some other time.</text>

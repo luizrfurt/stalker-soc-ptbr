@@ -1,0 +1,50 @@
+2|<text>Assist at Freedom's Barrier outpost.</text>
+5|<text>Snitch.</text>
+8|<text>Deal with the snitch.</text>
+11|<text>Get to the farmstead.</text>
+14|<text>Wait until the snitch brings out his agent.</text>
+17|<text>Get rid of the snitch.</text>
+20|<text>Get rid of the agent.</text>
+23|<text>Report to Lukash about the mission.</text>
+26|<text>Crazy stalker.</text>
+29|<text>Duty faction</text>
+32|<text>Help the Duty faction eliminate Lukash</text>
+35|<text>Kill Lukash</text>
+38|<text>Get rid of the sniper</text>
+41|<text>Return to the Duty farmstead and receive my fee</text>
+44|<text>Return to Skull</text>
+47|<text>Outpost commander Cap</text>
+50|<text>Help destroy the Monolith's strike squad</text>
+53|<text>Talk to Barrier outpost commander</text>
+56|<text>Find the cook in the Freedom base</text>
+59|<text>Obtain an Bulldog 6 from Freedom</text>
+62|<text>Report to Max.</text>
+65|<text>Go to the Freedom base to see Skinflint and get a reward</text>
+68|<text>Receive a reward for the destroyed bloodsuckers</text>
+71|<text>Find Murk in the village</text>
+74|<text>Kill the bloodsuckers</text>
+77|<text>Return to Skinflint for the artifact</text>
+80|<text>Kill the bloodsuckers in the village</text>
+83|<text>Kill the bloodsuckers</text>
+86|<text>Kill the bloodsuckers</text>
+89|<text>Destroy the Duty squad.</text>
+92|<text>Lukash.</text>
+95|<text>Max.</text>
+98|<text>Give Max the flash drive.</text>
+101|<text>Kill the tower sniper</text>
+104|<text>Report about the mission to the Duty squad</text>
+107|<text>Return to Lukash.</text>
+110|<text>Report to Murk about the mission</text>
+113|<text>Bring the Bulldog 6 to General Voronin</text>
+116|<text>Find Bulldog 6</text>
+119|<text>Bandit cache.</text>
+122|<text>Sniper.</text>
+125|<text>Get a flash drive from the crazy sniper.</text>
+128|<text>Talk to Chef</text>
+131|<text>Talk to Cap, the Freedom outpost commander</text>
+134|<text>Enter restrictor 1</text>
+137|<text>Enter restrictor 2</text>
+140|<text>Lift the Bulldog 6 in the air if mission is complete, the TRs 301 in case of failure</text>
+143|<text>Test mission</text>
+146|<text>Murk.</text>
+149|<text>Destroy the Duty company</text>

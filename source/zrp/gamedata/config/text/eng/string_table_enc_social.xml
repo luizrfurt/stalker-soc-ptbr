@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="Army">
+		<text>Exercito</text>
+	</string>
+	<string id="Bandits">
+		<text>Bandidos</text>
+	</string>
+	<string id="Duty">
+		<text>Faccao Duty</text>
+	</string>
+	<string id="enc_social_military_army">
+		<text>Soldados regulares do exercito. Eles guardam todas as estradas para a Zona, patrulham seu perimetro, matam mutantes e cacam saqueadores. \nForcas Especiais - tropas de elite do exercito, geralmente enviadas para a Zona para realizar operacoes de resgate e outras missoes especiais.</text>
+	</string>
+	<string id="enc_social_military_milstalkers">
+		<text>Soldados que passaram por treinamento especial apos seu servico na Zona ou stalkers que assinaram voluntariamente um contrato com o Exercito. Geralmente equipados com varios equipamentos de apoio e bem armados. Usados principalmente para estudar as causas e efeitos da catastrofe e para mapear a Zona. Eles podem trabalhar sozinhos ou em pequenas unidades de ate cinco pessoas. Stalkers militares nao permitem que stalkers normais se aproximem e abrem fogo a vista.</text>
+	</string>
+	<string id="enc_social_scientists_mobile-groups">
+		<text>Apagado</text>
+	</string>
+	<string id="enc_social_scientists_mobile-labs">
+		<text>Um laboratorio movel se assemelha a um pequeno bunker blindado com pequenas janelas de vidro contaminado. O laboratorio e capaz de suportar muitos danos e, com seus sistemas de suporte de vida confiaveis, pode funcionar autonomamente por varios meses. O bunker e entregue na Zona por um helicoptero de transporte. A equipe do laboratorio nunca permite visitantes alem da camara de bloqueio de ar externa, entao nenhum stalker jamais esteve dentro de um.</text>
+	</string>
+	<string id="enc_social_stalker-clans_bandits">
+		<text>Membros do submundo do crime que vieram para a Zona por diferentes motivos: ganhar dinheiro vendendo artefatos, esconder-se da lei ou negociar armas. A Zona 1  esta cheia de bandidos, desde bandidos comuns a criminosos serios, a maioria dos quais sao membros de uma gangue ou outra. Embora as gangues da Zona frequentemente lutem entre si, o elemento criminoso ainda representa um problema serio para os stalkers normais.</text>
+	</string>
+	<string id="enc_social_stalker-clans_duty">
+		<text>Um grupo paramilitar conhecido por sua disciplina, cujos membros vivem de acordo com um codigo estrito. Os membros da Duty sao o unico grupo que se recusa a negociar itens exclusivos da Zona com o mundo exterior. Segundo rumores, todos os artefatos encontrados pelo grupo sao repassados aos cientistas. Seus membros consideram a protecao do mundo exterior dos perigos da Zona seu principal objetivo. A maioria das operacoes do grupo diz respeito a destruicao de monstros, portanto, as incursoes da Duty frequentemente salvam os stalkers normais de problemas serios. A faccao esta em guerra com a Freedom ha muito tempo.</text>
+	</string>
+	<string id="enc_social_stalker-clans_freedom">
+		<text>Anarquistas e aventureiros que se declaram lutadores pelo livre acesso a Zona e, consequentemente, se encontram em conflito constante com o exercito, stalkers militares e a faccao Duty. Esses chamados guerreiros da liberdade acreditam em compartilhar todas as informacoes sobre a Zona com o resto do mundo e desafiam o monopolio do estado sobre os segredos e maravilhas da Zona.</text>
+	</string>
+	<string id="enc_social_stalker-clans_killers">
+		<text>A faccao mais clandestina e secreta da Zona; alguns nem acreditam em sua existencia. Ha aqueles que usam regularmente os servicos dos Mercs, pois sao verdadeiros profissionais, capazes de lidar rapidamente com qualquer stalker e ate aniquilar um pequeno grupo de oponentes. Seus servicos nao sao baratos - os Mercs exigem um resgate real por seus servicos em dinheiro ou artefatos. A localizacao de sua base permanece um segredo, sugerindo que esta no fundo da Zona.</text>
+	</string>
+	<string id="enc_social_stalker-clans_loners">
+		<text>Stalkers explorando a Zona por conta propria. A maioria dos stalkers trabalha dessa forma, ja que ser membro de um grupo leva um tempo precioso e parte do saque. Depois, ha alguns que simplesmente preferem a solidao e a independencia.</text>
+	</string>
+	<string id="enc_social_stalker-clans_monolith">
+		<text>Este grupo exibe muitas caracteristicas de uma seita religiosa. Seus membros acreditam na existencia de um cristal alienigena complexo, o Monolito, localizado em algum lugar no centro da Zona. A maioria dos stalkers trata os adeptos do Monolito com desprezo e os considera lunaticos. Desde a sua criacao, o grupo se esforca para bloquear todo o progresso em direcao ao centro da Zona, protegendo o Monolito de outros stalkers. Corre o rumor de que o grupo tem uma grande base no fundo da Zona, mas sua localizacao exata e conhecida apenas pelos membros.</text>
+	</string>
+	<string id="enc_social_stalker-clans_zomstalkers">
+		<text>Almas pobres sujeitas a exposicao prolongada em Yantar e alguns outros setores altamente irradiados. Stalkers descuidados enlouqueceram e se transformaram em cadaveres ambulantes. Muitos desses cadaveres vagam pela Zona, alguns vagam ate o perimetro. Eles estao alem da ajuda porque o processo destrutivo e irreversivel. Stalkers zumbificados ainda sao capazes de usar suas armas, mas sao bastante burros e podem ser ouvidos murmurando frases fragmentadas e sem sentido para si mesmos. Eles gradualmente perdem todas as suas habilidades e se transformam em zumbis. Eles geralmente sao muito agressivos e podem representar uma ameaca seria em grande numero.</text>
+	</string>
+	<string id="Freedom">
+		<text>Faccao Freedom</text>
+	</string>
+	<string id="Killers">
+		<text>Mercs</text>
+	</string>
+	<string id="Loners">
+		<text>Stalkers Loners</text>
+	</string>
+	<string id="Military">
+		<text>Unidades militarizadas</text>
+	</string>
+	<string id="Milstalkers">
+		<text>Stalkers militares</text>
+	</string>
+	<string id="Mobile-groups">
+		<text>Grupos de pesquisa</text>
+	</string>
+	<string id="Mobile-labs">
+		<text>Laboratorio cientifico movel</text>
+	</string>
+	<string id="Monolith">
+		<text>Faccao Monolith</text>
+	</string>
+	<string id="Scientists">
+		<text>Cientistas</text>
+	</string>
+	<string id="Social">
+		<text>Faccoes</text>
+	</string>
+	<string id="Stalker-clans">
+		<text>Clas de Stalkers</text>
+	</string>
+	<string id="Zomstalkers">
+		<text>Stalkers zumbificados</text>
+	</string>
+</string_table>

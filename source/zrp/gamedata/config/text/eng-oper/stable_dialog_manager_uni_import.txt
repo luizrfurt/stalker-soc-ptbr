@@ -1,0 +1,9 @@
+4|<text>O que voce esta fazendo aqui?</text>
+7|<text>Pode me contar algo interessante?</text>
+10|<text>Nao sei de mais nada.</text>
+13|<text>Pegue a atadura.</text>
+16|<text>Pegue o kit de primeiros socorros.</text>
+19|<text>Interessado em informacoes. Por dinheiro.</text>
+22|<text>Posso oferecer o seguinte:</text>
+25|<text>Nao posso oferecer nada.</text>
+28|<text>Em outra hora.</text>

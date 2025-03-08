@@ -1,0 +1,24 @@
+2|<text>Find the documents in the underground lab</text>
+5|<text>Take the key to the lab from Borov</text>
+8|<text>Get out of the bandit base</text>
+11|<text>Find the entrance to the lab</text>
+14|<text>Sneak into the base</text>
+17|<text>Find the documents in X18</text>
+20|<text>Find the documents</text>
+23|<text>Bring the documents to the Barkeep</text>
+26|<text>Find the codelocked door</text>
+29|<text>Discover the code that opens the door</text>
+32|<text>Open the door using the code</text>
+35|<text>Open the door to the control center</text>
+38|<text>Discover the code that opens the door</text>
+41|<text>Open the door using the code</text>
+44|<text>Free the Dutyer</text>
+47|<text>Follow Bullet to the ambush location</text>
+50|<text>Kill the bandits and rescue the Dutyer</text>
+53|<text>Return to the trader</text>
+56|<text>Return to the trader</text>
+59|<text>Get out of the Dark Valley</text>
+62|<text>Show documents to the trader</text>
+65|<text>Free the Dutyer from prison</text>
+68|<text>Pull the Dutyer out of the bandit prison</text>
+71|<text>Free the Duty member from the bandit prison</text>

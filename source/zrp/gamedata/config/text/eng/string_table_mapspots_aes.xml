@@ -1,0 +1,39 @@
+	<string id="aes_btr1">
+		<text>Tatu 1</text>
+	</string>
+	<string id="aes_btr2">
+		<text>Tatu 2</text>
+	</string>
+	<string id="aes_btr3">
+		<text>Tatu 3</text>
+	</string>
+	<string id="aes_grif">
+		<text>Grifo</text>
+	</string>
+	<string id="aes_korshun">
+		<text>Korshun</text>
+	</string>
+	<string id="aes_kvartet">
+		<text>Kvartet</text>
+	</string>
+	<string id="aes_lun">
+		<text>Lun</text>
+	</string>
+	<string id="aes_pustelga">
+		<text>Peneireiro</text>
+	</string>
+	<string id="aes_sapsan">
+		<text>Falcao-peregrino</text>
+	</string>
+	<string id="aes_sarcofag_hint">
+		<text>Entrada do Sarcophagus</text>
+	</string>
+	<string id="aes_sokol">
+		<text>Falcao</text>
+	</string>
+	<string id="aes_sova">
+		<text>Coruja</text>
+	</string>
+	<string id="aes_yastreb">
+		<text>Gaviao</text>
+	</string>

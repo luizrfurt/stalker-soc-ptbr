@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="item test1">
+		<text>Esta e uma string de teste de ITEM</text>
+	</string>
+	<string id="item test2">
+		<text>Esta e outra string de teste de ITEM</text>
+	</string>
+	<string id="item_case_esc_desc">
+		<text>Pasta a prova de fogo com documentos.</text>
+	</string>
+	<string id="item_decoder_desc">
+		<text>Chave eletronica poderosa. Estranhamente, nao parece ser um instrumento de ladroes multiuso. Em vez disso, parece ter sido criado com uma fechadura eletronica especifica em mente e nao pode ser usado para ignorar mais nada.</text>
+	</string>
+	<string id="item_decoder_name">
+		<text>Decodificador</text>
+	</string>
+	<string id="item_detector_yantar_desc">
+		<text>Detector de psi-emissao</text>
+	</string>
+	<string id="item_detector_yantar_name">
+		<text>Sensor PP-4a</text>
+	</string>
+	<string id="item_doc_x16_desc">
+		<text>Arquivo de documento de plastico. Voce precisaria de um diploma em biologia para entender uma palavra do que diz.</text>
+	</string>
+	<string id="item_doc_x16_name">
+		<text>Documentos do Lab X16</text>
+	</string>
+	<string id="item_doc_x18_desc">
+		<text>Uma pilha grossa de documentos cientificos. Termos, formulas e varios diagramas</text>
+	</string>
+	<string id="item_doc_x18p1_name">
+		<text>Documentos do Lab X18, parte 1</text>
+	</string>
+	<string id="item_doc_x18p2_name">
+		<text>Documentos do Lab X18, parte 2</text>
+	</string>
+	<string id="item_doc_x18p3_name">
+		<text>Documentos do Lab X18, parte 3</text>
+	</string>
+	<string id="item_doc_x18p4_name">
+		<text>Documentos do Lab X18, parte 4</text>
+	</string>
+	<string id="item_doc_x18p5_name">
+		<text>Documentos do Lab X18, parte 5</text>
+	</string>
+	<string id="item_docs_hiden_pri_desc">
+		<text>Manuscrito gasto em encadernacao de couro. Escrito pelo proprio Strelok. A julgar apenas pelos titulos, pode explicar alguns dos segredos da Zona.</text>
+	</string>
+	<string id="item_docs_hiden_pri_name">
+		<text>Documentos do esconderijo secreto em Prypiat</text>
+	</string>
+	<string id="item_dynamite_esc_desc">
+		<text>Uma caixa de madeira pesada com a palavra "Explosivos" escrita em varios idiomas</text>
+	</string>
+	<string id="item_dynamite_esc_name">
+		<text>Caixa de explosivos</text>
+	</string>
+	<string id="item_flash_crazy_mil_desc">
+		<text>Pendrive - maneira conveniente de armazenar e transferir informacoes.</text>
+	</string>
+	<string id="item_flash_crazy_mil_name">
+		<text>O pendrive do stalker louco</text>
+	</string>
+	<string id="item_flash_eco_rost_desc">
+		<text>Pendrive - maneira conveniente de armazenar e transferir informacoes.</text>
+	</string>
+	<string id="item_flash_eco_rost_name">
+		<text>O pendrive do Professor Kruglov</text>
+	</string>
+	<string id="item_flash_esc_desc">
+		<text>Pendrive - maneira conveniente de armazenar e transferir informacoes.</text>
+	</string>
+	<string id="item_flash_esc_name">
+		<text>O pendrive do stalker cativo</text>
+	</string>
+	<string id="item_flash_gslinger_agro_desc">
+		<text>Pendrive - maneira conveniente de armazenar e transferir informacoes.</text>
+	</string>
+	<string id="item_flash_gslinger_agro_name">
+		<text>O pendrive de Strelok</text>
+	</string>
+	<string id="item_key_x18_desc">
+		<text>Chave eletronica para o Lab X18 subterraneo.</text>
+	</string>
+	<string id="item_key_x18_name">
+		<text>Chave de Borov</text>
+	</string>
+	<string id="item_krot_flash">
+		<text>Pendrive de Mole</text>
+	</string>
+	<string id="item_PDA_lucky_desc">
+		<text>Assistente digital pessoal. Indispensavel na Zona.</text>
+	</string>
+	<string id="item_PDA_lucky_name">
+		<text>PDA de Lucky</text>
+	</string>
+	<string id="item_PDA_tiran_desc">
+		<text>Assistente digital pessoal. Indispensavel na Zona.</text>
+	</string>
+	<string id="item_PDA_tiran_name">
+		<text>PDA de Tyran</text>
+	</string>
+	<string id="item_quest_case_02_desc">
+		<text>Uma pasta a prova de fogo com documentos.</text>
+	</string>
+	<string id="item_quest_case_02_name">
+		<text>Documentos militares</text>
+	</string>
+	<string id="item_case_esc_name">
+		<text>Documentos do posto avancado</text>
+	</string>
+	<string id="yan_bad_psy_helmet_desc">
+		<text>Prototipo desenvolvido por cientistas para proteger as pessoas de psi-emissoes. Nao ajustado.</text>
+	</string>
+	<string id="yan_bad_psy_helmet_name">
+		<text>Psi-capacete nao ajustado.</text>
+	</string>
+	<string id="yan_good_psy_helmet_desc">
+		<text>Prototipo funcional desenvolvido por cientistas para proteger as pessoas de psi-emissoes</text>
+	</string>
+	<string id="yan_good_psy_helmet_name">
+		<text>Psi-capacete funcional</text>
+	</string>
+</string_table>

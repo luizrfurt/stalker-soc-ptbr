@@ -1,0 +1,134 @@
+4|<text>O artefato foi destruido.</text>
+7|<text>O artefato surgiu. Leve-o para a base para marcar um ponto.</text>
+10|<text>Artefatos</text>
+13|<text>Artefatos</text>
+16|<text>Selecao automatica</text>
+19|<text>Voltar</text>
+22|<text>Banir</text>
+25|<text>por anomalia</text>
+28|<text>Cancelar</text>
+31|<text>Mudar mapa</text>
+34|<text>Mudar clima</text>
+37|<text>Bate-papo</text>
+40|<text>conectado</text>
+43|<text>mortes</text>
+46|<text>Descricao</text>
+49|<text>desconectado</text>
+52|<text>Digite o texto para a votacao</text>
+55|<text>entrou no jogo</text>
+58|<text>(Visao em primeira pessoa)</text>
+61|<text>abates</text>
+64|<text>Abates</text>
+67|<text>(Camera livre)</text>
+70|<text>(Visao em terceira pessoa)</text>
+73|<text>com</text>
+76|<text>VAI!</text>
+79|<text>deixou cair o artefato %s</text>
+82|<text>pegou o artefato %s</text>
+85|<text>Mercs</text>
+88|<text>agora e</text>
+91|<text>se juntou</text>
+94|<text>Soltar</text>
+97|<text>(Livre-travado)</text>
+100|<text>Descricao do mapa</text>
+103|<text>Partida iniciada!</text>
+106|<text>Modos</text>
+109|<text>nome</text>
+112|<text>Proximo</text>
+115|<text>Nao votou</text>
+118|<text>ping</text>
+121|<text>Jogador %s venceu a partida!</text>
+124|<text>Jogadores</text>
+127|<text>Pressione Atirar para mudar para o modo Espectador</text>
+130|<text>Pressione Pular para comprar um renascimento instantaneo</text>
+133|<text>Pressione Pular para selecionar uma skin</text>
+136|<text>Pressione Pular para selecionar equipes</text>
+139|<text>Pressione Pular para surgir</text>
+142|<text>Pressione Pular para iniciar</text>
+145|<text>Pressione ($$ACTION_BUY_MENU$$) para acessar o menu de compra</text>
+148|<text>Voce tem %d$. Voce pode renascer por %d$. Clique em Sim para pagar.</text>
+151|<text>Pronto...</text>
+154|<text>Reiniciar</text>
+157|<text>Reiniciar rapido</text>
+160|<text>marcou um ponto</text>
+163|<text>Selecione o jogador para banir por votacao</text>
+166|<text>Selecione a categoria de votacao</text>
+169|<text>Selecione o jogador para expulsar por votacao</text>
+172|<text>Selecione o jogador para expulsar por votacao</text>
+175|<text>Selecione o mapa para votar</text>
+178|<text>Selecao de skins</text>
+181|<text>Espectador</text>
+184|<text>ESPECTADORES</text>
+187|<text>status</text>
+190|<text>mudou para</text>
+193|<text>Freedom</text>
+196|<text>Selecao de equipe</text>
+199|<text>Equipe %s VENCEU!</text>
+202|<text>Texto</text>
+205|<text>Tempo ate o renascimento</text>
+208|<text>Tempo ate o inicio:</text>
+211|<text>Tempo restante: %d:%d; Concordancia %.2f</text>
+214|<text>Nao</text>
+217|<text>Sim</text>
+220|<text>votou</text>
+223|<text>contra</text>
+226|<text>a favor</text>
+229|<text>Votacao cancelada pelo servidor!</text>
+232|<text>Votacao '%s' foi iniciada por %s.</text>
+235|<text>Votacao iniciada!</text>
+238|<text>Limpar</text>
+241|<text>Nublado</text>
+244|<text>Noite</text>
+247|<text>Chuvoso</text>
+250|<text>Apunhalado pelas costas!!!</text>
+253|<text>Tiro na cabeca!!!</text>
+256|<text>Sua posicao agora e</text>
+259|<text>Descricao</text>
+262|<text>Freedom</text>
+265|<text>Mercs</text>
+268|<text>Artefato</text>
+271|<text>E voce</text>
+274|<text>Aliado</text>
+277|<text>Base da Freedom</text>
+280|<text>Base dos Mercs</text>
+283|<text>Nao</text>
+286|<text>Sim</text>
+289|<text>min</text>
+292|<text>seg</text>
+295|<text>Rotacao de Mapas</text>
+298|<text>Votacao</text>
+301|<text>Ativado</text>
+304|<text>Desativado</text>
+307|<text>Modos de Espectador:</text>
+310|<text>Nome do Servidor:</text>
+313|<text>Versao:</text>
+316|<text>- Voo Livre</text>
+319|<text>- Primeira Pessoa</text>
+322|<text>- Terceira Pessoa</text>
+325|<text>- Visao Livre</text>
+328|<text>- Apenas Equipe</text>
+331|<text>Limite de Abates</text>
+334|<text>Limite de Tempo</text>
+337|<text>- Indicadores</text>
+340|<text>- Tempo</text>
+343|<text>Invencibilidade:</text>
+346|<text>Anomalias</text>
+349|<text>Periodo de Anomalias</text>
+352|<text>Infinito</text>
+355|<text>Renascimento Forcado</text>
+358|<text>Aquecimento</text>
+361|<text>Balanceamento Automatico de Equipe</text>
+364|<text>Troca Automatica de Equipe</text>
+367|<text>Indicadores de Aliados</text>
+370|<text>Nomes de Aliados</text>
+373|<text>Fogo Amigo</text>
+376|<text>Artefatos:</text>
+379|<text>- Contagem</text>
+382|<text>- Tempo de Permanencia</text>
+385|<text>- Tempo de Renascimento</text>
+388|<text>Renascimento</text>
+391|<text>Artefato capturado</text>
+394|<text>Qualquer hora</text>
+397|<text>Bases Protegidas</text>
+400|<text>Jogadores retornaram as bases</text>
+403|<text>Sem corrida com artefato</text>

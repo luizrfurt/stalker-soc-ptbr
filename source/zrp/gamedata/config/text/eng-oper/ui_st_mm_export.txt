@@ -1,0 +1,109 @@
+4|<text>clear</text>
+7|<text>cloudy</text>
+10|<text>medium</text>
+13|<text>maximum</text>
+16|<text>master</text>
+19|<text>novice</text>
+22|<text>stalker</text>
+25|<text>veteran</text>
+28|<text>high</text>
+31|<text>low</text>
+34|<text>minimum</text>
+37|<text>check CD-Key</text>
+40|<text>night</text>
+43|<text>rainy</text>
+46|<text>Static lighting</text>
+49|<text>Full dynamic lighting</text>
+52|<text>Objects dynamic lighting</text>
+55|<text>Artifact hunt</text>
+58|<text>Free for all</text>
+61|<text>Experienced</text>
+64|<text>legendary stalker</text>
+67|<text>novice</text>
+70|<text>professional</text>
+73|<text>Veteran</text>
+76|<text>Team play</text>
+79|<text>"Agroprom" factory</text>
+82|<text>Vehicle station</text>
+85|<text>Dark Valley</text>
+88|<text>"Yantar" factory</text>
+91|<text>Desolated village</text>
+94|<text>Military warehouses</text>
+97|<text>Pool</text>
+100|<text>Railway station</text>
+103|<text>"Rostok" factory</text>
+106|<text>Deserted factory</text>
+109|<text>Frequency 60Hz</text>
+112|<text>action</text>
+115|<text>Advanced</text>
+118|<text>Anisotropic filtering</text>
+121|<text>Use</text>
+124|<text>Back</text>
+127|<text>Blood</text>
+130|<text>Brightness</text>
+133|<text>Cancel</text>
+136|<text>Contrast</text>
+139|<text>Controls</text>
+142|<text>Credits</text>
+145|<text>Crosshair target distance</text>
+148|<text>Delete</text>
+151|<text>Difficulty</text>
+154|<text>Disconnect</text>
+157|<text>Are you sure you want to disconnect?</text>
+160|<text>Dynamic crosshair</text>
+163|<text>EAX</text>
+166|<text>Full screen</text>
+169|<text>Game</text>
+172|<text>Gamma</text>
+175|<text>Objects detail</text>
+178|<text>Invert mouse</text>
+181|<text>button</text>
+184|<text>Keyboard setup</text>
+187|<text>Last save</text>
+190|<text>Lighting distance</text>
+193|<text>Load</text>
+196|<text>Load game</text>
+199|<text>Master</text>
+202|<text>SFX Volume</text>
+205|<text>Mouse sensitivity</text>
+208|<text>NETWORK GAME</text>
+211|<text>Network game</text>
+214|<text>Music volume</text>
+217|<text>Changes will take effect only after game restart</text>
+220|<text>New game</text>
+223|<text>Novice</text>
+226|<text>NPC flashlights</text>
+229|<text>OPTIONS</text>
+232|<text>Options</text>
+235|<text>Particles distance</text>
+238|<text>Quality settings</text>
+241|<text>Quit game</text>
+244|<text>Are you sure you want to quit the game?</text>
+247|<text>Are you sure you want to exit to Windows?</text>
+250|<text>Exit to Windows</text>
+253|<text>Render</text>
+256|<text>Resolution</text>
+259|<text>Return to game</text>
+262|<text>Save</text>
+265|<text>Save game</text>
+268|<text>Show crosshair</text>
+271|<text>Show weapon</text>
+274|<text>Basic</text>
+277|<text>Sound</text>
+280|<text>Sound quality</text>
+283|<text>Stalker</text>
+286|<text>Shadows quality</text>
+289|<text>Antialiasing</text>
+292|<text>AI uses flashlights</text>
+295|<text>Textures detail</text>
+298|<text>NPC identification</text>
+301|<text>Veteran</text>
+304|<text>Video</text>
+307|<text>Vision distance</text>
+310|<text>Vertical sync</text>
+313|<text>Last preset</text>
+316|<text>Preset 1</text>
+319|<text>Preset 2</text>
+322|<text>Preset 3</text>
+325|<text>Reset</text>
+328|<text>Sell all</text>

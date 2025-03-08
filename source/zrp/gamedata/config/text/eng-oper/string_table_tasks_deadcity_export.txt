@@ -1,0 +1,5 @@
+2|<text>Secret stash at Pripyat</text>
+5|<text>Find the secret stash of the Shooter at Pripyat</text>
+8|<text>Get to the hotel.</text>
+11|<text>Find the room with the secret stash</text>
+14|<text>Look the secret stash over</text>
