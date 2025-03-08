@@ -241,7 +241,7 @@
 724|<text>Um stalker, um ex-dutyer, que tinha muitas informacoes importantes sobre objetos em Prypiat, recentemente mudou para o lado da Freedom. Ele precisa ser morto antes que diga demais.</text>
 727|<text>Escute aqui. Temos mapas de Prypiat - nao os atuais, mas os antigos, feitos no inicio dos anos 90. A coisa mais importante neles e a marcacao de todos os objetos militares: armazens subterraneos, abrigos antiaereos. Agora ha pouco uso disso, e claro, mas se encontrarmos uma estrada para Prypiat, essa informacao se tornara inestimavel. No entanto, aqui esta o problema. Um dos oficiais passou para o lado da Freedom e ele sabia sobre essas informacoes. Resumindo, ele precisa ser silenciado antes que diga demais.</text>
 730|<text>Volte para a recompensa.</text>
-733|<text>Leve ao cliente o que foi prometido.</text>
+733|<text>Entregue ao cliente o que foi prometido.</text>
 736|<text>Encontre o traje aperfeicoado.</text>
 739|<text>Nimble nos contou sobre o esconderijo dos bandidos onde eles esconderam o saque. Ele esta pedindo para trazer de volta o traje roubado, por uma recompensa, e claro.</text>
 742|<text>Enquanto eu estava em cativeiro, ouvi os bandidos falando sobre seu esconderijo secreto, onde eles guardam o saque. Ouvi dizer que eles esconderam um casaco legal la, e no dia seguinte algum monstro colocou o olho no esconderijo. E ele ficou tao interessado nisso que agora eles tem medo de ir la. Faca-me um favor, traga-me o traje, e eu lhe pagarei bem.</text>
