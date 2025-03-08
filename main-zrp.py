@@ -175,13 +175,14 @@ def create_release_zip():
         os.makedirs(release_dir)
     
     # Conta os arquivos já existentes na pasta release
-    existing_files = [f for f in os.listdir(release_dir) 
-                  if os.path.isfile(os.path.join(release_dir, f)) 
-                  and f.startswith("stalker-soc-traducao-ptbr-zrp-v")]
-    next_version = len(existing_files) + 1  # Número da próxima versão
+    # existing_files = [f for f in os.listdir(release_dir) 
+    #               if os.path.isfile(os.path.join(release_dir, f)) 
+    #               and f.startswith("stalker-soc-traducao-ptbr-zrp-v")]
+    # next_version = len(existing_files) + 1  # Número da próxima versão
 
     # Caminho para o arquivo zip a ser criado, com a versão dinâmica no nome
-    zip_file_path = os.path.join(release_dir, f"stalker-soc-traducao-ptbr-zrp-v{next_version}.zip")
+    # zip_file_path = os.path.join(release_dir, f"stalker-soc-traducao-ptbr-zrp-v{next_version}.zip")
+    zip_file_path = os.path.join(release_dir, f"stalker-soc-traducao-ptbr-zrp.zip")
 
     # Cria o arquivo zip e adiciona os arquivos e diretórios desejados
     with zipfile.ZipFile(zip_file_path, 'w', zipfile.ZIP_DEFLATED) as zipf:
@@ -234,4 +235,4 @@ if __name__ == "__main__":
 
     # 7. cria um arquivo zip com os arquivos necessários para a release
     # create release zip
-    # create_release_zip()
+    create_release_zip()
